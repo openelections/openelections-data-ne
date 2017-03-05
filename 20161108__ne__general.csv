@@ -1,0 +1,593 @@
+county,office,district,party,candidate,votes
+Burt,President,1,Republican,Donald J. Trump,2367
+Burt,President,1,Democratic,Hillary Clinton,930
+Burt,President,1,Libertarian,Gary Johnson,197
+Burt,President,1,By Petition,Jill Stein,39
+Burt,President,1,Write In,Write In,25
+Butler,President,1,Republican,Donald J. Trump,3079
+Butler,President,1,Democratic,Hillary Clinton,691
+Butler,President,1,Libertarian,Gary Johnson,129
+Butler,President,1,By Petition,Jill Stein,27
+Butler,President,1,Write In,Write In,55
+Cass,President,1,Republican,Donald J. Trump,8452
+Cass,President,1,Democratic,Hillary Clinton,3484
+Cass,President,1,Libertarian,Gary Johnson,639
+Cass,President,1,By Petition,Jill Stein,132
+Cass,President,1,Write In,Write In,226
+Colfax,President,1,Republican,Donald J. Trump,2171
+Colfax,President,1,Democratic,Hillary Clinton,859
+Colfax,President,1,Libertarian,Gary Johnson,118
+Colfax,President,1,By Petition,Jill Stein,26
+Colfax,President,1,Write In,Write In,40
+Cuming,President,1,Republican,Donald J. Trump,3122
+Cuming,President,1,Democratic,Hillary Clinton,719
+Cuming,President,1,Libertarian,Gary Johnson,157
+Cuming,President,1,By Petition,Jill Stein,26
+Cuming,President,1,Write In,Write In,50
+Dixon,President,1,Republican,Donald J. Trump,130
+Dixon,President,1,Democratic,Hillary Clinton,54
+Dixon,President,1,Libertarian,Gary Johnson,15
+Dixon,President,1,By Petition,Jill Stein,1
+Dixon,President,1,Write In,Write In,0
+Dodge,President,1,Republican,Donald J. Trump,9933
+Dodge,President,1,Democratic,Hillary Clinton,4544
+Dodge,President,1,Libertarian,Gary Johnson,624
+Dodge,President,1,By Petition,Jill Stein,162
+Dodge,President,1,Write In,Write In,266
+Lancaster,President,1,Republican,Donald J. Trump,61588
+Lancaster,President,1,Democratic,Hillary Clinton,61898
+Lancaster,President,1,Libertarian,Gary Johnson,7109
+Lancaster,President,1,By Petition,Jill Stein,1974
+Lancaster,President,1,Write In,Write In,3654
+Madison,President,1,Republican,Donald J. Trump,10628
+Madison,President,1,Democratic,Hillary Clinton,2711
+Madison,President,1,Libertarian,Gary Johnson,669
+Madison,President,1,By Petition,Jill Stein,126
+Madison,President,1,Write In,Write In,209
+Otoe,President,1,Republican,Donald J. Trump,4860
+Otoe,President,1,Democratic,Hillary Clinton,2025
+Otoe,President,1,Libertarian,Gary Johnson,375
+Otoe,President,1,By Petition,Jill Stein,58
+Otoe,President,1,Write In,Write In,139
+Platte,President,1,Republican,Donald J. Trump,10965
+Platte,President,1,Democratic,Hillary Clinton,2646
+Platte,President,1,Libertarian,Gary Johnson,495
+Platte,President,1,By Petition,Jill Stein,86
+Platte,President,1,Write In,Write In,241
+Polk,President,1,Republican,Donald J. Trump,2028
+Polk,President,1,Democratic,Hillary Clinton,413
+Polk,President,1,Libertarian,Gary Johnson,102
+Polk,President,1,By Petition,Jill Stein,6
+Polk,President,1,Write In,Write In,33
+Sarpy,President,1,Republican,Donald J. Trump,15656
+Sarpy,President,1,Democratic,Hillary Clinton,10801
+Sarpy,President,1,Libertarian,Gary Johnson,1839
+Sarpy,President,1,By Petition,Jill Stein,371
+Sarpy,President,1,Write In,Write In,666
+Saunders,President,1,Republican,Donald J. Trump,7555
+Saunders,President,1,Democratic,Hillary Clinton,2523
+Saunders,President,1,Libertarian,Gary Johnson,515
+Saunders,President,1,By Petition,Jill Stein,97
+Saunders,President,1,Write In,Write In,170
+Seward,President,1,Republican,Donald J. Trump,5454
+Seward,President,1,Democratic,Hillary Clinton,1875
+Seward,President,1,Libertarian,Gary Johnson,337
+Seward,President,1,By Petition,Jill Stein,84
+Seward,President,1,Write In,Write In,172
+Stanton,President,1,Republican,Donald J. Trump,2187
+Stanton,President,1,Democratic,Hillary Clinton,417
+Stanton,President,1,Libertarian,Gary Johnson,144
+Stanton,President,1,By Petition,Jill Stein,14
+Stanton,President,1,Write In,Write In,39
+Thurston,President,1,Republican,Donald J. Trump,1043
+Thurston,President,1,Democratic,Hillary Clinton,919
+Thurston,President,1,Libertarian,Gary Johnson,56
+Thurston,President,1,By Petition,Jill Stein,49
+Thurston,President,1,Write In,Write In,21
+Washington,President,1,Republican,Donald J. Trump,7424
+Washington,President,1,Democratic,Hillary Clinton,2623
+Washington,President,1,Libertarian,Gary Johnson,513
+Washington,President,1,By Petition,Jill Stein,97
+Washington,President,1,Write In,Write In,175
+Douglas,President,2,Republican,Donald J. Trump,108077
+Douglas,President,2,Democratic,Hillary Clinton,113798
+Douglas,President,2,Libertarian,Gary Johnson,10402
+Douglas,President,2,By Petition,Jill Stein,2882
+Douglas,President,2,Write In,Write In,5274
+Sarpy,President,2,Republican,Donald J. Trump,29487
+Sarpy,President,2,Democratic,Hillary Clinton,17232
+Sarpy,President,2,Libertarian,Gary Johnson,2843
+Sarpy,President,2,By Petition,Jill Stein,465
+Sarpy,President,2,Write In,Write In,1220
+Adams,President,3,Republican,Donald J. Trump,9287
+Adams,President,3,Democratic,Hillary Clinton,3302
+Adams,President,3,Libertarian,Gary Johnson,594
+Adams,President,3,By Petition,Jill Stein,111
+Adams,President,3,Write In,Write In,219
+Antelope,President,3,Republican,Donald J. Trump,2732
+Antelope,President,3,Democratic,Hillary Clinton,383
+Antelope,President,3,Libertarian,Gary Johnson,105
+Antelope,President,3,By Petition,Jill Stein,19
+Antelope,President,3,Write In,Write In,42
+Arthur,President,3,Republican,Donald J. Trump,244
+Arthur,President,3,Democratic,Hillary Clinton,17
+Arthur,President,3,Libertarian,Gary Johnson,11
+Arthur,President,3,By Petition,Jill Stein,0
+Arthur,President,3,Write In,Write In,1
+Banner,President,3,Republican,Donald J. Trump,357
+Banner,President,3,Democratic,Hillary Clinton,19
+Banner,President,3,Libertarian,Gary Johnson,14
+Banner,President,3,By Petition,Jill Stein,3
+Banner,President,3,Write In,Write In,9
+Blaine,President,3,Republican,Donald J. Trump,276
+Blaine,President,3,Democratic,Hillary Clinton,30
+Blaine,President,3,Libertarian,Gary Johnson,10
+Blaine,President,3,By Petition,Jill Stein,0
+Blaine,President,3,Write In,Write In,1
+Boone,President,3,Republican,Donald J. Trump,2299
+Boone,President,3,Democratic,Hillary Clinton,414
+Boone,President,3,Libertarian,Gary Johnson,137
+Boone,President,3,By Petition,Jill Stein,17
+Boone,President,3,Write In,Write In,38
+Box Butte,President,3,Republican,Donald J. Trump,3617
+Box Butte,President,3,Democratic,Hillary Clinton,965
+Box Butte,President,3,Libertarian,Gary Johnson,230
+Box Butte,President,3,By Petition,Jill Stein,36
+Box Butte,President,3,Write In,Write In,76
+Boyd,President,3,Republican,Donald J. Trump,983
+Boyd,President,3,Democratic,Hillary Clinton,128
+Boyd,President,3,Libertarian,Gary Johnson,23
+Boyd,President,3,By Petition,Jill Stein,13
+Boyd,President,3,Write In,Write In,9
+Brown,President,3,Republican,Donald J. Trump,1385
+Brown,President,3,Democratic,Hillary Clinton,153
+Brown,President,3,Libertarian,Gary Johnson,39
+Brown,President,3,By Petition,Jill Stein,7
+Brown,President,3,Write In,Write In,13
+Buffalo,President,3,Republican,Donald J. Trump,14569
+Buffalo,President,3,Democratic,Hillary Clinton,4763
+Buffalo,President,3,Libertarian,Gary Johnson,1174
+Buffalo,President,3,By Petition,Jill Stein,227
+Buffalo,President,3,Write In,Write In,396
+Cedar,President,3,Republican,Donald J. Trump,3532
+Cedar,President,3,Democratic,Hillary Clinton,571
+Cedar,President,3,Libertarian,Gary Johnson,224
+Cedar,President,3,By Petition,Jill Stein,31
+Cedar,President,3,Write In,Write In,62
+Chase,President,3,Republican,Donald J. Trump,1648
+Chase,President,3,Democratic,Hillary Clinton,171
+Chase,President,3,Libertarian,Gary Johnson,54
+Chase,President,3,By Petition,Jill Stein,6
+Chase,President,3,Write In,Write In,19
+Cherry,President,3,Republican,Donald J. Trump,2623
+Cherry,President,3,Democratic,Hillary Clinton,317
+Cherry,President,3,Libertarian,Gary Johnson,127
+Cherry,President,3,By Petition,Jill Stein,15
+Cherry,President,3,Write In,Write In,36
+Cheyenne,President,3,Republican,Donald J. Trump,3665
+Cheyenne,President,3,Democratic,Hillary Clinton,711
+Cheyenne,President,3,Libertarian,Gary Johnson,213
+Cheyenne,President,3,By Petition,Jill Stein,46
+Cheyenne,President,3,Write In,Write In,76
+Clay,President,3,Republican,Donald J. Trump,2422
+Clay,President,3,Democratic,Hillary Clinton,477
+Clay,President,3,Libertarian,Gary Johnson,116
+Clay,President,3,By Petition,Jill Stein,15
+Clay,President,3,Write In,Write In,35
+Custer,President,3,Republican,Donald J. Trump,4695
+Custer,President,3,Democratic,Hillary Clinton,641
+Custer,President,3,Libertarian,Gary Johnson,206
+Custer,President,3,By Petition,Jill Stein,37
+Custer,President,3,Write In,Write In,73
+Dakota,President,3,Republican,Donald J. Trump,3616
+Dakota,President,3,Democratic,Hillary Clinton,2314
+Dakota,President,3,Libertarian,Gary Johnson,229
+Dakota,President,3,By Petition,Jill Stein,50
+Dakota,President,3,Write In,Write In,70
+Dawes,President,3,Republican,Donald J. Trump,2632
+Dawes,President,3,Democratic,Hillary Clinton,801
+Dawes,President,3,Libertarian,Gary Johnson,191
+Dawes,President,3,By Petition,Jill Stein,52
+Dawes,President,3,Write In,Write In,75
+Dawson,President,3,Republican,Donald J. Trump,5984
+Dawson,President,3,Democratic,Hillary Clinton,2136
+Dawson,President,3,Libertarian,Gary Johnson,381
+Dawson,President,3,By Petition,Jill Stein,58
+Dawson,President,3,Write In,Write In,76
+Deuel,President,3,Republican,Donald J. Trump,809
+Deuel,President,3,Democratic,Hillary Clinton,120
+Deuel,President,3,Libertarian,Gary Johnson,47
+Deuel,President,3,By Petition,Jill Stein,1
+Deuel,President,3,Write In,Write In,7
+Dixon,President,3,Republican,Donald J. Trump,1911
+Dixon,President,3,Democratic,Hillary Clinton,502
+Dixon,President,3,Libertarian,Gary Johnson,115
+Dixon,President,3,By Petition,Jill Stein,17
+Dixon,President,3,Write In,Write In,38
+Dundy,President,3,Republican,Donald J. Trump,823
+Dundy,President,3,Democratic,Hillary Clinton,89
+Dundy,President,3,Libertarian,Gary Johnson,31
+Dundy,President,3,By Petition,Jill Stein,6
+Dundy,President,3,Write In,Write In,4
+Fillmore,President,3,Republican,Donald J. Trump,2130
+Fillmore,President,3,Democratic,Hillary Clinton,613
+Fillmore,President,3,Libertarian,Gary Johnson,151
+Fillmore,President,3,By Petition,Jill Stein,21
+Fillmore,President,3,Write In,Write In,26
+Franklin,President,3,Republican,Donald J. Trump,1347
+Franklin,President,3,Democratic,Hillary Clinton,250
+Franklin,President,3,Libertarian,Gary Johnson,54
+Franklin,President,3,By Petition,Jill Stein,7
+Franklin,President,3,Write In,Write In,15
+Frontier,President,3,Republican,Donald J. Trump,1110
+Frontier,President,3,Democratic,Hillary Clinton,161
+Frontier,President,3,Libertarian,Gary Johnson,36
+Frontier,President,3,By Petition,Jill Stein,8
+Frontier,President,3,Write In,Write In,13
+Furnas,President,3,Republican,Donald J. Trump,1921
+Furnas,President,3,Democratic,Hillary Clinton,304
+Furnas,President,3,Libertarian,Gary Johnson,85
+Furnas,President,3,By Petition,Jill Stein,11
+Furnas,President,3,Write In,Write In,19
+Gage,President,3,Republican,Donald J. Trump,6380
+Gage,President,3,Democratic,Hillary Clinton,2935
+Gage,President,3,Libertarian,Gary Johnson,492
+Gage,President,3,By Petition,Jill Stein,104
+Gage,President,3,Write In,Write In,137
+Garden,President,3,Republican,Donald J. Trump,869
+Garden,President,3,Democratic,Hillary Clinton,153
+Garden,President,3,Libertarian,Gary Johnson,39
+Garden,President,3,By Petition,Jill Stein,2
+Garden,President,3,Write In,Write In,12
+Garfield,President,3,Republican,Donald J. Trump,821
+Garfield,President,3,Democratic,Hillary Clinton,121
+Garfield,President,3,Libertarian,Gary Johnson,23
+Garfield,President,3,By Petition,Jill Stein,5
+Garfield,President,3,Write In,Write In,10
+Gosper,President,3,Republican,Donald J. Trump,794
+Gosper,President,3,Democratic,Hillary Clinton,166
+Gosper,President,3,Libertarian,Gary Johnson,38
+Gosper,President,3,By Petition,Jill Stein,6
+Gosper,President,3,Write In,Write In,6
+Grant,President,3,Republican,Donald J. Trump,367
+Grant,President,3,Democratic,Hillary Clinton,20
+Grant,President,3,Libertarian,Gary Johnson,6
+Grant,President,3,By Petition,Jill Stein,1
+Grant,President,3,Write In,Write In,11
+Greeley,President,3,Republican,Donald J. Trump,912
+Greeley,President,3,Democratic,Hillary Clinton,210
+Greeley,President,3,Libertarian,Gary Johnson,38
+Greeley,President,3,By Petition,Jill Stein,6
+Greeley,President,3,Write In,Write In,9
+Hall,President,3,Republican,Donald J. Trump,14408
+Hall,President,3,Democratic,Hillary Clinton,6282
+Hall,President,3,Libertarian,Gary Johnson,895
+Hall,President,3,By Petition,Jill Stein,192
+Hall,President,3,Write In,Write In,283
+Hamilton,President,3,Republican,Donald J. Trump,3783
+Hamilton,President,3,Democratic,Hillary Clinton,878
+Hamilton,President,3,Libertarian,Gary Johnson,224
+Hamilton,President,3,By Petition,Jill Stein,43
+Hamilton,President,3,Write In,Write In,76
+Harlan,President,3,Republican,Donald J. Trump,1496
+Harlan,President,3,Democratic,Hillary Clinton,254
+Harlan,President,3,Libertarian,Gary Johnson,62
+Harlan,President,3,By Petition,Jill Stein,7
+Harlan,President,3,Write In,Write In,13
+Hayes,President,3,Republican,Donald J. Trump,472
+Hayes,President,3,Democratic,Hillary Clinton,30
+Hayes,President,3,Libertarian,Gary Johnson,8
+Hayes,President,3,By Petition,Jill Stein,1
+Hayes,President,3,Write In,Write In,3
+Hitchcock,President,3,Republican,Donald J. Trump,1232
+Hitchcock,President,3,Democratic,Hillary Clinton,161
+Hitchcock,President,3,Libertarian,Gary Johnson,61
+Hitchcock,President,3,By Petition,Jill Stein,7
+Hitchcock,President,3,Write In,Write In,7
+Holt,President,3,Republican,Donald J. Trump,4354
+Holt,President,3,Democratic,Hillary Clinton,531
+Holt,President,3,Libertarian,Gary Johnson,162
+Holt,President,3,By Petition,Jill Stein,27
+Holt,President,3,Write In,Write In,44
+Hooker,President,3,Republican,Donald J. Trump,355
+Hooker,President,3,Democratic,Hillary Clinton,40
+Hooker,President,3,Libertarian,Gary Johnson,16
+Hooker,President,3,By Petition,Jill Stein,3
+Hooker,President,3,Write In,Write In,3
+Howard,President,3,Republican,Donald J. Trump,2284
+Howard,President,3,Democratic,Hillary Clinton,544
+Howard,President,3,Libertarian,Gary Johnson,108
+Howard,President,3,By Petition,Jill Stein,22
+Howard,President,3,Write In,Write In,36
+Jefferson,President,3,Republican,Donald J. Trump,2399
+Jefferson,President,3,Democratic,Hillary Clinton,837
+Jefferson,President,3,Libertarian,Gary Johnson,182
+Jefferson,President,3,By Petition,Jill Stein,30
+Jefferson,President,3,Write In,Write In,46
+Johnson,President,3,Republican,Donald J. Trump,1355
+Johnson,President,3,Democratic,Hillary Clinton,563
+Johnson,President,3,Libertarian,Gary Johnson,122
+Johnson,President,3,By Petition,Jill Stein,22
+Johnson,President,3,Write In,Write In,27
+Kearney,President,3,Republican,Donald J. Trump,2531
+Kearney,President,3,Democratic,Hillary Clinton,550
+Kearney,President,3,Libertarian,Gary Johnson,148
+Kearney,President,3,By Petition,Jill Stein,26
+Kearney,President,3,Write In,Write In,41
+Keith,President,3,Republican,Donald J. Trump,3235
+Keith,President,3,Democratic,Hillary Clinton,571
+Keith,President,3,Libertarian,Gary Johnson,164
+Keith,President,3,By Petition,Jill Stein,25
+Keith,President,3,Write In,Write In,39
+Keya Paha,President,3,Republican,Donald J. Trump,460
+Keya Paha,President,3,Democratic,Hillary Clinton,40
+Keya Paha,President,3,Libertarian,Gary Johnson,17
+Keya Paha,President,3,By Petition,Jill Stein,0
+Keya Paha,President,3,Write In,Write In,2
+Kimball,President,3,Republican,Donald J. Trump,1330
+Kimball,President,3,Democratic,Hillary Clinton,230
+Kimball,President,3,Libertarian,Gary Johnson,78
+Kimball,President,3,By Petition,Jill Stein,18
+Kimball,President,3,Write In,Write In,21
+Knox,President,3,Republican,Donald J. Trump,3188
+Knox,President,3,Democratic,Hillary Clinton,720
+Knox,President,3,Libertarian,Gary Johnson,137
+Knox,President,3,By Petition,Jill Stein,29
+Knox,President,3,Write In,Write In,41
+Lincoln,President,3,Republican,Donald J. Trump,12164
+Lincoln,President,3,Democratic,Hillary Clinton,2913
+Lincoln,President,3,Libertarian,Gary Johnson,711
+Lincoln,President,3,By Petition,Jill Stein,107
+Lincoln,President,3,Write In,Write In,236
+Logan,President,3,Republican,Donald J. Trump,400
+Logan,President,3,Democratic,Hillary Clinton,32
+Logan,President,3,Libertarian,Gary Johnson,18
+Logan,President,3,By Petition,Jill Stein,1
+Logan,President,3,Write In,Write In,2
+Loup,President,3,Republican,Donald J. Trump,323
+Loup,President,3,Democratic,Hillary Clinton,48
+Loup,President,3,Libertarian,Gary Johnson,10
+Loup,President,3,By Petition,Jill Stein,1
+Loup,President,3,Write In,Write In,3
+McPherson,President,3,Republican,Donald J. Trump,257
+McPherson,President,3,Democratic,Hillary Clinton,14
+McPherson,President,3,Libertarian,Gary Johnson,14
+McPherson,President,3,By Petition,Jill Stein,1
+McPherson,President,3,Write In,Write In,1
+Merrick,President,3,Republican,Donald J. Trump,2926
+Merrick,President,3,Democratic,Hillary Clinton,602
+Merrick,President,3,Libertarian,Gary Johnson,165
+Merrick,President,3,By Petition,Jill Stein,29
+Merrick,President,3,Write In,Write In,66
+Morrill,President,3,Republican,Donald J. Trump,1802
+Morrill,President,3,Democratic,Hillary Clinton,284
+Morrill,President,3,Libertarian,Gary Johnson,84
+Morrill,President,3,By Petition,Jill Stein,14
+Morrill,President,3,Write In,Write In,25
+Nance,President,3,Republican,Donald J. Trump,1261
+Nance,President,3,Democratic,Hillary Clinton,281
+Nance,President,3,Libertarian,Gary Johnson,48
+Nance,President,3,By Petition,Jill Stein,14
+Nance,President,3,Write In,Write In,17
+Nemaha,President,3,Republican,Donald J. Trump,2116
+Nemaha,President,3,Democratic,Hillary Clinton,785
+Nemaha,President,3,Libertarian,Gary Johnson,180
+Nemaha,President,3,By Petition,Jill Stein,27
+Nemaha,President,3,Write In,Write In,53
+Nuckolls,President,3,Republican,Donald J. Trump,1726
+Nuckolls,President,3,Democratic,Hillary Clinton,353
+Nuckolls,President,3,Libertarian,Gary Johnson,88
+Nuckolls,President,3,By Petition,Jill Stein,20
+Nuckolls,President,3,Write In,Write In,18
+Pawnee,President,3,Republican,Donald J. Trump,974
+Pawnee,President,3,Democratic,Hillary Clinton,279
+Pawnee,President,3,Libertarian,Gary Johnson,55
+Pawnee,President,3,By Petition,Jill Stein,10
+Pawnee,President,3,Write In,Write In,9
+Perkins,President,3,Republican,Donald J. Trump,1217
+Perkins,President,3,Democratic,Hillary Clinton,161
+Perkins,President,3,Libertarian,Gary Johnson,54
+Perkins,President,3,By Petition,Jill Stein,5
+Perkins,President,3,Write In,Write In,18
+Phelps,President,3,Republican,Donald J. Trump,3849
+Phelps,President,3,Democratic,Hillary Clinton,572
+Phelps,President,3,Libertarian,Gary Johnson,190
+Phelps,President,3,By Petition,Jill Stein,18
+Phelps,President,3,Write In,Write In,66
+Pierce,President,3,Republican,Donald J. Trump,3052
+Pierce,President,3,Democratic,Hillary Clinton,382
+Pierce,President,3,Libertarian,Gary Johnson,125
+Pierce,President,3,By Petition,Jill Stein,21
+Pierce,President,3,Write In,Write In,50
+Red Willow,President,3,Republican,Donald J. Trump,4258
+Red Willow,President,3,Democratic,Hillary Clinton,645
+Red Willow,President,3,Libertarian,Gary Johnson,191
+Red Willow,President,3,By Petition,Jill Stein,26
+Red Willow,President,3,Write In,Write In,50
+Richardson,President,3,Republican,Donald J. Trump,2769
+Richardson,President,3,Democratic,Hillary Clinton,818
+Richardson,President,3,Libertarian,Gary Johnson,159
+Richardson,President,3,By Petition,Jill Stein,27
+Richardson,President,3,Write In,Write In,32
+Rock,President,3,Republican,Donald J. Trump,687
+Rock,President,3,Democratic,Hillary Clinton,70
+Rock,President,3,Libertarian,Gary Johnson,33
+Rock,President,3,By Petition,Jill Stein,4
+Rock,President,3,Write In,Write In,4
+Saline,President,3,Republican,Donald J. Trump,3004
+Saline,President,3,Democratic,Hillary Clinton,1733
+Saline,President,3,Libertarian,Gary Johnson,284
+Saline,President,3,By Petition,Jill Stein,52
+Saline,President,3,Write In,Write In,63
+Scotts Bluff,President,3,Republican,Donald J. Trump,10076
+Scotts Bluff,President,3,Democratic,Hillary Clinton,3207
+Scotts Bluff,President,3,Libertarian,Gary Johnson,683
+Scotts Bluff,President,3,By Petition,Jill Stein,126
+Scotts Bluff,President,3,Write In,Write In,225
+Sheridan,President,3,Republican,Donald J. Trump,2211
+Sheridan,President,3,Democratic,Hillary Clinton,287
+Sheridan,President,3,Libertarian,Gary Johnson,70
+Sheridan,President,3,By Petition,Jill Stein,18
+Sheridan,President,3,Write In,Write In,22
+Sherman,President,3,Republican,Donald J. Trump,1150
+Sherman,President,3,Democratic,Hillary Clinton,340
+Sherman,President,3,Libertarian,Gary Johnson,59
+Sherman,President,3,By Petition,Jill Stein,13
+Sherman,President,3,Write In,Write In,11
+Sioux,President,3,Republican,Donald J. Trump,616
+Sioux,President,3,Democratic,Hillary Clinton,81
+Sioux,President,3,Libertarian,Gary Johnson,28
+Sioux,President,3,By Petition,Jill Stein,4
+Sioux,President,3,Write In,Write In,7
+Thayer,President,3,Republican,Donald J. Trump,2051
+Thayer,President,3,Democratic,Hillary Clinton,499
+Thayer,President,3,Libertarian,Gary Johnson,124
+Thayer,President,3,By Petition,Jill Stein,10
+Thayer,President,3,Write In,Write In,6
+Thomas,President,3,Republican,Donald J. Trump,344
+Thomas,President,3,Democratic,Hillary Clinton,30
+Thomas,President,3,Libertarian,Gary Johnson,10
+Thomas,President,3,By Petition,Jill Stein,3
+Thomas,President,3,Write In,Write In,6
+Valley,President,3,Republican,Donald J. Trump,1780
+Valley,President,3,Democratic,Hillary Clinton,339
+Valley,President,3,Libertarian,Gary Johnson,53
+Valley,President,3,By Petition,Jill Stein,12
+Valley,President,3,Write In,Write In,21
+Wayne,President,3,Republican,Donald J. Trump,2693
+Wayne,President,3,Democratic,Hillary Clinton,835
+Wayne,President,3,Libertarian,Gary Johnson,202
+Wayne,President,3,By Petition,Jill Stein,35
+Wayne,President,3,Write In,Write In,11
+Webster,President,3,Republican,Donald J. Trump,1330
+Webster,President,3,Democratic,Hillary Clinton,306
+Webster,President,3,Libertarian,Gary Johnson,51
+Webster,President,3,By Petition,Jill Stein,10
+Webster,President,3,Write In,Write In,11
+Wheeler,President,3,Republican,Donald J. Trump,377
+Wheeler,President,3,Democratic,Hillary Clinton,62
+Wheeler,President,3,Libertarian,Gary Johnson,17
+Wheeler,President,3,By Petition,Jill Stein,4
+Wheeler,President,3,Write In,Write In,5
+York,President,3,Republican,Donald J. Trump,4700
+York,President,3,Democratic,Hillary Clinton,1186
+York,President,3,Libertarian,Gary Johnson,345
+York,President,3,By Petition,Jill Stein,52
+York,President,3,Write In,Write In,98
+Burt,U.S. House of Representatives,1,Republican,Jeff Fortenberry,2648
+Burt,U.S. House of Representatives,1,Democratic,Daniel M. Wik,751
+Butler,U.S. House of Representatives,1,Republican,Jeff Fortenberry,3231
+Butler,U.S. House of Representatives,1,Democratic,Daniel M. Wik,573
+Cass,U.S. House of Representatives,1,Republican,Jeff Fortenberry,9323
+Cass,U.S. House of Representatives,1,Democratic,Daniel M. Wik,2993
+Colfax,U.S. House of Representatives,1,Republican,Jeff Fortenberry,2416
+Colfax,U.S. House of Representatives,1,Democratic,Daniel M. Wik,737
+Cuming,U.S. House of Representatives,1,Republican,Jeff Fortenberry,3447
+Cuming,U.S. House of Representatives,1,Democratic,Daniel M. Wik,527
+Dixon,U.S. House of Representatives,1,Republican,Jeff Fortenberry,64
+Dixon,U.S. House of Representatives,1,Democratic,Daniel M. Wik,26
+Dodge,U.S. House of Representatives,1,Republican,Jeff Fortenberry,11481
+Dodge,U.S. House of Representatives,1,Democratic,Daniel M. Wik,3488
+Lancaster,U.S. House of Representatives,1,Republican,Jeff Fortenberry,81497
+Lancaster,U.S. House of Representatives,1,Democratic,Daniel M. Wik,50659
+Madison,U.S. House of Representatives,1,Republican,Jeff Fortenberry,11336
+Madison,U.S. House of Representatives,1,Democratic,Daniel M. Wik,2728
+Otoe,U.S. House of Representatives,1,Republican,Jeff Fortenberry,5649
+Otoe,U.S. House of Representatives,1,Democratic,Daniel M. Wik,1613
+Platte,U.S. House of Representatives,1,Republican,Jeff Fortenberry,11389
+Platte,U.S. House of Representatives,1,Democratic,Daniel M. Wik,2468
+Polk,U.S. House of Representatives,1,Republican,Jeff Fortenberry,2138
+Polk,U.S. House of Representatives,1,Democratic,Daniel M. Wik,349
+Sarpy,U.S. House of Representatives,1,Republican,Jeff Fortenberry,18745
+Sarpy,U.S. House of Representatives,1,Democratic,Daniel M. Wik,9544
+Saunders,U.S. House of Representatives,1,Republican,Jeff Fortenberry,8287
+Saunders,U.S. House of Representatives,1,Democratic,Daniel M. Wik,2203
+Seward,U.S. House of Representatives,1,Republican,Jeff Fortenberry,6253
+Seward,U.S. House of Representatives,1,Democratic,Daniel M. Wik,1518
+Stanton,U.S. House of Representatives,1,Republican,Jeff Fortenberry,2341
+Stanton,U.S. House of Representatives,1,Democratic,Daniel M. Wik,426
+Thurston,U.S. House of Representatives,1,Republican,Jeff Fortenberry,1262
+Thurston,U.S. House of Representatives,1,Democratic,Daniel M. Wik,740
+Washington,U.S. House of Representatives,1,Republican,Jeff Fortenberry,8264
+Washington,U.S. House of Representatives,1,Democratic,Daniel M. Wik,2124
+Douglas,U.S. House of Representatives,2,Republican,Don Bacon,110391
+Douglas,U.S. House of Representatives,2,Democratic,Brad Ashford,119230
+Douglas,U.S. House of Representatives,2,Libertarian,Steven Laird,7944
+Sarpy,U.S. House of Representatives,2,Republican,Don Bacon,30675
+Sarpy,U.S. House of Representatives,2,Democratic,Brad Ashford,18372
+Sarpy,U.S. House of Representatives,2,Libertarian,Steven Laird,1696
+Adams,U.S. House of Representatives,3,Republican,Adrian Smith,10938
+Antelope,U.S. House of Representatives,3,Republican,Adrian Smith,2808
+Arthur,U.S. House of Representatives,3,Republican,Adrian Smith,254
+Banner,U.S. House of Representatives,3,Republican,Adrian Smith,344
+Blaine,U.S. House of Representatives,3,Republican,Adrian Smith,276
+Boone,U.S. House of Representatives,3,Republican,Adrian Smith,2437
+Box Butte,U.S. House of Representatives,3,Republican,Adrian Smith,4202
+Boyd,U.S. House of Representatives,3,Republican,Adrian Smith,948
+Brown,U.S. House of Representatives,3,Republican,Adrian Smith,1381
+Buffalo,U.S. House of Representatives,3,Republican,Adrian Smith,17654
+Cedar,U.S. House of Representatives,3,Republican,Adrian Smith,3835
+Chase,U.S. House of Representatives,3,Republican,Adrian Smith,1697
+Cherry,U.S. House of Representatives,3,Republican,Adrian Smith,2527
+Cheyenne,U.S. House of Representatives,3,Republican,Adrian Smith,4160
+Clay,U.S. House of Representatives,3,Republican,Adrian Smith,2685
+Custer,U.S. House of Representatives,3,Republican,Adrian Smith,4959
+Dakota,U.S. House of Representatives,3,Republican,Adrian Smith,4723
+Dawes,U.S. House of Representatives,3,Republican,Adrian Smith,3169
+Dawson,U.S. House of Representatives,3,Republican,Adrian Smith,7335
+Deuel,U.S. House of Representatives,3,Republican,Adrian Smith,876
+Dixon,U.S. House of Representatives,3,Republican,Adrian Smith,2233
+Dundy,U.S. House of Representatives,3,Republican,Adrian Smith,841
+Fillmore,U.S. House of Representatives,3,Republican,Adrian Smith,2526
+Franklin,U.S. House of Representatives,3,Republican,Adrian Smith,1451
+Frontier,U.S. House of Representatives,3,Republican,Adrian Smith,1178
+Furnas,U.S. House of Representatives,3,Republican,Adrian Smith,2119
+Gage,U.S. House of Representatives,3,Republican,Adrian Smith,8032
+Garden,U.S. House of Representatives,3,Republican,Adrian Smith,942
+Garfield,U.S. House of Representatives,3,Republican,Adrian Smith,853
+Gosper,U.S. House of Representatives,3,Republican,Adrian Smith,890
+Grant,U.S. House of Representatives,3,Republican,Adrian Smith,362
+Greeley,U.S. House of Representatives,3,Republican,Adrian Smith,955
+Hall,U.S. House of Representatives,3,Republican,Adrian Smith,17328
+Hamilton,U.S. House of Representatives,3,Republican,Adrian Smith,4203
+Harlan,U.S. House of Representatives,3,Republican,Adrian Smith,1602
+Hayes,U.S. House of Representatives,3,Republican,Adrian Smith,445
+Hitchcock,U.S. House of Representatives,3,Republican,Adrian Smith,1306
+Holt,U.S. House of Representatives,3,Republican,Adrian Smith,4402
+Hooker,U.S. House of Representatives,3,Republican,Adrian Smith,368
+Howard,U.S. House of Representatives,3,Republican,Adrian Smith,2483
+Jefferson,U.S. House of Representatives,3,Republican,Adrian Smith,2973
+Johnson,U.S. House of Representatives,3,Republican,Adrian Smith,1627
+Kearney,U.S. House of Representatives,3,Republican,Adrian Smith,2916
+Keith,U.S. House of Representatives,3,Republican,Adrian Smith,3504
+Keya Paha,U.S. House of Representatives,3,Republican,Adrian Smith,433
+Kimball,U.S. House of Representatives,3,Republican,Adrian Smith,1491
+Knox,U.S. House of Representatives,3,Republican,Adrian Smith,3492
+Lincoln,U.S. House of Representatives,3,Republican,Adrian Smith,13675
+Logan,U.S. House of Representatives,3,Republican,Adrian Smith,401
+Loup,U.S. House of Representatives,3,Republican,Adrian Smith,325
+McPherson,U.S. House of Representatives,3,Republican,Adrian Smith,256
+Merrick,U.S. House of Representatives,3,Republican,Adrian Smith,3179
+Morrill,U.S. House of Representatives,3,Republican,Adrian Smith,1899
+Nance,U.S. House of Representatives,3,Republican,Adrian Smith,1276
+Nemaha,U.S. House of Representatives,3,Republican,Adrian Smith,2622
+Nuckolls,U.S. House of Representatives,3,Republican,Adrian Smith,1909
+Pawnee,U.S. House of Representatives,3,Republican,Adrian Smith,1113
+Perkins,U.S. House of Representatives,3,Republican,Adrian Smith,1332
+Phelps,U.S. House of Representatives,3,Republican,Adrian Smith,4142
+Pierce,U.S. House of Representatives,3,Republican,Adrian Smith,3172
+Red Willow,U.S. House of Representatives,3,Republican,Adrian Smith,4589
+Richardson,U.S. House of Representatives,3,Republican,Adrian Smith,2995
+Rock,U.S. House of Representatives,3,Republican,Adrian Smith,693
+Saline,U.S. House of Representatives,3,Republican,Adrian Smith,3996
+Scotts Bluff,U.S. House of Representatives,3,Republican,Adrian Smith,11678
+Sheridan,U.S. House of Representatives,3,Republican,Adrian Smith,2203
+Sherman,U.S. House of Representatives,3,Republican,Adrian Smith,1301
+Sioux,U.S. House of Representatives,3,Republican,Adrian Smith,624
+Thayer,U.S. House of Representatives,3,Republican,Adrian Smith,2308
+Thomas,U.S. House of Representatives,3,Republican,Adrian Smith,340
+Valley,U.S. House of Representatives,3,Republican,Adrian Smith,1909
+Wayne,U.S. House of Representatives,3,Republican,Adrian Smith,3222
+Webster,U.S. House of Representatives,3,Republican,Adrian Smith,1448
+Wheeler,U.S. House of Representatives,3,Republican,Adrian Smith,406
+York,U.S. House of Representatives,3,Republican,Adrian Smith,5544

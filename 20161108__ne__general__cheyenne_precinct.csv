@@ -1,0 +1,72 @@
+county,precinct,office,district,party,candidate,votes
+Cheyenne,Sidney 1,President/Vice President,,REP,Trump/Pence,318
+Cheyenne,Sidney 2,President/Vice President,,REP,Trump/Pence,442
+Cheyenne,Sidney 3,President/Vice President,,REP,Trump/Pence,247
+Cheyenne,Sidney 4,President/Vice President,,REP,Trump/Pence,317
+Cheyenne,Sidney 5,President/Vice President,,REP,Trump/Pence,522
+Cheyenne,Gurley,President/Vice President,,REP,Trump/Pence,197
+Cheyenne,Lodgepole,President/Vice President,,REP,Trump/Pence,248
+Cheyenne,Potter,President/Vice President,,REP,Trump/Pence,238
+Cheyenne,Union Valley,President/Vice President,,REP,Trump/Pence,184
+Cheyenne,Early/provisional,President/Vice President,,REP,Trump/Pence,951
+Cheyenne,New/former resident,President/Vice President,,REP,Trump/Pence,1
+Cheyenne,Sidney 1,President/Vice President,,DEM,Clinton/Kaine,66
+Cheyenne,Sidney 2,President/Vice President,,DEM,Clinton/Kaine,72
+Cheyenne,Sidney 3,President/Vice President,,DEM,Clinton/Kaine,59
+Cheyenne,Sidney 4,President/Vice President,,DEM,Clinton/Kaine,66
+Cheyenne,Sidney 5,President/Vice President,,DEM,Clinton/Kaine,107
+Cheyenne,Gurley,President/Vice President,,DEM,Clinton/Kaine,14
+Cheyenne,Lodgepole,President/Vice President,,DEM,Clinton/Kaine,33
+Cheyenne,Potter,President/Vice President,,DEM,Clinton/Kaine,19
+Cheyenne,Union Valley,President/Vice President,,DEM,Clinton/Kaine,22
+Cheyenne,Early/provisional,President/Vice President,,DEM,Clinton/Kaine,253
+Cheyenne,Sidney 1,President/Vice President,,LIB,Johnson/Weld,20
+Cheyenne,Sidney 2,President/Vice President,,LIB,Johnson/Weld,28
+Cheyenne,Sidney 3,President/Vice President,,LIB,Johnson/Weld,24
+Cheyenne,Sidney 4,President/Vice President,,LIB,Johnson/Weld,24
+Cheyenne,Sidney 5,President/Vice President,,LIB,Johnson/Weld,20
+Cheyenne,Gurley,President/Vice President,,LIB,Johnson/Weld,11
+Cheyenne,Lodgepole,President/Vice President,,LIB,Johnson/Weld,10
+Cheyenne,Potter,President/Vice President,,LIB,Johnson/Weld,11
+Cheyenne,Union Valley,President/Vice President,,LIB,Johnson/Weld,12
+Cheyenne,Early/provisional,President/Vice President,,LIB,Johnson/Weld,53
+Cheyenne,Sidney 1,President/Vice President,,PET,Stein/Baraka,1
+Cheyenne,Sidney 2,President/Vice President,,PET,Stein/Baraka,10
+Cheyenne,Sidney 3,President/Vice President,,PET,Stein/Baraka,10
+Cheyenne,Sidney 4,President/Vice President,,PET,Stein/Baraka,6
+Cheyenne,Sidney 5,President/Vice President,,PET,Stein/Baraka,4
+Cheyenne,Gurley,President/Vice President,,PET,Stein/Baraka,2
+Cheyenne,Lodgepole,President/Vice President,,PET,Stein/Baraka,0
+Cheyenne,Potter,President/Vice President,,PET,Stein/Baraka,0
+Cheyenne,Union Valley,President/Vice President,,PET,Stein/Baraka,3
+Cheyenne,Early/provisional,President/Vice President,,PET,Stein/Baraka,10
+Cheyenne,Sidney 1,President/Vice President,,NON,Write-in,14
+Cheyenne,Sidney 2,President/Vice President,,NON,Write-in,7
+Cheyenne,Sidney 3,President/Vice President,,NON,Write-in,4
+Cheyenne,Sidney 4,President/Vice President,,NON,Write-in,4
+Cheyenne,Sidney 5,President/Vice President,,NON,Write-in,12
+Cheyenne,Gurley,President/Vice President,,NON,Write-in,3
+Cheyenne,Lodgepole,President/Vice President,,NON,Write-in,4
+Cheyenne,Potter,President/Vice President,,NON,Write-in,7
+Cheyenne,Union Valley,President/Vice President,,NON,Write-in,2
+Cheyenne,Early/provisional,President/Vice President,,NON,Write-in,22
+Cheyenne,Sidney 1,United States Representative,3,REP,Adrian Smith,377
+Cheyenne,Sidney 2,United States Representative,3,REP,Adrian Smith,501
+Cheyenne,Sidney 3,United States Representative,3,REP,Adrian Smith,300
+Cheyenne,Sidney 4,United States Representative,3,REP,Adrian Smith,356
+Cheyenne,Sidney 5,United States Representative,3,REP,Adrian Smith,598
+Cheyenne,Gurley,United States Representative,3,REP,Adrian Smith,214
+Cheyenne,Lodgepole,United States Representative,3,REP,Adrian Smith,271
+Cheyenne,Potter,United States Representative,3,REP,Adrian Smith,255
+Cheyenne,Union Valley,United States Representative,3,REP,Adrian Smith,208
+Cheyenne,Early/provisional,United States Representative,3,REP,Adrian Smith,1080
+Cheyenne,Sidney 1,United States Representative,3,NON,Write-in,6
+Cheyenne,Sidney 2,United States Representative,3,NON,Write-in,5
+Cheyenne,Sidney 3,United States Representative,3,NON,Write-in,6
+Cheyenne,Sidney 4,United States Representative,3,NON,Write-in,5
+Cheyenne,Sidney 5,United States Representative,3,NON,Write-in,13
+Cheyenne,Gurley,United States Representative,3,NON,Write-in,1
+Cheyenne,Lodgepole,United States Representative,3,NON,Write-in,8
+Cheyenne,Potter,United States Representative,3,NON,Write-in,0
+Cheyenne,Union Valley,United States Representative,3,NON,Write-in,1
+Cheyenne,Early/provisional,United States Representative,3,NON,Write-in,20

@@ -1,0 +1,188 @@
+county,precinct,office,district,party,candidate,votes
+Hall,1,United States Representative,3,REP,Adrian Smith,765
+Hall,2,United States Representative,3,REP,Adrian Smith,314
+Hall,3,United States Representative,3,REP,Adrian Smith,660
+Hall,4,United States Representative,3,REP,Adrian Smith,556
+Hall,5,United States Representative,3,REP,Adrian Smith,878
+Hall,6,United States Representative,3,REP,Adrian Smith,835
+Hall,7,United States Representative,3,REP,Adrian Smith,719
+Hall,8,United States Representative,3,REP,Adrian Smith,808
+Hall,9,United States Representative,3,REP,Adrian Smith,985
+Hall,10,United States Representative,3,REP,Adrian Smith,781
+Hall,11,United States Representative,3,REP,Adrian Smith,780
+Hall,12,United States Representative,3,REP,Adrian Smith,560
+Hall,13,United States Representative,3,REP,Adrian Smith,1068
+Hall,14,United States Representative,3,REP,Adrian Smith,1282
+Hall,15,United States Representative,3,REP,Adrian Smith,1060
+Hall,16,United States Representative,3,REP,Adrian Smith,834
+Hall,17,United States Representative,3,REP,Adrian Smith,611
+Hall,18,United States Representative,3,REP,Adrian Smith,475
+Hall,19,United States Representative,3,REP,Adrian Smith,437
+Hall,20,United States Representative,3,REP,Adrian Smith,294
+Hall,21,United States Representative,3,REP,Adrian Smith,560
+Hall,22,United States Representative,3,REP,Adrian Smith,383
+Hall,23,United States Representative,3,REP,Adrian Smith,403
+Hall,24,United States Representative,3,REP,Adrian Smith,434
+Hall,25,United States Representative,3,REP,Adrian Smith,463
+Hall,26,United States Representative,3,REP,Adrian Smith,383
+Hall,1,United States Representative,3,NON,Write-in,42
+Hall,2,United States Representative,3,NON,Write-in,23
+Hall,3,United States Representative,3,NON,Write-in,43
+Hall,4,United States Representative,3,NON,Write-in,19
+Hall,5,United States Representative,3,NON,Write-in,31
+Hall,6,United States Representative,3,NON,Write-in,28
+Hall,7,United States Representative,3,NON,Write-in,27
+Hall,8,United States Representative,3,NON,Write-in,45
+Hall,9,United States Representative,3,NON,Write-in,31
+Hall,10,United States Representative,3,NON,Write-in,31
+Hall,11,United States Representative,3,NON,Write-in,27
+Hall,12,United States Representative,3,NON,Write-in,38
+Hall,13,United States Representative,3,NON,Write-in,29
+Hall,14,United States Representative,3,NON,Write-in,31
+Hall,15,United States Representative,3,NON,Write-in,33
+Hall,16,United States Representative,3,NON,Write-in,17
+Hall,17,United States Representative,3,NON,Write-in,23
+Hall,18,United States Representative,3,NON,Write-in,26
+Hall,19,United States Representative,3,NON,Write-in,14
+Hall,20,United States Representative,3,NON,Write-in,7
+Hall,21,United States Representative,3,NON,Write-in,5
+Hall,22,United States Representative,3,NON,Write-in,6
+Hall,23,United States Representative,3,NON,Write-in,10
+Hall,24,United States Representative,3,NON,Write-in,6
+Hall,25,United States Representative,3,NON,Write-in,11
+Hall,26,United States Representative,3,NON,Write-in,7
+Hall,1,President/Vice President,,REP,Trump/Pence,540
+Hall,2,President/Vice President,,REP,Trump/Pence,197
+Hall,3,President/Vice President,,REP,Trump/Pence,502
+Hall,4,President/Vice President,,REP,Trump/Pence,475
+Hall,5,President/Vice President,,REP,Trump/Pence,776
+Hall,6,President/Vice President,,REP,Trump/Pence,699
+Hall,7,President/Vice President,,REP,Trump/Pence,542
+Hall,8,President/Vice President,,REP,Trump/Pence,625
+Hall,9,President/Vice President,,REP,Trump/Pence,830
+Hall,10,President/Vice President,,REP,Trump/Pence,586
+Hall,11,President/Vice President,,REP,Trump/Pence,635
+Hall,12,President/Vice President,,REP,Trump/Pence,377
+Hall,13,President/Vice President,,REP,Trump/Pence,931
+Hall,14,President/Vice President,,REP,Trump/Pence,1125
+Hall,15,President/Vice President,,REP,Trump/Pence,897
+Hall,16,President/Vice President,,REP,Trump/Pence,747
+Hall,17,President/Vice President,,REP,Trump/Pence,503
+Hall,18,President/Vice President,,REP,Trump/Pence,340
+Hall,19,President/Vice President,,REP,Trump/Pence,384
+Hall,20,President/Vice President,,REP,Trump/Pence,291
+Hall,21,President/Vice President,,REP,Trump/Pence,514
+Hall,22,President/Vice President,,REP,Trump/Pence,290
+Hall,23,President/Vice President,,REP,Trump/Pence,366
+Hall,24,President/Vice President,,REP,Trump/Pence,425
+Hall,25,President/Vice President,,REP,Trump/Pence,428
+Hall,26,President/Vice President,,REP,Trump/Pence,380
+Hall,27,President/Vice President,,REP,Trump/Pence,3
+Hall,1,President/Vice President,,DEM,Clinton/Kaine,396
+Hall,2,President/Vice President,,DEM,Clinton/Kaine,212
+Hall,3,President/Vice President,,DEM,Clinton/Kaine,327
+Hall,4,President/Vice President,,DEM,Clinton/Kaine,229
+Hall,5,President/Vice President,,DEM,Clinton/Kaine,288
+Hall,6,President/Vice President,,DEM,Clinton/Kaine,291
+Hall,7,President/Vice President,,DEM,Clinton/Kaine,312
+Hall,8,President/Vice President,,DEM,Clinton/Kaine,391
+Hall,9,President/Vice President,,DEM,Clinton/Kaine,349
+Hall,10,President/Vice President,,DEM,Clinton/Kaine,354
+Hall,11,President/Vice President,,DEM,Clinton/Kaine,326
+Hall,12,President/Vice President,,DEM,Clinton/Kaine,307
+Hall,13,President/Vice President,,DEM,Clinton/Kaine,330
+Hall,14,President/Vice President,,DEM,Clinton/Kaine,310
+Hall,15,President/Vice President,,DEM,Clinton/Kaine,339
+Hall,16,President/Vice President,,DEM,Clinton/Kaine,225
+Hall,17,President/Vice President,,DEM,Clinton/Kaine,232
+Hall,18,President/Vice President,,DEM,Clinton/Kaine,250
+Hall,19,President/Vice President,,DEM,Clinton/Kaine,136
+Hall,20,President/Vice President,,DEM,Clinton/Kaine,53
+Hall,21,President/Vice President,,DEM,Clinton/Kaine,110
+Hall,22,President/Vice President,,DEM,Clinton/Kaine,146
+Hall,23,President/Vice President,,DEM,Clinton/Kaine,84
+Hall,24,President/Vice President,,DEM,Clinton/Kaine,86
+Hall,25,President/Vice President,,DEM,Clinton/Kaine,105
+Hall,26,President/Vice President,,DEM,Clinton/Kaine,94
+Hall,27,President/Vice President,,DEM,Clinton/Kaine,0
+Hall,1,President/Vice President,,LIB,Johnson/Weld,40
+Hall,2,President/Vice President,,LIB,Johnson/Weld,19
+Hall,3,President/Vice President,,LIB,Johnson/Weld,46
+Hall,4,President/Vice President,,LIB,Johnson/Weld,17
+Hall,5,President/Vice President,,LIB,Johnson/Weld,37
+Hall,6,President/Vice President,,LIB,Johnson/Weld,40
+Hall,7,President/Vice President,,LIB,Johnson/Weld,48
+Hall,8,President/Vice President,,LIB,Johnson/Weld,64
+Hall,9,President/Vice President,,LIB,Johnson/Weld,57
+Hall,10,President/Vice President,,LIB,Johnson/Weld,55
+Hall,11,President/Vice President,,LIB,Johnson/Weld,47
+Hall,12,President/Vice President,,LIB,Johnson/Weld,39
+Hall,13,President/Vice President,,LIB,Johnson/Weld,46
+Hall,14,President/Vice President,,LIB,Johnson/Weld,49
+Hall,15,President/Vice President,,LIB,Johnson/Weld,44
+Hall,16,President/Vice President,,LIB,Johnson/Weld,37
+Hall,17,President/Vice President,,LIB,Johnson/Weld,37
+Hall,18,President/Vice President,,LIB,Johnson/Weld,30
+Hall,19,President/Vice President,,LIB,Johnson/Weld,17
+Hall,20,President/Vice President,,LIB,Johnson/Weld,12
+Hall,21,President/Vice President,,LIB,Johnson/Weld,22
+Hall,22,President/Vice President,,LIB,Johnson/Weld,25
+Hall,23,President/Vice President,,LIB,Johnson/Weld,16
+Hall,24,President/Vice President,,LIB,Johnson/Weld,18
+Hall,25,President/Vice President,,LIB,Johnson/Weld,18
+Hall,26,President/Vice President,,LIB,Johnson/Weld,14
+Hall,27,President/Vice President,,LIB,Johnson/Weld,1
+Hall,1,President/Vice President,,PET,Stein/Baraka,7
+Hall,2,President/Vice President,,PET,Stein/Baraka,5
+Hall,3,President/Vice President,,PET,Stein/Baraka,8
+Hall,4,President/Vice President,,PET,Stein/Baraka,6
+Hall,5,President/Vice President,,PET,Stein/Baraka,7
+Hall,6,President/Vice President,,PET,Stein/Baraka,8
+Hall,7,President/Vice President,,PET,Stein/Baraka,13
+Hall,8,President/Vice President,,PET,Stein/Baraka,13
+Hall,9,President/Vice President,,PET,Stein/Baraka,13
+Hall,10,President/Vice President,,PET,Stein/Baraka,11
+Hall,11,President/Vice President,,PET,Stein/Baraka,15
+Hall,12,President/Vice President,,PET,Stein/Baraka,15
+Hall,13,President/Vice President,,PET,Stein/Baraka,2
+Hall,14,President/Vice President,,PET,Stein/Baraka,8
+Hall,15,President/Vice President,,PET,Stein/Baraka,7
+Hall,16,President/Vice President,,PET,Stein/Baraka,9
+Hall,17,President/Vice President,,PET,Stein/Baraka,3
+Hall,18,President/Vice President,,PET,Stein/Baraka,3
+Hall,19,President/Vice President,,PET,Stein/Baraka,2
+Hall,20,President/Vice President,,PET,Stein/Baraka,1
+Hall,21,President/Vice President,,PET,Stein/Baraka,8
+Hall,22,President/Vice President,,PET,Stein/Baraka,4
+Hall,23,President/Vice President,,PET,Stein/Baraka,7
+Hall,24,President/Vice President,,PET,Stein/Baraka,8
+Hall,25,President/Vice President,,PET,Stein/Baraka,7
+Hall,26,President/Vice President,,PET,Stein/Baraka,2
+Hall,27,President/Vice President,,PET,Stein/Baraka,0
+Hall,1,President/Vice President,,NON,Write-in,16
+Hall,2,President/Vice President,,NON,Write-in,7
+Hall,3,President/Vice President,,NON,Write-in,14
+Hall,4,President/Vice President,,NON,Write-in,6
+Hall,5,President/Vice President,,NON,Write-in,10
+Hall,6,President/Vice President,,NON,Write-in,21
+Hall,7,President/Vice President,,NON,Write-in,22
+Hall,8,President/Vice President,,NON,Write-in,15
+Hall,9,President/Vice President,,NON,Write-in,12
+Hall,10,President/Vice President,,NON,Write-in,15
+Hall,11,President/Vice President,,NON,Write-in,10
+Hall,12,President/Vice President,,NON,Write-in,9
+Hall,13,President/Vice President,,NON,Write-in,17
+Hall,14,President/Vice President,,NON,Write-in,32
+Hall,15,President/Vice President,,NON,Write-in,16
+Hall,16,President/Vice President,,NON,Write-in,12
+Hall,17,President/Vice President,,NON,Write-in,10
+Hall,18,President/Vice President,,NON,Write-in,0
+Hall,19,President/Vice President,,NON,Write-in,8
+Hall,20,President/Vice President,,NON,Write-in,0
+Hall,21,President/Vice President,,NON,Write-in,2
+Hall,22,President/Vice President,,NON,Write-in,6
+Hall,23,President/Vice President,,NON,Write-in,3
+Hall,24,President/Vice President,,NON,Write-in,6
+Hall,25,President/Vice President,,NON,Write-in,9
+Hall,26,President/Vice President,,NON,Write-in,5
+Hall,27,President/Vice President,,NON,Write-in,0

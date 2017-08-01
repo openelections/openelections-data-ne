@@ -2,4 +2,4 @@
 Raw election results for Nebraska elections.
 
 ## Clarify scraper
-Inside `/bin` is a [Clarify](https://github.com/openelections/clarify) scraper that processes precinct-level results from the 2014 general election in Sarpy County.
+Inside `/bin` are two [Clarify](https://github.com/openelections/clarify) scrapers that process precinct-level results from the 2014 and 2016 general elections in Sarpy County.

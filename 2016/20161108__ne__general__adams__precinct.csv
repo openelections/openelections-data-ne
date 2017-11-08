@@ -1,0 +1,218 @@
+county,precinct,office,district,party,candidate,votes
+Adams,WEST BLUE/HIGHLAND,President,,Republican,Donald J. Trump,251
+Adams,VERONA,President,,Republican,Donald J. Trump,102
+Adams,KENESAW,President,,Republican,Donald J. Trump,450
+Adams,JUNIATA,President,,Republican,Donald J. Trump,327
+Adams,DENVER,President,,Republican,Donald J. Trump,413
+Adams,BLAINE,President,,Republican,Donald J. Trump,50
+Adams,PAULINE,President,,Republican,Donald J. Trump,114
+Adams,AYR,President,,Republican,Donald J. Trump,228
+Adams,ROSELAND,President,,Republican,Donald J. Trump,186
+Adams,HOLSTEIN,President,,Republican,Donald J. Trump,133
+Adams,1A,President,,Republican,Donald J. Trump,413
+Adams,1B,President,,Republican,Donald J. Trump,318
+Adams,1C,President,,Republican,Donald J. Trump,265
+Adams,2A,President,,Republican,Donald J. Trump,178
+Adams,2B,President,,Republican,Donald J. Trump,373
+Adams,2C,President,,Republican,Donald J. Trump,319
+Adams,2D,President,,Republican,Donald J. Trump,501
+Adams,2E,President,,Republican,Donald J. Trump,371
+Adams,3A,President,,Republican,Donald J. Trump,310
+Adams,3B,President,,Republican,Donald J. Trump,272
+Adams,3C,President,,Republican,Donald J. Trump,350
+Adams,3D,President,,Republican,Donald J. Trump,68
+Adams,3E,President,,Republican,Donald J. Trump,601
+Adams,4A,President,,Republican,Donald J. Trump,241
+Adams,4B,President,,Republican,Donald J. Trump,246
+Adams,4C,President,,Republican,Donald J. Trump,142
+Adams,4D,President,,Republican,Donald J. Trump,483
+Adams,4E,President,,Republican,Donald J. Trump,107
+Adams,EARLY VOTERS,President,,Republican,Donald J. Trump,1390
+Adams,PROVISIONAL,President,,Republican,Donald J. Trump,82
+Adams,TOTAL,President,,Republican,Donald J. Trump,9284
+Adams,WEST BLUE/HIGHLAND,President,,Democratic,Hillary Clinton,29
+Adams,VERONA,President,,Democratic,Hillary Clinton,15
+Adams,KENESAW,President,,Democratic,Hillary Clinton,47
+Adams,JUNIATA,President,,Democratic,Hillary Clinton,54
+Adams,DENVER,President,,Democratic,Hillary Clinton,78
+Adams,BLAINE,President,,Democratic,Hillary Clinton,3
+Adams,PAULINE,President,,Democratic,Hillary Clinton,18
+Adams,AYR,President,,Democratic,Hillary Clinton,32
+Adams,ROSELAND,President,,Democratic,Hillary Clinton,14
+Adams,HOLSTEIN,President,,Democratic,Hillary Clinton,19
+Adams,1A,President,,Democratic,Hillary Clinton,137
+Adams,1B,President,,Democratic,Hillary Clinton,111
+Adams,1C,President,,Democratic,Hillary Clinton,143
+Adams,2A,President,,Democratic,Hillary Clinton,41
+Adams,2B,President,,Democratic,Hillary Clinton,127
+Adams,2C,President,,Democratic,Hillary Clinton,107
+Adams,2D,President,,Democratic,Hillary Clinton,180
+Adams,2E,President,,Democratic,Hillary Clinton,128
+Adams,3A,President,,Democratic,Hillary Clinton,145
+Adams,3B,President,,Democratic,Hillary Clinton,161
+Adams,3C,President,,Democratic,Hillary Clinton,148
+Adams,3D,President,,Democratic,Hillary Clinton,32
+Adams,3E,President,,Democratic,Hillary Clinton,178
+Adams,4A,President,,Democratic,Hillary Clinton,139
+Adams,4B,President,,Democratic,Hillary Clinton,135
+Adams,4C,President,,Democratic,Hillary Clinton,86
+Adams,4D,President,,Democratic,Hillary Clinton,188
+Adams,4E,President,,Democratic,Hillary Clinton,26
+Adams,EARLY VOTERS,President,,Democratic,Hillary Clinton,751
+Adams,PROVISIONAL,President,,Democratic,Hillary Clinton,30
+Adams,TOTAL,President,,Democratic,Hillary Clinton,3302
+Adams,WEST BLUE/HIGHLAND,President,,Libertarian,Gary Johnson,4
+Adams,VERONA,President,,Libertarian,Gary Johnson,4
+Adams,KENESAW,President,,Libertarian,Gary Johnson,20
+Adams,JUNIATA,President,,Libertarian,Gary Johnson,15
+Adams,DENVER,President,,Libertarian,Gary Johnson,20
+Adams,BLAINE,President,,Libertarian,Gary Johnson,2
+Adams,PAULINE,President,,Libertarian,Gary Johnson,9
+Adams,AYR,President,,Libertarian,Gary Johnson,9
+Adams,ROSELAND,President,,Libertarian,Gary Johnson,6
+Adams,HOLSTEIN,President,,Libertarian,Gary Johnson,6
+Adams,1A,President,,Libertarian,Gary Johnson,45
+Adams,1B,President,,Libertarian,Gary Johnson,27
+Adams,1C,President,,Libertarian,Gary Johnson,18
+Adams,2A,President,,Libertarian,Gary Johnson,17
+Adams,2B,President,,Libertarian,Gary Johnson,26
+Adams,2C,President,,Libertarian,Gary Johnson,14
+Adams,2D,President,,Libertarian,Gary Johnson,42
+Adams,2E,President,,Libertarian,Gary Johnson,23
+Adams,3A,President,,Libertarian,Gary Johnson,27
+Adams,3B,President,,Libertarian,Gary Johnson,18
+Adams,3C,President,,Libertarian,Gary Johnson,31
+Adams,3D,President,,Libertarian,Gary Johnson,0
+Adams,3E,President,,Libertarian,Gary Johnson,37
+Adams,4A,President,,Libertarian,Gary Johnson,19
+Adams,4B,President,,Libertarian,Gary Johnson,21
+Adams,4C,President,,Libertarian,Gary Johnson,21
+Adams,4D,President,,Libertarian,Gary Johnson,22
+Adams,4E,President,,Libertarian,Gary Johnson,5
+Adams,EARLY VOTERS,President,,Libertarian,Gary Johnson,77
+Adams,PROVISIONAL,President,,Libertarian,Gary Johnson,9
+Adams,TOTAL,President,,Libertarian,Gary Johnson,594
+Adams,WEST BLUE/HIGHLAND,President,,,Jill Stein,0
+Adams,VERONA,President,,,Jill Stein,0
+Adams,KENESAW,President,,,Jill Stein,3
+Adams,JUNIATA,President,,,Jill Stein,3
+Adams,DENVER,President,,,Jill Stein,2
+Adams,BLAINE,President,,,Jill Stein,1
+Adams,PAULINE,President,,,Jill Stein,1
+Adams,AYR,President,,,Jill Stein,0
+Adams,ROSELAND,President,,,Jill Stein,1
+Adams,HOLSTEIN,President,,,Jill Stein,1
+Adams,1A,President,,,Jill Stein,11
+Adams,1B,President,,,Jill Stein,13
+Adams,1C,President,,,Jill Stein,1
+Adams,2A,President,,,Jill Stein,0
+Adams,2B,President,,,Jill Stein,2
+Adams,2C,President,,,Jill Stein,4
+Adams,2D,President,,,Jill Stein,6
+Adams,2E,President,,,Jill Stein,7
+Adams,3A,President,,,Jill Stein,9
+Adams,3B,President,,,Jill Stein,2
+Adams,3C,President,,,Jill Stein,12
+Adams,3D,President,,,Jill Stein,0
+Adams,3E,President,,,Jill Stein,3
+Adams,4A,President,,,Jill Stein,2
+Adams,4B,President,,,Jill Stein,6
+Adams,4C,President,,,Jill Stein,3
+Adams,4D,President,,,Jill Stein,6
+Adams,4E,President,,,Jill Stein,0
+Adams,EARLY VOTERS,President,,,Jill Stein,11
+Adams,PROVISIONAL,President,,,Jill Stein,1
+Adams,TOTAL,President,,,Jill Stein,111
+Adams,WEST BLUE/HIGHLAND,President,,,Write-ins,5
+Adams,VERONA,President,,,Write-ins,1
+Adams,KENESAW,President,,,Write-ins,9
+Adams,JUNIATA,President,,,Write-ins,7
+Adams,DENVER,President,,,Write-ins,8
+Adams,BLAINE,President,,,Write-ins,2
+Adams,PAULINE,President,,,Write-ins,0
+Adams,AYR,President,,,Write-ins,4
+Adams,ROSELAND,President,,,Write-ins,3
+Adams,HOLSTEIN,President,,,Write-ins,0
+Adams,1A,President,,,Write-ins,8
+Adams,1B,President,,,Write-ins,2
+Adams,1C,President,,,Write-ins,3
+Adams,2A,President,,,Write-ins,5
+Adams,2B,President,,,Write-ins,8
+Adams,2C,President,,,Write-ins,4
+Adams,2D,President,,,Write-ins,6
+Adams,2E,President,,,Write-ins,7
+Adams,3A,President,,,Write-ins,9
+Adams,3B,President,,,Write-ins,2
+Adams,3C,President,,,Write-ins,12
+Adams,3D,President,,,Write-ins,0
+Adams,3E,President,,,Write-ins,3
+Adams,4A,President,,,Write-ins,2
+Adams,4B,President,,,Write-ins,6
+Adams,4C,President,,,Write-ins,3
+Adams,4D,President,,,Write-ins,6
+Adams,4E,President,,,Write-ins,0
+Adams,EARLY VOTERS,President,,,Write-ins,11
+Adams,PROVISIONAL,President,,,Write-ins,1
+Adams,TOTAL,President,,,Write-ins,137
+Adams,WEST BLUE/HIGHLAND,U.S. House,3,Republican,Adrian Smith,245
+Adams,VERONA,U.S. House,3,Republican,Adrian Smith,104
+Adams,KENESAW,U.S. House,3,Republican,Adrian Smith,463
+Adams,JUNIATA,U.S. House,3,Republican,Adrian Smith,338
+Adams,DENVER,U.S. House,3,Republican,Adrian Smith,438
+Adams,BLAINE,U.S. House,3,Republican,Adrian Smith,52
+Adams,PAULINE,U.S. House,3,Republican,Adrian Smith,115
+Adams,AYR,U.S. House,3,Republican,Adrian Smith,245
+Adams,ROSELAND,U.S. House,3,Republican,Adrian Smith,177
+Adams,HOLSTEIN,U.S. House,3,Republican,Adrian Smith,127
+Adams,1A,U.S. House,3,Republican,Adrian Smith,503
+Adams,1B,U.S. House,3,Republican,Adrian Smith,398
+Adams,1C,U.S. House,3,Republican,Adrian Smith,360
+Adams,2A,U.S. House,3,Republican,Adrian Smith,203
+Adams,2B,U.S. House,3,Republican,Adrian Smith,454
+Adams,2C,U.S. House,3,Republican,Adrian Smith,375
+Adams,2D,U.S. House,3,Republican,Adrian Smith,618
+Adams,2E,U.S. House,3,Republican,Adrian Smith,456
+Adams,3A,U.S. House,3,Republican,Adrian Smith,394
+Adams,3B,U.S. House,3,Republican,Adrian Smith,333
+Adams,3C,U.S. House,3,Republican,Adrian Smith,439
+Adams,3D,U.S. House,3,Republican,Adrian Smith,81
+Adams,3E,U.S. House,3,Republican,Adrian Smith,703
+Adams,4A,U.S. House,3,Republican,Adrian Smith,330
+Adams,4B,U.S. House,3,Republican,Adrian Smith,334
+Adams,4C,U.S. House,3,Republican,Adrian Smith,197
+Adams,4D,U.S. House,3,Republican,Adrian Smith,570
+Adams,4E,U.S. House,3,Republican,Adrian Smith,104
+Adams,EARLY VOTERS,U.S. House,3,Republican,Adrian Smith,1680
+Adams,PROVISIONAL,U.S. House,3,Republican,Adrian Smith,102
+Adams,TOTAL,U.S. House,3,Republican,Adrian Smith,10938
+Adams,WEST BLUE/HIGHLAND,U.S. House,3,,Write-ins,2
+Adams,VERONA,U.S. House,3,,Write-ins,1
+Adams,KENESAW,U.S. House,3,,Write-ins,2
+Adams,JUNIATA,U.S. House,3,,Write-ins,5
+Adams,DENVER,U.S. House,3,,Write-ins,7
+Adams,BLAINE,U.S. House,3,,Write-ins,1
+Adams,PAULINE,U.S. House,3,,Write-ins,0
+Adams,AYR,U.S. House,3,,Write-ins,1
+Adams,ROSELAND,U.S. House,3,,Write-ins,0
+Adams,HOLSTEIN,U.S. House,3,,Write-ins,2
+Adams,1A,U.S. House,3,,Write-ins,20
+Adams,1B,U.S. House,3,,Write-ins,9
+Adams,1C,U.S. House,3,,Write-ins,7
+Adams,2A,U.S. House,3,,Write-ins,0
+Adams,2B,U.S. House,3,,Write-ins,4
+Adams,2C,U.S. House,3,,Write-ins,17
+Adams,2D,U.S. House,3,,Write-ins,10
+Adams,2E,U.S. House,3,,Write-ins,8
+Adams,3A,U.S. House,3,,Write-ins,25
+Adams,3B,U.S. House,3,,Write-ins,9
+Adams,3C,U.S. House,3,,Write-ins,20
+Adams,3D,U.S. House,3,,Write-ins,2
+Adams,3E,U.S. House,3,,Write-ins,8
+Adams,4A,U.S. House,3,,Write-ins,13
+Adams,4B,U.S. House,3,,Write-ins,16
+Adams,4C,U.S. House,3,,Write-ins,12
+Adams,4D,U.S. House,3,,Write-ins,16
+Adams,4E,U.S. House,3,,Write-ins,3
+Adams,EARLY VOTERS,U.S. House,3,,Write-ins,69
+Adams,PROVISIONAL,U.S. House,3,,Write-ins,2
+Adams,TOTAL,U.S. House,3,,Write-ins,291

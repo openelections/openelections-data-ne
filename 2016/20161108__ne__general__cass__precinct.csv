@@ -1,0 +1,307 @@
+county,precinct,office,district,party,candidate,election_day,early_voting,provisional,votes
+Cass,Tipton,Registered Voters,,,,,,,1448
+Cass,McKelverly,Registered Voters,,,,,,,306
+Cass,Salt Creek,Registered Voters,,,,,,,602
+Cass,Stove Creek,Registered Voters,,,,,,,668
+Cass,Murdock,Registered Voters,,,,,,,458
+Cass,South Bend,Registered Voters,,,,,,,645
+Cass,Center,Registered Voters,,,,,,,393
+Cass,East Louisville,Registered Voters,,,,,,,568
+Cass,West Louisville,Registered Voters,,,,,,,770
+Cass,Avoca,Registered Voters,,,,,,,373
+Cass,Mount Pleasant,Registered Voters,,,,,,,172
+Cass,Eight Mile Grove,Registered Voters,,,,,,,714
+Cass,Nehawka,Registered Voters,,,,,,,252
+Cass,Liberty,Registered Voters,,,,,,,440
+Cass,North Rock Bluff,Registered Voters,,,,,,,752
+Cass,South Rock Bluff,Registered Voters,,,,,,,1213
+Cass,West Rock Bluff,Registered Voters,,,,,,,503
+Cass,North Plattsmouth,Registered Voters,,,,,,,1549
+Cass,South Plattsmouth,Registered Voters,,,,,,,925
+Cass,Weeping Water Ward 1,Registered Voters,,,,,,,384
+Cass,Weeping Water Ward 2,Registered Voters,,,,,,,403
+Cass,1st. Ward 1st. Precinct,Registered Voters,,,,,,,548
+Cass,1st. Ward 2nd. Precinct,Registered Voters,,,,,,,492
+Cass,2nd. Ward 1st. Precinct,Registered Voters,,,,,,,503
+Cass,2nd. Ward 2nd. Precinct,Registered Voters,,,,,,,469
+Cass,3rd. Ward 1st. Precinct,Registered Voters,,,,,,,509
+Cass,3rd. Ward 2nd. Precinct,Registered Voters,,,,,,,479
+Cass,4th. Ward 1st. Precinct,Registered Voters,,,,,,,413
+Cass,4th. Ward 2nd. Precinct,Registered Voters,,,,,,,539
+Cass,Total,Registered Voters,,,,,,,17490
+Cass,Tipton,Ballots Cast,,,,,,,1102
+Cass,McKelverly,Ballots Cast,,,,,,,240
+Cass,Salt Creek,Ballots Cast,,,,,,,463
+Cass,Stove Creek,Ballots Cast,,,,,,,501
+Cass,Murdock,Ballots Cast,,,,,,,356
+Cass,South Bend,Ballots Cast,,,,,,,519
+Cass,Center,Ballots Cast,,,,,,,300
+Cass,East Louisville,Ballots Cast,,,,,,,441
+Cass,West Louisville,Ballots Cast,,,,,,,594
+Cass,Avoca,Ballots Cast,,,,,,,258
+Cass,Mount Pleasant,Ballots Cast,,,,,,,129
+Cass,Eight Mile Grove,Ballots Cast,,,,,,,587
+Cass,Nehawka,Ballots Cast,,,,,,,187
+Cass,Liberty,Ballots Cast,,,,,,,323
+Cass,North Rock Bluff,Ballots Cast,,,,,,,584
+Cass,South Rock Bluff,Ballots Cast,,,,,,,937
+Cass,West Rock Bluff,Ballots Cast,,,,,,,399
+Cass,North Plattsmouth,Ballots Cast,,,,,,,1227
+Cass,South Plattsmouth,Ballots Cast,,,,,,,731
+Cass,Weeping Water Ward 1,Ballots Cast,,,,,,,296
+Cass,Weeping Water Ward 2,Ballots Cast,,,,,,,292
+Cass,1st. Ward 1st. Precinct,Ballots Cast,,,,,,,347
+Cass,1st. Ward 2nd. Precinct,Ballots Cast,,,,,,,334
+Cass,2nd. Ward 1st. Precinct,Ballots Cast,,,,,,,365
+Cass,2nd. Ward 2nd. Precinct,Ballots Cast,,,,,,,329
+Cass,3rd. Ward 1st. Precinct,Ballots Cast,,,,,,,341
+Cass,3rd. Ward 2nd. Precinct,Ballots Cast,,,,,,,291
+Cass,4th. Ward 1st. Precinct,Ballots Cast,,,,,,,259
+Cass,4th. Ward 2nd. Precinct,Ballots Cast,,,,,,,361
+Cass,New/Former Resident,Ballots Cast,,,,,,,4
+Cass,Total,Ballots Cast,,,,,,,13097
+Cass,Tipton,President,,Republican,Donald J. Trump,620,93,1,714
+Cass,McKelverly,President,,Republican,Donald J. Trump,136,13,1,150
+Cass,Salt Creek,President,,Republican,Donald J. Trump,259,32,1,292
+Cass,Stove Creek,President,,Republican,Donald J. Trump,267,45,1,313
+Cass,Murdock,President,,Republican,Donald J. Trump,198,25,1,224
+Cass,South Bend,President,,Republican,Donald J. Trump,300,49,1,350
+Cass,Center,President,,Republican,Donald J. Trump,164,35,0,199
+Cass,East Louisville,President,,Republican,Donald J. Trump,229,38,0,267
+Cass,West Louisville,President,,Republican,Donald J. Trump,333,70,2,405
+Cass,Avoca,President,,Republican,Donald J. Trump,147,18,0,165
+Cass,Mount Pleasant,President,,Republican,Donald J. Trump,76,11,0,87
+Cass,Eight Mile Grove,President,,Republican,Donald J. Trump,307,85,3,395
+Cass,Nehawka,President,,Republican,Donald J. Trump,104,21,0,125
+Cass,Liberty,President,,Republican,Donald J. Trump,189,42,1,232
+Cass,North Rock Bluff,President,,Republican,Donald J. Trump,311,73,5,389
+Cass,South Rock Bluff,President,,Republican,Donald J. Trump,500,151,1,652
+Cass,West Rock Bluff,President,,Republican,Donald J. Trump,217,41,0,258
+Cass,North Plattsmouth,President,,Republican,Donald J. Trump,595,193,1,789
+Cass,South Plattsmouth,President,,Republican,Donald J. Trump,361,135,7,503
+Cass,Weeping Water Ward 1,President,,Republican,Donald J. Trump,151,16,2,169
+Cass,Weeping Water Ward 2,President,,Republican,Donald J. Trump,144,22,1,167
+Cass,1st. Ward 1st. Precinct,President,,Republican,Donald J. Trump,155,55,1,211
+Cass,1st. Ward 2nd. Precinct,President,,Republican,Donald J. Trump,142,64,2,208
+Cass,2nd. Ward 1st. Precinct,President,,Republican,Donald J. Trump,182,43,2,227
+Cass,2nd. Ward 2nd. Precinct,President,,Republican,Donald J. Trump,143,51,4,198
+Cass,3rd. Ward 1st. Precinct,President,,Republican,Donald J. Trump,175,35,4,214
+Cass,3rd. Ward 2nd. Precinct,President,,Republican,Donald J. Trump,144,32,1,177
+Cass,4th. Ward 1st. Precinct,President,,Republican,Donald J. Trump,114,30,5,149
+Cass,4th. Ward 2nd. Precinct,President,,Republican,Donald J. Trump,174,46,0,220
+Cass,New/Former Resident,President,,Republican,Donald J. Trump,3,0,0,3
+Cass,Total,President,,Republican,Donald J. Trump,6840,1564,48,8452
+Cass,Tipton,President,,Democratic,Hillary Clinton,247,60,2,309
+Cass,McKelverly,President,,Democratic,Hillary Clinton,52,20,0,72
+Cass,Salt Creek,President,,Democratic,Hillary Clinton,85,29,3,117
+Cass,Stove Creek,President,,Democratic,Hillary Clinton,138,12,1,151
+Cass,Murdock,President,,Democratic,Hillary Clinton,87,18,0,105
+Cass,South Bend,President,,Democratic,Hillary Clinton,92,37,2,131
+Cass,Center,President,,Democratic,Hillary Clinton,52,19,0,71
+Cass,East Louisville,President,,Democratic,Hillary Clinton,117,20,2,139
+Cass,West Louisville,President,,Democratic,Hillary Clinton,103,37,2,142
+Cass,Avoca,President,,Democratic,Hillary Clinton,58,8,0,66
+Cass,Mount Pleasant,President,,Democratic,Hillary Clinton,17,8,0,25
+Cass,Eight Mile Grove,President,,Democratic,Hillary Clinton,99,40,0,139
+Cass,Nehawka,President,,Democratic,Hillary Clinton,38,9,0,47
+Cass,Liberty,President,,Democratic,Hillary Clinton,44,27,1,72
+Cass,North Rock Bluff,President,,Democratic,Hillary Clinton,106,49,1,156
+Cass,South Rock Bluff,President,,Democratic,Hillary Clinton,138,72,1,211
+Cass,West Rock Bluff,President,,Democratic,Hillary Clinton,68,36,0,104
+Cass,North Plattsmouth,President,,Democratic,Hillary Clinton,235,107,0,342
+Cass,South Plattsmouth,President,,Democratic,Hillary Clinton,126,49,0,175
+Cass,Weeping Water Ward 1,President,,Democratic,Hillary Clinton,83,13,0,96
+Cass,Weeping Water Ward 2,President,,Democratic,Hillary Clinton,75,12,0,87
+Cass,1st. Ward 1st. Precinct,President,,Democratic,Hillary Clinton,66,38,0,104
+Cass,1st. Ward 2nd. Precinct,President,,Democratic,Hillary Clinton,58,39,1,98
+Cass,2nd. Ward 1st. Precinct,President,,Democratic,Hillary Clinton,58,39,0,97
+Cass,2nd. Ward 2nd. Precinct,President,,Democratic,Hillary Clinton,66,28,0,94
+Cass,3rd. Ward 1st. Precinct,President,,Democratic,Hillary Clinton,58,26,0,84
+Cass,3rd. Ward 2nd. Precinct,President,,Democratic,Hillary Clinton,51,26,0,77
+Cass,4th. Ward 1st. Precinct,President,,Democratic,Hillary Clinton,45,23,2,70
+Cass,4th. Ward 2nd. Precinct,President,,Democratic,Hillary Clinton,73,28,1,102
+Cass,New/Former Resident,President,,Democratic,Hillary Clinton,1,0,0,1
+Cass,Total,President,,Democratic,Hillary Clinton,2536,929,19,3484
+Cass,Tipton,President,,Libertarian,Gary Johnson,38,11,0,49
+Cass,McKelverly,President,,Libertarian,Gary Johnson,9,1,0,10
+Cass,Salt Creek,President,,Libertarian,Gary Johnson,36,3,0,39
+Cass,Stove Creek,President,,Libertarian,Gary Johnson,18,1,0,19
+Cass,Murdock,President,,Libertarian,Gary Johnson,6,1,0,7
+Cass,South Bend,President,,Libertarian,Gary Johnson,9,6,0,15
+Cass,Center,President,,Libertarian,Gary Johnson,15,3,0,18
+Cass,East Louisville,President,,Libertarian,Gary Johnson,23,1,0,24
+Cass,West Louisville,President,,Libertarian,Gary Johnson,19,3,0,22
+Cass,Avoca,President,,Libertarian,Gary Johnson,17,1,0,18
+Cass,Mount Pleasant,President,,Libertarian,Gary Johnson,7,1,0,8
+Cass,Eight Mile Grove,President,,Libertarian,Gary Johnson,24,8,0,32
+Cass,Nehawka,President,,Libertarian,Gary Johnson,8,0,0,8
+Cass,Liberty,President,,Libertarian,Gary Johnson,5,5,0,10
+Cass,North Rock Bluff,President,,Libertarian,Gary Johnson,14,1,0,15
+Cass,South Rock Bluff,President,,Libertarian,Gary Johnson,32,8,0,40
+Cass,West Rock Bluff,President,,Libertarian,Gary Johnson,11,3,1,15
+Cass,North Plattsmouth,President,,Libertarian,Gary Johnson,34,8,0,42
+Cass,South Plattsmouth,President,,Libertarian,Gary Johnson,19,8,0,27
+Cass,Weeping Water Ward 1,President,,Libertarian,Gary Johnson,14,1,1,16
+Cass,Weeping Water Ward 2,President,,Libertarian,Gary Johnson,21,1,1,23
+Cass,1st. Ward 1st. Precinct,President,,Libertarian,Gary Johnson,15,4,0,19
+Cass,1st. Ward 2nd. Precinct,President,,Libertarian,Gary Johnson,12,3,0,15
+Cass,2nd. Ward 1st. Precinct,President,,Libertarian,Gary Johnson,14,9,0,23
+Cass,2nd. Ward 2nd. Precinct,President,,Libertarian,Gary Johnson,18,0,0,18
+Cass,3rd. Ward 1st. Precinct,President,,Libertarian,Gary Johnson,22,14,0,36
+Cass,3rd. Ward 2nd. Precinct,President,,Libertarian,Gary Johnson,16,6,2,24
+Cass,4th. Ward 1st. Precinct,President,,Libertarian,Gary Johnson,17,5,2,24
+Cass,4th. Ward 2nd. Precinct,President,,Libertarian,Gary Johnson,18,4,1,23
+Cass,New/Former Resident,President,,Libertarian,Gary Johnson,0,0,0,0
+Cass,Total,President,,Libertarian,Gary Johnson,511,120,8,639
+Cass,Tipton,President,,Green,Jill Stein,4,1,0,5
+Cass,McKelverly,President,,Green,Jill Stein,2,0,0,2
+Cass,Salt Creek,President,,Green,Jill Stein,1,0,0,1
+Cass,Stove Creek,President,,Green,Jill Stein,2,2,0,4
+Cass,Murdock,President,,Green,Jill Stein,3,2,0,5
+Cass,South Bend,President,,Green,Jill Stein,1,0,0,1
+Cass,Center,President,,Green,Jill Stein,1,0,0,1
+Cass,East Louisville,President,,Green,Jill Stein,0,0,0,0
+Cass,West Louisville,President,,Green,Jill Stein,3,3,0,6
+Cass,Avoca,President,,Green,Jill Stein,2,0,0,2
+Cass,Mount Pleasant,President,,Green,Jill Stein,1,3,0,4
+Cass,Eight Mile Grove,President,,Green,Jill Stein,4,2,0,6
+Cass,Nehawka,President,,Green,Jill Stein,1,0,0,1
+Cass,Liberty,President,,Green,Jill Stein,2,1,0,3
+Cass,North Rock Bluff,President,,Green,Jill Stein,6,0,0,6
+Cass,South Rock Bluff,President,,Green,Jill Stein,11,1,0,12
+Cass,West Rock Bluff,President,,Green,Jill Stein,4,4,0,8
+Cass,North Plattsmouth,President,,Green,Jill Stein,9,4,0,13
+Cass,South Plattsmouth,President,,Green,Jill Stein,3,1,0,4
+Cass,Weeping Water Ward 1,President,,Green,Jill Stein,4,0,0,4
+Cass,Weeping Water Ward 2,President,,Green,Jill Stein,2,0,1,3
+Cass,1st. Ward 1st. Precinct,President,,Green,Jill Stein,7,0,0,7
+Cass,1st. Ward 2nd. Precinct,President,,Green,Jill Stein,4,1,0,5
+Cass,2nd. Ward 1st. Precinct,President,,Green,Jill Stein,3,1,0,4
+Cass,2nd. Ward 2nd. Precinct,President,,Green,Jill Stein,3,2,0,5
+Cass,3rd. Ward 1st. Precinct,President,,Green,Jill Stein,2,0,0,2
+Cass,3rd. Ward 2nd. Precinct,President,,Green,Jill Stein,3,1,0,4
+Cass,4th. Ward 1st. Precinct,President,,Green,Jill Stein,3,3,0,6
+Cass,4th. Ward 2nd. Precinct,President,,Green,Jill Stein,8,0,0,8
+Cass,New/Former Resident,President,,Green,Jill Stein,0,0,0,0
+Cass,Total,President,,Green,Jill Stein,99,32,1,132
+Cass,Tipton,President,,,Write-ins,10,9,0,19
+Cass,McKelverly,President,,,Write-ins,0,4,0,4
+Cass,Salt Creek,President,,,Write-ins,5,1,0,6
+Cass,Stove Creek,President,,,Write-ins,9,0,0,9
+Cass,Murdock,President,,,Write-ins,10,0,0,10
+Cass,South Bend,President,,,Write-ins,10,2,1,13
+Cass,Center,President,,,Write-ins,2,2,0,4
+Cass,East Louisville,President,,,Write-ins,5,0,1,6
+Cass,West Louisville,President,,,Write-ins,5,2,0,7
+Cass,Avoca,President,,,Write-ins,6,1,0,7
+Cass,Mount Pleasant,President,,,Write-ins,3,0,0,3
+Cass,Eight Mile Grove,President,,,Write-ins,5,3,0,8
+Cass,Nehawka,President,,,Write-ins,0,0,0,0
+Cass,Liberty,President,,,Write-ins,3,1,0,4
+Cass,North Rock Bluff,President,,,Write-ins,10,3,0,13
+Cass,South Rock Bluff,President,,,Write-ins,10,4,0,14
+Cass,West Rock Bluff,President,,,Write-ins,4,5,0,9
+Cass,North Plattsmouth,President,,,Write-ins,13,9,0,22
+Cass,South Plattsmouth,President,,,Write-ins,9,2,0,11
+Cass,Weeping Water Ward 1,President,,,Write-ins,6,0,0,6
+Cass,Weeping Water Ward 2,President,,,Write-ins,3,0,0,3
+Cass,1st. Ward 1st. Precinct,President,,,Write-ins,3,1,0,4
+Cass,1st. Ward 2nd. Precinct,President,,,Write-ins,1,1,0,2
+Cass,2nd. Ward 1st. Precinct,President,,,Write-ins,9,1,0,10
+Cass,2nd. Ward 2nd. Precinct,President,,,Write-ins,6,4,0,10
+Cass,3rd. Ward 1st. Precinct,President,,,Write-ins,1,3,0,4
+Cass,3rd. Ward 2nd. Precinct,President,,,Write-ins,5,2,0,7
+Cass,4th. Ward 1st. Precinct,President,,,Write-ins,4,3,0,7
+Cass,4th. Ward 2nd. Precinct,President,,,Write-ins,3,1,0,4
+Cass,New/Former Resident,President,,,Write-ins,0,0,0,0
+Cass,Total,President,,,Write-ins,160,64,2,226
+Cass,Tipton,U.S. House,1,Republican,Jeff Fortenberry,671,111,2,784
+Cass,McKelverly,U.S. House,1,Republican,Jeff Fortenberry,148,21,1,170
+Cass,Salt Creek,U.S. House,1,Republican,Jeff Fortenberry,280,37,1,318
+Cass,Stove Creek,U.S. House,1,Republican,Jeff Fortenberry,304,45,2,351
+Cass,Murdock,U.S. House,1,Republican,Jeff Fortenberry,231,25,1,257
+Cass,South Bend,U.S. House,1,Republican,Jeff Fortenberry,329,73,1,403
+Cass,Center,U.S. House,1,Republican,Jeff Fortenberry,165,43,0,208
+Cass,East Louisville,U.S. House,1,Republican,Jeff Fortenberry,248,45,1,294
+Cass,West Louisville,U.S. House,1,Republican,Jeff Fortenberry,359,74,2,435
+Cass,Avoca,U.S. House,1,Republican,Jeff Fortenberry,172,21,0,193
+Cass,Mount Pleasant,U.S. House,1,Republican,Jeff Fortenberry,83,16,0,99
+Cass,Eight Mile Grove,U.S. House,1,Republican,Jeff Fortenberry,330,88,2,420
+Cass,Nehawka,U.S. House,1,Republican,Jeff Fortenberry,115,17,0,132
+Cass,Liberty,U.S. House,1,Republican,Jeff Fortenberry,187,44,2,233
+Cass,North Rock Bluff,U.S. House,1,Republican,Jeff Fortenberry,338,89,3,430
+Cass,South Rock Bluff,U.S. House,1,Republican,Jeff Fortenberry,539,164,2,705
+Cass,West Rock Bluff,U.S. House,1,Republican,Jeff Fortenberry,232,61,1,294
+Cass,North Plattsmouth,U.S. House,1,Republican,Jeff Fortenberry,663,215,0,878
+Cass,South Plattsmouth,U.S. House,1,Republican,Jeff Fortenberry,402,146,7,555
+Cass,Weeping Water Ward 1,U.S. House,1,Republican,Jeff Fortenberry,184,17,3,204
+Cass,Weeping Water Ward 2,U.S. House,1,Republican,Jeff Fortenberry,166,21,3,190
+Cass,1st. Ward 1st. Precinct,U.S. House,1,Republican,Jeff Fortenberry,176,57,1,234
+Cass,1st. Ward 2nd. Precinct,U.S. House,1,Republican,Jeff Fortenberry,163,72,2,237
+Cass,2nd. Ward 1st. Precinct,U.S. House,1,Republican,Jeff Fortenberry,195,50,2,247
+Cass,2nd. Ward 2nd. Precinct,U.S. House,1,Republican,Jeff Fortenberry,163,53,3,219
+Cass,3rd. Ward 1st. Precinct,U.S. House,1,Republican,Jeff Fortenberry,187,51,4,242
+Cass,3rd. Ward 2nd. Precinct,U.S. House,1,Republican,Jeff Fortenberry,158,32,1,191
+Cass,4th. Ward 1st. Precinct,U.S. House,1,Republican,Jeff Fortenberry,128,35,6,169
+Cass,4th. Ward 2nd. Precinct,U.S. House,1,Republican,Jeff Fortenberry,185,46,0,231
+Cass,Total,U.S. House,1,Republican,Jeff Fortenberry,7501,1769,53,9323
+Cass,Tipton,U.S. House,1,Democratic,Daniel M. Wik,197,56,0,253
+Cass,McKelverly,U.S. House,1,Democratic,Daniel M. Wik,47,15,0,62
+Cass,Salt Creek,U.S. House,1,Democratic,Daniel M. Wik,86,28,3,117
+Cass,Stove Creek,U.S. House,1,Democratic,Daniel M. Wik,105,12,0,117
+Cass,Murdock,U.S. House,1,Democratic,Daniel M. Wik,64,18,0,82
+Cass,South Bend,U.S. House,1,Democratic,Daniel M. Wik,64,18,3,85
+Cass,Center,U.S. House,1,Democratic,Daniel M. Wik,58,11,0,69
+Cass,East Louisville,U.S. House,1,Democratic,Daniel M. Wik,99,10,2,111
+Cass,West Louisville,U.S. House,1,Democratic,Daniel M. Wik,79,37,2,118
+Cass,Avoca,U.S. House,1,Democratic,Daniel M. Wik,46,5,0,51
+Cass,Mount Pleasant,U.S. House,1,Democratic,Daniel M. Wik,15,5,0,20
+Cass,Eight Mile Grove,U.S. House,1,Democratic,Daniel M. Wik,84,44,1,129
+Cass,Nehawka,U.S. House,1,Democratic,Daniel M. Wik,27,8,0,35
+Cass,Liberty,U.S. House,1,Democratic,Daniel M. Wik,47,26,0,73
+Cass,North Rock Bluff,U.S. House,1,Democratic,Daniel M. Wik,91,33,1,125
+Cass,South Rock Bluff,U.S. House,1,Democratic,Daniel M. Wik,128,71,0,199
+Cass,West Rock Bluff,U.S. House,1,Democratic,Daniel M. Wik,56,27,0,83
+Cass,North Plattsmouth,U.S. House,1,Democratic,Daniel M. Wik,191,93,0,284
+Cass,South Plattsmouth,U.S. House,1,Democratic,Daniel M. Wik,94,43,0,137
+Cass,Weeping Water Ward 1,U.S. House,1,Democratic,Daniel M. Wik,62,11,0,73
+Cass,Weeping Water Ward 2,U.S. House,1,Democratic,Daniel M. Wik,73,10,0,83
+Cass,1st. Ward 1st. Precinct,U.S. House,1,Democratic,Daniel M. Wik,61,35,0,96
+Cass,1st. Ward 2nd. Precinct,U.S. House,1,Democratic,Daniel M. Wik,46,31,1,78
+Cass,2nd. Ward 1st. Precinct,U.S. House,1,Democratic,Daniel M. Wik,58,36,0,94
+Cass,2nd. Ward 2nd. Precinct,U.S. House,1,Democratic,Daniel M. Wik,61,29,0,90
+Cass,3rd. Ward 1st. Precinct,U.S. House,1,Democratic,Daniel M. Wik,51,24,0,75
+Cass,3rd. Ward 2nd. Precinct,U.S. House,1,Democratic,Daniel M. Wik,46,32,1,79
+Cass,4th. Ward 1st. Precinct,U.S. House,1,Democratic,Daniel M. Wik,38,24,3,65
+Cass,4th. Ward 2nd. Precinct,U.S. House,1,Democratic,Daniel M. Wik,80,28,2,110
+Cass,Total,U.S. House,1,Democratic,Daniel M. Wik,2154,820,19,2993
+Cass,Tipton,U.S. House,1,,Write-ins,1,0,0,1
+Cass,McKelverly,U.S. House,1,,Write-ins,0,0,0,0
+Cass,Salt Creek,U.S. House,1,,Write-ins,0,0,0,0
+Cass,Stove Creek,U.S. House,1,,Write-ins,0,0,0,0
+Cass,Murdock,U.S. House,1,,Write-ins,0,0,0,0
+Cass,South Bend,U.S. House,1,,Write-ins,1,0,0,1
+Cass,Center,U.S. House,1,,Write-ins,2,0,0,2
+Cass,East Louisville,U.S. House,1,,Write-ins,0,1,0,1
+Cass,West Louisville,U.S. House,1,,Write-ins,1,0,0,1
+Cass,Avoca,U.S. House,1,,Write-ins,0,0,0,0
+Cass,Mount Pleasant,U.S. House,1,,Write-ins,0,0,0,0
+Cass,Eight Mile Grove,U.S. House,1,,Write-ins,1,1,0,2
+Cass,Nehawka,U.S. House,1,,Write-ins,0,0,0,0
+Cass,Liberty,U.S. House,1,,Write-ins,0,0,0,0
+Cass,North Rock Bluff,U.S. House,1,,Write-ins,0,0,0,0
+Cass,South Rock Bluff,U.S. House,1,,Write-ins,0,0,0,0
+Cass,West Rock Bluff,U.S. House,1,,Write-ins,0,0,0,0
+Cass,North Plattsmouth,U.S. House,1,,Write-ins,2,2,0,4
+Cass,South Plattsmouth,U.S. House,1,,Write-ins,2,1,0,3
+Cass,Weeping Water Ward 1,U.S. House,1,,Write-ins,0,0,0,0
+Cass,Weeping Water Ward 2,U.S. House,1,,Write-ins,0,2,0,2
+Cass,1st. Ward 1st. Precinct,U.S. House,1,,Write-ins,1,1,0,2
+Cass,1st. Ward 2nd. Precinct,U.S. House,1,,Write-ins,0,0,0,0
+Cass,2nd. Ward 1st. Precinct,U.S. House,1,,Write-ins,0,0,0,0
+Cass,2nd. Ward 2nd. Precinct,U.S. House,1,,Write-ins,0,0,0,0
+Cass,3rd. Ward 1st. Precinct,U.S. House,1,,Write-ins,1,0,0,1
+Cass,3rd. Ward 2nd. Precinct,U.S. House,1,,Write-ins,0,0,0,0
+Cass,4th. Ward 1st. Precinct,U.S. House,1,,Write-ins,0,1,0,1
+Cass,4th. Ward 2nd. Precinct,U.S. House,1,,Write-ins,0,0,0,0
+Cass,Total,U.S. House,1,,Write-ins,12,9,0,21

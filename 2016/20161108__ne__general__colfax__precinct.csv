@@ -1,0 +1,78 @@
+county,precinct,office,district,party,candidate,votes
+Colfax,Absentee,President,,Republican,Donald J. Trump,344
+Colfax,1,President,,Republican,Donald J. Trump,243
+Colfax,2,President,,Republican,Donald J. Trump,405
+Colfax,3,President,,Republican,Donald J. Trump,370
+Colfax,4,President,,Republican,Donald J. Trump,487
+Colfax,5,President,,Republican,Donald J. Trump,322
+Colfax,Total,President,,Republican,Donald J. Trump,2171
+Colfax,Absentee,President,,Democratic,Hillary Clinton,214
+Colfax,1,President,,Democratic,Hillary Clinton,139
+Colfax,2,President,,Democratic,Hillary Clinton,193
+Colfax,3,President,,Democratic,Hillary Clinton,181
+Colfax,4,President,,Democratic,Hillary Clinton,89
+Colfax,5,President,,Democratic,Hillary Clinton,43
+Colfax,Total,President,,Democratic,Hillary Clinton,859
+Colfax,Absentee,President,,Libertarian,Gary Johnson,20
+Colfax,1,President,,Libertarian,Gary Johnson,16
+Colfax,2,President,,Libertarian,Gary Johnson,18
+Colfax,3,President,,Libertarian,Gary Johnson,33
+Colfax,4,President,,Libertarian,Gary Johnson,13
+Colfax,5,President,,Libertarian,Gary Johnson,18
+Colfax,Total,President,,Libertarian,Gary Johnson,118
+Colfax,Absentee,President,,,Jill Stein,4
+Colfax,1,President,,,Jill Stein,6
+Colfax,2,President,,,Jill Stein,4
+Colfax,3,President,,,Jill Stein,5
+Colfax,4,President,,,Jill Stein,4
+Colfax,5,President,,,Jill Stein,3
+Colfax,Total,President,,,Jill Stein,26
+Colfax,Absentee,President,,,Write-ins,7
+Colfax,1,President,,,Write-ins,4
+Colfax,2,President,,,Write-ins,10
+Colfax,3,President,,,Write-ins,6
+Colfax,4,President,,,Write-ins,4
+Colfax,5,President,,,Write-ins,9
+Colfax,Total,President,,,Write-ins,40
+Colfax,Absentee,U.S. House,1,Republican,Jeff Fortenberry,390
+Colfax,1,U.S. House,1,Republican,Jeff Fortenberry,265
+Colfax,2,U.S. House,1,Republican,Jeff Fortenberry,458
+Colfax,3,U.S. House,1,Republican,Jeff Fortenberry,426
+Colfax,4,U.S. House,1,Republican,Jeff Fortenberry,525
+Colfax,5,U.S. House,1,Republican,Jeff Fortenberry,352
+Colfax,Total,U.S. House,1,Republican,Jeff Fortenberry,2416
+Colfax,Absentee,U.S. House,1,Democratic,Daniel M. Wik,173
+Colfax,1,U.S. House,1,Democratic,Daniel M. Wik,133
+Colfax,2,U.S. House,1,Democratic,Daniel M. Wik,175
+Colfax,3,U.S. House,1,Democratic,Daniel M. Wik,156
+Colfax,4,U.S. House,1,Democratic,Daniel M. Wik,60
+Colfax,5,U.S. House,1,Democratic,Daniel M. Wik,40
+Colfax,Total,U.S. House,1,Democratic,Daniel M. Wik,737
+Colfax,Absentee,U.S. House,1,,Write-ins,0
+Colfax,1,U.S. House,1,,Write-ins,0
+Colfax,2,U.S. House,1,,Write-ins,1
+Colfax,3,U.S. House,1,,Write-ins,2
+Colfax,4,U.S. House,1,,Write-ins,0
+Colfax,5,U.S. House,1,,Write-ins,0
+Colfax,Total,U.S. House,1,,Write-ins,3
+Colfax,Absentee,State Senate,23,,Jerry Johnson,202
+Colfax,1,State Senate,23,,Jerry Johnson,181
+Colfax,2,State Senate,23,,Jerry Johnson,278
+Colfax,3,State Senate,23,,Jerry Johnson,269
+Colfax,4,State Senate,23,,Jerry Johnson,0
+Colfax,5,State Senate,23,,Jerry Johnson,164
+Colfax,Total,State Senate,23,,Jerry Johnson,1094
+Colfax,Absentee,State Senate,23,,Bruce Bostelman,184
+Colfax,1,State Senate,23,,Bruce Bostelman,189
+Colfax,2,State Senate,23,,Bruce Bostelman,287
+Colfax,3,State Senate,23,,Bruce Bostelman,275
+Colfax,4,State Senate,23,,Bruce Bostelman,0
+Colfax,5,State Senate,23,,Bruce Bostelman,179
+Colfax,Total,State Senate,23,,Bruce Bostelman,1114
+Colfax,Absentee,State Senate,23,,Write-ins,2
+Colfax,1,State Senate,23,,Write-ins,1
+Colfax,2,State Senate,23,,Write-ins,5
+Colfax,3,State Senate,23,,Write-ins,4
+Colfax,4,State Senate,23,,Write-ins,0
+Colfax,5,State Senate,23,,Write-ins,0
+Colfax,Total,State Senate,23,,Write-ins,12

@@ -1,0 +1,36 @@
+county,precinct,office,district,party,candidate,votes
+Franklin,Hildreth,President,,R,Donald J. Trump,296
+Franklin,Campbell,President,,R,Donald J. Trump,190
+Franklin,W. Franklin,President,,R,Donald J. Trump,363
+Franklin,E. Franklin,President,,R,Donald J. Trump,219
+Franklin,Early,President,,R,Donald J. Trump,277
+Franklin,Provisional,President,,R,Donald J. Trump,2
+Franklin,Total,President,,R,Donald J. Trump,1347
+Franklin,Hildreth,President,,D,Hillary Clinton,45
+Franklin,Campbell,President,,D,Hillary Clinton,30
+Franklin,W. Franklin,President,,D,Hillary Clinton,45
+Franklin,E. Franklin,President,,D,Hillary Clinton,37
+Franklin,Early,President,,D,Hillary Clinton,93
+Franklin,Provisional,President,,D,Hillary Clinton,0
+Franklin,Total,President,,D,Hillary Clinton,250
+Franklin,Hildreth,President,,L,Gary Johnson,12
+Franklin,Campbell,President,,L,Gary Johnson,4
+Franklin,W. Franklin,President,,L,Gary Johnson,12
+Franklin,E. Franklin,President,,L,Gary Johnson,13
+Franklin,Early,President,,L,Gary Johnson,13
+Franklin,Provisional,President,,L,Gary Johnson,0
+Franklin,Total,President,,L,Gary Johnson,54
+Franklin,Hildreth,President,,,Jill Stein,1
+Franklin,Campbell,President,,,Jill Stein,0
+Franklin,W. Franklin,President,,,Jill Stein,1
+Franklin,E. Franklin,President,,,Jill Stein,3
+Franklin,Early,President,,,Jill Stein,2
+Franklin,Provisional,President,,,Jill Stein,0
+Franklin,Total,President,,,Jill Stein,7
+Franklin,Hildreth,U.S. House,3,R,Adrian Smith,320
+Franklin,Campbell,U.S. House,3,R,Adrian Smith,197
+Franklin,W. Franklin,U.S. House,3,R,Adrian Smith,374
+Franklin,E. Franklin,U.S. House,3,R,Adrian Smith,249
+Franklin,Early,U.S. House,3,R,Adrian Smith,310
+Franklin,Provisional,U.S. House,3,R,Adrian Smith,1
+Franklin,Total,U.S. House,3,R,Adrian Smith,1451

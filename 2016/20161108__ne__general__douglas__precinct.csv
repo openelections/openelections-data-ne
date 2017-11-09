@@ -1,0 +1,3733 @@
+county,precinct,office,district,party,candidate,election_day,votes,early_votes
+Douglas,01-01,Ballots Cast,,,,875,1277,402
+Douglas,01-02,Ballots Cast,,,,500,782,282
+Douglas,01-03,Ballots Cast,,,,798,1527,729
+Douglas,01-04,Ballots Cast,,,,622,1122,500
+Douglas,01-05,Ballots Cast,,,,682,1119,437
+Douglas,01-06,Ballots Cast,,,,762,1140,378
+Douglas,01-07,Ballots Cast,,,,830,1242,412
+Douglas,01-08,Ballots Cast,,,,812,1286,474
+Douglas,01-09,Ballots Cast,,,,602,836,234
+Douglas,01-10,Ballots Cast,,,,439,611,172
+Douglas,01-11,Ballots Cast,,,,643,955,312
+Douglas,01-12,Ballots Cast,,,,69,110,41
+Douglas,01-13,Ballots Cast,,,,908,1397,489
+Douglas,01-14,Ballots Cast,,,,974,1560,586
+Douglas,01-15,Ballots Cast,,,,927,1428,501
+Douglas,01-16,Ballots Cast,,,,548,863,315
+Douglas,01-17,Ballots Cast,,,,763,1165,402
+Douglas,01-18,Ballots Cast,,,,943,1593,650
+Douglas,01-19,Ballots Cast,,,,750,1236,486
+Douglas,01-20,Ballots Cast,,,,704,1051,347
+Douglas,01-21,Ballots Cast,,,,725,1180,455
+Douglas,01-22,Ballots Cast,,,,605,1003,398
+Douglas,01-23,Ballots Cast,,,,670,1013,343
+Douglas,01-24,Ballots Cast,,,,593,931,338
+Douglas,01-25,Ballots Cast,,,,605,869,264
+Douglas,02-01,Ballots Cast,,,,603,865,262
+Douglas,02-02,Ballots Cast,,,,620,848,228
+Douglas,02-03,Ballots Cast,,,,676,1090,414
+Douglas,02-04,Ballots Cast,,,,511,744,233
+Douglas,02-05,Ballots Cast,,,,442,671,229
+Douglas,02-06,Ballots Cast,,,,507,746,239
+Douglas,02-07,Ballots Cast,,,,455,703,248
+Douglas,02-08,Ballots Cast,,,,446,710,264
+Douglas,02-09,Ballots Cast,,,,459,736,277
+Douglas,02-10,Ballots Cast,,,,510,738,228
+Douglas,02-11,Ballots Cast,,,,662,1029,367
+Douglas,02-12,Ballots Cast,,,,754,1083,329
+Douglas,02-13,Ballots Cast,,,,360,577,217
+Douglas,02-14,Ballots Cast,,,,720,976,256
+Douglas,02-15,Ballots Cast,,,,649,924,275
+Douglas,02-16,Ballots Cast,,,,490,762,272
+Douglas,02-17,Ballots Cast,,,,587,844,257
+Douglas,02-18,Ballots Cast,,,,109,233,124
+Douglas,02-19,Ballots Cast,,,,454,694,240
+Douglas,02-20,Ballots Cast,,,,395,647,252
+Douglas,02-21,Ballots Cast,,,,502,747,245
+Douglas,02-22,Ballots Cast,,,,333,531,198
+Douglas,02-23,Ballots Cast,,,,525,744,219
+Douglas,03-01,Ballots Cast,,,,74,87,13
+Douglas,03-02,Ballots Cast,,,,644,939,295
+Douglas,03-03,Ballots Cast,,,,757,1136,379
+Douglas,03-04,Ballots Cast,,,,909,1443,534
+Douglas,03-05,Ballots Cast,,,,615,913,298
+Douglas,03-06,Ballots Cast,,,,653,944,291
+Douglas,03-07,Ballots Cast,,,,777,1187,410
+Douglas,03-08,Ballots Cast,,,,734,1098,364
+Douglas,03-09,Ballots Cast,,,,881,1322,441
+Douglas,03-10,Ballots Cast,,,,406,664,258
+Douglas,03-11,Ballots Cast,,,,699,985,286
+Douglas,03-12,Ballots Cast,,,,640,954,314
+Douglas,03-13,Ballots Cast,,,,702,988,286
+Douglas,03-14,Ballots Cast,,,,796,1258,462
+Douglas,03-15,Ballots Cast,,,,954,1493,539
+Douglas,03-16,Ballots Cast,,,,"1,085",1700,615
+Douglas,03-17,Ballots Cast,,,,792,1143,351
+Douglas,03-18,Ballots Cast,,,,588,849,261
+Douglas,03-19,Ballots Cast,,,,784,1124,340
+Douglas,03-20,Ballots Cast,,,,949,1413,464
+Douglas,03-21,Ballots Cast,,,,750,1192,442
+Douglas,04-01,Ballots Cast,,,,512,714,202
+Douglas,04-02,Ballots Cast,,,,553,820,267
+Douglas,04-03,Ballots Cast,,,,519,802,283
+Douglas,04-04,Ballots Cast,,,,724,997,273
+Douglas,04-05,Ballots Cast,,,,972,1373,401
+Douglas,04-06,Ballots Cast,,,,753,1070,317
+Douglas,04-07,Ballots Cast,,,,538,781,243
+Douglas,04-08,Ballots Cast,,,,713,1074,361
+Douglas,04-09,Ballots Cast,,,,377,561,184
+Douglas,04-10,Ballots Cast,,,,603,892,289
+Douglas,04-11,Ballots Cast,,,,691,1046,355
+Douglas,04-12,Ballots Cast,,,,731,1067,336
+Douglas,04-13,Ballots Cast,,,,666,962,296
+Douglas,04-14,Ballots Cast,,,,392,551,159
+Douglas,04-15,Ballots Cast,,,,726,994,268
+Douglas,04-16,Ballots Cast,,,,716,1016,300
+Douglas,04-17,Ballots Cast,,,,407,609,202
+Douglas,04-18,Ballots Cast,,,,460,674,214
+Douglas,05-01,Ballots Cast,,,,841,1229,388
+Douglas,05-02,Ballots Cast,,,,819,1334,515
+Douglas,05-03,Ballots Cast,,,,939,1371,432
+Douglas,05-04,Ballots Cast,,,,688,949,261
+Douglas,05-05,Ballots Cast,,,,651,939,288
+Douglas,05-06,Ballots Cast,,,,595,903,308
+Douglas,05-07,Ballots Cast,,,,"1,021",1418,397
+Douglas,05-08,Ballots Cast,,,,790,1093,303
+Douglas,05-09,Ballots Cast,,,,800,1271,471
+Douglas,05-10,Ballots Cast,,,,734,1134,400
+Douglas,05-11,Ballots Cast,,,,980,1395,415
+Douglas,05-12,Ballots Cast,,,,844,1244,400
+Douglas,05-13,Ballots Cast,,,,997,1632,635
+Douglas,05-14,Ballots Cast,,,,916,1376,460
+Douglas,05-15,Ballots Cast,,,,782,1245,463
+Douglas,05-16,Ballots Cast,,,,820,1229,409
+Douglas,05-17,Ballots Cast,,,,601,968,367
+Douglas,05-18,Ballots Cast,,,,953,1399,446
+Douglas,05-19,Ballots Cast,,,,668,1054,386
+Douglas,05-20,Ballots Cast,,,,740,1161,421
+Douglas,05-21,Ballots Cast,,,,673,1004,331
+Douglas,05-22,Ballots Cast,,,,912,1281,369
+Douglas,05-23,Ballots Cast,,,,784,1199,415
+Douglas,05-24,Ballots Cast,,,,857,1171,314
+Douglas,05-25,Ballots Cast,,,,756,1222,466
+Douglas,05-26,Ballots Cast,,,,560,793,233
+Douglas,05-27,Ballots Cast,,,,560,871,311
+Douglas,05-28,Ballots Cast,,,,718,1055,337
+Douglas,05-29,Ballots Cast,,,,612,928,316
+Douglas,05-30,Ballots Cast,,,,999,1655,656
+Douglas,05-31,Ballots Cast,,,,488,867,379
+Douglas,05-32,Ballots Cast,,,,148,262,114
+Douglas,05-33,Ballots Cast,,,,240,336,96
+Douglas,06-01,Ballots Cast,,,,683,1123,440
+Douglas,06-02,Ballots Cast,,,,637,1182,545
+Douglas,06-03,Ballots Cast,,,,665,1141,476
+Douglas,06-04,Ballots Cast,,,,752,1210,458
+Douglas,06-05,Ballots Cast,,,,599,962,363
+Douglas,06-06,Ballots Cast,,,,713,993,280
+Douglas,06-07,Ballots Cast,,,,664,1148,484
+Douglas,06-08,Ballots Cast,,,,790,1378,588
+Douglas,06-09,Ballots Cast,,,,636,1303,667
+Douglas,06-10,Ballots Cast,,,,968,1408,440
+Douglas,06-11,Ballots Cast,,,,"1,042",1495,453
+Douglas,06-12,Ballots Cast,,,,787,1055,268
+Douglas,06-13,Ballots Cast,,,,"1,125",1570,445
+Douglas,06-14,Ballots Cast,,,,964,1433,469
+Douglas,06-15,Ballots Cast,,,,759,1141,382
+Douglas,06-16,Ballots Cast,,,,757,1344,587
+Douglas,06-17,Ballots Cast,,,,716,1049,333
+Douglas,06-18,Ballots Cast,,,,185,323,138
+Douglas,06-19,Ballots Cast,,,,818,1363,545
+Douglas,06-20,Ballots Cast,,,,897,1286,389
+Douglas,06-21,Ballots Cast,,,,806,1347,541
+Douglas,06-22,Ballots Cast,,,,590,1039,449
+Douglas,06-23,Ballots Cast,,,,727,988,261
+Douglas,06-24,Ballots Cast,,,,874,1219,345
+Douglas,06-25,Ballots Cast,,,,600,1082,482
+Douglas,06-26,Ballots Cast,,,,526,1072,546
+Douglas,06-27,Ballots Cast,,,,698,1105,407
+Douglas,06-28,Ballots Cast,,,,811,1302,491
+Douglas,06-29,Ballots Cast,,,,677,1049,372
+Douglas,06-30,Ballots Cast,,,,334,692,358
+Douglas,07-01,Ballots Cast,,,,766,1107,341
+Douglas,07-02,Ballots Cast,,,,806,1328,522
+Douglas,07-03,Ballots Cast,,,,831,1183,352
+Douglas,07-04,Ballots Cast,,,,928,1288,360
+Douglas,07-05,Ballots Cast,,,,914,1344,430
+Douglas,07-06,Ballots Cast,,,,646,1057,411
+Douglas,07-07,Ballots Cast,,,,730,1055,325
+Douglas,07-08,Ballots Cast,,,,844,1123,279
+Douglas,07-09,Ballots Cast,,,,921,1323,402
+Douglas,07-10,Ballots Cast,,,,927,1382,455
+Douglas,07-11,Ballots Cast,,,,882,1248,366
+Douglas,07-12,Ballots Cast,,,,755,1145,390
+Douglas,07-13,Ballots Cast,,,,905,1357,452
+Douglas,07-14,Ballots Cast,,,,454,667,213
+Douglas,07-15,Ballots Cast,,,,695,1034,339
+Douglas,07-16,Ballots Cast,,,,730,1103,373
+Douglas,07-17,Ballots Cast,,,,783,1229,446
+Douglas,07-18,Ballots Cast,,,,860,1298,438
+Douglas,07-19,Ballots Cast,,,,769,1269,500
+Douglas,07-20,Ballots Cast,,,,757,1402,645
+Douglas,07-21,Ballots Cast,,,,825,1433,608
+Douglas,07-22,Ballots Cast,,,,"1,035",1653,618
+Douglas,07-23,Ballots Cast,,,,704,990,286
+Douglas,07-24,Ballots Cast,,,,804,1110,306
+Douglas,07-25,Ballots Cast,,,,816,1267,451
+Douglas,07-26,Ballots Cast,,,,499,808,309
+Douglas,07-27,Ballots Cast,,,,850,1250,400
+Douglas,07-28,Ballots Cast,,,,473,711,238
+Douglas,07-29,Ballots Cast,,,,744,1056,312
+Douglas,07-30,Ballots Cast,,,,730,1119,389
+Douglas,07-31,Ballots Cast,,,,696,1102,406
+Douglas,07-32,Ballots Cast,,,,777,1248,471
+Douglas,07-33,Ballots Cast,,,,557,842,285
+Douglas,07-34,Ballots Cast,,,,565,1050,485
+Douglas,08-01,Ballots Cast,,,,420,625,205
+Douglas,08-02,Ballots Cast,,,,287,416,129
+Douglas,08-03,Ballots Cast,,,,318,409,91
+Douglas,08-04,Ballots Cast,,,,428,615,187
+Douglas,08-05,Ballots Cast,,,,361,511,150
+Douglas,08-06,Ballots Cast,,,,297,424,127
+Douglas,08-07,Ballots Cast,,,,518,728,210
+Douglas,08-08,Ballots Cast,,,,216,373,157
+Douglas,08-09,Ballots Cast,,,,350,675,325
+Douglas,08-10,Ballots Cast,,,,559,877,318
+Douglas,08-11,Ballots Cast,,,,"1,166",1762,596
+Douglas,08-12,Ballots Cast,,,,"1,004",1471,467
+Douglas,08-13,Ballots Cast,,,,"1,352",2084,732
+Douglas,08-14,Ballots Cast,,,,658,902,244
+Douglas,08-15,Ballots Cast,,,,656,1195,539
+Douglas,08-16,Ballots Cast,,,,"1,224",1877,653
+Douglas,08-17,Ballots Cast,,,,814,1205,391
+Douglas,08-18,Ballots Cast,,,,352,533,181
+Douglas,08-19,Ballots Cast,,,,959,1458,499
+Douglas,08-20,Ballots Cast,,,,846,1162,316
+Douglas,08-23,Ballots Cast,,,,527,802,275
+Douglas,08-24,Ballots Cast,,,,561,1008,447
+Douglas,08-27,Ballots Cast,,,,103,110,7
+Douglas,08-31,Ballots Cast,,,,538,788,250
+Douglas,08-35,Ballots Cast,,,,371,492,121
+Douglas,08-36,Ballots Cast,,,,664,1045,381
+Douglas,08-37,Ballots Cast,,,,699,1153,454
+Douglas,08-39,Ballots Cast,,,,908,1355,447
+Douglas,08-40,Ballots Cast,,,,969,1441,472
+Douglas,08-41,Ballots Cast,,,,745,1138,393
+Douglas,08-42,Ballots Cast,,,,"1,044",1836,792
+Douglas,08-43,Ballots Cast,,,,778,1294,516
+Douglas,08-44,Ballots Cast,,,,752,1103,351
+Douglas,08-45,Ballots Cast,,,,824,1391,567
+Douglas,08-46,Ballots Cast,,,,"1,153",1728,575
+Douglas,08-47,Ballots Cast,,,,"1,345",2084,739
+Douglas,08-48,Ballots Cast,,,,605,1054,449
+Douglas,08-49,Ballots Cast,,,,684,1036,352
+Douglas,08-50,Ballots Cast,,,,837,1332,495
+Douglas,08-51,Ballots Cast,,,,"1,205",1848,643
+Douglas,08-52,Ballots Cast,,,,794,1277,483
+Douglas,08-53,Ballots Cast,,,,760,1160,400
+Douglas,08-54,Ballots Cast,,,,674,1047,373
+Douglas,08-55,Ballots Cast,,,,734,1138,404
+Douglas,01-01,President,,Republican,Donald J. Trump,385,504,119
+Douglas,01-02,President,,Republican,Donald J. Trump,263,355,92
+Douglas,01-03,President,,Republican,Donald J. Trump,348,575,227
+Douglas,01-04,President,,Republican,Donald J. Trump,171,292,121
+Douglas,01-05,President,,Republican,Donald J. Trump,262,400,138
+Douglas,01-06,President,,Republican,Donald J. Trump,220,305,85
+Douglas,01-07,President,,Republican,Donald J. Trump,252,318,66
+Douglas,01-08,President,,Republican,Donald J. Trump,267,362,95
+Douglas,01-09,President,,Republican,Donald J. Trump,217,296,79
+Douglas,01-10,President,,Republican,Donald J. Trump,217,275,58
+Douglas,01-11,President,,Republican,Donald J. Trump,254,353,99
+Douglas,01-12,President,,Republican,Donald J. Trump,36,50,14
+Douglas,01-13,President,,Republican,Donald J. Trump,422,609,187
+Douglas,01-14,President,,Republican,Donald J. Trump,293,408,115
+Douglas,01-15,President,,Republican,Donald J. Trump,343,495,152
+Douglas,01-16,President,,Republican,Donald J. Trump,220,322,102
+Douglas,01-17,President,,Republican,Donald J. Trump,194,256,62
+Douglas,01-18,President,,Republican,Donald J. Trump,347,476,129
+Douglas,01-19,President,,Republican,Donald J. Trump,341,486,145
+Douglas,01-20,President,,Republican,Donald J. Trump,321,436,115
+Douglas,01-21,President,,Republican,Donald J. Trump,309,447,138
+Douglas,01-22,President,,Republican,Donald J. Trump,297,461,164
+Douglas,01-23,President,,Republican,Donald J. Trump,266,367,101
+Douglas,01-24,President,,Republican,Donald J. Trump,241,355,114
+Douglas,01-25,President,,Republican,Donald J. Trump,208,282,74
+Douglas,02-01,President,,Republican,Donald J. Trump,207,262,55
+Douglas,02-02,President,,Republican,Donald J. Trump,174,212,38
+Douglas,02-03,President,,Republican,Donald J. Trump,152,273,121
+Douglas,02-04,President,,Republican,Donald J. Trump,78,112,34
+Douglas,02-05,President,,Republican,Donald J. Trump,65,88,23
+Douglas,02-06,President,,Republican,Donald J. Trump,82,115,33
+Douglas,02-07,President,,Republican,Donald J. Trump,57,90,33
+Douglas,02-08,President,,Republican,Donald J. Trump,55,78,23
+Douglas,02-09,President,,Republican,Donald J. Trump,24,30,6
+Douglas,02-10,President,,Republican,Donald J. Trump,43,60,17
+Douglas,02-11,President,,Republican,Donald J. Trump,92,136,44
+Douglas,02-12,President,,Republican,Donald J. Trump,152,205,53
+Douglas,02-13,President,,Republican,Donald J. Trump,25,36,11
+Douglas,02-14,President,,Republican,Donald J. Trump,170,207,37
+Douglas,02-15,President,,Republican,Donald J. Trump,50,65,15
+Douglas,02-16,President,,Republican,Donald J. Trump,53,75,22
+Douglas,02-17,President,,Republican,Donald J. Trump,124,169,45
+Douglas,02-18,President,,Republican,Donald J. Trump,37,80,43
+Douglas,02-19,President,,Republican,Donald J. Trump,75,96,21
+Douglas,02-20,President,,Republican,Donald J. Trump,38,55,17
+Douglas,02-21,President,,Republican,Donald J. Trump,24,36,12
+Douglas,02-22,President,,Republican,Donald J. Trump,19,28,9
+Douglas,02-23,President,,Republican,Donald J. Trump,175,228,53
+Douglas,03-01,President,,Republican,Donald J. Trump,16,17,1
+Douglas,03-02,President,,Republican,Donald J. Trump,158,218,60
+Douglas,03-03,President,,Republican,Donald J. Trump,182,236,54
+Douglas,03-04,President,,Republican,Donald J. Trump,231,301,70
+Douglas,03-05,President,,Republican,Donald J. Trump,188,243,55
+Douglas,03-06,President,,Republican,Donald J. Trump,162,203,41
+Douglas,03-07,President,,Republican,Donald J. Trump,207,289,82
+Douglas,03-08,President,,Republican,Donald J. Trump,264,370,106
+Douglas,03-09,President,,Republican,Donald J. Trump,324,437,113
+Douglas,03-10,President,,Republican,Donald J. Trump,150,209,59
+Douglas,03-11,President,,Republican,Donald J. Trump,204,258,54
+Douglas,03-12,President,,Republican,Donald J. Trump,247,341,94
+Douglas,03-13,President,,Republican,Donald J. Trump,232,299,67
+Douglas,03-14,President,,Republican,Donald J. Trump,335,474,139
+Douglas,03-15,President,,Republican,Donald J. Trump,349,495,146
+Douglas,03-16,President,,Republican,Donald J. Trump,381,536,155
+Douglas,03-17,President,,Republican,Donald J. Trump,328,441,113
+Douglas,03-18,President,,Republican,Donald J. Trump,142,173,31
+Douglas,03-19,President,,Republican,Donald J. Trump,203,274,71
+Douglas,03-20,President,,Republican,Donald J. Trump,301,397,96
+Douglas,03-21,President,,Republican,Donald J. Trump,208,306,98
+Douglas,04-01,President,,Republican,Donald J. Trump,169,211,42
+Douglas,04-02,President,,Republican,Donald J. Trump,218,312,94
+Douglas,04-03,President,,Republican,Donald J. Trump,131,181,50
+Douglas,04-04,President,,Republican,Donald J. Trump,294,382,88
+Douglas,04-05,President,,Republican,Donald J. Trump,499,653,154
+Douglas,04-06,President,,Republican,Donald J. Trump,276,368,92
+Douglas,04-07,President,,Republican,Donald J. Trump,235,333,98
+Douglas,04-08,President,,Republican,Donald J. Trump,346,467,121
+Douglas,04-09,President,,Republican,Donald J. Trump,121,178,57
+Douglas,04-10,President,,Republican,Donald J. Trump,139,205,66
+Douglas,04-11,President,,Republican,Donald J. Trump,328,443,115
+Douglas,04-12,President,,Republican,Donald J. Trump,408,558,150
+Douglas,04-13,President,,Republican,Donald J. Trump,262,357,95
+Douglas,04-14,President,,Republican,Donald J. Trump,88,139,51
+Douglas,04-15,President,,Republican,Donald J. Trump,229,279,50
+Douglas,04-16,President,,Republican,Donald J. Trump,310,409,99
+Douglas,04-17,President,,Republican,Donald J. Trump,193,271,78
+Douglas,04-18,President,,Republican,Donald J. Trump,120,153,33
+Douglas,05-01,President,,Republican,Donald J. Trump,416,566,150
+Douglas,05-02,President,,Republican,Donald J. Trump,399,575,176
+Douglas,05-03,President,,Republican,Donald J. Trump,512,701,189
+Douglas,05-04,President,,Republican,Donald J. Trump,316,412,96
+Douglas,05-05,President,,Republican,Donald J. Trump,294,399,105
+Douglas,05-06,President,,Republican,Donald J. Trump,286,408,122
+Douglas,05-07,President,,Republican,Donald J. Trump,548,720,172
+Douglas,05-08,President,,Republican,Donald J. Trump,330,429,99
+Douglas,05-09,President,,Republican,Donald J. Trump,489,706,217
+Douglas,05-10,President,,Republican,Donald J. Trump,399,558,159
+Douglas,05-11,President,,Republican,Donald J. Trump,502,689,187
+Douglas,05-12,President,,Republican,Donald J. Trump,460,633,173
+Douglas,05-13,President,,Republican,Donald J. Trump,656,964,308
+Douglas,05-14,President,,Republican,Donald J. Trump,539,764,225
+Douglas,05-15,President,,Republican,Donald J. Trump,457,685,228
+Douglas,05-16,President,,Republican,Donald J. Trump,471,659,188
+Douglas,05-17,President,,Republican,Donald J. Trump,396,577,181
+Douglas,05-18,President,,Republican,Donald J. Trump,553,732,179
+Douglas,05-19,President,,Republican,Donald J. Trump,401,581,180
+Douglas,05-20,President,,Republican,Donald J. Trump,504,750,246
+Douglas,05-21,President,,Republican,Donald J. Trump,465,646,181
+Douglas,05-22,President,,Republican,Donald J. Trump,613,818,205
+Douglas,05-23,President,,Republican,Donald J. Trump,399,556,157
+Douglas,05-24,President,,Republican,Donald J. Trump,479,603,124
+Douglas,05-25,President,,Republican,Donald J. Trump,477,708,231
+Douglas,05-26,President,,Republican,Donald J. Trump,318,425,107
+Douglas,05-27,President,,Republican,Donald J. Trump,360,513,153
+Douglas,05-28,President,,Republican,Donald J. Trump,405,552,147
+Douglas,05-29,President,,Republican,Donald J. Trump,359,493,134
+Douglas,05-30,President,,Republican,Donald J. Trump,609,913,304
+Douglas,05-31,President,,Republican,Donald J. Trump,310,493,183
+Douglas,05-32,President,,Republican,Donald J. Trump,100,169,69
+Douglas,05-33,President,,Republican,Donald J. Trump,135,169,34
+Douglas,06-01,President,,Republican,Donald J. Trump,321,469,148
+Douglas,06-02,President,,Republican,Donald J. Trump,349,608,259
+Douglas,06-03,President,,Republican,Donald J. Trump,380,592,212
+Douglas,06-04,President,,Republican,Donald J. Trump,417,583,166
+Douglas,06-05,President,,Republican,Donald J. Trump,213,321,108
+Douglas,06-06,President,,Republican,Donald J. Trump,356,450,94
+Douglas,06-07,President,,Republican,Donald J. Trump,305,461,156
+Douglas,06-08,President,,Republican,Donald J. Trump,427,658,231
+Douglas,06-09,President,,Republican,Donald J. Trump,361,645,284
+Douglas,06-10,President,,Republican,Donald J. Trump,505,694,189
+Douglas,06-11,President,,Republican,Donald J. Trump,535,704,169
+Douglas,06-12,President,,Republican,Donald J. Trump,399,504,105
+Douglas,06-13,President,,Republican,Donald J. Trump,618,810,192
+Douglas,06-14,President,,Republican,Donald J. Trump,544,739,195
+Douglas,06-15,President,,Republican,Donald J. Trump,439,608,169
+Douglas,06-16,President,,Republican,Donald J. Trump,466,746,280
+Douglas,06-17,President,,Republican,Donald J. Trump,435,600,165
+Douglas,06-18,President,,Republican,Donald J. Trump,101,165,64
+Douglas,06-19,President,,Republican,Donald J. Trump,535,795,260
+Douglas,06-20,President,,Republican,Donald J. Trump,527,714,187
+Douglas,06-21,President,,Republican,Donald J. Trump,529,819,290
+Douglas,06-22,President,,Republican,Donald J. Trump,408,676,268
+Douglas,06-23,President,,Republican,Donald J. Trump,481,603,122
+Douglas,06-24,President,,Republican,Donald J. Trump,586,762,176
+Douglas,06-25,President,,Republican,Donald J. Trump,304,474,170
+Douglas,06-26,President,,Republican,Donald J. Trump,267,491,224
+Douglas,06-27,President,,Republican,Donald J. Trump,360,512,152
+Douglas,06-28,President,,Republican,Donald J. Trump,482,692,210
+Douglas,06-29,President,,Republican,Donald J. Trump,446,627,181
+Douglas,06-30,President,,Republican,Donald J. Trump,226,425,199
+Douglas,07-01,President,,Republican,Donald J. Trump,361,487,126
+Douglas,07-02,President,,Republican,Donald J. Trump,378,578,200
+Douglas,07-03,President,,Republican,Donald J. Trump,390,513,123
+Douglas,07-04,President,,Republican,Donald J. Trump,463,587,124
+Douglas,07-05,President,,Republican,Donald J. Trump,405,535,130
+Douglas,07-06,President,,Republican,Donald J. Trump,354,515,161
+Douglas,07-07,President,,Republican,Donald J. Trump,383,495,112
+Douglas,07-08,President,,Republican,Donald J. Trump,375,466,91
+Douglas,07-09,President,,Republican,Donald J. Trump,387,538,151
+Douglas,07-10,President,,Republican,Donald J. Trump,428,599,171
+Douglas,07-11,President,,Republican,Donald J. Trump,415,545,130
+Douglas,07-12,President,,Republican,Donald J. Trump,393,556,163
+Douglas,07-13,President,,Republican,Donald J. Trump,570,772,202
+Douglas,07-14,President,,Republican,Donald J. Trump,290,397,107
+Douglas,07-15,President,,Republican,Donald J. Trump,285,393,108
+Douglas,07-16,President,,Republican,Donald J. Trump,410,563,153
+Douglas,07-17,President,,Republican,Donald J. Trump,490,683,193
+Douglas,07-18,President,,Republican,Donald J. Trump,346,509,163
+Douglas,07-19,President,,Republican,Donald J. Trump,316,479,163
+Douglas,07-20,President,,Republican,Donald J. Trump,438,734,296
+Douglas,07-21,President,,Republican,Donald J. Trump,526,835,309
+Douglas,07-22,President,,Republican,Donald J. Trump,600,878,278
+Douglas,07-23,President,,Republican,Donald J. Trump,335,443,108
+Douglas,07-24,President,,Republican,Donald J. Trump,404,518,114
+Douglas,07-25,President,,Republican,Donald J. Trump,375,545,170
+Douglas,07-26,President,,Republican,Donald J. Trump,301,432,131
+Douglas,07-27,President,,Republican,Donald J. Trump,486,654,168
+Douglas,07-28,President,,Republican,Donald J. Trump,269,376,107
+Douglas,07-29,President,,Republican,Donald J. Trump,383,515,132
+Douglas,07-30,President,,Republican,Donald J. Trump,408,574,166
+Douglas,07-31,President,,Republican,Donald J. Trump,413,605,192
+Douglas,07-32,President,,Republican,Donald J. Trump,482,685,203
+Douglas,07-33,President,,Republican,Donald J. Trump,356,484,128
+Douglas,07-34,President,,Republican,Donald J. Trump,339,585,246
+Douglas,08-01,President,,Republican,Donald J. Trump,205,291,86
+Douglas,08-02,President,,Republican,Donald J. Trump,142,188,46
+Douglas,08-03,President,,Republican,Donald J. Trump,171,217,46
+Douglas,08-04,President,,Republican,Donald J. Trump,267,341,74
+Douglas,08-05,President,,Republican,Donald J. Trump,186,235,49
+Douglas,08-06,President,,Republican,Donald J. Trump,171,212,41
+Douglas,08-07,President,,Republican,Donald J. Trump,320,407,87
+Douglas,08-08,President,,Republican,Donald J. Trump,147,222,75
+Douglas,08-09,President,,Republican,Donald J. Trump,258,426,168
+Douglas,08-10,President,,Republican,Donald J. Trump,263,389,126
+Douglas,08-11,President,,Republican,Donald J. Trump,458,627,169
+Douglas,08-12,President,,Republican,Donald J. Trump,472,664,192
+Douglas,08-13,President,,Republican,Donald J. Trump,950,1363,413
+Douglas,08-14,President,,Republican,Donald J. Trump,448,585,137
+Douglas,08-15,President,,Republican,Donald J. Trump,399,678,279
+Douglas,08-16,President,,Republican,Donald J. Trump,767,1116,349
+Douglas,08-17,President,,Republican,Donald J. Trump,459,633,174
+Douglas,08-18,President,,Republican,Donald J. Trump,194,272,78
+Douglas,08-19,President,,Republican,Donald J. Trump,556,765,209
+Douglas,08-20,President,,Republican,Donald J. Trump,452,587,135
+Douglas,08-23,President,,Republican,Donald J. Trump,295,405,110
+Douglas,08-24,President,,Republican,Donald J. Trump,357,602,245
+Douglas,08-27,President,,Republican,Donald J. Trump,51,54,3
+Douglas,08-31,President,,Republican,Donald J. Trump,292,407,115
+Douglas,08-35,President,,Republican,Donald J. Trump,204,250,46
+Douglas,08-36,President,,Republican,Donald J. Trump,398,557,159
+Douglas,08-37,President,,Republican,Donald J. Trump,409,613,204
+Douglas,08-39,President,,Republican,Donald J. Trump,642,926,284
+Douglas,08-40,President,,Republican,Donald J. Trump,705,986,281
+Douglas,08-41,President,,Republican,Donald J. Trump,544,791,247
+Douglas,08-42,President,,Republican,Donald J. Trump,677,1086,409
+Douglas,08-43,President,,Republican,Donald J. Trump,506,762,256
+Douglas,08-44,President,,Republican,Donald J. Trump,426,594,168
+Douglas,08-45,President,,Republican,Donald J. Trump,581,878,297
+Douglas,08-46,President,,Republican,Donald J. Trump,670,926,256
+Douglas,08-47,President,,Republican,Donald J. Trump,754,1090,336
+Douglas,08-48,President,,Republican,Donald J. Trump,462,756,294
+Douglas,08-49,President,,Republican,Donald J. Trump,430,628,198
+Douglas,08-50,President,,Republican,Donald J. Trump,490,697,207
+Douglas,08-51,President,,Republican,Donald J. Trump,685,974,289
+Douglas,08-52,President,,Republican,Donald J. Trump,381,579,198
+Douglas,08-53,President,,Republican,Donald J. Trump,465,657,192
+Douglas,08-54,President,,Republican,Donald J. Trump,482,668,186
+Douglas,08-55,President,,Republican,Donald J. Trump,493,750,257
+Douglas,01-01,President,,Democratic,Hillary Clinton,410,649,239
+Douglas,01-02,President,,Democratic,Hillary Clinton,194,362,168
+Douglas,01-03,President,,Democratic,Hillary Clinton,394,832,438
+Douglas,01-04,President,,Democratic,Hillary Clinton,413,746,333
+Douglas,01-05,President,,Democratic,Hillary Clinton,359,624,265
+Douglas,01-06,President,,Democratic,Hillary Clinton,486,748,262
+Douglas,01-07,President,,Democratic,Hillary Clinton,499,808,309
+Douglas,01-08,President,,Democratic,Hillary Clinton,468,811,343
+Douglas,01-09,President,,Democratic,Hillary Clinton,311,443,132
+Douglas,01-10,President,,Democratic,Hillary Clinton,192,288,96
+Douglas,01-11,President,,Democratic,Hillary Clinton,322,500,178
+Douglas,01-12,President,,Democratic,Hillary Clinton,24,44,20
+Douglas,01-13,President,,Democratic,Hillary Clinton,408,653,245
+Douglas,01-14,President,,Democratic,Hillary Clinton,591,1003,412
+Douglas,01-15,President,,Democratic,Hillary Clinton,472,767,295
+Douglas,01-16,President,,Democratic,Hillary Clinton,276,457,181
+Douglas,01-17,President,,Democratic,Hillary Clinton,487,781,294
+Douglas,01-18,President,,Democratic,Hillary Clinton,522,982,460
+Douglas,01-19,President,,Democratic,Hillary Clinton,363,658,295
+Douglas,01-20,President,,Democratic,Hillary Clinton,318,515,197
+Douglas,01-21,President,,Democratic,Hillary Clinton,360,628,268
+Douglas,01-22,President,,Democratic,Hillary Clinton,273,475,202
+Douglas,01-23,President,,Democratic,Hillary Clinton,347,567,220
+Douglas,01-24,President,,Democratic,Hillary Clinton,301,492,191
+Douglas,01-25,President,,Democratic,Hillary Clinton,327,482,155
+Douglas,02-01,President,,Democratic,Hillary Clinton,338,513,175
+Douglas,02-02,President,,Democratic,Hillary Clinton,390,560,170
+Douglas,02-03,President,,Democratic,Hillary Clinton,485,746,261
+Douglas,02-04,President,,Democratic,Hillary Clinton,414,584,170
+Douglas,02-05,President,,Democratic,Hillary Clinton,353,539,186
+Douglas,02-06,President,,Democratic,Hillary Clinton,401,570,169
+Douglas,02-07,President,,Democratic,Hillary Clinton,382,580,198
+Douglas,02-08,President,,Democratic,Hillary Clinton,363,573,210
+Douglas,02-09,President,,Democratic,Hillary Clinton,422,667,245
+Douglas,02-10,President,,Democratic,Hillary Clinton,440,627,187
+Douglas,02-11,President,,Democratic,Hillary Clinton,529,808,279
+Douglas,02-12,President,,Democratic,Hillary Clinton,551,793,242
+Douglas,02-13,President,,Democratic,Hillary Clinton,319,504,185
+Douglas,02-14,President,,Democratic,Hillary Clinton,491,671,180
+Douglas,02-15,President,,Democratic,Hillary Clinton,564,795,231
+Douglas,02-16,President,,Democratic,Hillary Clinton,397,616,219
+Douglas,02-17,President,,Democratic,Hillary Clinton,425,602,177
+Douglas,02-18,President,,Democratic,Hillary Clinton,62,129,67
+Douglas,02-19,President,,Democratic,Hillary Clinton,359,557,198
+Douglas,02-20,President,,Democratic,Hillary Clinton,341,553,212
+Douglas,02-21,President,,Democratic,Hillary Clinton,459,672,213
+Douglas,02-22,President,,Democratic,Hillary Clinton,300,474,174
+Douglas,02-23,President,,Democratic,Hillary Clinton,314,460,146
+Douglas,03-01,President,,Democratic,Hillary Clinton,52,62,10
+Douglas,03-02,President,,Democratic,Hillary Clinton,418,613,195
+Douglas,03-03,President,,Democratic,Hillary Clinton,487,777,290
+Douglas,03-04,President,,Democratic,Hillary Clinton,595,1001,406
+Douglas,03-05,President,,Democratic,Hillary Clinton,349,559,210
+Douglas,03-06,President,,Democratic,Hillary Clinton,426,635,209
+Douglas,03-07,President,,Democratic,Hillary Clinton,486,775,289
+Douglas,03-08,President,,Democratic,Hillary Clinton,385,613,228
+Douglas,03-09,President,,Democratic,Hillary Clinton,475,743,268
+Douglas,03-10,President,,Democratic,Hillary Clinton,212,382,170
+Douglas,03-11,President,,Democratic,Hillary Clinton,430,620,190
+Douglas,03-12,President,,Democratic,Hillary Clinton,343,540,197
+Douglas,03-13,President,,Democratic,Hillary Clinton,402,591,189
+Douglas,03-14,President,,Democratic,Hillary Clinton,389,678,289
+Douglas,03-15,President,,Democratic,Hillary Clinton,506,842,336
+Douglas,03-16,President,,Democratic,Hillary Clinton,601,1000,399
+Douglas,03-17,President,,Democratic,Hillary Clinton,373,578,205
+Douglas,03-18,President,,Democratic,Hillary Clinton,387,592,205
+Douglas,03-19,President,,Democratic,Hillary Clinton,494,729,235
+Douglas,03-20,President,,Democratic,Hillary Clinton,579,904,325
+Douglas,03-21,President,,Democratic,Hillary Clinton,483,785,302
+Douglas,04-01,President,,Democratic,Hillary Clinton,312,439,127
+Douglas,04-02,President,,Democratic,Hillary Clinton,275,420,145
+Douglas,04-03,President,,Democratic,Hillary Clinton,348,544,196
+Douglas,04-04,President,,Democratic,Hillary Clinton,361,515,154
+Douglas,04-05,President,,Democratic,Hillary Clinton,394,600,206
+Douglas,04-06,President,,Democratic,Hillary Clinton,417,617,200
+Douglas,04-07,President,,Democratic,Hillary Clinton,258,376,118
+Douglas,04-08,President,,Democratic,Hillary Clinton,304,507,203
+Douglas,04-09,President,,Democratic,Hillary Clinton,220,321,101
+Douglas,04-10,President,,Democratic,Hillary Clinton,429,621,192
+Douglas,04-11,President,,Democratic,Hillary Clinton,303,509,206
+Douglas,04-12,President,,Democratic,Hillary Clinton,276,429,153
+Douglas,04-13,President,,Democratic,Hillary Clinton,320,483,163
+Douglas,04-14,President,,Democratic,Hillary Clinton,274,369,95
+Douglas,04-15,President,,Democratic,Hillary Clinton,454,632,178
+Douglas,04-16,President,,Democratic,Hillary Clinton,337,511,174
+Douglas,04-17,President,,Democratic,Hillary Clinton,182,286,104
+Douglas,04-18,President,,Democratic,Hillary Clinton,304,453,149
+Douglas,05-01,President,,Democratic,Hillary Clinton,341,543,202
+Douglas,05-02,President,,Democratic,Hillary Clinton,340,629,289
+Douglas,05-03,President,,Democratic,Hillary Clinton,355,559,204
+Douglas,05-04,President,,Democratic,Hillary Clinton,312,451,139
+Douglas,05-05,President,,Democratic,Hillary Clinton,297,444,147
+Douglas,05-06,President,,Democratic,Hillary Clinton,241,394,153
+Douglas,05-07,President,,Democratic,Hillary Clinton,373,563,190
+Douglas,05-08,President,,Democratic,Hillary Clinton,341,512,171
+Douglas,05-09,President,,Democratic,Hillary Clinton,257,482,225
+Douglas,05-10,President,,Democratic,Hillary Clinton,282,477,195
+Douglas,05-11,President,,Democratic,Hillary Clinton,383,563,180
+Douglas,05-12,President,,Democratic,Hillary Clinton,318,509,191
+Douglas,05-13,President,,Democratic,Hillary Clinton,282,550,268
+Douglas,05-14,President,,Democratic,Hillary Clinton,301,491,190
+Douglas,05-15,President,,Democratic,Hillary Clinton,250,431,181
+Douglas,05-16,President,,Democratic,Hillary Clinton,284,463,179
+Douglas,05-17,President,,Democratic,Hillary Clinton,163,308,145
+Douglas,05-18,President,,Democratic,Hillary Clinton,316,544,228
+Douglas,05-19,President,,Democratic,Hillary Clinton,209,384,175
+Douglas,05-20,President,,Democratic,Hillary Clinton,203,355,152
+Douglas,05-21,President,,Democratic,Hillary Clinton,172,291,119
+Douglas,05-22,President,,Democratic,Hillary Clinton,233,365,132
+Douglas,05-23,President,,Democratic,Hillary Clinton,314,548,234
+Douglas,05-24,President,,Democratic,Hillary Clinton,313,456,143
+Douglas,05-25,President,,Democratic,Hillary Clinton,222,415,193
+Douglas,05-26,President,,Democratic,Hillary Clinton,201,302,101
+Douglas,05-27,President,,Democratic,Hillary Clinton,162,294,132
+Douglas,05-28,President,,Democratic,Hillary Clinton,254,422,168
+Douglas,05-29,President,,Democratic,Hillary Clinton,212,358,146
+Douglas,05-30,President,,Democratic,Hillary Clinton,320,604,284
+Douglas,05-31,President,,Democratic,Hillary Clinton,150,307,157
+Douglas,05-32,President,,Democratic,Hillary Clinton,39,76,37
+Douglas,05-33,President,,Democratic,Hillary Clinton,88,138,50
+Douglas,06-01,President,,Democratic,Hillary Clinton,322,572,250
+Douglas,06-02,President,,Democratic,Hillary Clinton,244,480,236
+Douglas,06-03,President,,Democratic,Hillary Clinton,229,452,223
+Douglas,06-04,President,,Democratic,Hillary Clinton,279,520,241
+Douglas,06-05,President,,Democratic,Hillary Clinton,326,546,220
+Douglas,06-06,President,,Democratic,Hillary Clinton,291,445,154
+Douglas,06-07,President,,Democratic,Hillary Clinton,292,592,300
+Douglas,06-08,President,,Democratic,Hillary Clinton,299,608,309
+Douglas,06-09,President,,Democratic,Hillary Clinton,233,556,323
+Douglas,06-10,President,,Democratic,Hillary Clinton,381,585,204
+Douglas,06-11,President,,Democratic,Hillary Clinton,419,642,223
+Douglas,06-12,President,,Democratic,Hillary Clinton,315,450,135
+Douglas,06-13,President,,Democratic,Hillary Clinton,413,611,198
+Douglas,06-14,President,,Democratic,Hillary Clinton,351,584,233
+Douglas,06-15,President,,Democratic,Hillary Clinton,255,433,178
+Douglas,06-16,President,,Democratic,Hillary Clinton,230,493,263
+Douglas,06-17,President,,Democratic,Hillary Clinton,214,355,141
+Douglas,06-18,President,,Democratic,Hillary Clinton,70,130,60
+Douglas,06-19,President,,Democratic,Hillary Clinton,220,451,231
+Douglas,06-20,President,,Democratic,Hillary Clinton,296,470,174
+Douglas,06-21,President,,Democratic,Hillary Clinton,217,409,192
+Douglas,06-22,President,,Democratic,Hillary Clinton,147,294,147
+Douglas,06-23,President,,Democratic,Hillary Clinton,186,293,107
+Douglas,06-24,President,,Democratic,Hillary Clinton,230,366,136
+Douglas,06-25,President,,Democratic,Hillary Clinton,248,514,266
+Douglas,06-26,President,,Democratic,Hillary Clinton,208,489,281
+Douglas,06-27,President,,Democratic,Hillary Clinton,271,485,214
+Douglas,06-28,President,,Democratic,Hillary Clinton,264,508,244
+Douglas,06-29,President,,Democratic,Hillary Clinton,178,340,162
+Douglas,06-30,President,,Democratic,Hillary Clinton,86,216,130
+Douglas,07-01,President,,Democratic,Hillary Clinton,338,528,190
+Douglas,07-02,President,,Democratic,Hillary Clinton,363,624,261
+Douglas,07-03,President,,Democratic,Hillary Clinton,355,548,193
+Douglas,07-04,President,,Democratic,Hillary Clinton,379,584,205
+Douglas,07-05,President,,Democratic,Hillary Clinton,414,676,262
+Douglas,07-06,President,,Democratic,Hillary Clinton,244,453,209
+Douglas,07-07,President,,Democratic,Hillary Clinton,270,443,173
+Douglas,07-08,President,,Democratic,Hillary Clinton,375,530,155
+Douglas,07-09,President,,Democratic,Hillary Clinton,440,644,204
+Douglas,07-10,President,,Democratic,Hillary Clinton,398,641,243
+Douglas,07-11,President,,Democratic,Hillary Clinton,386,594,208
+Douglas,07-12,President,,Democratic,Hillary Clinton,301,489,188
+Douglas,07-13,President,,Democratic,Hillary Clinton,264,476,212
+Douglas,07-14,President,,Democratic,Hillary Clinton,137,229,92
+Douglas,07-15,President,,Democratic,Hillary Clinton,340,535,195
+Douglas,07-16,President,,Democratic,Hillary Clinton,267,444,177
+Douglas,07-17,President,,Democratic,Hillary Clinton,236,430,194
+Douglas,07-18,President,,Democratic,Hillary Clinton,400,628,228
+Douglas,07-19,President,,Democratic,Hillary Clinton,381,676,295
+Douglas,07-20,President,,Democratic,Hillary Clinton,270,564,294
+Douglas,07-21,President,,Democratic,Hillary Clinton,239,483,244
+Douglas,07-22,President,,Democratic,Hillary Clinton,342,623,281
+Douglas,07-23,President,,Democratic,Hillary Clinton,312,459,147
+Douglas,07-24,President,,Democratic,Hillary Clinton,331,504,173
+Douglas,07-25,President,,Democratic,Hillary Clinton,375,603,228
+Douglas,07-26,President,,Democratic,Hillary Clinton,164,318,154
+Douglas,07-27,President,,Democratic,Hillary Clinton,286,485,199
+Douglas,07-28,President,,Democratic,Hillary Clinton,154,270,116
+Douglas,07-29,President,,Democratic,Hillary Clinton,303,440,137
+Douglas,07-30,President,,Democratic,Hillary Clinton,253,437,184
+Douglas,07-31,President,,Democratic,Hillary Clinton,228,407,179
+Douglas,07-32,President,,Democratic,Hillary Clinton,245,474,229
+Douglas,07-33,President,,Democratic,Hillary Clinton,157,292,135
+Douglas,07-34,President,,Democratic,Hillary Clinton,176,367,191
+Douglas,08-01,President,,Democratic,Hillary Clinton,178,276,98
+Douglas,08-02,President,,Democratic,Hillary Clinton,116,184,68
+Douglas,08-03,President,,Democratic,Hillary Clinton,123,157,34
+Douglas,08-04,President,,Democratic,Hillary Clinton,128,216,88
+Douglas,08-05,President,,Democratic,Hillary Clinton,143,227,84
+Douglas,08-06,President,,Democratic,Hillary Clinton,110,173,63
+Douglas,08-07,President,,Democratic,Hillary Clinton,166,271,105
+Douglas,08-08,President,,Democratic,Hillary Clinton,59,132,73
+Douglas,08-09,President,,Democratic,Hillary Clinton,70,209,139
+Douglas,08-10,President,,Democratic,Hillary Clinton,250,414,164
+Douglas,08-11,President,,Democratic,Hillary Clinton,609,996,387
+Douglas,08-12,President,,Democratic,Hillary Clinton,434,678,244
+Douglas,08-13,President,,Democratic,Hillary Clinton,311,577,266
+Douglas,08-14,President,,Democratic,Hillary Clinton,167,252,85
+Douglas,08-15,President,,Democratic,Hillary Clinton,209,433,224
+Douglas,08-16,President,,Democratic,Hillary Clinton,367,618,251
+Douglas,08-17,President,,Democratic,Hillary Clinton,294,482,188
+Douglas,08-18,President,,Democratic,Hillary Clinton,136,225,89
+Douglas,08-19,President,,Democratic,Hillary Clinton,338,567,229
+Douglas,08-20,President,,Democratic,Hillary Clinton,322,479,157
+Douglas,08-23,President,,Democratic,Hillary Clinton,197,332,135
+Douglas,08-24,President,,Democratic,Hillary Clinton,158,315,157
+Douglas,08-27,President,,Democratic,Hillary Clinton,44,45,1
+Douglas,08-31,President,,Democratic,Hillary Clinton,186,299,113
+Douglas,08-35,President,,Democratic,Hillary Clinton,133,189,56
+Douglas,08-36,President,,Democratic,Hillary Clinton,202,383,181
+Douglas,08-37,President,,Democratic,Hillary Clinton,225,437,212
+Douglas,08-39,President,,Democratic,Hillary Clinton,197,322,125
+Douglas,08-40,President,,Democratic,Hillary Clinton,213,363,150
+Douglas,08-41,President,,Democratic,Hillary Clinton,158,274,116
+Douglas,08-42,President,,Democratic,Hillary Clinton,296,603,307
+Douglas,08-43,President,,Democratic,Hillary Clinton,224,436,212
+Douglas,08-44,President,,Democratic,Hillary Clinton,255,402,147
+Douglas,08-45,President,,Democratic,Hillary Clinton,202,411,209
+Douglas,08-46,President,,Democratic,Hillary Clinton,380,645,265
+Douglas,08-47,President,,Democratic,Hillary Clinton,464,800,336
+Douglas,08-48,President,,Democratic,Hillary Clinton,109,232,123
+Douglas,08-49,President,,Democratic,Hillary Clinton,188,313,125
+Douglas,08-50,President,,Democratic,Hillary Clinton,283,514,231
+Douglas,08-51,President,,Democratic,Hillary Clinton,437,730,293
+Douglas,08-52,President,,Democratic,Hillary Clinton,346,583,237
+Douglas,08-53,President,,Democratic,Hillary Clinton,254,427,173
+Douglas,08-54,President,,Democratic,Hillary Clinton,155,312,157
+Douglas,08-55,President,,Democratic,Hillary Clinton,182,291,109
+Douglas,01-01,President,,Libertarian,Gary Johnson,38,58,20
+Douglas,01-02,President,,Libertarian,Gary Johnson,21,30,9
+Douglas,01-03,President,,Libertarian,Gary Johnson,27,43,16
+Douglas,01-04,President,,Libertarian,Gary Johnson,19,30,11
+Douglas,01-05,President,,Libertarian,Gary Johnson,35,45,10
+Douglas,01-06,President,,Libertarian,Gary Johnson,29,37,8
+Douglas,01-07,President,,Libertarian,Gary Johnson,40,54,14
+Douglas,01-08,President,,Libertarian,Gary Johnson,42,55,13
+Douglas,01-09,President,,Libertarian,Gary Johnson,37,43,6
+Douglas,01-10,President,,Libertarian,Gary Johnson,22,27,5
+Douglas,01-11,President,,Libertarian,Gary Johnson,38,48,10
+Douglas,01-12,President,,Libertarian,Gary Johnson,8,8,0
+Douglas,01-13,President,,Libertarian,Gary Johnson,49,75,26
+Douglas,01-14,President,,Libertarian,Gary Johnson,42,65,23
+Douglas,01-15,President,,Libertarian,Gary Johnson,60,84,24
+Douglas,01-16,President,,Libertarian,Gary Johnson,23,34,11
+Douglas,01-17,President,,Libertarian,Gary Johnson,54,73,19
+Douglas,01-18,President,,Libertarian,Gary Johnson,38,60,22
+Douglas,01-19,President,,Libertarian,Gary Johnson,22,40,18
+Douglas,01-20,President,,Libertarian,Gary Johnson,31,43,12
+Douglas,01-21,President,,Libertarian,Gary Johnson,38,50,12
+Douglas,01-22,President,,Libertarian,Gary Johnson,13,23,10
+Douglas,01-23,President,,Libertarian,Gary Johnson,31,35,4
+Douglas,01-24,President,,Libertarian,Gary Johnson,24,36,12
+Douglas,01-25,President,,Libertarian,Gary Johnson,42,60,18
+Douglas,02-01,President,,Libertarian,Gary Johnson,30,42,12
+Douglas,02-02,President,,Libertarian,Gary Johnson,28,35,7
+Douglas,02-03,President,,Libertarian,Gary Johnson,18,28,10
+Douglas,02-04,President,,Libertarian,Gary Johnson,8,11,3
+Douglas,02-05,President,,Libertarian,Gary Johnson,6,8,2
+Douglas,02-06,President,,Libertarian,Gary Johnson,7,14,7
+Douglas,02-07,President,,Libertarian,Gary Johnson,5,6,1
+Douglas,02-08,President,,Libertarian,Gary Johnson,8,13,5
+Douglas,02-09,President,,Libertarian,Gary Johnson,6,10,4
+Douglas,02-10,President,,Libertarian,Gary Johnson,13,17,4
+Douglas,02-11,President,,Libertarian,Gary Johnson,15,26,11
+Douglas,02-12,President,,Libertarian,Gary Johnson,22,35,13
+Douglas,02-13,President,,Libertarian,Gary Johnson,9,12,3
+Douglas,02-14,President,,Libertarian,Gary Johnson,34,45,11
+Douglas,02-15,President,,Libertarian,Gary Johnson,14,19,5
+Douglas,02-16,President,,Libertarian,Gary Johnson,14,16,2
+Douglas,02-17,President,,Libertarian,Gary Johnson,14,23,9
+Douglas,02-18,President,,Libertarian,Gary Johnson,5,11,6
+Douglas,02-19,President,,Libertarian,Gary Johnson,8,9,1
+Douglas,02-20,President,,Libertarian,Gary Johnson,6,13,7
+Douglas,02-21,President,,Libertarian,Gary Johnson,5,6,1
+Douglas,02-22,President,,Libertarian,Gary Johnson,3,4,1
+Douglas,02-23,President,,Libertarian,Gary Johnson,12,16,4
+Douglas,03-01,President,,Libertarian,Gary Johnson,2,2,0
+Douglas,03-02,President,,Libertarian,Gary Johnson,40,49,9
+Douglas,03-03,President,,Libertarian,Gary Johnson,46,56,10
+Douglas,03-04,President,,Libertarian,Gary Johnson,36,54,18
+Douglas,03-05,President,,Libertarian,Gary Johnson,42,56,14
+Douglas,03-06,President,,Libertarian,Gary Johnson,29,47,18
+Douglas,03-07,President,,Libertarian,Gary Johnson,37,53,16
+Douglas,03-08,President,,Libertarian,Gary Johnson,43,46,3
+Douglas,03-09,President,,Libertarian,Gary Johnson,37,52,15
+Douglas,03-10,President,,Libertarian,Gary Johnson,21,34,13
+Douglas,03-11,President,,Libertarian,Gary Johnson,26,35,9
+Douglas,03-12,President,,Libertarian,Gary Johnson,35,45,10
+Douglas,03-13,President,,Libertarian,Gary Johnson,29,38,9
+Douglas,03-14,President,,Libertarian,Gary Johnson,40,53,13
+Douglas,03-15,President,,Libertarian,Gary Johnson,57,76,19
+Douglas,03-16,President,,Libertarian,Gary Johnson,58,82,24
+Douglas,03-17,President,,Libertarian,Gary Johnson,54,70,16
+Douglas,03-18,President,,Libertarian,Gary Johnson,32,34,2
+Douglas,03-19,President,,Libertarian,Gary Johnson,43,54,11
+Douglas,03-20,President,,Libertarian,Gary Johnson,37,52,15
+Douglas,03-21,President,,Libertarian,Gary Johnson,34,55,21
+Douglas,04-01,President,,Libertarian,Gary Johnson,21,27,6
+Douglas,04-02,President,,Libertarian,Gary Johnson,45,58,13
+Douglas,04-03,President,,Libertarian,Gary Johnson,20,36,16
+Douglas,04-04,President,,Libertarian,Gary Johnson,45,49,4
+Douglas,04-05,President,,Libertarian,Gary Johnson,38,53,15
+Douglas,04-06,President,,Libertarian,Gary Johnson,29,37,8
+Douglas,04-07,President,,Libertarian,Gary Johnson,20,30,10
+Douglas,04-08,President,,Libertarian,Gary Johnson,37,58,21
+Douglas,04-09,President,,Libertarian,Gary Johnson,17,28,11
+Douglas,04-10,President,,Libertarian,Gary Johnson,22,30,8
+Douglas,04-11,President,,Libertarian,Gary Johnson,34,44,10
+Douglas,04-12,President,,Libertarian,Gary Johnson,23,36,13
+Douglas,04-13,President,,Libertarian,Gary Johnson,51,63,12
+Douglas,04-14,President,,Libertarian,Gary Johnson,14,20,6
+Douglas,04-15,President,,Libertarian,Gary Johnson,19,28,9
+Douglas,04-16,President,,Libertarian,Gary Johnson,37,45,8
+Douglas,04-17,President,,Libertarian,Gary Johnson,23,27,4
+Douglas,04-18,President,,Libertarian,Gary Johnson,25,37,12
+Douglas,05-01,President,,Libertarian,Gary Johnson,52,65,13
+Douglas,05-02,President,,Libertarian,Gary Johnson,40,60,20
+Douglas,05-03,President,,Libertarian,Gary Johnson,43,54,11
+Douglas,05-04,President,,Libertarian,Gary Johnson,39,41,2
+Douglas,05-05,President,,Libertarian,Gary Johnson,33,45,12
+Douglas,05-06,President,,Libertarian,Gary Johnson,46,61,15
+Douglas,05-07,President,,Libertarian,Gary Johnson,60,77,17
+Douglas,05-08,President,,Libertarian,Gary Johnson,76,97,21
+Douglas,05-09,President,,Libertarian,Gary Johnson,29,39,10
+Douglas,05-10,President,,Libertarian,Gary Johnson,34,51,17
+Douglas,05-11,President,,Libertarian,Gary Johnson,62,79,17
+Douglas,05-12,President,,Libertarian,Gary Johnson,37,56,19
+Douglas,05-13,President,,Libertarian,Gary Johnson,28,50,22
+Douglas,05-14,President,,Libertarian,Gary Johnson,50,73,23
+Douglas,05-15,President,,Libertarian,Gary Johnson,51,73,22
+Douglas,05-16,President,,Libertarian,Gary Johnson,37,53,16
+Douglas,05-17,President,,Libertarian,Gary Johnson,22,36,14
+Douglas,05-18,President,,Libertarian,Gary Johnson,59,73,14
+Douglas,05-19,President,,Libertarian,Gary Johnson,35,49,14
+Douglas,05-20,President,,Libertarian,Gary Johnson,27,36,9
+Douglas,05-21,President,,Libertarian,Gary Johnson,15,30,15
+Douglas,05-22,President,,Libertarian,Gary Johnson,44,57,13
+Douglas,05-23,President,,Libertarian,Gary Johnson,35,45,10
+Douglas,05-24,President,,Libertarian,Gary Johnson,34,55,21
+Douglas,05-25,President,,Libertarian,Gary Johnson,33,44,11
+Douglas,05-26,President,,Libertarian,Gary Johnson,26,34,8
+Douglas,05-27,President,,Libertarian,Gary Johnson,18,28,10
+Douglas,05-28,President,,Libertarian,Gary Johnson,31,42,11
+Douglas,05-29,President,,Libertarian,Gary Johnson,25,38,13
+Douglas,05-30,President,,Libertarian,Gary Johnson,44,72,28
+Douglas,05-31,President,,Libertarian,Gary Johnson,16,26,10
+Douglas,05-32,President,,Libertarian,Gary Johnson,3,5,2
+Douglas,05-33,President,,Libertarian,Gary Johnson,11,15,4
+Douglas,06-01,President,,Libertarian,Gary Johnson,19,31,12
+Douglas,06-02,President,,Libertarian,Gary Johnson,22,37,15
+Douglas,06-03,President,,Libertarian,Gary Johnson,22,32,10
+Douglas,06-04,President,,Libertarian,Gary Johnson,21,36,15
+Douglas,06-05,President,,Libertarian,Gary Johnson,38,50,12
+Douglas,06-06,President,,Libertarian,Gary Johnson,33,45,12
+Douglas,06-07,President,,Libertarian,Gary Johnson,39,47,8
+Douglas,06-08,President,,Libertarian,Gary Johnson,42,57,15
+Douglas,06-09,President,,Libertarian,Gary Johnson,29,48,19
+Douglas,06-10,President,,Libertarian,Gary Johnson,48,63,15
+Douglas,06-11,President,,Libertarian,Gary Johnson,48,68,20
+Douglas,06-12,President,,Libertarian,Gary Johnson,54,61,7
+Douglas,06-13,President,,Libertarian,Gary Johnson,54,70,16
+Douglas,06-14,President,,Libertarian,Gary Johnson,45,63,18
+Douglas,06-15,President,,Libertarian,Gary Johnson,32,41,9
+Douglas,06-16,President,,Libertarian,Gary Johnson,36,53,17
+Douglas,06-17,President,,Libertarian,Gary Johnson,47,60,13
+Douglas,06-18,President,,Libertarian,Gary Johnson,12,18,6
+Douglas,06-19,President,,Libertarian,Gary Johnson,40,59,19
+Douglas,06-20,President,,Libertarian,Gary Johnson,41,50,9
+Douglas,06-21,President,,Libertarian,Gary Johnson,38,65,27
+Douglas,06-22,President,,Libertarian,Gary Johnson,19,31,12
+Douglas,06-23,President,,Libertarian,Gary Johnson,36,46,10
+Douglas,06-24,President,,Libertarian,Gary Johnson,39,53,14
+Douglas,06-25,President,,Libertarian,Gary Johnson,26,40,14
+Douglas,06-26,President,,Libertarian,Gary Johnson,26,40,14
+Douglas,06-27,President,,Libertarian,Gary Johnson,37,48,11
+Douglas,06-28,President,,Libertarian,Gary Johnson,35,48,13
+Douglas,06-29,President,,Libertarian,Gary Johnson,29,41,12
+Douglas,06-30,President,,Libertarian,Gary Johnson,17,26,9
+Douglas,07-01,President,,Libertarian,Gary Johnson,37,44,7
+Douglas,07-02,President,,Libertarian,Gary Johnson,43,68,25
+Douglas,07-03,President,,Libertarian,Gary Johnson,56,71,15
+Douglas,07-04,President,,Libertarian,Gary Johnson,48,65,17
+Douglas,07-05,President,,Libertarian,Gary Johnson,59,70,11
+Douglas,07-06,President,,Libertarian,Gary Johnson,28,39,11
+Douglas,07-07,President,,Libertarian,Gary Johnson,46,64,18
+Douglas,07-08,President,,Libertarian,Gary Johnson,59,72,13
+Douglas,07-09,President,,Libertarian,Gary Johnson,67,86,19
+Douglas,07-10,President,,Libertarian,Gary Johnson,59,70,11
+Douglas,07-11,President,,Libertarian,Gary Johnson,59,71,12
+Douglas,07-12,President,,Libertarian,Gary Johnson,30,41,11
+Douglas,07-13,President,,Libertarian,Gary Johnson,45,62,17
+Douglas,07-14,President,,Libertarian,Gary Johnson,14,23,9
+Douglas,07-15,President,,Libertarian,Gary Johnson,41,55,14
+Douglas,07-16,President,,Libertarian,Gary Johnson,31,48,17
+Douglas,07-17,President,,Libertarian,Gary Johnson,41,78,37
+Douglas,07-18,President,,Libertarian,Gary Johnson,68,86,18
+Douglas,07-19,President,,Libertarian,Gary Johnson,37,50,13
+Douglas,07-20,President,,Libertarian,Gary Johnson,28,48,20
+Douglas,07-21,President,,Libertarian,Gary Johnson,39,55,16
+Douglas,07-22,President,,Libertarian,Gary Johnson,53,84,31
+Douglas,07-23,President,,Libertarian,Gary Johnson,32,39,7
+Douglas,07-24,President,,Libertarian,Gary Johnson,41,45,4
+Douglas,07-25,President,,Libertarian,Gary Johnson,35,52,17
+Douglas,07-26,President,,Libertarian,Gary Johnson,21,30,9
+Douglas,07-27,President,,Libertarian,Gary Johnson,42,50,8
+Douglas,07-28,President,,Libertarian,Gary Johnson,25,29,4
+Douglas,07-29,President,,Libertarian,Gary Johnson,38,53,15
+Douglas,07-30,President,,Libertarian,Gary Johnson,35,49,14
+Douglas,07-31,President,,Libertarian,Gary Johnson,32,42,10
+Douglas,07-32,President,,Libertarian,Gary Johnson,31,45,14
+Douglas,07-33,President,,Libertarian,Gary Johnson,22,36,14
+Douglas,07-34,President,,Libertarian,Gary Johnson,28,43,15
+Douglas,08-01,President,,Libertarian,Gary Johnson,24,34,10
+Douglas,08-02,President,,Libertarian,Gary Johnson,22,29,7
+Douglas,08-03,President,,Libertarian,Gary Johnson,15,19,4
+Douglas,08-04,President,,Libertarian,Gary Johnson,15,22,7
+Douglas,08-05,President,,Libertarian,Gary Johnson,29,34,5
+Douglas,08-06,President,,Libertarian,Gary Johnson,10,20,10
+Douglas,08-07,President,,Libertarian,Gary Johnson,22,29,7
+Douglas,08-08,President,,Libertarian,Gary Johnson,5,7,2
+Douglas,08-09,President,,Libertarian,Gary Johnson,17,24,7
+Douglas,08-10,President,,Libertarian,Gary Johnson,28,33,5
+Douglas,08-11,President,,Libertarian,Gary Johnson,55,78,23
+Douglas,08-12,President,,Libertarian,Gary Johnson,61,74,13
+Douglas,08-13,President,,Libertarian,Gary Johnson,68,92,24
+Douglas,08-14,President,,Libertarian,Gary Johnson,26,36,10
+Douglas,08-15,President,,Libertarian,Gary Johnson,26,39,13
+Douglas,08-16,President,,Libertarian,Gary Johnson,48,72,24
+Douglas,08-17,President,,Libertarian,Gary Johnson,37,51,14
+Douglas,08-18,President,,Libertarian,Gary Johnson,11,17,6
+Douglas,08-19,President,,Libertarian,Gary Johnson,41,69,28
+Douglas,08-20,President,,Libertarian,Gary Johnson,47,61,14
+Douglas,08-23,President,,Libertarian,Gary Johnson,21,34,13
+Douglas,08-24,President,,Libertarian,Gary Johnson,28,50,22
+Douglas,08-27,President,,Libertarian,Gary Johnson,2,2,0
+Douglas,08-31,President,,Libertarian,Gary Johnson,44,56,12
+Douglas,08-35,President,,Libertarian,Gary Johnson,22,34,12
+Douglas,08-36,President,,Libertarian,Gary Johnson,39,54,15
+Douglas,08-37,President,,Libertarian,Gary Johnson,41,57,16
+Douglas,08-39,President,,Libertarian,Gary Johnson,45,65,20
+Douglas,08-40,President,,Libertarian,Gary Johnson,35,49,14
+Douglas,08-41,President,,Libertarian,Gary Johnson,24,40,16
+Douglas,08-42,President,,Libertarian,Gary Johnson,37,64,27
+Douglas,08-43,President,,Libertarian,Gary Johnson,36,46,10
+Douglas,08-44,President,,Libertarian,Gary Johnson,51,73,22
+Douglas,08-45,President,,Libertarian,Gary Johnson,25,49,24
+Douglas,08-46,President,,Libertarian,Gary Johnson,73,103,30
+Douglas,08-47,President,,Libertarian,Gary Johnson,80,109,29
+Douglas,08-48,President,,Libertarian,Gary Johnson,22,37,15
+Douglas,08-49,President,,Libertarian,Gary Johnson,44,56,12
+Douglas,08-50,President,,Libertarian,Gary Johnson,41,59,18
+Douglas,08-51,President,,Libertarian,Gary Johnson,42,64,22
+Douglas,08-52,President,,Libertarian,Gary Johnson,38,54,16
+Douglas,08-53,President,,Libertarian,Gary Johnson,27,41,14
+Douglas,08-54,President,,Libertarian,Gary Johnson,24,37,13
+Douglas,08-55,President,,Libertarian,Gary Johnson,36,56,20
+Douglas,01-01,President,,,Jill Stein,19,22,3
+Douglas,01-02,President,,,Jill Stein,11,13,2
+Douglas,01-03,President,,,Jill Stein,6,14,8
+Douglas,01-04,President,,,Jill Stein,8,15,7
+Douglas,01-05,President,,,Jill Stein,12,15,3
+Douglas,01-06,President,,,Jill Stein,14,18,4
+Douglas,01-07,President,,,Jill Stein,19,26,7
+Douglas,01-08,President,,,Jill Stein,12,17,5
+Douglas,01-09,President,,,Jill Stein,16,19,3
+Douglas,01-10,President,,,Jill Stein,5,7,2
+Douglas,01-11,President,,,Jill Stein,19,23,4
+Douglas,01-12,President,,,Jill Stein,0,2,2
+Douglas,01-13,President,,,Jill Stein,11,19,8
+Douglas,01-14,President,,,Jill Stein,18,23,5
+Douglas,01-15,President,,,Jill Stein,25,33,8
+Douglas,01-16,President,,,Jill Stein,15,23,8
+Douglas,01-17,President,,,Jill Stein,15,24,9
+Douglas,01-18,President,,,Jill Stein,7,8,1
+Douglas,01-19,President,,,Jill Stein,8,11,3
+Douglas,01-20,President,,,Jill Stein,10,12,2
+Douglas,01-21,President,,,Jill Stein,7,9,2
+Douglas,01-22,President,,,Jill Stein,5,7,2
+Douglas,01-23,President,,,Jill Stein,13,15,2
+Douglas,01-24,President,,,Jill Stein,16,19,3
+Douglas,01-25,President,,,Jill Stein,11,14,3
+Douglas,02-01,President,,,Jill Stein,15,19,4
+Douglas,02-02,President,,,Jill Stein,11,14,3
+Douglas,02-03,President,,,Jill Stein,11,17,6
+Douglas,02-04,President,,,Jill Stein,6,8,2
+Douglas,02-05,President,,,Jill Stein,8,9,1
+Douglas,02-06,President,,,Jill Stein,8,13,5
+Douglas,02-07,President,,,Jill Stein,2,2,0
+Douglas,02-08,President,,,Jill Stein,12,12,0
+Douglas,02-09,President,,,Jill Stein,4,6,2
+Douglas,02-10,President,,,Jill Stein,10,14,4
+Douglas,02-11,President,,,Jill Stein,12,15,3
+Douglas,02-12,President,,,Jill Stein,18,21,3
+Douglas,02-13,President,,,Jill Stein,3,6,3
+Douglas,02-14,President,,,Jill Stein,11,17,6
+Douglas,02-15,President,,,Jill Stein,5,8,3
+Douglas,02-16,President,,,Jill Stein,15,17,2
+Douglas,02-17,President,,,Jill Stein,12,19,7
+Douglas,02-18,President,,,Jill Stein,1,2,1
+Douglas,02-19,President,,,Jill Stein,10,14,4
+Douglas,02-20,President,,,Jill Stein,1,3,2
+Douglas,02-21,President,,,Jill Stein,6,7,1
+Douglas,02-22,President,,,Jill Stein,8,9,1
+Douglas,02-23,President,,,Jill Stein,10,12,2
+Douglas,03-01,President,,,Jill Stein,4,4,0
+Douglas,03-02,President,,,Jill Stein,12,20,8
+Douglas,03-03,President,,,Jill Stein,14,22,8
+Douglas,03-04,President,,,Jill Stein,22,29,7
+Douglas,03-05,President,,,Jill Stein,17,20,3
+Douglas,03-06,President,,,Jill Stein,19,27,8
+Douglas,03-07,President,,,Jill Stein,28,32,4
+Douglas,03-08,President,,,Jill Stein,16,25,9
+Douglas,03-09,President,,,Jill Stein,18,24,6
+Douglas,03-10,President,,,Jill Stein,14,21,7
+Douglas,03-11,President,,,Jill Stein,19,30,11
+Douglas,03-12,President,,,Jill Stein,7,11,4
+Douglas,03-13,President,,,Jill Stein,12,16,4
+Douglas,03-14,President,,,Jill Stein,16,18,2
+Douglas,03-15,President,,,Jill Stein,19,21,2
+Douglas,03-16,President,,,Jill Stein,14,22,8
+Douglas,03-17,President,,,Jill Stein,16,19,3
+Douglas,03-18,President,,,Jill Stein,9,15,6
+Douglas,03-19,President,,,Jill Stein,18,21,3
+Douglas,03-20,President,,,Jill Stein,8,13,5
+Douglas,03-21,President,,,Jill Stein,6,10,4
+Douglas,04-01,President,,,Jill Stein,4,6,2
+Douglas,04-02,President,,,Jill Stein,6,8,2
+Douglas,04-03,President,,,Jill Stein,13,15,2
+Douglas,04-04,President,,,Jill Stein,17,22,5
+Douglas,04-05,President,,,Jill Stein,14,16,2
+Douglas,04-06,President,,,Jill Stein,18,19,1
+Douglas,04-07,President,,,Jill Stein,15,22,7
+Douglas,04-08,President,,,Jill Stein,11,15,4
+Douglas,04-09,President,,,Jill Stein,11,14,3
+Douglas,04-10,President,,,Jill Stein,6,11,5
+Douglas,04-11,President,,,Jill Stein,12,18,6
+Douglas,04-12,President,,,Jill Stein,14,20,6
+Douglas,04-13,President,,,Jill Stein,9,15,6
+Douglas,04-14,President,,,Jill Stein,5,5,0
+Douglas,04-15,President,,,Jill Stein,12,19,7
+Douglas,04-16,President,,,Jill Stein,17,22,5
+Douglas,04-17,President,,,Jill Stein,5,11,6
+Douglas,04-18,President,,,Jill Stein,5,9,4
+Douglas,05-01,President,,,Jill Stein,21,24,3
+Douglas,05-02,President,,,Jill Stein,13,18,5
+Douglas,05-03,President,,,Jill Stein,10,15,5
+Douglas,05-04,President,,,Jill Stein,9,12,3
+Douglas,05-05,President,,,Jill Stein,13,17,4
+Douglas,05-06,President,,,Jill Stein,6,9,3
+Douglas,05-07,President,,,Jill Stein,8,13,5
+Douglas,05-08,President,,,Jill Stein,17,18,1
+Douglas,05-09,President,,,Jill Stein,4,4,0
+Douglas,05-10,President,,,Jill Stein,4,8,4
+Douglas,05-11,President,,,Jill Stein,14,18,4
+Douglas,05-12,President,,,Jill Stein,16,24,8
+Douglas,05-13,President,,,Jill Stein,10,16,6
+Douglas,05-14,President,,,Jill Stein,10,14,4
+Douglas,05-15,President,,,Jill Stein,4,8,4
+Douglas,05-16,President,,,Jill Stein,12,18,6
+Douglas,05-17,President,,,Jill Stein,3,6,3
+Douglas,05-18,President,,,Jill Stein,12,18,6
+Douglas,05-19,President,,,Jill Stein,5,5,0
+Douglas,05-20,President,,,Jill Stein,2,2,0
+Douglas,05-21,President,,,Jill Stein,6,8,2
+Douglas,05-22,President,,,Jill Stein,6,8,2
+Douglas,05-23,President,,,Jill Stein,13,15,2
+Douglas,05-24,President,,,Jill Stein,15,21,6
+Douglas,05-25,President,,,Jill Stein,9,13,4
+Douglas,05-26,President,,,Jill Stein,1,7,6
+Douglas,05-27,President,,,Jill Stein,4,7,3
+Douglas,05-28,President,,,Jill Stein,7,8,1
+Douglas,05-29,President,,,Jill Stein,8,14,6
+Douglas,05-30,President,,,Jill Stein,6,13,7
+Douglas,05-31,President,,,Jill Stein,2,5,3
+Douglas,05-32,President,,,Jill Stein,2,4,2
+Douglas,05-33,President,,,Jill Stein,4,6,2
+Douglas,06-01,President,,,Jill Stein,9,13,4
+Douglas,06-02,President,,,Jill Stein,2,4,2
+Douglas,06-03,President,,,Jill Stein,10,16,6
+Douglas,06-04,President,,,Jill Stein,10,12,2
+Douglas,06-05,President,,,Jill Stein,9,12,3
+Douglas,06-06,President,,,Jill Stein,11,12,1
+Douglas,06-07,President,,,Jill Stein,2,3,1
+Douglas,06-08,President,,,Jill Stein,5,7,2
+Douglas,06-09,President,,,Jill Stein,4,8,4
+Douglas,06-10,President,,,Jill Stein,15,21,6
+Douglas,06-11,President,,,Jill Stein,9,20,11
+Douglas,06-12,President,,,Jill Stein,6,9,3
+Douglas,06-13,President,,,Jill Stein,14,17,3
+Douglas,06-14,President,,,Jill Stein,7,10,3
+Douglas,06-15,President,,,Jill Stein,9,10,1
+Douglas,06-16,President,,,Jill Stein,8,10,2
+Douglas,06-17,President,,,Jill Stein,5,6,1
+Douglas,06-18,President,,,Jill Stein,0,1,1
+Douglas,06-19,President,,,Jill Stein,9,16,7
+Douglas,06-20,President,,,Jill Stein,12,14,2
+Douglas,06-21,President,,,Jill Stein,5,9,4
+Douglas,06-22,President,,,Jill Stein,3,4,1
+Douglas,06-23,President,,,Jill Stein,12,18,6
+Douglas,06-24,President,,,Jill Stein,7,11,4
+Douglas,06-25,President,,,Jill Stein,8,10,2
+Douglas,06-26,President,,,Jill Stein,11,15,4
+Douglas,06-27,President,,,Jill Stein,8,11,3
+Douglas,06-28,President,,,Jill Stein,10,10,0
+Douglas,06-29,President,,,Jill Stein,1,3,2
+Douglas,06-30,President,,,Jill Stein,1,4,3
+Douglas,07-01,President,,,Jill Stein,15,16,1
+Douglas,07-02,President,,,Jill Stein,6,8,2
+Douglas,07-03,President,,,Jill Stein,8,9,1
+Douglas,07-04,President,,,Jill Stein,20,24,4
+Douglas,07-05,President,,,Jill Stein,14,19,5
+Douglas,07-06,President,,,Jill Stein,5,9,4
+Douglas,07-07,President,,,Jill Stein,16,22,6
+Douglas,07-08,President,,,Jill Stein,21,25,4
+Douglas,07-09,President,,,Jill Stein,12,22,10
+Douglas,07-10,President,,,Jill Stein,14,20,6
+Douglas,07-11,President,,,Jill Stein,11,13,2
+Douglas,07-12,President,,,Jill Stein,12,13,1
+Douglas,07-13,President,,,Jill Stein,12,17,5
+Douglas,07-14,President,,,Jill Stein,2,2,0
+Douglas,07-15,President,,,Jill Stein,9,11,2
+Douglas,07-16,President,,,Jill Stein,6,11,5
+Douglas,07-17,President,,,Jill Stein,6,7,1
+Douglas,07-18,President,,,Jill Stein,25,29,4
+Douglas,07-19,President,,,Jill Stein,13,17,4
+Douglas,07-20,President,,,Jill Stein,3,6,3
+Douglas,07-21,President,,,Jill Stein,4,6,2
+Douglas,07-22,President,,,Jill Stein,10,13,3
+Douglas,07-23,President,,,Jill Stein,12,12,0
+Douglas,07-24,President,,,Jill Stein,12,13,1
+Douglas,07-25,President,,,Jill Stein,10,16,6
+Douglas,07-26,President,,,Jill Stein,3,4,1
+Douglas,07-27,President,,,Jill Stein,10,15,5
+Douglas,07-28,President,,,Jill Stein,6,9,3
+Douglas,07-29,President,,,Jill Stein,4,8,4
+Douglas,07-30,President,,,Jill Stein,9,12,3
+Douglas,07-31,President,,,Jill Stein,5,7,2
+Douglas,07-32,President,,,Jill Stein,6,9,3
+Douglas,07-33,President,,,Jill Stein,10,11,1
+Douglas,07-34,President,,,Jill Stein,4,7,3
+Douglas,08-01,President,,,Jill Stein,3,4,1
+Douglas,08-02,President,,,Jill Stein,3,4,1
+Douglas,08-03,President,,,Jill Stein,6,6,0
+Douglas,08-04,President,,,Jill Stein,7,8,1
+Douglas,08-05,President,,,Jill Stein,1,1,0
+Douglas,08-06,President,,,Jill Stein,1,1,0
+Douglas,08-07,President,,,Jill Stein,4,5,1
+Douglas,08-08,President,,,Jill Stein,1,1,0
+Douglas,08-09,President,,,Jill Stein,0,1,1
+Douglas,08-10,President,,,Jill Stein,6,13,7
+Douglas,08-11,President,,,Jill Stein,24,28,4
+Douglas,08-12,President,,,Jill Stein,21,24,3
+Douglas,08-13,President,,,Jill Stein,7,13,6
+Douglas,08-14,President,,,Jill Stein,5,6,1
+Douglas,08-15,President,,,Jill Stein,3,4,1
+Douglas,08-16,President,,,Jill Stein,9,11,2
+Douglas,08-17,President,,,Jill Stein,6,9,3
+Douglas,08-18,President,,,Jill Stein,4,4,0
+Douglas,08-19,President,,,Jill Stein,8,11,3
+Douglas,08-20,President,,,Jill Stein,11,14,3
+Douglas,08-23,President,,,Jill Stein,4,9,5
+Douglas,08-24,President,,,Jill Stein,7,8,1
+Douglas,08-27,President,,,Jill Stein,5,6,1
+Douglas,08-31,President,,,Jill Stein,4,4,0
+Douglas,08-35,President,,,Jill Stein,6,9,3
+Douglas,08-36,President,,,Jill Stein,5,6,1
+Douglas,08-37,President,,,Jill Stein,5,7,2
+Douglas,08-39,President,,,Jill Stein,9,9,0
+Douglas,08-40,President,,,Jill Stein,6,9,3
+Douglas,08-41,President,,,Jill Stein,6,6,0
+Douglas,08-42,President,,,Jill Stein,8,16,8
+Douglas,08-43,President,,,Jill Stein,3,4,1
+Douglas,08-44,President,,,Jill Stein,9,10,1
+Douglas,08-45,President,,,Jill Stein,3,6,3
+Douglas,08-46,President,,,Jill Stein,6,9,3
+Douglas,08-47,President,,,Jill Stein,10,15,5
+Douglas,08-48,President,,,Jill Stein,4,5,1
+Douglas,08-49,President,,,Jill Stein,6,8,2
+Douglas,08-50,President,,,Jill Stein,3,5,2
+Douglas,08-51,President,,,Jill Stein,12,20,8
+Douglas,08-52,President,,,Jill Stein,6,7,1
+Douglas,08-53,President,,,Jill Stein,5,6,1
+Douglas,08-54,President,,,Jill Stein,4,8,4
+Douglas,08-55,President,,,Jill Stein,4,9,5
+Douglas,01-01,President,,,Write-ins,23,29,6
+Douglas,01-02,President,,,Write-ins,11,17,6
+Douglas,01-03,President,,,Write-ins,23,33,10
+Douglas,01-04,President,,,Write-ins,11,22,11
+Douglas,01-05,President,,,Write-ins,14,19,5
+Douglas,01-06,President,,,Write-ins,13,21,8
+Douglas,01-07,President,,,Write-ins,20,25,5
+Douglas,01-08,President,,,Write-ins,23,31,8
+Douglas,01-09,President,,,Write-ins,21,27,6
+Douglas,01-10,President,,,Write-ins,3,9,6
+Douglas,01-11,President,,,Write-ins,10,22,12
+Douglas,01-12,President,,,Write-ins,1,4,3
+Douglas,01-13,President,,,Write-ins,18,24,6
+Douglas,01-14,President,,,Write-ins,30,44,14
+Douglas,01-15,President,,,Write-ins,27,37,10
+Douglas,01-16,President,,,Write-ins,14,22,8
+Douglas,01-17,President,,,Write-ins,13,20,7
+Douglas,01-18,President,,,Write-ins,29,45,16
+Douglas,01-19,President,,,Write-ins,16,27,11
+Douglas,01-20,President,,,Write-ins,24,31,7
+Douglas,01-21,President,,,Write-ins,11,21,10
+Douglas,01-22,President,,,Write-ins,17,23,6
+Douglas,01-23,President,,,Write-ins,13,20,7
+Douglas,01-24,President,,,Write-ins,11,16,5
+Douglas,01-25,President,,,Write-ins,17,20,3
+Douglas,02-01,President,,,Write-ins,13,16,3
+Douglas,02-02,President,,,Write-ins,17,19,2
+Douglas,02-03,President,,,Write-ins,10,15,5
+Douglas,02-04,President,,,Write-ins,5,6,1
+Douglas,02-05,President,,,Write-ins,10,12,2
+Douglas,02-06,President,,,Write-ins,9,15,6
+Douglas,02-07,President,,,Write-ins,9,13,4
+Douglas,02-08,President,,,Write-ins,8,13,5
+Douglas,02-09,President,,,Write-ins,3,5,2
+Douglas,02-10,President,,,Write-ins,4,5,1
+Douglas,02-11,President,,,Write-ins,14,15,1
+Douglas,02-12,President,,,Write-ins,11,15,4
+Douglas,02-13,President,,,Write-ins,4,5,1
+Douglas,02-14,President,,,Write-ins,14,21,7
+Douglas,02-15,President,,,Write-ins,16,19,3
+Douglas,02-16,President,,,Write-ins,11,17,6
+Douglas,02-17,President,,,Write-ins,12,14,2
+Douglas,02-18,President,,,Write-ins,4,8,4
+Douglas,02-19,President,,,Write-ins,2,5,3
+Douglas,02-20,President,,,Write-ins,9,10,1
+Douglas,02-21,President,,,Write-ins,8,8,0
+Douglas,02-22,President,,,Write-ins,3,5,2
+Douglas,02-23,President,,,Write-ins,14,15,1
+Douglas,03-01,President,,,Write-ins,0,2,2
+Douglas,03-02,President,,,Write-ins,16,26,10
+Douglas,03-03,President,,,Write-ins,28,32,4
+Douglas,03-04,President,,,Write-ins,25,36,11
+Douglas,03-05,President,,,Write-ins,19,26,7
+Douglas,03-06,President,,,Write-ins,17,26,9
+Douglas,03-07,President,,,Write-ins,19,29,10
+Douglas,03-08,President,,,Write-ins,26,35,9
+Douglas,03-09,President,,,Write-ins,27,42,15
+Douglas,03-10,President,,,Write-ins,9,16,7
+Douglas,03-11,President,,,Write-ins,20,28,8
+Douglas,03-12,President,,,Write-ins,8,12,4
+Douglas,03-13,President,,,Write-ins,27,32,5
+Douglas,03-14,President,,,Write-ins,16,26,10
+Douglas,03-15,President,,,Write-ins,23,36,13
+Douglas,03-16,President,,,Write-ins,31,45,14
+Douglas,03-17,President,,,Write-ins,21,24,3
+Douglas,03-18,President,,,Write-ins,18,27,9
+Douglas,03-19,President,,,Write-ins,26,37,11
+Douglas,03-20,President,,,Write-ins,24,36,12
+Douglas,03-21,President,,,Write-ins,19,28,9
+Douglas,04-01,President,,,Write-ins,6,10,4
+Douglas,04-02,President,,,Write-ins,9,13,4
+Douglas,04-03,President,,,Write-ins,7,10,3
+Douglas,04-04,President,,,Write-ins,7,14,7
+Douglas,04-05,President,,,Write-ins,27,36,9
+Douglas,04-06,President,,,Write-ins,13,17,4
+Douglas,04-07,President,,,Write-ins,10,12,2
+Douglas,04-08,President,,,Write-ins,15,18,3
+Douglas,04-09,President,,,Write-ins,8,8,0
+Douglas,04-10,President,,,Write-ins,7,7,0
+Douglas,04-11,President,,,Write-ins,14,16,2
+Douglas,04-12,President,,,Write-ins,10,14,4
+Douglas,04-13,President,,,Write-ins,24,29,5
+Douglas,04-14,President,,,Write-ins,11,13,2
+Douglas,04-15,President,,,Write-ins,12,23,11
+Douglas,04-16,President,,,Write-ins,15,20,5
+Douglas,04-17,President,,,Write-ins,4,7,3
+Douglas,04-18,President,,,Write-ins,6,9,3
+Douglas,05-01,President,,,Write-ins,11,19,8
+Douglas,05-02,President,,,Write-ins,27,36,9
+Douglas,05-03,President,,,Write-ins,19,26,7
+Douglas,05-04,President,,,Write-ins,12,21,9
+Douglas,05-05,President,,,Write-ins,14,25,11
+Douglas,05-06,President,,,Write-ins,16,20,4
+Douglas,05-07,President,,,Write-ins,32,38,6
+Douglas,05-08,President,,,Write-ins,26,33,7
+Douglas,05-09,President,,,Write-ins,21,32,11
+Douglas,05-10,President,,,Write-ins,15,28,13
+Douglas,05-11,President,,,Write-ins,19,30,11
+Douglas,05-12,President,,,Write-ins,13,16,3
+Douglas,05-13,President,,,Write-ins,21,34,13
+Douglas,05-14,President,,,Write-ins,16,28,12
+Douglas,05-15,President,,,Write-ins,20,32,12
+Douglas,05-16,President,,,Write-ins,16,26,10
+Douglas,05-17,President,,,Write-ins,17,28,11
+Douglas,05-18,President,,,Write-ins,13,22,9
+Douglas,05-19,President,,,Write-ins,18,21,3
+Douglas,05-20,President,,,Write-ins,4,12,8
+Douglas,05-21,President,,,Write-ins,15,24,9
+Douglas,05-22,President,,,Write-ins,16,21,5
+Douglas,05-23,President,,,Write-ins,23,29,6
+Douglas,05-24,President,,,Write-ins,16,21,5
+Douglas,05-25,President,,,Write-ins,15,26,11
+Douglas,05-26,President,,,Write-ins,14,18,4
+Douglas,05-27,President,,,Write-ins,16,24,8
+Douglas,05-28,President,,,Write-ins,21,25,4
+Douglas,05-29,President,,,Write-ins,8,16,8
+Douglas,05-30,President,,,Write-ins,20,31,11
+Douglas,05-31,President,,,Write-ins,10,25,15
+Douglas,05-32,President,,,Write-ins,4,6,2
+Douglas,05-33,President,,,Write-ins,2,5,3
+Douglas,06-01,President,,,Write-ins,12,26,14
+Douglas,06-02,President,,,Write-ins,20,32,12
+Douglas,06-03,President,,,Write-ins,24,32,8
+Douglas,06-04,President,,,Write-ins,25,43,18
+Douglas,06-05,President,,,Write-ins,13,21,8
+Douglas,06-06,President,,,Write-ins,22,29,7
+Douglas,06-07,President,,,Write-ins,26,30,4
+Douglas,06-08,President,,,Write-ins,17,30,13
+Douglas,06-09,President,,,Write-ins,9,26,17
+Douglas,06-10,President,,,Write-ins,19,32,13
+Douglas,06-11,President,,,Write-ins,31,37,6
+Douglas,06-12,President,,,Write-ins,13,24,11
+Douglas,06-13,President,,,Write-ins,26,40,14
+Douglas,06-14,President,,,Write-ins,17,27,10
+Douglas,06-15,President,,,Write-ins,24,39,15
+Douglas,06-16,President,,,Write-ins,17,33,16
+Douglas,06-17,President,,,Write-ins,15,19,4
+Douglas,06-18,President,,,Write-ins,2,7,5
+Douglas,06-19,President,,,Write-ins,14,28,14
+Douglas,06-20,President,,,Write-ins,21,25,4
+Douglas,06-21,President,,,Write-ins,17,29,12
+Douglas,06-22,President,,,Write-ins,13,22,9
+Douglas,06-23,President,,,Write-ins,12,19,7
+Douglas,06-24,President,,,Write-ins,12,16,4
+Douglas,06-25,President,,,Write-ins,14,24,10
+Douglas,06-26,President,,,Write-ins,14,27,13
+Douglas,06-27,President,,,Write-ins,22,31,9
+Douglas,06-28,President,,,Write-ins,20,29,9
+Douglas,06-29,President,,,Write-ins,23,33,10
+Douglas,06-30,President,,,Write-ins,4,10,6
+Douglas,07-01,President,,,Write-ins,15,18,3
+Douglas,07-02,President,,,Write-ins,16,35,19
+Douglas,07-03,President,,,Write-ins,22,28,6
+Douglas,07-04,President,,,Write-ins,18,22,4
+Douglas,07-05,President,,,Write-ins,22,28,6
+Douglas,07-06,President,,,Write-ins,15,22,7
+Douglas,07-07,President,,,Write-ins,15,24,9
+Douglas,07-08,President,,,Write-ins,14,19,5
+Douglas,07-09,President,,,Write-ins,15,21,6
+Douglas,07-10,President,,,Write-ins,28,38,10
+Douglas,07-11,President,,,Write-ins,11,17,6
+Douglas,07-12,President,,,Write-ins,19,28,9
+Douglas,07-13,President,,,Write-ins,14,23,9
+Douglas,07-14,President,,,Write-ins,11,11,0
+Douglas,07-15,President,,,Write-ins,20,36,16
+Douglas,07-16,President,,,Write-ins,16,29,13
+Douglas,07-17,President,,,Write-ins,10,18,8
+Douglas,07-18,President,,,Write-ins,21,34,13
+Douglas,07-19,President,,,Write-ins,22,33,11
+Douglas,07-20,President,,,Write-ins,18,34,16
+Douglas,07-21,President,,,Write-ins,17,41,24
+Douglas,07-22,President,,,Write-ins,30,42,12
+Douglas,07-23,President,,,Write-ins,13,20,7
+Douglas,07-24,President,,,Write-ins,16,22,6
+Douglas,07-25,President,,,Write-ins,21,36,15
+Douglas,07-26,President,,,Write-ins,10,19,9
+Douglas,07-27,President,,,Write-ins,26,36,10
+Douglas,07-28,President,,,Write-ins,19,24,5
+Douglas,07-29,President,,,Write-ins,16,30,14
+Douglas,07-30,President,,,Write-ins,25,33,8
+Douglas,07-31,President,,,Write-ins,18,28,10
+Douglas,07-32,President,,,Write-ins,13,24,11
+Douglas,07-33,President,,,Write-ins,12,13,1
+Douglas,07-34,President,,,Write-ins,18,35,17
+Douglas,08-01,President,,,Write-ins,10,14,4
+Douglas,08-02,President,,,Write-ins,4,7,3
+Douglas,08-03,President,,,Write-ins,3,5,2
+Douglas,08-04,President,,,Write-ins,11,15,4
+Douglas,08-05,President,,,Write-ins,2,5,3
+Douglas,08-06,President,,,Write-ins,5,10,5
+Douglas,08-07,President,,,Write-ins,6,9,3
+Douglas,08-08,President,,,Write-ins,4,7,3
+Douglas,08-09,President,,,Write-ins,5,12,7
+Douglas,08-10,President,,,Write-ins,12,21,9
+Douglas,08-11,President,,,Write-ins,20,27,7
+Douglas,08-12,President,,,Write-ins,16,24,8
+Douglas,08-13,President,,,Write-ins,16,25,9
+Douglas,08-14,President,,,Write-ins,12,15,3
+Douglas,08-15,President,,,Write-ins,19,27,8
+Douglas,08-16,President,,,Write-ins,33,50,17
+Douglas,08-17,President,,,Write-ins,18,26,8
+Douglas,08-18,President,,,Write-ins,7,11,4
+Douglas,08-19,President,,,Write-ins,16,30,14
+Douglas,08-20,President,,,Write-ins,14,16,2
+Douglas,08-23,President,,,Write-ins,10,15,5
+Douglas,08-24,President,,,Write-ins,11,22,11
+Douglas,08-27,President,,,Write-ins,1,1,0
+Douglas,08-31,President,,,Write-ins,12,16,4
+Douglas,08-35,President,,,Write-ins,6,6,0
+Douglas,08-36,President,,,Write-ins,20,37,17
+Douglas,08-37,President,,,Write-ins,19,27,8
+Douglas,08-39,President,,,Write-ins,15,22,7
+Douglas,08-40,President,,,Write-ins,10,15,5
+Douglas,08-41,President,,,Write-ins,13,19,6
+Douglas,08-42,President,,,Write-ins,26,55,29
+Douglas,08-43,President,,,Write-ins,9,27,18
+Douglas,08-44,President,,,Write-ins,11,17,6
+Douglas,08-45,President,,,Write-ins,13,31,18
+Douglas,08-46,President,,,Write-ins,24,35,11
+Douglas,08-47,President,,,Write-ins,37,57,20
+Douglas,08-48,President,,,Write-ins,8,15,7
+Douglas,08-49,President,,,Write-ins,16,21,5
+Douglas,08-50,President,,,Write-ins,20,39,19
+Douglas,08-51,President,,,Write-ins,29,40,11
+Douglas,08-52,President,,,Write-ins,23,41,18
+Douglas,08-53,President,,,Write-ins,9,20,11
+Douglas,08-54,President,,,Write-ins,9,16,7
+Douglas,08-55,President,,,Write-ins,19,23,4
+Douglas,01-01,President,,,Over Votes,6,7,1
+Douglas,01-02,President,,,Over Votes,0,0,0
+Douglas,01-03,President,,,Over Votes,4,10,6
+Douglas,01-04,President,,,Over Votes,7,12,5
+Douglas,01-05,President,,,Over Votes,7,9,2
+Douglas,01-06,President,,,Over Votes,5,6,1
+Douglas,01-07,President,,,Over Votes,3,4,1
+Douglas,01-08,President,,,Over Votes,1,2,1
+Douglas,01-09,President,,,Over Votes,1,3,2
+Douglas,01-10,President,,,Over Votes,3,3,0
+Douglas,01-11,President,,,Over Votes,4,5,1
+Douglas,01-12,President,,,Over Votes,1,1,0
+Douglas,01-13,President,,,Over Votes,5,5,0
+Douglas,01-14,President,,,Over Votes,1,2,1
+Douglas,01-15,President,,,Over Votes,2,2,0
+Douglas,01-16,President,,,Over Votes,0,0,0
+Douglas,01-17,President,,,Over Votes,3,6,3
+Douglas,01-18,President,,,Over Votes,0,0,0
+Douglas,01-19,President,,,Over Votes,1,1,0
+Douglas,01-20,President,,,Over Votes,4,4,0
+Douglas,01-21,President,,,Over Votes,4,4,0
+Douglas,01-22,President,,,Over Votes,2,3,1
+Douglas,01-23,President,,,Over Votes,2,2,0
+Douglas,01-24,President,,,Over Votes,4,7,3
+Douglas,01-25,President,,,Over Votes,5,6,1
+Douglas,02-01,President,,,Over Votes,5,7,2
+Douglas,02-02,President,,,Over Votes,5,6,1
+Douglas,02-03,President,,,Over Votes,5,7,2
+Douglas,02-04,President,,,Over Votes,14,19,5
+Douglas,02-05,President,,,Over Votes,7,12,5
+Douglas,02-06,President,,,Over Votes,12,14,2
+Douglas,02-07,President,,,Over Votes,8,12,4
+Douglas,02-08,President,,,Over Votes,14,19,5
+Douglas,02-09,President,,,Over Votes,12,16,4
+Douglas,02-10,President,,,Over Votes,5,10,5
+Douglas,02-11,President,,,Over Votes,18,25,7
+Douglas,02-12,President,,,Over Votes,4,5,1
+Douglas,02-13,President,,,Over Votes,10,12,2
+Douglas,02-14,President,,,Over Votes,8,9,1
+Douglas,02-15,President,,,Over Votes,13,15,2
+Douglas,02-16,President,,,Over Votes,11,15,4
+Douglas,02-17,President,,,Over Votes,10,12,2
+Douglas,02-18,President,,,Over Votes,0,0,0
+Douglas,02-19,President,,,Over Votes,7,10,3
+Douglas,02-20,President,,,Over Votes,5,10,5
+Douglas,02-21,President,,,Over Votes,11,15,4
+Douglas,02-22,President,,,Over Votes,4,8,4
+Douglas,02-23,President,,,Over Votes,8,9,1
+Douglas,03-01,President,,,Over Votes,0,0,0
+Douglas,03-02,President,,,Over Votes,1,2,1
+Douglas,03-03,President,,,Over Votes,1,1,0
+Douglas,03-04,President,,,Over Votes,2,3,1
+Douglas,03-05,President,,,Over Votes,3,4,1
+Douglas,03-06,President,,,Over Votes,3,4,1
+Douglas,03-07,President,,,Over Votes,3,4,1
+Douglas,03-08,President,,,Over Votes,3,4,1
+Douglas,03-09,President,,,Over Votes,2,2,0
+Douglas,03-10,President,,,Over Votes,0,0,0
+Douglas,03-11,President,,,Over Votes,9,10,1
+Douglas,03-12,President,,,Over Votes,1,2,1
+Douglas,03-13,President,,,Over Votes,7,7,0
+Douglas,03-14,President,,,Over Votes,3,4,1
+Douglas,03-15,President,,,Over Votes,5,8,3
+Douglas,03-16,President,,,Over Votes,4,4,0
+Douglas,03-17,President,,,Over Votes,1,2,1
+Douglas,03-18,President,,,Over Votes,3,5,2
+Douglas,03-19,President,,,Over Votes,3,5,2
+Douglas,03-20,President,,,Over Votes,0,0,0
+Douglas,03-21,President,,,Over Votes,0,0,0
+Douglas,04-01,President,,,Over Votes,13,16,3
+Douglas,04-02,President,,,Over Votes,6,8,2
+Douglas,04-03,President,,,Over Votes,10,12,2
+Douglas,04-04,President,,,Over Votes,5,5,0
+Douglas,04-05,President,,,Over Votes,3,5,2
+Douglas,04-06,President,,,Over Votes,8,9,1
+Douglas,04-07,President,,,Over Votes,2,4,2
+Douglas,04-08,President,,,Over Votes,3,4,1
+Douglas,04-09,President,,,Over Votes,8,8,0
+Douglas,04-10,President,,,Over Votes,12,15,3
+Douglas,04-11,President,,,Over Votes,7,7,0
+Douglas,04-12,President,,,Over Votes,4,4,0
+Douglas,04-13,President,,,Over Votes,5,8,3
+Douglas,04-14,President,,,Over Votes,2,2,0
+Douglas,04-15,President,,,Over Votes,6,7,1
+Douglas,04-16,President,,,Over Votes,4,4,0
+Douglas,04-17,President,,,Over Votes,2,3,1
+Douglas,04-18,President,,,Over Votes,7,9,2
+Douglas,05-01,President,,,Over Votes,0,1,1
+Douglas,05-02,President,,,Over Votes,0,1,1
+Douglas,05-03,President,,,Over Votes,1,2,1
+Douglas,05-04,President,,,Over Votes,3,6,3
+Douglas,05-05,President,,,Over Votes,0,1,1
+Douglas,05-06,President,,,Over Votes,0,1,1
+Douglas,05-07,President,,,Over Votes,1,2,1
+Douglas,05-08,President,,,Over Votes,0,1,1
+Douglas,05-09,President,,,Over Votes,0,0,0
+Douglas,05-10,President,,,Over Votes,1,1,0
+Douglas,05-11,President,,,Over Votes,5,6,1
+Douglas,05-12,President,,,Over Votes,0,0,0
+Douglas,05-13,President,,,Over Votes,1,3,2
+Douglas,05-14,President,,,Over Votes,3,3,0
+Douglas,05-15,President,,,Over Votes,0,0,0
+Douglas,05-16,President,,,Over Votes,1,2,1
+Douglas,05-17,President,,,Over Votes,1,1,0
+Douglas,05-18,President,,,Over Votes,2,3,1
+Douglas,05-19,President,,,Over Votes,2,4,2
+Douglas,05-20,President,,,Over Votes,0,0,0
+Douglas,05-21,President,,,Over Votes,0,1,1
+Douglas,05-22,President,,,Over Votes,1,1,0
+Douglas,05-23,President,,,Over Votes,2,3,1
+Douglas,05-24,President,,,Over Votes,3,6,3
+Douglas,05-25,President,,,Over Votes,1,2,1
+Douglas,05-26,President,,,Over Votes,1,1,0
+Douglas,05-27,President,,,Over Votes,1,2,1
+Douglas,05-28,President,,,Over Votes,0,1,1
+Douglas,05-29,President,,,Over Votes,1,1,0
+Douglas,05-30,President,,,Over Votes,1,2,1
+Douglas,05-31,President,,,Over Votes,1,1,0
+Douglas,05-32,President,,,Over Votes,0,0,0
+Douglas,05-33,President,,,Over Votes,0,0,0
+Douglas,06-01,President,,,Over Votes,0,1,1
+Douglas,06-02,President,,,Over Votes,1,2,1
+Douglas,06-03,President,,,Over Votes,2,2,0
+Douglas,06-04,President,,,Over Votes,3,3,0
+Douglas,06-05,President,,,Over Votes,1,1,0
+Douglas,06-06,President,,,Over Votes,3,3,0
+Douglas,06-07,President,,,Over Votes,1,1,0
+Douglas,06-08,President,,,Over Votes,0,0,0
+Douglas,06-09,President,,,Over Votes,0,1,1
+Douglas,06-10,President,,,Over Votes,1,1,0
+Douglas,06-11,President,,,Over Votes,1,1,0
+Douglas,06-12,President,,,Over Votes,1,2,1
+Douglas,06-13,President,,,Over Votes,7,10,3
+Douglas,06-14,President,,,Over Votes,0,0,0
+Douglas,06-15,President,,,Over Votes,1,2,1
+Douglas,06-16,President,,,Over Votes,0,0,0
+Douglas,06-17,President,,,Over Votes,0,0,0
+Douglas,06-18,President,,,Over Votes,0,0,0
+Douglas,06-19,President,,,Over Votes,1,1,0
+Douglas,06-20,President,,,Over Votes,4,4,0
+Douglas,06-21,President,,,Over Votes,0,0,0
+Douglas,06-22,President,,,Over Votes,0,0,0
+Douglas,06-23,President,,,Over Votes,1,1,0
+Douglas,06-24,President,,,Over Votes,1,2,1
+Douglas,06-25,President,,,Over Votes,0,2,2
+Douglas,06-26,President,,,Over Votes,2,2,0
+Douglas,06-27,President,,,Over Votes,1,2,1
+Douglas,06-28,President,,,Over Votes,2,2,0
+Douglas,06-29,President,,,Over Votes,0,0,0
+Douglas,06-30,President,,,Over Votes,2,3,1
+Douglas,07-01,President,,,Over Votes,6,6,0
+Douglas,07-02,President,,,Over Votes,5,5,0
+Douglas,07-03,President,,,Over Votes,4,4,0
+Douglas,07-04,President,,,Over Votes,2,2,0
+Douglas,07-05,President,,,Over Votes,6,9,3
+Douglas,07-06,President,,,Over Votes,1,2,1
+Douglas,07-07,President,,,Over Votes,2,3,1
+Douglas,07-08,President,,,Over Votes,3,4,1
+Douglas,07-09,President,,,Over Votes,3,3,0
+Douglas,07-10,President,,,Over Votes,1,2,1
+Douglas,07-11,President,,,Over Votes,3,4,1
+Douglas,07-12,President,,,Over Votes,1,2,1
+Douglas,07-13,President,,,Over Votes,0,3,3
+Douglas,07-14,President,,,Over Votes,2,2,0
+Douglas,07-15,President,,,Over Votes,0,0,0
+Douglas,07-16,President,,,Over Votes,0,0,0
+Douglas,07-17,President,,,Over Votes,1,1,0
+Douglas,07-18,President,,,Over Votes,3,6,3
+Douglas,07-19,President,,,Over Votes,1,2,1
+Douglas,07-20,President,,,Over Votes,0,0,0
+Douglas,07-21,President,,,Over Votes,0,2,2
+Douglas,07-22,President,,,Over Votes,0,1,1
+Douglas,07-23,President,,,Over Votes,4,7,3
+Douglas,07-24,President,,,Over Votes,2,3,1
+Douglas,07-25,President,,,Over Votes,2,3,1
+Douglas,07-26,President,,,Over Votes,1,2,1
+Douglas,07-27,President,,,Over Votes,0,0,0
+Douglas,07-28,President,,,Over Votes,0,0,0
+Douglas,07-29,President,,,Over Votes,0,4,4
+Douglas,07-30,President,,,Over Votes,0,1,1
+Douglas,07-31,President,,,Over Votes,0,0,0
+Douglas,07-32,President,,,Over Votes,0,0,0
+Douglas,07-33,President,,,Over Votes,0,0,0
+Douglas,07-34,President,,,Over Votes,2,2,0
+Douglas,08-01,President,,,Over Votes,0,0,0
+Douglas,08-02,President,,,Over Votes,0,0,0
+Douglas,08-03,President,,,Over Votes,2,2,0
+Douglas,08-04,President,,,Over Votes,1,1,0
+Douglas,08-05,President,,,Over Votes,2,3,1
+Douglas,08-06,President,,,Over Votes,0,0,0
+Douglas,08-07,President,,,Over Votes,2,2,0
+Douglas,08-08,President,,,Over Votes,0,0,0
+Douglas,08-09,President,,,Over Votes,0,1,1
+Douglas,08-10,President,,,Over Votes,2,2,0
+Douglas,08-11,President,,,Over Votes,3,3,0
+Douglas,08-12,President,,,Over Votes,4,4,0
+Douglas,08-13,President,,,Over Votes,1,1,0
+Douglas,08-14,President,,,Over Votes,1,1,0
+Douglas,08-15,President,,,Over Votes,0,1,1
+Douglas,08-16,President,,,Over Votes,1,1,0
+Douglas,08-17,President,,,Over Votes,0,0,0
+Douglas,08-18,President,,,Over Votes,1,1,0
+Douglas,08-19,President,,,Over Votes,0,7,7
+Douglas,08-20,President,,,Over Votes,0,0,0
+Douglas,08-23,President,,,Over Votes,2,2,0
+Douglas,08-24,President,,,Over Votes,2,4,2
+Douglas,08-27,President,,,Over Votes,0,0,0
+Douglas,08-31,President,,,Over Votes,2,2,0
+Douglas,08-35,President,,,Over Votes,0,0,0
+Douglas,08-36,President,,,Over Votes,1,2,1
+Douglas,08-37,President,,,Over Votes,0,0,0
+Douglas,08-39,President,,,Over Votes,2,2,0
+Douglas,08-40,President,,,Over Votes,2,2,0
+Douglas,08-41,President,,,Over Votes,1,1,0
+Douglas,08-42,President,,,Over Votes,1,1,0
+Douglas,08-43,President,,,Over Votes,3,3,0
+Douglas,08-44,President,,,Over Votes,1,1,0
+Douglas,08-45,President,,,Over Votes,1,1,0
+Douglas,08-46,President,,,Over Votes,0,1,1
+Douglas,08-47,President,,,Over Votes,2,2,0
+Douglas,08-48,President,,,Over Votes,1,2,1
+Douglas,08-49,President,,,Over Votes,1,1,0
+Douglas,08-50,President,,,Over Votes,2,3,1
+Douglas,08-51,President,,,Over Votes,0,2,2
+Douglas,08-52,President,,,Over Votes,1,2,1
+Douglas,08-53,President,,,Over Votes,2,2,0
+Douglas,08-54,President,,,Over Votes,1,2,1
+Douglas,08-55,President,,,Over Votes,0,0,0
+Douglas,01-01,President,,,Under Votes,6,8,2
+Douglas,01-02,President,,,Under Votes,4,5,1
+Douglas,01-03,President,,,Under Votes,5,20,15
+Douglas,01-04,President,,,Under Votes,4,5,1
+Douglas,01-05,President,,,Under Votes,2,7,5
+Douglas,01-06,President,,,Under Votes,4,5,1
+Douglas,01-07,President,,,Under Votes,4,7,3
+Douglas,01-08,President,,,Under Votes,4,8,4
+Douglas,01-09,President,,,Under Votes,3,5,2
+Douglas,01-10,President,,,Under Votes,1,2,1
+Douglas,01-11,President,,,Under Votes,2,4,2
+Douglas,01-12,President,,,Under Votes,1,1,0
+Douglas,01-13,President,,,Under Votes,5,12,7
+Douglas,01-14,President,,,Under Votes,6,15,9
+Douglas,01-15,President,,,Under Votes,4,10,6
+Douglas,01-16,President,,,Under Votes,0,5,5
+Douglas,01-17,President,,,Under Votes,4,5,1
+Douglas,01-18,President,,,Under Votes,12,22,10
+Douglas,01-19,President,,,Under Votes,10,13,3
+Douglas,01-20,President,,,Under Votes,6,10,4
+Douglas,01-21,President,,,Under Votes,12,21,9
+Douglas,01-22,President,,,Under Votes,6,11,5
+Douglas,01-23,President,,,Under Votes,4,7,3
+Douglas,01-24,President,,,Under Votes,1,6,5
+Douglas,01-25,President,,,Under Votes,5,5,0
+Douglas,02-01,President,,,Under Votes,4,6,2
+Douglas,02-02,President,,,Under Votes,0,2,2
+Douglas,02-03,President,,,Under Votes,2,4,2
+Douglas,02-04,President,,,Under Votes,2,4,2
+Douglas,02-05,President,,,Under Votes,2,3,1
+Douglas,02-06,President,,,Under Votes,5,5,0
+Douglas,02-07,President,,,Under Votes,0,0,0
+Douglas,02-08,President,,,Under Votes,1,2,1
+Douglas,02-09,President,,,Under Votes,1,2,1
+Douglas,02-10,President,,,Under Votes,2,5,3
+Douglas,02-11,President,,,Under Votes,1,4,3
+Douglas,02-12,President,,,Under Votes,7,9,2
+Douglas,02-13,President,,,Under Votes,2,2,0
+Douglas,02-14,President,,,Under Votes,4,6,2
+Douglas,02-15,President,,,Under Votes,3,3,0
+Douglas,02-16,President,,,Under Votes,5,6,1
+Douglas,02-17,President,,,Under Votes,4,5,1
+Douglas,02-18,President,,,Under Votes,2,3,1
+Douglas,02-19,President,,,Under Votes,3,3,0
+Douglas,02-20,President,,,Under Votes,2,3,1
+Douglas,02-21,President,,,Under Votes,3,3,0
+Douglas,02-22,President,,,Under Votes,2,3,1
+Douglas,02-23,President,,,Under Votes,2,4,2
+Douglas,03-01,President,,,Under Votes,0,0,0
+Douglas,03-02,President,,,Under Votes,5,11,6
+Douglas,03-03,President,,,Under Votes,10,12,2
+Douglas,03-04,President,,,Under Votes,9,19,10
+Douglas,03-05,President,,,Under Votes,2,5,3
+Douglas,03-06,President,,,Under Votes,2,2,0
+Douglas,03-07,President,,,Under Votes,5,5,0
+Douglas,03-08,President,,,Under Votes,4,5,1
+Douglas,03-09,President,,,Under Votes,17,22,5
+Douglas,03-10,President,,,Under Votes,2,2,0
+Douglas,03-11,President,,,Under Votes,4,4,0
+Douglas,03-12,President,,,Under Votes,3,3,0
+Douglas,03-13,President,,,Under Votes,3,5,2
+Douglas,03-14,President,,,Under Votes,4,5,1
+Douglas,03-15,President,,,Under Votes,9,15,6
+Douglas,03-16,President,,,Under Votes,5,11,6
+Douglas,03-17,President,,,Under Votes,5,9,4
+Douglas,03-18,President,,,Under Votes,3,3,0
+Douglas,03-19,President,,,Under Votes,4,4,0
+Douglas,03-20,President,,,Under Votes,10,11,1
+Douglas,03-21,President,,,Under Votes,6,8,2
+Douglas,04-01,President,,,Under Votes,3,5,2
+Douglas,04-02,President,,,Under Votes,1,1,0
+Douglas,04-03,President,,,Under Votes,4,4,0
+Douglas,04-04,President,,,Under Votes,8,10,2
+Douglas,04-05,President,,,Under Votes,10,10,0
+Douglas,04-06,President,,,Under Votes,3,3,0
+Douglas,04-07,President,,,Under Votes,4,4,0
+Douglas,04-08,President,,,Under Votes,3,5,2
+Douglas,04-09,President,,,Under Votes,2,4,2
+Douglas,04-10,President,,,Under Votes,1,3,2
+Douglas,04-11,President,,,Under Votes,6,9,3
+Douglas,04-12,President,,,Under Votes,4,6,2
+Douglas,04-13,President,,,Under Votes,3,7,4
+Douglas,04-14,President,,,Under Votes,3,3,0
+Douglas,04-15,President,,,Under Votes,5,6,1
+Douglas,04-16,President,,,Under Votes,2,5,3
+Douglas,04-17,President,,,Under Votes,2,4,2
+Douglas,04-18,President,,,Under Votes,4,4,0
+Douglas,05-01,President,,,Under Votes,9,11,2
+Douglas,05-02,President,,,Under Votes,9,15,6
+Douglas,05-03,President,,,Under Votes,10,14,4
+Douglas,05-04,President,,,Under Votes,5,6,1
+Douglas,05-05,President,,,Under Votes,6,8,2
+Douglas,05-06,President,,,Under Votes,6,10,4
+Douglas,05-07,President,,,Under Votes,3,5,2
+Douglas,05-08,President,,,Under Votes,2,3,1
+Douglas,05-09,President,,,Under Votes,6,8,2
+Douglas,05-10,President,,,Under Votes,6,11,5
+Douglas,05-11,President,,,Under Votes,6,10,4
+Douglas,05-12,President,,,Under Votes,2,6,4
+Douglas,05-13,President,,,Under Votes,8,15,7
+Douglas,05-14,President,,,Under Votes,3,3,0
+Douglas,05-15,President,,,Under Votes,7,16,9
+Douglas,05-16,President,,,Under Votes,2,8,6
+Douglas,05-17,President,,,Under Votes,5,12,7
+Douglas,05-18,President,,,Under Votes,4,7,3
+Douglas,05-19,President,,,Under Votes,5,10,5
+Douglas,05-20,President,,,Under Votes,6,6,0
+Douglas,05-21,President,,,Under Votes,3,4,1
+Douglas,05-22,President,,,Under Votes,5,11,6
+Douglas,05-23,President,,,Under Votes,3,3,0
+Douglas,05-24,President,,,Under Votes,6,9,3
+Douglas,05-25,President,,,Under Votes,6,14,8
+Douglas,05-26,President,,,Under Votes,5,6,1
+Douglas,05-27,President,,,Under Votes,3,3,0
+Douglas,05-28,President,,,Under Votes,1,5,4
+Douglas,05-29,President,,,Under Votes,5,8,3
+Douglas,05-30,President,,,Under Votes,11,20,9
+Douglas,05-31,President,,,Under Votes,5,10,5
+Douglas,05-32,President,,,Under Votes,0,2,2
+Douglas,05-33,President,,,Under Votes,3,3,0
+Douglas,06-01,President,,,Under Votes,5,11,6
+Douglas,06-02,President,,,Under Votes,10,19,9
+Douglas,06-03,President,,,Under Votes,7,15,8
+Douglas,06-04,President,,,Under Votes,4,13,9
+Douglas,06-05,President,,,Under Votes,9,11,2
+Douglas,06-06,President,,,Under Votes,5,9,4
+Douglas,06-07,President,,,Under Votes,10,14,4
+Douglas,06-08,President,,,Under Votes,14,18,4
+Douglas,06-09,President,,,Under Votes,6,19,13
+Douglas,06-10,President,,,Under Votes,8,12,4
+Douglas,06-11,President,,,Under Votes,17,23,6
+Douglas,06-12,President,,,Under Votes,5,5,0
+Douglas,06-13,President,,,Under Votes,8,12,4
+Douglas,06-14,President,,,Under Votes,9,10,1
+Douglas,06-15,President,,,Under Votes,6,8,2
+Douglas,06-16,President,,,Under Votes,3,9,6
+Douglas,06-17,President,,,Under Votes,4,9,5
+Douglas,06-18,President,,,Under Votes,1,2,1
+Douglas,06-19,President,,,Under Votes,8,13,5
+Douglas,06-20,President,,,Under Votes,7,8,1
+Douglas,06-21,President,,,Under Votes,8,16,8
+Douglas,06-22,President,,,Under Votes,3,12,9
+Douglas,06-23,President,,,Under Votes,4,8,4
+Douglas,06-24,President,,,Under Votes,5,9,4
+Douglas,06-25,President,,,Under Votes,8,18,10
+Douglas,06-26,President,,,Under Votes,2,8,6
+Douglas,06-27,President,,,Under Votes,10,16,6
+Douglas,06-28,President,,,Under Votes,6,13,7
+Douglas,06-29,President,,,Under Votes,3,5,2
+Douglas,06-30,President,,,Under Votes,0,8,8
+Douglas,07-01,President,,,Under Votes,6,8,2
+Douglas,07-02,President,,,Under Votes,7,10,3
+Douglas,07-03,President,,,Under Votes,7,10,3
+Douglas,07-04,President,,,Under Votes,2,4,2
+Douglas,07-05,President,,,Under Votes,5,7,2
+Douglas,07-06,President,,,Under Votes,13,17,4
+Douglas,07-07,President,,,Under Votes,2,4,2
+Douglas,07-08,President,,,Under Votes,3,7,4
+Douglas,07-09,President,,,Under Votes,7,9,2
+Douglas,07-10,President,,,Under Votes,9,12,3
+Douglas,07-11,President,,,Under Votes,2,4,2
+Douglas,07-12,President,,,Under Votes,6,16,10
+Douglas,07-13,President,,,Under Votes,4,4,0
+Douglas,07-14,President,,,Under Votes,2,3,1
+Douglas,07-15,President,,,Under Votes,2,4,2
+Douglas,07-16,President,,,Under Votes,5,8,3
+Douglas,07-17,President,,,Under Votes,8,12,4
+Douglas,07-18,President,,,Under Votes,2,6,4
+Douglas,07-19,President,,,Under Votes,10,12,2
+Douglas,07-20,President,,,Under Votes,7,16,9
+Douglas,07-21,President,,,Under Votes,4,11,7
+Douglas,07-22,President,,,Under Votes,9,12,3
+Douglas,07-23,President,,,Under Votes,7,10,3
+Douglas,07-24,President,,,Under Votes,3,5,2
+Douglas,07-25,President,,,Under Votes,9,12,3
+Douglas,07-26,President,,,Under Votes,2,3,1
+Douglas,07-27,President,,,Under Votes,4,10,6
+Douglas,07-28,President,,,Under Votes,2,3,1
+Douglas,07-29,President,,,Under Votes,3,6,3
+Douglas,07-30,President,,,Under Votes,7,13,6
+Douglas,07-31,President,,,Under Votes,4,13,9
+Douglas,07-32,President,,,Under Votes,7,11,4
+Douglas,07-33,President,,,Under Votes,4,6,2
+Douglas,07-34,President,,,Under Votes,5,11,6
+Douglas,08-01,President,,,Under Votes,6,6,0
+Douglas,08-02,President,,,Under Votes,2,4,2
+Douglas,08-03,President,,,Under Votes,1,3,2
+Douglas,08-04,President,,,Under Votes,8,12,4
+Douglas,08-05,President,,,Under Votes,4,6,2
+Douglas,08-06,President,,,Under Votes,4,8,4
+Douglas,08-07,President,,,Under Votes,3,5,2
+Douglas,08-08,President,,,Under Votes,2,4,2
+Douglas,08-09,President,,,Under Votes,1,2,1
+Douglas,08-10,President,,,Under Votes,4,5,1
+Douglas,08-11,President,,,Under Votes,2,3,1
+Douglas,08-12,President,,,Under Votes,2,3,1
+Douglas,08-13,President,,,Under Votes,6,13,7
+Douglas,08-14,President,,,Under Votes,6,7,1
+Douglas,08-15,President,,,Under Votes,5,13,8
+Douglas,08-16,President,,,Under Votes,5,9,4
+Douglas,08-17,President,,,Under Votes,0,4,4
+Douglas,08-18,President,,,Under Votes,2,3,1
+Douglas,08-19,President,,,Under Votes,5,9,4
+Douglas,08-20,President,,,Under Votes,5,5,0
+Douglas,08-23,President,,,Under Votes,3,5,2
+Douglas,08-24,President,,,Under Votes,2,7,5
+Douglas,08-27,President,,,Under Votes,2,2,0
+Douglas,08-31,President,,,Under Votes,3,4,1
+Douglas,08-35,President,,,Under Votes,1,4,3
+Douglas,08-36,President,,,Under Votes,4,6,2
+Douglas,08-37,President,,,Under Votes,7,12,5
+Douglas,08-39,President,,,Under Votes,5,9,4
+Douglas,08-40,President,,,Under Votes,12,17,5
+Douglas,08-41,President,,,Under Votes,4,7,3
+Douglas,08-42,President,,,Under Votes,6,11,5
+Douglas,08-43,President,,,Under Votes,8,16,8
+Douglas,08-44,President,,,Under Votes,2,6,4
+Douglas,08-45,President,,,Under Votes,7,15,8
+Douglas,08-46,President,,,Under Votes,3,9,6
+Douglas,08-47,President,,,Under Votes,4,11,7
+Douglas,08-48,President,,,Under Votes,2,7,5
+Douglas,08-49,President,,,Under Votes,8,9,1
+Douglas,08-50,President,,,Under Votes,11,15,4
+Douglas,08-51,President,,,Under Votes,10,18,8
+Douglas,08-52,President,,,Under Votes,7,11,4
+Douglas,08-53,President,,,Under Votes,3,7,4
+Douglas,08-54,President,,,Under Votes,1,4,3
+Douglas,08-55,President,,,Under Votes,8,9,1
+Douglas,01-01,U.S. House,2,R,Don Bacon,357,458,101
+Douglas,01-02,U.S. House,2,R,Don Bacon,250,348,98
+Douglas,01-03,U.S. House,2,R,Don Bacon,363,593,230
+Douglas,01-04,U.S. House,2,R,Don Bacon,173,284,111
+Douglas,01-05,U.S. House,2,R,Don Bacon,292,431,139
+Douglas,01-06,U.S. House,2,R,Don Bacon,242,312,70
+Douglas,01-07,U.S. House,2,R,Don Bacon,231,299,68
+Douglas,01-08,U.S. House,2,R,Don Bacon,261,357,96
+Douglas,01-09,U.S. House,2,R,Don Bacon,223,286,63
+Douglas,01-10,U.S. House,2,R,Don Bacon,212,273,61
+Douglas,01-11,U.S. House,2,R,Don Bacon,254,354,100
+Douglas,01-12,U.S. House,2,R,Don Bacon,38,50,12
+Douglas,01-13,U.S. House,2,R,Don Bacon,432,611,179
+Douglas,01-14,U.S. House,2,R,Don Bacon,329,448,119
+Douglas,01-15,U.S. House,2,R,Don Bacon,359,502,143
+Douglas,01-16,U.S. House,2,R,Don Bacon,223,326,103
+Douglas,01-17,U.S. House,2,R,Don Bacon,222,295,73
+Douglas,01-18,U.S. House,2,R,Don Bacon,395,534,139
+Douglas,01-19,U.S. House,2,R,Don Bacon,346,496,150
+Douglas,01-20,U.S. House,2,R,Don Bacon,309,422,113
+Douglas,01-21,U.S. House,2,R,Don Bacon,319,464,145
+Douglas,01-22,U.S. House,2,R,Don Bacon,293,443,150
+Douglas,01-23,U.S. House,2,R,Don Bacon,274,391,117
+Douglas,01-24,U.S. House,2,R,Don Bacon,247,362,115
+Douglas,01-25,U.S. House,2,R,Don Bacon,214,290,76
+Douglas,02-01,U.S. House,2,R,Don Bacon,181,237,56
+Douglas,02-02,U.S. House,2,R,Don Bacon,178,208,30
+Douglas,02-03,U.S. House,2,R,Don Bacon,150,252,102
+Douglas,02-04,U.S. House,2,R,Don Bacon,79,110,31
+Douglas,02-05,U.S. House,2,R,Don Bacon,69,90,21
+Douglas,02-06,U.S. House,2,R,Don Bacon,61,91,30
+Douglas,02-07,U.S. House,2,R,Don Bacon,62,91,29
+Douglas,02-08,U.S. House,2,R,Don Bacon,53,75,22
+Douglas,02-09,U.S. House,2,R,Don Bacon,35,38,3
+Douglas,02-10,U.S. House,2,R,Don Bacon,50,68,18
+Douglas,02-11,U.S. House,2,R,Don Bacon,97,143,46
+Douglas,02-12,U.S. House,2,R,Don Bacon,136,188,52
+Douglas,02-13,U.S. House,2,R,Don Bacon,26,39,13
+Douglas,02-14,U.S. House,2,R,Don Bacon,177,218,41
+Douglas,02-15,U.S. House,2,R,Don Bacon,60,78,18
+Douglas,02-16,U.S. House,2,R,Don Bacon,65,94,29
+Douglas,02-17,U.S. House,2,R,Don Bacon,114,149,35
+Douglas,02-18,U.S. House,2,R,Don Bacon,43,93,50
+Douglas,02-19,U.S. House,2,R,Don Bacon,74,99,25
+Douglas,02-20,U.S. House,2,R,Don Bacon,46,68,22
+Douglas,02-21,U.S. House,2,R,Don Bacon,39,54,15
+Douglas,02-22,U.S. House,2,R,Don Bacon,22,28,6
+Douglas,02-23,U.S. House,2,R,Don Bacon,161,205,44
+Douglas,03-01,U.S. House,2,R,Don Bacon,21,24,3
+Douglas,03-02,U.S. House,2,R,Don Bacon,167,232,65
+Douglas,03-03,U.S. House,2,R,Don Bacon,201,264,63
+Douglas,03-04,U.S. House,2,R,Don Bacon,252,346,94
+Douglas,03-05,U.S. House,2,R,Don Bacon,186,245,59
+Douglas,03-06,U.S. House,2,R,Don Bacon,164,211,47
+Douglas,03-07,U.S. House,2,R,Don Bacon,222,309,87
+Douglas,03-08,U.S. House,2,R,Don Bacon,251,346,95
+Douglas,03-09,U.S. House,2,R,Don Bacon,328,442,114
+Douglas,03-10,U.S. House,2,R,Don Bacon,157,222,65
+Douglas,03-11,U.S. House,2,R,Don Bacon,205,255,50
+Douglas,03-12,U.S. House,2,R,Don Bacon,257,343,86
+Douglas,03-13,U.S. House,2,R,Don Bacon,238,311,73
+Douglas,03-14,U.S. House,2,R,Don Bacon,339,455,116
+Douglas,03-15,U.S. House,2,R,Don Bacon,346,499,153
+Douglas,03-16,U.S. House,2,R,Don Bacon,421,580,159
+Douglas,03-17,U.S. House,2,R,Don Bacon,339,443,104
+Douglas,03-18,U.S. House,2,R,Don Bacon,162,194,32
+Douglas,03-19,U.S. House,2,R,Don Bacon,216,290,74
+Douglas,03-20,U.S. House,2,R,Don Bacon,326,437,111
+Douglas,03-21,U.S. House,2,R,Don Bacon,248,347,99
+Douglas,04-01,U.S. House,2,R,Don Bacon,161,197,36
+Douglas,04-02,U.S. House,2,R,Don Bacon,201,284,83
+Douglas,04-03,U.S. House,2,R,Don Bacon,131,176,45
+Douglas,04-04,U.S. House,2,R,Don Bacon,284,360,76
+Douglas,04-05,U.S. House,2,R,Don Bacon,449,592,143
+Douglas,04-06,U.S. House,2,R,Don Bacon,251,328,77
+Douglas,04-07,U.S. House,2,R,Don Bacon,204,281,77
+Douglas,04-08,U.S. House,2,R,Don Bacon,307,409,102
+Douglas,04-09,U.S. House,2,R,Don Bacon,92,137,45
+Douglas,04-10,U.S. House,2,R,Don Bacon,132,188,56
+Douglas,04-11,U.S. House,2,R,Don Bacon,321,412,91
+Douglas,04-12,U.S. House,2,R,Don Bacon,360,478,118
+Douglas,04-13,U.S. House,2,R,Don Bacon,279,369,90
+Douglas,04-14,U.S. House,2,R,Don Bacon,87,121,34
+Douglas,04-15,U.S. House,2,R,Don Bacon,213,263,50
+Douglas,04-16,U.S. House,2,R,Don Bacon,282,375,93
+Douglas,04-17,U.S. House,2,R,Don Bacon,176,238,62
+Douglas,04-18,U.S. House,2,R,Don Bacon,120,151,31
+Douglas,05-01,U.S. House,2,R,Don Bacon,412,562,150
+Douglas,05-02,U.S. House,2,R,Don Bacon,406,595,189
+Douglas,05-03,U.S. House,2,R,Don Bacon,490,659,169
+Douglas,05-04,U.S. House,2,R,Don Bacon,319,416,97
+Douglas,05-05,U.S. House,2,R,Don Bacon,296,395,99
+Douglas,05-06,U.S. House,2,R,Don Bacon,311,431,120
+Douglas,05-07,U.S. House,2,R,Don Bacon,535,689,154
+Douglas,05-08,U.S. House,2,R,Don Bacon,353,449,96
+Douglas,05-09,U.S. House,2,R,Don Bacon,501,711,210
+Douglas,05-10,U.S. House,2,R,Don Bacon,404,552,148
+Douglas,05-11,U.S. House,2,R,Don Bacon,514,690,176
+Douglas,05-12,U.S. House,2,R,Don Bacon,467,624,157
+Douglas,05-13,U.S. House,2,R,Don Bacon,676,985,309
+Douglas,05-14,U.S. House,2,R,Don Bacon,545,764,219
+Douglas,05-15,U.S. House,2,R,Don Bacon,497,733,236
+Douglas,05-16,U.S. House,2,R,Don Bacon,489,692,203
+Douglas,05-17,U.S. House,2,R,Don Bacon,424,624,200
+Douglas,05-18,U.S. House,2,R,Don Bacon,564,741,177
+Douglas,05-19,U.S. House,2,R,Don Bacon,386,553,167
+Douglas,05-20,U.S. House,2,R,Don Bacon,538,804,266
+Douglas,05-21,U.S. House,2,R,Don Bacon,478,661,183
+Douglas,05-22,U.S. House,2,R,Don Bacon,639,836,197
+Douglas,05-23,U.S. House,2,R,Don Bacon,407,559,152
+Douglas,05-24,U.S. House,2,R,Don Bacon,452,581,129
+Douglas,05-25,U.S. House,2,R,Don Bacon,475,707,232
+Douglas,05-26,U.S. House,2,R,Don Bacon,332,437,105
+Douglas,05-27,U.S. House,2,R,Don Bacon,367,517,150
+Douglas,05-28,U.S. House,2,R,Don Bacon,420,555,135
+Douglas,05-29,U.S. House,2,R,Don Bacon,324,454,130
+Douglas,05-30,U.S. House,2,R,Don Bacon,651,970,319
+Douglas,05-31,U.S. House,2,R,Don Bacon,333,535,202
+Douglas,05-32,U.S. House,2,R,Don Bacon,101,170,69
+Douglas,05-33,U.S. House,2,R,Don Bacon,137,172,35
+Douglas,06-01,U.S. House,2,R,Don Bacon,328,483,155
+Douglas,06-02,U.S. House,2,R,Don Bacon,351,597,246
+Douglas,06-03,U.S. House,2,R,Don Bacon,376,578,202
+Douglas,06-04,U.S. House,2,R,Don Bacon,437,616,179
+Douglas,06-05,U.S. House,2,R,Don Bacon,223,322,99
+Douglas,06-06,U.S. House,2,R,Don Bacon,354,436,82
+Douglas,06-07,U.S. House,2,R,Don Bacon,336,469,133
+Douglas,06-08,U.S. House,2,R,Don Bacon,441,682,241
+Douglas,06-09,U.S. House,2,R,Don Bacon,358,634,276
+Douglas,06-10,U.S. House,2,R,Don Bacon,527,721,194
+Douglas,06-11,U.S. House,2,R,Don Bacon,572,742,170
+Douglas,06-12,U.S. House,2,R,Don Bacon,391,488,97
+Douglas,06-13,U.S. House,2,R,Don Bacon,577,769,192
+Douglas,06-14,U.S. House,2,R,Don Bacon,569,767,198
+Douglas,06-15,U.S. House,2,R,Don Bacon,500,688,188
+Douglas,06-16,U.S. House,2,R,Don Bacon,489,779,290
+Douglas,06-17,U.S. House,2,R,Don Bacon,469,637,168
+Douglas,06-18,U.S. House,2,R,Don Bacon,106,168,62
+Douglas,06-19,U.S. House,2,R,Don Bacon,553,814,261
+Douglas,06-20,U.S. House,2,R,Don Bacon,555,739,184
+Douglas,06-21,U.S. House,2,R,Don Bacon,544,843,299
+Douglas,06-22,U.S. House,2,R,Don Bacon,435,727,292
+Douglas,06-23,U.S. House,2,R,Don Bacon,503,619,116
+Douglas,06-24,U.S. House,2,R,Don Bacon,579,755,176
+Douglas,06-25,U.S. House,2,R,Don Bacon,318,501,183
+Douglas,06-26,U.S. House,2,R,Don Bacon,294,514,220
+Douglas,06-27,U.S. House,2,R,Don Bacon,347,496,149
+Douglas,06-28,U.S. House,2,R,Don Bacon,488,688,200
+Douglas,06-29,U.S. House,2,R,Don Bacon,474,658,184
+Douglas,06-30,U.S. House,2,R,Don Bacon,233,438,205
+Douglas,07-01,U.S. House,2,R,Don Bacon,347,463,116
+Douglas,07-02,U.S. House,2,R,Don Bacon,415,642,227
+Douglas,07-03,U.S. House,2,R,Don Bacon,412,538,126
+Douglas,07-04,U.S. House,2,R,Don Bacon,482,617,135
+Douglas,07-05,U.S. House,2,R,Don Bacon,424,555,131
+Douglas,07-06,U.S. House,2,R,Don Bacon,361,507,146
+Douglas,07-07,U.S. House,2,R,Don Bacon,387,492,105
+Douglas,07-08,U.S. House,2,R,Don Bacon,379,475,96
+Douglas,07-09,U.S. House,2,R,Don Bacon,387,542,155
+Douglas,07-10,U.S. House,2,R,Don Bacon,456,627,171
+Douglas,07-11,U.S. House,2,R,Don Bacon,417,534,117
+Douglas,07-12,U.S. House,2,R,Don Bacon,419,595,176
+Douglas,07-13,U.S. House,2,R,Don Bacon,597,798,201
+Douglas,07-14,U.S. House,2,R,Don Bacon,312,424,112
+Douglas,07-15,U.S. House,2,R,Don Bacon,294,414,120
+Douglas,07-16,U.S. House,2,R,Don Bacon,416,559,143
+Douglas,07-17,U.S. House,2,R,Don Bacon,509,736,227
+Douglas,07-18,U.S. House,2,R,Don Bacon,357,508,151
+Douglas,07-19,U.S. House,2,R,Don Bacon,348,513,165
+Douglas,07-20,U.S. House,2,R,Don Bacon,446,750,304
+Douglas,07-21,U.S. House,2,R,Don Bacon,566,898,332
+Douglas,07-22,U.S. House,2,R,Don Bacon,637,940,303
+Douglas,07-23,U.S. House,2,R,Don Bacon,341,444,103
+Douglas,07-24,U.S. House,2,R,Don Bacon,399,509,110
+Douglas,07-25,U.S. House,2,R,Don Bacon,402,584,182
+Douglas,07-26,U.S. House,2,R,Don Bacon,325,457,132
+Douglas,07-27,U.S. House,2,R,Don Bacon,521,691,170
+Douglas,07-28,U.S. House,2,R,Don Bacon,289,391,102
+Douglas,07-29,U.S. House,2,R,Don Bacon,427,573,146
+Douglas,07-30,U.S. House,2,R,Don Bacon,444,623,179
+Douglas,07-31,U.S. House,2,R,Don Bacon,440,626,186
+Douglas,07-32,U.S. House,2,R,Don Bacon,495,701,206
+Douglas,07-33,U.S. House,2,R,Don Bacon,372,504,132
+Douglas,07-34,U.S. House,2,R,Don Bacon,380,655,275
+Douglas,08-01,U.S. House,2,R,Don Bacon,211,283,72
+Douglas,08-02,U.S. House,2,R,Don Bacon,135,178,43
+Douglas,08-03,U.S. House,2,R,Don Bacon,160,194,34
+Douglas,08-04,U.S. House,2,R,Don Bacon,264,327,63
+Douglas,08-05,U.S. House,2,R,Don Bacon,185,223,38
+Douglas,08-06,U.S. House,2,R,Don Bacon,177,224,47
+Douglas,08-07,U.S. House,2,R,Don Bacon,302,378,76
+Douglas,08-08,U.S. House,2,R,Don Bacon,146,231,85
+Douglas,08-09,U.S. House,2,R,Don Bacon,241,390,149
+Douglas,08-10,U.S. House,2,R,Don Bacon,288,413,125
+Douglas,08-11,U.S. House,2,R,Don Bacon,486,657,171
+Douglas,08-12,U.S. House,2,R,Don Bacon,484,654,170
+Douglas,08-13,U.S. House,2,R,Don Bacon,948,1358,410
+Douglas,08-14,U.S. House,2,R,Don Bacon,426,553,127
+Douglas,08-15,U.S. House,2,R,Don Bacon,429,719,290
+Douglas,08-16,U.S. House,2,R,Don Bacon,843,1213,370
+Douglas,08-17,U.S. House,2,R,Don Bacon,480,656,176
+Douglas,08-18,U.S. House,2,R,Don Bacon,200,274,74
+Douglas,08-19,U.S. House,2,R,Don Bacon,564,776,212
+Douglas,08-20,U.S. House,2,R,Don Bacon,489,625,136
+Douglas,08-23,U.S. House,2,R,Don Bacon,312,430,118
+Douglas,08-24,U.S. House,2,R,Don Bacon,373,617,244
+Douglas,08-27,U.S. House,2,R,Don Bacon,55,58,3
+Douglas,08-31,U.S. House,2,R,Don Bacon,334,459,125
+Douglas,08-35,U.S. House,2,R,Don Bacon,223,276,53
+Douglas,08-36,U.S. House,2,R,Don Bacon,436,609,173
+Douglas,08-37,U.S. House,2,R,Don Bacon,463,689,226
+Douglas,08-39,U.S. House,2,R,Don Bacon,648,932,284
+Douglas,08-40,U.S. House,2,R,Don Bacon,668,928,260
+Douglas,08-41,U.S. House,2,R,Don Bacon,494,717,223
+Douglas,08-42,U.S. House,2,R,Don Bacon,703,1131,428
+Douglas,08-43,U.S. House,2,R,Don Bacon,551,831,280
+Douglas,08-44,U.S. House,2,R,Don Bacon,459,638,179
+Douglas,08-45,U.S. House,2,R,Don Bacon,606,924,318
+Douglas,08-46,U.S. House,2,R,Don Bacon,719,990,271
+Douglas,08-47,U.S. House,2,R,Don Bacon,804,1162,358
+Douglas,08-48,U.S. House,2,R,Don Bacon,468,771,303
+Douglas,08-49,U.S. House,2,R,Don Bacon,462,647,185
+Douglas,08-50,U.S. House,2,R,Don Bacon,552,793,241
+Douglas,08-51,U.S. House,2,R,Don Bacon,706,1027,321
+Douglas,08-52,U.S. House,2,R,Don Bacon,441,641,200
+Douglas,08-53,U.S. House,2,R,Don Bacon,506,711,205
+Douglas,08-54,U.S. House,2,R,Don Bacon,506,710,204
+Douglas,08-55,U.S. House,2,R,Don Bacon,537,799,262
+Douglas,01-01,U.S. House,2,D,Brad Ashford,439,699,260
+Douglas,01-02,U.S. House,2,D,Brad Ashford,210,368,158
+Douglas,01-03,U.S. House,2,D,Brad Ashford,402,847,445
+Douglas,01-04,U.S. House,2,D,Brad Ashford,421,774,353
+Douglas,01-05,U.S. House,2,D,Brad Ashford,363,635,272
+Douglas,01-06,U.S. House,2,D,Brad Ashford,475,743,268
+Douglas,01-07,U.S. House,2,D,Brad Ashford,537,860,323
+Douglas,01-08,U.S. House,2,D,Brad Ashford,494,850,356
+Douglas,01-09,U.S. House,2,D,Brad Ashford,333,490,157
+Douglas,01-10,U.S. House,2,D,Brad Ashford,202,296,94
+Douglas,01-11,U.S. House,2,D,Brad Ashford,345,535,190
+Douglas,01-12,U.S. House,2,D,Brad Ashford,25,46,21
+Douglas,01-13,U.S. House,2,D,Brad Ashford,435,709,274
+Douglas,01-14,U.S. House,2,D,Brad Ashford,609,1049,440
+Douglas,01-15,U.S. House,2,D,Brad Ashford,505,827,322
+Douglas,01-16,U.S. House,2,D,Brad Ashford,286,482,196
+Douglas,01-17,U.S. House,2,D,Brad Ashford,498,800,302
+Douglas,01-18,U.S. House,2,D,Brad Ashford,536,1014,478
+Douglas,01-19,U.S. House,2,D,Brad Ashford,388,695,307
+Douglas,01-20,U.S. House,2,D,Brad Ashford,360,564,204
+Douglas,01-21,U.S. House,2,D,Brad Ashford,376,654,278
+Douglas,01-22,U.S. House,2,D,Brad Ashford,300,521,221
+Douglas,01-23,U.S. House,2,D,Brad Ashford,363,561,198
+Douglas,01-24,U.S. House,2,D,Brad Ashford,316,518,202
+Douglas,01-25,U.S. House,2,D,Brad Ashford,354,516,162
+Douglas,02-01,U.S. House,2,D,Brad Ashford,376,557,181
+Douglas,02-02,U.S. House,2,D,Brad Ashford,386,560,174
+Douglas,02-03,U.S. House,2,D,Brad Ashford,486,762,276
+Douglas,02-04,U.S. House,2,D,Brad Ashford,415,588,173
+Douglas,02-05,U.S. House,2,D,Brad Ashford,342,528,186
+Douglas,02-06,U.S. House,2,D,Brad Ashford,425,595,170
+Douglas,02-07,U.S. House,2,D,Brad Ashford,377,580,203
+Douglas,02-08,U.S. House,2,D,Brad Ashford,380,587,207
+Douglas,02-09,U.S. House,2,D,Brad Ashford,416,668,252
+Douglas,02-10,U.S. House,2,D,Brad Ashford,425,612,187
+Douglas,02-11,U.S. House,2,D,Brad Ashford,536,818,282
+Douglas,02-12,U.S. House,2,D,Brad Ashford,563,804,241
+Douglas,02-13,U.S. House,2,D,Brad Ashford,326,506,180
+Douglas,02-14,U.S. House,2,D,Brad Ashford,507,693,186
+Douglas,02-15,U.S. House,2,D,Brad Ashford,570,800,230
+Douglas,02-16,U.S. House,2,D,Brad Ashford,404,612,208
+Douglas,02-17,U.S. House,2,D,Brad Ashford,435,627,192
+Douglas,02-18,U.S. House,2,D,Brad Ashford,60,124,64
+Douglas,02-19,U.S. House,2,D,Brad Ashford,343,538,195
+Douglas,02-20,U.S. House,2,D,Brad Ashford,334,539,205
+Douglas,02-21,U.S. House,2,D,Brad Ashford,441,641,200
+Douglas,02-22,U.S. House,2,D,Brad Ashford,305,484,179
+Douglas,02-23,U.S. House,2,D,Brad Ashford,341,502,161
+Douglas,03-01,U.S. House,2,D,Brad Ashford,47,56,9
+Douglas,03-02,U.S. House,2,D,Brad Ashford,439,648,209
+Douglas,03-03,U.S. House,2,D,Brad Ashford,516,805,289
+Douglas,03-04,U.S. House,2,D,Brad Ashford,632,1044,412
+Douglas,03-05,U.S. House,2,D,Brad Ashford,374,592,218
+Douglas,03-06,U.S. House,2,D,Brad Ashford,430,638,208
+Douglas,03-07,U.S. House,2,D,Brad Ashford,513,802,289
+Douglas,03-08,U.S. House,2,D,Brad Ashford,438,670,232
+Douglas,03-09,U.S. House,2,D,Brad Ashford,522,810,288
+Douglas,03-10,U.S. House,2,D,Brad Ashford,236,414,178
+Douglas,03-11,U.S. House,2,D,Brad Ashford,419,616,197
+Douglas,03-12,U.S. House,2,D,Brad Ashford,353,561,208
+Douglas,03-13,U.S. House,2,D,Brad Ashford,429,619,190
+Douglas,03-14,U.S. House,2,D,Brad Ashford,421,737,316
+Douglas,03-15,U.S. House,2,D,Brad Ashford,542,887,345
+Douglas,03-16,U.S. House,2,D,Brad Ashford,609,1020,411
+Douglas,03-17,U.S. House,2,D,Brad Ashford,396,623,227
+Douglas,03-18,U.S. House,2,D,Brad Ashford,390,596,206
+Douglas,03-19,U.S. House,2,D,Brad Ashford,520,762,242
+Douglas,03-20,U.S. House,2,D,Brad Ashford,589,906,317
+Douglas,03-21,U.S. House,2,D,Brad Ashford,465,775,310
+Douglas,04-01,U.S. House,2,D,Brad Ashford,311,448,137
+Douglas,04-02,U.S. House,2,D,Brad Ashford,307,463,156
+Douglas,04-03,U.S. House,2,D,Brad Ashford,355,556,201
+Douglas,04-04,U.S. House,2,D,Brad Ashford,389,551,162
+Douglas,04-05,U.S. House,2,D,Brad Ashford,485,712,227
+Douglas,04-06,U.S. House,2,D,Brad Ashford,458,663,205
+Douglas,04-07,U.S. House,2,D,Brad Ashford,293,432,139
+Douglas,04-08,U.S. House,2,D,Brad Ashford,343,569,226
+Douglas,04-09,U.S. House,2,D,Brad Ashford,252,363,111
+Douglas,04-10,U.S. House,2,D,Brad Ashford,431,627,196
+Douglas,04-11,U.S. House,2,D,Brad Ashford,338,562,224
+Douglas,04-12,U.S. House,2,D,Brad Ashford,320,507,187
+Douglas,04-13,U.S. House,2,D,Brad Ashford,342,519,177
+Douglas,04-14,U.S. House,2,D,Brad Ashford,280,387,107
+Douglas,04-15,U.S. House,2,D,Brad Ashford,461,644,183
+Douglas,04-16,U.S. House,2,D,Brad Ashford,373,556,183
+Douglas,04-17,U.S. House,2,D,Brad Ashford,196,312,116
+Douglas,04-18,U.S. House,2,D,Brad Ashford,320,478,158
+Douglas,05-01,U.S. House,2,D,Brad Ashford,383,598,215
+Douglas,05-02,U.S. House,2,D,Brad Ashford,388,685,297
+Douglas,05-03,U.S. House,2,D,Brad Ashford,394,623,229
+Douglas,05-04,U.S. House,2,D,Brad Ashford,323,461,138
+Douglas,05-05,U.S. House,2,D,Brad Ashford,312,471,159
+Douglas,05-06,U.S. House,2,D,Brad Ashford,253,416,163
+Douglas,05-07,U.S. House,2,D,Brad Ashford,421,632,211
+Douglas,05-08,U.S. House,2,D,Brad Ashford,376,557,181
+Douglas,05-09,U.S. House,2,D,Brad Ashford,276,522,246
+Douglas,05-10,U.S. House,2,D,Brad Ashford,282,501,219
+Douglas,05-11,U.S. House,2,D,Brad Ashford,404,609,205
+Douglas,05-12,U.S. House,2,D,Brad Ashford,340,553,213
+Douglas,05-13,U.S. House,2,D,Brad Ashford,285,566,281
+Douglas,05-14,U.S. House,2,D,Brad Ashford,332,544,212
+Douglas,05-15,U.S. House,2,D,Brad Ashford,258,459,201
+Douglas,05-16,U.S. House,2,D,Brad Ashford,286,464,178
+Douglas,05-17,U.S. House,2,D,Brad Ashford,161,299,138
+Douglas,05-18,U.S. House,2,D,Brad Ashford,344,584,240
+Douglas,05-19,U.S. House,2,D,Brad Ashford,248,438,190
+Douglas,05-20,U.S. House,2,D,Brad Ashford,186,320,134
+Douglas,05-21,U.S. House,2,D,Brad Ashford,162,290,128
+Douglas,05-22,U.S. House,2,D,Brad Ashford,239,389,150
+Douglas,05-23,U.S. House,2,D,Brad Ashford,352,597,245
+Douglas,05-24,U.S. House,2,D,Brad Ashford,371,523,152
+Douglas,05-25,U.S. House,2,D,Brad Ashford,250,456,206
+Douglas,05-26,U.S. House,2,D,Brad Ashford,207,318,111
+Douglas,05-27,U.S. House,2,D,Brad Ashford,170,309,139
+Douglas,05-28,U.S. House,2,D,Brad Ashford,270,450,180
+Douglas,05-29,U.S. House,2,D,Brad Ashford,263,423,160
+Douglas,05-30,U.S. House,2,D,Brad Ashford,332,629,297
+Douglas,05-31,U.S. House,2,D,Brad Ashford,140,299,159
+Douglas,05-32,U.S. House,2,D,Brad Ashford,40,81,41
+Douglas,05-33,U.S. House,2,D,Brad Ashford,84,134,50
+Douglas,06-01,U.S. House,2,D,Brad Ashford,323,593,270
+Douglas,06-02,U.S. House,2,D,Brad Ashford,281,555,274
+Douglas,06-03,U.S. House,2,D,Brad Ashford,269,525,256
+Douglas,06-04,U.S. House,2,D,Brad Ashford,293,541,248
+Douglas,06-05,U.S. House,2,D,Brad Ashford,364,600,236
+Douglas,06-06,U.S. House,2,D,Brad Ashford,326,500,174
+Douglas,06-07,U.S. House,2,D,Brad Ashford,319,643,324
+Douglas,06-08,U.S. House,2,D,Brad Ashford,337,657,320
+Douglas,06-09,U.S. House,2,D,Brad Ashford,252,614,362
+Douglas,06-10,U.S. House,2,D,Brad Ashford,409,621,212
+Douglas,06-11,U.S. House,2,D,Brad Ashford,427,671,244
+Douglas,06-12,U.S. House,2,D,Brad Ashford,354,498,144
+Douglas,06-13,U.S. House,2,D,Brad Ashford,476,692,216
+Douglas,06-14,U.S. House,2,D,Brad Ashford,353,591,238
+Douglas,06-15,U.S. House,2,D,Brad Ashford,241,421,180
+Douglas,06-16,U.S. House,2,D,Brad Ashford,242,516,274
+Douglas,06-17,U.S. House,2,D,Brad Ashford,222,368,146
+Douglas,06-18,U.S. House,2,D,Brad Ashford,67,133,66
+Douglas,06-19,U.S. House,2,D,Brad Ashford,229,475,246
+Douglas,06-20,U.S. House,2,D,Brad Ashford,298,474,176
+Douglas,06-21,U.S. House,2,D,Brad Ashford,235,442,207
+Douglas,06-22,U.S. House,2,D,Brad Ashford,140,280,140
+Douglas,06-23,U.S. House,2,D,Brad Ashford,190,309,119
+Douglas,06-24,U.S. House,2,D,Brad Ashford,244,393,149
+Douglas,06-25,U.S. House,2,D,Brad Ashford,276,547,271
+Douglas,06-26,U.S. House,2,D,Brad Ashford,218,512,294
+Douglas,06-27,U.S. House,2,D,Brad Ashford,320,544,224
+Douglas,06-28,U.S. House,2,D,Brad Ashford,290,553,263
+Douglas,06-29,U.S. House,2,D,Brad Ashford,174,350,176
+Douglas,06-30,U.S. House,2,D,Brad Ashford,89,223,134
+Douglas,07-01,U.S. House,2,D,Brad Ashford,379,580,201
+Douglas,07-02,U.S. House,2,D,Brad Ashford,354,620,266
+Douglas,07-03,U.S. House,2,D,Brad Ashford,383,581,198
+Douglas,07-04,U.S. House,2,D,Brad Ashford,407,610,203
+Douglas,07-05,U.S. House,2,D,Brad Ashford,444,717,273
+Douglas,07-06,U.S. House,2,D,Brad Ashford,269,498,229
+Douglas,07-07,U.S. House,2,D,Brad Ashford,295,487,192
+Douglas,07-08,U.S. House,2,D,Brad Ashford,414,578,164
+Douglas,07-09,U.S. House,2,D,Brad Ashford,459,671,212
+Douglas,07-10,U.S. House,2,D,Brad Ashford,423,673,250
+Douglas,07-11,U.S. House,2,D,Brad Ashford,396,614,218
+Douglas,07-12,U.S. House,2,D,Brad Ashford,313,499,186
+Douglas,07-13,U.S. House,2,D,Brad Ashford,283,505,222
+Douglas,07-14,U.S. House,2,D,Brad Ashford,131,215,84
+Douglas,07-15,U.S. House,2,D,Brad Ashford,357,553,196
+Douglas,07-16,U.S. House,2,D,Brad Ashford,291,495,204
+Douglas,07-17,U.S. House,2,D,Brad Ashford,242,432,190
+Douglas,07-18,U.S. House,2,D,Brad Ashford,437,696,259
+Douglas,07-19,U.S. House,2,D,Brad Ashford,395,698,303
+Douglas,07-20,U.S. House,2,D,Brad Ashford,295,597,302
+Douglas,07-21,U.S. House,2,D,Brad Ashford,236,493,257
+Douglas,07-22,U.S. House,2,D,Brad Ashford,355,644,289
+Douglas,07-23,U.S. House,2,D,Brad Ashford,334,488,154
+Douglas,07-24,U.S. House,2,D,Brad Ashford,355,534,179
+Douglas,07-25,U.S. House,2,D,Brad Ashford,387,627,240
+Douglas,07-26,U.S. House,2,D,Brad Ashford,160,325,165
+Douglas,07-27,U.S. House,2,D,Brad Ashford,306,518,212
+Douglas,07-28,U.S. House,2,D,Brad Ashford,159,280,121
+Douglas,07-29,U.S. House,2,D,Brad Ashford,293,440,147
+Douglas,07-30,U.S. House,2,D,Brad Ashford,252,438,186
+Douglas,07-31,U.S. House,2,D,Brad Ashford,234,430,196
+Douglas,07-32,U.S. House,2,D,Brad Ashford,252,490,238
+Douglas,07-33,U.S. House,2,D,Brad Ashford,169,309,140
+Douglas,07-34,U.S. House,2,D,Brad Ashford,165,357,192
+Douglas,08-01,U.S. House,2,D,Brad Ashford,183,304,121
+Douglas,08-02,U.S. House,2,D,Brad Ashford,135,208,73
+Douglas,08-03,U.S. House,2,D,Brad Ashford,143,191,48
+Douglas,08-04,U.S. House,2,D,Brad Ashford,153,257,104
+Douglas,08-05,U.S. House,2,D,Brad Ashford,159,259,100
+Douglas,08-06,U.S. House,2,D,Brad Ashford,118,186,68
+Douglas,08-07,U.S. House,2,D,Brad Ashford,199,314,115
+Douglas,08-08,U.S. House,2,D,Brad Ashford,58,125,67
+Douglas,08-09,U.S. House,2,D,Brad Ashford,87,242,155
+Douglas,08-10,U.S. House,2,D,Brad Ashford,256,429,173
+Douglas,08-11,U.S. House,2,D,Brad Ashford,601,993,392
+Douglas,08-12,U.S. House,2,D,Brad Ashford,456,714,258
+Douglas,08-13,U.S. House,2,D,Brad Ashford,340,625,285
+Douglas,08-14,U.S. House,2,D,Brad Ashford,198,295,97
+Douglas,08-15,U.S. House,2,D,Brad Ashford,207,439,232
+Douglas,08-16,U.S. House,2,D,Brad Ashford,349,589,240
+Douglas,08-17,U.S. House,2,D,Brad Ashford,300,491,191
+Douglas,08-18,U.S. House,2,D,Brad Ashford,137,230,93
+Douglas,08-19,U.S. House,2,D,Brad Ashford,347,594,247
+Douglas,08-20,U.S. House,2,D,Brad Ashford,303,457,154
+Douglas,08-23,U.S. House,2,D,Brad Ashford,193,330,137
+Douglas,08-24,U.S. House,2,D,Brad Ashford,161,332,171
+Douglas,08-27,U.S. House,2,D,Brad Ashford,44,45,1
+Douglas,08-31,U.S. House,2,D,Brad Ashford,192,301,109
+Douglas,08-35,U.S. House,2,D,Brad Ashford,124,183,59
+Douglas,08-36,U.S. House,2,D,Brad Ashford,203,388,185
+Douglas,08-37,U.S. House,2,D,Brad Ashford,210,415,205
+Douglas,08-39,U.S. House,2,D,Brad Ashford,235,367,132
+Douglas,08-40,U.S. House,2,D,Brad Ashford,265,430,165
+Douglas,08-41,U.S. House,2,D,Brad Ashford,214,366,152
+Douglas,08-42,U.S. House,2,D,Brad Ashford,298,610,312
+Douglas,08-43,U.S. House,2,D,Brad Ashford,201,410,209
+Douglas,08-44,U.S. House,2,D,Brad Ashford,248,400,152
+Douglas,08-45,U.S. House,2,D,Brad Ashford,194,409,215
+Douglas,08-46,U.S. House,2,D,Brad Ashford,376,646,270
+Douglas,08-47,U.S. House,2,D,Brad Ashford,475,817,342
+Douglas,08-48,U.S. House,2,D,Brad Ashford,114,246,132
+Douglas,08-49,U.S. House,2,D,Brad Ashford,194,330,136
+Douglas,08-50,U.S. House,2,D,Brad Ashford,258,484,226
+Douglas,08-51,U.S. House,2,D,Brad Ashford,463,755,292
+Douglas,08-52,U.S. House,2,D,Brad Ashford,322,571,249
+Douglas,08-53,U.S. House,2,D,Brad Ashford,234,405,171
+Douglas,08-54,U.S. House,2,D,Brad Ashford,148,304,156
+Douglas,08-55,U.S. House,2,D,Brad Ashford,177,303,126
+Douglas,01-01,U.S. House,2,L,Steven Laird,61,80,19
+Douglas,01-02,U.S. House,2,L,Steven Laird,31,45,14
+Douglas,01-03,U.S. House,2,L,Steven Laird,18,37,19
+Douglas,01-04,U.S. House,2,L,Steven Laird,20,31,11
+Douglas,01-05,U.S. House,2,L,Steven Laird,23,32,9
+Douglas,01-06,U.S. House,2,L,Steven Laird,28,47,19
+Douglas,01-07,U.S. House,2,L,Steven Laird,41,51,10
+Douglas,01-08,U.S. House,2,L,Steven Laird,44,52,8
+Douglas,01-09,U.S. House,2,L,Steven Laird,38,43,5
+Douglas,01-10,U.S. House,2,L,Steven Laird,19,26,7
+Douglas,01-11,U.S. House,2,L,Steven Laird,32,40,8
+Douglas,01-12,U.S. House,2,L,Steven Laird,8,13,5
+Douglas,01-13,U.S. House,2,L,Steven Laird,38,55,17
+Douglas,01-14,U.S. House,2,L,Steven Laird,22,32,10
+Douglas,01-15,U.S. House,2,L,Steven Laird,47,61,14
+Douglas,01-16,U.S. House,2,L,Steven Laird,28,41,13
+Douglas,01-17,U.S. House,2,L,Steven Laird,35,40,5
+Douglas,01-18,U.S. House,2,L,Steven Laird,16,31,15
+Douglas,01-19,U.S. House,2,L,Steven Laird,16,27,11
+Douglas,01-20,U.S. House,2,L,Steven Laird,30,45,15
+Douglas,01-21,U.S. House,2,L,Steven Laird,26,33,7
+Douglas,01-22,U.S. House,2,L,Steven Laird,8,14,6
+Douglas,01-23,U.S. House,2,L,Steven Laird,25,35,10
+Douglas,01-24,U.S. House,2,L,Steven Laird,29,34,5
+Douglas,01-25,U.S. House,2,L,Steven Laird,32,39,7
+Douglas,02-01,U.S. House,2,L,Steven Laird,39,51,12
+Douglas,02-02,U.S. House,2,L,Steven Laird,46,58,12
+Douglas,02-03,U.S. House,2,L,Steven Laird,23,42,19
+Douglas,02-04,U.S. House,2,L,Steven Laird,18,23,5
+Douglas,02-05,U.S. House,2,L,Steven Laird,22,27,5
+Douglas,02-06,U.S. House,2,L,Steven Laird,24,40,16
+Douglas,02-07,U.S. House,2,L,Steven Laird,12,16,4
+Douglas,02-08,U.S. House,2,L,Steven Laird,17,27,10
+Douglas,02-09,U.S. House,2,L,Steven Laird,7,15,8
+Douglas,02-10,U.S. House,2,L,Steven Laird,31,41,10
+Douglas,02-11,U.S. House,2,L,Steven Laird,26,33,7
+Douglas,02-12,U.S. House,2,L,Steven Laird,38,53,15
+Douglas,02-13,U.S. House,2,L,Steven Laird,9,19,10
+Douglas,02-14,U.S. House,2,L,Steven Laird,33,43,10
+Douglas,02-15,U.S. House,2,L,Steven Laird,17,23,6
+Douglas,02-16,U.S. House,2,L,Steven Laird,21,28,7
+Douglas,02-17,U.S. House,2,L,Steven Laird,31,45,14
+Douglas,02-18,U.S. House,2,L,Steven Laird,4,6,2
+Douglas,02-19,U.S. House,2,L,Steven Laird,31,37,6
+Douglas,02-20,U.S. House,2,L,Steven Laird,11,20,9
+Douglas,02-21,U.S. House,2,L,Steven Laird,18,26,8
+Douglas,02-22,U.S. House,2,L,Steven Laird,4,8,4
+Douglas,02-23,U.S. House,2,L,Steven Laird,17,19,2
+Douglas,03-01,U.S. House,2,L,Steven Laird,3,4,1
+Douglas,03-02,U.S. House,2,L,Steven Laird,30,41,11
+Douglas,03-03,U.S. House,2,L,Steven Laird,31,42,11
+Douglas,03-04,U.S. House,2,L,Steven Laird,25,33,8
+Douglas,03-05,U.S. House,2,L,Steven Laird,40,51,11
+Douglas,03-06,U.S. House,2,L,Steven Laird,39,58,19
+Douglas,03-07,U.S. House,2,L,Steven Laird,30,41,11
+Douglas,03-08,U.S. House,2,L,Steven Laird,33,47,14
+Douglas,03-09,U.S. House,2,L,Steven Laird,31,43,12
+Douglas,03-10,U.S. House,2,L,Steven Laird,12,16,4
+Douglas,03-11,U.S. House,2,L,Steven Laird,55,71,16
+Douglas,03-12,U.S. House,2,L,Steven Laird,27,36,9
+Douglas,03-13,U.S. House,2,L,Steven Laird,28,38,10
+Douglas,03-14,U.S. House,2,L,Steven Laird,33,47,14
+Douglas,03-15,U.S. House,2,L,Steven Laird,54,71,17
+Douglas,03-16,U.S. House,2,L,Steven Laird,38,57,19
+Douglas,03-17,U.S. House,2,L,Steven Laird,46,56,10
+Douglas,03-18,U.S. House,2,L,Steven Laird,28,33,5
+Douglas,03-19,U.S. House,2,L,Steven Laird,33,42,9
+Douglas,03-20,U.S. House,2,L,Steven Laird,19,29,10
+Douglas,03-21,U.S. House,2,L,Steven Laird,20,28,8
+Douglas,04-01,U.S. House,2,L,Steven Laird,29,39,10
+Douglas,04-02,U.S. House,2,L,Steven Laird,33,49,16
+Douglas,04-03,U.S. House,2,L,Steven Laird,30,45,15
+Douglas,04-04,U.S. House,2,L,Steven Laird,43,57,14
+Douglas,04-05,U.S. House,2,L,Steven Laird,34,44,10
+Douglas,04-06,U.S. House,2,L,Steven Laird,35,50,15
+Douglas,04-07,U.S. House,2,L,Steven Laird,31,42,11
+Douglas,04-08,U.S. House,2,L,Steven Laird,49,66,17
+Douglas,04-09,U.S. House,2,L,Steven Laird,27,41,14
+Douglas,04-10,U.S. House,2,L,Steven Laird,38,55,17
+Douglas,04-11,U.S. House,2,L,Steven Laird,32,50,18
+Douglas,04-12,U.S. House,2,L,Steven Laird,39,54,15
+Douglas,04-13,U.S. House,2,L,Steven Laird,42,54,12
+Douglas,04-14,U.S. House,2,L,Steven Laird,18,27,9
+Douglas,04-15,U.S. House,2,L,Steven Laird,37,52,15
+Douglas,04-16,U.S. House,2,L,Steven Laird,41,49,8
+Douglas,04-17,U.S. House,2,L,Steven Laird,33,43,10
+Douglas,04-18,U.S. House,2,L,Steven Laird,12,16,4
+Douglas,05-01,U.S. House,2,L,Steven Laird,33,40,7
+Douglas,05-02,U.S. House,2,L,Steven Laird,23,32,9
+Douglas,05-03,U.S. House,2,L,Steven Laird,43,51,8
+Douglas,05-04,U.S. House,2,L,Steven Laird,37,44,7
+Douglas,05-05,U.S. House,2,L,Steven Laird,30,45,15
+Douglas,05-06,U.S. House,2,L,Steven Laird,26,36,10
+Douglas,05-07,U.S. House,2,L,Steven Laird,46,60,14
+Douglas,05-08,U.S. House,2,L,Steven Laird,44,57,13
+Douglas,05-09,U.S. House,2,L,Steven Laird,12,13,1
+Douglas,05-10,U.S. House,2,L,Steven Laird,34,50,16
+Douglas,05-11,U.S. House,2,L,Steven Laird,46,61,15
+Douglas,05-12,U.S. House,2,L,Steven Laird,27,37,10
+Douglas,05-13,U.S. House,2,L,Steven Laird,29,41,12
+Douglas,05-14,U.S. House,2,L,Steven Laird,35,45,10
+Douglas,05-15,U.S. House,2,L,Steven Laird,21,34,13
+Douglas,05-16,U.S. House,2,L,Steven Laird,22,31,9
+Douglas,05-17,U.S. House,2,L,Steven Laird,10,20,10
+Douglas,05-18,U.S. House,2,L,Steven Laird,37,55,18
+Douglas,05-19,U.S. House,2,L,Steven Laird,29,42,13
+Douglas,05-20,U.S. House,2,L,Steven Laird,9,14,5
+Douglas,05-21,U.S. House,2,L,Steven Laird,19,27,8
+Douglas,05-22,U.S. House,2,L,Steven Laird,21,30,9
+Douglas,05-23,U.S. House,2,L,Steven Laird,18,23,5
+Douglas,05-24,U.S. House,2,L,Steven Laird,23,33,10
+Douglas,05-25,U.S. House,2,L,Steven Laird,25,33,8
+Douglas,05-26,U.S. House,2,L,Steven Laird,13,16,3
+Douglas,05-27,U.S. House,2,L,Steven Laird,11,17,6
+Douglas,05-28,U.S. House,2,L,Steven Laird,24,34,10
+Douglas,05-29,U.S. House,2,L,Steven Laird,18,32,14
+Douglas,05-30,U.S. House,2,L,Steven Laird,14,20,6
+Douglas,05-31,U.S. House,2,L,Steven Laird,11,14,3
+Douglas,05-32,U.S. House,2,L,Steven Laird,2,3,1
+Douglas,05-33,U.S. House,2,L,Steven Laird,17,21,4
+Douglas,06-01,U.S. House,2,L,Steven Laird,16,18,2
+Douglas,06-02,U.S. House,2,L,Steven Laird,11,14,3
+Douglas,06-03,U.S. House,2,L,Steven Laird,25,26,1
+Douglas,06-04,U.S. House,2,L,Steven Laird,22,33,11
+Douglas,06-05,U.S. House,2,L,Steven Laird,12,19,7
+Douglas,06-06,U.S. House,2,L,Steven Laird,25,36,11
+Douglas,06-07,U.S. House,2,L,Steven Laird,9,17,8
+Douglas,06-08,U.S. House,2,L,Steven Laird,15,22,7
+Douglas,06-09,U.S. House,2,L,Steven Laird,21,32,11
+Douglas,06-10,U.S. House,2,L,Steven Laird,27,40,13
+Douglas,06-11,U.S. House,2,L,Steven Laird,38,50,12
+Douglas,06-12,U.S. House,2,L,Steven Laird,36,45,9
+Douglas,06-13,U.S. House,2,L,Steven Laird,58,69,11
+Douglas,06-14,U.S. House,2,L,Steven Laird,30,45,15
+Douglas,06-15,U.S. House,2,L,Steven Laird,14,16,2
+Douglas,06-16,U.S. House,2,L,Steven Laird,15,24,9
+Douglas,06-17,U.S. House,2,L,Steven Laird,21,26,5
+Douglas,06-18,U.S. House,2,L,Steven Laird,6,11,5
+Douglas,06-19,U.S. House,2,L,Steven Laird,27,42,15
+Douglas,06-20,U.S. House,2,L,Steven Laird,39,45,6
+Douglas,06-21,U.S. House,2,L,Steven Laird,12,17,5
+Douglas,06-22,U.S. House,2,L,Steven Laird,8,13,5
+Douglas,06-23,U.S. House,2,L,Steven Laird,22,33,11
+Douglas,06-24,U.S. House,2,L,Steven Laird,37,43,6
+Douglas,06-25,U.S. House,2,L,Steven Laird,7,15,8
+Douglas,06-26,U.S. House,2,L,Steven Laird,15,28,13
+Douglas,06-27,U.S. House,2,L,Steven Laird,24,32,8
+Douglas,06-28,U.S. House,2,L,Steven Laird,26,40,14
+Douglas,06-29,U.S. House,2,L,Steven Laird,16,20,4
+Douglas,06-30,U.S. House,2,L,Steven Laird,10,15,5
+Douglas,07-01,U.S. House,2,L,Steven Laird,41,46,5
+Douglas,07-02,U.S. House,2,L,Steven Laird,27,36,9
+Douglas,07-03,U.S. House,2,L,Steven Laird,29,39,10
+Douglas,07-04,U.S. House,2,L,Steven Laird,26,38,12
+Douglas,07-05,U.S. House,2,L,Steven Laird,44,52,8
+Douglas,07-06,U.S. House,2,L,Steven Laird,23,35,12
+Douglas,07-07,U.S. House,2,L,Steven Laird,34,52,18
+Douglas,07-08,U.S. House,2,L,Steven Laird,32,37,5
+Douglas,07-09,U.S. House,2,L,Steven Laird,69,84,15
+Douglas,07-10,U.S. House,2,L,Steven Laird,41,52,11
+Douglas,07-11,U.S. House,2,L,Steven Laird,46,62,16
+Douglas,07-12,U.S. House,2,L,Steven Laird,23,30,7
+Douglas,07-13,U.S. House,2,L,Steven Laird,16,29,13
+Douglas,07-14,U.S. House,2,L,Steven Laird,12,20,8
+Douglas,07-15,U.S. House,2,L,Steven Laird,31,40,9
+Douglas,07-16,U.S. House,2,L,Steven Laird,14,20,6
+Douglas,07-17,U.S. House,2,L,Steven Laird,26,33,7
+Douglas,07-18,U.S. House,2,L,Steven Laird,49,62,13
+Douglas,07-19,U.S. House,2,L,Steven Laird,22,33,11
+Douglas,07-20,U.S. House,2,L,Steven Laird,13,19,6
+Douglas,07-21,U.S. House,2,L,Steven Laird,15,20,5
+Douglas,07-22,U.S. House,2,L,Steven Laird,24,32,8
+Douglas,07-23,U.S. House,2,L,Steven Laird,27,40,13
+Douglas,07-24,U.S. House,2,L,Steven Laird,41,49,8
+Douglas,07-25,U.S. House,2,L,Steven Laird,26,37,11
+Douglas,07-26,U.S. House,2,L,Steven Laird,10,13,3
+Douglas,07-27,U.S. House,2,L,Steven Laird,14,19,5
+Douglas,07-28,U.S. House,2,L,Steven Laird,21,27,6
+Douglas,07-29,U.S. House,2,L,Steven Laird,17,27,10
+Douglas,07-30,U.S. House,2,L,Steven Laird,24,30,6
+Douglas,07-31,U.S. House,2,L,Steven Laird,14,22,8
+Douglas,07-32,U.S. House,2,L,Steven Laird,21,34,13
+Douglas,07-33,U.S. House,2,L,Steven Laird,15,20,5
+Douglas,07-34,U.S. House,2,L,Steven Laird,15,18,3
+Douglas,08-01,U.S. House,2,L,Steven Laird,21,25,4
+Douglas,08-02,U.S. House,2,L,Steven Laird,13,20,7
+Douglas,08-03,U.S. House,2,L,Steven Laird,13,15,2
+Douglas,08-04,U.S. House,2,L,Steven Laird,12,19,7
+Douglas,08-05,U.S. House,2,L,Steven Laird,12,15,3
+Douglas,08-06,U.S. House,2,L,Steven Laird,5,9,4
+Douglas,08-07,U.S. House,2,L,Steven Laird,15,26,11
+Douglas,08-08,U.S. House,2,L,Steven Laird,12,13,1
+Douglas,08-09,U.S. House,2,L,Steven Laird,16,25,9
+Douglas,08-10,U.S. House,2,L,Steven Laird,12,21,9
+Douglas,08-11,U.S. House,2,L,Steven Laird,62,81,19
+Douglas,08-12,U.S. House,2,L,Steven Laird,50,72,22
+Douglas,08-13,U.S. House,2,L,Steven Laird,46,62,16
+Douglas,08-14,U.S. House,2,L,Steven Laird,27,32,5
+Douglas,08-15,U.S. House,2,L,Steven Laird,17,22,5
+Douglas,08-16,U.S. House,2,L,Steven Laird,29,50,21
+Douglas,08-17,U.S. House,2,L,Steven Laird,20,37,17
+Douglas,08-18,U.S. House,2,L,Steven Laird,12,16,4
+Douglas,08-19,U.S. House,2,L,Steven Laird,33,50,17
+Douglas,08-20,U.S. House,2,L,Steven Laird,37,51,14
+Douglas,08-23,U.S. House,2,L,Steven Laird,13,19,6
+Douglas,08-24,U.S. House,2,L,Steven Laird,19,31,12
+Douglas,08-27,U.S. House,2,L,Steven Laird,3,4,1
+Douglas,08-31,U.S. House,2,L,Steven Laird,5,12,7
+Douglas,08-35,U.S. House,2,L,Steven Laird,15,21,6
+Douglas,08-36,U.S. House,2,L,Steven Laird,19,28,9
+Douglas,08-37,U.S. House,2,L,Steven Laird,19,21,2
+Douglas,08-39,U.S. House,2,L,Steven Laird,18,26,8
+Douglas,08-40,U.S. House,2,L,Steven Laird,32,47,15
+Douglas,08-41,U.S. House,2,L,Steven Laird,26,33,7
+Douglas,08-42,U.S. House,2,L,Steven Laird,30,53,23
+Douglas,08-43,U.S. House,2,L,Steven Laird,23,29,6
+Douglas,08-44,U.S. House,2,L,Steven Laird,27,35,8
+Douglas,08-45,U.S. House,2,L,Steven Laird,11,19,8
+Douglas,08-46,U.S. House,2,L,Steven Laird,44,58,14
+Douglas,08-47,U.S. House,2,L,Steven Laird,45,62,17
+Douglas,08-48,U.S. House,2,L,Steven Laird,15,20,5
+Douglas,08-49,U.S. House,2,L,Steven Laird,18,27,9
+Douglas,08-50,U.S. House,2,L,Steven Laird,20,27,7
+Douglas,08-51,U.S. House,2,L,Steven Laird,25,32,7
+Douglas,08-52,U.S. House,2,L,Steven Laird,18,32,14
+Douglas,08-53,U.S. House,2,L,Steven Laird,10,15,5
+Douglas,08-54,U.S. House,2,L,Steven Laird,8,13,5
+Douglas,08-55,U.S. House,2,L,Steven Laird,11,14,3
+Douglas,01-01,U.S. House,2,,Write-ins,3,5,2
+Douglas,01-02,U.S. House,2,,Write-ins,1,2,1
+Douglas,01-03,U.S. House,2,,Write-ins,2,2,0
+Douglas,01-04,U.S. House,2,,Write-ins,1,1,0
+Douglas,01-05,U.S. House,2,,Write-ins,0,0,0
+Douglas,01-06,U.S. House,2,,Write-ins,0,0,0
+Douglas,01-07,U.S. House,2,,Write-ins,2,2,0
+Douglas,01-08,U.S. House,2,,Write-ins,1,4,3
+Douglas,01-09,U.S. House,2,,Write-ins,2,2,0
+Douglas,01-10,U.S. House,2,,Write-ins,1,2,1
+Douglas,01-11,U.S. House,2,,Write-ins,3,3,0
+Douglas,01-12,U.S. House,2,,Write-ins,0,0,0
+Douglas,01-13,U.S. House,2,,Write-ins,1,1,0
+Douglas,01-14,U.S. House,2,,Write-ins,1,1,0
+Douglas,01-15,U.S. House,2,,Write-ins,4,4,0
+Douglas,01-16,U.S. House,2,,Write-ins,1,1,0
+Douglas,01-17,U.S. House,2,,Write-ins,1,2,1
+Douglas,01-18,U.S. House,2,,Write-ins,0,0,0
+Douglas,01-19,U.S. House,2,,Write-ins,0,0,0
+Douglas,01-20,U.S. House,2,,Write-ins,0,0,0
+Douglas,01-21,U.S. House,2,,Write-ins,0,0,0
+Douglas,01-22,U.S. House,2,,Write-ins,2,2,0
+Douglas,01-23,U.S. House,2,,Write-ins,3,6,3
+Douglas,01-24,U.S. House,2,,Write-ins,0,0,0
+Douglas,01-25,U.S. House,2,,Write-ins,1,1,0
+Douglas,02-01,U.S. House,2,,Write-ins,0,0,0
+Douglas,02-02,U.S. House,2,,Write-ins,3,3,0
+Douglas,02-03,U.S. House,2,,Write-ins,3,3,0
+Douglas,02-04,U.S. House,2,,Write-ins,1,1,0
+Douglas,02-05,U.S. House,2,,Write-ins,2,3,1
+Douglas,02-06,U.S. House,2,,Write-ins,0,1,1
+Douglas,02-07,U.S. House,2,,Write-ins,2,2,0
+Douglas,02-08,U.S. House,2,,Write-ins,2,5,3
+Douglas,02-09,U.S. House,2,,Write-ins,2,2,0
+Douglas,02-10,U.S. House,2,,Write-ins,0,0,0
+Douglas,02-11,U.S. House,2,,Write-ins,2,3,1
+Douglas,02-12,U.S. House,2,,Write-ins,3,7,4
+Douglas,02-13,U.S. House,2,,Write-ins,2,2,0
+Douglas,02-14,U.S. House,2,,Write-ins,0,1,1
+Douglas,02-15,U.S. House,2,,Write-ins,3,3,0
+Douglas,02-16,U.S. House,2,,Write-ins,0,1,1
+Douglas,02-17,U.S. House,2,,Write-ins,1,1,0
+Douglas,02-18,U.S. House,2,,Write-ins,0,0,0
+Douglas,02-19,U.S. House,2,,Write-ins,3,3,0
+Douglas,02-20,U.S. House,2,,Write-ins,0,0,0
+Douglas,02-21,U.S. House,2,,Write-ins,1,2,1
+Douglas,02-22,U.S. House,2,,Write-ins,0,0,0
+Douglas,02-23,U.S. House,2,,Write-ins,0,0,0
+Douglas,03-01,U.S. House,2,,Write-ins,0,0,0
+Douglas,03-02,U.S. House,2,,Write-ins,1,1,0
+Douglas,03-03,U.S. House,2,,Write-ins,3,3,0
+Douglas,03-04,U.S. House,2,,Write-ins,0,1,1
+Douglas,03-05,U.S. House,2,,Write-ins,3,3,0
+Douglas,03-06,U.S. House,2,,Write-ins,2,2,0
+Douglas,03-07,U.S. House,2,,Write-ins,2,5,3
+Douglas,03-08,U.S. House,2,,Write-ins,1,2,1
+Douglas,03-09,U.S. House,2,,Write-ins,1,2,1
+Douglas,03-10,U.S. House,2,,Write-ins,0,0,0
+Douglas,03-11,U.S. House,2,,Write-ins,6,6,0
+Douglas,03-12,U.S. House,2,,Write-ins,0,1,1
+Douglas,03-13,U.S. House,2,,Write-ins,0,0,0
+Douglas,03-14,U.S. House,2,,Write-ins,0,1,1
+Douglas,03-15,U.S. House,2,,Write-ins,0,0,0
+Douglas,03-16,U.S. House,2,,Write-ins,1,2,1
+Douglas,03-17,U.S. House,2,,Write-ins,1,1,0
+Douglas,03-18,U.S. House,2,,Write-ins,1,2,1
+Douglas,03-19,U.S. House,2,,Write-ins,0,1,1
+Douglas,03-20,U.S. House,2,,Write-ins,4,4,0
+Douglas,03-21,U.S. House,2,,Write-ins,1,1,0
+Douglas,04-01,U.S. House,2,,Write-ins,1,1,0
+Douglas,04-02,U.S. House,2,,Write-ins,3,3,0
+Douglas,04-03,U.S. House,2,,Write-ins,0,0,0
+Douglas,04-04,U.S. House,2,,Write-ins,1,2,1
+Douglas,04-05,U.S. House,2,,Write-ins,0,0,0
+Douglas,04-06,U.S. House,2,,Write-ins,1,2,1
+Douglas,04-07,U.S. House,2,,Write-ins,0,2,2
+Douglas,04-08,U.S. House,2,,Write-ins,1,1,0
+Douglas,04-09,U.S. House,2,,Write-ins,2,2,0
+Douglas,04-10,U.S. House,2,,Write-ins,0,0,0
+Douglas,04-11,U.S. House,2,,Write-ins,0,1,1
+Douglas,04-12,U.S. House,2,,Write-ins,0,0,0
+Douglas,04-13,U.S. House,2,,Write-ins,1,1,0
+Douglas,04-14,U.S. House,2,,Write-ins,1,1,0
+Douglas,04-15,U.S. House,2,,Write-ins,4,4,0
+Douglas,04-16,U.S. House,2,,Write-ins,1,1,0
+Douglas,04-17,U.S. House,2,,Write-ins,1,2,1
+Douglas,04-18,U.S. House,2,,Write-ins,0,2,2
+Douglas,05-01,U.S. House,2,,Write-ins,2,2,0
+Douglas,05-02,U.S. House,2,,Write-ins,0,0,0
+Douglas,05-03,U.S. House,2,,Write-ins,0,0,0
+Douglas,05-04,U.S. House,2,,Write-ins,1,1,0
+Douglas,05-05,U.S. House,2,,Write-ins,1,2,1
+Douglas,05-06,U.S. House,2,,Write-ins,0,2,2
+Douglas,05-07,U.S. House,2,,Write-ins,3,3,0
+Douglas,05-08,U.S. House,2,,Write-ins,2,2,0
+Douglas,05-09,U.S. House,2,,Write-ins,0,0,0
+Douglas,05-10,U.S. House,2,,Write-ins,0,2,2
+Douglas,05-11,U.S. House,2,,Write-ins,3,3,0
+Douglas,05-12,U.S. House,2,,Write-ins,0,0,0
+Douglas,05-13,U.S. House,2,,Write-ins,2,2,0
+Douglas,05-14,U.S. House,2,,Write-ins,0,0,0
+Douglas,05-15,U.S. House,2,,Write-ins,0,0,0
+Douglas,05-16,U.S. House,2,,Write-ins,0,0,0
+Douglas,05-17,U.S. House,2,,Write-ins,0,0,0
+Douglas,05-18,U.S. House,2,,Write-ins,0,0,0
+Douglas,05-19,U.S. House,2,,Write-ins,0,0,0
+Douglas,05-20,U.S. House,2,,Write-ins,1,1,0
+Douglas,05-21,U.S. House,2,,Write-ins,0,0,0
+Douglas,05-22,U.S. House,2,,Write-ins,0,0,0
+Douglas,05-23,U.S. House,2,,Write-ins,3,3,0
+Douglas,05-24,U.S. House,2,,Write-ins,0,3,3
+Douglas,05-25,U.S. House,2,,Write-ins,0,2,2
+Douglas,05-26,U.S. House,2,,Write-ins,2,2,0
+Douglas,05-27,U.S. House,2,,Write-ins,1,1,0
+Douglas,05-28,U.S. House,2,,Write-ins,0,0,0
+Douglas,05-29,U.S. House,2,,Write-ins,1,1,0
+Douglas,05-30,U.S. House,2,,Write-ins,0,0,0
+Douglas,05-31,U.S. House,2,,Write-ins,0,0,0
+Douglas,05-32,U.S. House,2,,Write-ins,0,0,0
+Douglas,05-33,U.S. House,2,,Write-ins,0,0,0
+Douglas,06-01,U.S. House,2,,Write-ins,3,4,1
+Douglas,06-02,U.S. House,2,,Write-ins,1,2,1
+Douglas,06-03,U.S. House,2,,Write-ins,0,0,0
+Douglas,06-04,U.S. House,2,,Write-ins,0,1,1
+Douglas,06-05,U.S. House,2,,Write-ins,1,1,0
+Douglas,06-06,U.S. House,2,,Write-ins,0,1,1
+Douglas,06-07,U.S. House,2,,Write-ins,0,0,0
+Douglas,06-08,U.S. House,2,,Write-ins,0,0,0
+Douglas,06-09,U.S. House,2,,Write-ins,0,2,2
+Douglas,06-10,U.S. House,2,,Write-ins,1,2,1
+Douglas,06-11,U.S. House,2,,Write-ins,1,1,0
+Douglas,06-12,U.S. House,2,,Write-ins,0,0,0
+Douglas,06-13,U.S. House,2,,Write-ins,0,0,0
+Douglas,06-14,U.S. House,2,,Write-ins,0,0,0
+Douglas,06-15,U.S. House,2,,Write-ins,0,0,0
+Douglas,06-16,U.S. House,2,,Write-ins,0,0,0
+Douglas,06-17,U.S. House,2,,Write-ins,1,2,1
+Douglas,06-18,U.S. House,2,,Write-ins,1,2,1
+Douglas,06-19,U.S. House,2,,Write-ins,1,1,0
+Douglas,06-20,U.S. House,2,,Write-ins,2,2,0
+Douglas,06-21,U.S. House,2,,Write-ins,0,0,0
+Douglas,06-22,U.S. House,2,,Write-ins,0,0,0
+Douglas,06-23,U.S. House,2,,Write-ins,1,2,1
+Douglas,06-24,U.S. House,2,,Write-ins,0,0,0
+Douglas,06-25,U.S. House,2,,Write-ins,0,1,1
+Douglas,06-26,U.S. House,2,,Write-ins,0,0,0
+Douglas,06-27,U.S. House,2,,Write-ins,1,2,1
+Douglas,06-28,U.S. House,2,,Write-ins,1,1,0
+Douglas,06-29,U.S. House,2,,Write-ins,1,1,0
+Douglas,06-30,U.S. House,2,,Write-ins,0,0,0
+Douglas,07-01,U.S. House,2,,Write-ins,1,1,0
+Douglas,07-02,U.S. House,2,,Write-ins,2,2,0
+Douglas,07-03,U.S. House,2,,Write-ins,2,2,0
+Douglas,07-04,U.S. House,2,,Write-ins,0,0,0
+Douglas,07-05,U.S. House,2,,Write-ins,1,1,0
+Douglas,07-06,U.S. House,2,,Write-ins,0,0,0
+Douglas,07-07,U.S. House,2,,Write-ins,0,0,0
+Douglas,07-08,U.S. House,2,,Write-ins,2,2,0
+Douglas,07-09,U.S. House,2,,Write-ins,1,2,1
+Douglas,07-10,U.S. House,2,,Write-ins,1,2,1
+Douglas,07-11,U.S. House,2,,Write-ins,2,2,0
+Douglas,07-12,U.S. House,2,,Write-ins,0,0,0
+Douglas,07-13,U.S. House,2,,Write-ins,0,1,1
+Douglas,07-14,U.S. House,2,,Write-ins,0,0,0
+Douglas,07-15,U.S. House,2,,Write-ins,1,2,1
+Douglas,07-16,U.S. House,2,,Write-ins,0,0,0
+Douglas,07-17,U.S. House,2,,Write-ins,0,1,1
+Douglas,07-18,U.S. House,2,,Write-ins,0,2,2
+Douglas,07-19,U.S. House,2,,Write-ins,2,2,0
+Douglas,07-20,U.S. House,2,,Write-ins,0,1,1
+Douglas,07-21,U.S. House,2,,Write-ins,0,0,0
+Douglas,07-22,U.S. House,2,,Write-ins,3,3,0
+Douglas,07-23,U.S. House,2,,Write-ins,0,0,0
+Douglas,07-24,U.S. House,2,,Write-ins,0,1,1
+Douglas,07-25,U.S. House,2,,Write-ins,2,2,0
+Douglas,07-26,U.S. House,2,,Write-ins,0,0,0
+Douglas,07-27,U.S. House,2,,Write-ins,1,1,0
+Douglas,07-28,U.S. House,2,,Write-ins,0,1,1
+Douglas,07-29,U.S. House,2,,Write-ins,2,2,0
+Douglas,07-30,U.S. House,2,,Write-ins,0,0,0
+Douglas,07-31,U.S. House,2,,Write-ins,0,0,0
+Douglas,07-32,U.S. House,2,,Write-ins,0,0,0
+Douglas,07-33,U.S. House,2,,Write-ins,0,1,1
+Douglas,07-34,U.S. House,2,,Write-ins,1,1,0
+Douglas,08-01,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-02,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-03,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-04,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-05,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-06,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-07,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-08,U.S. House,2,,Write-ins,0,1,1
+Douglas,08-09,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-10,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-11,U.S. House,2,,Write-ins,4,4,0
+Douglas,08-12,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-13,U.S. House,2,,Write-ins,1,1,0
+Douglas,08-14,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-15,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-16,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-17,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-18,U.S. House,2,,Write-ins,1,1,0
+Douglas,08-19,U.S. House,2,,Write-ins,1,2,1
+Douglas,08-20,U.S. House,2,,Write-ins,1,1,0
+Douglas,08-23,U.S. House,2,,Write-ins,1,1,0
+Douglas,08-24,U.S. House,2,,Write-ins,1,2,1
+Douglas,08-27,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-31,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-35,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-36,U.S. House,2,,Write-ins,1,2,1
+Douglas,08-37,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-39,U.S. House,2,,Write-ins,1,1,0
+Douglas,08-40,U.S. House,2,,Write-ins,0,1,1
+Douglas,08-41,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-42,U.S. House,2,,Write-ins,1,1,0
+Douglas,08-43,U.S. House,2,,Write-ins,1,1,0
+Douglas,08-44,U.S. House,2,,Write-ins,1,1,0
+Douglas,08-45,U.S. House,2,,Write-ins,1,1,0
+Douglas,08-46,U.S. House,2,,Write-ins,1,2,1
+Douglas,08-47,U.S. House,2,,Write-ins,1,2,1
+Douglas,08-48,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-49,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-50,U.S. House,2,,Write-ins,0,0,0
+Douglas,08-51,U.S. House,2,,Write-ins,2,3,1
+Douglas,08-52,U.S. House,2,,Write-ins,1,2,1
+Douglas,08-53,U.S. House,2,,Write-ins,0,1,1
+Douglas,08-54,U.S. House,2,,Write-ins,1,1,0
+Douglas,08-55,U.S. House,2,,Write-ins,0,0,0
+Douglas,01-01,U.S. House,2,,Over Votes,2,6,4
+Douglas,01-02,U.S. House,2,,Over Votes,4,5,1
+Douglas,01-03,U.S. House,2,,Over Votes,4,9,5
+Douglas,01-04,U.S. House,2,,Over Votes,2,6,4
+Douglas,01-05,U.S. House,2,,Over Votes,6,11,5
+Douglas,01-06,U.S. House,2,,Over Votes,3,4,1
+Douglas,01-07,U.S. House,2,,Over Votes,2,5,3
+Douglas,01-08,U.S. House,2,,Over Votes,3,3,0
+Douglas,01-09,U.S. House,2,,Over Votes,3,4,1
+Douglas,01-10,U.S. House,2,,Over Votes,4,4,0
+Douglas,01-11,U.S. House,2,,Over Votes,0,1,1
+Douglas,01-12,U.S. House,2,,Over Votes,0,0,0
+Douglas,01-13,U.S. House,2,,Over Votes,4,7,3
+Douglas,01-14,U.S. House,2,,Over Votes,7,9,2
+Douglas,01-15,U.S. House,2,,Over Votes,5,7,2
+Douglas,01-16,U.S. House,2,,Over Votes,3,4,1
+Douglas,01-17,U.S. House,2,,Over Votes,2,5,3
+Douglas,01-18,U.S. House,2,,Over Votes,3,5,2
+Douglas,01-19,U.S. House,2,,Over Votes,3,5,2
+Douglas,01-20,U.S. House,2,,Over Votes,6,8,2
+Douglas,01-21,U.S. House,2,,Over Votes,6,8,2
+Douglas,01-22,U.S. House,2,,Over Votes,2,6,4
+Douglas,01-23,U.S. House,2,,Over Votes,3,5,2
+Douglas,01-24,U.S. House,2,,Over Votes,2,5,3
+Douglas,01-25,U.S. House,2,,Over Votes,3,4,1
+Douglas,02-01,U.S. House,2,,Over Votes,2,4,2
+Douglas,02-02,U.S. House,2,,Over Votes,0,1,1
+Douglas,02-03,U.S. House,2,,Over Votes,2,2,0
+Douglas,02-04,U.S. House,2,,Over Votes,1,6,5
+Douglas,02-05,U.S. House,2,,Over Votes,3,5,2
+Douglas,02-06,U.S. House,2,,Over Votes,4,4,0
+Douglas,02-07,U.S. House,2,,Over Votes,3,5,2
+Douglas,02-08,U.S. House,2,,Over Votes,2,3,1
+Douglas,02-09,U.S. House,2,,Over Votes,4,4,0
+Douglas,02-10,U.S. House,2,,Over Votes,2,3,1
+Douglas,02-11,U.S. House,2,,Over Votes,2,7,5
+Douglas,02-12,U.S. House,2,,Over Votes,8,9,1
+Douglas,02-13,U.S. House,2,,Over Votes,1,1,0
+Douglas,02-14,U.S. House,2,,Over Votes,4,4,0
+Douglas,02-15,U.S. House,2,,Over Votes,0,0,0
+Douglas,02-16,U.S. House,2,,Over Votes,1,2,1
+Douglas,02-17,U.S. House,2,,Over Votes,3,3,0
+Douglas,02-18,U.S. House,2,,Over Votes,1,1,0
+Douglas,02-19,U.S. House,2,,Over Votes,0,0,0
+Douglas,02-20,U.S. House,2,,Over Votes,2,5,3
+Douglas,02-21,U.S. House,2,,Over Votes,2,4,2
+Douglas,02-22,U.S. House,2,,Over Votes,0,1,1
+Douglas,02-23,U.S. House,2,,Over Votes,3,4,1
+Douglas,03-01,U.S. House,2,,Over Votes,1,1,0
+Douglas,03-02,U.S. House,2,,Over Votes,1,1,0
+Douglas,03-03,U.S. House,2,,Over Votes,1,3,2
+Douglas,03-04,U.S. House,2,,Over Votes,2,6,4
+Douglas,03-05,U.S. House,2,,Over Votes,2,2,0
+Douglas,03-06,U.S. House,2,,Over Votes,4,7,3
+Douglas,03-07,U.S. House,2,,Over Votes,2,3,1
+Douglas,03-08,U.S. House,2,,Over Votes,4,9,5
+Douglas,03-09,U.S. House,2,,Over Votes,4,4,0
+Douglas,03-10,U.S. House,2,,Over Votes,0,2,2
+Douglas,03-11,U.S. House,2,,Over Votes,3,3,0
+Douglas,03-12,U.S. House,2,,Over Votes,1,5,4
+Douglas,03-13,U.S. House,2,,Over Votes,3,4,1
+Douglas,03-14,U.S. House,2,,Over Votes,2,3,1
+Douglas,03-15,U.S. House,2,,Over Votes,5,6,1
+Douglas,03-16,U.S. House,2,,Over Votes,2,4,2
+Douglas,03-17,U.S. House,2,,Over Votes,1,2,1
+Douglas,03-18,U.S. House,2,,Over Votes,0,2,2
+Douglas,03-19,U.S. House,2,,Over Votes,6,8,2
+Douglas,03-20,U.S. House,2,,Over Votes,6,7,1
+Douglas,03-21,U.S. House,2,,Over Votes,5,5,0
+Douglas,04-01,U.S. House,2,,Over Votes,1,1,0
+Douglas,04-02,U.S. House,2,,Over Votes,2,4,2
+Douglas,04-03,U.S. House,2,,Over Votes,2,4,2
+Douglas,04-04,U.S. House,2,,Over Votes,4,4,0
+Douglas,04-05,U.S. House,2,,Over Votes,2,3,1
+Douglas,04-06,U.S. House,2,,Over Votes,2,3,1
+Douglas,04-07,U.S. House,2,,Over Votes,2,3,1
+Douglas,04-08,U.S. House,2,,Over Votes,4,6,2
+Douglas,04-09,U.S. House,2,,Over Votes,0,0,0
+Douglas,04-10,U.S. House,2,,Over Votes,2,4,2
+Douglas,04-11,U.S. House,2,,Over Votes,3,5,2
+Douglas,04-12,U.S. House,2,,Over Votes,8,11,3
+Douglas,04-13,U.S. House,2,,Over Votes,1,3,2
+Douglas,04-14,U.S. House,2,,Over Votes,2,3,1
+Douglas,04-15,U.S. House,2,,Over Votes,0,0,0
+Douglas,04-16,U.S. House,2,,Over Votes,7,7,0
+Douglas,04-17,U.S. House,2,,Over Votes,1,3,2
+Douglas,04-18,U.S. House,2,,Over Votes,3,5,2
+Douglas,05-01,U.S. House,2,,Over Votes,5,8,3
+Douglas,05-02,U.S. House,2,,Over Votes,3,6,3
+Douglas,05-03,U.S. House,2,,Over Votes,7,11,4
+Douglas,05-04,U.S. House,2,,Over Votes,3,3,0
+Douglas,05-05,U.S. House,2,,Over Votes,1,5,4
+Douglas,05-06,U.S. House,2,,Over Votes,2,4,2
+Douglas,05-07,U.S. House,2,,Over Votes,4,10,6
+Douglas,05-08,U.S. House,2,,Over Votes,4,7,3
+Douglas,05-09,U.S. House,2,,Over Votes,4,5,1
+Douglas,05-10,U.S. House,2,,Over Votes,2,4,2
+Douglas,05-11,U.S. House,2,,Over Votes,7,8,1
+Douglas,05-12,U.S. House,2,,Over Votes,3,7,4
+Douglas,05-13,U.S. House,2,,Over Votes,3,9,6
+Douglas,05-14,U.S. House,2,,Over Votes,1,5,4
+Douglas,05-15,U.S. House,2,,Over Votes,2,5,3
+Douglas,05-16,U.S. House,2,,Over Votes,3,4,1
+Douglas,05-17,U.S. House,2,,Over Votes,1,2,1
+Douglas,05-18,U.S. House,2,,Over Votes,4,4,0
+Douglas,05-19,U.S. House,2,,Over Votes,3,5,2
+Douglas,05-20,U.S. House,2,,Over Votes,0,1,1
+Douglas,05-21,U.S. House,2,,Over Votes,6,7,1
+Douglas,05-22,U.S. House,2,,Over Votes,4,5,1
+Douglas,05-23,U.S. House,2,,Over Votes,0,2,2
+Douglas,05-24,U.S. House,2,,Over Votes,2,3,1
+Douglas,05-25,U.S. House,2,,Over Votes,2,7,5
+Douglas,05-26,U.S. House,2,,Over Votes,1,2,1
+Douglas,05-27,U.S. House,2,,Over Votes,2,5,3
+Douglas,05-28,U.S. House,2,,Over Votes,0,2,2
+Douglas,05-29,U.S. House,2,,Over Votes,4,7,3
+Douglas,05-30,U.S. House,2,,Over Votes,3,6,3
+Douglas,05-31,U.S. House,2,,Over Votes,2,4,2
+Douglas,05-32,U.S. House,2,,Over Votes,0,0,0
+Douglas,05-33,U.S. House,2,,Over Votes,0,0,0
+Douglas,06-01,U.S. House,2,,Over Votes,3,4,1
+Douglas,06-02,U.S. House,2,,Over Votes,1,4,3
+Douglas,06-03,U.S. House,2,,Over Votes,1,4,3
+Douglas,06-04,U.S. House,2,,Over Votes,1,3,2
+Douglas,06-05,U.S. House,2,,Over Votes,2,4,2
+Douglas,06-06,U.S. House,2,,Over Votes,3,3,0
+Douglas,06-07,U.S. House,2,,Over Votes,3,5,2
+Douglas,06-08,U.S. House,2,,Over Votes,4,8,4
+Douglas,06-09,U.S. House,2,,Over Votes,5,9,4
+Douglas,06-10,U.S. House,2,,Over Votes,2,3,1
+Douglas,06-11,U.S. House,2,,Over Votes,3,6,3
+Douglas,06-12,U.S. House,2,,Over Votes,5,7,2
+Douglas,06-13,U.S. House,2,,Over Votes,7,10,3
+Douglas,06-14,U.S. House,2,,Over Votes,5,6,1
+Douglas,06-15,U.S. House,2,,Over Votes,2,3,1
+Douglas,06-16,U.S. House,2,,Over Votes,3,3,0
+Douglas,06-17,U.S. House,2,,Over Votes,3,4,1
+Douglas,06-18,U.S. House,2,,Over Votes,0,1,1
+Douglas,06-19,U.S. House,2,,Over Votes,3,7,4
+Douglas,06-20,U.S. House,2,,Over Votes,2,4,2
+Douglas,06-21,U.S. House,2,,Over Votes,8,9,1
+Douglas,06-22,U.S. House,2,,Over Votes,1,3,2
+Douglas,06-23,U.S. House,2,,Over Votes,3,3,0
+Douglas,06-24,U.S. House,2,,Over Votes,3,5,2
+Douglas,06-25,U.S. House,2,,Over Votes,2,3,1
+Douglas,06-26,U.S. House,2,,Over Votes,0,2,2
+Douglas,06-27,U.S. House,2,,Over Votes,4,8,4
+Douglas,06-28,U.S. House,2,,Over Votes,3,3,0
+Douglas,06-29,U.S. House,2,,Over Votes,3,3,0
+Douglas,06-30,U.S. House,2,,Over Votes,2,5,3
+Douglas,07-01,U.S. House,2,,Over Votes,1,4,3
+Douglas,07-02,U.S. House,2,,Over Votes,3,4,1
+Douglas,07-03,U.S. House,2,,Over Votes,0,2,2
+Douglas,07-04,U.S. House,2,,Over Votes,4,5,1
+Douglas,07-05,U.S. House,2,,Over Votes,3,5,2
+Douglas,07-06,U.S. House,2,,Over Votes,3,5,2
+Douglas,07-07,U.S. House,2,,Over Votes,1,1,0
+Douglas,07-08,U.S. House,2,,Over Votes,3,4,1
+Douglas,07-09,U.S. House,2,,Over Votes,4,5,1
+Douglas,07-10,U.S. House,2,,Over Votes,1,4,3
+Douglas,07-11,U.S. House,2,,Over Votes,6,7,1
+Douglas,07-12,U.S. House,2,,Over Votes,1,3,2
+Douglas,07-13,U.S. House,2,,Over Votes,4,5,1
+Douglas,07-14,U.S. House,2,,Over Votes,0,0,0
+Douglas,07-15,U.S. House,2,,Over Votes,3,6,3
+Douglas,07-16,U.S. House,2,,Over Votes,3,4,1
+Douglas,07-17,U.S. House,2,,Over Votes,3,3,0
+Douglas,07-18,U.S. House,2,,Over Votes,3,5,2
+Douglas,07-19,U.S. House,2,,Over Votes,2,3,1
+Douglas,07-20,U.S. House,2,,Over Votes,2,5,3
+Douglas,07-21,U.S. House,2,,Over Votes,5,6,1
+Douglas,07-22,U.S. House,2,,Over Votes,3,7,4
+Douglas,07-23,U.S. House,2,,Over Votes,3,3,0
+Douglas,07-24,U.S. House,2,,Over Votes,2,2,0
+Douglas,07-25,U.S. House,2,,Over Votes,4,7,3
+Douglas,07-26,U.S. House,2,,Over Votes,1,1,0
+Douglas,07-27,U.S. House,2,,Over Votes,2,4,2
+Douglas,07-28,U.S. House,2,,Over Votes,1,3,2
+Douglas,07-29,U.S. House,2,,Over Votes,0,1,1
+Douglas,07-30,U.S. House,2,,Over Votes,2,4,2
+Douglas,07-31,U.S. House,2,,Over Votes,0,1,1
+Douglas,07-32,U.S. House,2,,Over Votes,2,4,2
+Douglas,07-33,U.S. House,2,,Over Votes,0,0,0
+Douglas,07-34,U.S. House,2,,Over Votes,4,5,1
+Douglas,08-01,U.S. House,2,,Over Votes,3,4,1
+Douglas,08-02,U.S. House,2,,Over Votes,2,4,2
+Douglas,08-03,U.S. House,2,,Over Votes,1,2,1
+Douglas,08-04,U.S. House,2,,Over Votes,1,3,2
+Douglas,08-05,U.S. House,2,,Over Votes,1,2,1
+Douglas,08-06,U.S. House,2,,Over Votes,0,1,1
+Douglas,08-07,U.S. House,2,,Over Votes,1,2,1
+Douglas,08-08,U.S. House,2,,Over Votes,0,0,0
+Douglas,08-09,U.S. House,2,,Over Votes,2,3,1
+Douglas,08-10,U.S. House,2,,Over Votes,1,3,2
+Douglas,08-11,U.S. House,2,,Over Votes,4,5,1
+Douglas,08-12,U.S. House,2,,Over Votes,5,6,1
+Douglas,08-13,U.S. House,2,,Over Votes,1,6,5
+Douglas,08-14,U.S. House,2,,Over Votes,4,7,3
+Douglas,08-15,U.S. House,2,,Over Votes,2,3,1
+Douglas,08-16,U.S. House,2,,Over Votes,0,1,1
+Douglas,08-17,U.S. House,2,,Over Votes,5,7,2
+Douglas,08-18,U.S. House,2,,Over Votes,0,3,3
+Douglas,08-19,U.S. House,2,,Over Votes,3,9,6
+Douglas,08-20,U.S. House,2,,Over Votes,0,0,0
+Douglas,08-23,U.S. House,2,,Over Votes,0,3,3
+Douglas,08-24,U.S. House,2,,Over Votes,2,3,1
+Douglas,08-27,U.S. House,2,,Over Votes,0,0,0
+Douglas,08-31,U.S. House,2,,Over Votes,2,3,1
+Douglas,08-35,U.S. House,2,,Over Votes,2,2,0
+Douglas,08-36,U.S. House,2,,Over Votes,2,3,1
+Douglas,08-37,U.S. House,2,,Over Votes,3,8,5
+Douglas,08-39,U.S. House,2,,Over Votes,4,8,4
+Douglas,08-40,U.S. House,2,,Over Votes,2,4,2
+Douglas,08-41,U.S. House,2,,Over Votes,2,4,2
+Douglas,08-42,U.S. House,2,,Over Votes,2,7,5
+Douglas,08-43,U.S. House,2,,Over Votes,0,0,0
+Douglas,08-44,U.S. House,2,,Over Votes,3,5,2
+Douglas,08-45,U.S. House,2,,Over Votes,6,10,4
+Douglas,08-46,U.S. House,2,,Over Votes,1,5,4
+Douglas,08-47,U.S. House,2,,Over Votes,3,7,4
+Douglas,08-48,U.S. House,2,,Over Votes,3,3,0
+Douglas,08-49,U.S. House,2,,Over Votes,4,8,4
+Douglas,08-50,U.S. House,2,,Over Votes,11,14,3
+Douglas,08-51,U.S. House,2,,Over Votes,3,8,5
+Douglas,08-52,U.S. House,2,,Over Votes,8,10,2
+Douglas,08-53,U.S. House,2,,Over Votes,5,6,1
+Douglas,08-54,U.S. House,2,,Over Votes,2,4,2
+Douglas,08-55,U.S. House,2,,Over Votes,6,7,1
+Douglas,01-01,U.S. House,2,,Under Votes,25,29,4
+Douglas,01-02,U.S. House,2,,Under Votes,8,14,6
+Douglas,01-03,U.S. House,2,,Under Votes,18,38,20
+Douglas,01-04,U.S. House,2,,Under Votes,16,26,10
+Douglas,01-05,U.S. House,2,,Under Votes,7,10,3
+Douglas,01-06,U.S. House,2,,Under Votes,23,34,11
+Douglas,01-07,U.S. House,2,,Under Votes,24,25,1
+Douglas,01-08,U.S. House,2,,Under Votes,14,20,6
+Douglas,01-09,U.S. House,2,,Under Votes,7,11,4
+Douglas,01-10,U.S. House,2,,Under Votes,5,10,5
+Douglas,01-11,U.S. House,2,,Under Votes,15,22,7
+Douglas,01-12,U.S. House,2,,Under Votes,0,1,1
+Douglas,01-13,U.S. House,2,,Under Votes,8,14,6
+Douglas,01-14,U.S. House,2,,Under Votes,13,21,8
+Douglas,01-15,U.S. House,2,,Under Votes,13,27,14
+Douglas,01-16,U.S. House,2,,Under Votes,7,9,2
+Douglas,01-17,U.S. House,2,,Under Votes,12,23,11
+Douglas,01-18,U.S. House,2,,Under Votes,5,9,4
+Douglas,01-19,U.S. House,2,,Under Votes,8,12,4
+Douglas,01-20,U.S. House,2,,Under Votes,9,12,3
+Douglas,01-21,U.S. House,2,,Under Votes,14,21,7
+Douglas,01-22,U.S. House,2,,Under Votes,8,17,9
+Douglas,01-23,U.S. House,2,,Under Votes,8,15,7
+Douglas,01-24,U.S. House,2,,Under Votes,4,12,8
+Douglas,01-25,U.S. House,2,,Under Votes,11,19,8
+Douglas,02-01,U.S. House,2,,Under Votes,14,16,2
+Douglas,02-02,U.S. House,2,,Under Votes,12,18,6
+Douglas,02-03,U.S. House,2,,Under Votes,19,29,10
+Douglas,02-04,U.S. House,2,,Under Votes,13,16,3
+Douglas,02-05,U.S. House,2,,Under Votes,13,18,5
+Douglas,02-06,U.S. House,2,,Under Votes,10,15,5
+Douglas,02-07,U.S. House,2,,Under Votes,7,9,2
+Douglas,02-08,U.S. House,2,,Under Votes,7,13,6
+Douglas,02-09,U.S. House,2,,Under Votes,8,9,1
+Douglas,02-10,U.S. House,2,,Under Votes,9,14,5
+Douglas,02-11,U.S. House,2,,Under Votes,18,25,7
+Douglas,02-12,U.S. House,2,,Under Votes,17,22,5
+Douglas,02-13,U.S. House,2,,Under Votes,8,10,2
+Douglas,02-14,U.S. House,2,,Under Votes,11,17,6
+Douglas,02-15,U.S. House,2,,Under Votes,15,20,5
+Douglas,02-16,U.S. House,2,,Under Votes,15,25,10
+Douglas,02-17,U.S. House,2,,Under Votes,17,19,2
+Douglas,02-18,U.S. House,2,,Under Votes,3,9,6
+Douglas,02-19,U.S. House,2,,Under Votes,13,17,4
+Douglas,02-20,U.S. House,2,,Under Votes,9,15,6
+Douglas,02-21,U.S. House,2,,Under Votes,15,20,5
+Douglas,02-22,U.S. House,2,,Under Votes,8,10,2
+Douglas,02-23,U.S. House,2,,Under Votes,13,14,1
+Douglas,03-01,U.S. House,2,,Under Votes,2,2,0
+Douglas,03-02,U.S. House,2,,Under Votes,12,15,3
+Douglas,03-03,U.S. House,2,,Under Votes,16,19,3
+Douglas,03-04,U.S. House,2,,Under Votes,9,13,4
+Douglas,03-05,U.S. House,2,,Under Votes,15,20,5
+Douglas,03-06,U.S. House,2,,Under Votes,19,28,9
+Douglas,03-07,U.S. House,2,,Under Votes,16,27,11
+Douglas,03-08,U.S. House,2,,Under Votes,14,23,9
+Douglas,03-09,U.S. House,2,,Under Votes,14,21,7
+Douglas,03-10,U.S. House,2,,Under Votes,3,10,7
+Douglas,03-11,U.S. House,2,,Under Votes,24,34,10
+Douglas,03-12,U.S. House,2,,Under Votes,6,8,2
+Douglas,03-13,U.S. House,2,,Under Votes,14,16,2
+Douglas,03-14,U.S. House,2,,Under Votes,8,15,7
+Douglas,03-15,U.S. House,2,,Under Votes,21,30,9
+Douglas,03-16,U.S. House,2,,Under Votes,23,37,14
+Douglas,03-17,U.S. House,2,,Under Votes,15,18,3
+Douglas,03-18,U.S. House,2,,Under Votes,13,20,7
+Douglas,03-19,U.S. House,2,,Under Votes,16,21,5
+Douglas,03-20,U.S. House,2,,Under Votes,15,30,15
+Douglas,03-21,U.S. House,2,,Under Votes,17,35,18
+Douglas,04-01,U.S. House,2,,Under Votes,25,28,3
+Douglas,04-02,U.S. House,2,,Under Votes,14,17,3
+Douglas,04-03,U.S. House,2,,Under Votes,15,21,6
+Douglas,04-04,U.S. House,2,,Under Votes,16,23,7
+Douglas,04-05,U.S. House,2,,Under Votes,15,22,7
+Douglas,04-06,U.S. House,2,,Under Votes,17,24,7
+Douglas,04-07,U.S. House,2,,Under Votes,14,21,7
+Douglas,04-08,U.S. House,2,,Under Votes,15,23,8
+Douglas,04-09,U.S. House,2,,Under Votes,14,18,4
+Douglas,04-10,U.S. House,2,,Under Votes,13,18,5
+Douglas,04-11,U.S. House,2,,Under Votes,10,16,6
+Douglas,04-12,U.S. House,2,,Under Votes,12,17,5
+Douglas,04-13,U.S. House,2,,Under Votes,9,16,7
+Douglas,04-14,U.S. House,2,,Under Votes,9,12,3
+Douglas,04-15,U.S. House,2,,Under Votes,22,31,9
+Douglas,04-16,U.S. House,2,,Under Votes,18,28,10
+Douglas,04-17,U.S. House,2,,Under Votes,4,11,7
+Douglas,04-18,U.S. House,2,,Under Votes,16,22,6
+Douglas,05-01,U.S. House,2,,Under Votes,15,19,4
+Douglas,05-02,U.S. House,2,,Under Votes,8,16,8
+Douglas,05-03,U.S. House,2,,Under Votes,16,27,11
+Douglas,05-04,U.S. House,2,,Under Votes,13,24,11
+Douglas,05-05,U.S. House,2,,Under Votes,17,21,4
+Douglas,05-06,U.S. House,2,,Under Votes,9,14,5
+Douglas,05-07,U.S. House,2,,Under Votes,16,24,8
+Douglas,05-08,U.S. House,2,,Under Votes,13,21,8
+Douglas,05-09,U.S. House,2,,Under Votes,13,20,7
+Douglas,05-10,U.S. House,2,,Under Votes,19,25,6
+Douglas,05-11,U.S. House,2,,Under Votes,17,24,7
+Douglas,05-12,U.S. House,2,,Under Votes,9,23,14
+Douglas,05-13,U.S. House,2,,Under Votes,11,29,18
+Douglas,05-14,U.S. House,2,,Under Votes,9,18,9
+Douglas,05-15,U.S. House,2,,Under Votes,11,14,3
+Douglas,05-16,U.S. House,2,,Under Votes,23,38,15
+Douglas,05-17,U.S. House,2,,Under Votes,11,23,12
+Douglas,05-18,U.S. House,2,,Under Votes,10,15,5
+Douglas,05-19,U.S. House,2,,Under Votes,9,16,7
+Douglas,05-20,U.S. House,2,,Under Votes,12,21,9
+Douglas,05-21,U.S. House,2,,Under Votes,11,19,8
+Douglas,05-22,U.S. House,2,,Under Votes,15,21,6
+Douglas,05-23,U.S. House,2,,Under Votes,9,15,6
+Douglas,05-24,U.S. House,2,,Under Votes,18,28,10
+Douglas,05-25,U.S. House,2,,Under Votes,11,17,6
+Douglas,05-26,U.S. House,2,,Under Votes,11,18,7
+Douglas,05-27,U.S. House,2,,Under Votes,13,22,9
+Douglas,05-28,U.S. House,2,,Under Votes,5,14,9
+Douglas,05-29,U.S. House,2,,Under Votes,8,11,3
+Douglas,05-30,U.S. House,2,,Under Votes,11,30,19
+Douglas,05-31,U.S. House,2,,Under Votes,8,15,7
+Douglas,05-32,U.S. House,2,,Under Votes,5,8,3
+Douglas,05-33,U.S. House,2,,Under Votes,5,9,4
+Douglas,06-01,U.S. House,2,,Under Votes,15,21,6
+Douglas,06-02,U.S. House,2,,Under Votes,3,10,7
+Douglas,06-03,U.S. House,2,,Under Votes,3,8,5
+Douglas,06-04,U.S. House,2,,Under Votes,6,16,10
+Douglas,06-05,U.S. House,2,,Under Votes,7,16,9
+Douglas,06-06,U.S. House,2,,Under Votes,13,17,4
+Douglas,06-07,U.S. House,2,,Under Votes,8,14,6
+Douglas,06-08,U.S. House,2,,Under Votes,7,9,2
+Douglas,06-09,U.S. House,2,,Under Votes,6,12,6
+Douglas,06-10,U.S. House,2,,Under Votes,11,21,10
+Douglas,06-11,U.S. House,2,,Under Votes,19,25,6
+Douglas,06-12,U.S. House,2,,Under Votes,7,16,9
+Douglas,06-13,U.S. House,2,,Under Votes,22,30,8
+Douglas,06-14,U.S. House,2,,Under Votes,16,24,8
+Douglas,06-15,U.S. House,2,,Under Votes,9,13,4
+Douglas,06-16,U.S. House,2,,Under Votes,11,22,11
+Douglas,06-17,U.S. House,2,,Under Votes,4,12,8
+Douglas,06-18,U.S. House,2,,Under Votes,6,8,2
+Douglas,06-19,U.S. House,2,,Under Votes,14,24,10
+Douglas,06-20,U.S. House,2,,Under Votes,12,21,9
+Douglas,06-21,U.S. House,2,,Under Votes,15,36,21
+Douglas,06-22,U.S. House,2,,Under Votes,9,16,7
+Douglas,06-23,U.S. House,2,,Under Votes,13,22,9
+Douglas,06-24,U.S. House,2,,Under Votes,17,23,6
+Douglas,06-25,U.S. House,2,,Under Votes,5,15,10
+Douglas,06-26,U.S. House,2,,Under Votes,3,15,12
+Douglas,06-27,U.S. House,2,,Under Votes,13,23,10
+Douglas,06-28,U.S. House,2,,Under Votes,11,17,6
+Douglas,06-29,U.S. House,2,,Under Votes,12,17,5
+Douglas,06-30,U.S. House,2,,Under Votes,2,11,9
+Douglas,07-01,U.S. House,2,,Under Votes,9,13,4
+Douglas,07-02,U.S. House,2,,Under Votes,17,24,7
+Douglas,07-03,U.S. House,2,,Under Votes,16,21,5
+Douglas,07-04,U.S. House,2,,Under Votes,13,18,5
+Douglas,07-05,U.S. House,2,,Under Votes,9,14,5
+Douglas,07-06,U.S. House,2,,Under Votes,4,12,8
+Douglas,07-07,U.S. House,2,,Under Votes,17,23,6
+Douglas,07-08,U.S. House,2,,Under Votes,20,25,5
+Douglas,07-09,U.S. House,2,,Under Votes,11,19,8
+Douglas,07-10,U.S. House,2,,Under Votes,15,24,9
+Douglas,07-11,U.S. House,2,,Under Votes,20,29,9
+Douglas,07-12,U.S. House,2,,Under Votes,6,18,12
+Douglas,07-13,U.S. House,2,,Under Votes,9,19,10
+Douglas,07-14,U.S. House,2,,Under Votes,3,8,5
+Douglas,07-15,U.S. House,2,,Under Votes,11,19,8
+Douglas,07-16,U.S. House,2,,Under Votes,11,25,14
+Douglas,07-17,U.S. House,2,,Under Votes,12,24,12
+Douglas,07-18,U.S. House,2,,Under Votes,19,25,6
+Douglas,07-19,U.S. House,2,,Under Votes,11,20,9
+Douglas,07-20,U.S. House,2,,Under Votes,8,29,21
+Douglas,07-21,U.S. House,2,,Under Votes,7,16,9
+Douglas,07-22,U.S. House,2,,Under Votes,22,27,5
+Douglas,07-23,U.S. House,2,,Under Votes,10,15,5
+Douglas,07-24,U.S. House,2,,Under Votes,12,15,3
+Douglas,07-25,U.S. House,2,,Under Votes,6,10,4
+Douglas,07-26,U.S. House,2,,Under Votes,6,12,6
+Douglas,07-27,U.S. House,2,,Under Votes,10,17,7
+Douglas,07-28,U.S. House,2,,Under Votes,5,9,4
+Douglas,07-29,U.S. House,2,,Under Votes,8,13,5
+Douglas,07-30,U.S. House,2,,Under Votes,15,24,9
+Douglas,07-31,U.S. House,2,,Under Votes,12,23,11
+Douglas,07-32,U.S. House,2,,Under Votes,14,19,5
+Douglas,07-33,U.S. House,2,,Under Votes,5,8,3
+Douglas,07-34,U.S. House,2,,Under Votes,7,14,7
+Douglas,08-01,U.S. House,2,,Under Votes,8,9,1
+Douglas,08-02,U.S. House,2,,Under Votes,4,5,1
+Douglas,08-03,U.S. House,2,,Under Votes,4,7,3
+Douglas,08-04,U.S. House,2,,Under Votes,7,9,2
+Douglas,08-05,U.S. House,2,,Under Votes,10,12,2
+Douglas,08-06,U.S. House,2,,Under Votes,1,4,3
+Douglas,08-07,U.S. House,2,,Under Votes,6,8,2
+Douglas,08-08,U.S. House,2,,Under Votes,2,3,1
+Douglas,08-09,U.S. House,2,,Under Votes,5,15,10
+Douglas,08-10,U.S. House,2,,Under Votes,8,11,3
+Douglas,08-11,U.S. House,2,,Under Votes,14,22,8
+Douglas,08-12,U.S. House,2,,Under Votes,15,25,10
+Douglas,08-13,U.S. House,2,,Under Votes,23,32,9
+Douglas,08-14,U.S. House,2,,Under Votes,10,15,5
+Douglas,08-15,U.S. House,2,,Under Votes,6,12,6
+Douglas,08-16,U.S. House,2,,Under Votes,9,24,15
+Douglas,08-17,U.S. House,2,,Under Votes,9,14,5
+Douglas,08-18,U.S. House,2,,Under Votes,5,9,4
+Douglas,08-19,U.S. House,2,,Under Votes,16,27,11
+Douglas,08-20,U.S. House,2,,Under Votes,21,28,7
+Douglas,08-23,U.S. House,2,,Under Votes,13,19,6
+Douglas,08-24,U.S. House,2,,Under Votes,9,23,14
+Douglas,08-27,U.S. House,2,,Under Votes,3,3,0
+Douglas,08-31,U.S. House,2,,Under Votes,10,13,3
+Douglas,08-35,U.S. House,2,,Under Votes,8,10,2
+Douglas,08-36,U.S. House,2,,Under Votes,8,15,7
+Douglas,08-37,U.S. House,2,,Under Votes,11,20,9
+Douglas,08-39,U.S. House,2,,Under Votes,9,21,12
+Douglas,08-40,U.S. House,2,,Under Votes,16,31,15
+Douglas,08-41,U.S. House,2,,Under Votes,14,18,4
+Douglas,08-42,U.S. House,2,,Under Votes,17,34,17
+Douglas,08-43,U.S. House,2,,Under Votes,13,22,9
+Douglas,08-44,U.S. House,2,,Under Votes,17,24,7
+Douglas,08-45,U.S. House,2,,Under Votes,14,28,14
+Douglas,08-46,U.S. House,2,,Under Votes,15,27,12
+Douglas,08-47,U.S. House,2,,Under Votes,23,34,11
+Douglas,08-48,U.S. House,2,,Under Votes,8,14,6
+Douglas,08-49,U.S. House,2,,Under Votes,15,24,9
+Douglas,08-50,U.S. House,2,,Under Votes,9,14,5
+Douglas,08-51,U.S. House,2,,Under Votes,16,23,7
+Douglas,08-52,U.S. House,2,,Under Votes,12,21,9
+Douglas,08-53,U.S. House,2,,Under Votes,10,22,12
+Douglas,08-54,U.S. House,2,,Under Votes,11,15,4
+Douglas,08-55,U.S. House,2,,Under Votes,11,15,4
+Douglas,03-13,State Senate,5,,Mike McDonnell,438,608,170
+Douglas,04-04,State Senate,5,,Mike McDonnell,404,562,158
+Douglas,04-05,State Senate,5,,Mike McDonnell,687,964,277
+Douglas,04-06,State Senate,5,,Mike McDonnell,411,608,197
+Douglas,04-07,State Senate,5,,Mike McDonnell,333,498,165
+Douglas,04-08,State Senate,5,,Mike McDonnell,481,718,237
+Douglas,04-10,State Senate,5,,Mike McDonnell,281,444,163
+Douglas,04-11,State Senate,5,,Mike McDonnell,422,624,202
+Douglas,04-12,State Senate,5,,Mike McDonnell,430,650,220
+Douglas,04-15,State Senate,5,,Mike McDonnell,373,523,150
+Douglas,04-16,State Senate,5,,Mike McDonnell,371,546,175
+Douglas,04-17,State Senate,5,,Mike McDonnell,243,375,132
+Douglas,03-13,State Senate,5,,Gilbert Ayala,152,222,70
+Douglas,04-04,State Senate,5,,Gilbert Ayala,212,277,65
+Douglas,04-05,State Senate,5,,Gilbert Ayala,176,243,67
+Douglas,04-06,State Senate,5,,Gilbert Ayala,226,295,69
+Douglas,04-07,State Senate,5,,Gilbert Ayala,136,182,46
+Douglas,04-08,State Senate,5,,Gilbert Ayala,148,215,67
+Douglas,04-10,State Senate,5,,Gilbert Ayala,239,322,83
+Douglas,04-11,State Senate,5,,Gilbert Ayala,175,279,104
+Douglas,04-12,State Senate,5,,Gilbert Ayala,181,246,65
+Douglas,04-15,State Senate,5,,Gilbert Ayala,241,311,70
+Douglas,04-16,State Senate,5,,Gilbert Ayala,219,285,66
+Douglas,04-17,State Senate,5,,Gilbert Ayala,115,151,36
+Douglas,03-13,State Senate,5,,Write-ins,5,9,4
+Douglas,04-04,State Senate,5,,Write-ins,11,12,1
+Douglas,04-05,State Senate,5,,Write-ins,8,9,1
+Douglas,04-06,State Senate,5,,Write-ins,8,8,0
+Douglas,04-07,State Senate,5,,Write-ins,6,8,2
+Douglas,04-08,State Senate,5,,Write-ins,8,10,2
+Douglas,04-10,State Senate,5,,Write-ins,12,13,1
+Douglas,04-11,State Senate,5,,Write-ins,4,5,1
+Douglas,04-12,State Senate,5,,Write-ins,7,9,2
+Douglas,04-15,State Senate,5,,Write-ins,6,7,1
+Douglas,04-16,State Senate,5,,Write-ins,5,8,3
+Douglas,04-17,State Senate,5,,Write-ins,3,3,0
+Douglas,03-13,State Senate,5,,Over Votes,0,0,0
+Douglas,04-04,State Senate,5,,Over Votes,0,0,0
+Douglas,04-05,State Senate,5,,Over Votes,1,1,0
+Douglas,04-06,State Senate,5,,Over Votes,1,1,0
+Douglas,04-07,State Senate,5,,Over Votes,0,1,1
+Douglas,04-08,State Senate,5,,Over Votes,0,0,0
+Douglas,04-10,State Senate,5,,Over Votes,0,1,1
+Douglas,04-11,State Senate,5,,Over Votes,0,0,0
+Douglas,04-12,State Senate,5,,Over Votes,0,1,1
+Douglas,04-15,State Senate,5,,Over Votes,3,3,0
+Douglas,04-16,State Senate,5,,Over Votes,0,1,1
+Douglas,04-17,State Senate,5,,Over Votes,0,0,0
+Douglas,03-13,State Senate,5,,Under Votes,117,149,32
+Douglas,04-04,State Senate,5,,Under Votes,110,146,36
+Douglas,04-05,State Senate,5,,Under Votes,113,156,43
+Douglas,04-06,State Senate,5,,Under Votes,118,158,40
+Douglas,04-07,State Senate,5,,Under Votes,69,92,23
+Douglas,04-08,State Senate,5,,Under Votes,82,131,49
+Douglas,04-10,State Senate,5,,Under Votes,84,112,28
+Douglas,04-11,State Senate,5,,Under Votes,103,138,35
+Douglas,04-12,State Senate,5,,Under Votes,121,161,40
+Douglas,04-15,State Senate,5,,Under Votes,114,150,36
+Douglas,04-16,State Senate,5,,Under Votes,127,176,49
+Douglas,04-17,State Senate,5,,Under Votes,50,80,30
+Douglas,02-18,State Senate,7,,Tony Vargas,58,113,55
+Douglas,03-05,State Senate,7,,Tony Vargas,337,531,194
+Douglas,03-06,State Senate,7,,Tony Vargas,358,518,160
+Douglas,03-11,State Senate,7,,Tony Vargas,379,524,145
+Douglas,03-21,State Senate,7,,Tony Vargas,421,658,237
+Douglas,04-01,State Senate,7,,Tony Vargas,304,407,103
+Douglas,04-02,State Senate,7,,Tony Vargas,272,379,107
+Douglas,04-03,State Senate,7,,Tony Vargas,324,500,176
+Douglas,04-09,State Senate,7,,Tony Vargas,239,334,95
+Douglas,04-13,State Senate,7,,Tony Vargas,349,484,135
+Douglas,04-14,State Senate,7,,Tony Vargas,229,314,85
+Douglas,04-18,State Senate,7,,Tony Vargas,327,482,155
+Douglas,02-18,State Senate,7,,John Synowiecki,33,77,44
+Douglas,03-05,State Senate,7,,John Synowiecki,221,302,81
+Douglas,03-06,State Senate,7,,John Synowiecki,180,265,85
+Douglas,03-11,State Senate,7,,John Synowiecki,264,373,109
+Douglas,03-21,State Senate,7,,John Synowiecki,211,324,113
+Douglas,04-01,State Senate,7,,John Synowiecki,196,266,70
+Douglas,04-02,State Senate,7,,John Synowiecki,260,402,142
+Douglas,04-03,State Senate,7,,John Synowiecki,184,270,86
+Douglas,04-09,State Senate,7,,John Synowiecki,121,194,73
+Douglas,04-13,State Senate,7,,John Synowiecki,276,402,126
+Douglas,04-14,State Senate,7,,John Synowiecki,143,201,58
+Douglas,04-18,State Senate,7,,John Synowiecki,131,172,41
+Douglas,02-18,State Senate,7,,Write-ins,0,0,0
+Douglas,03-05,State Senate,7,,Write-ins,2,2,0
+Douglas,03-06,State Senate,7,,Write-ins,8,10,2
+Douglas,03-11,State Senate,7,,Write-ins,6,8,2
+Douglas,03-21,State Senate,7,,Write-ins,3,4,1
+Douglas,04-01,State Senate,7,,Write-ins,3,3,0
+Douglas,04-02,State Senate,7,,Write-ins,6,7,1
+Douglas,04-03,State Senate,7,,Write-ins,0,0,0
+Douglas,04-09,State Senate,7,,Write-ins,4,4,0
+Douglas,04-13,State Senate,7,,Write-ins,4,6,2
+Douglas,04-14,State Senate,7,,Write-ins,2,4,2
+Douglas,04-18,State Senate,7,,Write-ins,1,1,0
+Douglas,02-18,State Senate,7,,Over Votes,0,0,0
+Douglas,03-05,State Senate,7,,Over Votes,0,0,0
+Douglas,03-06,State Senate,7,,Over Votes,1,1,0
+Douglas,03-11,State Senate,7,,Over Votes,4,4,0
+Douglas,03-21,State Senate,7,,Over Votes,0,2,2
+Douglas,04-01,State Senate,7,,Over Votes,1,1,0
+Douglas,04-02,State Senate,7,,Over Votes,1,1,0
+Douglas,04-03,State Senate,7,,Over Votes,0,0,0
+Douglas,04-09,State Senate,7,,Over Votes,0,0,0
+Douglas,04-13,State Senate,7,,Over Votes,0,0,0
+Douglas,04-14,State Senate,7,,Over Votes,0,0,0
+Douglas,04-18,State Senate,7,,Over Votes,2,4,2
+Douglas,02-18,State Senate,7,,Under Votes,20,43,23
+Douglas,03-05,State Senate,7,,Under Votes,60,78,18
+Douglas,03-06,State Senate,7,,Under Votes,111,150,39
+Douglas,03-11,State Senate,7,,Under Votes,59,76,17
+Douglas,03-21,State Senate,7,,Under Votes,121,203,82
+Douglas,04-01,State Senate,7,,Under Votes,24,37,13
+Douglas,04-02,State Senate,7,,Under Votes,21,31,10
+Douglas,04-03,State Senate,7,,Under Votes,25,32,7
+Douglas,04-09,State Senate,7,,Under Votes,23,29,6
+Douglas,04-13,State Senate,7,,Under Votes,45,70,25
+Douglas,04-14,State Senate,7,,Under Votes,23,32,9
+Douglas,04-18,State Senate,7,,Under Votes,10,15,5
+Douglas,03-02,State Senate,9,,Sara Howard,464,686,222
+Douglas,03-07,State Senate,9,,Sara Howard,527,820,293
+Douglas,03-08,State Senate,9,,Sara Howard,519,775,256
+Douglas,03-09,State Senate,9,,Sara Howard,615,922,307
+Douglas,03-10,State Senate,9,,Sara Howard,270,460,190
+Douglas,03-12,State Senate,9,,Sara Howard,441,665,224
+Douglas,03-14,State Senate,9,,Sara Howard,527,871,344
+Douglas,03-15,State Senate,9,,Sara Howard,647,1037,390
+Douglas,03-16,State Senate,9,,Sara Howard,716,1151,435
+Douglas,03-17,State Senate,9,,Sara Howard,524,773,249
+Douglas,03-18,State Senate,9,,Sara Howard,420,624,204
+Douglas,03-19,State Senate,9,,Sara Howard,533,782,249
+Douglas,03-20,State Senate,9,,Sara Howard,656,986,330
+Douglas,03-02,State Senate,9,,Larry Roland,111,150,39
+Douglas,03-07,State Senate,9,,Larry Roland,134,179,45
+Douglas,03-08,State Senate,9,,Larry Roland,148,206,58
+Douglas,03-09,State Senate,9,,Larry Roland,158,225,67
+Douglas,03-10,State Senate,9,,Larry Roland,90,129,39
+Douglas,03-12,State Senate,9,,Larry Roland,138,210,72
+Douglas,03-14,State Senate,9,,Larry Roland,175,241,66
+Douglas,03-15,State Senate,9,,Larry Roland,187,279,92
+Douglas,03-16,State Senate,9,,Larry Roland,186,280,94
+Douglas,03-17,State Senate,9,,Larry Roland,164,225,61
+Douglas,03-18,State Senate,9,,Larry Roland,93,121,28
+Douglas,03-19,State Senate,9,,Larry Roland,154,202,48
+Douglas,03-20,State Senate,9,,Larry Roland,229,326,97
+Douglas,03-02,State Senate,9,,Write-ins,2,2,0
+Douglas,03-07,State Senate,9,,Write-ins,6,8,2
+Douglas,03-08,State Senate,9,,Write-ins,4,5,1
+Douglas,03-09,State Senate,9,,Write-ins,5,7,2
+Douglas,03-10,State Senate,9,,Write-ins,0,0,0
+Douglas,03-12,State Senate,9,,Write-ins,4,4,0
+Douglas,03-14,State Senate,9,,Write-ins,1,4,3
+Douglas,03-15,State Senate,9,,Write-ins,9,11,2
+Douglas,03-16,State Senate,9,,Write-ins,8,9,1
+Douglas,03-17,State Senate,9,,Write-ins,4,4,0
+Douglas,03-18,State Senate,9,,Write-ins,9,11,2
+Douglas,03-19,State Senate,9,,Write-ins,1,4,3
+Douglas,03-20,State Senate,9,,Write-ins,2,2,0
+Douglas,03-02,State Senate,9,,Over Votes,0,0,0
+Douglas,03-07,State Senate,9,,Over Votes,0,0,0
+Douglas,03-08,State Senate,9,,Over Votes,0,0,0
+Douglas,03-09,State Senate,9,,Over Votes,0,1,1
+Douglas,03-10,State Senate,9,,Over Votes,0,0,0
+Douglas,03-12,State Senate,9,,Over Votes,0,0,0
+Douglas,03-14,State Senate,9,,Over Votes,0,0,0
+Douglas,03-15,State Senate,9,,Over Votes,3,3,0
+Douglas,03-16,State Senate,9,,Over Votes,0,0,0
+Douglas,03-17,State Senate,9,,Over Votes,0,0,0
+Douglas,03-18,State Senate,9,,Over Votes,0,1,1
+Douglas,03-19,State Senate,9,,Over Votes,1,1,0
+Douglas,03-20,State Senate,9,,Over Votes,1,1,0
+Douglas,03-02,State Senate,9,,Under Votes,73,100,27
+Douglas,03-07,State Senate,9,,Under Votes,118,180,62
+Douglas,03-08,State Senate,9,,Under Votes,70,111,41
+Douglas,03-09,State Senate,9,,Under Votes,122,167,45
+Douglas,03-10,State Senate,9,,Under Votes,48,75,27
+Douglas,03-12,State Senate,9,,Under Votes,61,75,14
+Douglas,03-14,State Senate,9,,Under Votes,100,142,42
+Douglas,03-15,State Senate,9,,Under Votes,122,163,41
+Douglas,03-16,State Senate,9,,Under Votes,184,260,76
+Douglas,03-17,State Senate,9,,Under Votes,106,141,35
+Douglas,03-18,State Senate,9,,Under Votes,72,90,18
+Douglas,03-19,State Senate,9,,Under Votes,102,135,33
+Douglas,03-20,State Senate,9,,Under Votes,71,98,27
+Douglas,02-04,State Senate,11,,Ernie Chambers,398,552,154
+Douglas,02-05,State Senate,11,,Ernie Chambers,318,483,165
+Douglas,02-06,State Senate,11,,Ernie Chambers,386,534,148
+Douglas,02-08,State Senate,11,,Ernie Chambers,353,531,178
+Douglas,02-09,State Senate,11,,Ernie Chambers,403,637,234
+Douglas,02-10,State Senate,11,,Ernie Chambers,427,606,179
+Douglas,02-13,State Senate,11,,Ernie Chambers,301,468,167
+Douglas,02-15,State Senate,11,,Ernie Chambers,514,722,208
+Douglas,02-16,State Senate,11,,Ernie Chambers,383,581,198
+Douglas,02-17,State Senate,11,,Ernie Chambers,372,533,161
+Douglas,02-19,State Senate,11,,Ernie Chambers,330,509,179
+Douglas,02-20,State Senate,11,,Ernie Chambers,308,494,186
+Douglas,02-21,State Senate,11,,Ernie Chambers,429,633,204
+Douglas,02-22,State Senate,11,,Ernie Chambers,274,434,160
+Douglas,03-01,State Senate,11,,Ernie Chambers,38,46,8
+Douglas,02-04,State Senate,11,,John Sciara,94,146,52
+Douglas,02-05,State Senate,11,,John Sciara,98,135,37
+Douglas,02-06,State Senate,11,,John Sciara,113,174,61
+Douglas,02-08,State Senate,11,,John Sciara,76,134,58
+Douglas,02-09,State Senate,11,,John Sciara,42,62,20
+Douglas,02-10,State Senate,11,,John Sciara,61,88,27
+Douglas,02-13,State Senate,11,,John Sciara,51,83,32
+Douglas,02-15,State Senate,11,,John Sciara,87,119,32
+Douglas,02-16,State Senate,11,,John Sciara,93,142,49
+Douglas,02-17,State Senate,11,,John Sciara,174,245,71
+Douglas,02-19,State Senate,11,,John Sciara,100,144,44
+Douglas,02-20,State Senate,11,,John Sciara,61,109,48
+Douglas,02-21,State Senate,11,,John Sciara,48,68,20
+Douglas,02-22,State Senate,11,,John Sciara,33,54,21
+Douglas,03-01,State Senate,11,,John Sciara,19,23,4
+Douglas,02-04,State Senate,11,,Write-ins,4,5,1
+Douglas,02-05,State Senate,11,,Write-ins,4,6,2
+Douglas,02-06,State Senate,11,,Write-ins,2,2,0
+Douglas,02-08,State Senate,11,,Write-ins,2,3,1
+Douglas,02-09,State Senate,11,,Write-ins,2,4,2
+Douglas,02-10,State Senate,11,,Write-ins,1,4,3
+Douglas,02-13,State Senate,11,,Write-ins,1,1,0
+Douglas,02-15,State Senate,11,,Write-ins,2,3,1
+Douglas,02-16,State Senate,11,,Write-ins,2,3,1
+Douglas,02-17,State Senate,11,,Write-ins,6,6,0
+Douglas,02-19,State Senate,11,,Write-ins,6,6,0
+Douglas,02-20,State Senate,11,,Write-ins,1,2,1
+Douglas,02-21,State Senate,11,,Write-ins,3,5,2
+Douglas,02-22,State Senate,11,,Write-ins,3,5,2
+Douglas,03-01,State Senate,11,,Write-ins,0,0,0
+Douglas,02-04,State Senate,11,,Over Votes,0,1,1
+Douglas,02-05,State Senate,11,,Over Votes,0,1,1
+Douglas,02-06,State Senate,11,,Over Votes,0,0,0
+Douglas,02-08,State Senate,11,,Over Votes,1,1,0
+Douglas,02-09,State Senate,11,,Over Votes,0,0,0
+Douglas,02-10,State Senate,11,,Over Votes,1,1,0
+Douglas,02-13,State Senate,11,,Over Votes,0,0,0
+Douglas,02-15,State Senate,11,,Over Votes,0,0,0
+Douglas,02-16,State Senate,11,,Over Votes,0,1,1
+Douglas,02-17,State Senate,11,,Over Votes,1,1,0
+Douglas,02-19,State Senate,11,,Over Votes,1,1,0
+Douglas,02-20,State Senate,11,,Over Votes,0,2,2
+Douglas,02-21,State Senate,11,,Over Votes,2,2,0
+Douglas,02-22,State Senate,11,,Over Votes,0,2,2
+Douglas,03-01,State Senate,11,,Over Votes,0,0,0
+Douglas,02-04,State Senate,11,,Under Votes,31,40,9
+Douglas,02-05,State Senate,11,,Under Votes,31,46,15
+Douglas,02-06,State Senate,11,,Under Votes,23,36,13
+Douglas,02-08,State Senate,11,,Under Votes,29,41,12
+Douglas,02-09,State Senate,11,,Under Votes,25,33,8
+Douglas,02-10,State Senate,11,,Under Votes,27,39,12
+Douglas,02-13,State Senate,11,,Under Votes,19,25,6
+Douglas,02-15,State Senate,11,,Under Votes,62,80,18
+Douglas,02-16,State Senate,11,,Under Votes,28,35,7
+Douglas,02-17,State Senate,11,,Under Votes,48,59,11
+Douglas,02-19,State Senate,11,,Under Votes,27,34,7
+Douglas,02-20,State Senate,11,,Under Votes,32,40,8
+Douglas,02-21,State Senate,11,,Under Votes,34,39,5
+Douglas,02-22,State Senate,11,,Under Votes,29,36,7
+Douglas,03-01,State Senate,11,,Under Votes,17,18,1
+Douglas,01-01,State Senate,13,,Jill Brown,374,590,216
+Douglas,01-02,State Senate,13,,Jill Brown,262,423,161
+Douglas,01-03,State Senate,13,,Jill Brown,341,725,384
+Douglas,01-04,State Senate,13,,Jill Brown,226,442,216
+Douglas,01-06,State Senate,13,,Jill Brown,302,477,175
+Douglas,02-01,State Senate,13,,Jill Brown,289,430,141
+Douglas,02-02,State Senate,13,,Jill Brown,269,374,105
+Douglas,02-03,State Senate,13,,Jill Brown,266,433,167
+Douglas,02-07,State Senate,13,,Jill Brown,167,283,116
+Douglas,02-11,State Senate,13,,Jill Brown,262,418,156
+Douglas,02-12,State Senate,13,,Jill Brown,300,466,166
+Douglas,02-23,State Senate,13,,Jill Brown,199,286,87
+Douglas,08-07,State Senate,13,,Jill Brown,240,353,113
+Douglas,08-08,State Senate,13,,Jill Brown,102,175,73
+Douglas,08-09,State Senate,13,,Jill Brown,160,333,173
+Douglas,08-10,State Senate,13,,Jill Brown,234,397,163
+Douglas,01-01,State Senate,13,,Justin Wayne,426,570,144
+Douglas,01-02,State Senate,13,,Justin Wayne,198,290,92
+Douglas,01-03,State Senate,13,,Justin Wayne,401,678,277
+Douglas,01-04,State Senate,13,,Justin Wayne,353,570,217
+Douglas,01-06,State Senate,13,,Justin Wayne,394,547,153
+Douglas,02-01,State Senate,13,,Justin Wayne,277,373,96
+Douglas,02-02,State Senate,13,,Justin Wayne,291,391,100
+Douglas,02-03,State Senate,13,,Justin Wayne,374,571,197
+Douglas,02-07,State Senate,13,,Justin Wayne,271,385,114
+Douglas,02-11,State Senate,13,,Justin Wayne,367,533,166
+Douglas,02-12,State Senate,13,,Justin Wayne,396,528,132
+Douglas,02-23,State Senate,13,,Justin Wayne,290,404,114
+Douglas,08-07,State Senate,13,,Justin Wayne,213,281,68
+Douglas,08-08,State Senate,13,,Justin Wayne,86,150,64
+Douglas,08-09,State Senate,13,,Justin Wayne,155,274,119
+Douglas,08-10,State Senate,13,,Justin Wayne,262,375,113
+Douglas,01-01,State Senate,13,,Write-ins,10,10,0
+Douglas,01-02,State Senate,13,,Write-ins,4,6,2
+Douglas,01-03,State Senate,13,,Write-ins,3,5,2
+Douglas,01-04,State Senate,13,,Write-ins,2,3,1
+Douglas,01-06,State Senate,13,,Write-ins,3,3,0
+Douglas,02-01,State Senate,13,,Write-ins,2,4,2
+Douglas,02-02,State Senate,13,,Write-ins,9,10,1
+Douglas,02-03,State Senate,13,,Write-ins,6,7,1
+Douglas,02-07,State Senate,13,,Write-ins,3,4,1
+Douglas,02-11,State Senate,13,,Write-ins,6,7,1
+Douglas,02-12,State Senate,13,,Write-ins,9,12,3
+Douglas,02-23,State Senate,13,,Write-ins,3,4,1
+Douglas,08-07,State Senate,13,,Write-ins,1,1,0
+Douglas,08-08,State Senate,13,,Write-ins,1,3,2
+Douglas,08-09,State Senate,13,,Write-ins,2,4,2
+Douglas,08-10,State Senate,13,,Write-ins,2,5,3
+Douglas,01-01,State Senate,13,,Over Votes,0,0,0
+Douglas,01-02,State Senate,13,,Over Votes,0,1,1
+Douglas,01-03,State Senate,13,,Over Votes,2,2,0
+Douglas,01-04,State Senate,13,,Over Votes,0,2,2
+Douglas,01-06,State Senate,13,,Over Votes,0,2,2
+Douglas,02-01,State Senate,13,,Over Votes,1,2,1
+Douglas,02-02,State Senate,13,,Over Votes,2,2,0
+Douglas,02-03,State Senate,13,,Over Votes,1,1,0
+Douglas,02-07,State Senate,13,,Over Votes,0,1,1
+Douglas,02-11,State Senate,13,,Over Votes,0,3,3
+Douglas,02-12,State Senate,13,,Over Votes,2,2,0
+Douglas,02-23,State Senate,13,,Over Votes,1,2,1
+Douglas,08-07,State Senate,13,,Over Votes,0,1,1
+Douglas,08-08,State Senate,13,,Over Votes,1,1,0
+Douglas,08-09,State Senate,13,,Over Votes,0,0,0
+Douglas,08-10,State Senate,13,,Over Votes,0,0,0
+Douglas,01-01,State Senate,13,,Under Votes,77,107,30
+Douglas,01-02,State Senate,13,,Under Votes,40,62,22
+Douglas,01-03,State Senate,13,,Under Votes,60,116,56
+Douglas,01-04,State Senate,13,,Under Votes,52,105,53
+Douglas,01-06,State Senate,13,,Under Votes,72,111,39
+Douglas,02-01,State Senate,13,,Under Votes,43,56,13
+Douglas,02-02,State Senate,13,,Under Votes,54,71,17
+Douglas,02-03,State Senate,13,,Under Votes,36,78,42
+Douglas,02-07,State Senate,13,,Under Votes,22,30,8
+Douglas,02-11,State Senate,13,,Under Votes,46,68,22
+Douglas,02-12,State Senate,13,,Under Votes,58,75,17
+Douglas,02-23,State Senate,13,,Under Votes,42,48,6
+Douglas,08-07,State Senate,13,,Under Votes,69,92,23
+Douglas,08-08,State Senate,13,,Under Votes,28,44,16
+Douglas,08-09,State Senate,13,,Under Votes,34,64,30
+Douglas,08-10,State Senate,13,,Under Votes,67,100,33
+Douglas,05-12,State Senate,31,,Rick Kolowski,397,613,216
+Douglas,05-13,State Senate,31,,Rick Kolowski,420,740,320
+Douglas,05-14,State Senate,31,,Rick Kolowski,401,638,237
+Douglas,05-15,State Senate,31,,Rick Kolowski,352,593,241
+Douglas,05-16,State Senate,31,,Rick Kolowski,375,590,215
+Douglas,05-17,State Senate,31,,Rick Kolowski,244,429,185
+Douglas,05-19,State Senate,31,,Rick Kolowski,313,525,212
+Douglas,05-26,State Senate,31,,Rick Kolowski,256,381,125
+Douglas,05-27,State Senate,31,,Rick Kolowski,248,413,165
+Douglas,05-30,State Senate,31,,Rick Kolowski,484,811,327
+Douglas,05-31,State Senate,31,,Rick Kolowski,208,396,188
+Douglas,06-18,State Senate,31,,Rick Kolowski,67,127,60
+Douglas,06-19,State Senate,31,,Rick Kolowski,274,534,260
+Douglas,06-20,State Senate,31,,Rick Kolowski,363,550,187
+Douglas,06-21,State Senate,31,,Rick Kolowski,317,571,254
+Douglas,08-31,State Senate,31,,Rick Kolowski,275,406,131
+Douglas,08-35,State Senate,31,,Rick Kolowski,183,247,64
+Douglas,08-36,State Senate,31,,Rick Kolowski,327,551,224
+Douglas,08-37,State Senate,31,,Rick Kolowski,387,647,260
+Douglas,05-12,State Senate,31,,Ian M. Swanson,348,489,141
+Douglas,05-13,State Senate,31,,Ian M. Swanson,499,737,238
+Douglas,05-14,State Senate,31,,Ian M. Swanson,431,613,182
+Douglas,05-15,State Senate,31,,Ian M. Swanson,366,541,175
+Douglas,05-16,State Senate,31,,Ian M. Swanson,375,525,150
+Douglas,05-17,State Senate,31,,Ian M. Swanson,319,459,140
+Douglas,05-19,State Senate,31,,Ian M. Swanson,303,440,137
+Douglas,05-26,State Senate,31,,Ian M. Swanson,237,317,80
+Douglas,05-27,State Senate,31,,Ian M. Swanson,275,393,118
+Douglas,05-30,State Senate,31,,Ian M. Swanson,433,683,250
+Douglas,05-31,State Senate,31,,Ian M. Swanson,245,400,155
+Douglas,06-18,State Senate,31,,Ian M. Swanson,94,159,65
+Douglas,06-19,State Senate,31,,Ian M. Swanson,480,708,228
+Douglas,06-20,State Senate,31,,Ian M. Swanson,467,619,152
+Douglas,06-21,State Senate,31,,Ian M. Swanson,409,606,197
+Douglas,08-31,State Senate,31,,Ian M. Swanson,207,298,91
+Douglas,08-35,State Senate,31,,Ian M. Swanson,140,183,43
+Douglas,08-36,State Senate,31,,Ian M. Swanson,277,394,117
+Douglas,08-37,State Senate,31,,Ian M. Swanson,266,421,155
+Douglas,05-12,State Senate,31,,Write-ins,1,2,1
+Douglas,05-13,State Senate,31,,Write-ins,2,2,0
+Douglas,05-14,State Senate,31,,Write-ins,2,2,0
+Douglas,05-15,State Senate,31,,Write-ins,2,4,2
+Douglas,05-16,State Senate,31,,Write-ins,4,5,1
+Douglas,05-17,State Senate,31,,Write-ins,0,0,0
+Douglas,05-19,State Senate,31,,Write-ins,3,3,0
+Douglas,05-26,State Senate,31,,Write-ins,0,0,0
+Douglas,05-27,State Senate,31,,Write-ins,0,0,0
+Douglas,05-30,State Senate,31,,Write-ins,0,2,2
+Douglas,05-31,State Senate,31,,Write-ins,0,0,0
+Douglas,06-18,State Senate,31,,Write-ins,1,2,1
+Douglas,06-19,State Senate,31,,Write-ins,2,3,1
+Douglas,06-20,State Senate,31,,Write-ins,4,5,1
+Douglas,06-21,State Senate,31,,Write-ins,1,1,0
+Douglas,08-31,State Senate,31,,Write-ins,0,3,3
+Douglas,08-35,State Senate,31,,Write-ins,3,4,1
+Douglas,08-36,State Senate,31,,Write-ins,0,0,0
+Douglas,08-37,State Senate,31,,Write-ins,2,3,1
+Douglas,05-12,State Senate,31,,Over Votes,0,0,0
+Douglas,05-13,State Senate,31,,Over Votes,0,0,0
+Douglas,05-14,State Senate,31,,Over Votes,1,1,0
+Douglas,05-15,State Senate,31,,Over Votes,1,1,0
+Douglas,05-16,State Senate,31,,Over Votes,1,1,0
+Douglas,05-17,State Senate,31,,Over Votes,0,0,0
+Douglas,05-19,State Senate,31,,Over Votes,0,0,0
+Douglas,05-26,State Senate,31,,Over Votes,1,1,0
+Douglas,05-27,State Senate,31,,Over Votes,1,1,0
+Douglas,05-30,State Senate,31,,Over Votes,0,0,0
+Douglas,05-31,State Senate,31,,Over Votes,0,0,0
+Douglas,06-18,State Senate,31,,Over Votes,0,0,0
+Douglas,06-19,State Senate,31,,Over Votes,0,0,0
+Douglas,06-20,State Senate,31,,Over Votes,1,1,0
+Douglas,06-21,State Senate,31,,Over Votes,0,0,0
+Douglas,08-31,State Senate,31,,Over Votes,0,0,0
+Douglas,08-35,State Senate,31,,Over Votes,0,0,0
+Douglas,08-36,State Senate,31,,Over Votes,1,3,2
+Douglas,08-37,State Senate,31,,Over Votes,0,1,1
+Douglas,05-13,State Senate,31,,Under Votes,85,140,55
+Douglas,05-14,State Senate,31,,Under Votes,87,153,66
+Douglas,05-15,State Senate,31,,Under Votes,68,122,54
+Douglas,05-16,State Senate,31,,Under Votes,68,106,38
+Douglas,05-17,State Senate,31,,Under Votes,44,108,64
+Douglas,05-19,State Senate,31,,Under Votes,56,80,24
+Douglas,05-26,State Senate,31,,Under Votes,72,86,14
+Douglas,05-27,State Senate,31,,Under Votes,40,94,54
+Douglas,05-30,State Senate,31,,Under Votes,94,64,-30
+Douglas,05-31,State Senate,31,,Under Votes,41,159,118
+Douglas,06-18,State Senate,31,,Under Votes,24,71,47
+Douglas,06-19,State Senate,31,,Under Votes,71,35,-36
+Douglas,06-20,State Senate,31,,Under Votes,73,118,45
+Douglas,06-21,State Senate,31,,Under Votes,87,110,23
+Douglas,08-31,State Senate,31,,Under Votes,61,169,108
+Douglas,08-35,State Senate,31,,Under Votes,46,81,35
+Douglas,08-36,State Senate,31,,Under Votes,64,58,-6
+Douglas,08-37,State Senate,31,,Under Votes,51,97,46
+Douglas,Early Voting,State Senate,31,,Under Votes,700,81,-619
+Douglas,05-20,State Senate,39,,Lou Ann Linehan,379,595,216
+Douglas,05-21,State Senate,39,,Lou Ann Linehan,331,483,152
+Douglas,05-22,State Senate,39,,Lou Ann Linehan,449,602,153
+Douglas,05-32,State Senate,39,,Lou Ann Linehan,67,117,50
+Douglas,06-22,State Senate,39,,Lou Ann Linehan,317,563,246
+Douglas,06-23,State Senate,39,,Lou Ann Linehan,286,380,94
+Douglas,06-24,State Senate,39,,Lou Ann Linehan,367,510,143
+Douglas,08-39,State Senate,39,,Lou Ann Linehan,394,600,206
+Douglas,08-40,State Senate,39,,Lou Ann Linehan,442,671,229
+Douglas,08-41,State Senate,39,,Lou Ann Linehan,332,527,195
+Douglas,08-42,State Senate,39,,Lou Ann Linehan,543,923,380
+Douglas,08-43,State Senate,39,,Lou Ann Linehan,335,549,214
+Douglas,08-44,State Senate,39,,Lou Ann Linehan,350,504,154
+Douglas,08-45,State Senate,39,,Lou Ann Linehan,409,682,273
+Douglas,08-46,State Senate,39,,Lou Ann Linehan,471,709,238
+Douglas,08-47,State Senate,39,,Lou Ann Linehan,525,827,302
+Douglas,08-48,State Senate,39,,Lou Ann Linehan,289,503,214
+Douglas,08-49,State Senate,39,,Lou Ann Linehan,291,451,160
+Douglas,08-53,State Senate,39,,Lou Ann Linehan,336,520,184
+Douglas,08-54,State Senate,39,,Lou Ann Linehan,262,430,168
+Douglas,08-55,State Senate,39,,Lou Ann Linehan,368,583,215
+Douglas,05-20,State Senate,39,,Bill Armbrust,232,353,121
+Douglas,05-21,State Senate,39,,Bill Armbrust,232,363,131
+Douglas,05-22,State Senate,39,,Bill Armbrust,326,488,162
+Douglas,05-32,State Senate,39,,Bill Armbrust,52,93,41
+Douglas,06-22,State Senate,39,,Bill Armbrust,161,287,126
+Douglas,06-23,State Senate,39,,Bill Armbrust,340,463,123
+Douglas,06-24,State Senate,39,,Bill Armbrust,400,552,152
+Douglas,08-39,State Senate,39,,Bill Armbrust,383,544,161
+Douglas,08-40,State Senate,39,,Bill Armbrust,389,556,167
+Douglas,08-41,State Senate,39,,Bill Armbrust,295,448,153
+Douglas,08-42,State Senate,39,,Bill Armbrust,330,596,266
+Douglas,08-43,State Senate,39,,Bill Armbrust,275,477,202
+Douglas,08-44,State Senate,39,,Bill Armbrust,257,395,138
+Douglas,08-45,State Senate,39,,Bill Armbrust,272,485,213
+Douglas,08-46,State Senate,39,,Bill Armbrust,460,688,228
+Douglas,08-47,State Senate,39,,Bill Armbrust,569,900,331
+Douglas,08-48,State Senate,39,,Bill Armbrust,210,364,154
+Douglas,08-49,State Senate,39,,Bill Armbrust,290,416,126
+Douglas,08-53,State Senate,39,,Bill Armbrust,273,414,141
+Douglas,08-54,State Senate,39,,Bill Armbrust,276,421,145
+Douglas,08-55,State Senate,39,,Bill Armbrust,229,343,114
+Douglas,05-20,State Senate,39,,Write-ins,5,5,0
+Douglas,05-21,State Senate,39,,Write-ins,2,3,1
+Douglas,05-22,State Senate,39,,Write-ins,1,2,1
+Douglas,05-32,State Senate,39,,Write-ins,0,1,1
+Douglas,06-22,State Senate,39,,Write-ins,1,1,0
+Douglas,06-23,State Senate,39,,Write-ins,7,8,1
+Douglas,06-24,State Senate,39,,Write-ins,0,10,10
+Douglas,08-39,State Senate,39,,Write-ins,3,3,0
+Douglas,08-40,State Senate,39,,Write-ins,3,3,0
+Douglas,08-41,State Senate,39,,Write-ins,2,2,0
+Douglas,08-42,State Senate,39,,Write-ins,4,7,3
+Douglas,08-43,State Senate,39,,Write-ins,4,5,1
+Douglas,08-44,State Senate,39,,Write-ins,5,6,1
+Douglas,08-45,State Senate,39,,Write-ins,3,3,0
+Douglas,08-46,State Senate,39,,Write-ins,6,8,2
+Douglas,08-47,State Senate,39,,Write-ins,6,10,4
+Douglas,08-48,State Senate,39,,Write-ins,3,3,0
+Douglas,08-49,State Senate,39,,Write-ins,5,6,1
+Douglas,08-53,State Senate,39,,Write-ins,0,0,0
+Douglas,08-54,State Senate,39,,Write-ins,2,2,0
+Douglas,08-55,State Senate,39,,Write-ins,0,2,2
+Douglas,05-20,State Senate,39,,Over Votes,0,1,1
+Douglas,05-21,State Senate,39,,Over Votes,0,0,0
+Douglas,05-22,State Senate,39,,Over Votes,0,1,1
+Douglas,05-32,State Senate,39,,Over Votes,0,0,0
+Douglas,06-22,State Senate,39,,Over Votes,0,0,0
+Douglas,06-23,State Senate,39,,Over Votes,1,2,1
+Douglas,06-24,State Senate,39,,Over Votes,0,0,0
+Douglas,08-39,State Senate,39,,Over Votes,2,2,0
+Douglas,08-40,State Senate,39,,Over Votes,1,1,0
+Douglas,08-41,State Senate,39,,Over Votes,0,2,2
+Douglas,08-42,State Senate,39,,Over Votes,1,1,0
+Douglas,08-43,State Senate,39,,Over Votes,1,1,0
+Douglas,08-44,State Senate,39,,Over Votes,1,1,0
+Douglas,08-45,State Senate,39,,Over Votes,1,1,0
+Douglas,08-46,State Senate,39,,Over Votes,1,1,0
+Douglas,08-47,State Senate,39,,Over Votes,2,2,0
+Douglas,08-48,State Senate,39,,Over Votes,1,2,1
+Douglas,08-49,State Senate,39,,Over Votes,0,0,0
+Douglas,08-53,State Senate,39,,Over Votes,1,1,0
+Douglas,08-54,State Senate,39,,Over Votes,0,0,0
+Douglas,08-55,State Senate,39,,Over Votes,1,1,0
+Douglas,05-20,State Senate,39,,Under Votes,130,207,77
+Douglas,05-21,State Senate,39,,Under Votes,111,155,44
+Douglas,05-22,State Senate,39,,Under Votes,142,188,46
+Douglas,05-32,State Senate,39,,Under Votes,29,51,22
+Douglas,06-22,State Senate,39,,Under Votes,114,188,74
+Douglas,06-23,State Senate,39,,Under Votes,98,135,37
+Douglas,06-24,State Senate,39,,Under Votes,113,147,34
+Douglas,08-39,State Senate,39,,Under Votes,133,206,73
+Douglas,08-40,State Senate,39,,Under Votes,148,210,62
+Douglas,08-41,State Senate,39,,Under Votes,121,159,38
+Douglas,08-42,State Senate,39,,Under Votes,173,309,136
+Douglas,08-43,State Senate,39,,Under Votes,174,261,87
+Douglas,08-44,State Senate,39,,Under Votes,142,197,55
+Douglas,08-45,State Senate,39,,Under Votes,147,220,73
+Douglas,08-46,State Senate,39,,Under Votes,218,322,104
+Douglas,08-47,State Senate,39,,Under Votes,249,345,96
+Douglas,08-48,State Senate,39,,Under Votes,105,182,77
+Douglas,08-49,State Senate,39,,Under Votes,107,163,56
+Douglas,08-53,State Senate,39,,Under Votes,155,225,70
+Douglas,08-54,State Senate,39,,Under Votes,136,194,58
+Douglas,08-55,State Senate,39,,Under Votes,144,209,65

@@ -1,0 +1,161 @@
+county,precinct,office,district,party,candidate,votes
+Custer,Mason City,President,,Republican,Donald J. Trump,165
+Custer,Arnold,President,,Republican,Donald J. Trump,358
+Custer,Broken Bow North,President,,Republican,Donald J. Trump,108
+Custer,Broken Bow North Rural,President,,Republican,Donald J. Trump,173
+Custer,Broken Bow South,President,,Republican,Donald J. Trump,395
+Custer,Broken Bow Southwest,President,,Republican,Donald J. Trump,176
+Custer,Berwyn,President,,Republican,Donald J. Trump,81
+Custer,Custer,President,,Republican,Donald J. Trump,39
+Custer,East Custer,President,,Republican,Donald J. Trump,21
+Custer,Cliff,President,,Republican,Donald J. Trump,65
+Custer,Comstock,President,,Republican,Donald J. Trump,50
+Custer,Douglas Grove,President,,Republican,Donald J. Trump,36
+Custer,Spring Creek,President,,Republican,Donald J. Trump,7
+Custer,Delight,President,,Republican,Donald J. Trump,310
+Custer,Elim,President,,Republican,Donald J. Trump,60
+Custer,Triumph,President,,Republican,Donald J. Trump,54
+Custer,Garfield,President,,Republican,Donald J. Trump,47
+Custer,Grant,President,,Republican,Donald J. Trump,17
+Custer,Kilfoil,President,,Republican,Donald J. Trump,260
+Custer,Loup,President,,Republican,Donald J. Trump,51
+Custer,Lillian/Milburn,President,,Republican,Donald J. Trump,74
+Custer,Corner/Sargent Rural,President,,Republican,Donald J. Trump,66
+Custer,West Union,President,,Republican,Donald J. Trump,26
+Custer,Sargent Village,President,,Republican,Donald J. Trump,172
+Custer,Ryno,President,,Republican,Donald J. Trump,43
+Custer,Anselmo,President,,Republican,Donald J. Trump,169
+Custer,Woodriver,President,,Republican,Donald J. Trump,121
+Custer,Wayne,President,,Republican,Donald J. Trump,49
+Custer,Broken Bow Northwest,President,,Republican,Donald J. Trump,334
+Custer,Broken Bow South Rural,President,,Republican,Donald J. Trump,158
+Custer,Absentee,President,,Republican,Donald J. Trump,708
+Custer,Total,President,,Republican,Donald J. Trump,4695
+Custer,Mason City,President,,Democratic,Hillary Clinton,19
+Custer,Arnold,President,,Democratic,Hillary Clinton,29
+Custer,Broken Bow North,President,,Democratic,Hillary Clinton,33
+Custer,Broken Bow North Rural,President,,Democratic,Hillary Clinton,9
+Custer,Broken Bow South,President,,Democratic,Hillary Clinton,69
+Custer,Broken Bow Southwest,President,,Democratic,Hillary Clinton,35
+Custer,Berwyn,President,,Democratic,Hillary Clinton,10
+Custer,Custer,President,,Democratic,Hillary Clinton,6
+Custer,East Custer,President,,Democratic,Hillary Clinton,0
+Custer,Cliff,President,,Democratic,Hillary Clinton,3
+Custer,Comstock,President,,Democratic,Hillary Clinton,14
+Custer,Douglas Grove,President,,Democratic,Hillary Clinton,5
+Custer,Spring Creek,President,,Democratic,Hillary Clinton,1
+Custer,Delight,President,,Democratic,Hillary Clinton,28
+Custer,Elim,President,,Democratic,Hillary Clinton,1
+Custer,Triumph,President,,Democratic,Hillary Clinton,0
+Custer,Garfield,President,,Democratic,Hillary Clinton,3
+Custer,Grant,President,,Democratic,Hillary Clinton,3
+Custer,Kilfoil,President,,Democratic,Hillary Clinton,20
+Custer,Loup,President,,Democratic,Hillary Clinton,2
+Custer,Lillian/Milburn,President,,Democratic,Hillary Clinton,3
+Custer,Corner/Sargent Rural,President,,Democratic,Hillary Clinton,8
+Custer,West Union,President,,Democratic,Hillary Clinton,1
+Custer,Sargent Village,President,,Democratic,Hillary Clinton,28
+Custer,Ryno,President,,Democratic,Hillary Clinton,2
+Custer,Anselmo,President,,Democratic,Hillary Clinton,19
+Custer,Woodriver,President,,Democratic,Hillary Clinton,11
+Custer,Wayne,President,,Democratic,Hillary Clinton,3
+Custer,Broken Bow Northwest,President,,Democratic,Hillary Clinton,49
+Custer,Broken Bow South Rural,President,,Democratic,Hillary Clinton,13
+Custer,Absentee,President,,Democratic,Hillary Clinton,176
+Custer,Total,President,,Democratic,Hillary Clinton,603
+Custer,Mason City,President,,Libertarian,Gary Johnson,8
+Custer,Arnold,President,,Libertarian,Gary Johnson,8
+Custer,Broken Bow North,President,,Libertarian,Gary Johnson,5
+Custer,Broken Bow North Rural,President,,Libertarian,Gary Johnson,3
+Custer,Broken Bow South,President,,Libertarian,Gary Johnson,15
+Custer,Broken Bow Southwest,President,,Libertarian,Gary Johnson,5
+Custer,Berwyn,President,,Libertarian,Gary Johnson,4
+Custer,Custer,President,,Libertarian,Gary Johnson,4
+Custer,East Custer,President,,Libertarian,Gary Johnson,2
+Custer,Cliff,President,,Libertarian,Gary Johnson,0
+Custer,Comstock,President,,Libertarian,Gary Johnson,1
+Custer,Douglas Grove,President,,Libertarian,Gary Johnson,3
+Custer,Spring Creek,President,,Libertarian,Gary Johnson,1
+Custer,Delight,President,,Libertarian,Gary Johnson,15
+Custer,Elim,President,,Libertarian,Gary Johnson,0
+Custer,Triumph,President,,Libertarian,Gary Johnson,3
+Custer,Garfield,President,,Libertarian,Gary Johnson,1
+Custer,Grant,President,,Libertarian,Gary Johnson,0
+Custer,Kilfoil,President,,Libertarian,Gary Johnson,9
+Custer,Loup,President,,Libertarian,Gary Johnson,1
+Custer,Lillian/Milburn,President,,Libertarian,Gary Johnson,3
+Custer,Corner/Sargent Rural,President,,Libertarian,Gary Johnson,2
+Custer,West Union,President,,Libertarian,Gary Johnson,0
+Custer,Sargent Village,President,,Libertarian,Gary Johnson,10
+Custer,Ryno,President,,Libertarian,Gary Johnson,0
+Custer,Anselmo,President,,Libertarian,Gary Johnson,7
+Custer,Woodriver,President,,Libertarian,Gary Johnson,5
+Custer,Wayne,President,,Libertarian,Gary Johnson,0
+Custer,Broken Bow Northwest,President,,Libertarian,Gary Johnson,24
+Custer,Broken Bow South Rural,President,,Libertarian,Gary Johnson,2
+Custer,Absentee,President,,Libertarian,Gary Johnson,50
+Custer,Total,President,,Libertarian,Gary Johnson,191
+Custer,Mason City,President,,,Jill Stein,0
+Custer,Arnold,President,,,Jill Stein,5
+Custer,Broken Bow North,President,,,Jill Stein,3
+Custer,Broken Bow North Rural,President,,,Jill Stein,0
+Custer,Broken Bow South,President,,,Jill Stein,4
+Custer,Broken Bow Southwest,President,,,Jill Stein,1
+Custer,Berwyn,President,,,Jill Stein,0
+Custer,Custer,President,,,Jill Stein,1
+Custer,East Custer,President,,,Jill Stein,0
+Custer,Cliff,President,,,Jill Stein,0
+Custer,Comstock,President,,,Jill Stein,0
+Custer,Douglas Grove,President,,,Jill Stein,0
+Custer,Spring Creek,President,,,Jill Stein,0
+Custer,Delight,President,,,Jill Stein,2
+Custer,Elim,President,,,Jill Stein,0
+Custer,Triumph,President,,,Jill Stein,0
+Custer,Garfield,President,,,Jill Stein,0
+Custer,Grant,President,,,Jill Stein,0
+Custer,Kilfoil,President,,,Jill Stein,1
+Custer,Loup,President,,,Jill Stein,0
+Custer,Lillian/Milburn,President,,,Jill Stein,0
+Custer,Corner/Sargent Rural,President,,,Jill Stein,0
+Custer,West Union,President,,,Jill Stein,0
+Custer,Sargent Village,President,,,Jill Stein,3
+Custer,Ryno,President,,,Jill Stein,0
+Custer,Anselmo,President,,,Jill Stein,1
+Custer,Woodriver,President,,,Jill Stein,3
+Custer,Wayne,President,,,Jill Stein,0
+Custer,Broken Bow Northwest,President,,,Jill Stein,1
+Custer,Broken Bow South Rural,President,,,Jill Stein,0
+Custer,Absentee,President,,,Jill Stein,8
+Custer,Total,President,,,Jill Stein,33
+Custer,Mason City,U.S. House,3,Republican,Adrian Smith,186
+Custer,Arnold,U.S. House,3,Republican,Adrian Smith,370
+Custer,Broken Bow North,U.S. House,3,Republican,Adrian Smith,122
+Custer,Broken Bow North Rural,U.S. House,3,Republican,Adrian Smith,171
+Custer,Broken Bow South,U.S. House,3,Republican,Adrian Smith,428
+Custer,Broken Bow Southwest,U.S. House,3,Republican,Adrian Smith,198
+Custer,Berwyn,U.S. House,3,Republican,Adrian Smith,86
+Custer,Custer,U.S. House,3,Republican,Adrian Smith,46
+Custer,East Custer,U.S. House,3,Republican,Adrian Smith,20
+Custer,Cliff,U.S. House,3,Republican,Adrian Smith,59
+Custer,Comstock,U.S. House,3,Republican,Adrian Smith,48
+Custer,Douglas Grove,U.S. House,3,Republican,Adrian Smith,39
+Custer,Spring Creek,U.S. House,3,Republican,Adrian Smith,8
+Custer,Delight,U.S. House,3,Republican,Adrian Smith,317
+Custer,Elim,U.S. House,3,Republican,Adrian Smith,59
+Custer,Triumph,U.S. House,3,Republican,Adrian Smith,49
+Custer,Garfield,U.S. House,3,Republican,Adrian Smith,44
+Custer,Grant,U.S. House,3,Republican,Adrian Smith,15
+Custer,Kilfoil,U.S. House,3,Republican,Adrian Smith,262
+Custer,Loup,U.S. House,3,Republican,Adrian Smith,51
+Custer,Lillian/Milburn,U.S. House,3,Republican,Adrian Smith,70
+Custer,Corner/Sargent Rural,U.S. House,3,Republican,Adrian Smith,72
+Custer,West Union,U.S. House,3,Republican,Adrian Smith,27
+Custer,Sargent Village,U.S. House,3,Republican,Adrian Smith,188
+Custer,Ryno,U.S. House,3,Republican,Adrian Smith,37
+Custer,Anselmo,U.S. House,3,Republican,Adrian Smith,164
+Custer,Woodriver,U.S. House,3,Republican,Adrian Smith,127
+Custer,Wayne,U.S. House,3,Republican,Adrian Smith,50
+Custer,Broken Bow Northwest,U.S. House,3,Republican,Adrian Smith,367
+Custer,Broken Bow South Rural,U.S. House,3,Republican,Adrian Smith,152
+Custer,Absentee,U.S. House,3,Republican,Adrian Smith,804
+Custer,Total,U.S. House,3,Republican,Adrian Smith,4636

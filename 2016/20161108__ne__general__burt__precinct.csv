@@ -1,0 +1,111 @@
+county,precinct,office,district,party,candidate,votes
+Burt,Arizona-Riverside,Registered Voters,,,,288
+Burt,BellCreek-Oakland-Pershing,Registered Voters,,,,374
+Burt,Craig,Registered Voters,,,,353
+Burt,Decatur-Quinnebaugh,Registered Voters,,,,531
+Burt,Everett-Logan,Registered Voters,,,,284
+Burt,Lyons,Registered Voters,,,,596
+Burt,Oakland I,Registered Voters,,,,440
+Burt,Oakland II,Registered Voters,,,,440
+Burt,Silvercreek-Summit,Registered Voters,,,,396
+Burt,Tekamah I,Registered Voters,,,,616
+Burt,Tekamah II,Registered Voters,,,,618
+Burt,Total,Registered Voters,,,,4936
+Burt,Absentee,Ballots Cast,,,,566
+Burt,Arizona-Riverside,Ballots Cast,,,,170
+Burt,BellCreek-Oakland-Pershing,Ballots Cast,,,,246
+Burt,Craig,Ballots Cast,,,,222
+Burt,Decatur-Quinnebaugh,Ballots Cast,,,,334
+Burt,Everett-Logan,Ballots Cast,,,,174
+Burt,Lyons,Ballots Cast,,,,352
+Burt,Oakland I,Ballots Cast,,,,296
+Burt,Oakland II,Ballots Cast,,,,295
+Burt,Silvercreek-Summit,Ballots Cast,,,,244
+Burt,Tekamah I,Ballots Cast,,,,370
+Burt,Tekamah II,Ballots Cast,,,,356
+Burt,Provisional,Ballots Cast,,,,10
+Burt,Total,Ballots Cast,,,,3635
+Burt,Absentee,President,,REP,Donald J. Trump,315
+Burt,Arizona-Riverside,President,,REP,Donald J. Trump,107
+Burt,BellCreek-Oakland-Pershing,President,,REP,Donald J. Trump,198
+Burt,Craig,President,,REP,Donald J. Trump,154
+Burt,Decatur-Quinnebaugh,President,,REP,Donald J. Trump,184
+Burt,Everett-Logan,President,,REP,Donald J. Trump,133
+Burt,Lyons,President,,REP,Donald J. Trump,239
+Burt,Oakland I,President,,REP,Donald J. Trump,209
+Burt,Oakland II,President,,REP,Donald J. Trump,203
+Burt,Silvercreek-Summit,President,,REP,Donald J. Trump,173
+Burt,Tekamah I,President,,REP,Donald J. Trump,231
+Burt,Tekamah II,President,,REP,Donald J. Trump,214
+Burt,Provisional,President,,REP,Donald J. Trump,7
+Burt,Total,President,,REP,Donald J. Trump,2367
+Burt,Absentee,President,,DEM,Hillary Clinton,206
+Burt,Arizona-Riverside,President,,DEM,Hillary Clinton,45
+Burt,BellCreek-Oakland-Pershing,President,,DEM,Hillary Clinton,30
+Burt,Craig,President,,DEM,Hillary Clinton,40
+Burt,Decatur-Quinnebaugh,President,,DEM,Hillary Clinton,113
+Burt,Everett-Logan,President,,DEM,Hillary Clinton,30
+Burt,Lyons,President,,DEM,Hillary Clinton,86
+Burt,Oakland I,President,,DEM,Hillary Clinton,66
+Burt,Oakland II,President,,DEM,Hillary Clinton,54
+Burt,Silvercreek-Summit,President,,DEM,Hillary Clinton,51
+Burt,Tekamah I,President,,DEM,Hillary Clinton,108
+Burt,Tekamah II,President,,DEM,Hillary Clinton,99
+Burt,Provisional,President,,DEM,Hillary Clinton,2
+Burt,Total,President,,DEM,Hillary Clinton,930
+Burt,Absentee,President,,LIB,Gary Johnson,25
+Burt,Arizona-Riverside,President,,LIB,Gary Johnson,11
+Burt,BellCreek-Oakland-Pershing,President,,LIB,Gary Johnson,8
+Burt,Craig,President,,LIB,Gary Johnson,17
+Burt,Decatur-Quinnebaugh,President,,LIB,Gary Johnson,19
+Burt,Everett-Logan,President,,LIB,Gary Johnson,8
+Burt,Lyons,President,,LIB,Gary Johnson,11
+Burt,Oakland I,President,,LIB,Gary Johnson,9
+Burt,Oakland II,President,,LIB,Gary Johnson,22
+Burt,Silvercreek-Summit,President,,LIB,Gary Johnson,10
+Burt,Tekamah I,President,,LIB,Gary Johnson,21
+Burt,Tekamah II,President,,LIB,Gary Johnson,35
+Burt,Provisional,President,,LIB,Gary Johnson,1
+Burt,Total,President,,LIB,Gary Johnson,197
+Burt,Absentee,President,,,Jill Stein,4
+Burt,Arizona-Riverside,President,,,Jill Stein,3
+Burt,BellCreek-Oakland-Pershing,President,,,Jill Stein,4
+Burt,Craig,President,,,Jill Stein,3
+Burt,Decatur-Quinnebaugh,President,,,Jill Stein,2
+Burt,Everett-Logan,President,,,Jill Stein,1
+Burt,Lyons,President,,,Jill Stein,5
+Burt,Oakland I,President,,,Jill Stein,2
+Burt,Oakland II,President,,,Jill Stein,4
+Burt,Silvercreek-Summit,President,,,Jill Stein,6
+Burt,Tekamah I,President,,,Jill Stein,3
+Burt,Tekamah II,President,,,Jill Stein,2
+Burt,Provisional,President,,,Jill Stein,0
+Burt,Total,President,,,Jill Stein,39
+Burt,Absentee,U.S. House,1,REP,Jeff Fortenberry,369
+Burt,Arizona-Riverside,U.S. House,1,REP,Jeff Fortenberry,119
+Burt,BellCreek-Oakland-Pershing,U.S. House,1,REP,Jeff Fortenberry,208
+Burt,Craig,U.S. House,1,REP,Jeff Fortenberry,181
+Burt,Decatur-Quinnebaugh,U.S. House,1,REP,Jeff Fortenberry,199
+Burt,Everett-Logan,U.S. House,1,REP,Jeff Fortenberry,131
+Burt,Lyons,U.S. House,1,REP,Jeff Fortenberry,267
+Burt,Oakland I,U.S. House,1,REP,Jeff Fortenberry,230
+Burt,Oakland II,U.S. House,1,REP,Jeff Fortenberry,237
+Burt,Silvercreek-Summit,U.S. House,1,REP,Jeff Fortenberry,178
+Burt,Tekamah I,U.S. House,1,REP,Jeff Fortenberry,267
+Burt,Tekamah II,U.S. House,1,REP,Jeff Fortenberry,255
+Burt,Provisional,U.S. House,1,REP,Jeff Fortenberry,7
+Burt,Total,U.S. House,1,REP,Jeff Fortenberry,2648
+Burt,Absentee,U.S. House,1,DEM,Daniel M. Wik,153
+Burt,Arizona-Riverside,U.S. House,1,DEM,Daniel M. Wik,34
+Burt,BellCreek-Oakland-Pershing,U.S. House,1,DEM,Daniel M. Wik,25
+Burt,Craig,U.S. House,1,DEM,Daniel M. Wik,29
+Burt,Decatur-Quinnebaugh,U.S. House,1,DEM,Daniel M. Wik,104
+Burt,Everett-Logan,U.S. House,1,DEM,Daniel M. Wik,34
+Burt,Lyons,U.S. House,1,DEM,Daniel M. Wik,70
+Burt,Oakland I,U.S. House,1,DEM,Daniel M. Wik,49
+Burt,Oakland II,U.S. House,1,DEM,Daniel M. Wik,40
+Burt,Silvercreek-Summit,U.S. House,1,DEM,Daniel M. Wik,48
+Burt,Tekamah I,U.S. House,1,DEM,Daniel M. Wik,81
+Burt,Tekamah II,U.S. House,1,DEM,Daniel M. Wik,83
+Burt,Provisional,U.S. House,1,DEM,Daniel M. Wik,1
+Burt,Total,U.S. House,1,DEM,Daniel M. Wik,751

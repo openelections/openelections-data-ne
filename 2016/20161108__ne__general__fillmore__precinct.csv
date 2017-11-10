@@ -1,0 +1,78 @@
+county,precinct,office,district,party,candidate,votes
+Fillmore,Exeter 101,President,,REP,Donald J. Trump,189
+Fillmore,Fairmont 102,President,,REP,Donald J. Trump,183
+Fillmore,West Blue/Grafton/Bennett 103,President,,REP,Donald J. Trump,148
+Fillmore,South Geneva & Geneva 104,President,,REP,Donald J. Trump,295
+Fillmore,North Geneva 105,President,,REP,Donald J. Trump,246
+Fillmore,Madison 107,President,,REP,Donald J. Trump,172
+Fillmore,Liberty/Glengary/Franklin 108,President,,REP,Donald J. Trump,206
+Fillmore,Chelsea/Stanton/Belle Prairie 109,President,,REP,Donald J. Trump,134
+Fillmore,Momence/Bryant/Hamilton 110,President,,REP,Donald J. Trump,233
+Fillmore,Absentee,President,,REP,Donald J. Trump,324
+Fillmore,Total,President,,REP,Donald J. Trump,2130
+Fillmore,Exeter 101,President,,DEM,Hillary Clinton,70
+Fillmore,Fairmont 102,President,,DEM,Hillary Clinton,37
+Fillmore,West Blue/Grafton/Bennett 103,President,,DEM,Hillary Clinton,22
+Fillmore,South Geneva & Geneva 104,President,,DEM,Hillary Clinton,81
+Fillmore,North Geneva 105,President,,DEM,Hillary Clinton,83
+Fillmore,Madison 107,President,,DEM,Hillary Clinton,62
+Fillmore,Liberty/Glengary/Franklin 108,President,,DEM,Hillary Clinton,68
+Fillmore,Chelsea/Stanton/Belle Prairie 109,President,,DEM,Hillary Clinton,18
+Fillmore,Momence/Bryant/Hamilton 110,President,,DEM,Hillary Clinton,50
+Fillmore,Absentee,President,,DEM,Hillary Clinton,122
+Fillmore,Total,President,,DEM,Hillary Clinton,613
+Fillmore,Exeter 101,President,,LIB,Gary Johnson,16
+Fillmore,Fairmont 102,President,,LIB,Gary Johnson,20
+Fillmore,West Blue/Grafton/Bennett 103,President,,LIB,Gary Johnson,11
+Fillmore,South Geneva & Geneva 104,President,,LIB,Gary Johnson,16
+Fillmore,North Geneva 105,President,,LIB,Gary Johnson,20
+Fillmore,Madison 107,President,,LIB,Gary Johnson,17
+Fillmore,Liberty/Glengary/Franklin 108,President,,LIB,Gary Johnson,12
+Fillmore,Chelsea/Stanton/Belle Prairie 109,President,,LIB,Gary Johnson,9
+Fillmore,Momence/Bryant/Hamilton 110,President,,LIB,Gary Johnson,11
+Fillmore,Absentee,President,,LIB,Gary Johnson,19
+Fillmore,Total,President,,LIB,Gary Johnson,151
+Fillmore,Exeter 101,President,,,Jill Stein,1
+Fillmore,Fairmont 102,President,,,Jill Stein,4
+Fillmore,West Blue/Grafton/Bennett 103,President,,,Jill Stein,2
+Fillmore,South Geneva & Geneva 104,President,,,Jill Stein,2
+Fillmore,North Geneva 105,President,,,Jill Stein,2
+Fillmore,Madison 107,President,,,Jill Stein,3
+Fillmore,Liberty/Glengary/Franklin 108,President,,,Jill Stein,2
+Fillmore,Chelsea/Stanton/Belle Prairie 109,President,,,Jill Stein,1
+Fillmore,Momence/Bryant/Hamilton 110,President,,,Jill Stein,1
+Fillmore,Absentee,President,,,Jill Stein,3
+Fillmore,Total,President,,,Jill Stein,21
+Fillmore,Exeter 101,President,,,Write-ins,4
+Fillmore,Fairmont 102,President,,,Write-ins,2
+Fillmore,West Blue/Grafton/Bennett 103,President,,,Write-ins,
+Fillmore,South Geneva & Geneva 104,President,,,Write-ins,3
+Fillmore,North Geneva 105,President,,,Write-ins,7
+Fillmore,Madison 107,President,,,Write-ins,1
+Fillmore,Liberty/Glengary/Franklin 108,President,,,Write-ins,1
+Fillmore,Chelsea/Stanton/Belle Prairie 109,President,,,Write-ins,
+Fillmore,Momence/Bryant/Hamilton 110,President,,,Write-ins,2
+Fillmore,Absentee,President,,,Write-ins,6
+Fillmore,Total,President,,,Write-ins,26
+Fillmore,Exeter 101,U.S. House,3,REP,Adrian Smith,244
+Fillmore,Fairmont 102,U.S. House,3,REP,Adrian Smith,222
+Fillmore,West Blue/Grafton/Bennett 103,U.S. House,3,REP,Adrian Smith,170
+Fillmore,South Geneva & Geneva 104,U.S. House,3,REP,Adrian Smith,352
+Fillmore,North Geneva 105,U.S. House,3,REP,Adrian Smith,313
+Fillmore,Madison 107,U.S. House,3,REP,Adrian Smith,209
+Fillmore,Liberty/Glengary/Franklin 108,U.S. House,3,REP,Adrian Smith,230
+Fillmore,Chelsea/Stanton/Belle Prairie 109,U.S. House,3,REP,Adrian Smith,147
+Fillmore,Momence/Bryant/Hamilton 110,U.S. House,3,REP,Adrian Smith,262
+Fillmore,Absentee,U.S. House,3,REP,Adrian Smith,377
+Fillmore,Total,U.S. House,3,REP,Adrian Smith,2526
+Fillmore,Exeter 101,U.S. House,3,,Write-ins,4
+Fillmore,Fairmont 102,U.S. House,3,,Write-ins,3
+Fillmore,West Blue/Grafton/Bennett 103,U.S. House,3,,Write-ins,4
+Fillmore,South Geneva & Geneva 104,U.S. House,3,,Write-ins,3
+Fillmore,North Geneva 105,U.S. House,3,,Write-ins,3
+Fillmore,Madison 107,U.S. House,3,,Write-ins,4
+Fillmore,Liberty/Glengary/Franklin 108,U.S. House,3,,Write-ins,2
+Fillmore,Chelsea/Stanton/Belle Prairie 109,U.S. House,3,,Write-ins,2
+Fillmore,Momence/Bryant/Hamilton 110,U.S. House,3,,Write-ins,1
+Fillmore,Absentee,U.S. House,3,,Write-ins,10
+Fillmore,Total,U.S. House,3,,Write-ins,36

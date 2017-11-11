@@ -1,0 +1,71 @@
+county,precinct,office,district,party,candidate,votes
+Kimball,Early,President,,Rep,Donald J. Trump,277
+Kimball,1st Ward,President,,Rep,Donald J. Trump,364
+Kimball,2nd Ward,President,,Rep,Donald J. Trump,233
+Kimball,Antelope,President,,Rep,Donald J. Trump,207
+Kimball,Bushnell,President,,Rep,Donald J. Trump,100
+Kimball,Dix,President,,Rep,Donald J. Trump,149
+Kimball,Total,President,,Rep,Donald J. Trump,1330
+Kimball,Early,President,,Dem,Hillary Clinton,74
+Kimball,1st Ward,President,,Dem,Hillary Clinton,72
+Kimball,2nd Ward,President,,Dem,Hillary Clinton,33
+Kimball,Antelope,President,,Dem,Hillary Clinton,19
+Kimball,Bushnell,President,,Dem,Hillary Clinton,15
+Kimball,Dix,President,,Dem,Hillary Clinton,17
+Kimball,Total,President,,Dem,Hillary Clinton,230
+Kimball,Early,President,,Lib,Gary Johnson,21
+Kimball,1st Ward,President,,Lib,Gary Johnson,24
+Kimball,2nd Ward,President,,Lib,Gary Johnson,12
+Kimball,Antelope,President,,Lib,Gary Johnson,9
+Kimball,Bushnell,President,,Lib,Gary Johnson,8
+Kimball,Dix,President,,Lib,Gary Johnson,4
+Kimball,Total,President,,Lib,Gary Johnson,78
+Kimball,Early,President,,,Jill Stein,3
+Kimball,1st Ward,President,,,Jill Stein,7
+Kimball,2nd Ward,President,,,Jill Stein,3
+Kimball,Antelope,President,,,Jill Stein,3
+Kimball,Bushnell,President,,,Jill Stein,0
+Kimball,Dix,President,,,Jill Stein,2
+Kimball,Total,President,,,Jill Stein,18
+Kimball,Early,President,,,Write-ins,6
+Kimball,1st Ward,President,,,Write-ins,7
+Kimball,2nd Ward,President,,,Write-ins,6
+Kimball,Antelope,President,,,Write-ins,2
+Kimball,Bushnell,President,,,Write-ins,0
+Kimball,Dix,President,,,Write-ins,0
+Kimball,Total,President,,,Write-ins,21
+Kimball,Early,U.S. House,3,Rep,Adrian Smith,317
+Kimball,1st Ward,U.S. House,3,Rep,Adrian Smith,421
+Kimball,2nd Ward,U.S. House,3,Rep,Adrian Smith,259
+Kimball,Antelope,U.S. House,3,Rep,Adrian Smith,221
+Kimball,Bushnell,U.S. House,3,Rep,Adrian Smith,112
+Kimball,Dix,U.S. House,3,Rep,Adrian Smith,161
+Kimball,Total,U.S. House,3,Rep,Adrian Smith,1491
+Kimball,Early,U.S. House,3,,Write-ins,3
+Kimball,1st Ward,U.S. House,3,,Write-ins,5
+Kimball,2nd Ward,U.S. House,3,,Write-ins,5
+Kimball,Antelope,U.S. House,3,,Write-ins,5
+Kimball,Bushnell,U.S. House,3,,Write-ins,0
+Kimball,Dix,U.S. House,3,,Write-ins,0
+Kimball,Total,U.S. House,3,,Write-ins,18
+Kimball,Early,State Senate,47,,Karl Elmshaeuser,88
+Kimball,1st Ward,State Senate,47,,Karl Elmshaeuser,145
+Kimball,2nd Ward,State Senate,47,,Karl Elmshaeuser,68
+Kimball,Antelope,State Senate,47,,Karl Elmshaeuser,49
+Kimball,Bushnell,State Senate,47,,Karl Elmshaeuser,22
+Kimball,Dix,State Senate,47,,Karl Elmshaeuser,30
+Kimball,Total,State Senate,47,,Karl Elmshaeuser,402
+Kimball,Early,State Senate,47,,Steve Erdman,258
+Kimball,1st Ward,State Senate,47,,Steve Erdman,289
+Kimball,2nd Ward,State Senate,47,,Steve Erdman,200
+Kimball,Antelope,State Senate,47,,Steve Erdman,174
+Kimball,Bushnell,State Senate,47,,Steve Erdman,93
+Kimball,Dix,State Senate,47,,Steve Erdman,130
+Kimball,Total,State Senate,47,,Steve Erdman,1144
+Kimball,Early,State Senate,47,,Write-ins,2
+Kimball,1st Ward,State Senate,47,,Write-ins,0
+Kimball,2nd Ward,State Senate,47,,Write-ins,2
+Kimball,Antelope,State Senate,47,,Write-ins,1
+Kimball,Bushnell,State Senate,47,,Write-ins,1
+Kimball,Dix,State Senate,47,,Write-ins,0
+Kimball,Total,State Senate,47,,Write-ins,6

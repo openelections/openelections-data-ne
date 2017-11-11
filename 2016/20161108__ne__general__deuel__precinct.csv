@@ -1,0 +1,41 @@
+county,precinct,office,district,party,candidate,votes
+Deuel,Early,President,,Republican,Donald J. Trump,147
+Deuel,Chappell,President,,Republican,Donald J. Trump,216
+Deuel,Swan,President,,Republican,Donald J. Trump,223
+Deuel,Big Springs,President,,Republican,Donald J. Trump,223
+Deuel,Total,President,,Republican,Donald J. Trump,809
+Deuel,Early,President,,Democratic,Hillary Clinton,17
+Deuel,Chappell,President,,Democratic,Hillary Clinton,48
+Deuel,Swan,President,,Democratic,Hillary Clinton,26
+Deuel,Big Springs,President,,Democratic,Hillary Clinton,29
+Deuel,Total,President,,Democratic,Hillary Clinton,120
+Deuel,Early,President,,Libertarian,Gary Johnson,8
+Deuel,Chappell,President,,Libertarian,Gary Johnson,7
+Deuel,Swan,President,,Libertarian,Gary Johnson,12
+Deuel,Big Springs,President,,Libertarian,Gary Johnson,20
+Deuel,Total,President,,Libertarian,Gary Johnson,47
+Deuel,Early,President,,,Jill Stein,0
+Deuel,Chappell,President,,,Jill Stein,1
+Deuel,Swan,President,,,Jill Stein,0
+Deuel,Big Springs,President,,,Jill Stein,0
+Deuel,Total,President,,,Jill Stein,1
+Deuel,Early,President,,,Write-ins,1
+Deuel,Chappell,President,,,Write-ins,1
+Deuel,Swan,President,,,Write-ins,2
+Deuel,Big Springs,President,,,Write-ins,3
+Deuel,Total,President,,,Write-ins,7
+Deuel,Early,U.S. House,3,Republican,Adrian Smith,149
+Deuel,Chappell,U.S. House,3,Republican,Adrian Smith,239
+Deuel,Swan,U.S. House,3,Republican,Adrian Smith,239
+Deuel,Big Springs,U.S. House,3,Republican,Adrian Smith,249
+Deuel,Total,U.S. House,3,Republican,Adrian Smith,876
+Deuel,Early,State Senate,47,,Karl Elmshaeuser,31
+Deuel,Chappell,State Senate,47,,Karl Elmshaeuser,75
+Deuel,Swan,State Senate,47,,Karl Elmshaeuser,65
+Deuel,Big Springs,State Senate,47,,Karl Elmshaeuser,65
+Deuel,Total,State Senate,47,,Karl Elmshaeuser,236
+Deuel,Early,State Senate,47,,Steve Erdman,127
+Deuel,Chappell,State Senate,47,,Steve Erdman,178
+Deuel,Swan,State Senate,47,,Steve Erdman,189
+Deuel,Big Springs,State Senate,47,,Steve Erdman,197
+Deuel,Total,State Senate,47,,Steve Erdman,691

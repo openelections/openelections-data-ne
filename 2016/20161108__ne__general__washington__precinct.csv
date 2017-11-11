@@ -1,0 +1,145 @@
+county,precinct,office,district,party,candidate,votes
+Washington,Fort Calhoun East,President,,Republican,Donald J. Trump,400
+Washington,Fort Calhoun West,President,,Republican,Donald J. Trump,522
+Washington,Kennard,President,,Republican,Donald J. Trump,459
+Washington,Lakeland,President,,Republican,Donald J. Trump,657
+Washington,Skyline,President,,Republican,Donald J. Trump,341
+Washington,Central,President,,Republican,Donald J. Trump,364
+Washington,Dana,President,,Republican,Donald J. Trump,415
+Washington,Washington,President,,Republican,Donald J. Trump,268
+Washington,Herman,President,,Republican,Donald J. Trump,231
+Washington,Cuming City,President,,Republican,Donald J. Trump,253
+Washington,DeSoto,President,,Republican,Donald J. Trump,308
+Washington,Fontanelle,President,,Republican,Donald J. Trump,396
+Washington,Arlington,President,,Republican,Donald J. Trump,554
+Washington,Arbor,President,,Republican,Donald J. Trump,332
+Washington,North-view,President,,Republican,Donald J. Trump,390
+Washington,Absentee,President,,Republican,Donald J. Trump,1531
+Washington,New/Former Resident,President,,Republican,Donald J. Trump,3
+Washington,Total,President,,Republican,Donald J. Trump,7424
+Washington,Fort Calhoun East,President,,Democratic,Hillary Clinton,179
+Washington,Fort Calhoun West,President,,Democratic,Hillary Clinton,172
+Washington,Kennard,President,,Democratic,Hillary Clinton,83
+Washington,Lakeland,President,,Democratic,Hillary Clinton,233
+Washington,Skyline,President,,Democratic,Hillary Clinton,148
+Washington,Central,President,,Democratic,Hillary Clinton,138
+Washington,Dana,President,,Democratic,Hillary Clinton,157
+Washington,Washington,President,,Democratic,Hillary Clinton,59
+Washington,Herman,President,,Democratic,Hillary Clinton,65
+Washington,Cuming City,President,,Democratic,Hillary Clinton,53
+Washington,DeSoto,President,,Democratic,Hillary Clinton,87
+Washington,Fontanelle,President,,Democratic,Hillary Clinton,63
+Washington,Arlington,President,,Democratic,Hillary Clinton,151
+Washington,Arbor,President,,Democratic,Hillary Clinton,116
+Washington,North-view,President,,Democratic,Hillary Clinton,147
+Washington,Absentee,President,,Democratic,Hillary Clinton,772
+Washington,New/Former Resident,President,,Democratic,Hillary Clinton,0
+Washington,Total,President,,Democratic,Hillary Clinton,2623
+Washington,Fort Calhoun East,President,,Libertarian,Gary Johnson,30
+Washington,Fort Calhoun West,President,,Libertarian,Gary Johnson,28
+Washington,Kennard,President,,Libertarian,Gary Johnson,19
+Washington,Lakeland,President,,Libertarian,Gary Johnson,29
+Washington,Skyline,President,,Libertarian,Gary Johnson,36
+Washington,Central,President,,Libertarian,Gary Johnson,39
+Washington,Dana,President,,Libertarian,Gary Johnson,24
+Washington,Washington,President,,Libertarian,Gary Johnson,10
+Washington,Herman,President,,Libertarian,Gary Johnson,18
+Washington,Cuming City,President,,Libertarian,Gary Johnson,11
+Washington,DeSoto,President,,Libertarian,Gary Johnson,26
+Washington,Fontanelle,President,,Libertarian,Gary Johnson,18
+Washington,Arlington,President,,Libertarian,Gary Johnson,40
+Washington,Arbor,President,,Libertarian,Gary Johnson,24
+Washington,North-view,President,,Libertarian,Gary Johnson,50
+Washington,Absentee,President,,Libertarian,Gary Johnson,110
+Washington,New/Former Resident,President,,Libertarian,Gary Johnson,1
+Washington,Total,President,,Libertarian,Gary Johnson,513
+Washington,Fort Calhoun East,President,,,Jill Stein,10
+Washington,Fort Calhoun West,President,,,Jill Stein,4
+Washington,Kennard,President,,,Jill Stein,5
+Washington,Lakeland,President,,,Jill Stein,8
+Washington,Skyline,President,,,Jill Stein,4
+Washington,Central,President,,,Jill Stein,8
+Washington,Dana,President,,,Jill Stein,6
+Washington,Washington,President,,,Jill Stein,2
+Washington,Herman,President,,,Jill Stein,2
+Washington,Cuming City,President,,,Jill Stein,3
+Washington,DeSoto,President,,,Jill Stein,3
+Washington,Fontanelle,President,,,Jill Stein,4
+Washington,Arlington,President,,,Jill Stein,5
+Washington,Arbor,President,,,Jill Stein,1
+Washington,North-view,President,,,Jill Stein,6
+Washington,Absentee,President,,,Jill Stein,26
+Washington,New/Former Resident,President,,,Jill Stein,0
+Washington,Total,President,,,Jill Stein,97
+Washington,Fort Calhoun East,President,,,Write-ins,5
+Washington,Fort Calhoun West,President,,,Write-ins,8
+Washington,Kennard,President,,,Write-ins,14
+Washington,Lakeland,President,,,Write-ins,23
+Washington,Skyline,President,,,Write-ins,10
+Washington,Central,President,,,Write-ins,14
+Washington,Dana,President,,,Write-ins,11
+Washington,Washington,President,,,Write-ins,4
+Washington,Herman,President,,,Write-ins,1
+Washington,Cuming City,President,,,Write-ins,0
+Washington,DeSoto,President,,,Write-ins,5
+Washington,Fontanelle,President,,,Write-ins,6
+Washington,Arlington,President,,,Write-ins,13
+Washington,Arbor,President,,,Write-ins,12
+Washington,North-view,President,,,Write-ins,11
+Washington,Absentee,President,,,Write-ins,38
+Washington,New/Former Resident,President,,,Write-ins,0
+Washington,Total,President,,,Write-ins,175
+Washington,Fort Calhoun East,U.S. House,1,Republican,Jeff Fortenberry,444
+Washington,Fort Calhoun West,U.S. House,1,Republican,Jeff Fortenberry,560
+Washington,Kennard,U.S. House,1,Republican,Jeff Fortenberry,481
+Washington,Lakeland,U.S. House,1,Republican,Jeff Fortenberry,730
+Washington,Skyline,U.S. House,1,Republican,Jeff Fortenberry,388
+Washington,Central,U.S. House,1,Republican,Jeff Fortenberry,426
+Washington,Dana,U.S. House,1,Republican,Jeff Fortenberry,483
+Washington,Washington,U.S. House,1,Republican,Jeff Fortenberry,282
+Washington,Herman,U.S. House,1,Republican,Jeff Fortenberry,261
+Washington,Cuming City,U.S. House,1,Republican,Jeff Fortenberry,265
+Washington,DeSoto,U.S. House,1,Republican,Jeff Fortenberry,326
+Washington,Fontanelle,U.S. House,1,Republican,Jeff Fortenberry,437
+Washington,Arlington,U.S. House,1,Republican,Jeff Fortenberry,612
+Washington,Arbor,U.S. House,1,Republican,Jeff Fortenberry,376
+Washington,North-view,U.S. House,1,Republican,Jeff Fortenberry,468
+Washington,Absentee,U.S. House,1,Republican,Jeff Fortenberry,1725
+Washington,New/Former Resident,U.S. House,1,Republican,Jeff Fortenberry,
+Washington,Total,U.S. House,1,Republican,Jeff Fortenberry,8264
+Washington,Fort Calhoun East,U.S. House,1,Democratic,Daniel M. Wik,152
+Washington,Fort Calhoun West,U.S. House,1,Democratic,Daniel M. Wik,140
+Washington,Kennard,U.S. House,1,Democratic,Daniel M. Wik,79
+Washington,Lakeland,U.S. House,1,Democratic,Daniel M. Wik,189
+Washington,Skyline,U.S. House,1,Democratic,Daniel M. Wik,126
+Washington,Central,U.S. House,1,Democratic,Daniel M. Wik,114
+Washington,Dana,U.S. House,1,Democratic,Daniel M. Wik,109
+Washington,Washington,U.S. House,1,Democratic,Daniel M. Wik,48
+Washington,Herman,U.S. House,1,Democratic,Daniel M. Wik,46
+Washington,Cuming City,U.S. House,1,Democratic,Daniel M. Wik,40
+Washington,DeSoto,U.S. House,1,Democratic,Daniel M. Wik,80
+Washington,Fontanelle,U.S. House,1,Democratic,Daniel M. Wik,46
+Washington,Arlington,U.S. House,1,Democratic,Daniel M. Wik,126
+Washington,Arbor,U.S. House,1,Democratic,Daniel M. Wik,92
+Washington,North-view,U.S. House,1,Democratic,Daniel M. Wik,116
+Washington,Absentee,U.S. House,1,Democratic,Daniel M. Wik,621
+Washington,New/Former Resident,U.S. House,1,Democratic,Daniel M. Wik,
+Washington,Total,U.S. House,1,Democratic,Daniel M. Wik,2124
+Washington,Fort Calhoun East,U.S. House,1,,Write-ins,2
+Washington,Fort Calhoun West,U.S. House,1,,Write-ins,3
+Washington,Kennard,U.S. House,1,,Write-ins,0
+Washington,Lakeland,U.S. House,1,,Write-ins,2
+Washington,Skyline,U.S. House,1,,Write-ins,0
+Washington,Central,U.S. House,1,,Write-ins,0
+Washington,Dana,U.S. House,1,,Write-ins,0
+Washington,Washington,U.S. House,1,,Write-ins,1
+Washington,Herman,U.S. House,1,,Write-ins,0
+Washington,Cuming City,U.S. House,1,,Write-ins,0
+Washington,DeSoto,U.S. House,1,,Write-ins,1
+Washington,Fontanelle,U.S. House,1,,Write-ins,0
+Washington,Arlington,U.S. House,1,,Write-ins,1
+Washington,Arbor,U.S. House,1,,Write-ins,1
+Washington,North-view,U.S. House,1,,Write-ins,1
+Washington,Absentee,U.S. House,1,,Write-ins,3
+Washington,New/Former Resident,U.S. House,1,,Write-ins,
+Washington,Total,U.S. House,1,,Write-ins,15

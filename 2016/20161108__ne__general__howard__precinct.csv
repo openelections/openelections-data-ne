@@ -1,0 +1,62 @@
+county,precinct,office,district,party,candidate,votes
+Howard,Ward 1,President,,Republican,Donald J. Trump,390
+Howard,Ward 2,President,,Republican,Donald J. Trump,449
+Howard,Spring Creek,President,,Republican,Donald J. Trump,98
+Howard,Elba,President,,Republican,Donald J. Trump,189
+Howard,Posen,President,,Republican,Donald J. Trump,175
+Howard,Dannebrog,President,,Republican,Donald J. Trump,254
+Howard,Loup Fork,President,,Republican,Donald J. Trump,137
+Howard,St. Libory,President,,Republican,Donald J. Trump,268
+Howard,Early,President,,Republican,Donald J. Trump,324
+Howard,Total,President,,Republican,Donald J. Trump,2284
+Howard,Ward 1,President,,Democratic,Hillary Clinton,84
+Howard,Ward 2,President,,Democratic,Hillary Clinton,110
+Howard,Spring Creek,President,,Democratic,Hillary Clinton,12
+Howard,Elba,President,,Democratic,Hillary Clinton,33
+Howard,Posen,President,,Democratic,Hillary Clinton,40
+Howard,Dannebrog,President,,Democratic,Hillary Clinton,75
+Howard,Loup Fork,President,,Democratic,Hillary Clinton,36
+Howard,St. Libory,President,,Democratic,Hillary Clinton,48
+Howard,Early,President,,Democratic,Hillary Clinton,106
+Howard,Total,President,,Democratic,Hillary Clinton,544
+Howard,Ward 1,President,,Libertarian,Gary Johnson,17
+Howard,Ward 2,President,,Libertarian,Gary Johnson,22
+Howard,Spring Creek,President,,Libertarian,Gary Johnson,2
+Howard,Elba,President,,Libertarian,Gary Johnson,6
+Howard,Posen,President,,Libertarian,Gary Johnson,6
+Howard,Dannebrog,President,,Libertarian,Gary Johnson,17
+Howard,Loup Fork,President,,Libertarian,Gary Johnson,5
+Howard,St. Libory,President,,Libertarian,Gary Johnson,15
+Howard,Early,President,,Libertarian,Gary Johnson,18
+Howard,Total,President,,Libertarian,Gary Johnson,108
+Howard,Ward 1,President,,,Jill Stein,4
+Howard,Ward 2,President,,,Jill Stein,5
+Howard,Spring Creek,President,,,Jill Stein,0
+Howard,Elba,President,,,Jill Stein,3
+Howard,Posen,President,,,Jill Stein,0
+Howard,Dannebrog,President,,,Jill Stein,5
+Howard,Loup Fork,President,,,Jill Stein,3
+Howard,St. Libory,President,,,Jill Stein,2
+Howard,Early,President,,,Jill Stein,0
+Howard,Total,President,,,Jill Stein,22
+Howard,Ward 1,U.S. House,3,Republican,Adrian Smith,433
+Howard,Ward 2,U.S. House,3,Republican,Adrian Smith,486
+Howard,Spring Creek,U.S. House,3,Republican,Adrian Smith,94
+Howard,Elba,U.S. House,3,Republican,Adrian Smith,196
+Howard,Posen,U.S. House,3,Republican,Adrian Smith,183
+Howard,Dannebrog,U.S. House,3,Republican,Adrian Smith,300
+Howard,Loup Fork,U.S. House,3,Republican,Adrian Smith,154
+Howard,St. Libory,U.S. House,3,Republican,Adrian Smith,293
+Howard,Early,U.S. House,3,Republican,Adrian Smith,344
+Howard,Total,U.S. House,3,Republican,Adrian Smith,2483
+Howard,Ward 1,State Senate,41,,Tom Briese,378
+Howard,Ward 2,State Senate,41,,Tom Briese,414
+Howard,Spring Creek,State Senate,41,,Tom Briese,78
+Howard,Elba,State Senate,41,,Tom Briese,158
+Howard,Posen,State Senate,41,,Tom Briese,147
+Howard,Dannebrog,State Senate,41,,Tom Briese,274
+Howard,Loup Fork,State Senate,41,,Tom Briese,141
+Howard,St. Libory,State Senate,41,,Tom Briese,238
+Howard,Early,State Senate,41,,Tom Briese,271
+Howard,Total,State Senate,41,,Tom Briese,2099
+,,,,,,

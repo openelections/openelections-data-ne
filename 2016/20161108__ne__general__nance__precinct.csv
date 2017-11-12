@@ -1,0 +1,85 @@
+county,precinct,office,district,party,candidate,votes
+Nance,BGCP,President,NA,Republican,Trump,220
+Nance,BGCP/Early Votes,President,NA,Republican,Trump,41
+Nance,CLFWE,President,NA,Republican,Trump,143
+Nance,CLFWE/Early Votes,President,NA,Republican,Trump,56
+Nance,CTS,President,NA,Republican,Trump,106
+Nance,CTS/Early Votes,President,NA,Republican,Trump,16
+Nance,Fullerton,President,NA,Republican,Trump,300
+Nance,Fullerton/Early Votes,President,NA,Republican,Trump,76
+Nance,Genoa I,President,NA,Republican,Trump,134
+Nance,Genoa I/Early Votes,President,NA,Republican,Trump,12
+Nance,Genoa II,President,NA,Republican,Trump,133
+Nance,Genoa II/Early Votes,President,NA,Republican,Trump,23
+Nance,BGCP,President,NA,Democrat,Clinton,38
+Nance,BGCP/Early Votes,President,NA,Democrat,Clinton,8
+Nance,CLFWE,President,NA,Democrat,Clinton,21
+Nance,CLFWE/Early Votes,President,NA,Democrat,Clinton,14
+Nance,CTS,President,NA,Democrat,Clinton,20
+Nance,CTS/Early Votes,President,NA,Democrat,Clinton,3
+Nance,Fullerton,President,NA,Democrat,Clinton,74
+Nance,Fullerton/Early Votes,President,NA,Democrat,Clinton,35
+Nance,Genoa I,President,NA,Democrat,Clinton,35
+Nance,Genoa I/Early Votes,President,NA,Democrat,Clinton,3
+Nance,Genoa II,President,NA,Democrat,Clinton,25
+Nance,Genoa II/Early Votes,President,NA,Democrat,Clinton,4
+Nance,BGCP,President,NA,Libertarian,Johnson,4
+Nance,BGCP/Early Votes,President,NA,Libertarian,Johnson,5
+Nance,CLFWE,President,NA,Libertarian,Johnson,1
+Nance,CLFWE/Early Votes,President,NA,Libertarian,Johnson,0
+Nance,CTS,President,NA,Libertarian,Johnson,5
+Nance,CTS/Early Votes,President,NA,Libertarian,Johnson,0
+Nance,Fullerton,President,NA,Libertarian,Johnson,11
+Nance,Fullerton/Early Votes,President,NA,Libertarian,Johnson,5
+Nance,Genoa I,President,NA,Libertarian,Johnson,9
+Nance,Genoa I/Early Votes,President,NA,Libertarian,Johnson,0
+Nance,Genoa II,President,NA,Libertarian,Johnson,5
+Nance,Genoa II/Early Votes,President,NA,Libertarian,Johnson,2
+Nance,BGCP,President,NA,By Petition,Stein,0
+Nance,BGCP/Early Votes,President,NA,By Petition,Stein,0
+Nance,CLFWE,President,NA,By Petition,Stein,0
+Nance,CLFWE/Early Votes,President,NA,By Petition,Stein,0
+Nance,CTS,President,NA,By Petition,Stein,8
+Nance,CTS/Early Votes,President,NA,By Petition,Stein,0
+Nance,Fullerton,President,NA,By Petition,Stein,4
+Nance,Fullerton/Early Votes,President,NA,By Petition,Stein,0
+Nance,Genoa I,President,NA,By Petition,Stein,1
+Nance,Genoa I/Early Votes,President,NA,By Petition,Stein,0
+Nance,Genoa II,President,NA,By Petition,Stein,1
+Nance,Genoa II/Early Votes,President,NA,By Petition,Stein,0
+Nance,BGCP,President,NA,NA,Write-In,2
+Nance,BGCP/Early Votes,President,NA,NA,Write-In,1
+Nance,CLFWE,President,NA,NA,Write-In,1
+Nance,CLFWE/Early Votes,President,NA,NA,Write-In,1
+Nance,CTS,President,NA,NA,Write-In,2
+Nance,CTS/Early Votes,President,NA,NA,Write-In,1
+Nance,Fullerton,President,NA,NA,Write-In,8
+Nance,Fullerton/Early Votes,President,NA,NA,Write-In,0
+Nance,Genoa I,President,NA,NA,Write-In,1
+Nance,Genoa I/Early Votes,President,NA,NA,Write-In,0
+Nance,Genoa II,President,NA,NA,Write-In,0
+Nance,Genoa II/Early Votes,President,NA,NA,Write-In,0
+Nance,BGCP,U.S. House,3,Republican,Smith,216
+Nance,BGCP/Early Votes,U.S. House,3,Republican,Smith,41
+Nance,CLFWE,U.S. House,3,Republican,Smith,123
+Nance,CLFWE/Early Votes,U.S. House,3,Republican,Smith,49
+Nance,CTS,U.S. House,3,Republican,Smith,111
+Nance,CTS/Early Votes,U.S. House,3,Republican,Smith,16
+Nance,Fullerton,U.S. House,3,Republican,Smith,315
+Nance,Fullerton/Early Votes,U.S. House,3,Republican,Smith,88
+Nance,Genoa I,U.S. House,3,Republican,Smith,149
+Nance,Genoa I/Early Votes,U.S. House,3,Republican,Smith,12
+Nance,Genoa II,U.S. House,3,Republican,Smith,135
+Nance,Genoa II/Early Votes,U.S. House,3,Republican,Smith,21
+Nance,BGCP,U.S. House,3,NA,Write-In,0
+Nance,BGCP/Early Votes,U.S. House,3,NA,Write-In,1
+Nance,CLFWE,U.S. House,3,NA,Write-In,2
+Nance,CLFWE/Early Votes,U.S. House,3,NA,Write-In,0
+Nance,CTS,U.S. House,3,NA,Write-In,0
+Nance,CTS/Early Votes,U.S. House,3,NA,Write-In,0
+Nance,Fullerton,U.S. House,3,NA,Write-In,2
+Nance,Fullerton/Early Votes,U.S. House,3,NA,Write-In,0
+Nance,Genoa I,U.S. House,3,NA,Write-In,3
+Nance,Genoa I/Early Votes,U.S. House,3,NA,Write-In,2
+Nance,Genoa II,U.S. House,3,NA,Write-In,4
+Nance,Genoa II/Early Votes,U.S. House,3,NA,Write-In,1

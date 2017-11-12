@@ -1,0 +1,91 @@
+county,precinct,office,district,party,candidate,votes
+Holt,Hand Count,President,NA,Republican,Trump/Pence,9
+Holt,Hand Count,President,NA,Democrat,Clinton/Kaine,NA
+Holt,Hand Count,President,NA,Libertarian,Johnson/Weld,NA
+Holt,Hand Count,President,NA,By Petition,Stein/Baraka,NA
+Holt,Hand Count,U.S. House,3,Republican,Adrian Smith,8
+Holt,1-Page,President,NA,Republican,Trump/Pence,138
+Holt,1-Page,President,NA,Democrat,Clinton/Kaine,17
+Holt,1-Page,President,NA,Libertarian,Johnson/Weld,12
+Holt,1-Page,President,NA,By Petition,Stein/Baraka,3
+Holt,1-Page,U.S. House,3,Republican,Adrian Smith,149
+Holt,2-Atkinson,President,NA,Republican,Trump/Pence,414
+Holt,2-Atkinson,President,NA,Democrat,Clinton/Kaine,40
+Holt,2-Atkinson,President,NA,Libertarian,Johnson/Weld,8
+Holt,2-Atkinson,President,NA,By Petition,Stein/Baraka,1
+Holt,2-Atkinson,U.S. House,3,Republican,Adrian Smith,420
+Holt,3-Chambers,President,NA,Republican,Trump/Pence,363
+Holt,3-Chambers,President,NA,Democrat,Clinton/Kaine,31
+Holt,3-Chambers,President,NA,Libertarian,Johnson/Weld,7
+Holt,3-Chambers,President,NA,By Petition,Stein/Baraka,NA
+Holt,3-Chambers,U.S. House,3,Republican,Adrian Smith,345
+Holt,4-KC Hall,President,NA,Republican,Trump/Pence,127
+Holt,4-KC Hall,President,NA,Democrat,Clinton/Kaine,18
+Holt,4-KC Hall,President,NA,Libertarian,Johnson/Weld,4
+Holt,4-KC Hall,President,NA,By Petition,Stein/Baraka,NA
+Holt,4-KC Hall,U.S. House,3,Republican,Adrian Smith,130
+Holt,5-Ewing,President,NA,Republican,Trump/Pence,248
+Holt,5-Ewing,President,NA,Democrat,Clinton/Kaine,10
+Holt,5-Ewing,President,NA,Libertarian,Johnson/Weld,6
+Holt,5-Ewing,President,NA,By Petition,Stein/Baraka,1
+Holt,5-Ewing,U.S. House,3,Republican,Adrian Smith,228
+Holt,6-Inman,President,NA,Republican,Trump/Pence,113
+Holt,6-Inman,President,NA,Democrat,Clinton/Kaine,17
+Holt,6-Inman,President,NA,Libertarian,Johnson/Weld,7
+Holt,6-Inman,President,NA,By Petition,Stein/Baraka,1
+Holt,6-Inman,U.S. House,3,Republican,Adrian Smith,117
+Holt,7-Stuart,President,NA,Republican,Trump/Pence,334
+Holt,7-Stuart,President,NA,Democrat,Clinton/Kaine,41
+Holt,7-Stuart,President,NA,Libertarian,Johnson/Weld,14
+Holt,7-Stuart,President,NA,By Petition,Stein/Baraka,3
+Holt,7-Stuart,U.S. House,3,Republican,Adrian Smith,346
+Holt,8-KC Hall,President,NA,Republican,Trump/Pence,346
+Holt,8-KC Hall,President,NA,Democrat,Clinton/Kaine,31
+Holt,8-KC Hall,President,NA,Libertarian,Johnson/Weld,16
+Holt,8-KC Hall,President,NA,By Petition,Stein/Baraka,2
+Holt,8-KC Hall,U.S. House,3,Republican,Adrian Smith,335
+Holt,9-Atk Ward I,President,NA,Republican,Trump/Pence,423
+Holt,9-Atk Ward I,President,NA,Democrat,Clinton/Kaine,65
+Holt,9-Atk Ward I,President,NA,Libertarian,Johnson/Weld,15
+Holt,9-Atk Ward I,President,NA,By Petition,Stein/Baraka,4
+Holt,9-Atk Ward I,U.S. House,3,Republican,Adrian Smith,449
+Holt,10-NECC Ward I,President,NA,Republican,Trump/Pence,327
+Holt,10-NECC Ward I,President,NA,Democrat,Clinton/Kaine,51
+Holt,10-NECC Ward I,President,NA,Libertarian,Johnson/Weld,14
+Holt,10-NECC Ward I,President,NA,By Petition,Stein/Baraka,2
+Holt,10-NECC Ward I,U.S. House,3,Republican,Adrian Smith,333
+Holt,11-NECC Ward II,President,NA,Republican,Trump/Pence,317
+Holt,11-NECC Ward II,President,NA,Democrat,Clinton/Kaine,35
+Holt,11-NECC Ward II,President,NA,Libertarian,Johnson/Weld,5
+Holt,11-NECC Ward II,President,NA,By Petition,Stein/Baraka,3
+Holt,11-NECC Ward II,U.S. House,3,Republican,Adrian Smith,332
+Holt,12-O'Neill Armory Ward III,President,NA,Republican,Trump/Pence,198
+Holt,12-O'Neill Armory Ward III,President,NA,Democrat,Clinton/Kaine,19
+Holt,12-O'Neill Armory Ward III,President,NA,Libertarian,Johnson/Weld,9
+Holt,12-O'Neill Armory Ward III,President,NA,By Petition,Stein/Baraka,1
+Holt,12-O'Neill Armory Ward III,U.S. House,3,Republican,Adrian Smith,206
+Holt,O'Neill Armory Ward IV,President,NA,Republican,Trump/Pence,175
+Holt,O'Neill Armory Ward IV,President,NA,Democrat,Clinton/Kaine,25
+Holt,O'Neill Armory Ward IV,President,NA,Libertarian,Johnson/Weld,13
+Holt,O'Neill Armory Ward IV,President,NA,By Petition,Stein/Baraka,0
+Holt,O'Neill Armory Ward IV,U.S. House,3,Republican,Adrian Smith,189
+Holt,New/Former Resident,President,NA,Republican,Trump/Pence,NA
+Holt,New/Former Resident,President,NA,Democrat,Clinton/Kaine,NA
+Holt,New/Former Resident,President,NA,Libertarian,Johnson/Weld,NA
+Holt,New/Former Resident,President,NA,By Petition,Stein/Baraka,NA
+Holt,New/Former Resident,U.S. House,3,Republican,Adrian Smith,NA
+Holt,Provisional,President,NA,Republican,Trump/Pence,69
+Holt,Provisional,President,NA,Democrat,Clinton/Kaine,7
+Holt,Provisional,President,NA,Libertarian,Johnson/Weld,3
+Holt,Provisional,President,NA,By Petition,Stein/Baraka,0
+Holt,Provisional,U.S. House,3,Republican,Adrian Smith,71
+Holt,Military,President,NA,Republican,Trump/Pence,1
+Holt,Military,President,NA,Democrat,Clinton/Kaine,2
+Holt,Military,President,NA,Libertarian,Johnson/Weld,4
+Holt,Military,President,NA,By Petition,Stein/Baraka,0
+Holt,Military,U.S. House,3,Republican,Adrian Smith,5
+Holt,Early Voter,President,NA,Republican,Trump/Pence,752
+Holt,Early Voter,President,NA,Democrat,Clinton/Kaine,122
+Holt,Early Voter,President,NA,Libertarian,Johnson/Weld,25
+Holt,Early Voter,President,NA,By Petition,Stein/Baraka,6
+Holt,Early Voter,U.S. House,3,Republican,Adrian Smith,739

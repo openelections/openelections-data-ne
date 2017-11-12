@@ -1,0 +1,78 @@
+county,precinct,office,district,party,candidate,votes
+Wayne,0001-Hoskins/Garfield,President,NA,Republican,Trump/Pence,307
+Wayne,0002-Chapin/Hancock/Winside,President,NA,Republican,Trump/Pence,312
+Wayne,0003-Deer Creek/Sherman,President,NA,Republican,Trump/Pence,156
+Wayne,0004-Brenna/Plum Creek/Hunter,President,NA,Republican,Trump/Pence,218
+Wayne,0005-Strahan/Wilbur,President,NA,Republican,Trump/Pence,185
+Wayne,0006-Logan/Leslie,President,NA,Republican,Trump/Pence,177
+Wayne,0007-First Ward,President,NA,Republican,Trump/Pence,223
+Wayne,0008-Second Ward,President,NA,Republican,Trump/Pence,199
+Wayne,0009-Third Ward,President,NA,Republican,Trump/Pence,203
+Wayne,0010-Fourth Ward,President,NA,Republican,Trump/Pence,300
+Wayne,0013-ABSENTEE,President,NA,Republican,Trump/Pence,395
+Wayne,0001-Hoskins/Garfield,President,NA,Democrat,Clinton/Kaine,26
+Wayne,0002-Chapin/Hancock/Winside,President,NA,Democrat,Clinton/Kaine,42
+Wayne,0003-Deer Creek/Sherman,President,NA,Democrat,Clinton/Kaine,24
+Wayne,0004-Brenna/Plum Creek/Hunter,President,NA,Democrat,Clinton/Kaine,40
+Wayne,0005-Strahan/Wilbur,President,NA,Democrat,Clinton/Kaine,24
+Wayne,0006-Logan/Leslie,President,NA,Democrat,Clinton/Kaine,43
+Wayne,0007-First Ward,President,NA,Democrat,Clinton/Kaine,76
+Wayne,0008-Second Ward,President,NA,Democrat,Clinton/Kaine,73
+Wayne,0009-Third Ward,President,NA,Democrat,Clinton/Kaine,97
+Wayne,0010-Fourth Ward,President,NA,Democrat,Clinton/Kaine,145
+Wayne,0013-ABSENTEE,President,NA,Democrat,Clinton/Kaine,238
+Wayne,0001-Hoskins/Garfield,President,NA,Libertarian,Johnson/Weld,5
+Wayne,0002-Chapin/Hancock/Winside,President,NA,Libertarian,Johnson/Weld,13
+Wayne,0003-Deer Creek/Sherman,President,NA,Libertarian,Johnson/Weld,16
+Wayne,0004-Brenna/Plum Creek/Hunter,President,NA,Libertarian,Johnson/Weld,9
+Wayne,0005-Strahan/Wilbur,President,NA,Libertarian,Johnson/Weld,13
+Wayne,0006-Logan/Leslie,President,NA,Libertarian,Johnson/Weld,7
+Wayne,0007-First Ward,President,NA,Libertarian,Johnson/Weld,16
+Wayne,0008-Second Ward,President,NA,Libertarian,Johnson/Weld,16
+Wayne,0009-Third Ward,President,NA,Libertarian,Johnson/Weld,32
+Wayne,0010-Fourth Ward,President,NA,Libertarian,Johnson/Weld,36
+Wayne,0013-ABSENTEE,President,NA,Libertarian,Johnson/Weld,39
+Wayne,0001-Hoskins/Garfield,President,NA,By Petition,Stein/Baraka,1
+Wayne,0002-Chapin/Hancock/Winside,President,NA,By Petition,Stein/Baraka,1
+Wayne,0003-Deer Creek/Sherman,President,NA,By Petition,Stein/Baraka,2
+Wayne,0004-Brenna/Plum Creek/Hunter,President,NA,By Petition,Stein/Baraka,1
+Wayne,0005-Strahan/Wilbur,President,NA,By Petition,Stein/Baraka,0
+Wayne,0006-Logan/Leslie,President,NA,By Petition,Stein/Baraka,1
+Wayne,0007-First Ward,President,NA,By Petition,Stein/Baraka,5
+Wayne,0008-Second Ward,President,NA,By Petition,Stein/Baraka,7
+Wayne,0009-Third Ward,President,NA,By Petition,Stein/Baraka,5
+Wayne,0010-Fourth Ward,President,NA,By Petition,Stein/Baraka,5
+Wayne,0013-ABSENTEE,President,NA,By Petition,Stein/Baraka,7
+Wayne,0001-Hoskins/Garfield,President,NA,NA,Write-In,4
+Wayne,0002-Chapin/Hancock/Winside,President,NA,NA,Write-In,2
+Wayne,0003-Deer Creek/Sherman,President,NA,NA,Write-In,3
+Wayne,0004-Brenna/Plum Creek/Hunter,President,NA,NA,Write-In,7
+Wayne,0005-Strahan/Wilbur,President,NA,NA,Write-In,2
+Wayne,0006-Logan/Leslie,President,NA,NA,Write-In,4
+Wayne,0007-First Ward,President,NA,NA,Write-In,6
+Wayne,0008-Second Ward,President,NA,NA,Write-In,10
+Wayne,0009-Third Ward,President,NA,NA,Write-In,7
+Wayne,0010-Fourth Ward,President,NA,NA,Write-In,9
+Wayne,0013-ABSENTEE,President,NA,NA,Write-In,11
+Wayne,0001-Hoskins/Garfield,U.S. House,3,Republican,Smith,302
+Wayne,0002-Chapin/Hancock/Winside,U.S. House,3,Republican,Smith,321
+Wayne,0003-Deer Creek/Sherman,U.S. House,3,Republican,Smith,183
+Wayne,0004-Brenna/Plum Creek/Hunter,U.S. House,3,Republican,Smith,233
+Wayne,0005-Strahan/Wilbur,U.S. House,3,Republican,Smith,211
+Wayne,0006-Logan/Leslie,U.S. House,3,Republican,Smith,203
+Wayne,0007-First Ward,U.S. House,3,Republican,Smith,272
+Wayne,0008-Second Ward,U.S. House,3,Republican,Smith,244
+Wayne,0009-Third Ward,U.S. House,3,Republican,Smith,296
+Wayne,0010-Fourth Ward,U.S. House,3,Republican,Smith,414
+Wayne,0013-ABSENTEE,U.S. House,3,Republican,Smith,524
+Wayne,0001-Hoskins/Garfield,U.S. House,3,NA,Write-In,0
+Wayne,0002-Chapin/Hancock/Winside,U.S. House,3,NA,Write-In,6
+Wayne,0003-Deer Creek/Sherman,U.S. House,3,NA,Write-In,0
+Wayne,0004-Brenna/Plum Creek/Hunter,U.S. House,3,NA,Write-In,2
+Wayne,0005-Strahan/Wilbur,U.S. House,3,NA,Write-In,0
+Wayne,0006-Logan/Leslie,U.S. House,3,NA,Write-In,3
+Wayne,0007-First Ward,U.S. House,3,NA,Write-In,4
+Wayne,0008-Second Ward,U.S. House,3,NA,Write-In,5
+Wayne,0009-Third Ward,U.S. House,3,NA,Write-In,5
+Wayne,0010-Fourth Ward,U.S. House,3,NA,Write-In,16
+Wayne,0013-ABSENTEE,U.S. House,3,NA,Write-In,20

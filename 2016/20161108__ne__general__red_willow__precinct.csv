@@ -1,0 +1,106 @@
+county,precinct,office,district,party,candidate,votes
+Red Willow,Bartley,President,NA,Republican,Trump/Pence,179
+Red Willow,Bartley,President,NA,Democrat,Clinton/Kaine,12
+Red Willow,Bartley,President,NA,Libertarian,Johnson/Weld,9
+Red Willow,Bartley,President,NA,By Petition,Stein/Baraka,2
+Red Willow,Bartley,President,NA,NA,Write-In,1
+Red Willow,Bartley,U.S. House,3,Republican,Adrian Smith,182
+Red Willow,Bartley,U.S. House,3,Republican,Write-In,2
+Red Willow,Beaver,President,NA,Republican,Trump/Pence,125
+Red Willow,Beaver,President,NA,Democrat,Clinton/Kaine,10
+Red Willow,Beaver,President,NA,Libertarian,Johnson/Weld,2
+Red Willow,Beaver,President,NA,By Petition,Stein/Baraka,0
+Red Willow,Beaver,President,NA,NA,Write-In,2
+Red Willow,Beaver,U.S. House,3,Republican,Adrian Smith,121
+Red Willow,Beaver,U.S. House,3,Republican,Write-In,0
+Red Willow,Indianola,President,NA,Republican,Trump/Pence,419
+Red Willow,Indianola,President,NA,Democrat,Clinton/Kaine,28
+Red Willow,Indianola,President,NA,Libertarian,Johnson/Weld,8
+Red Willow,Indianola,President,NA,By Petition,Stein/Baraka,4
+Red Willow,Indianola,President,NA,NA,Write-In,6
+Red Willow,Indianola,U.S. House,3,Republican,Adrian Smith,419
+Red Willow,Indianola,U.S. House,3,Republican,Write-In,6
+Red Willow,Northwest,President,NA,Republican,Trump/Pence,297
+Red Willow,Northwest,President,NA,Democrat,Clinton/Kaine,29
+Red Willow,Northwest,President,NA,Libertarian,Johnson/Weld,11
+Red Willow,Northwest,President,NA,By Petition,Stein/Baraka,1
+Red Willow,Northwest,President,NA,NA,Write-In,1
+Red Willow,Northwest,U.S. House,3,Republican,Adrian Smith,313
+Red Willow,Northwest,U.S. House,3,Republican,Write-In,3
+Red Willow,Southwest,President,NA,Republican,Trump/Pence,171
+Red Willow,Southwest,President,NA,Democrat,Clinton/Kaine,21
+Red Willow,Southwest,President,NA,Libertarian,Johnson/Weld,8
+Red Willow,Southwest,President,NA,By Petition,Stein/Baraka,0
+Red Willow,Southwest,President,NA,NA,Write-In,4
+Red Willow,Southwest,U.S. House,3,Republican,Adrian Smith,184
+Red Willow,Southwest,U.S. House,3,Republican,Write-In,1
+Red Willow,W-1 P-1,President,NA,Republican,Trump/Pence,231
+Red Willow,W-1 P-1,President,NA,Democrat,Clinton/Kaine,42
+Red Willow,W-1 P-1,President,NA,Libertarian,Johnson/Weld,9
+Red Willow,W-1 P-1,President,NA,By Petition,Stein/Baraka,1
+Red Willow,W-1 P-1,President,NA,NA,Write-In,4
+Red Willow,W-1 P-1,U.S. House,3,Republican,Adrian Smith,253
+Red Willow,W-1 P-1,U.S. House,3,Republican,Write-In,2
+Red Willow,W-1 P-2,President,NA,Republican,Trump/Pence,301
+Red Willow,W-1 P-2,President,NA,Democrat,Clinton/Kaine,39
+Red Willow,W-1 P-2,President,NA,Libertarian,Johnson/Weld,13
+Red Willow,W-1 P-2,President,NA,By Petition,Stein/Baraka,6
+Red Willow,W-1 P-2,President,NA,NA,Write-In,3
+Red Willow,W-1 P-2,U.S. House,3,Republican,Adrian Smith,319
+Red Willow,W-1 P-2,U.S. House,3,Republican,Write-In,7
+Red Willow,W-1 P-3,President,NA,Republican,Trump/Pence,242
+Red Willow,W-1 P-3,President,NA,Democrat,Clinton/Kaine,53
+Red Willow,W-1 P-3,President,NA,Libertarian,Johnson/Weld,10
+Red Willow,W-1 P-3,President,NA,By Petition,Stein/Baraka,0
+Red Willow,W-1 P-3,President,NA,NA,Write-In,0
+Red Willow,W-1 P-3,U.S. House,3,Republican,Adrian Smith,268
+Red Willow,W-1 P-3,U.S. House,3,Republican,Write-In,4
+Red Willow,W-2 P-1,President,NA,Republican,Trump/Pence,329
+Red Willow,W-2 P-1,President,NA,Democrat,Clinton/Kaine,40
+Red Willow,W-2 P-1,President,NA,Libertarian,Johnson/Weld,15
+Red Willow,W-2 P-1,President,NA,By Petition,Stein/Baraka,3
+Red Willow,W-2 P-1,President,NA,NA,Write-In,8
+Red Willow,W-2 P-1,U.S. House,3,Republican,Adrian Smith,353
+Red Willow,W-2 P-1,U.S. House,3,Republican,Write-In,3
+Red Willow,W-2 P-2,President,NA,Republican,Trump/Pence,307
+Red Willow,W-2 P-2,President,NA,Democrat,Clinton/Kaine,48
+Red Willow,W-2 P-2,President,NA,Libertarian,Johnson/Weld,25
+Red Willow,W-2 P-2,President,NA,By Petition,Stein/Baraka,1
+Red Willow,W-2 P-2,President,NA,NA,Write-In,4
+Red Willow,W-2 P-2,U.S. House,3,Republican,Adrian Smith,350
+Red Willow,W-2 P-2,U.S. House,3,Republican,Write-In,8
+Red Willow,W-3 P-1,President,NA,Republican,Trump/Pence,254
+Red Willow,W-3 P-1,President,NA,Democrat,Clinton/Kaine,49
+Red Willow,W-3 P-1,President,NA,Libertarian,Johnson/Weld,14
+Red Willow,W-3 P-1,President,NA,By Petition,Stein/Baraka,2
+Red Willow,W-3 P-1,President,NA,NA,Write-In,8
+Red Willow,W-3 P-1,U.S. House,3,Republican,Adrian Smith,291
+Red Willow,W-3 P-1,U.S. House,3,Republican,Write-In,5
+Red Willow,W-3 P-3,President,NA,Republican,Trump/Pence,249
+Red Willow,W-3 P-3,President,NA,Democrat,Clinton/Kaine,46
+Red Willow,W-3 P-3,President,NA,Libertarian,Johnson/Weld,15
+Red Willow,W-3 P-3,President,NA,By Petition,Stein/Baraka,0
+Red Willow,W-3 P-3,President,NA,NA,Write-In,0
+Red Willow,W-3 P-3,U.S. House,3,Republican,Adrian Smith,283
+Red Willow,W-3 P-3,U.S. House,3,Republican,Write-In,1
+Red Willow,W-4 P-1,President,NA,Republican,Trump/Pence,335
+Red Willow,W-4 P-1,President,NA,Democrat,Clinton/Kaine,50
+Red Willow,W-4 P-1,President,NA,Libertarian,Johnson/Weld,13
+Red Willow,W-4 P-1,President,NA,By Petition,Stein/Baraka,3
+Red Willow,W-4 P-1,President,NA,NA,Write-In,5
+Red Willow,W-4 P-1,U.S. House,3,Republican,Adrian Smith,375
+Red Willow,W-4 P-1,U.S. House,3,Republican,Write-In,3
+Red Willow,Early Voters,President,NA,Republican,Trump/Pence,773
+Red Willow,Early Voters,President,NA,Democrat,Clinton/Kaine,171
+Red Willow,Early Voters,President,NA,Libertarian,Johnson/Weld,33
+Red Willow,Early Voters,President,NA,By Petition,Stein/Baraka,3
+Red Willow,Early Voters,President,NA,NA,Write-In,9
+Red Willow,Early Voters,U.S. House,3,Republican,Adrian Smith,828
+Red Willow,Early Voters,U.S. House,3,Republican,Write-In,22
+Red Willow,Provisional,President,NA,Republican,Trump/Pence,46
+Red Willow,Provisional,President,NA,Democrat,Clinton/Kaine,7
+Red Willow,Provisional,President,NA,Libertarian,Johnson/Weld,6
+Red Willow,Provisional,President,NA,By Petition,Stein/Baraka,0
+Red Willow,Provisional,President,NA,NA,Write-In,0
+Red Willow,Provisional,U.S. House,3,Republican,Adrian Smith,50
+Red Willow,Provisional,U.S. House,3,Republican,Write-In,1

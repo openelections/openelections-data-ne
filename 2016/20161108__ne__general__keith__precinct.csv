@@ -1,0 +1,121 @@
+county,precinct,office,district,party,candidate,votes
+Keith,0001-First Ward,President,NA,Republican,Trump/Pence,223
+Keith,0001-First Ward,President,NA,Democrat,Clinton/Kaine,35
+Keith,0001-First Ward,President,NA,Libertarian,Johnson/Weld,12
+Keith,0001-First Ward,President,NA,By Petition,Stein/Baraka,3
+Keith,0001-First Ward,President,NA,NA,WRITE-IN,2
+Keith,0002-Second Ward,President,NA,Republican,Trump/Pence,237
+Keith,0002-Second Ward,President,NA,Democrat,Clinton/Kaine,64
+Keith,0002-Second Ward,President,NA,Libertarian,Johnson/Weld,16
+Keith,0002-Second Ward,President,NA,By Petition,Stein/Baraka,4
+Keith,0002-Second Ward,President,NA,NA,WRITE-IN,1
+Keith,0003-Third Ward,President,NA,Republican,Trump/Pence,252
+Keith,0003-Third Ward,President,NA,Democrat,Clinton/Kaine,40
+Keith,0003-Third Ward,President,NA,Libertarian,Johnson/Weld,11
+Keith,0003-Third Ward,President,NA,By Petition,Stein/Baraka,2
+Keith,0003-Third Ward,President,NA,NA,WRITE-IN,6
+Keith,0004-Fourth Ward,President,NA,Republican,Trump/Pence,283
+Keith,0004-Fourth Ward,President,NA,Democrat,Clinton/Kaine,48
+Keith,0004-Fourth Ward,President,NA,Libertarian,Johnson/Weld,18
+Keith,0004-Fourth Ward,President,NA,By Petition,Stein/Baraka,3
+Keith,0004-Fourth Ward,President,NA,NA,WRITE-IN,1
+Keith,0005-Fifth Ward,President,NA,Republican,Trump/Pence,430
+Keith,0005-Fifth Ward,President,NA,Democrat,Clinton/Kaine,68
+Keith,0005-Fifth Ward,President,NA,Libertarian,Johnson/Weld,27
+Keith,0005-Fifth Ward,President,NA,By Petition,Stein/Baraka,2
+Keith,0005-Fifth Ward,President,NA,NA,WRITE-IN,6
+Keith,0006-Brule,President,NA,Republican,Trump/Pence,266
+Keith,0006-Brule,President,NA,Democrat,Clinton/Kaine,31
+Keith,0006-Brule,President,NA,Libertarian,Johnson/Weld,15
+Keith,0006-Brule,President,NA,By Petition,Stein/Baraka,0
+Keith,0006-Brule,President,NA,NA,WRITE-IN,3
+Keith,0007-Logan,President,NA,Republican,Trump/Pence,99
+Keith,0007-Logan,President,NA,Democrat,Clinton/Kaine,11
+Keith,0007-Logan,President,NA,Libertarian,Johnson/Weld,3
+Keith,0007-Logan,President,NA,By Petition,Stein/Baraka,0
+Keith,0007-Logan,President,NA,NA,WRITE-IN,2
+Keith,0008-Lonergan,President,NA,Republican,Trump/Pence,137
+Keith,0008-Lonergan,President,NA,Democrat,Clinton/Kaine,35
+Keith,0008-Lonergan,President,NA,Libertarian,Johnson/Weld,0
+Keith,0008-Lonergan,President,NA,By Petition,Stein/Baraka,1
+Keith,0008-Lonergan,President,NA,NA,WRITE-IN,0
+Keith,0009-Paxton,President,NA,Republican,Trump/Pence,349
+Keith,0009-Paxton,President,NA,Democrat,Clinton/Kaine,32
+Keith,0009-Paxton,President,NA,Libertarian,Johnson/Weld,21
+Keith,0009-Paxton,President,NA,By Petition,Stein/Baraka,3
+Keith,0009-Paxton,President,NA,NA,WRITE-IN,2
+Keith,0010-Rural Ogalala,President,NA,Republican,Trump/Pence,314
+Keith,0010-Rural Ogalala,President,NA,Democrat,Clinton/Kaine,48
+Keith,0010-Rural Ogalala,President,NA,Libertarian,Johnson/Weld,9
+Keith,0010-Rural Ogalala,President,NA,By Petition,Stein/Baraka,2
+Keith,0010-Rural Ogalala,President,NA,NA,WRITE-IN,5
+Keith,0011-Whitetail,President,NA,Republican,Trump/Pence,127
+Keith,0011-Whitetail,President,NA,Democrat,Clinton/Kaine,21
+Keith,0011-Whitetail,President,NA,Libertarian,Johnson/Weld,1
+Keith,0011-Whitetail,President,NA,By Petition,Stein/Baraka,0
+Keith,0011-Whitetail,President,NA,NA,WRITE-IN,0
+Keith,0013-Absentee,President,NA,Republican,Trump/Pence,518
+Keith,0013-Absentee,President,NA,Democrat,Clinton/Kaine,138
+Keith,0013-Absentee,President,NA,Libertarian,Johnson/Weld,31
+Keith,0013-Absentee,President,NA,By Petition,Stein/Baraka,5
+Keith,0013-Absentee,President,NA,NA,WRITE-IN,11
+Keith,0001-First Ward,U.S. House,3,Republican,Smith,241
+Keith,0001-First Ward,U.S. House,3,NA,WRITE-IN,4
+Keith,0002-Second Ward,U.S. House,3,Republican,Smith,271
+Keith,0002-Second Ward,U.S. House,3,NA,WRITE-IN,8
+Keith,0003-Third Ward,U.S. House,3,Republican,Smith,272
+Keith,0003-Third Ward,U.S. House,3,NA,WRITE-IN,2
+Keith,0004-Fourth Ward,U.S. House,3,Republican,Smith,300
+Keith,0004-Fourth Ward,U.S. House,3,NA,WRITE-IN,5
+Keith,0005-Fifth Ward,U.S. House,3,Republican,Smith,472
+Keith,0005-Fifth Ward,U.S. House,3,NA,WRITE-IN,6
+Keith,0006-Brule,U.S. House,3,Republican,Smith,291
+Keith,0006-Brule,U.S. House,3,NA,WRITE-IN,5
+Keith,0007-Logan,U.S. House,3,Republican,Smith,107
+Keith,0007-Logan,U.S. House,3,NA,WRITE-IN,0
+Keith,0008-Lonergan,U.S. House,3,Republican,Smith,148
+Keith,0008-Lonergan,U.S. House,3,NA,WRITE-IN,3
+Keith,0009-Paxton,U.S. House,3,Republican,Smith,359
+Keith,0009-Paxton,U.S. House,3,NA,WRITE-IN,4
+Keith,0010-Rural Ogalala,U.S. House,3,Republican,Smith,329
+Keith,0010-Rural Ogalala,U.S. House,3,NA,WRITE-IN,10
+Keith,0011-Whitetail,U.S. House,3,Republican,Smith,132
+Keith,0011-Whitetail,U.S. House,3,NA,WRITE-IN,0
+Keith,0013-Absentee,U.S. House,3,Republican,Smith,582
+Keith,0013-Absentee,U.S. House,3,NA,WRITE-IN,8
+Keith,0001-First Ward,State Senate,NA,NA,Karl Elmshaeuser,111
+Keith,0001-First Ward,State Senate,NA,NA,Steve Erdman,143
+Keith,0001-First Ward,State Senate,NA,NA,WRITE-IN,2
+Keith,0002-Second Ward,State Senate,NA,NA,Karl Elmshaeuser,134
+Keith,0002-Second Ward,State Senate,NA,NA,Steve Erdman,167
+Keith,0002-Second Ward,State Senate,NA,NA,WRITE-IN,3
+Keith,0003-Third Ward,State Senate,NA,NA,Karl Elmshaeuser,124
+Keith,0003-Third Ward,State Senate,NA,NA,Steve Erdman,174
+Keith,0003-Third Ward,State Senate,NA,NA,WRITE-IN,1
+Keith,0004-Fourth Ward,State Senate,NA,NA,Karl Elmshaeuser,157
+Keith,0004-Fourth Ward,State Senate,NA,NA,Steve Erdman,188
+Keith,0004-Fourth Ward,State Senate,NA,NA,WRITE-IN,0
+Keith,0005-Fifth Ward,State Senate,NA,NA,Karl Elmshaeuser,214
+Keith,0005-Fifth Ward,State Senate,NA,NA,Steve Erdman,296
+Keith,0005-Fifth Ward,State Senate,NA,NA,WRITE-IN,3
+Keith,0006-Brule,State Senate,NA,NA,Karl Elmshaeuser,112
+Keith,0006-Brule,State Senate,NA,NA,Steve Erdman,187
+Keith,0006-Brule,State Senate,NA,NA,WRITE-IN,1
+Keith,0007-Logan,State Senate,NA,NA,Karl Elmshaeuser,56
+Keith,0007-Logan,State Senate,NA,NA,Steve Erdman,53
+Keith,0007-Logan,State Senate,NA,NA,WRITE-IN,0
+Keith,0008-Lonergan,State Senate,NA,NA,Karl Elmshaeuser,82
+Keith,0008-Lonergan,State Senate,NA,NA,Steve Erdman,75
+Keith,0008-Lonergan,State Senate,NA,NA,WRITE-IN,0
+Keith,0009-Paxton,State Senate,NA,NA,Karl Elmshaeuser,123
+Keith,0009-Paxton,State Senate,NA,NA,Steve Erdman,254
+Keith,0009-Paxton,State Senate,NA,NA,WRITE-IN,2
+Keith,0010-Rural Ogalala,State Senate,NA,NA,Karl Elmshaeuser,147
+Keith,0010-Rural Ogalala,State Senate,NA,NA,Steve Erdman,217
+Keith,0010-Rural Ogalala,State Senate,NA,NA,WRITE-IN,0
+Keith,0011-Whitetail,State Senate,NA,NA,Karl Elmshaeuser,76
+Keith,0011-Whitetail,State Senate,NA,NA,Steve Erdman,65
+Keith,0011-Whitetail,State Senate,NA,NA,WRITE-IN,0
+Keith,0013-Absentee,State Senate,NA,NA,Karl Elmshaeuser,321
+Keith,0013-Absentee,State Senate,NA,NA,Steve Erdman,312
+Keith,0013-Absentee,State Senate,NA,NA,WRITE-IN,4

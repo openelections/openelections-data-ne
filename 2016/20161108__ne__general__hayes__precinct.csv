@@ -1,0 +1,22 @@
+county,precinct,office,district,party,candidate,election_day,early_votes,votes
+Hayes,1,President,,Republican,Donald Trump,114,53,167
+Hayes,1,President,,Democratic,Hillary Clinton,6,1,7
+Hayes,1,President,,Libertarian,Gary Johnson,2,0,2
+Hayes,1,President,,Green,Jill Stein,0,0,0
+Hayes,1,President,,,Write-In,2,0,2
+Hayes,1,U.S. House,3,Republican,Adrian Smith,113,47,160
+Hayes,1,U.S. House,3,,Write-In,0,0,0
+Hayes,2,President,,Republican,Donald Trump,91,51,142
+Hayes,2,President,,Democratic,Hillary Clinton,12,6,18
+Hayes,2,President,,Libertarian,Gary Johnson,3,1,4
+Hayes,2,President,,Green,Jill Stein,1,0,1
+Hayes,2,President,,,Write-In,0,0,0
+Hayes,2,U.S. House,3,Republican,Adrian Smith,91,53,144
+Hayes,2,U.S. House,3,,Write-In,1,1,2
+Hayes,3,President,,Republican,Donald Trump,87,76,163
+Hayes,3,President,,Democratic,Hillary Clinton,3,2,5
+Hayes,3,President,,Libertarian,Gary Johnson,1,1,2
+Hayes,3,President,,Green,Jill Stein,0,0,0
+Hayes,3,President,,,Write-In,0,1,1
+Hayes,3,U.S. House,3,Republican,Adrian Smith,74,67,141
+Hayes,3,U.S. House,3,,Write-In,1,3,4

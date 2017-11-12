@@ -1,0 +1,137 @@
+county,precinct,office,district,party,candidate,votes
+Seward,B,President,NA,Republican,Trump/Pence,139
+Seward,C,President,NA,Republican,Trump/Pence,199
+Seward,E,President,NA,Republican,Trump/Pence,340
+Seward,G,President,NA,Republican,Trump/Pence,165
+Seward,H,President,NA,Republican,Trump/Pence,375
+Seward,I,President,NA,Republican,Trump/Pence,416
+Seward,J,President,NA,Republican,Trump/Pence,150
+Seward,K,President,NA,Republican,Trump/Pence,220
+Seward,M-BX,President,NA,Republican,Trump/Pence,217
+Seward,M-CO,President,NA,Republican,Trump/Pence,175
+Seward,O-1,President,NA,Republican,Trump/Pence,312
+Seward,O-2,President,NA,Republican,Trump/Pence,415
+Seward,S-1,President,NA,Republican,Trump/Pence,542
+Seward,S-2,President,NA,Republican,Trump/Pence,537
+Seward,S-3,President,NA,Republican,Trump/Pence,412
+Seward,S-4,President,NA,Republican,Trump/Pence,255
+Seward,Absentee,President,NA,Republican,Trump/Pence,585
+Seward,B,President,NA,Democrat,Clinton/Kaine,25
+Seward,C,President,NA,Democrat,Clinton/Kaine,59
+Seward,E,President,NA,Democrat,Clinton/Kaine,69
+Seward,G,President,NA,Democrat,Clinton/Kaine,54
+Seward,H,President,NA,Democrat,Clinton/Kaine,130
+Seward,I,President,NA,Democrat,Clinton/Kaine,100
+Seward,J,President,NA,Democrat,Clinton/Kaine,40
+Seward,K,President,NA,Democrat,Clinton/Kaine,67
+Seward,M-BX,President,NA,Democrat,Clinton/Kaine,42
+Seward,M-CO,President,NA,Democrat,Clinton/Kaine,41
+Seward,O-1,President,NA,Democrat,Clinton/Kaine,68
+Seward,O-2,President,NA,Democrat,Clinton/Kaine,96
+Seward,S-1,President,NA,Democrat,Clinton/Kaine,205
+Seward,S-2,President,NA,Democrat,Clinton/Kaine,254
+Seward,S-3,President,NA,Democrat,Clinton/Kaine,182
+Seward,S-4,President,NA,Democrat,Clinton/Kaine,101
+Seward,Absentee,President,NA,Democrat,Clinton/Kaine,342
+Seward,B,President,NA,Libertarian,Johnson/Weld,10
+Seward,C,President,NA,Libertarian,Johnson/Weld,14
+Seward,E,President,NA,Libertarian,Johnson/Weld,25
+Seward,G,President,NA,Libertarian,Johnson/Weld,6
+Seward,H,President,NA,Libertarian,Johnson/Weld,27
+Seward,I,President,NA,Libertarian,Johnson/Weld,22
+Seward,J,President,NA,Libertarian,Johnson/Weld,7
+Seward,K,President,NA,Libertarian,Johnson/Weld,12
+Seward,M-BX,President,NA,Libertarian,Johnson/Weld,13
+Seward,M-CO,President,NA,Libertarian,Johnson/Weld,5
+Seward,O-1,President,NA,Libertarian,Johnson/Weld,18
+Seward,O-2,President,NA,Libertarian,Johnson/Weld,21
+Seward,S-1,President,NA,Libertarian,Johnson/Weld,33
+Seward,S-2,President,NA,Libertarian,Johnson/Weld,22
+Seward,S-3,President,NA,Libertarian,Johnson/Weld,32
+Seward,S-4,President,NA,Libertarian,Johnson/Weld,25
+Seward,Absentee,President,NA,Libertarian,Johnson/Weld,45
+Seward,B,President,NA,By Petition,Stein/Baraka,3
+Seward,C,President,NA,By Petition,Stein/Baraka,2
+Seward,E,President,NA,By Petition,Stein/Baraka,7
+Seward,G,President,NA,By Petition,Stein/Baraka,0
+Seward,H,President,NA,By Petition,Stein/Baraka,1
+Seward,I,President,NA,By Petition,Stein/Baraka,12
+Seward,J,President,NA,By Petition,Stein/Baraka,1
+Seward,K,President,NA,By Petition,Stein/Baraka,1
+Seward,M-BX,President,NA,By Petition,Stein/Baraka,4
+Seward,M-CO,President,NA,By Petition,Stein/Baraka,1
+Seward,O-1,President,NA,By Petition,Stein/Baraka,3
+Seward,O-2,President,NA,By Petition,Stein/Baraka,3
+Seward,S-1,President,NA,By Petition,Stein/Baraka,2
+Seward,S-2,President,NA,By Petition,Stein/Baraka,9
+Seward,S-3,President,NA,By Petition,Stein/Baraka,13
+Seward,S-4,President,NA,By Petition,Stein/Baraka,7
+Seward,Absentee,President,NA,By Petition,Stein/Baraka,15
+Seward,B,President,NA,NA,Write-In,1
+Seward,C,President,NA,NA,Write-In,6
+Seward,E,President,NA,NA,Write-In,9
+Seward,G,President,NA,NA,Write-In,5
+Seward,H,President,NA,NA,Write-In,9
+Seward,I,President,NA,NA,Write-In,11
+Seward,J,President,NA,NA,Write-In,3
+Seward,K,President,NA,NA,Write-In,3
+Seward,M-BX,President,NA,NA,Write-In,4
+Seward,M-CO,President,NA,NA,Write-In,2
+Seward,O-1,President,NA,NA,Write-In,9
+Seward,O-2,President,NA,NA,Write-In,6
+Seward,S-1,President,NA,NA,Write-In,19
+Seward,S-2,President,NA,NA,Write-In,24
+Seward,S-3,President,NA,NA,Write-In,25
+Seward,S-4,President,NA,NA,Write-In,11
+Seward,Absentee,President,NA,NA,Write-In,20
+Seward,B,U.S. House,1,Republican,Jeff Fortenberry,143
+Seward,C,U.S. House,1,Republican,Jeff Fortenberry,231
+Seward,E,U.S. House,1,Republican,Jeff Fortenberry,371
+Seward,G,U.S. House,1,Republican,Jeff Fortenberry,185
+Seward,H,U.S. House,1,Republican,Jeff Fortenberry,414
+Seward,I,U.S. House,1,Republican,Jeff Fortenberry,448
+Seward,J,U.S. House,1,Republican,Jeff Fortenberry,153
+Seward,K,U.S. House,1,Republican,Jeff Fortenberry,241
+Seward,M-BX,U.S. House,1,Republican,Jeff Fortenberry,233
+Seward,M-CO,U.S. House,1,Republican,Jeff Fortenberry,178
+Seward,O-1,U.S. House,1,Republican,Jeff Fortenberry,341
+Seward,O-2,U.S. House,1,Republican,Jeff Fortenberry,447
+Seward,S-1,U.S. House,1,Republican,Jeff Fortenberry,654
+Seward,S-2,U.S. House,1,Republican,Jeff Fortenberry,680
+Seward,S-3,U.S. House,1,Republican,Jeff Fortenberry,490
+Seward,S-4,U.S. House,1,Republican,Jeff Fortenberry,316
+Seward,Absentee,U.S. House,1,Republican,Jeff Fortenberry,728
+Seward,B,U.S. House,1,Democrat,Daniel M. Wik,37
+Seward,C,U.S. House,1,Democrat,Daniel M. Wik,46
+Seward,E,U.S. House,1,Democrat,Daniel M. Wik,67
+Seward,G,U.S. House,1,Democrat,Daniel M. Wik,37
+Seward,H,U.S. House,1,Democrat,Daniel M. Wik,121
+Seward,I,U.S. House,1,Democrat,Daniel M. Wik,94
+Seward,J,U.S. House,1,Democrat,Daniel M. Wik,42
+Seward,K,U.S. House,1,Democrat,Daniel M. Wik,59
+Seward,M-BX,U.S. House,1,Democrat,Daniel M. Wik,43
+Seward,M-CO,U.S. House,1,Democrat,Daniel M. Wik,46
+Seward,O-1,U.S. House,1,Democrat,Daniel M. Wik,66
+Seward,O-2,U.S. House,1,Democrat,Daniel M. Wik,84
+Seward,S-1,U.S. House,1,Democrat,Daniel M. Wik,136
+Seward,S-2,U.S. House,1,Democrat,Daniel M. Wik,156
+Seward,S-3,U.S. House,1,Democrat,Daniel M. Wik,160
+Seward,S-4,U.S. House,1,Democrat,Daniel M. Wik,75
+Seward,Absentee,U.S. House,1,Democrat,Daniel M. Wik,249
+Seward,B,U.S. House,1,NA,Write-In,1
+Seward,C,U.S. House,1,NA,Write-In,0
+Seward,E,U.S. House,1,NA,Write-In,1
+Seward,G,U.S. House,1,NA,Write-In,0
+Seward,H,U.S. House,1,NA,Write-In,1
+Seward,I,U.S. House,1,NA,Write-In,1
+Seward,J,U.S. House,1,NA,Write-In,0
+Seward,K,U.S. House,1,NA,Write-In,0
+Seward,M-BX,U.S. House,1,NA,Write-In,0
+Seward,M-CO,U.S. House,1,NA,Write-In,1
+Seward,O-1,U.S. House,1,NA,Write-In,1
+Seward,O-2,U.S. House,1,NA,Write-In,0
+Seward,S-1,U.S. House,1,NA,Write-In,1
+Seward,S-2,U.S. House,1,NA,Write-In,0
+Seward,S-3,U.S. House,1,NA,Write-In,1
+Seward,S-4,U.S. House,1,NA,Write-In,0
+Seward,Absentee,U.S. House,1,NA,Write-In,1

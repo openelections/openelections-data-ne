@@ -1,0 +1,97 @@
+county,precinct,office,district,party,candidate,votes
+Chase,Champion/Lamar,President,,Republican,Donald J. Trump,180
+Chase,Imperial East,President,,Republican,Donald J. Trump,225
+Chase,Imperial West,President,,Republican,Donald J. Trump,436
+Chase,Imperial Rural,President,,Republican,Donald J. Trump,243
+Chase,Wauneta,President,,Republican,Donald J. Trump,296
+Chase,Early,President,,Republican,Donald J. Trump,247
+Chase,Provisional,President,,Republican,Donald J. Trump,27
+Chase,Total,President,,Republican,Donald J. Trump,1648
+Chase,Champion/Lamar,President,,Democratic,Hillary Clinton,14
+Chase,Imperial East,President,,Democratic,Hillary Clinton,27
+Chase,Imperial West,President,,Democratic,Hillary Clinton,39
+Chase,Imperial Rural,President,,Democratic,Hillary Clinton,18
+Chase,Wauneta,President,,Democratic,Hillary Clinton,26
+Chase,Early,President,,Democratic,Hillary Clinton,47
+Chase,Provisional,President,,Democratic,Hillary Clinton,0
+Chase,Total,President,,Democratic,Hillary Clinton,171
+Chase,Champion/Lamar,President,,Libertarian,Gary Johnson,4
+Chase,Imperial East,President,,Libertarian,Gary Johnson,7
+Chase,Imperial West,President,,Libertarian,Gary Johnson,18
+Chase,Imperial Rural,President,,Libertarian,Gary Johnson,5
+Chase,Wauneta,President,,Libertarian,Gary Johnson,10
+Chase,Early,President,,Libertarian,Gary Johnson,9
+Chase,Provisional,President,,Libertarian,Gary Johnson,1
+Chase,Total,President,,Libertarian,Gary Johnson,54
+Chase,Champion/Lamar,President,,,Jill Stein,0
+Chase,Imperial East,President,,,Jill Stein,2
+Chase,Imperial West,President,,,Jill Stein,2
+Chase,Imperial Rural,President,,,Jill Stein,0
+Chase,Wauneta,President,,,Jill Stein,1
+Chase,Early,President,,,Jill Stein,7
+Chase,Provisional,President,,,Jill Stein,0
+Chase,Total,President,,,Jill Stein,6
+Chase,Champion/Lamar,President,,,Under Votes,2
+Chase,Imperial East,President,,,Under Votes,1
+Chase,Imperial West,President,,,Under Votes,3
+Chase,Imperial Rural,President,,,Under Votes,2
+Chase,Wauneta,President,,,Under Votes,5
+Chase,Early,President,,,Under Votes,1
+Chase,Provisional,President,,,Under Votes,0
+Chase,Total,President,,,Under Votes,15
+Chase,Champion/Lamar,President,,,Over Votes,0
+Chase,Imperial East,President,,,Over Votes,0
+Chase,Imperial West,President,,,Over Votes,7
+Chase,Imperial Rural,President,,,Over Votes,0
+Chase,Wauneta,President,,,Over Votes,1
+Chase,Early,President,,,Over Votes,0
+Chase,Provisional,President,,,Over Votes,0
+Chase,Total,President,,,Over Votes,2
+Chase,Champion/Lamar,President,,,Write-ins,1
+Chase,Imperial East,President,,,Write-ins,5
+Chase,Imperial West,President,,,Write-ins,4
+Chase,Imperial Rural,President,,,Write-ins,4
+Chase,Wauneta,President,,,Write-ins,3
+Chase,Early,President,,,Write-ins,1
+Chase,Provisional,President,,,Write-ins,0
+Chase,Total,President,,,Write-ins,19
+Chase,Champion/Lamar,President,,,,201
+Chase,Imperial East,President,,,,268
+Chase,Imperial West,President,,,,503
+Chase,Imperial Rural,President,,,,272
+Chase,Wauneta,President,,,,343
+Chase,Early,President,,,,300
+Chase,Provisional,President,,,,28
+Chase,Total,President,,,,1915
+Chase,Champion/Lamar,U.S. House,3,Republican,Adrian Smith,777
+Chase,Imperial East,U.S. House,3,Republican,Adrian Smith,235
+Chase,Imperial West,U.S. House,3,Republican,Adrian Smith,449
+Chase,Imperial Rural,U.S. House,3,Republican,Adrian Smith,249
+Chase,Wauneta,U.S. House,3,Republican,Adrian Smith,309
+Chase,Early,U.S. House,3,Republican,Adrian Smith,253
+Chase,Provisional,U.S. House,3,Republican,Adrian Smith,25
+Chase,Total,U.S. House,3,Republican,Adrian Smith,1697
+Chase,Champion/Lamar,U.S. House,3,,Under Votes,24
+Chase,Imperial East,U.S. House,3,,Under Votes,32
+Chase,Imperial West,U.S. House,3,,Under Votes,50
+Chase,Imperial Rural,U.S. House,3,,Under Votes,21
+Chase,Wauneta,U.S. House,3,,Under Votes,32
+Chase,Early,U.S. House,3,,Under Votes,43
+Chase,Provisional,U.S. House,3,,Under Votes,0
+Chase,Total,U.S. House,3,,Under Votes,202
+Chase,Champion/Lamar,U.S. House,3,,Over Votes,0
+Chase,Imperial East,U.S. House,3,,Over Votes,0
+Chase,Imperial West,U.S. House,3,,Over Votes,1
+Chase,Imperial Rural,U.S. House,3,,Over Votes,0
+Chase,Wauneta,U.S. House,3,,Over Votes,0
+Chase,Early,U.S. House,3,,Over Votes,0
+Chase,Provisional,U.S. House,3,,Over Votes,0
+Chase,Total,U.S. House,3,,Over Votes,1
+Chase,Champion/Lamar,U.S. House,3,,Write-ins,0
+Chase,Imperial East,U.S. House,3,,Write-ins,1
+Chase,Imperial West,U.S. House,3,,Write-ins,3
+Chase,Imperial Rural,U.S. House,3,,Write-ins,2
+Chase,Wauneta,U.S. House,3,,Write-ins,2
+Chase,Early,U.S. House,3,,Write-ins,4
+Chase,Provisional,U.S. House,3,,Write-ins,0
+Chase,Total,U.S. House,3,,Write-ins,12

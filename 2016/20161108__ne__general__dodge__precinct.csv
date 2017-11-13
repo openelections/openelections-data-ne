@@ -1,0 +1,386 @@
+county,precinct,office,district,party,candidate,votes
+Dodge,Fremont - 1A ,President,,Republican,Donald J. Trump,359
+Dodge,Fremont - 1B ,President,,Republican,Donald J. Trump,286
+Dodge,Fremont - 1C ,President,,Republican,Donald J. Trump,457
+Dodge,Fremont - 1D ,President,,Republican,Donald J. Trump,192
+Dodge,Fremont - 1E ,President,,Republican,Donald J. Trump,326
+Dodge,Fremont - 2A ,President,,Republican,Donald J. Trump,233
+Dodge,Fremont - 2B ,President,,Republican,Donald J. Trump,210
+Dodge,Fremont - 2C ,President,,Republican,Donald J. Trump,471
+Dodge,Fremont - 2D ,President,,Republican,Donald J. Trump,166
+Dodge,Fremont - 2E ,President,,Republican,Donald J. Trump,306
+Dodge,Fremont - 3A ,President,,Republican,Donald J. Trump,156
+Dodge,Fremont - 3B ,President,,Republican,Donald J. Trump,82
+Dodge,Fremont - 3C ,President,,Republican,Donald J. Trump,171
+Dodge,Fremont - 3D ,President,,Republican,Donald J. Trump,263
+Dodge,Fremont - 3E ,President,,Republican,Donald J. Trump,227
+Dodge,Fremont - 4A ,President,,Republican,Donald J. Trump,300
+Dodge,Fremont - 4B ,President,,Republican,Donald J. Trump,196
+Dodge,Fremont - 4C ,President,,Republican,Donald J. Trump,414
+Dodge,Fremont - 4D ,President,,Republican,Donald J. Trump,455
+Dodge,Fremont - 4E ,President,,Republican,Donald J. Trump,163
+Dodge,City of North Bend ,President,,Republican,Donald J. Trump,327
+Dodge,City of Scribner ,President,,Republican,Donald J. Trump,299
+Dodge,CU/EV ,President,,Republican,Donald J. Trump,171
+Dodge,Webster Township ,President,,Republican,Donald J. Trump,298
+Dodge,Pebble Township ,President,,Republican,Donald J. Trump,166
+Dodge,Platte East ,President,,Republican,Donald J. Trump,149
+Dodge,Platte West ,President,,Republican,Donald J. Trump,371
+Dodge,Nickerson Township ,President,,Republican,Donald J. Trump,292
+Dodge,City of Hooper ,President,,Republican,Donald J. Trump,238
+Dodge,HW/LG ,President,,Republican,Donald J. Trump,294
+Dodge,Elkhorn Township ,President,,Republican,Donald J. Trump,124
+Dodge,CT/UN ,President,,Republican,Donald J. Trump,360
+Dodge,New/Former Resident ,President,,Republican,Donald J. Trump,0
+Dodge,ABSENTEE ,President,,Republican,Donald J. Trump,1411
+Dodge,TOTALS ,President,,Republican,Donald J. Trump,9933
+Dodge,Fremont - 1A ,President,,Democratic,Hillary Clinton,167
+Dodge,Fremont - 1B ,President,,Democratic,Hillary Clinton,156
+Dodge,Fremont - 1C ,President,,Democratic,Hillary Clinton,181
+Dodge,Fremont - 1D ,President,,Democratic,Hillary Clinton,75
+Dodge,Fremont - 1E ,President,,Democratic,Hillary Clinton,182
+Dodge,Fremont - 2A ,President,,Democratic,Hillary Clinton,121
+Dodge,Fremont - 2B ,President,,Democratic,Hillary Clinton,98
+Dodge,Fremont - 2C ,President,,Democratic,Hillary Clinton,180
+Dodge,Fremont - 2D ,President,,Democratic,Hillary Clinton,63
+Dodge,Fremont - 2E ,President,,Democratic,Hillary Clinton,115
+Dodge,Fremont - 3A ,President,,Democratic,Hillary Clinton,87
+Dodge,Fremont - 3B ,President,,Democratic,Hillary Clinton,59
+Dodge,Fremont - 3C ,President,,Democratic,Hillary Clinton,99
+Dodge,Fremont - 3D ,President,,Democratic,Hillary Clinton,154
+Dodge,Fremont - 3E ,President,,Democratic,Hillary Clinton,113
+Dodge,Fremont - 4A ,President,,Democratic,Hillary Clinton,127
+Dodge,Fremont - 4B ,President,,Democratic,Hillary Clinton,93
+Dodge,Fremont - 4C ,President,,Democratic,Hillary Clinton,201
+Dodge,Fremont - 4D ,President,,Democratic,Hillary Clinton,192
+Dodge,Fremont - 4E ,President,,Democratic,Hillary Clinton,75
+Dodge,City of North Bend ,President,,Democratic,Hillary Clinton,108
+Dodge,City of Scribner ,President,,Democratic,Hillary Clinton,58
+Dodge,CU/EV ,President,,Democratic,Hillary Clinton,37
+Dodge,Webster Township ,President,,Democratic,Hillary Clinton,64
+Dodge,Pebble Township ,President,,Democratic,Hillary Clinton,23
+Dodge,Platte East ,President,,Democratic,Hillary Clinton,59
+Dodge,Platte West ,President,,Democratic,Hillary Clinton,100
+Dodge,Nickerson Township ,President,,Democratic,Hillary Clinton,93
+Dodge,City of Hooper ,President,,Democratic,Hillary Clinton,89
+Dodge,HW/LG ,President,,Democratic,Hillary Clinton,55
+Dodge,Elkhorn Township ,President,,Democratic,Hillary Clinton,36
+Dodge,CT/UN ,President,,Democratic,Hillary Clinton,71
+Dodge,New/Former Resident ,President,,Democratic,Hillary Clinton,0
+Dodge,ABSENTEE ,President,,Democratic,Hillary Clinton,1213
+Dodge,TOTALS ,President,,Democratic,Hillary Clinton,4544
+Dodge,Fremont - 1A ,President,,Libertarian,Gary Johnson,26
+Dodge,Fremont - 1B ,President,,Libertarian,Gary Johnson,32
+Dodge,Fremont - 1C ,President,,Libertarian,Gary Johnson,18
+Dodge,Fremont - 1D ,President,,Libertarian,Gary Johnson,8
+Dodge,Fremont - 1E ,President,,Libertarian,Gary Johnson,10
+Dodge,Fremont - 2A ,President,,Libertarian,Gary Johnson,14
+Dodge,Fremont - 2B ,President,,Libertarian,Gary Johnson,17
+Dodge,Fremont - 2C ,President,,Libertarian,Gary Johnson,38
+Dodge,Fremont - 2D ,President,,Libertarian,Gary Johnson,12
+Dodge,Fremont - 2E ,President,,Libertarian,Gary Johnson,18
+Dodge,Fremont - 3A ,President,,Libertarian,Gary Johnson,18
+Dodge,Fremont - 3B ,President,,Libertarian,Gary Johnson,7
+Dodge,Fremont - 3C ,President,,Libertarian,Gary Johnson,15
+Dodge,Fremont - 3D ,President,,Libertarian,Gary Johnson,15
+Dodge,Fremont - 3E ,President,,Libertarian,Gary Johnson,17
+Dodge,Fremont - 4A ,President,,Libertarian,Gary Johnson,30
+Dodge,Fremont - 4B ,President,,Libertarian,Gary Johnson,15
+Dodge,Fremont - 4C ,President,,Libertarian,Gary Johnson,30
+Dodge,Fremont - 4D ,President,,Libertarian,Gary Johnson,27
+Dodge,Fremont - 4E ,President,,Libertarian,Gary Johnson,14
+Dodge,City of North Bend ,President,,Libertarian,Gary Johnson,24
+Dodge,City of Scribner ,President,,Libertarian,Gary Johnson,16
+Dodge,CU/EV ,President,,Libertarian,Gary Johnson,10
+Dodge,Webster Township ,President,,Libertarian,Gary Johnson,6
+Dodge,Pebble Township ,President,,Libertarian,Gary Johnson,12
+Dodge,Platte East ,President,,Libertarian,Gary Johnson,6
+Dodge,Platte West ,President,,Libertarian,Gary Johnson,12
+Dodge,Nickerson Township ,President,,Libertarian,Gary Johnson,15
+Dodge,City of Hooper ,President,,Libertarian,Gary Johnson,15
+Dodge,HW/LG ,President,,Libertarian,Gary Johnson,19
+Dodge,Elkhorn Township ,President,,Libertarian,Gary Johnson,7
+Dodge,CT/UN ,President,,Libertarian,Gary Johnson,17
+Dodge,New/Former Resident ,President,,Libertarian,Gary Johnson,0
+Dodge,ABSENTEE ,President,,Libertarian,Gary Johnson,84
+Dodge,TOTALS ,President,,Libertarian,Gary Johnson,624
+Dodge,Fremont - 1A ,President,,,Jill Stein,7
+Dodge,Fremont - 1B ,President,,,Jill Stein,2
+Dodge,Fremont - 1C ,President,,,Jill Stein,3
+Dodge,Fremont - 1D ,President,,,Jill Stein,6
+Dodge,Fremont - 1E ,President,,,Jill Stein,5
+Dodge,Fremont - 2A ,President,,,Jill Stein,11
+Dodge,Fremont - 2B ,President,,,Jill Stein,2
+Dodge,Fremont - 2C ,President,,,Jill Stein,5
+Dodge,Fremont - 2D ,President,,,Jill Stein,3
+Dodge,Fremont - 2E ,President,,,Jill Stein,5
+Dodge,Fremont - 3A ,President,,,Jill Stein,2
+Dodge,Fremont - 3B ,President,,,Jill Stein,3
+Dodge,Fremont - 3C ,President,,,Jill Stein,7
+Dodge,Fremont - 3D ,President,,,Jill Stein,6
+Dodge,Fremont - 3E ,President,,,Jill Stein,8
+Dodge,Fremont - 4A ,President,,,Jill Stein,6
+Dodge,Fremont - 4B ,President,,,Jill Stein,7
+Dodge,Fremont - 4C ,President,,,Jill Stein,4
+Dodge,Fremont - 4D ,President,,,Jill Stein,3
+Dodge,Fremont - 4E ,President,,,Jill Stein,3
+Dodge,City of North Bend ,President,,,Jill Stein,4
+Dodge,City of Scribner ,President,,,Jill Stein,3
+Dodge,CU/EV ,President,,,Jill Stein,3
+Dodge,Webster Township ,President,,,Jill Stein,0
+Dodge,Pebble Township ,President,,,Jill Stein,2
+Dodge,Platte East ,President,,,Jill Stein,1
+Dodge,Platte West ,President,,,Jill Stein,4
+Dodge,Nickerson Township ,President,,,Jill Stein,5
+Dodge,City of Hooper ,President,,,Jill Stein,2
+Dodge,HW/LG ,President,,,Jill Stein,6
+Dodge,Elkhorn Township ,President,,,Jill Stein,0
+Dodge,CT/UN ,President,,,Jill Stein,2
+Dodge,New/Former Resident ,President,,,Jill Stein,0
+Dodge,ABSENTEE ,President,,,Jill Stein,32
+Dodge,TOTALS ,President,,,Jill Stein,162
+Dodge,Fremont - 1A ,President,,,Write-ins,11
+Dodge,Fremont - 1B ,President,,,Write-ins,9
+Dodge,Fremont - 1C ,President,,,Write-ins,20
+Dodge,Fremont - 1D ,President,,,Write-ins,5
+Dodge,Fremont - 1E ,President,,,Write-ins,14
+Dodge,Fremont - 2A ,President,,,Write-ins,5
+Dodge,Fremont - 2B ,President,,,Write-ins,9
+Dodge,Fremont - 2C ,President,,,Write-ins,7
+Dodge,Fremont - 2D ,President,,,Write-ins,6
+Dodge,Fremont - 2E ,President,,,Write-ins,7
+Dodge,Fremont - 3A ,President,,,Write-ins,12
+Dodge,Fremont - 3B ,President,,,Write-ins,1
+Dodge,Fremont - 3C ,President,,,Write-ins,3
+Dodge,Fremont - 3D ,President,,,Write-ins,6
+Dodge,Fremont - 3E ,President,,,Write-ins,8
+Dodge,Fremont - 4A ,President,,,Write-ins,5
+Dodge,Fremont - 4B ,President,,,Write-ins,8
+Dodge,Fremont - 4C ,President,,,Write-ins,13
+Dodge,Fremont - 4D ,President,,,Write-ins,12
+Dodge,Fremont - 4E ,President,,,Write-ins,6
+Dodge,City of North Bend ,President,,,Write-ins,10
+Dodge,City of Scribner ,President,,,Write-ins,6
+Dodge,CU/EV ,President,,,Write-ins,2
+Dodge,Webster Township ,President,,,Write-ins,2
+Dodge,Pebble Township ,President,,,Write-ins,3
+Dodge,Platte East ,President,,,Write-ins,4
+Dodge,Platte West ,President,,,Write-ins,12
+Dodge,Nickerson Township ,President,,,Write-ins,2
+Dodge,City of Hooper ,President,,,Write-ins,2
+Dodge,HW/LG ,President,,,Write-ins,3
+Dodge,Elkhorn Township ,President,,,Write-ins,0
+Dodge,CT/UN ,President,,,Write-ins,8
+Dodge,New/Former Resident ,President,,,Write-ins,0
+Dodge,ABSENTEE ,President,,,Write-ins,45
+Dodge,TOTALS ,President,,,Write-ins,266
+Dodge,Fremont - 1A ,U.S. House,1,Republican,Jeff Fortenberry,425
+Dodge,Fremont - 1B ,U.S. House,1,Republican,Jeff Fortenberry,357
+Dodge,Fremont - 1C ,U.S. House,1,Republican,Jeff Fortenberry,546
+Dodge,Fremont - 1D ,U.S. House,1,Republican,Jeff Fortenberry,218
+Dodge,Fremont - 1E ,U.S. House,1,Republican,Jeff Fortenberry,412
+Dodge,Fremont - 2A ,U.S. House,1,Republican,Jeff Fortenberry,276
+Dodge,Fremont - 2B ,U.S. House,1,Republican,Jeff Fortenberry,255
+Dodge,Fremont - 2C ,U.S. House,1,Republican,Jeff Fortenberry,539
+Dodge,Fremont - 2D ,U.S. House,1,Republican,Jeff Fortenberry,182
+Dodge,Fremont - 2E ,U.S. House,1,Republican,Jeff Fortenberry,350
+Dodge,Fremont - 3A ,U.S. House,1,Republican,Jeff Fortenberry,192
+Dodge,Fremont - 3B ,U.S. House,1,Republican,Jeff Fortenberry,88
+Dodge,Fremont - 3C ,U.S. House,1,Republican,Jeff Fortenberry,191
+Dodge,Fremont - 3D ,U.S. House,1,Republican,Jeff Fortenberry,324
+Dodge,Fremont - 3E ,U.S. House,1,Republican,Jeff Fortenberry,270
+Dodge,Fremont - 4A ,U.S. House,1,Republican,Jeff Fortenberry,356
+Dodge,Fremont - 4B ,U.S. House,1,Republican,Jeff Fortenberry,221
+Dodge,Fremont - 4C ,U.S. House,1,Republican,Jeff Fortenberry,495
+Dodge,Fremont - 4D ,U.S. House,1,Republican,Jeff Fortenberry,561
+Dodge,Fremont - 4E ,U.S. House,1,Republican,Jeff Fortenberry,184
+Dodge,City of North Bend ,U.S. House,1,Republican,Jeff Fortenberry,376
+Dodge,City of Scribner ,U.S. House,1,Republican,Jeff Fortenberry,330
+Dodge,CU/EV ,U.S. House,1,Republican,Jeff Fortenberry,186
+Dodge,Webster Township ,U.S. House,1,Republican,Jeff Fortenberry,289
+Dodge,Pebble Township ,U.S. House,1,Republican,Jeff Fortenberry,178
+Dodge,Platte East ,U.S. House,1,Republican,Jeff Fortenberry,158
+Dodge,Platte West ,U.S. House,1,Republican,Jeff Fortenberry,394
+Dodge,Nickerson Township ,U.S. House,1,Republican,Jeff Fortenberry,314
+Dodge,City of Hooper ,U.S. House,1,Republican,Jeff Fortenberry,271
+Dodge,HW/LG ,U.S. House,1,Republican,Jeff Fortenberry,320
+Dodge,Elkhorn Township ,U.S. House,1,Republican,Jeff Fortenberry,130
+Dodge,CT/UN ,U.S. House,1,Republican,Jeff Fortenberry,380
+Dodge,New/Former Resident ,U.S. House,1,Republican,Jeff Fortenberry,
+Dodge,ABSENTEE ,U.S. House,1,Republican,Jeff Fortenberry,1713
+Dodge,TOTALS ,U.S. House,1,Republican,Jeff Fortenberry,11481
+Dodge,Fremont - 1A ,U.S. House,1,Democratic,Daniel M. Wik,115
+Dodge,Fremont - 1B ,U.S. House,1,Democratic,Daniel M. Wik,112
+Dodge,Fremont - 1C ,U.S. House,1,Democratic,Daniel M. Wik,117
+Dodge,Fremont - 1D ,U.S. House,1,Democratic,Daniel M. Wik,52
+Dodge,Fremont - 1E ,U.S. House,1,Democratic,Daniel M. Wik,114
+Dodge,Fremont - 2A ,U.S. House,1,Democratic,Daniel M. Wik,99
+Dodge,Fremont - 2B ,U.S. House,1,Democratic,Daniel M. Wik,76
+Dodge,Fremont - 2C ,U.S. House,1,Democratic,Daniel M. Wik,134
+Dodge,Fremont - 2D ,U.S. House,1,Democratic,Daniel M. Wik,52
+Dodge,Fremont - 2E ,U.S. House,1,Democratic,Daniel M. Wik,89
+Dodge,Fremont - 3A ,U.S. House,1,Democratic,Daniel M. Wik,69
+Dodge,Fremont - 3B ,U.S. House,1,Democratic,Daniel M. Wik,59
+Dodge,Fremont - 3C ,U.S. House,1,Democratic,Daniel M. Wik,94
+Dodge,Fremont - 3D ,U.S. House,1,Democratic,Daniel M. Wik,111
+Dodge,Fremont - 3E ,U.S. House,1,Democratic,Daniel M. Wik,93
+Dodge,Fremont - 4A ,U.S. House,1,Democratic,Daniel M. Wik,100
+Dodge,Fremont - 4B ,U.S. House,1,Democratic,Daniel M. Wik,81
+Dodge,Fremont - 4C ,U.S. House,1,Democratic,Daniel M. Wik,139
+Dodge,Fremont - 4D ,U.S. House,1,Democratic,Daniel M. Wik,111
+Dodge,Fremont - 4E ,U.S. House,1,Democratic,Daniel M. Wik,64
+Dodge,City of North Bend ,U.S. House,1,Democratic,Daniel M. Wik,78
+Dodge,City of Scribner ,U.S. House,1,Democratic,Daniel M. Wik,43
+Dodge,CU/EV ,U.S. House,1,Democratic,Daniel M. Wik,25
+Dodge,Webster Township ,U.S. House,1,Democratic,Daniel M. Wik,60
+Dodge,Pebble Township ,U.S. House,1,Democratic,Daniel M. Wik,20
+Dodge,Platte East ,U.S. House,1,Democratic,Daniel M. Wik,50
+Dodge,Platte West ,U.S. House,1,Democratic,Daniel M. Wik,87
+Dodge,Nickerson Township ,U.S. House,1,Democratic,Daniel M. Wik,81
+Dodge,City of Hooper ,U.S. House,1,Democratic,Daniel M. Wik,69
+Dodge,HW/LG ,U.S. House,1,Democratic,Daniel M. Wik,42
+Dodge,Elkhorn Township ,U.S. House,1,Democratic,Daniel M. Wik,30
+Dodge,CT/UN ,U.S. House,1,Democratic,Daniel M. Wik,63
+Dodge,New/Former Resident ,U.S. House,1,Democratic,Daniel M. Wik,
+Dodge,ABSENTEE ,U.S. House,1,Democratic,Daniel M. Wik,959
+Dodge,TOTALS ,U.S. House,1,Democratic,Daniel M. Wik,3488
+Dodge,Fremont - 1A ,U.S. House,1,,Write-ins,0
+Dodge,Fremont - 1B ,U.S. House,1,,Write-ins,0
+Dodge,Fremont - 1C ,U.S. House,1,,Write-ins,2
+Dodge,Fremont - 1D ,U.S. House,1,,Write-ins,1
+Dodge,Fremont - 1E ,U.S. House,1,,Write-ins,2
+Dodge,Fremont - 2A ,U.S. House,1,,Write-ins,0
+Dodge,Fremont - 2B ,U.S. House,1,,Write-ins,0
+Dodge,Fremont - 2C ,U.S. House,1,,Write-ins,4
+Dodge,Fremont - 2D ,U.S. House,1,,Write-ins,1
+Dodge,Fremont - 2E ,U.S. House,1,,Write-ins,3
+Dodge,Fremont - 3A ,U.S. House,1,,Write-ins,0
+Dodge,Fremont - 3B ,U.S. House,1,,Write-ins,1
+Dodge,Fremont - 3C ,U.S. House,1,,Write-ins,0
+Dodge,Fremont - 3D ,U.S. House,1,,Write-ins,1
+Dodge,Fremont - 3E ,U.S. House,1,,Write-ins,0
+Dodge,Fremont - 4A ,U.S. House,1,,Write-ins,3
+Dodge,Fremont - 4B ,U.S. House,1,,Write-ins,1
+Dodge,Fremont - 4C ,U.S. House,1,,Write-ins,1
+Dodge,Fremont - 4D ,U.S. House,1,,Write-ins,1
+Dodge,Fremont - 4E ,U.S. House,1,,Write-ins,0
+Dodge,City of North Bend ,U.S. House,1,,Write-ins,0
+Dodge,City of Scribner ,U.S. House,1,,Write-ins,0
+Dodge,CU/EV ,U.S. House,1,,Write-ins,0
+Dodge,Webster Township ,U.S. House,1,,Write-ins,1
+Dodge,Pebble Township ,U.S. House,1,,Write-ins,1
+Dodge,Platte East ,U.S. House,1,,Write-ins,0
+Dodge,Platte West ,U.S. House,1,,Write-ins,3
+Dodge,Nickerson Township ,U.S. House,1,,Write-ins,0
+Dodge,City of Hooper ,U.S. House,1,,Write-ins,1
+Dodge,HW/LG ,U.S. House,1,,Write-ins,1
+Dodge,Elkhorn Township ,U.S. House,1,,Write-ins,0
+Dodge,CT/UN ,U.S. House,1,,Write-ins,0
+Dodge,New/Former Resident ,U.S. House,1,,Write-ins,
+Dodge,ABSENTEE ,U.S. House,1,,Write-ins,6
+Dodge,TOTALS ,U.S. House,1,,Write-ins,34
+Dodge,Fremont - 1A ,State Senate,15,,David A. Schnoor,269
+Dodge,Fremont - 1B ,State Senate,15,,David A. Schnoor,178
+Dodge,Fremont - 1C ,State Senate,15,,David A. Schnoor,347
+Dodge,Fremont - 1D ,State Senate,15,,David A. Schnoor,118
+Dodge,Fremont - 1E ,State Senate,15,,David A. Schnoor,249
+Dodge,Fremont - 2A ,State Senate,15,,David A. Schnoor,152
+Dodge,Fremont - 2B ,State Senate,15,,David A. Schnoor,115
+Dodge,Fremont - 2C ,State Senate,15,,David A. Schnoor,294
+Dodge,Fremont - 2D ,State Senate,15,,David A. Schnoor,123
+Dodge,Fremont - 2E ,State Senate,15,,David A. Schnoor,196
+Dodge,Fremont - 3A ,State Senate,15,,David A. Schnoor,115
+Dodge,Fremont - 3B ,State Senate,15,,David A. Schnoor,66
+Dodge,Fremont - 3C ,State Senate,15,,David A. Schnoor,120
+Dodge,Fremont - 3D ,State Senate,15,,David A. Schnoor,229
+Dodge,Fremont - 3E ,State Senate,15,,David A. Schnoor,169
+Dodge,Fremont - 4A ,State Senate,15,,David A. Schnoor,192
+Dodge,Fremont - 4B ,State Senate,15,,David A. Schnoor,134
+Dodge,Fremont - 4C ,State Senate,15,,David A. Schnoor,276
+Dodge,Fremont - 4D ,State Senate,15,,David A. Schnoor,278
+Dodge,Fremont - 4E ,State Senate,15,,David A. Schnoor,107
+Dodge,City of North Bend ,State Senate,15,,David A. Schnoor,258
+Dodge,City of Scribner ,State Senate,15,,David A. Schnoor,298
+Dodge,CU/EV ,State Senate,15,,David A. Schnoor,146
+Dodge,Webster Township ,State Senate,15,,David A. Schnoor,201
+Dodge,Pebble Township ,State Senate,15,,David A. Schnoor,124
+Dodge,Platte East ,State Senate,15,,David A. Schnoor,98
+Dodge,Platte West ,State Senate,15,,David A. Schnoor,237
+Dodge,Nickerson Township ,State Senate,15,,David A. Schnoor,193
+Dodge,City of Hooper ,State Senate,15,,David A. Schnoor,199
+Dodge,HW/LG ,State Senate,15,,David A. Schnoor,215
+Dodge,Elkhorn Township ,State Senate,15,,David A. Schnoor,73
+Dodge,CT/UN ,State Senate,15,,David A. Schnoor,283
+Dodge,New/Former Resident ,State Senate,15,,David A. Schnoor,
+Dodge,ABSENTEE ,State Senate,15,,David A. Schnoor,1137
+Dodge,TOTALS ,State Senate,15,,David A. Schnoor,7189
+Dodge,Fremont - 1A ,State Senate,15,,Lynne M. Walz,273
+Dodge,Fremont - 1B ,State Senate,15,,Lynne M. Walz,290
+Dodge,Fremont - 1C ,State Senate,15,,Lynne M. Walz,319
+Dodge,Fremont - 1D ,State Senate,15,,Lynne M. Walz,154
+Dodge,Fremont - 1E ,State Senate,15,,Lynne M. Walz,286
+Dodge,Fremont - 2A ,State Senate,15,,Lynne M. Walz,220
+Dodge,Fremont - 2B ,State Senate,15,,Lynne M. Walz,206
+Dodge,Fremont - 2C ,State Senate,15,,Lynne M. Walz,382
+Dodge,Fremont - 2D ,State Senate,15,,Lynne M. Walz,110
+Dodge,Fremont - 2E ,State Senate,15,,Lynne M. Walz,236
+Dodge,Fremont - 3A ,State Senate,15,,Lynne M. Walz,145
+Dodge,Fremont - 3B ,State Senate,15,,Lynne M. Walz,73
+Dodge,Fremont - 3C ,State Senate,15,,Lynne M. Walz,157
+Dodge,Fremont - 3D ,State Senate,15,,Lynne M. Walz,200
+Dodge,Fremont - 3E ,State Senate,15,,Lynne M. Walz,186
+Dodge,Fremont - 4A ,State Senate,15,,Lynne M. Walz,262
+Dodge,Fremont - 4B ,State Senate,15,,Lynne M. Walz,175
+Dodge,Fremont - 4C ,State Senate,15,,Lynne M. Walz,349
+Dodge,Fremont - 4D ,State Senate,15,,Lynne M. Walz,396
+Dodge,Fremont - 4E ,State Senate,15,,Lynne M. Walz,135
+Dodge,City of North Bend ,State Senate,15,,Lynne M. Walz,188
+Dodge,City of Scribner ,State Senate,15,,Lynne M. Walz,88
+Dodge,CU/EV ,State Senate,15,,Lynne M. Walz,69
+Dodge,Webster Township ,State Senate,15,,Lynne M. Walz,156
+Dodge,Pebble Township ,State Senate,15,,Lynne M. Walz,77
+Dodge,Platte East ,State Senate,15,,Lynne M. Walz,104
+Dodge,Platte West ,State Senate,15,,Lynne M. Walz,227
+Dodge,Nickerson Township ,State Senate,15,,Lynne M. Walz,189
+Dodge,City of Hooper ,State Senate,15,,Lynne M. Walz,140
+Dodge,HW/LG ,State Senate,15,,Lynne M. Walz,137
+Dodge,Elkhorn Township ,State Senate,15,,Lynne M. Walz,83
+Dodge,CT/UN ,State Senate,15,,Lynne M. Walz,148
+Dodge,New/Former Resident ,State Senate,15,,Lynne M. Walz,
+Dodge,ABSENTEE ,State Senate,15,,Lynne M. Walz,1441
+Dodge,TOTALS ,State Senate,15,,Lynne M. Walz,7601
+Dodge,Fremont - 1A ,State Senate,15,,Write-ins,0
+Dodge,Fremont - 1B ,State Senate,15,,Write-ins,1
+Dodge,Fremont - 1C ,State Senate,15,,Write-ins,1
+Dodge,Fremont - 1D ,State Senate,15,,Write-ins,0
+Dodge,Fremont - 1E ,State Senate,15,,Write-ins,1
+Dodge,Fremont - 2A ,State Senate,15,,Write-ins,0
+Dodge,Fremont - 2B ,State Senate,15,,Write-ins,2
+Dodge,Fremont - 2C ,State Senate,15,,Write-ins,2
+Dodge,Fremont - 2D ,State Senate,15,,Write-ins,1
+Dodge,Fremont - 2E ,State Senate,15,,Write-ins,2
+Dodge,Fremont - 3A ,State Senate,15,,Write-ins,1
+Dodge,Fremont - 3B ,State Senate,15,,Write-ins,2
+Dodge,Fremont - 3C ,State Senate,15,,Write-ins,0
+Dodge,Fremont - 3D ,State Senate,15,,Write-ins,2
+Dodge,Fremont - 3E ,State Senate,15,,Write-ins,0
+Dodge,Fremont - 4A ,State Senate,15,,Write-ins,1
+Dodge,Fremont - 4B ,State Senate,15,,Write-ins,0
+Dodge,Fremont - 4C ,State Senate,15,,Write-ins,3
+Dodge,Fremont - 4D ,State Senate,15,,Write-ins,0
+Dodge,Fremont - 4E ,State Senate,15,,Write-ins,0
+Dodge,City of North Bend ,State Senate,15,,Write-ins,1
+Dodge,City of Scribner ,State Senate,15,,Write-ins,0
+Dodge,CU/EV ,State Senate,15,,Write-ins,0
+Dodge,Webster Township ,State Senate,15,,Write-ins,0
+Dodge,Pebble Township ,State Senate,15,,Write-ins,0
+Dodge,Platte East ,State Senate,15,,Write-ins,0
+Dodge,Platte West ,State Senate,15,,Write-ins,2
+Dodge,Nickerson Township ,State Senate,15,,Write-ins,0
+Dodge,City of Hooper ,State Senate,15,,Write-ins,0
+Dodge,HW/LG ,State Senate,15,,Write-ins,1
+Dodge,Elkhorn Township ,State Senate,15,,Write-ins,0
+Dodge,CT/UN ,State Senate,15,,Write-ins,1
+Dodge,New/Former Resident ,State Senate,15,,Write-ins,
+Dodge,ABSENTEE ,State Senate,15,,Write-ins,8
+Dodge,TOTALS ,State Senate,15,,Write-ins,32

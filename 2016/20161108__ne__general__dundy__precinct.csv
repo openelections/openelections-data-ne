@@ -1,0 +1,31 @@
+county,precinct,office,district,party,candidate,votes
+Dundy,Haigler,President,,Republican,Donald J. Trump,88
+Dundy,Benkelman I & Ough,President,,Republican,Donald J. Trump,229
+Dundy,Benkelman II,President,,Republican,Donald J. Trump,246
+Dundy,Benkelman III,President,,Republican,Donald J. Trump,113
+Dundy,Absentee,President,,Republican,Donald J. Trump,148
+Dundy,Total,President,,Republican,Donald J. Trump,823
+Dundy,Haigler,President,,Democratic,Hillary Clinton,14
+Dundy,Benkelman I & Ough,President,,Democratic,Hillary Clinton,23
+Dundy,Benkelman II,President,,Democratic,Hillary Clinton,18
+Dundy,Benkelman III,President,,Democratic,Hillary Clinton,11
+Dundy,Absentee,President,,Democratic,Hillary Clinton,23
+Dundy,Total,President,,Democratic,Hillary Clinton,89
+Dundy,Haigler,President,,Libertarian,Gary Johnson,5
+Dundy,Benkelman I & Ough,President,,Libertarian,Gary Johnson,7
+Dundy,Benkelman II,President,,Libertarian,Gary Johnson,9
+Dundy,Benkelman III,President,,Libertarian,Gary Johnson,3
+Dundy,Absentee,President,,Libertarian,Gary Johnson,7
+Dundy,Total,President,,Libertarian,Gary Johnson,31
+Dundy,Haigler,President,,,Jill Stein,3
+Dundy,Benkelman I & Ough,President,,,Jill Stein,2
+Dundy,Benkelman II,President,,,Jill Stein,0
+Dundy,Benkelman III,President,,,Jill Stein,0
+Dundy,Absentee,President,,,Jill Stein,1
+Dundy,Total,President,,,Jill Stein,6
+Dundy,Haigler,U.S. House,3,Republican,Adrian Smith,98
+Dundy,Benkelman I & Ough,U.S. House,3,Republican,Adrian Smith,236
+Dundy,Benkelman II,U.S. House,3,Republican,Adrian Smith,248
+Dundy,Benkelman III,U.S. House,3,Republican,Adrian Smith,112
+Dundy,Absentee,U.S. House,3,Republican,Adrian Smith,147
+Dundy,Total,U.S. House,3,Republican,Adrian Smith,841

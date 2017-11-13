@@ -1,0 +1,61 @@
+county,precinct,office,district,party,candidate,votes
+Greeley,Scotia,President,,Republican,Donald J. Trump,135
+Greeley,Spalding,President,,Republican,Donald J. Trump,323
+Greeley,Wolbach,President,,Republican,Donald J. Trump,132
+Greeley,Greeley,President,,Republican,Donald J. Trump,209
+Greeley,Early,President,,Republican,Donald J. Trump,113
+Greeley,Total,President,,Republican,Donald J. Trump,912
+Greeley,Scotia,President,,Democratic,Hillary Clinton,31
+Greeley,Spalding,President,,Democratic,Hillary Clinton,61
+Greeley,Wolbach,President,,Democratic,Hillary Clinton,14
+Greeley,Greeley,President,,Democratic,Hillary Clinton,69
+Greeley,Early,President,,Democratic,Hillary Clinton,35
+Greeley,Total,President,,Democratic,Hillary Clinton,210
+Greeley,Scotia,President,,Libertarian,Gary Johnson,3
+Greeley,Spalding,President,,Libertarian,Gary Johnson,9
+Greeley,Wolbach,President,,Libertarian,Gary Johnson,4
+Greeley,Greeley,President,,Libertarian,Gary Johnson,19
+Greeley,Early,President,,Libertarian,Gary Johnson,3
+Greeley,Total,President,,Libertarian,Gary Johnson,38
+Greeley,Scotia,President,,,Jill Stein,0
+Greeley,Spalding,President,,,Jill Stein,4
+Greeley,Wolbach,President,,,Jill Stein,0
+Greeley,Greeley,President,,,Jill Stein,0
+Greeley,Early,President,,,Jill Stein,2
+Greeley,Total,President,,,Jill Stein,6
+Greeley,Scotia,U.S. House,3,Republican,Adrian Smith,148
+Greeley,Spalding,U.S. House,3,Republican,Adrian Smith,329
+Greeley,Wolbach,U.S. House,3,Republican,Adrian Smith,123
+Greeley,Greeley,U.S. House,3,Republican,Adrian Smith,240
+Greeley,Early,U.S. House,3,Republican,Adrian Smith,115
+Greeley,Total,U.S. House,3,Republican,Adrian Smith,955
+Greeley,Scotia,U.S. House,3,,Write-ins,3
+Greeley,Spalding,U.S. House,3,,Write-ins,2
+Greeley,Wolbach,U.S. House,3,,Write-ins,2
+Greeley,Greeley,U.S. House,3,,Write-ins,1
+Greeley,Early,U.S. House,3,,Write-ins,0
+Greeley,Total,U.S. House,3,,Write-ins,8
+Greeley,Scotia,State Senate,41,,Tom Briese,127
+Greeley,Spalding,State Senate,41,,Tom Briese,270
+Greeley,Wolbach,State Senate,41,,Tom Briese,94
+Greeley,Greeley,State Senate,41,,Tom Briese,176
+Greeley,Early,State Senate,41,,Tom Briese,91
+Greeley,Total,State Senate,41,,Tom Briese,758
+Greeley,Scotia,State Senate,41,,Write-ins,2
+Greeley,Spalding,State Senate,41,,Write-ins,1
+Greeley,Wolbach,State Senate,41,,Write-ins,1
+Greeley,Greeley,State Senate,41,,Write-ins,3
+Greeley,Early,State Senate,41,,Write-ins,0
+Greeley,Total,State Senate,41,,Write-ins,7
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

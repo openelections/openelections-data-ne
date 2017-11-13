@@ -1,0 +1,84 @@
+county,precinct,office,district,party,candidate,votes
+Jefferson,Plymouth-Gibson,Registered Voters,,,,543
+Jefferson,Eureka-Washington,Registered Voters,,,,266
+Jefferson,Lincoln-Meridian-Fairbury-Rich,Registered Voters,,,,383
+Jefferson,Cub-Rock Creek,Registered Voters,,,,272
+Jefferson,Jefferson-Pleasant-Newton,Registered Voters,,,,573
+Jefferson,Buckley-Antelope-Endicott,Registered Voters,,,,573
+Jefferson,Ward I,Registered Voters,,,,587
+Jefferson,Ward II,Registered Voters,,,,476
+Jefferson,Ward III,Registered Voters,,,,662
+Jefferson,Ward IV,Registered Voters,,,,676
+Jefferson,Total,Registered Voters,,,,5011
+Jefferson,Plymouth-Gibson,Ballots Cast,,,,376
+Jefferson,Eureka-Washington,Ballots Cast,,,,182
+Jefferson,Lincoln-Meridian-Fairbury-Rich,Ballots Cast,,,,271
+Jefferson,Cub-Rock Creek,Ballots Cast,,,,185
+Jefferson,Jefferson-Pleasant-Newton,Ballots Cast,,,,357
+Jefferson,Buckley-Antelope-Endicott,Ballots Cast,,,,330
+Jefferson,Ward I,Ballots Cast,,,,321
+Jefferson,Ward II,Ballots Cast,,,,220
+Jefferson,Ward III,Ballots Cast,,,,386
+Jefferson,Ward IV,Ballots Cast,,,,359
+Jefferson,Absentee,Ballots Cast,,,,560
+Jefferson,Total,Ballots Cast,,,,3547
+Jefferson,Total,President,,Republican,Donald J. Trump,2387
+Jefferson,Absentee,President,,Republican,Donald J. Trump,342
+Jefferson,Plymouth-Gibson,President,,Republican,Donald J. Trump,256
+Jefferson,Eureka-Washington,President,,Republican,Donald J. Trump,131
+Jefferson,Lincoln-Meridian-Fairbury-Rich,President,,Republican,Donald J. Trump,201
+Jefferson,Cub-Rock Creek,President,,Republican,Donald J. Trump,143
+Jefferson,Jefferson-Pleasant-Newton,President,,Republican,Donald J. Trump,233
+Jefferson,Buckley-Antelope-Endicott,President,,Republican,Donald J. Trump,236
+Jefferson,Ward I,President,,Republican,Donald J. Trump,205
+Jefferson,Ward II,President,,Republican,Donald J. Trump,145
+Jefferson,Ward III,President,,Republican,Donald J. Trump,269
+Jefferson,Ward IV,President,,Republican,Donald J. Trump,226
+Jefferson,Total,President,,Democratic,Hillary Clinton,831
+Jefferson,Absentee,President,,Democratic,Hillary Clinton,167
+Jefferson,Plymouth-Gibson,President,,Democratic,Hillary Clinton,74
+Jefferson,Eureka-Washington,President,,Democratic,Hillary Clinton,30
+Jefferson,Lincoln-Meridian-Fairbury-Rich,President,,Democratic,Hillary Clinton,47
+Jefferson,Cub-Rock Creek,President,,Democratic,Hillary Clinton,27
+Jefferson,Jefferson-Pleasant-Newton,President,,Democratic,Hillary Clinton,107
+Jefferson,Buckley-Antelope-Endicott,President,,Democratic,Hillary Clinton,64
+Jefferson,Ward I,President,,Democratic,Hillary Clinton,89
+Jefferson,Ward II,President,,Democratic,Hillary Clinton,62
+Jefferson,Ward III,President,,Democratic,Hillary Clinton,75
+Jefferson,Ward IV,President,,Democratic,Hillary Clinton,89
+Jefferson,Total,President,,Libertarian,Gary Johnson,182
+Jefferson,Absentee,President,,Libertarian,Gary Johnson,31
+Jefferson,Plymouth-Gibson,President,,Libertarian,Gary Johnson,28
+Jefferson,Eureka-Washington,President,,Libertarian,Gary Johnson,10
+Jefferson,Lincoln-Meridian-Fairbury-Rich,President,,Libertarian,Gary Johnson,17
+Jefferson,Cub-Rock Creek,President,,Libertarian,Gary Johnson,7
+Jefferson,Jefferson-Pleasant-Newton,President,,Libertarian,Gary Johnson,7
+Jefferson,Buckley-Antelope-Endicott,President,,Libertarian,Gary Johnson,13
+Jefferson,Ward I,President,,Libertarian,Gary Johnson,18
+Jefferson,Ward II,President,,Libertarian,Gary Johnson,10
+Jefferson,Ward III,President,,Libertarian,Gary Johnson,21
+Jefferson,Ward IV,President,,Libertarian,Gary Johnson,20
+Jefferson,Total,President,,,Jill Stein,30
+Jefferson,Absentee,President,,,Jill Stein,6
+Jefferson,Plymouth-Gibson,President,,,Jill Stein,1
+Jefferson,Eureka-Washington,President,,,Jill Stein,0
+Jefferson,Lincoln-Meridian-Fairbury-Rich,President,,,Jill Stein,2
+Jefferson,Cub-Rock Creek,President,,,Jill Stein,1
+Jefferson,Jefferson-Pleasant-Newton,President,,,Jill Stein,2
+Jefferson,Buckley-Antelope-Endicott,President,,,Jill Stein,3
+Jefferson,Ward I,President,,,Jill Stein,4
+Jefferson,Ward II,President,,,Jill Stein,0
+Jefferson,Ward III,President,,,Jill Stein,4
+Jefferson,Ward IV,President,,,Jill Stein,7
+Jefferson,Total,U.S. House,3,Republican,Adrian Smith,2956
+Jefferson,Absentee,U.S. House,3,Republican,Adrian Smith,438
+Jefferson,Plymouth-Gibson,U.S. House,3,Republican,Adrian Smith,321
+Jefferson,Eureka-Washington,U.S. House,3,Republican,Adrian Smith,160
+Jefferson,Lincoln-Meridian-Fairbury-Rich,U.S. House,3,Republican,Adrian Smith,227
+Jefferson,Cub-Rock Creek,U.S. House,3,Republican,Adrian Smith,155
+Jefferson,Jefferson-Pleasant-Newton,U.S. House,3,Republican,Adrian Smith,293
+Jefferson,Buckley-Antelope-Endicott,U.S. House,3,Republican,Adrian Smith,279
+Jefferson,Ward I,U.S. House,3,Republican,Adrian Smith,272
+Jefferson,Ward II,U.S. House,3,Republican,Adrian Smith,189
+Jefferson,Ward III,U.S. House,3,Republican,Adrian Smith,325
+Jefferson,Ward IV,U.S. House,3,Republican,Adrian Smith,297

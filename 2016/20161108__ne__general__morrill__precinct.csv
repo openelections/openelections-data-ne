@@ -1,0 +1,121 @@
+county,precinct,office,district,party,candidate,votes
+Morrill,Broadwater,President,,Republican,Donald Trump,128
+Morrill,East Bayard,President,,Republican,Donald Trump,342
+Morrill,West Bayard,President,,Republican,Donald Trump,251
+Morrill,North Camp Clarke,President,,Republican,Donald Trump,184
+Morrill,East Camp Clarke,President,,Republican,Donald Trump,305
+Morrill,West Camp Clarke,President,,Republican,Donald Trump,244
+Morrill,Gilchrist,President,,Republican,Donald Trump,35
+Morrill,Haynes,President,,Republican,Donald Trump,63
+Morrill,Redington,President,,Republican,Donald Trump,43
+Morrill,Provisional,President,,Republican,Donald Trump,14
+Morrill,Absentee,President,,Republican,Donald Trump,193
+Morrill,Total,President,,Republican,Donald Trump,1802
+Morrill,Broadwater,President,,Libertarian,Gary Johnson,8
+Morrill,East Bayard,President,,Libertarian,Gary Johnson,13
+Morrill,West Bayard,President,,Libertarian,Gary Johnson,12
+Morrill,North Camp Clarke,President,,Libertarian,Gary Johnson,5
+Morrill,East Camp Clarke,President,,Libertarian,Gary Johnson,14
+Morrill,West Camp Clarke,President,,Libertarian,Gary Johnson,12
+Morrill,Gilchrist,President,,Libertarian,Gary Johnson,0
+Morrill,Haynes,President,,Libertarian,Gary Johnson,1
+Morrill,Redington,President,,Libertarian,Gary Johnson,4
+Morrill,Provisional,President,,Libertarian,Gary Johnson,2
+Morrill,Absentee,President,,Libertarian,Gary Johnson,13
+Morrill,Total,President,,Libertarian,Gary Johnson,84
+Morrill,Broadwater,President,,Democrat,Hillary Clinton,10
+Morrill,East Bayard,President,,Democrat,Hillary Clinton,46
+Morrill,West Bayard,President,,Democrat,Hillary Clinton,44
+Morrill,North Camp Clarke,President,,Democrat,Hillary Clinton,24
+Morrill,East Camp Clarke,President,,Democrat,Hillary Clinton,54
+Morrill,West Camp Clarke,President,,Democrat,Hillary Clinton,42
+Morrill,Gilchrist,President,,Democrat,Hillary Clinton,0
+Morrill,Haynes,President,,Democrat,Hillary Clinton,3
+Morrill,Redington,President,,Democrat,Hillary Clinton,11
+Morrill,Provisional,President,,Democrat,Hillary Clinton,2
+Morrill,Absentee,President,,Democrat,Hillary Clinton,48
+Morrill,Total,President,,Democrat,Hillary Clinton,284
+Morrill,Broadwater,President,,Green,Jill Stein,2
+Morrill,East Bayard,President,,Green,Jill Stein,3
+Morrill,West Bayard,President,,Green,Jill Stein,1
+Morrill,North Camp Clarke,President,,Green,Jill Stein,0
+Morrill,East Camp Clarke,President,,Green,Jill Stein,2
+Morrill,West Camp Clarke,President,,Green,Jill Stein,2
+Morrill,Gilchrist,President,,Green,Jill Stein,0
+Morrill,Haynes,President,,Green,Jill Stein,0
+Morrill,Redington,President,,Green,Jill Stein,0
+Morrill,Provisional,President,,Green,Jill Stein,0
+Morrill,Absentee,President,,Green,Jill Stein,4
+Morrill,Total,President,,Green,Jill Stein,14
+Morrill,Broadwater,President,,,Write-In,3
+Morrill,East Bayard,President,,,Write-In,3
+Morrill,West Bayard,President,,,Write-In,6
+Morrill,North Camp Clarke,President,,,Write-In,0
+Morrill,East Camp Clarke,President,,,Write-In,3
+Morrill,West Camp Clarke,President,,,Write-In,3
+Morrill,Gilchrist,President,,,Write-In,0
+Morrill,Haynes,President,,,Write-In,0
+Morrill,Redington,President,,,Write-In,0
+Morrill,Provisional,President,,,Write-In,2
+Morrill,Absentee,President,,,Write-In,7
+Morrill,Total,President,,,Write-In,27
+Morrill,Broadwater,State Legislature,47,,Karl Elmschaeuer,50
+Morrill,East Bayard,State Legislature,47,,Karl Elmschaeuer,161
+Morrill,West Bayard,State Legislature,47,,Karl Elmschaeuer,116
+Morrill,North Camp Clarke,State Legislature,47,,Karl Elmschaeuer,96
+Morrill,East Camp Clarke,State Legislature,47,,Karl Elmschaeuer,146
+Morrill,West Camp Clarke,State Legislature,47,,Karl Elmschaeuer,129
+Morrill,Gilchrist,State Legislature,47,,Karl Elmschaeuer,7
+Morrill,Haynes,State Legislature,47,,Karl Elmschaeuer,8
+Morrill,Redington,State Legislature,47,,Karl Elmschaeuer,21
+Morrill,Provisional,State Legislature,47,,Karl Elmschaeuer,8
+Morrill,Absentee,State Legislature,47,,Karl Elmschaeuer,91
+Morrill,Total,State Legislature,47,,Karl Elmschaeuer,833
+Morrill,Broadwater,State Legislature,47,,Steve Erdman,101
+Morrill,East Bayard,State Legislature,47,,Steve Erdman,243
+Morrill,West Bayard,State Legislature,47,,Steve Erdman,189
+Morrill,North Camp Clarke,State Legislature,47,,Steve Erdman,116
+Morrill,East Camp Clarke,State Legislature,47,,Steve Erdman,211
+Morrill,West Camp Clarke,State Legislature,47,,Steve Erdman,155
+Morrill,Gilchrist,State Legislature,47,,Steve Erdman,26
+Morrill,Haynes,State Legislature,47,,Steve Erdman,57
+Morrill,Redington,State Legislature,47,,Steve Erdman,31
+Morrill,Provisional,State Legislature,47,,Steve Erdman,10
+Morrill,Absentee,State Legislature,47,,Steve Erdman,166
+Morrill,Total,State Legislature,47,,Steve Erdman,1305
+Morrill,Broadwater,State Legislature,47,,Write-Ins,0
+Morrill,East Bayard,State Legislature,47,,Write-Ins,2
+Morrill,West Bayard,State Legislature,47,,Write-Ins,2
+Morrill,North Camp Clarke,State Legislature,47,,Write-Ins,1
+Morrill,East Camp Clarke,State Legislature,47,,Write-Ins,0
+Morrill,West Camp Clarke,State Legislature,47,,Write-Ins,0
+Morrill,Gilchrist,State Legislature,47,,Write-Ins,0
+Morrill,Haynes,State Legislature,47,,Write-Ins,0
+Morrill,Redington,State Legislature,47,,Write-Ins,0
+Morrill,Provisional,State Legislature,47,,Write-Ins,0
+Morrill,Absentee,State Legislature,47,,Write-Ins,1
+Morrill,Total,State Legislature,47,,Write-Ins,6
+Morrill,Broadwater,U.S. House,3,Republican,Adrian Smith,128
+Morrill,East Bayard,U.S. House,3,Republican,Adrian Smith,358
+Morrill,West Bayard,U.S. House,3,Republican,Adrian Smith,266
+Morrill,North Camp Clarke,U.S. House,3,Republican,Adrian Smith,185
+Morrill,East Camp Clarke,U.S. House,3,Republican,Adrian Smith,325
+Morrill,West Camp Clarke,U.S. House,3,Republican,Adrian Smith,257
+Morrill,Gilchrist,U.S. House,3,Republican,Adrian Smith,34
+Morrill,Haynes,U.S. House,3,Republican,Adrian Smith,52
+Morrill,Redington,U.S. House,3,Republican,Adrian Smith,43
+Morrill,Provisional,U.S. House,3,Republican,Adrian Smith,17
+Morrill,Absentee,U.S. House,3,Republican,Adrian Smith,234
+Morrill,Total,U.S. House,3,Republican,Adrian Smith,1899
+Morrill,Broadwater,U.S. House,3,,Write-In,2
+Morrill,East Bayard,U.S. House,3,,Write-In,3
+Morrill,West Bayard,U.S. House,3,,Write-In,11
+Morrill,North Camp Clarke,U.S. House,3,,Write-In,3
+Morrill,East Camp Clarke,U.S. House,3,,Write-In,7
+Morrill,West Camp Clarke,U.S. House,3,,Write-In,6
+Morrill,Gilchrist,U.S. House,3,,Write-In,0
+Morrill,Haynes,U.S. House,3,,Write-In,2
+Morrill,Redington,U.S. House,3,,Write-In,2
+Morrill,Provisional,U.S. House,3,,Write-In,0
+Morrill,Absentee,U.S. House,3,,Write-In,5
+Morrill,Total,U.S. House,3,,Write-In,41

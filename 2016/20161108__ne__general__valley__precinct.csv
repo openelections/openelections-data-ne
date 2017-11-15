@@ -1,0 +1,82 @@
+county,precinct,office,district,party,candidate,votes
+Valley,1,President,,Republican,Donald J. Trump,255
+Valley,2,President,,Republican,Donald J. Trump,196
+Valley,3,President,,Republican,Donald J. Trump,228
+Valley,4,President,,Republican,Donald J. Trump,221
+Valley,5,President,,Republican,Donald J. Trump,227
+Valley,6,President,,Republican,Donald J. Trump,200
+Valley,7,President,,Republican,Donald J. Trump,226
+Valley,Absentee,President,,Republican,Donald J. Trump,227
+Valley,Total,President,,Republican,Donald J. Trump,1780
+Valley,1,President,,Democratic,Hillary Clinton,35
+Valley,2,President,,Democratic,Hillary Clinton,61
+Valley,3,President,,Democratic,Hillary Clinton,46
+Valley,4,President,,Democratic,Hillary Clinton,35
+Valley,5,President,,Democratic,Hillary Clinton,39
+Valley,6,President,,Democratic,Hillary Clinton,30
+Valley,7,President,,Democratic,Hillary Clinton,38
+Valley,Absentee,President,,Democratic,Hillary Clinton,55
+Valley,Total,President,,Democratic,Hillary Clinton,339
+Valley,1,President,,Libertarian,Gary Johnson,5
+Valley,2,President,,Libertarian,Gary Johnson,4
+Valley,3,President,,Libertarian,Gary Johnson,8
+Valley,4,President,,Libertarian,Gary Johnson,9
+Valley,5,President,,Libertarian,Gary Johnson,5
+Valley,6,President,,Libertarian,Gary Johnson,11
+Valley,7,President,,Libertarian,Gary Johnson,4
+Valley,Absentee,President,,Libertarian,Gary Johnson,7
+Valley,Total,President,,Libertarian,Gary Johnson,53
+Valley,1,President,,,Jill Stein,0
+Valley,2,President,,,Jill Stein,1
+Valley,3,President,,,Jill Stein,1
+Valley,4,President,,,Jill Stein,2
+Valley,5,President,,,Jill Stein,1
+Valley,6,President,,,Jill Stein,4
+Valley,7,President,,,Jill Stein,2
+Valley,Absentee,President,,,Jill Stein,1
+Valley,Total,President,,,Jill Stein,12
+Valley,1,President,,,Write-ins,1
+Valley,2,President,,,Write-ins,2
+Valley,3,President,,,Write-ins,7
+Valley,4,President,,,Write-ins,3
+Valley,5,President,,,Write-ins,4
+Valley,6,President,,,Write-ins,1
+Valley,7,President,,,Write-ins,1
+Valley,Absentee,President,,,Write-ins,2
+Valley,Total,President,,,Write-ins,21
+Valley,1,U.S. House,3,Republican,Adrian Smith,255
+Valley,2,U.S. House,3,Republican,Adrian Smith,220
+Valley,3,U.S. House,3,Republican,Adrian Smith,260
+Valley,4,U.S. House,3,Republican,Adrian Smith,237
+Valley,5,U.S. House,3,Republican,Adrian Smith,247
+Valley,6,U.S. House,3,Republican,Adrian Smith,203
+Valley,7,U.S. House,3,Republican,Adrian Smith,248
+Valley,Absentee,U.S. House,3,Republican,Adrian Smith,239
+Valley,Total,U.S. House,3,Republican,Adrian Smith,1909
+Valley,1,U.S. House,3,,Write-ins,2
+Valley,2,U.S. House,3,,Write-ins,4
+Valley,3,U.S. House,3,,Write-ins,7
+Valley,4,U.S. House,3,,Write-ins,5
+Valley,5,U.S. House,3,,Write-ins,2
+Valley,6,U.S. House,3,,Write-ins,2
+Valley,7,U.S. House,3,,Write-ins,0
+Valley,Absentee,U.S. House,3,,Write-ins,3
+Valley,Total,U.S. House,3,,Write-ins,25
+Valley,1,State Senate,41,,Tom Briese,208
+Valley,2,State Senate,41,,Tom Briese,194
+Valley,3,State Senate,41,,Tom Briese,228
+Valley,4,State Senate,41,,Tom Briese,197
+Valley,5,State Senate,41,,Tom Briese,215
+Valley,6,State Senate,41,,Tom Briese,170
+Valley,7,State Senate,41,,Tom Briese,204
+Valley,Absentee,State Senate,41,,Tom Briese,193
+Valley,Total,State Senate,41,,Tom Briese,1609
+Valley,1,State Senate,41,,Write-ins,3
+Valley,2,State Senate,41,,Write-ins,1
+Valley,3,State Senate,41,,Write-ins,3
+Valley,4,State Senate,41,,Write-ins,2
+Valley,5,State Senate,41,,Write-ins,1
+Valley,6,State Senate,41,,Write-ins,2
+Valley,7,State Senate,41,,Write-ins,0
+Valley,Absentee,State Senate,41,,Write-ins,3
+Valley,Total,State Senate,41,,Write-ins,15

@@ -1,0 +1,49 @@
+county,precinct,office,district,party,candidate,votes
+Polk,Early,President,,Republican,Donald J. Trump,418
+Polk,South Canada,President,,Republican,Donald J. Trump,330
+Polk,North Osceola,President,,Republican,Donald J. Trump,156
+Polk,South Osceola,President,,Republican,Donald J. Trump,344
+Polk,East Burg,President,,Republican,Donald J. Trump,277
+Polk,West Burg,President,,Republican,Donald J. Trump,283
+Polk,West Pleasant Home,President,,Republican,Donald J. Trump,211
+Polk,Total,President,,Republican,Donald J. Trump,2019
+Polk,Early,President,,Democratic,Hillary Clinton,134
+Polk,South Canada,President,,Democratic,Hillary Clinton,54
+Polk,North Osceola,President,,Democratic,Hillary Clinton,23
+Polk,South Osceola,President,,Democratic,Hillary Clinton,75
+Polk,East Burg,President,,Democratic,Hillary Clinton,40
+Polk,West Burg,President,,Democratic,Hillary Clinton,43
+Polk,West Pleasant Home,President,,Democratic,Hillary Clinton,42
+Polk,Total,President,,Democratic,Hillary Clinton,411
+Polk,Early,President,,Libertarian,Gary Johnson,23
+Polk,South Canada,President,,Libertarian,Gary Johnson,18
+Polk,North Osceola,President,,Libertarian,Gary Johnson,7
+Polk,South Osceola,President,,Libertarian,Gary Johnson,18
+Polk,East Burg,President,,Libertarian,Gary Johnson,10
+Polk,West Burg,President,,Libertarian,Gary Johnson,12
+Polk,West Pleasant Home,President,,Libertarian,Gary Johnson,14
+Polk,Total,President,,Libertarian,Gary Johnson,102
+Polk,Early,President,,,Jill Stein,2
+Polk,South Canada,President,,,Jill Stein,3
+Polk,North Osceola,President,,,Jill Stein,0
+Polk,South Osceola,President,,,Jill Stein,0
+Polk,East Burg,President,,,Jill Stein,0
+Polk,West Burg,President,,,Jill Stein,0
+Polk,West Pleasant Home,President,,,Jill Stein,1
+Polk,Total,President,,,Jill Stein,6
+Polk,Early,U.S. House,1,Republican,Jeff Fortenberry,439
+Polk,South Canada,U.S. House,1,Republican,Jeff Fortenberry,342
+Polk,North Osceola,U.S. House,1,Republican,Jeff Fortenberry,164
+Polk,South Osceola,U.S. House,1,Republican,Jeff Fortenberry,360
+Polk,East Burg,U.S. House,1,Republican,Jeff Fortenberry,291
+Polk,West Burg,U.S. House,1,Republican,Jeff Fortenberry,304
+Polk,West Pleasant Home,U.S. House,1,Republican,Jeff Fortenberry,227
+Polk,Total,U.S. House,1,Republican,Jeff Fortenberry,2127
+Polk,Early,U.S. House,1,Democratic,Daniel M. Wik,111
+Polk,South Canada,U.S. House,1,Democratic,Daniel M. Wik,45
+Polk,North Osceola,U.S. House,1,Democratic,Daniel M. Wik,21
+Polk,South Osceola,U.S. House,1,Democratic,Daniel M. Wik,65
+Polk,East Burg,U.S. House,1,Democratic,Daniel M. Wik,33
+Polk,West Burg,U.S. House,1,Democratic,Daniel M. Wik,36
+Polk,West Pleasant Home,U.S. House,1,Democratic,Daniel M. Wik,37
+Polk,Total,U.S. House,1,Democratic,Daniel M. Wik,348

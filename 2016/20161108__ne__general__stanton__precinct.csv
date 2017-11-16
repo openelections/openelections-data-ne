@@ -1,0 +1,150 @@
+county,precinct,office,district,party,candidate,votes
+Stanton,Butterfly,Registered Voters,,,,93
+Stanton,Dewey,Registered Voters,,,,137
+Stanton,Dimick,Registered Voters,,,,68
+Stanton,Elkhorn,Registered Voters,,,,176
+Stanton,Haymow,Registered Voters,,,,96
+Stanton,Kingsburg,Registered Voters,,,,66
+Stanton,Maple Creek,Registered Voters,,,,98
+Stanton,Pilger,Registered Voters,,,,335
+Stanton,Ramshorn,Registered Voters,,,,111
+Stanton,Spring Branch,Registered Voters,,,,1116
+Stanton,Spring Branch II,Registered Voters,,,,293
+Stanton,Stanton A,Registered Voters,,,,517
+Stanton,Stanton B,Registered Voters,,,,594
+Stanton,Stanton C,Registered Voters,,,,68
+Stanton,Union Creek,Registered Voters,,,,74
+Stanton,Absentee,Registered Voters,,,,
+Stanton,Provisional,Registered Voters,,,,
+Stanton,Total,Registered Voters,,,,3842
+Stanton,Butterfly,Ballots Cast,,,,73
+Stanton,Dewey,Ballots Cast,,,,109
+Stanton,Dimick,Ballots Cast,,,,55
+Stanton,Elkhorn,Ballots Cast,,,,147
+Stanton,Haymow,Ballots Cast,,,,80
+Stanton,Kingsburg,Ballots Cast,,,,53
+Stanton,Maple Creek,Ballots Cast,,,,80
+Stanton,Pilger,Ballots Cast,,,,262
+Stanton,Ramshorn,Ballots Cast,,,,100
+Stanton,Spring Branch,Ballots Cast,,,,670
+Stanton,Spring Branch II,Ballots Cast,,,,172
+Stanton,Stanton A,Ballots Cast,,,,299
+Stanton,Stanton B,Ballots Cast,,,,347
+Stanton,Stanton C,Ballots Cast,,,,43
+Stanton,Union Creek,Ballots Cast,,,,68
+Stanton,Absentee,Ballots Cast,,,,286
+Stanton,Provisional,Ballots Cast,,,,14
+Stanton,Total,Ballots Cast,,,,2858
+Stanton,Butterfly,President,,Republican,Donald J. Trump,54
+Stanton,Dewey,President,,Republican,Donald J. Trump,83
+Stanton,Dimick,President,,Republican,Donald J. Trump,46
+Stanton,Elkhorn,President,,Republican,Donald J. Trump,115
+Stanton,Haymow,President,,Republican,Donald J. Trump,66
+Stanton,Kingsburg,President,,Republican,Donald J. Trump,39
+Stanton,Maple Creek,President,,Republican,Donald J. Trump,58
+Stanton,Pilger,President,,Republican,Donald J. Trump,193
+Stanton,Ramshorn,President,,Republican,Donald J. Trump,90
+Stanton,Spring Branch,President,,Republican,Donald J. Trump,503
+Stanton,Spring Branch II,President,,Republican,Donald J. Trump,117
+Stanton,Stanton A,President,,Republican,Donald J. Trump,237
+Stanton,Stanton B,President,,Republican,Donald J. Trump,262
+Stanton,Stanton C,President,,Republican,Donald J. Trump,37
+Stanton,Union Creek,President,,Republican,Donald J. Trump,53
+Stanton,Absentee,President,,Republican,Donald J. Trump,220
+Stanton,Provisional,President,,Republican,Donald J. Trump,14
+Stanton,Total,President,,Republican,Donald J. Trump,2187
+Stanton,Butterfly,President,,Democratic,Hillary Clinton,14
+Stanton,Dewey,President,,Democratic,Hillary Clinton,15
+Stanton,Dimick,President,,Democratic,Hillary Clinton,6
+Stanton,Elkhorn,President,,Democratic,Hillary Clinton,21
+Stanton,Haymow,President,,Democratic,Hillary Clinton,9
+Stanton,Kingsburg,President,,Democratic,Hillary Clinton,7
+Stanton,Maple Creek,President,,Democratic,Hillary Clinton,15
+Stanton,Pilger,President,,Democratic,Hillary Clinton,33
+Stanton,Ramshorn,President,,Democratic,Hillary Clinton,7
+Stanton,Spring Branch,President,,Democratic,Hillary Clinton,104
+Stanton,Spring Branch II,President,,Democratic,Hillary Clinton,34
+Stanton,Stanton A,President,,Democratic,Hillary Clinton,45
+Stanton,Stanton B,President,,Democratic,Hillary Clinton,51
+Stanton,Stanton C,President,,Democratic,Hillary Clinton,2
+Stanton,Union Creek,President,,Democratic,Hillary Clinton,8
+Stanton,Absentee,President,,Democratic,Hillary Clinton,46
+Stanton,Provisional,President,,Democratic,Hillary Clinton,0
+Stanton,Total,President,,Democratic,Hillary Clinton,417
+Stanton,Butterfly,President,,Libertarian,Gary Johnson,2
+Stanton,Dewey,President,,Libertarian,Gary Johnson,7
+Stanton,Dimick,President,,Libertarian,Gary Johnson,1
+Stanton,Elkhorn,President,,Libertarian,Gary Johnson,10
+Stanton,Haymow,President,,Libertarian,Gary Johnson,2
+Stanton,Kingsburg,President,,Libertarian,Gary Johnson,7
+Stanton,Maple Creek,President,,Libertarian,Gary Johnson,5
+Stanton,Pilger,President,,Libertarian,Gary Johnson,21
+Stanton,Ramshorn,President,,Libertarian,Gary Johnson,2
+Stanton,Spring Branch,President,,Libertarian,Gary Johnson,34
+Stanton,Spring Branch II,President,,Libertarian,Gary Johnson,14
+Stanton,Stanton A,President,,Libertarian,Gary Johnson,9
+Stanton,Stanton B,President,,Libertarian,Gary Johnson,15
+Stanton,Stanton C,President,,Libertarian,Gary Johnson,1
+Stanton,Union Creek,President,,Libertarian,Gary Johnson,5
+Stanton,Absentee,President,,Libertarian,Gary Johnson,9
+Stanton,Provisional,President,,Libertarian,Gary Johnson,0
+Stanton,Total,President,,Libertarian,Gary Johnson,144
+Stanton,Butterfly,President,,,Jill Stein,0
+Stanton,Dewey,President,,,Jill Stein,0
+Stanton,Dimick,President,,,Jill Stein,0
+Stanton,Elkhorn,President,,,Jill Stein,0
+Stanton,Haymow,President,,,Jill Stein,0
+Stanton,Kingsburg,President,,,Jill Stein,0
+Stanton,Maple Creek,President,,,Jill Stein,0
+Stanton,Pilger,President,,,Jill Stein,3
+Stanton,Ramshorn,President,,,Jill Stein,0
+Stanton,Spring Branch,President,,,Jill Stein,7
+Stanton,Spring Branch II,President,,,Jill Stein,2
+Stanton,Stanton A,President,,,Jill Stein,1
+Stanton,Stanton B,President,,,Jill Stein,1
+Stanton,Stanton C,President,,,Jill Stein,0
+Stanton,Union Creek,President,,,Jill Stein,0
+Stanton,Absentee,President,,,Jill Stein,0
+Stanton,Provisional,President,,,Jill Stein,0
+Stanton,Total,President,,,Jill Stein,14
+Stanton,Butterfly,U.S. House,1,Republican,Jeff Fortenberry,58
+Stanton,Dewey,U.S. House,1,Republican,Jeff Fortenberry,90
+Stanton,Dimick,U.S. House,1,Republican,Jeff Fortenberry,49
+Stanton,Elkhorn,U.S. House,1,Republican,Jeff Fortenberry,113
+Stanton,Haymow,U.S. House,1,Republican,Jeff Fortenberry,66
+Stanton,Kingsburg,U.S. House,1,Republican,Jeff Fortenberry,43
+Stanton,Maple Creek,U.S. House,1,Republican,Jeff Fortenberry,70
+Stanton,Pilger,U.S. House,1,Republican,Jeff Fortenberry,210
+Stanton,Ramshorn,U.S. House,1,Republican,Jeff Fortenberry,87
+Stanton,Spring Branch,U.S. House,1,Republican,Jeff Fortenberry,537
+Stanton,Spring Branch II,U.S. House,1,Republican,Jeff Fortenberry,143
+Stanton,Stanton A,U.S. House,1,Republican,Jeff Fortenberry,253
+Stanton,Stanton B,U.S. House,1,Republican,Jeff Fortenberry,281
+Stanton,Stanton C,U.S. House,1,Republican,Jeff Fortenberry,41
+Stanton,Union Creek,U.S. House,1,Republican,Jeff Fortenberry,57
+Stanton,Absentee,U.S. House,1,Republican,Jeff Fortenberry,231
+Stanton,Provisional,U.S. House,1,Republican,Jeff Fortenberry,12
+Stanton,Total,U.S. House,1,Republican,Jeff Fortenberry,2341
+Stanton,Butterfly,U.S. House,1,Democratic,Daniel M. Wik,12
+Stanton,Dewey,U.S. House,1,Democratic,Daniel M. Wik,16
+Stanton,Dimick,U.S. House,1,Democratic,Daniel M. Wik,3
+Stanton,Elkhorn,U.S. House,1,Democratic,Daniel M. Wik,27
+Stanton,Haymow,U.S. House,1,Democratic,Daniel M. Wik,10
+Stanton,Kingsburg,U.S. House,1,Democratic,Daniel M. Wik,10
+Stanton,Maple Creek,U.S. House,1,Democratic,Daniel M. Wik,8
+Stanton,Pilger,U.S. House,1,Democratic,Daniel M. Wik,41
+Stanton,Ramshorn,U.S. House,1,Democratic,Daniel M. Wik,7
+Stanton,Spring Branch,U.S. House,1,Democratic,Daniel M. Wik,115
+Stanton,Spring Branch II,U.S. House,1,Democratic,Daniel M. Wik,22
+Stanton,Stanton A,U.S. House,1,Democratic,Daniel M. Wik,40
+Stanton,Stanton B,U.S. House,1,Democratic,Daniel M. Wik,60
+Stanton,Stanton C,U.S. House,1,Democratic,Daniel M. Wik,0
+Stanton,Union Creek,U.S. House,1,Democratic,Daniel M. Wik,10
+Stanton,Absentee,U.S. House,1,Democratic,Daniel M. Wik,43
+Stanton,Provisional,U.S. House,1,Democratic,Daniel M. Wik,2
+Stanton,Total,U.S. House,1,Democratic,Daniel M. Wik,426
+Stanton,Spring Branch,State Senate,19,,Jim Scheer,587
+Stanton,Spring Branch II,State Senate,19,,Jim Scheer,152
+Stanton,Absentee,State Senate,19,,Jim Scheer,120
+Stanton,Provisional,State Senate,19,,Jim Scheer,9
+Stanton,Total,State Senate,19,,Jim Scheer,868

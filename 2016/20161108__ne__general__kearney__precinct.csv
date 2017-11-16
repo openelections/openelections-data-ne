@@ -1,0 +1,66 @@
+county,precinct,office,district,party,candidate,votes
+Kearney,1,President,,Republican,Donald Trump,77
+Kearney,1,President,,Libertarian,Gary Johnson,10
+Kearney,1,President,,Democrat,Hillary Clinton,4
+Kearney,1,President,,Green,Jill Stein,0
+Kearney,2,President,,Republican,Donald Trump,295
+Kearney,2,President,,Libertarian,Gary Johnson,61
+Kearney,2,President,,Democrat,Hillary Clinton,12
+Kearney,2,President,,Green,Jill Stein,2
+Kearney,4,President,,Republican,Donald Trump,200
+Kearney,4,President,,Libertarian,Gary Johnson,12
+Kearney,4,President,,Democrat,Hillary Clinton,2
+Kearney,4,President,,Green,Jill Stein,2
+Kearney,5,President,,Republican,Donald Trump,170
+Kearney,5,President,,Libertarian,Gary Johnson,27
+Kearney,5,President,,Democrat,Hillary Clinton,12
+Kearney,5,President,,Green,Jill Stein,2
+Kearney,6,President,,Republican,Donald Trump,58
+Kearney,6,President,,Libertarian,Gary Johnson,7
+Kearney,6,President,,Democrat,Hillary Clinton,8
+Kearney,6,President,,Green,Jill Stein,2
+Kearney,7,President,,Republican,Donald Trump,341
+Kearney,7,President,,Libertarian,Gary Johnson,60
+Kearney,7,President,,Democrat,Hillary Clinton,19
+Kearney,7,President,,Green,Jill Stein,5
+Kearney,8,President,,Republican,Donald Trump,169
+Kearney,8,President,,Libertarian,Gary Johnson,19
+Kearney,8,President,,Democrat,Hillary Clinton,5
+Kearney,8,President,,Green,Jill Stein,1
+Kearney,9,President,,Republican,Donald Trump,63
+Kearney,9,President,,Libertarian,Gary Johnson,9
+Kearney,9,President,,Democrat,Hillary Clinton,4
+Kearney,9,President,,Green,Jill Stein,0
+Kearney,10,President,,Republican,Donald Trump,245
+Kearney,10,President,,Libertarian,Gary Johnson,81
+Kearney,10,President,,Democrat,Hillary Clinton,14
+Kearney,10,President,,Green,Jill Stein,3
+Kearney,11,President,,Republican,Donald Trump,355
+Kearney,11,President,,Libertarian,Gary Johnson,84
+Kearney,11,President,,Democrat,Hillary Clinton,21
+Kearney,11,President,,Green,Jill Stein,3
+Kearney,12,President,,Republican,Donald Trump,283
+Kearney,12,President,,Libertarian,Gary Johnson,82
+Kearney,12,President,,Democrat,Hillary Clinton,23
+Kearney,12,President,,Green,Jill Stein,4
+Kearney,Early Vote,President,,Republican,Donald Trump,275
+Kearney,Early Vote,President,,Libertarian,Gary Johnson,98
+Kearney,Early Vote,President,,Democrat,Hillary Clinton,24
+Kearney,Early Vote,President,,Green,Jill Stein,2
+Kearney,Total,President,,Republican,Donald Trump,2531
+Kearney,Total,President,,Libertarian,Gary Johnson,550
+Kearney,Total,President,,Democrat,Hillary Clinton,148
+Kearney,Total,President,,Green,Jill Stein,26
+Kearney,1,U.S. House,3,Republican,Adrian Smith,79
+Kearney,2,U.S. House,3,Republican,Adrian Smith,311
+Kearney,4,U.S. House,3,Republican,Adrian Smith,197
+Kearney,5,U.S. House,3,Republican,Adrian Smith,186
+Kearney,6,U.S. House,3,Republican,Adrian Smith,70
+Kearney,7,U.S. House,3,Republican,Adrian Smith,396
+Kearney,8,U.S. House,3,Republican,Adrian Smith,180
+Kearney,9,U.S. House,3,Republican,Adrian Smith,69
+Kearney,10,U.S. House,3,Republican,Adrian Smith,305
+Kearney,11,U.S. House,3,Republican,Adrian Smith,430
+Kearney,12,U.S. House,3,Republican,Adrian Smith,356
+Kearney,Early Vote,U.S. House,3,Republican,Adrian Smith,337
+Kearney,Total,U.S. House,3,Republican,Adrian Smith,2916

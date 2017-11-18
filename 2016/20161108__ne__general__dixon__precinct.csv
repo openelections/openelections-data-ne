@@ -1,0 +1,136 @@
+county,precinct,office,district,party,candidate,votes
+Dixon,Logan-Wakefield 3,President,,Republican,Donald J. Trump,152
+Dixon,Concord-Dixon-Clark,President,,Republican,Donald J. Trump,192
+Dixon,Newcastle-Daily-Hooker,President,,Republican,Donald J. Trump,317
+Dixon,Wakefield 1st,President,,Republican,Donald J. Trump,102
+Dixon,Wakefield 2nd,President,,Republican,Donald J. Trump,83
+Dixon,Springbank,President,,Republican,Donald J. Trump,202
+Dixon,Galena-Silvercreek,President,,Republican,Donald J. Trump,182
+Dixon,Provisional,President,,Republican,Donald J. Trump,12
+Dixon,Emerson,President,,Republican,Donald J. Trump,114
+Dixon,Ottercreek,President,,Republican,Donald J. Trump,99
+Dixon,Ponce Twp-Ponca 3,President,,Republican,Donald J. Trump,159
+Dixon,Ponca 1st,President,,Republican,Donald J. Trump,129
+Dixon,Ponca 2nd,President,,Republican,Donald J. Trump,148
+Dixon,Absentee,President,,Republican,Donald J. Trump,150
+Dixon,Total,President,,Republican,Donald J. Trump,2041
+Dixon,Logan-Wakefield 3,President,,Democratic,Hillary Clinton,31
+Dixon,Concord-Dixon-Clark,President,,Democratic,Hillary Clinton,42
+Dixon,Newcastle-Daily-Hooker,President,,Democratic,Hillary Clinton,88
+Dixon,Wakefield 1st,President,,Democratic,Hillary Clinton,56
+Dixon,Wakefield 2nd,President,,Democratic,Hillary Clinton,33
+Dixon,Springbank,President,,Democratic,Hillary Clinton,40
+Dixon,Galena-Silvercreek,President,,Democratic,Hillary Clinton,19
+Dixon,Provisional,President,,Democratic,Hillary Clinton,1
+Dixon,Emerson,President,,Democratic,Hillary Clinton,48
+Dixon,Ottercreek,President,,Democratic,Hillary Clinton,28
+Dixon,Ponce Twp-Ponca 3,President,,Democratic,Hillary Clinton,31
+Dixon,Ponca 1st,President,,Democratic,Hillary Clinton,43
+Dixon,Ponca 2nd,President,,Democratic,Hillary Clinton,31
+Dixon,Absentee,President,,Democratic,Hillary Clinton,65
+Dixon,Total,President,,Democratic,Hillary Clinton,556
+Dixon,Logan-Wakefield 3,President,,Libertarian,Gary Johnson,8
+Dixon,Concord-Dixon-Clark,President,,Libertarian,Gary Johnson,14
+Dixon,Newcastle-Daily-Hooker,President,,Libertarian,Gary Johnson,22
+Dixon,Wakefield 1st,President,,Libertarian,Gary Johnson,11
+Dixon,Wakefield 2nd,President,,Libertarian,Gary Johnson,6
+Dixon,Springbank,President,,Libertarian,Gary Johnson,9
+Dixon,Galena-Silvercreek,President,,Libertarian,Gary Johnson,11
+Dixon,Provisional,President,,Libertarian,Gary Johnson,1
+Dixon,Emerson,President,,Libertarian,Gary Johnson,13
+Dixon,Ottercreek,President,,Libertarian,Gary Johnson,7
+Dixon,Ponce Twp-Ponca 3,President,,Libertarian,Gary Johnson,3
+Dixon,Ponca 1st,President,,Libertarian,Gary Johnson,1
+Dixon,Ponca 2nd,President,,Libertarian,Gary Johnson,5
+Dixon,Absentee,President,,Libertarian,Gary Johnson,19
+Dixon,Total,President,,Libertarian,Gary Johnson,130
+Dixon,Logan-Wakefield 3,President,,,Jill Stein,0
+Dixon,Concord-Dixon-Clark,President,,,Jill Stein,0
+Dixon,Newcastle-Daily-Hooker,President,,,Jill Stein,4
+Dixon,Wakefield 1st,President,,,Jill Stein,4
+Dixon,Wakefield 2nd,President,,,Jill Stein,2
+Dixon,Springbank,President,,,Jill Stein,4
+Dixon,Galena-Silvercreek,President,,,Jill Stein,1
+Dixon,Provisional,President,,,Jill Stein,0
+Dixon,Emerson,President,,,Jill Stein,0
+Dixon,Ottercreek,President,,,Jill Stein,1
+Dixon,Ponce Twp-Ponca 3,President,,,Jill Stein,0
+Dixon,Ponca 1st,President,,,Jill Stein,0
+Dixon,Ponca 2nd,President,,,Jill Stein,0
+Dixon,Absentee,President,,,Jill Stein,1
+Dixon,Total,President,,,Jill Stein,17
+Dixon,Logan-Wakefield 3,President,,,Write-ins,5
+Dixon,Concord-Dixon-Clark,President,,,Write-ins,2
+Dixon,Newcastle-Daily-Hooker,President,,,Write-ins,6
+Dixon,Wakefield 1st,President,,,Write-ins,4
+Dixon,Wakefield 2nd,President,,,Write-ins,0
+Dixon,Springbank,President,,,Write-ins,4
+Dixon,Galena-Silvercreek,President,,,Write-ins,3
+Dixon,Provisional,President,,,Write-ins,1
+Dixon,Emerson,President,,,Write-ins,1
+Dixon,Ottercreek,President,,,Write-ins,0
+Dixon,Ponce Twp-Ponca 3,President,,,Write-ins,6
+Dixon,Ponca 1st,President,,,Write-ins,2
+Dixon,Ponca 2nd,President,,,Write-ins,1
+Dixon,Absentee,President,,,Write-ins,3
+Dixon,Total,President,,,Write-ins,38
+Dixon,Logan-Wakefield 3,U.S. House,1,Republican,Jeff Fortenberry,6
+Dixon,Concord-Dixon-Clark,U.S. House,1,Republican,Jeff Fortenberry,
+Dixon,Newcastle-Daily-Hooker,U.S. House,1,Republican,Jeff Fortenberry,
+Dixon,Wakefield 1st,U.S. House,1,Republican,Jeff Fortenberry,
+Dixon,Wakefield 2nd,U.S. House,1,Republican,Jeff Fortenberry,
+Dixon,Springbank,U.S. House,1,Republican,Jeff Fortenberry,
+Dixon,Galena-Silvercreek,U.S. House,1,Republican,Jeff Fortenberry,
+Dixon,Provisional,U.S. House,1,Republican,Jeff Fortenberry,1
+Dixon,Emerson,U.S. House,1,Republican,Jeff Fortenberry,50
+Dixon,Ottercreek,U.S. House,1,Republican,Jeff Fortenberry,
+Dixon,Ponce Twp-Ponca 3,U.S. House,1,Republican,Jeff Fortenberry,
+Dixon,Ponca 1st,U.S. House,1,Republican,Jeff Fortenberry,
+Dixon,Ponca 2nd,U.S. House,1,Republican,Jeff Fortenberry,
+Dixon,Absentee,U.S. House,1,Republican,Jeff Fortenberry,7
+Dixon,Total,U.S. House,1,Republican,Jeff Fortenberry,64
+Dixon,Logan-Wakefield 3,U.S. House,1,Democratic,Daniel W. Wik,2
+Dixon,Concord-Dixon-Clark,U.S. House,1,Democratic,Daniel W. Wik,
+Dixon,Newcastle-Daily-Hooker,U.S. House,1,Democratic,Daniel W. Wik,
+Dixon,Wakefield 1st,U.S. House,1,Democratic,Daniel W. Wik,
+Dixon,Wakefield 2nd,U.S. House,1,Democratic,Daniel W. Wik,
+Dixon,Springbank,U.S. House,1,Democratic,Daniel W. Wik,
+Dixon,Galena-Silvercreek,U.S. House,1,Democratic,Daniel W. Wik,
+Dixon,Provisional,U.S. House,1,Democratic,Daniel W. Wik,0
+Dixon,Emerson,U.S. House,1,Democratic,Daniel W. Wik,20
+Dixon,Ottercreek,U.S. House,1,Democratic,Daniel W. Wik,
+Dixon,Ponce Twp-Ponca 3,U.S. House,1,Democratic,Daniel W. Wik,
+Dixon,Ponca 1st,U.S. House,1,Democratic,Daniel W. Wik,
+Dixon,Ponca 2nd,U.S. House,1,Democratic,Daniel W. Wik,
+Dixon,Absentee,U.S. House,1,Democratic,Daniel W. Wik,4
+Dixon,Total,U.S. House,1,Democratic,Daniel W. Wik,26
+Dixon,Logan-Wakefield 3,U.S. House,3,Republican,Adrian Smith,152
+Dixon,Concord-Dixon-Clark,U.S. House,3,Republican,Adrian Smith,230
+Dixon,Newcastle-Daily-Hooker,U.S. House,3,Republican,Adrian Smith,335
+Dixon,Wakefield 1st,U.S. House,3,Republican,Adrian Smith,137
+Dixon,Wakefield 2nd,U.S. House,3,Republican,Adrian Smith,104
+Dixon,Springbank,U.S. House,3,Republican,Adrian Smith,234
+Dixon,Galena-Silvercreek,U.S. House,3,Republican,Adrian Smith,182
+Dixon,Provisional,U.S. House,3,Republican,Adrian Smith,12
+Dixon,Emerson,U.S. House,3,Republican,Adrian Smith,85
+Dixon,Ottercreek,U.S. House,3,Republican,Adrian Smith,113
+Dixon,Ponce Twp-Ponca 3,U.S. House,3,Republican,Adrian Smith,170
+Dixon,Ponca 1st,U.S. House,3,Republican,Adrian Smith,147
+Dixon,Ponca 2nd,U.S. House,3,Republican,Adrian Smith,163
+Dixon,Absentee,U.S. House,3,Republican,Adrian Smith,169
+Dixon,Total,U.S. House,3,Republican,Adrian Smith,2233
+Dixon,Logan-Wakefield 3,U.S. House,3,,Write-ins,1
+Dixon,Concord-Dixon-Clark,U.S. House,3,,Write-ins,3
+Dixon,Newcastle-Daily-Hooker,U.S. House,3,,Write-ins,6
+Dixon,Wakefield 1st,U.S. House,3,,Write-ins,1
+Dixon,Wakefield 2nd,U.S. House,3,,Write-ins,4
+Dixon,Springbank,U.S. House,3,,Write-ins,4
+Dixon,Galena-Silvercreek,U.S. House,3,,Write-ins,1
+Dixon,Provisional,U.S. House,3,,Write-ins,0
+Dixon,Emerson,U.S. House,3,,Write-ins,2
+Dixon,Ottercreek,U.S. House,3,,Write-ins,1
+Dixon,Ponce Twp-Ponca 3,U.S. House,3,,Write-ins,0
+Dixon,Ponca 1st,U.S. House,3,,Write-ins,1
+Dixon,Ponca 2nd,U.S. House,3,,Write-ins,1
+Dixon,Absentee,U.S. House,3,,Write-ins,5
+Dixon,Total,U.S. House,3,,Write-ins,30

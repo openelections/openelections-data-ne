@@ -1,0 +1,160 @@
+county,precinct,office,district,party,candidate,votes
+Antelope,Tilden,Ballots Cast,,,,124
+Antelope,Tilden 1st Ward,Ballots Cast,,,,118
+Antelope,Oakdale,Ballots Cast,,,,230
+Antelope,Neligh,Ballots Cast,,,,216
+Antelope,Neligh 1st Ward,Ballots Cast,,,,367
+Antelope,Neligh 2nd Ward,Ballots Cast,,,,257
+Antelope,Brunswick,Ballots Cast,,,,275
+Antelope,Elgin,Ballots Cast,,,,195
+Antelope,Elgin 1st Ward,Ballots Cast,,,,136
+Antelope,Elgin 2nd Ward,Ballots Cast,,,,159
+Antelope,Royal,Ballots Cast,,,,114
+Antelope,Clearwater,Ballots Cast,,,,350
+Antelope,Orchard,Ballots Cast,,,,254
+Antelope,Absentee,Ballots Cast,,,,516
+Antelope,Provisional,Ballots Cast,,,,19
+Antelope,Tilden,President,,Republican,Donald J. Trump,97
+Antelope,Tilden 1st Ward,President,,Republican,Donald J. Trump,88
+Antelope,Oakdale,President,,Republican,Donald J. Trump,184
+Antelope,Neligh,President,,Republican,Donald J. Trump,181
+Antelope,Neligh 1st Ward,President,,Republican,Donald J. Trump,297
+Antelope,Neligh 2nd Ward,President,,Republican,Donald J. Trump,201
+Antelope,Brunswick,President,,Republican,Donald J. Trump,242
+Antelope,Elgin,President,,Republican,Donald J. Trump,169
+Antelope,Elgin 1st Ward,President,,Republican,Donald J. Trump,109
+Antelope,Elgin 2nd Ward,President,,Republican,Donald J. Trump,128
+Antelope,Royal,President,,Republican,Donald J. Trump,99
+Antelope,Clearwater,President,,Republican,Donald J. Trump,315
+Antelope,Orchard,President,,Republican,Donald J. Trump,216
+Antelope,Absentee,President,,Republican,Donald J. Trump,391
+Antelope,Provisional,President,,Republican,Donald J. Trump,15
+Antelope,Total,President,,Republican,Donald J. Trump,2732
+Antelope,Tilden,President,,Democratic,Hillary Clinton,17
+Antelope,Tilden 1st Ward,President,,Democratic,Hillary Clinton,19
+Antelope,Oakdale,President,,Democratic,Hillary Clinton,23
+Antelope,Neligh,President,,Democratic,Hillary Clinton,23
+Antelope,Neligh 1st Ward,President,,Democratic,Hillary Clinton,45
+Antelope,Neligh 2nd Ward,President,,Democratic,Hillary Clinton,34
+Antelope,Brunswick,President,,Democratic,Hillary Clinton,18
+Antelope,Elgin,President,,Democratic,Hillary Clinton,18
+Antelope,Elgin 1st Ward,President,,Democratic,Hillary Clinton,17
+Antelope,Elgin 2nd Ward,President,,Democratic,Hillary Clinton,20
+Antelope,Royal,President,,Democratic,Hillary Clinton,11
+Antelope,Clearwater,President,,Democratic,Hillary Clinton,20
+Antelope,Orchard,President,,Democratic,Hillary Clinton,24
+Antelope,Absentee,President,,Democratic,Hillary Clinton,92
+Antelope,Provisional,President,,Democratic,Hillary Clinton,2
+Antelope,Total,President,,Democratic,Hillary Clinton,383
+Antelope,Tilden,President,,Libertarian,Gary Johnson,7
+Antelope,Tilden 1st Ward,President,,Libertarian,Gary Johnson,2
+Antelope,Oakdale,President,,Libertarian,Gary Johnson,11
+Antelope,Neligh,President,,Libertarian,Gary Johnson,5
+Antelope,Neligh 1st Ward,President,,Libertarian,Gary Johnson,15
+Antelope,Neligh 2nd Ward,President,,Libertarian,Gary Johnson,4
+Antelope,Brunswick,President,,Libertarian,Gary Johnson,19
+Antelope,Elgin,President,,Libertarian,Gary Johnson,2
+Antelope,Elgin 1st Ward,President,,Libertarian,Gary Johnson,7
+Antelope,Elgin 2nd Ward,President,,Libertarian,Gary Johnson,6
+Antelope,Royal,President,,Libertarian,Gary Johnson,1
+Antelope,Clearwater,President,,Libertarian,Gary Johnson,6
+Antelope,Orchard,President,,Libertarian,Gary Johnson,5
+Antelope,Absentee,President,,Libertarian,Gary Johnson,13
+Antelope,Provisional,President,,Libertarian,Gary Johnson,2
+Antelope,Total,President,,Libertarian,Gary Johnson,105
+Antelope,Tilden,President,,,Jill Stein,2
+Antelope,Tilden 1st Ward,President,,,Jill Stein,0
+Antelope,Oakdale,President,,,Jill Stein,4
+Antelope,Neligh,President,,,Jill Stein,1
+Antelope,Neligh 1st Ward,President,,,Jill Stein,1
+Antelope,Neligh 2nd Ward,President,,,Jill Stein,2
+Antelope,Brunswick,President,,,Jill Stein,0
+Antelope,Elgin,President,,,Jill Stein,1
+Antelope,Elgin 1st Ward,President,,,Jill Stein,1
+Antelope,Elgin 2nd Ward,President,,,Jill Stein,2
+Antelope,Royal,President,,,Jill Stein,0
+Antelope,Clearwater,President,,,Jill Stein,1
+Antelope,Orchard,President,,,Jill Stein,2
+Antelope,Absentee,President,,,Jill Stein,2
+Antelope,Provisional,President,,,Jill Stein,0
+Antelope,Total,President,,,Jill Stein,19
+Antelope,Tilden,President,,,Write-ins,1
+Antelope,Tilden 1st Ward,President,,,Write-ins,2
+Antelope,Oakdale,President,,,Write-ins,3
+Antelope,Neligh,President,,,Write-ins,4
+Antelope,Neligh 1st Ward,President,,,Write-ins,2
+Antelope,Neligh 2nd Ward,President,,,Write-ins,2
+Antelope,Brunswick,President,,,Write-ins,4
+Antelope,Elgin,President,,,Write-ins,2
+Antelope,Elgin 1st Ward,President,,,Write-ins,0
+Antelope,Elgin 2nd Ward,President,,,Write-ins,1
+Antelope,Royal,President,,,Write-ins,2
+Antelope,Clearwater,President,,,Write-ins,2
+Antelope,Orchard,President,,,Write-ins,6
+Antelope,Absentee,President,,,Write-ins,11
+Antelope,Provisional,President,,,Write-ins,0
+Antelope,Total,President,,,Write-ins,42
+Antelope,Tilden,U.S. House,3,Republican,Adrian Smith,100
+Antelope,Tilden 1st Ward,U.S. House,3,Republican,Adrian Smith,97
+Antelope,Oakdale,U.S. House,3,Republican,Adrian Smith,190
+Antelope,Neligh,U.S. House,3,Republican,Adrian Smith,179
+Antelope,Neligh 1st Ward,U.S. House,3,Republican,Adrian Smith,303
+Antelope,Neligh 2nd Ward,U.S. House,3,Republican,Adrian Smith,224
+Antelope,Brunswick,U.S. House,3,Republican,Adrian Smith,246
+Antelope,Elgin,U.S. House,3,Republican,Adrian Smith,172
+Antelope,Elgin 1st Ward,U.S. House,3,Republican,Adrian Smith,113
+Antelope,Elgin 2nd Ward,U.S. House,3,Republican,Adrian Smith,140
+Antelope,Royal,U.S. House,3,Republican,Adrian Smith,97
+Antelope,Clearwater,U.S. House,3,Republican,Adrian Smith,285
+Antelope,Orchard,U.S. House,3,Republican,Adrian Smith,230
+Antelope,Absentee,U.S. House,3,Republican,Adrian Smith,415
+Antelope,Provisional,U.S. House,3,Republican,Adrian Smith,17
+Antelope,Total,U.S. House,3,Republican,Adrian Smith,2808
+Antelope,Tilden,U.S. House,3,,Write-ins,2
+Antelope,Tilden 1st Ward,U.S. House,3,,Write-ins,0
+Antelope,Oakdale,U.S. House,3,,Write-ins,1
+Antelope,Neligh,U.S. House,3,,Write-ins,2
+Antelope,Neligh 1st Ward,U.S. House,3,,Write-ins,5
+Antelope,Neligh 2nd Ward,U.S. House,3,,Write-ins,1
+Antelope,Brunswick,U.S. House,3,,Write-ins,1
+Antelope,Elgin,U.S. House,3,,Write-ins,0
+Antelope,Elgin 1st Ward,U.S. House,3,,Write-ins,0
+Antelope,Elgin 2nd Ward,U.S. House,3,,Write-ins,0
+Antelope,Royal,U.S. House,3,,Write-ins,0
+Antelope,Clearwater,U.S. House,3,,Write-ins,1
+Antelope,Orchard,U.S. House,3,,Write-ins,1
+Antelope,Absentee,U.S. House,3,,Write-ins,4
+Antelope,Provisional,U.S. House,3,,Write-ins,0
+Antelope,Total,U.S. House,3,,Write-ins,18
+Antelope,Tilden,State Senate,41,,Tom Briese,81
+Antelope,Tilden 1st Ward,State Senate,41,,Tom Briese,82
+Antelope,Oakdale,State Senate,41,,Tom Briese,156
+Antelope,Neligh,State Senate,41,,Tom Briese,130
+Antelope,Neligh 1st Ward,State Senate,41,,Tom Briese,251
+Antelope,Neligh 2nd Ward,State Senate,41,,Tom Briese,189
+Antelope,Brunswick,State Senate,41,,Tom Briese,192
+Antelope,Elgin,State Senate,41,,Tom Briese,143
+Antelope,Elgin 1st Ward,State Senate,41,,Tom Briese,104
+Antelope,Elgin 2nd Ward,State Senate,41,,Tom Briese,127
+Antelope,Royal,State Senate,41,,Tom Briese,69
+Antelope,Clearwater,State Senate,41,,Tom Briese,222
+Antelope,Orchard,State Senate,41,,Tom Briese,190
+Antelope,Absentee,State Senate,41,,Tom Briese,334
+Antelope,Provisional,State Senate,41,,Tom Briese,15
+Antelope,Total,State Senate,41,,Tom Briese,2285
+Antelope,Tilden,State Senate,41,,Write-ins,0
+Antelope,Tilden 1st Ward,State Senate,41,,Write-ins,0
+Antelope,Oakdale,State Senate,41,,Write-ins,1
+Antelope,Neligh,State Senate,41,,Write-ins,2
+Antelope,Neligh 1st Ward,State Senate,41,,Write-ins,4
+Antelope,Neligh 2nd Ward,State Senate,41,,Write-ins,0
+Antelope,Brunswick,State Senate,41,,Write-ins,0
+Antelope,Elgin,State Senate,41,,Write-ins,0
+Antelope,Elgin 1st Ward,State Senate,41,,Write-ins,0
+Antelope,Elgin 2nd Ward,State Senate,41,,Write-ins,1
+Antelope,Royal,State Senate,41,,Write-ins,0
+Antelope,Clearwater,State Senate,41,,Write-ins,1
+Antelope,Orchard,State Senate,41,,Write-ins,1
+Antelope,Absentee,State Senate,41,,Write-ins,1
+Antelope,Provisional,State Senate,41,,Write-ins,0
+Antelope,Total,State Senate,41,,Write-ins,11

@@ -1,0 +1,193 @@
+county,precinct,office,district,party,candidate,votes
+Madison,Norfolk 1-1,President,,Republican,Donald J. Trump,573
+Madison,Norfolk 1-2,President,,Republican,Donald J. Trump,420
+Madison,Norfolk 1-3,President,,Republican,Donald J. Trump,395
+Madison,Norfolk 2-1,President,,Republican,Donald J. Trump,844
+Madison,Norfolk 2-2,President,,Republican,Donald J. Trump,705
+Madison,Norfolk 2-3,President,,Republican,Donald J. Trump,651
+Madison,Norfolk 3-1,President,,Republican,Donald J. Trump,394
+Madison,Norfolk 3-2,President,,Republican,Donald J. Trump,356
+Madison,Norfolk 3-3,President,,Republican,Donald J. Trump,508
+Madison,Norfolk 4-1,President,,Republican,Donald J. Trump,282
+Madison,Norfolk 4-2,President,,Republican,Donald J. Trump,484
+Madison,Norfolk 4-3,President,,Republican,Donald J. Trump,352
+Madison,Norfolk,President,,Republican,Donald J. Trump,466
+Madison,Valley,President,,Republican,Donald J. Trump,417
+Madison,Meadow-Jefferson-Grove-Highland,President,,Republican,Donald J. Trump,374
+Madison,Tilden 2nd Ward,President,,Republican,Donald J. Trump,193
+Madison,Battle Creek City,President,,Republican,Donald J. Trump,610
+Madison,Warnerville,President,,Republican,Donald J. Trump,170
+Madison,Union-Madison,President,,Republican,Donald J. Trump,176
+Madison,Fairview-Kalamazoo-Green Garden,President,,Republican,Donald J. Trump,189
+Madison,Schoolcraft-Emerick-Shell Creek-Newman Grove,President,,Republican,Donald J. Trump,336
+Madison,Madison City,President,,Republican,Donald J. Trump,351
+Madison,Early,President,,Republican,Donald J. Trump,1382
+Madison,Total,President,,Republican,Donald J. Trump,10628
+Madison,Norfolk 1-1,President,,Democratic,Hillary Clinton,122
+Madison,Norfolk 1-2,President,,Democratic,Hillary Clinton,130
+Madison,Norfolk 1-3,President,,Democratic,Hillary Clinton,105
+Madison,Norfolk 2-1,President,,Democratic,Hillary Clinton,173
+Madison,Norfolk 2-2,President,,Democratic,Hillary Clinton,143
+Madison,Norfolk 2-3,President,,Democratic,Hillary Clinton,137
+Madison,Norfolk 3-1,President,,Democratic,Hillary Clinton,150
+Madison,Norfolk 3-2,President,,Democratic,Hillary Clinton,104
+Madison,Norfolk 3-3,President,,Democratic,Hillary Clinton,127
+Madison,Norfolk 4-1,President,,Democratic,Hillary Clinton,118
+Madison,Norfolk 4-2,President,,Democratic,Hillary Clinton,119
+Madison,Norfolk 4-3,President,,Democratic,Hillary Clinton,145
+Madison,Norfolk,President,,Democratic,Hillary Clinton,75
+Madison,Valley,President,,Democratic,Hillary Clinton,57
+Madison,Meadow-Jefferson-Grove-Highland,President,,Democratic,Hillary Clinton,69
+Madison,Tilden 2nd Ward,President,,Democratic,Hillary Clinton,27
+Madison,Battle Creek City,President,,Democratic,Hillary Clinton,81
+Madison,Warnerville,President,,Democratic,Hillary Clinton,27
+Madison,Union-Madison,President,,Democratic,Hillary Clinton,9
+Madison,Fairview-Kalamazoo-Green Garden,President,,Democratic,Hillary Clinton,6
+Madison,Schoolcraft-Emerick-Shell Creek-Newman Grove,President,,Democratic,Hillary Clinton,62
+Madison,Madison City,President,,Democratic,Hillary Clinton,151
+Madison,Early,President,,Democratic,Hillary Clinton,574
+Madison,Total,President,,Democratic,Hillary Clinton,2711
+Madison,Norfolk 1-1,President,,Libertarian,Gary Johnson,31
+Madison,Norfolk 1-2,President,,Libertarian,Gary Johnson,34
+Madison,Norfolk 1-3,President,,Libertarian,Gary Johnson,27
+Madison,Norfolk 2-1,President,,Libertarian,Gary Johnson,39
+Madison,Norfolk 2-2,President,,Libertarian,Gary Johnson,36
+Madison,Norfolk 2-3,President,,Libertarian,Gary Johnson,40
+Madison,Norfolk 3-1,President,,Libertarian,Gary Johnson,41
+Madison,Norfolk 3-2,President,,Libertarian,Gary Johnson,41
+Madison,Norfolk 3-3,President,,Libertarian,Gary Johnson,29
+Madison,Norfolk 4-1,President,,Libertarian,Gary Johnson,24
+Madison,Norfolk 4-2,President,,Libertarian,Gary Johnson,31
+Madison,Norfolk 4-3,President,,Libertarian,Gary Johnson,34
+Madison,Norfolk,President,,Libertarian,Gary Johnson,15
+Madison,Valley,President,,Libertarian,Gary Johnson,4
+Madison,Meadow-Jefferson-Grove-Highland,President,,Libertarian,Gary Johnson,25
+Madison,Tilden 2nd Ward,President,,Libertarian,Gary Johnson,18
+Madison,Battle Creek City,President,,Libertarian,Gary Johnson,33
+Madison,Warnerville,President,,Libertarian,Gary Johnson,10
+Madison,Union-Madison,President,,Libertarian,Gary Johnson,2
+Madison,Fairview-Kalamazoo-Green Garden,President,,Libertarian,Gary Johnson,5
+Madison,Schoolcraft-Emerick-Shell Creek-Newman Grove,President,,Libertarian,Gary Johnson,20
+Madison,Madison City,President,,Libertarian,Gary Johnson,24
+Madison,Early,President,,Libertarian,Gary Johnson,106
+Madison,Total,President,,Libertarian,Gary Johnson,669
+Madison,Norfolk 1-1,President,,,Jill Stein,9
+Madison,Norfolk 1-2,President,,,Jill Stein,6
+Madison,Norfolk 1-3,President,,,Jill Stein,6
+Madison,Norfolk 2-1,President,,,Jill Stein,5
+Madison,Norfolk 2-2,President,,,Jill Stein,2
+Madison,Norfolk 2-3,President,,,Jill Stein,6
+Madison,Norfolk 3-1,President,,,Jill Stein,8
+Madison,Norfolk 3-2,President,,,Jill Stein,10
+Madison,Norfolk 3-3,President,,,Jill Stein,5
+Madison,Norfolk 4-1,President,,,Jill Stein,8
+Madison,Norfolk 4-2,President,,,Jill Stein,6
+Madison,Norfolk 4-3,President,,,Jill Stein,6
+Madison,Norfolk,President,,,Jill Stein,5
+Madison,Valley,President,,,Jill Stein,1
+Madison,Meadow-Jefferson-Grove-Highland,President,,,Jill Stein,4
+Madison,Tilden 2nd Ward,President,,,Jill Stein,1
+Madison,Battle Creek City,President,,,Jill Stein,8
+Madison,Warnerville,President,,,Jill Stein,0
+Madison,Union-Madison,President,,,Jill Stein,2
+Madison,Fairview-Kalamazoo-Green Garden,President,,,Jill Stein,0
+Madison,Schoolcraft-Emerick-Shell Creek-Newman Grove,President,,,Jill Stein,2
+Madison,Madison City,President,,,Jill Stein,10
+Madison,Early,President,,,Jill Stein,16
+Madison,Total,President,,,Jill Stein,126
+Madison,Norfolk 1-1,President,,,Write-ins,6
+Madison,Norfolk 1-2,President,,,Write-ins,5
+Madison,Norfolk 1-3,President,,,Write-ins,8
+Madison,Norfolk 2-1,President,,,Write-ins,17
+Madison,Norfolk 2-2,President,,,Write-ins,11
+Madison,Norfolk 2-3,President,,,Write-ins,27
+Madison,Norfolk 3-1,President,,,Write-ins,8
+Madison,Norfolk 3-2,President,,,Write-ins,16
+Madison,Norfolk 3-3,President,,,Write-ins,8
+Madison,Norfolk 4-1,President,,,Write-ins,5
+Madison,Norfolk 4-2,President,,,Write-ins,7
+Madison,Norfolk 4-3,President,,,Write-ins,10
+Madison,Norfolk,President,,,Write-ins,7
+Madison,Valley,President,,,Write-ins,10
+Madison,Meadow-Jefferson-Grove-Highland,President,,,Write-ins,8
+Madison,Tilden 2nd Ward,President,,,Write-ins,4
+Madison,Battle Creek City,President,,,Write-ins,8
+Madison,Warnerville,President,,,Write-ins,3
+Madison,Union-Madison,President,,,Write-ins,2
+Madison,Fairview-Kalamazoo-Green Garden,President,,,Write-ins,4
+Madison,Schoolcraft-Emerick-Shell Creek-Newman Grove,President,,,Write-ins,2
+Madison,Madison City,President,,,Write-ins,4
+Madison,Early,President,,,Write-ins,37
+Madison,Total,President,,,Write-ins,217
+Madison,Norfolk 1-1,U.S. House,1,Republican,Jeff Fortenberry,597
+Madison,Norfolk 1-2,U.S. House,1,Republican,Jeff Fortenberry,450
+Madison,Norfolk 1-3,U.S. House,1,Republican,Jeff Fortenberry,424
+Madison,Norfolk 2-1,U.S. House,1,Republican,Jeff Fortenberry,892
+Madison,Norfolk 2-2,U.S. House,1,Republican,Jeff Fortenberry,764
+Madison,Norfolk 2-3,U.S. House,1,Republican,Jeff Fortenberry,711
+Madison,Norfolk 3-1,U.S. House,1,Republican,Jeff Fortenberry,438
+Madison,Norfolk 3-2,U.S. House,1,Republican,Jeff Fortenberry,389
+Madison,Norfolk 3-3,U.S. House,1,Republican,Jeff Fortenberry,527
+Madison,Norfolk 4-1,U.S. House,1,Republican,Jeff Fortenberry,308
+Madison,Norfolk 4-2,U.S. House,1,Republican,Jeff Fortenberry,509
+Madison,Norfolk 4-3,U.S. House,1,Republican,Jeff Fortenberry,392
+Madison,Norfolk,U.S. House,1,Republican,Jeff Fortenberry,496
+Madison,Valley,U.S. House,1,Republican,Jeff Fortenberry,424
+Madison,Meadow-Jefferson-Grove-Highland,U.S. House,1,Republican,Jeff Fortenberry,383
+Madison,Tilden 2nd Ward,U.S. House,1,Republican,Jeff Fortenberry,213
+Madison,Battle Creek City,U.S. House,1,Republican,Jeff Fortenberry,615
+Madison,Warnerville,U.S. House,1,Republican,Jeff Fortenberry,179
+Madison,Union-Madison,U.S. House,1,Republican,Jeff Fortenberry,163
+Madison,Fairview-Kalamazoo-Green Garden,U.S. House,1,Republican,Jeff Fortenberry,184
+Madison,Schoolcraft-Emerick-Shell Creek-Newman Grove,U.S. House,1,Republican,Jeff Fortenberry,356
+Madison,Madison City,U.S. House,1,Republican,Jeff Fortenberry,391
+Madison,Early,U.S. House,1,Republican,Jeff Fortenberry,1531
+Madison,Total,U.S. House,1,Republican,Jeff Fortenberry,11336
+Madison,Norfolk 1-1,U.S. House,1,Democratic,Daniel Wik,132
+Madison,Norfolk 1-2,U.S. House,1,Democratic,Daniel Wik,140
+Madison,Norfolk 1-3,U.S. House,1,Democratic,Daniel Wik,115
+Madison,Norfolk 2-1,U.S. House,1,Democratic,Daniel Wik,170
+Madison,Norfolk 2-2,U.S. House,1,Democratic,Daniel Wik,125
+Madison,Norfolk 2-3,U.S. House,1,Democratic,Daniel Wik,140
+Madison,Norfolk 3-1,U.S. House,1,Democratic,Daniel Wik,156
+Madison,Norfolk 3-2,U.S. House,1,Democratic,Daniel Wik,126
+Madison,Norfolk 3-3,U.S. House,1,Democratic,Daniel Wik,130
+Madison,Norfolk 4-1,U.S. House,1,Democratic,Daniel Wik,120
+Madison,Norfolk 4-2,U.S. House,1,Democratic,Daniel Wik,125
+Madison,Norfolk 4-3,U.S. House,1,Democratic,Daniel Wik,144
+Madison,Norfolk,U.S. House,1,Democratic,Daniel Wik,71
+Madison,Valley,U.S. House,1,Democratic,Daniel Wik,55
+Madison,Meadow-Jefferson-Grove-Highland,U.S. House,1,Democratic,Daniel Wik,73
+Madison,Tilden 2nd Ward,U.S. House,1,Democratic,Daniel Wik,26
+Madison,Battle Creek City,U.S. House,1,Democratic,Daniel Wik,108
+Madison,Warnerville,U.S. House,1,Democratic,Daniel Wik,27
+Madison,Union-Madison,U.S. House,1,Democratic,Daniel Wik,23
+Madison,Fairview-Kalamazoo-Green Garden,U.S. House,1,Democratic,Daniel Wik,16
+Madison,Schoolcraft-Emerick-Shell Creek-Newman Grove,U.S. House,1,Democratic,Daniel Wik,61
+Madison,Madison City,U.S. House,1,Democratic,Daniel Wik,137
+Madison,Early,U.S. House,1,Democratic,Daniel Wik,508
+Madison,Total,U.S. House,1,Democratic,Daniel Wik,2728
+Madison,Norfolk 1-1,U.S. House,1,,Write-ins,0
+Madison,Norfolk 1-2,U.S. House,1,,Write-ins,0
+Madison,Norfolk 1-3,U.S. House,1,,Write-ins,0
+Madison,Norfolk 2-1,U.S. House,1,,Write-ins,0
+Madison,Norfolk 2-2,U.S. House,1,,Write-ins,1
+Madison,Norfolk 2-3,U.S. House,1,,Write-ins,1
+Madison,Norfolk 3-1,U.S. House,1,,Write-ins,0
+Madison,Norfolk 3-2,U.S. House,1,,Write-ins,0
+Madison,Norfolk 3-3,U.S. House,1,,Write-ins,0
+Madison,Norfolk 4-1,U.S. House,1,,Write-ins,1
+Madison,Norfolk 4-2,U.S. House,1,,Write-ins,0
+Madison,Norfolk 4-3,U.S. House,1,,Write-ins,2
+Madison,Norfolk,U.S. House,1,,Write-ins,0
+Madison,Valley,U.S. House,1,,Write-ins,2
+Madison,Meadow-Jefferson-Grove-Highland,U.S. House,1,,Write-ins,0
+Madison,Tilden 2nd Ward,U.S. House,1,,Write-ins,0
+Madison,Battle Creek City,U.S. House,1,,Write-ins,0
+Madison,Warnerville,U.S. House,1,,Write-ins,1
+Madison,Union-Madison,U.S. House,1,,Write-ins,0
+Madison,Fairview-Kalamazoo-Green Garden,U.S. House,1,,Write-ins,1
+Madison,Schoolcraft-Emerick-Shell Creek-Newman Grove,U.S. House,1,,Write-ins,0
+Madison,Madison City,U.S. House,1,,Write-ins,0
+Madison,Early,U.S. House,1,,Write-ins,12
+Madison,Total,U.S. House,1,,Write-ins,21

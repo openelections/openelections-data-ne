@@ -1,0 +1,85 @@
+county,precinct,office,district,party,candidate,votes
+Cedar,Early,Ballots Cast,,,,472
+Cedar,Precinct 10 (17-18),Ballots Cast,,,,138
+Cedar,Precinct 13 (21),Ballots Cast,,,,532
+Cedar,Precinct 3 (4),Ballots Cast,,,,193
+Cedar,Precinct 4 (5-6-7),Ballots Cast,,,,261
+Cedar,Precinct 7 (9A),Ballots Cast,,,,96
+Cedar,Precinct 1 (1),Ballots Cast,,,,194
+Cedar,Precinct 11 (19),Ballots Cast,,,,460
+Cedar,Precinct 12 (20),Ballots Cast,,,,148
+Cedar,Precinct 2 (2-3),Ballots Cast,,,,404
+Cedar,Precinct 5 (13-14),Ballots Cast,,,,170
+Cedar,Precinct 6 (8-9),Ballots Cast,,,,844
+Cedar,Precinct 8 (10-11-12),Ballots Cast,,,,272
+Cedar,Precinct 9 (15-16),Ballots Cast,,,,327
+Cedar,Early,President,,Republican,Donald J. Trump,349
+Cedar,Precinct 10 (17-18),President,,Republican,Donald J. Trump,117
+Cedar,Precinct 13 (21),President,,Republican,Donald J. Trump,438
+Cedar,Precinct 3 (4),President,,Republican,Donald J. Trump,143
+Cedar,Precinct 4 (5-6-7),President,,Republican,Donald J. Trump,210
+Cedar,Precinct 7 (9A),President,,Republican,Donald J. Trump,62
+Cedar,Precinct 1 (1),President,,Republican,Donald J. Trump,128
+Cedar,Precinct 11 (19),President,,Republican,Donald J. Trump,364
+Cedar,Precinct 12 (20),President,,Republican,Donald J. Trump,93
+Cedar,Precinct 2 (2-3),President,,Republican,Donald J. Trump,313
+Cedar,Precinct 5 (13-14),President,,Republican,Donald J. Trump,132
+Cedar,Precinct 6 (8-9),President,,Republican,Donald J. Trump,678
+Cedar,Precinct 8 (10-11-12),President,,Republican,Donald J. Trump,225
+Cedar,Precinct 9 (15-16),President,,Republican,Donald J. Trump,280
+Cedar,Early,President,,Democratic,Hillary Clinton,78
+Cedar,Precinct 10 (17-18),President,,Democratic,Hillary Clinton,12
+Cedar,Precinct 13 (21),President,,Democratic,Hillary Clinton,51
+Cedar,Precinct 3 (4),President,,Democratic,Hillary Clinton,27
+Cedar,Precinct 4 (5-6-7),President,,Democratic,Hillary Clinton,27
+Cedar,Precinct 7 (9A),President,,Democratic,Hillary Clinton,18
+Cedar,Precinct 1 (1),President,,Democratic,Hillary Clinton,35
+Cedar,Precinct 11 (19),President,,Democratic,Hillary Clinton,50
+Cedar,Precinct 12 (20),President,,Democratic,Hillary Clinton,32
+Cedar,Precinct 2 (2-3),President,,Democratic,Hillary Clinton,56
+Cedar,Precinct 5 (13-14),President,,Democratic,Hillary Clinton,26
+Cedar,Precinct 6 (8-9),President,,Democratic,Hillary Clinton,105
+Cedar,Precinct 8 (10-11-12),President,,Democratic,Hillary Clinton,23
+Cedar,Precinct 9 (15-16),President,,Democratic,Hillary Clinton,31
+Cedar,Early,President,,Libertarian,Gary Johnson,20
+Cedar,Precinct 10 (17-18),President,,Libertarian,Gary Johnson,8
+Cedar,Precinct 13 (21),President,,Libertarian,Gary Johnson,21
+Cedar,Precinct 3 (4),President,,Libertarian,Gary Johnson,13
+Cedar,Precinct 4 (5-6-7),President,,Libertarian,Gary Johnson,12
+Cedar,Precinct 7 (9A),President,,Libertarian,Gary Johnson,9
+Cedar,Precinct 1 (1),President,,Libertarian,Gary Johnson,19
+Cedar,Precinct 11 (19),President,,Libertarian,Gary Johnson,30
+Cedar,Precinct 12 (20),President,,Libertarian,Gary Johnson,16
+Cedar,Precinct 2 (2-3),President,,Libertarian,Gary Johnson,19
+Cedar,Precinct 5 (13-14),President,,Libertarian,Gary Johnson,5
+Cedar,Precinct 6 (8-9),President,,Libertarian,Gary Johnson,28
+Cedar,Precinct 8 (10-11-12),President,,Libertarian,Gary Johnson,12
+Cedar,Precinct 9 (15-16),President,,Libertarian,Gary Johnson,12
+Cedar,Early,President,,,Jill Stein,4
+Cedar,Precinct 10 (17-18),President,,,Jill Stein,0
+Cedar,Precinct 13 (21),President,,,Jill Stein,9
+Cedar,Precinct 3 (4),President,,,Jill Stein,1
+Cedar,Precinct 4 (5-6-7),President,,,Jill Stein,1
+Cedar,Precinct 7 (9A),President,,,Jill Stein,1
+Cedar,Precinct 1 (1),President,,,Jill Stein,1
+Cedar,Precinct 11 (19),President,,,Jill Stein,3
+Cedar,Precinct 12 (20),President,,,Jill Stein,2
+Cedar,Precinct 2 (2-3),President,,,Jill Stein,0
+Cedar,Precinct 5 (13-14),President,,,Jill Stein,0
+Cedar,Precinct 6 (8-9),President,,,Jill Stein,8
+Cedar,Precinct 8 (10-11-12),President,,,Jill Stein,0
+Cedar,Precinct 9 (15-16),President,,,Jill Stein,1
+Cedar,Early,U.S. House,3,Republican,Adrian Smith,381
+Cedar,Precinct 10 (17-18),U.S. House,3,Republican,Adrian Smith,122
+Cedar,Precinct 13 (21),U.S. House,3,Republican,Adrian Smith,474
+Cedar,Precinct 3 (4),U.S. House,3,Republican,Adrian Smith,154
+Cedar,Precinct 4 (5-6-7),U.S. House,3,Republican,Adrian Smith,230
+Cedar,Precinct 7 (9A),U.S. House,3,Republican,Adrian Smith,75
+Cedar,Precinct 1 (1),U.S. House,3,Republican,Adrian Smith,163
+Cedar,Precinct 11 (19),U.S. House,3,Republican,Adrian Smith,401
+Cedar,Precinct 12 (20),U.S. House,3,Republican,Adrian Smith,116
+Cedar,Precinct 2 (2-3),U.S. House,3,Republican,Adrian Smith,337
+Cedar,Precinct 5 (13-14),U.S. House,3,Republican,Adrian Smith,134
+Cedar,Precinct 6 (8-9),U.S. House,3,Republican,Adrian Smith,733
+Cedar,Precinct 8 (10-11-12),U.S. House,3,Republican,Adrian Smith,220
+Cedar,Precinct 9 (15-16),U.S. House,3,Republican,Adrian Smith,295

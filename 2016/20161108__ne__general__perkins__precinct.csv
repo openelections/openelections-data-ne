@@ -1,0 +1,29 @@
+county,precinct,office,district,party,candidate,votes,early_voting,election_day
+Perkins,District 1,Registered Voters,,,,623,,
+Perkins,District 1,Ballots Cast,,,,469,216,253
+Perkins,District 1,President,,Republican,Donald J. Trump,392,173,219
+Perkins,District 1,President,,Democratic,Hillary Clinton,47,27,20
+Perkins,District 1,President,,Libertarian,Gary Johnson,15,7,8
+Perkins,District 1,President,,,Jill Stein,3,2,1
+Perkins,District 1,President,,,Write-ins,2,1,1
+Perkins,District 1,U.S. House,3,Republican,Adrian Smith,408,184,224
+Perkins,District 1,U.S. House,3,,Write-ins,8,1,7
+Perkins,District 2,Registered Voters,,,,672,,
+Perkins,District 2,Ballots Cast,,,,512,162,350
+Perkins,District 2,President,,Republican,Donald J. Trump,418,127,291
+Perkins,District 2,President,,Democratic,Hillary Clinton,61,25,36
+Perkins,District 2,President,,Libertarian,Gary Johnson,18,7,11
+Perkins,District 2,President,,,Jill Stein,0,0,0
+Perkins,District 2,President,,,Write-ins,7,2,5
+Perkins,District 2,U.S. House,3,Republican,Adrian Smith,473,145,328
+Perkins,District 2,U.S. House,3,,Write-ins,3,1,2
+Perkins,District 3,Registered Voters,,,,705,,
+Perkins,District 3,Ballots Cast,,,,501,195,306
+Perkins,District 3,President,,Republican,Donald J. Trump,406,142,264
+Perkins,District 3,President,,Democratic,Hillary Clinton,53,34,19
+Perkins,District 3,President,,Libertarian,Gary Johnson,21,9,12
+Perkins,District 3,President,,,Jill Stein,2,1,1
+Perkins,District 3,President,,,Write-ins,9,2,7
+Perkins,District 3,U.S. House,3,Republican,Adrian Smith,451,165,286
+Perkins,District 3,U.S. House,3,,Write-ins,1,1,0
+Perkins,New/Former Resident,President,,Republican,Donald J. Trump,1,0,1

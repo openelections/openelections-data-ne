@@ -1,0 +1,15 @@
+county,precinct,office,district,party,candidate,votes
+Arthur,Absentee,President,,Democratic,Hillary Clinton,0
+Arthur,Arthur,President,,Democratic,Hillary Clinton,17
+Arthur,Absentee,President,,Libertarian,Gary Johnson,0
+Arthur,Arthur,President,,Libertarian,Gary Johnson,11
+Arthur,Absentee,President,,,Jill Stein,0
+Arthur,Arthur,President,,,Jill Stein,0
+Arthur,Absentee,President,,Republican,Donald J. Trump,0
+Arthur,Arthur,President,,Republican,Donald J. Trump,244
+Arthur,Absentee,U.S. House,3,Republican,Adrian Smith,0
+Arthur,Arthur,U.S. House,3,Republican,Adrian Smith,254
+Arthur,Absentee,State Senate,47,,Karl Elmshaeuser,0
+Arthur,Arthur,State Senate,47,,Karl Elmshaeuser,98
+Arthur,Absentee,State Senate,47,,Steve Erdman,0
+Arthur,Arthur,State Senate,47,,Steve Erdman,156

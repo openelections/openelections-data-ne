@@ -1,0 +1,136 @@
+county,precinct,office,district,party,candidate,votes
+Lincoln,Absentee/Early Vote,President,,Democratic,Hillary Clinton,0
+Lincoln,Brady,President,,Democratic,Hillary Clinton,70
+Lincoln,Countywide,President,,Democratic,Hillary Clinton,0
+Lincoln,Hall,President,,Democratic,Hillary Clinton,96
+Lincoln,Hershey,President,,Democratic,Hillary Clinton,100
+Lincoln,Hinman,President,,Democratic,Hillary Clinton,48
+Lincoln,Maxwell,President,,Democratic,Hillary Clinton,59
+Lincoln,Medicine,President,,Democratic,Hillary Clinton,10
+Lincoln,New/Former Resident,President,,Democratic,Hillary Clinton,0
+Lincoln,Osgood,President,,Democratic,Hillary Clinton,158
+Lincoln,Precinct 1,President,,Democratic,Hillary Clinton,163
+Lincoln,Precinct 10,President,,Democratic,Hillary Clinton,226
+Lincoln,Precinct 12,President,,Democratic,Hillary Clinton,162
+Lincoln,Precinct 13,President,,Democratic,Hillary Clinton,210
+Lincoln,Precinct 15,President,,Democratic,Hillary Clinton,81
+Lincoln,Precinct 16,President,,Democratic,Hillary Clinton,71
+Lincoln,Precinct 2,President,,Democratic,Hillary Clinton,135
+Lincoln,Precinct 3,President,,Democratic,Hillary Clinton,102
+Lincoln,Precinct 4,President,,Democratic,Hillary Clinton,56
+Lincoln,Precinct 5,President,,Democratic,Hillary Clinton,70
+Lincoln,Precinct 6,President,,Democratic,Hillary Clinton,319
+Lincoln,Precinct 7,President,,Democratic,Hillary Clinton,199
+Lincoln,Precinct 8,President,,Democratic,Hillary Clinton,186
+Lincoln,Precinct 9,President,,Democratic,Hillary Clinton,167
+Lincoln,Sellers,President,,Democratic,Hillary Clinton,81
+Lincoln,Sutherland,President,,Democratic,Hillary Clinton,119
+Lincoln,Wallace,President,,Democratic,Hillary Clinton,25
+Lincoln,Absentee/Early Vote,President,,Libertarian,Gary Johnson,0
+Lincoln,Brady,President,,Libertarian,Gary Johnson,15
+Lincoln,Countywide,President,,Libertarian,Gary Johnson,0
+Lincoln,Hall,President,,Libertarian,Gary Johnson,36
+Lincoln,Hershey,President,,Libertarian,Gary Johnson,34
+Lincoln,Hinman,President,,Libertarian,Gary Johnson,15
+Lincoln,Maxwell,President,,Libertarian,Gary Johnson,16
+Lincoln,Medicine,President,,Libertarian,Gary Johnson,0
+Lincoln,New/Former Resident,President,,Libertarian,Gary Johnson,0
+Lincoln,Osgood,President,,Libertarian,Gary Johnson,42
+Lincoln,Precinct 1,President,,Libertarian,Gary Johnson,44
+Lincoln,Precinct 10,President,,Libertarian,Gary Johnson,62
+Lincoln,Precinct 12,President,,Libertarian,Gary Johnson,45
+Lincoln,Precinct 13,President,,Libertarian,Gary Johnson,42
+Lincoln,Precinct 15,President,,Libertarian,Gary Johnson,19
+Lincoln,Precinct 16,President,,Libertarian,Gary Johnson,29
+Lincoln,Precinct 2,President,,Libertarian,Gary Johnson,34
+Lincoln,Precinct 3,President,,Libertarian,Gary Johnson,34
+Lincoln,Precinct 4,President,,Libertarian,Gary Johnson,15
+Lincoln,Precinct 5,President,,Libertarian,Gary Johnson,25
+Lincoln,Precinct 6,President,,Libertarian,Gary Johnson,34
+Lincoln,Precinct 7,President,,Libertarian,Gary Johnson,35
+Lincoln,Precinct 8,President,,Libertarian,Gary Johnson,25
+Lincoln,Precinct 9,President,,Libertarian,Gary Johnson,50
+Lincoln,Sellers,President,,Libertarian,Gary Johnson,16
+Lincoln,Sutherland,President,,Libertarian,Gary Johnson,41
+Lincoln,Wallace,President,,Libertarian,Gary Johnson,3
+Lincoln,Absentee/Early Vote,President,,,Jill Stein,0
+Lincoln,Brady,President,,,Jill Stein,5
+Lincoln,Countywide,President,,,Jill Stein,0
+Lincoln,Hall,President,,,Jill Stein,2
+Lincoln,Hershey,President,,,Jill Stein,5
+Lincoln,Hinman,President,,,Jill Stein,3
+Lincoln,Maxwell,President,,,Jill Stein,3
+Lincoln,Medicine,President,,,Jill Stein,0
+Lincoln,New/Former Resident,President,,,Jill Stein,0
+Lincoln,Osgood,President,,,Jill Stein,8
+Lincoln,Precinct 1,President,,,Jill Stein,5
+Lincoln,Precinct 10,President,,,Jill Stein,14
+Lincoln,Precinct 12,President,,,Jill Stein,5
+Lincoln,Precinct 13,President,,,Jill Stein,9
+Lincoln,Precinct 15,President,,,Jill Stein,8
+Lincoln,Precinct 16,President,,,Jill Stein,6
+Lincoln,Precinct 2,President,,,Jill Stein,6
+Lincoln,Precinct 3,President,,,Jill Stein,1
+Lincoln,Precinct 4,President,,,Jill Stein,1
+Lincoln,Precinct 5,President,,,Jill Stein,2
+Lincoln,Precinct 6,President,,,Jill Stein,7
+Lincoln,Precinct 7,President,,,Jill Stein,3
+Lincoln,Precinct 8,President,,,Jill Stein,1
+Lincoln,Precinct 9,President,,,Jill Stein,3
+Lincoln,Sellers,President,,,Jill Stein,7
+Lincoln,Sutherland,President,,,Jill Stein,3
+Lincoln,Wallace,President,,,Jill Stein,0
+Lincoln,Absentee/Early Vote,President,,Republican,Donald J. Trump,0
+Lincoln,Brady,President,,Republican,Donald J. Trump,461
+Lincoln,Countywide,President,,Republican,Donald J. Trump,0
+Lincoln,Hall,President,,Republican,Donald J. Trump,809
+Lincoln,Hershey,President,,Republican,Donald J. Trump,710
+Lincoln,Hinman,President,,Republican,Donald J. Trump,295
+Lincoln,Maxwell,President,,Republican,Donald J. Trump,342
+Lincoln,Medicine,President,,Republican,Donald J. Trump,152
+Lincoln,New/Former Resident,President,,Republican,Donald J. Trump,4
+Lincoln,Osgood,President,,Republican,Donald J. Trump,961
+Lincoln,Precinct 1,President,,Republican,Donald J. Trump,513
+Lincoln,Precinct 10,President,,Republican,Donald J. Trump,746
+Lincoln,Precinct 12,President,,Republican,Donald J. Trump,411
+Lincoln,Precinct 13,President,,Republican,Donald J. Trump,723
+Lincoln,Precinct 15,President,,Republican,Donald J. Trump,300
+Lincoln,Precinct 16,President,,Republican,Donald J. Trump,344
+Lincoln,Precinct 2,President,,Republican,Donald J. Trump,391
+Lincoln,Precinct 3,President,,Republican,Donald J. Trump,308
+Lincoln,Precinct 4,President,,Republican,Donald J. Trump,305
+Lincoln,Precinct 5,President,,Republican,Donald J. Trump,232
+Lincoln,Precinct 6,President,,Republican,Donald J. Trump,897
+Lincoln,Precinct 7,President,,Republican,Donald J. Trump,660
+Lincoln,Precinct 8,President,,Republican,Donald J. Trump,591
+Lincoln,Precinct 9,President,,Republican,Donald J. Trump,543
+Lincoln,Sellers,President,,Republican,Donald J. Trump,483
+Lincoln,Sutherland,President,,Republican,Donald J. Trump,693
+Lincoln,Wallace,President,,Republican,Donald J. Trump,290
+Lincoln,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,0
+Lincoln,Brady,U.S. House,3,Republican,Adrian Smith,484
+Lincoln,Countywide,U.S. House,3,Republican,Adrian Smith,0
+Lincoln,Hall,U.S. House,3,Republican,Adrian Smith,810
+Lincoln,Hershey,U.S. House,3,Republican,Adrian Smith,744
+Lincoln,Hinman,U.S. House,3,Republican,Adrian Smith,314
+Lincoln,Maxwell,U.S. House,3,Republican,Adrian Smith,373
+Lincoln,Medicine,U.S. House,3,Republican,Adrian Smith,147
+Lincoln,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
+Lincoln,Osgood,U.S. House,3,Republican,Adrian Smith,1022
+Lincoln,Precinct 1,U.S. House,3,Republican,Adrian Smith,623
+Lincoln,Precinct 10,U.S. House,3,Republican,Adrian Smith,865
+Lincoln,Precinct 12,U.S. House,3,Republican,Adrian Smith,511
+Lincoln,Precinct 13,U.S. House,3,Republican,Adrian Smith,854
+Lincoln,Precinct 15,U.S. House,3,Republican,Adrian Smith,351
+Lincoln,Precinct 16,U.S. House,3,Republican,Adrian Smith,390
+Lincoln,Precinct 2,U.S. House,3,Republican,Adrian Smith,487
+Lincoln,Precinct 3,U.S. House,3,Republican,Adrian Smith,387
+Lincoln,Precinct 4,U.S. House,3,Republican,Adrian Smith,332
+Lincoln,Precinct 5,U.S. House,3,Republican,Adrian Smith,300
+Lincoln,Precinct 6,U.S. House,3,Republican,Adrian Smith,1063
+Lincoln,Precinct 7,U.S. House,3,Republican,Adrian Smith,743
+Lincoln,Precinct 8,U.S. House,3,Republican,Adrian Smith,683
+Lincoln,Precinct 9,U.S. House,3,Republican,Adrian Smith,662
+Lincoln,Sellers,U.S. House,3,Republican,Adrian Smith,503
+Lincoln,Sutherland,U.S. House,3,Republican,Adrian Smith,755
+Lincoln,Wallace,U.S. House,3,Republican,Adrian Smith,272

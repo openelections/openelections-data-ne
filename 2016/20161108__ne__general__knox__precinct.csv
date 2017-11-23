@@ -1,0 +1,56 @@
+county,precinct,office,district,party,candidate,votes
+Knox,Absentee/Early Vote,President,,Democratic,Hillary Clinton,145
+Knox,Bloomfield Area,President,,Democratic,Hillary Clinton,87
+Knox,Center Area,President,,Democratic,Hillary Clinton,21
+Knox,Countywide,President,,Democratic,Hillary Clinton,5
+Knox,Creighton Area,President,,Democratic,Hillary Clinton,98
+Knox,Crofton Area,President,,Democratic,Hillary Clinton,97
+Knox,Lindy/Santee Area,President,,Democratic,Hillary Clinton,87
+Knox,New/Former Resident,President,,Democratic,Hillary Clinton,0
+Knox,Niobrara Area,President,,Democratic,Hillary Clinton,51
+Knox,Verdigre Area,President,,Democratic,Hillary Clinton,69
+Knox,Wausa Area,President,,Democratic,Hillary Clinton,60
+Knox,Absentee/Early Vote,President,,Libertarian,Gary Johnson,21
+Knox,Bloomfield Area,President,,Libertarian,Gary Johnson,20
+Knox,Center Area,President,,Libertarian,Gary Johnson,6
+Knox,Countywide,President,,Libertarian,Gary Johnson,1
+Knox,Creighton Area,President,,Libertarian,Gary Johnson,26
+Knox,Crofton Area,President,,Libertarian,Gary Johnson,18
+Knox,Lindy/Santee Area,President,,Libertarian,Gary Johnson,6
+Knox,New/Former Resident,President,,Libertarian,Gary Johnson,0
+Knox,Niobrara Area,President,,Libertarian,Gary Johnson,8
+Knox,Verdigre Area,President,,Libertarian,Gary Johnson,22
+Knox,Wausa Area,President,,Libertarian,Gary Johnson,9
+Knox,Absentee/Early Vote,President,,,Jill Stein,4
+Knox,Bloomfield Area,President,,,Jill Stein,3
+Knox,Center Area,President,,,Jill Stein,0
+Knox,Countywide,President,,,Jill Stein,0
+Knox,Creighton Area,President,,,Jill Stein,6
+Knox,Crofton Area,President,,,Jill Stein,4
+Knox,Lindy/Santee Area,President,,,Jill Stein,7
+Knox,New/Former Resident,President,,,Jill Stein,0
+Knox,Niobrara Area,President,,,Jill Stein,0
+Knox,Verdigre Area,President,,,Jill Stein,3
+Knox,Wausa Area,President,,,Jill Stein,2
+Knox,Absentee/Early Vote,President,,Republican,Donald J. Trump,440
+Knox,Bloomfield Area,President,,Republican,Donald J. Trump,458
+Knox,Center Area,President,,Republican,Donald J. Trump,107
+Knox,Countywide,President,,Republican,Donald J. Trump,7
+Knox,Creighton Area,President,,Republican,Donald J. Trump,623
+Knox,Crofton Area,President,,Republican,Donald J. Trump,480
+Knox,Lindy/Santee Area,President,,Republican,Donald J. Trump,99
+Knox,New/Former Resident,President,,Republican,Donald J. Trump,0
+Knox,Niobrara Area,President,,Republican,Donald J. Trump,221
+Knox,Verdigre Area,President,,Republican,Donald J. Trump,383
+Knox,Wausa Area,President,,Republican,Donald J. Trump,370
+Knox,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,495
+Knox,Bloomfield Area,U.S. House,3,Republican,Adrian Smith,516
+Knox,Center Area,U.S. House,3,Republican,Adrian Smith,107
+Knox,Countywide,U.S. House,3,Republican,Adrian Smith,9
+Knox,Creighton Area,U.S. House,3,Republican,Adrian Smith,643
+Knox,Crofton Area,U.S. House,3,Republican,Adrian Smith,525
+Knox,Lindy/Santee Area,U.S. House,3,Republican,Adrian Smith,142
+Knox,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
+Knox,Niobrara Area,U.S. House,3,Republican,Adrian Smith,240
+Knox,Verdigre Area,U.S. House,3,Republican,Adrian Smith,402
+Knox,Wausa Area,U.S. House,3,Republican,Adrian Smith,413

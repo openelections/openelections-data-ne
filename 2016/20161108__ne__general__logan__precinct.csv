@@ -1,0 +1,29 @@
+county,precinct,office,district,party,candidate,votes
+Logan,Absentee/Early Vote,President,,Democratic,Hillary Clinton,8
+Logan,Countywide,President,,Democratic,Hillary Clinton,0
+Logan,Logan County,President,,Democratic,Hillary Clinton,24
+Logan,New/Former Resident,President,,Democratic,Hillary Clinton,0
+Logan,Absentee/Early Vote,President,,Libertarian,Gary Johnson,3
+Logan,Countywide,President,,Libertarian,Gary Johnson,0
+Logan,Logan County,President,,Libertarian,Gary Johnson,15
+Logan,New/Former Resident,President,,Libertarian,Gary Johnson,0
+Logan,Absentee/Early Vote,President,,,Jill Stein,1
+Logan,Countywide,President,,,Jill Stein,0
+Logan,Logan County,President,,,Jill Stein,0
+Logan,New/Former Resident,President,,,Jill Stein,0
+Logan,Absentee/Early Vote,President,,Republican,Donald J. Trump,67
+Logan,Countywide,President,,Republican,Donald J. Trump,0
+Logan,Logan County,President,,Republican,Donald J. Trump,333
+Logan,New/Former Resident,President,,Republican,Donald J. Trump,0
+Logan,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,73
+Logan,Countywide,U.S. House,3,Republican,Adrian Smith,0
+Logan,Logan County,U.S. House,3,Republican,Adrian Smith,328
+Logan,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
+Logan,Absentee/Early Vote,State Senate,43,,Al Davis,42
+Logan,Countywide,State Senate,43,,Al Davis,0
+Logan,Logan County,State Senate,43,,Al Davis,137
+Logan,New/Former Resident,State Senate,43,,Al Davis,0
+Logan,Absentee/Early Vote,State Senate,43,,Tom Brewer,29
+Logan,Countywide,State Senate,43,,Tom Brewer,0
+Logan,Logan County,State Senate,43,,Tom Brewer,212
+Logan,New/Former Resident,State Senate,43,,Tom Brewer,0

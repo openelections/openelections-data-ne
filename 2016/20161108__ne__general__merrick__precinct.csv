@@ -1,0 +1,91 @@
+county,precinct,office,district,party,candidate,votes
+Merrick,Absentee/Early Vote,President,,Democratic,Hillary Clinton,80
+Merrick,CENTRAL,President,,Democratic,Hillary Clinton,5
+Merrick,CHAPMAN,President,,Democratic,Hillary Clinton,27
+Merrick,CLARKSVILLE EAST,President,,Democratic,Hillary Clinton,25
+Merrick,CLARKSVILLE WEST,President,,Democratic,Hillary Clinton,14
+Merrick,Countywide,President,,Democratic,Hillary Clinton,0
+Merrick,LONE TREE NORTH,President,,Democratic,Hillary Clinton,29
+Merrick,LONE TREE SOUTH,President,,Democratic,Hillary Clinton,13
+Merrick,LOUP,President,,Democratic,Hillary Clinton,52
+Merrick,MEAD,President,,Democratic,Hillary Clinton,11
+Merrick,MIDLAND,President,,Democratic,Hillary Clinton,17
+Merrick,New/Former Resident,President,,Democratic,Hillary Clinton,0
+Merrick,PRAIRIE CREEK,President,,Democratic,Hillary Clinton,18
+Merrick,PRAIRIE ISLAND,President,,Democratic,Hillary Clinton,13
+Merrick,SILVER CREEK,President,,Democratic,Hillary Clinton,19
+Merrick,VIEREGG,President,,Democratic,Hillary Clinton,89
+Merrick,WARD 1,President,,Democratic,Hillary Clinton,101
+Merrick,WARD 2,President,,Democratic,Hillary Clinton,89
+Merrick,Absentee/Early Vote,President,,Libertarian,Gary Johnson,18
+Merrick,CENTRAL,President,,Libertarian,Gary Johnson,3
+Merrick,CHAPMAN,President,,Libertarian,Gary Johnson,7
+Merrick,CLARKSVILLE EAST,President,,Libertarian,Gary Johnson,5
+Merrick,CLARKSVILLE WEST,President,,Libertarian,Gary Johnson,8
+Merrick,Countywide,President,,Libertarian,Gary Johnson,0
+Merrick,LONE TREE NORTH,President,,Libertarian,Gary Johnson,6
+Merrick,LONE TREE SOUTH,President,,Libertarian,Gary Johnson,4
+Merrick,LOUP,President,,Libertarian,Gary Johnson,16
+Merrick,MEAD,President,,Libertarian,Gary Johnson,3
+Merrick,MIDLAND,President,,Libertarian,Gary Johnson,5
+Merrick,New/Former Resident,President,,Libertarian,Gary Johnson,0
+Merrick,PRAIRIE CREEK,President,,Libertarian,Gary Johnson,6
+Merrick,PRAIRIE ISLAND,President,,Libertarian,Gary Johnson,5
+Merrick,SILVER CREEK,President,,Libertarian,Gary Johnson,16
+Merrick,VIEREGG,President,,Libertarian,Gary Johnson,7
+Merrick,WARD 1,President,,Libertarian,Gary Johnson,32
+Merrick,WARD 2,President,,Libertarian,Gary Johnson,24
+Merrick,Absentee/Early Vote,President,,,Jill Stein,3
+Merrick,CENTRAL,President,,,Jill Stein,1
+Merrick,CHAPMAN,President,,,Jill Stein,1
+Merrick,CLARKSVILLE EAST,President,,,Jill Stein,0
+Merrick,CLARKSVILLE WEST,President,,,Jill Stein,0
+Merrick,Countywide,President,,,Jill Stein,0
+Merrick,LONE TREE NORTH,President,,,Jill Stein,1
+Merrick,LONE TREE SOUTH,President,,,Jill Stein,1
+Merrick,LOUP,President,,,Jill Stein,1
+Merrick,MEAD,President,,,Jill Stein,1
+Merrick,MIDLAND,President,,,Jill Stein,0
+Merrick,New/Former Resident,President,,,Jill Stein,0
+Merrick,PRAIRIE CREEK,President,,,Jill Stein,0
+Merrick,PRAIRIE ISLAND,President,,,Jill Stein,0
+Merrick,SILVER CREEK,President,,,Jill Stein,5
+Merrick,VIEREGG,President,,,Jill Stein,5
+Merrick,WARD 1,President,,,Jill Stein,6
+Merrick,WARD 2,President,,,Jill Stein,4
+Merrick,Absentee/Early Vote,President,,Republican,Donald J. Trump,285
+Merrick,CENTRAL,President,,Republican,Donald J. Trump,34
+Merrick,CHAPMAN,President,,Republican,Donald J. Trump,185
+Merrick,CLARKSVILLE EAST,President,,Republican,Donald J. Trump,125
+Merrick,CLARKSVILLE WEST,President,,Republican,Donald J. Trump,96
+Merrick,Countywide,President,,Republican,Donald J. Trump,0
+Merrick,LONE TREE NORTH,President,,Republican,Donald J. Trump,170
+Merrick,LONE TREE SOUTH,President,,Republican,Donald J. Trump,85
+Merrick,LOUP,President,,Republican,Donald J. Trump,208
+Merrick,MEAD,President,,Republican,Donald J. Trump,69
+Merrick,MIDLAND,President,,Republican,Donald J. Trump,89
+Merrick,New/Former Resident,President,,Republican,Donald J. Trump,0
+Merrick,PRAIRIE CREEK,President,,Republican,Donald J. Trump,169
+Merrick,PRAIRIE ISLAND,President,,Republican,Donald J. Trump,75
+Merrick,SILVER CREEK,President,,Republican,Donald J. Trump,210
+Merrick,VIEREGG,President,,Republican,Donald J. Trump,275
+Merrick,WARD 1,President,,Republican,Donald J. Trump,426
+Merrick,WARD 2,President,,Republican,Donald J. Trump,425
+Merrick,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,332
+Merrick,CENTRAL,U.S. House,3,Republican,Adrian Smith,32
+Merrick,CHAPMAN,U.S. House,3,Republican,Adrian Smith,199
+Merrick,CLARKSVILLE EAST,U.S. House,3,Republican,Adrian Smith,126
+Merrick,CLARKSVILLE WEST,U.S. House,3,Republican,Adrian Smith,102
+Merrick,Countywide,U.S. House,3,Republican,Adrian Smith,0
+Merrick,LONE TREE NORTH,U.S. House,3,Republican,Adrian Smith,185
+Merrick,LONE TREE SOUTH,U.S. House,3,Republican,Adrian Smith,80
+Merrick,LOUP,U.S. House,3,Republican,Adrian Smith,235
+Merrick,MEAD,U.S. House,3,Republican,Adrian Smith,75
+Merrick,MIDLAND,U.S. House,3,Republican,Adrian Smith,86
+Merrick,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
+Merrick,PRAIRIE CREEK,U.S. House,3,Republican,Adrian Smith,173
+Merrick,PRAIRIE ISLAND,U.S. House,3,Republican,Adrian Smith,75
+Merrick,SILVER CREEK,U.S. House,3,Republican,Adrian Smith,216
+Merrick,VIEREGG,U.S. House,3,Republican,Adrian Smith,273
+Merrick,WARD 1,U.S. House,3,Republican,Adrian Smith,498
+Merrick,WARD 2,U.S. House,3,Republican,Adrian Smith,492

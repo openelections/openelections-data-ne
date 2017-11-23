@@ -1,0 +1,29 @@
+county,precinct,office,district,party,candidate,votes
+Hooker,Absentee/Early Vote,President,,Democratic,Hillary Clinton,5
+Hooker,Countywide,President,,Democratic,Hillary Clinton,0
+Hooker,New/Former Resident,President,,Democratic,Hillary Clinton,0
+Hooker,Precinct 1,President,,Democratic,Hillary Clinton,35
+Hooker,Absentee/Early Vote,President,,Libertarian,Gary Johnson,3
+Hooker,Countywide,President,,Libertarian,Gary Johnson,0
+Hooker,New/Former Resident,President,,Libertarian,Gary Johnson,0
+Hooker,Precinct 1,President,,Libertarian,Gary Johnson,13
+Hooker,Absentee/Early Vote,President,,,Jill Stein,1
+Hooker,Countywide,President,,,Jill Stein,0
+Hooker,New/Former Resident,President,,,Jill Stein,0
+Hooker,Precinct 1,President,,,Jill Stein,2
+Hooker,Absentee/Early Vote,President,,Republican,Donald J. Trump,53
+Hooker,Countywide,President,,Republican,Donald J. Trump,0
+Hooker,New/Former Resident,President,,Republican,Donald J. Trump,0
+Hooker,Precinct 1,President,,Republican,Donald J. Trump,302
+Hooker,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,52
+Hooker,Countywide,U.S. House,3,Republican,Adrian Smith,0
+Hooker,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
+Hooker,Precinct 1,U.S. House,3,Republican,Adrian Smith,316
+Hooker,Absentee/Early Vote,State Senate,43,,Al Davis,32
+Hooker,Countywide,State Senate,43,,Al Davis,0
+Hooker,New/Former Resident,State Senate,43,,Al Davis,0
+Hooker,Precinct 1,State Senate,43,,Al Davis,167
+Hooker,Absentee/Early Vote,State Senate,43,,Tom Brewer,23
+Hooker,Countywide,State Senate,43,,Tom Brewer,0
+Hooker,New/Former Resident,State Senate,43,,Tom Brewer,0
+Hooker,Precinct 1,State Senate,43,,Tom Brewer,181

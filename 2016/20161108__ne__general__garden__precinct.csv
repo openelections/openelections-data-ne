@@ -1,0 +1,50 @@
+county,precinct,office,district,party,candidate,votes
+Garden,Absentee/Early Vote,President,,Democratic,Hillary Clinton,0
+Garden,Blue Creek,President,,Democratic,Hillary Clinton,48
+Garden,Countywide,President,,Democratic,Hillary Clinton,0
+Garden,Lisco,President,,Democratic,Hillary Clinton,12
+Garden,Lost Creek,President,,Democratic,Hillary Clinton,49
+Garden,New/Former Resident,President,,Democratic,Hillary Clinton,0
+Garden,Oshkosh 1,President,,Democratic,Hillary Clinton,44
+Garden,Absentee/Early Vote,President,,Libertarian,Gary Johnson,0
+Garden,Blue Creek,President,,Libertarian,Gary Johnson,9
+Garden,Countywide,President,,Libertarian,Gary Johnson,0
+Garden,Lisco,President,,Libertarian,Gary Johnson,4
+Garden,Lost Creek,President,,Libertarian,Gary Johnson,17
+Garden,New/Former Resident,President,,Libertarian,Gary Johnson,0
+Garden,Oshkosh 1,President,,Libertarian,Gary Johnson,9
+Garden,Absentee/Early Vote,President,,,Jill Stein,0
+Garden,Blue Creek,President,,,Jill Stein,0
+Garden,Countywide,President,,,Jill Stein,0
+Garden,Lisco,President,,,Jill Stein,1
+Garden,Lost Creek,President,,,Jill Stein,1
+Garden,New/Former Resident,President,,,Jill Stein,0
+Garden,Oshkosh 1,President,,,Jill Stein,0
+Garden,Absentee/Early Vote,President,,Republican,Donald J. Trump,0
+Garden,Blue Creek,President,,Republican,Donald J. Trump,243
+Garden,Countywide,President,,Republican,Donald J. Trump,0
+Garden,Lisco,President,,Republican,Donald J. Trump,92
+Garden,Lost Creek,President,,Republican,Donald J. Trump,311
+Garden,New/Former Resident,President,,Republican,Donald J. Trump,1
+Garden,Oshkosh 1,President,,Republican,Donald J. Trump,222
+Garden,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,0
+Garden,Blue Creek,U.S. House,3,Republican,Adrian Smith,271
+Garden,Countywide,U.S. House,3,Republican,Adrian Smith,0
+Garden,Lisco,U.S. House,3,Republican,Adrian Smith,89
+Garden,Lost Creek,U.S. House,3,Republican,Adrian Smith,342
+Garden,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
+Garden,Oshkosh 1,U.S. House,3,Republican,Adrian Smith,240
+Garden,Absentee/Early Vote,State Senate,47,,Karl Elmshaeuser,0
+Garden,Blue Creek,State Senate,47,,Karl Elmshaeuser,75
+Garden,Countywide,State Senate,47,,Karl Elmshaeuser,0
+Garden,Lisco,State Senate,47,,Karl Elmshaeuser,15
+Garden,Lost Creek,State Senate,47,,Karl Elmshaeuser,93
+Garden,New/Former Resident,State Senate,47,,Karl Elmshaeuser,0
+Garden,Oshkosh 1,State Senate,47,,Karl Elmshaeuser,53
+Garden,Absentee/Early Vote,State Senate,47,,Steve Erdman,0
+Garden,Blue Creek,State Senate,47,,Steve Erdman,207
+Garden,Countywide,State Senate,47,,Steve Erdman,0
+Garden,Lisco,State Senate,47,,Steve Erdman,84
+Garden,Lost Creek,State Senate,47,,Steve Erdman,265
+Garden,New/Former Resident,State Senate,47,,Steve Erdman,0
+Garden,Oshkosh 1,State Senate,47,,Steve Erdman,205

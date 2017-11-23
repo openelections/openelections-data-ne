@@ -1,0 +1,99 @@
+county,precinct,office,district,party,candidate,votes
+Dawes,Absentee/Early Vote,President,,Democratic,Hillary Clinton,246
+Dawes,Countywide,President,,Democratic,Hillary Clinton,16
+Dawes,New/Former Resident,President,,Democratic,Hillary Clinton,0
+Dawes,Precinct 1,President,,Democratic,Hillary Clinton,35
+Dawes,Precinct 10,President,,Democratic,Hillary Clinton,38
+Dawes,Precinct 11,President,,Democratic,Hillary Clinton,30
+Dawes,Precinct 2,President,,Democratic,Hillary Clinton,100
+Dawes,Precinct 3,President,,Democratic,Hillary Clinton,96
+Dawes,Precinct 4,President,,Democratic,Hillary Clinton,80
+Dawes,Precinct 5,President,,Democratic,Hillary Clinton,60
+Dawes,Precinct 6,President,,Democratic,Hillary Clinton,35
+Dawes,Precinct 7,President,,Democratic,Hillary Clinton,31
+Dawes,Precinct 8,President,,Democratic,Hillary Clinton,21
+Dawes,Precinct 9,President,,Democratic,Hillary Clinton,13
+Dawes,Absentee/Early Vote,President,,Libertarian,Gary Johnson,31
+Dawes,Countywide,President,,Libertarian,Gary Johnson,5
+Dawes,New/Former Resident,President,,Libertarian,Gary Johnson,0
+Dawes,Precinct 1,President,,Libertarian,Gary Johnson,13
+Dawes,Precinct 10,President,,Libertarian,Gary Johnson,15
+Dawes,Precinct 11,President,,Libertarian,Gary Johnson,16
+Dawes,Precinct 2,President,,Libertarian,Gary Johnson,20
+Dawes,Precinct 3,President,,Libertarian,Gary Johnson,17
+Dawes,Precinct 4,President,,Libertarian,Gary Johnson,19
+Dawes,Precinct 5,President,,Libertarian,Gary Johnson,18
+Dawes,Precinct 6,President,,Libertarian,Gary Johnson,9
+Dawes,Precinct 7,President,,Libertarian,Gary Johnson,13
+Dawes,Precinct 8,President,,Libertarian,Gary Johnson,8
+Dawes,Precinct 9,President,,Libertarian,Gary Johnson,7
+Dawes,Absentee/Early Vote,President,,,Jill Stein,7
+Dawes,Countywide,President,,,Jill Stein,4
+Dawes,New/Former Resident,President,,,Jill Stein,0
+Dawes,Precinct 1,President,,,Jill Stein,8
+Dawes,Precinct 10,President,,,Jill Stein,0
+Dawes,Precinct 11,President,,,Jill Stein,1
+Dawes,Precinct 2,President,,,Jill Stein,12
+Dawes,Precinct 3,President,,,Jill Stein,9
+Dawes,Precinct 4,President,,,Jill Stein,4
+Dawes,Precinct 5,President,,,Jill Stein,5
+Dawes,Precinct 6,President,,,Jill Stein,0
+Dawes,Precinct 7,President,,,Jill Stein,2
+Dawes,Precinct 8,President,,,Jill Stein,0
+Dawes,Precinct 9,President,,,Jill Stein,0
+Dawes,Absentee/Early Vote,President,,Republican,Donald J. Trump,477
+Dawes,Countywide,President,,Republican,Donald J. Trump,73
+Dawes,New/Former Resident,President,,Republican,Donald J. Trump,0
+Dawes,Precinct 1,President,,Republican,Donald J. Trump,111
+Dawes,Precinct 10,President,,Republican,Donald J. Trump,295
+Dawes,Precinct 11,President,,Republican,Donald J. Trump,185
+Dawes,Precinct 2,President,,Republican,Donald J. Trump,273
+Dawes,Precinct 3,President,,Republican,Donald J. Trump,225
+Dawes,Precinct 4,President,,Republican,Donald J. Trump,191
+Dawes,Precinct 5,President,,Republican,Donald J. Trump,125
+Dawes,Precinct 6,President,,Republican,Donald J. Trump,230
+Dawes,Precinct 7,President,,Republican,Donald J. Trump,193
+Dawes,Precinct 8,President,,Republican,Donald J. Trump,168
+Dawes,Precinct 9,President,,Republican,Donald J. Trump,86
+Dawes,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,595
+Dawes,Countywide,U.S. House,3,Republican,Adrian Smith,93
+Dawes,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
+Dawes,Precinct 1,U.S. House,3,Republican,Adrian Smith,151
+Dawes,Precinct 10,U.S. House,3,Republican,Adrian Smith,318
+Dawes,Precinct 11,U.S. House,3,Republican,Adrian Smith,213
+Dawes,Precinct 2,U.S. House,3,Republican,Adrian Smith,356
+Dawes,Precinct 3,U.S. House,3,Republican,Adrian Smith,298
+Dawes,Precinct 4,U.S. House,3,Republican,Adrian Smith,257
+Dawes,Precinct 5,U.S. House,3,Republican,Adrian Smith,178
+Dawes,Precinct 6,U.S. House,3,Republican,Adrian Smith,242
+Dawes,Precinct 7,U.S. House,3,Republican,Adrian Smith,193
+Dawes,Precinct 8,U.S. House,3,Republican,Adrian Smith,182
+Dawes,Precinct 9,U.S. House,3,Republican,Adrian Smith,93
+Dawes,Absentee/Early Vote,State Senate,43,,Al Davis,461
+Dawes,Countywide,State Senate,43,,Al Davis,59
+Dawes,New/Former Resident,State Senate,43,,Al Davis,0
+Dawes,Precinct 1,State Senate,43,,Al Davis,101
+Dawes,Precinct 10,State Senate,43,,Al Davis,204
+Dawes,Precinct 11,State Senate,43,,Al Davis,124
+Dawes,Precinct 2,State Senate,43,,Al Davis,221
+Dawes,Precinct 3,State Senate,43,,Al Davis,217
+Dawes,Precinct 4,State Senate,43,,Al Davis,185
+Dawes,Precinct 5,State Senate,43,,Al Davis,142
+Dawes,Precinct 6,State Senate,43,,Al Davis,113
+Dawes,Precinct 7,State Senate,43,,Al Davis,123
+Dawes,Precinct 8,State Senate,43,,Al Davis,115
+Dawes,Precinct 9,State Senate,43,,Al Davis,48
+Dawes,Absentee/Early Vote,State Senate,43,,Tom Brewer,287
+Dawes,Countywide,State Senate,43,,Tom Brewer,34
+Dawes,New/Former Resident,State Senate,43,,Tom Brewer,0
+Dawes,Precinct 1,State Senate,43,,Tom Brewer,68
+Dawes,Precinct 10,State Senate,43,,Tom Brewer,138
+Dawes,Precinct 11,State Senate,43,,Tom Brewer,103
+Dawes,Precinct 2,State Senate,43,,Tom Brewer,184
+Dawes,Precinct 3,State Senate,43,,Tom Brewer,126
+Dawes,Precinct 4,State Senate,43,,Tom Brewer,105
+Dawes,Precinct 5,State Senate,43,,Tom Brewer,70
+Dawes,Precinct 6,State Senate,43,,Tom Brewer,168
+Dawes,Precinct 7,State Senate,43,,Tom Brewer,103
+Dawes,Precinct 8,State Senate,43,,Tom Brewer,82
+Dawes,Precinct 9,State Senate,43,,Tom Brewer,58

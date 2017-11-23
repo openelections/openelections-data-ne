@@ -1,0 +1,36 @@
+county,precinct,office,district,party,candidate,votes
+Gosper,1,President,,Democratic,Hillary Clinton,56
+Gosper,2,President,,Democratic,Hillary Clinton,74
+Gosper,3,President,,Democratic,Hillary Clinton,26
+Gosper,4,President,,Democratic,Hillary Clinton,10
+Gosper,Absentee/Early Vote,President,,Democratic,Hillary Clinton,0
+Gosper,Countywide,President,,Democratic,Hillary Clinton,0
+Gosper,New/Former Resident,President,,Democratic,Hillary Clinton,0
+Gosper,1,President,,Libertarian,Gary Johnson,21
+Gosper,2,President,,Libertarian,Gary Johnson,11
+Gosper,3,President,,Libertarian,Gary Johnson,3
+Gosper,4,President,,Libertarian,Gary Johnson,3
+Gosper,Absentee/Early Vote,President,,Libertarian,Gary Johnson,0
+Gosper,Countywide,President,,Libertarian,Gary Johnson,0
+Gosper,New/Former Resident,President,,Libertarian,Gary Johnson,0
+Gosper,1,President,,,Jill Stein,2
+Gosper,2,President,,,Jill Stein,4
+Gosper,3,President,,,Jill Stein,0
+Gosper,4,President,,,Jill Stein,0
+Gosper,Absentee/Early Vote,President,,,Jill Stein,0
+Gosper,Countywide,President,,,Jill Stein,0
+Gosper,New/Former Resident,President,,,Jill Stein,0
+Gosper,1,President,,Republican,Donald J. Trump,304
+Gosper,2,President,,Republican,Donald J. Trump,266
+Gosper,3,President,,Republican,Donald J. Trump,164
+Gosper,4,President,,Republican,Donald J. Trump,60
+Gosper,Absentee/Early Vote,President,,Republican,Donald J. Trump,0
+Gosper,Countywide,President,,Republican,Donald J. Trump,0
+Gosper,New/Former Resident,President,,Republican,Donald J. Trump,0
+Gosper,1,U.S. House,3,Republican,Adrian Smith,344
+Gosper,2,U.S. House,3,Republican,Adrian Smith,302
+Gosper,3,U.S. House,3,Republican,Adrian Smith,176
+Gosper,4,U.S. House,3,Republican,Adrian Smith,68
+Gosper,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,0
+Gosper,Countywide,U.S. House,3,Republican,Adrian Smith,0
+Gosper,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0

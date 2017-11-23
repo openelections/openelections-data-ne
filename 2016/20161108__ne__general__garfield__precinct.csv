@@ -1,0 +1,37 @@
+county,precinct,office,district,party,candidate,votes
+Garfield,1,President,,Democratic,Hillary Clinton,50
+Garfield,2,President,,Democratic,Hillary Clinton,32
+Garfield,3,President,,Democratic,Hillary Clinton,39
+Garfield,Absentee/Early Vote,President,,Democratic,Hillary Clinton,0
+Garfield,Countywide,President,,Democratic,Hillary Clinton,0
+Garfield,New/Former Resident,President,,Democratic,Hillary Clinton,0
+Garfield,1,President,,Libertarian,Gary Johnson,5
+Garfield,2,President,,Libertarian,Gary Johnson,7
+Garfield,3,President,,Libertarian,Gary Johnson,11
+Garfield,Absentee/Early Vote,President,,Libertarian,Gary Johnson,0
+Garfield,Countywide,President,,Libertarian,Gary Johnson,0
+Garfield,New/Former Resident,President,,Libertarian,Gary Johnson,0
+Garfield,1,President,,,Jill Stein,1
+Garfield,2,President,,,Jill Stein,0
+Garfield,3,President,,,Jill Stein,4
+Garfield,Absentee/Early Vote,President,,,Jill Stein,0
+Garfield,Countywide,President,,,Jill Stein,0
+Garfield,New/Former Resident,President,,,Jill Stein,0
+Garfield,1,President,,Republican,Donald J. Trump,261
+Garfield,2,President,,Republican,Donald J. Trump,208
+Garfield,3,President,,Republican,Donald J. Trump,352
+Garfield,Absentee/Early Vote,President,,Republican,Donald J. Trump,0
+Garfield,Countywide,President,,Republican,Donald J. Trump,0
+Garfield,New/Former Resident,President,,Republican,Donald J. Trump,0
+Garfield,1,U.S. House,3,Republican,Adrian Smith,284
+Garfield,2,U.S. House,3,Republican,Adrian Smith,221
+Garfield,3,U.S. House,3,Republican,Adrian Smith,348
+Garfield,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,0
+Garfield,Countywide,U.S. House,3,Republican,Adrian Smith,0
+Garfield,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
+Garfield,1,State Senate,41,,Tom Briese,209
+Garfield,2,State Senate,41,,Tom Briese,173
+Garfield,3,State Senate,41,,Tom Briese,273
+Garfield,Absentee/Early Vote,State Senate,41,,Tom Briese,0
+Garfield,Countywide,State Senate,41,,Tom Briese,0
+Garfield,New/Former Resident,State Senate,41,,Tom Briese,0

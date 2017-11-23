@@ -1,0 +1,29 @@
+county,precinct,office,district,party,candidate,votes
+Grant,Absentee/Early Vote,President,,Democratic,Hillary Clinton,0
+Grant,Countywide,President,,Democratic,Hillary Clinton,0
+Grant,Grant County,President,,Democratic,Hillary Clinton,20
+Grant,New/Former Resident,President,,Democratic,Hillary Clinton,0
+Grant,Absentee/Early Vote,President,,Libertarian,Gary Johnson,0
+Grant,Countywide,President,,Libertarian,Gary Johnson,0
+Grant,Grant County,President,,Libertarian,Gary Johnson,6
+Grant,New/Former Resident,President,,Libertarian,Gary Johnson,0
+Grant,Absentee/Early Vote,President,,,Jill Stein,0
+Grant,Countywide,President,,,Jill Stein,0
+Grant,Grant County,President,,,Jill Stein,1
+Grant,New/Former Resident,President,,,Jill Stein,0
+Grant,Absentee/Early Vote,President,,Republican,Donald J. Trump,0
+Grant,Countywide,President,,Republican,Donald J. Trump,0
+Grant,Grant County,President,,Republican,Donald J. Trump,367
+Grant,New/Former Resident,President,,Republican,Donald J. Trump,0
+Grant,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,0
+Grant,Countywide,U.S. House,3,Republican,Adrian Smith,0
+Grant,Grant County,U.S. House,3,Republican,Adrian Smith,362
+Grant,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
+Grant,Absentee/Early Vote,State Senate,43,,Al Davis,0
+Grant,Countywide,State Senate,43,,Al Davis,0
+Grant,Grant County,State Senate,43,,Al Davis,207
+Grant,New/Former Resident,State Senate,43,,Al Davis,0
+Grant,Absentee/Early Vote,State Senate,43,,Tom Brewer,0
+Grant,Countywide,State Senate,43,,Tom Brewer,0
+Grant,Grant County,State Senate,43,,Tom Brewer,192
+Grant,New/Former Resident,State Senate,43,,Tom Brewer,0

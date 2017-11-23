@@ -1,0 +1,71 @@
+county,precinct,office,district,party,candidate,votes
+Hamilton,Absentee/Early Vote,President,,Democratic,Hillary Clinton,171
+Hamilton,Countywide,President,,Democratic,Hillary Clinton,5
+Hamilton,New/Former Resident,President,,Democratic,Hillary Clinton,2
+Hamilton,Precinct 1,President,,Democratic,Hillary Clinton,27
+Hamilton,Precinct 2,President,,Democratic,Hillary Clinton,73
+Hamilton,Precinct 3,President,,Democratic,Hillary Clinton,55
+Hamilton,Precinct 4,President,,Democratic,Hillary Clinton,21
+Hamilton,Precinct 5,President,,Democratic,Hillary Clinton,81
+Hamilton,Precinct 6,President,,Democratic,Hillary Clinton,26
+Hamilton,Precinct 7,President,,Democratic,Hillary Clinton,33
+Hamilton,Precinct 8,President,,Democratic,Hillary Clinton,41
+Hamilton,Ward 1,President,,Democratic,Hillary Clinton,133
+Hamilton,Ward 2,President,,Democratic,Hillary Clinton,94
+Hamilton,Ward 3,President,,Democratic,Hillary Clinton,116
+Hamilton,Absentee/Early Vote,President,,Libertarian,Gary Johnson,28
+Hamilton,Countywide,President,,Libertarian,Gary Johnson,2
+Hamilton,New/Former Resident,President,,Libertarian,Gary Johnson,1
+Hamilton,Precinct 1,President,,Libertarian,Gary Johnson,9
+Hamilton,Precinct 2,President,,Libertarian,Gary Johnson,18
+Hamilton,Precinct 3,President,,Libertarian,Gary Johnson,31
+Hamilton,Precinct 4,President,,Libertarian,Gary Johnson,5
+Hamilton,Precinct 5,President,,Libertarian,Gary Johnson,18
+Hamilton,Precinct 6,President,,Libertarian,Gary Johnson,8
+Hamilton,Precinct 7,President,,Libertarian,Gary Johnson,7
+Hamilton,Precinct 8,President,,Libertarian,Gary Johnson,7
+Hamilton,Ward 1,President,,Libertarian,Gary Johnson,33
+Hamilton,Ward 2,President,,Libertarian,Gary Johnson,25
+Hamilton,Ward 3,President,,Libertarian,Gary Johnson,32
+Hamilton,Absentee/Early Vote,President,,,Jill Stein,9
+Hamilton,Countywide,President,,,Jill Stein,0
+Hamilton,New/Former Resident,President,,,Jill Stein,0
+Hamilton,Precinct 1,President,,,Jill Stein,0
+Hamilton,Precinct 2,President,,,Jill Stein,3
+Hamilton,Precinct 3,President,,,Jill Stein,6
+Hamilton,Precinct 4,President,,,Jill Stein,0
+Hamilton,Precinct 5,President,,,Jill Stein,2
+Hamilton,Precinct 6,President,,,Jill Stein,3
+Hamilton,Precinct 7,President,,,Jill Stein,2
+Hamilton,Precinct 8,President,,,Jill Stein,1
+Hamilton,Ward 1,President,,,Jill Stein,9
+Hamilton,Ward 2,President,,,Jill Stein,5
+Hamilton,Ward 3,President,,,Jill Stein,3
+Hamilton,Absentee/Early Vote,President,,Republican,Donald J. Trump,391
+Hamilton,Countywide,President,,Republican,Donald J. Trump,20
+Hamilton,New/Former Resident,President,,Republican,Donald J. Trump,3
+Hamilton,Precinct 1,President,,Republican,Donald J. Trump,181
+Hamilton,Precinct 2,President,,Republican,Donald J. Trump,344
+Hamilton,Precinct 3,President,,Republican,Donald J. Trump,375
+Hamilton,Precinct 4,President,,Republican,Donald J. Trump,148
+Hamilton,Precinct 5,President,,Republican,Donald J. Trump,388
+Hamilton,Precinct 6,President,,Republican,Donald J. Trump,207
+Hamilton,Precinct 7,President,,Republican,Donald J. Trump,253
+Hamilton,Precinct 8,President,,Republican,Donald J. Trump,224
+Hamilton,Ward 1,President,,Republican,Donald J. Trump,482
+Hamilton,Ward 2,President,,Republican,Donald J. Trump,392
+Hamilton,Ward 3,President,,Republican,Donald J. Trump,375
+Hamilton,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,492
+Hamilton,Countywide,U.S. House,3,Republican,Adrian Smith,21
+Hamilton,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
+Hamilton,Precinct 1,U.S. House,3,Republican,Adrian Smith,187
+Hamilton,Precinct 2,U.S. House,3,Republican,Adrian Smith,365
+Hamilton,Precinct 3,U.S. House,3,Republican,Adrian Smith,402
+Hamilton,Precinct 4,U.S. House,3,Republican,Adrian Smith,148
+Hamilton,Precinct 5,U.S. House,3,Republican,Adrian Smith,403
+Hamilton,Precinct 6,U.S. House,3,Republican,Adrian Smith,212
+Hamilton,Precinct 7,U.S. House,3,Republican,Adrian Smith,261
+Hamilton,Precinct 8,U.S. House,3,Republican,Adrian Smith,231
+Hamilton,Ward 1,U.S. House,3,Republican,Adrian Smith,566
+Hamilton,Ward 2,U.S. House,3,Republican,Adrian Smith,443
+Hamilton,Ward 3,U.S. House,3,Republican,Adrian Smith,472

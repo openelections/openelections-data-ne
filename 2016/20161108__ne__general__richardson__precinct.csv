@@ -1,0 +1,109 @@
+county,precinct,office,district,party,candidate,votes
+Richardson,Absentee/Early Vote,President,,Democratic,Hillary Clinton,0
+Richardson,Arago/Barada,President,,Democratic,Hillary Clinton,40
+Richardson,Countywide,President,,Democratic,Hillary Clinton,0
+Richardson,East Muddy,President,,Democratic,Hillary Clinton,22
+Richardson,FC Ward 1,President,,Democratic,Hillary Clinton,135
+Richardson,FC Ward 2,President,,Democratic,Hillary Clinton,92
+Richardson,FC Ward 3,President,,Democratic,Hillary Clinton,108
+Richardson,FC Ward 4,President,,Democratic,Hillary Clinton,105
+Richardson,FCRural/Ohio,President,,Democratic,Hillary Clinton,26
+Richardson,Fran/Hrr/Spi,President,,Democratic,Hillary Clinton,34
+Richardson,Grant/Nemaha,President,,Democratic,Hillary Clinton,34
+Richardson,Humb. I,President,,Democratic,Hillary Clinton,46
+Richardson,Humb.II,President,,Democratic,Hillary Clinton,45
+Richardson,Jeff/Rulo,President,,Democratic,Hillary Clinton,56
+Richardson,Liberty,President,,Democratic,Hillary Clinton,20
+Richardson,New/Former Resident,President,,Democratic,Hillary Clinton,1
+Richardson,Salem,President,,Democratic,Hillary Clinton,11
+Richardson,WMuddy/Porter,President,,Democratic,Hillary Clinton,43
+Richardson,Absentee/Early Vote,President,,Libertarian,Gary Johnson,0
+Richardson,Arago/Barada,President,,Libertarian,Gary Johnson,8
+Richardson,Countywide,President,,Libertarian,Gary Johnson,0
+Richardson,East Muddy,President,,Libertarian,Gary Johnson,7
+Richardson,FC Ward 1,President,,Libertarian,Gary Johnson,21
+Richardson,FC Ward 2,President,,Libertarian,Gary Johnson,21
+Richardson,FC Ward 3,President,,Libertarian,Gary Johnson,16
+Richardson,FC Ward 4,President,,Libertarian,Gary Johnson,12
+Richardson,FCRural/Ohio,President,,Libertarian,Gary Johnson,9
+Richardson,Fran/Hrr/Spi,President,,Libertarian,Gary Johnson,7
+Richardson,Grant/Nemaha,President,,Libertarian,Gary Johnson,11
+Richardson,Humb. I,President,,Libertarian,Gary Johnson,8
+Richardson,Humb.II,President,,Libertarian,Gary Johnson,6
+Richardson,Jeff/Rulo,President,,Libertarian,Gary Johnson,8
+Richardson,Liberty,President,,Libertarian,Gary Johnson,10
+Richardson,New/Former Resident,President,,Libertarian,Gary Johnson,0
+Richardson,Salem,President,,Libertarian,Gary Johnson,7
+Richardson,WMuddy/Porter,President,,Libertarian,Gary Johnson,8
+Richardson,Absentee/Early Vote,President,,,Jill Stein,0
+Richardson,Arago/Barada,President,,,Jill Stein,1
+Richardson,Countywide,President,,,Jill Stein,0
+Richardson,East Muddy,President,,,Jill Stein,2
+Richardson,FC Ward 1,President,,,Jill Stein,3
+Richardson,FC Ward 2,President,,,Jill Stein,3
+Richardson,FC Ward 3,President,,,Jill Stein,4
+Richardson,FC Ward 4,President,,,Jill Stein,3
+Richardson,FCRural/Ohio,President,,,Jill Stein,1
+Richardson,Fran/Hrr/Spi,President,,,Jill Stein,2
+Richardson,Grant/Nemaha,President,,,Jill Stein,3
+Richardson,Humb. I,President,,,Jill Stein,2
+Richardson,Humb.II,President,,,Jill Stein,2
+Richardson,Jeff/Rulo,President,,,Jill Stein,0
+Richardson,Liberty,President,,,Jill Stein,0
+Richardson,New/Former Resident,President,,,Jill Stein,0
+Richardson,Salem,President,,,Jill Stein,0
+Richardson,WMuddy/Porter,President,,,Jill Stein,1
+Richardson,Absentee/Early Vote,President,,Republican,Donald J. Trump,0
+Richardson,Arago/Barada,President,,Republican,Donald J. Trump,164
+Richardson,Countywide,President,,Republican,Donald J. Trump,0
+Richardson,East Muddy,President,,Republican,Donald J. Trump,80
+Richardson,FC Ward 1,President,,Republican,Donald J. Trump,401
+Richardson,FC Ward 2,President,,Republican,Donald J. Trump,298
+Richardson,FC Ward 3,President,,Republican,Donald J. Trump,292
+Richardson,FC Ward 4,President,,Republican,Donald J. Trump,190
+Richardson,FCRural/Ohio,President,,Republican,Donald J. Trump,240
+Richardson,Fran/Hrr/Spi,President,,Republican,Donald J. Trump,165
+Richardson,Grant/Nemaha,President,,Republican,Donald J. Trump,147
+Richardson,Humb. I,President,,Republican,Donald J. Trump,146
+Richardson,Humb.II,President,,Republican,Donald J. Trump,141
+Richardson,Jeff/Rulo,President,,Republican,Donald J. Trump,164
+Richardson,Liberty,President,,Republican,Donald J. Trump,128
+Richardson,New/Former Resident,President,,Republican,Donald J. Trump,4
+Richardson,Salem,President,,Republican,Donald J. Trump,75
+Richardson,WMuddy/Porter,President,,Republican,Donald J. Trump,134
+Richardson,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,0
+Richardson,Arago/Barada,U.S. House,3,Republican,Adrian Smith,157
+Richardson,Countywide,U.S. House,3,Republican,Adrian Smith,0
+Richardson,East Muddy,U.S. House,3,Republican,Adrian Smith,72
+Richardson,FC Ward 1,U.S. House,3,Republican,Adrian Smith,453
+Richardson,FC Ward 2,U.S. House,3,Republican,Adrian Smith,337
+Richardson,FC Ward 3,U.S. House,3,Republican,Adrian Smith,343
+Richardson,FC Ward 4,U.S. House,3,Republican,Adrian Smith,218
+Richardson,FCRural/Ohio,U.S. House,3,Republican,Adrian Smith,220
+Richardson,Fran/Hrr/Spi,U.S. House,3,Republican,Adrian Smith,177
+Richardson,Grant/Nemaha,U.S. House,3,Republican,Adrian Smith,161
+Richardson,Humb. I,U.S. House,3,Republican,Adrian Smith,167
+Richardson,Humb.II,U.S. House,3,Republican,Adrian Smith,176
+Richardson,Jeff/Rulo,U.S. House,3,Republican,Adrian Smith,159
+Richardson,Liberty,U.S. House,3,Republican,Adrian Smith,127
+Richardson,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
+Richardson,Salem,U.S. House,3,Republican,Adrian Smith,77
+Richardson,WMuddy/Porter,U.S. House,3,Republican,Adrian Smith,151
+Richardson,Absentee/Early Vote,State Senate,1,,Dan Watermeier ,0
+Richardson,Arago/Barada,State Senate,1,,Dan Watermeier ,161
+Richardson,Countywide,State Senate,1,,Dan Watermeier ,0
+Richardson,East Muddy,State Senate,1,,Dan Watermeier ,75
+Richardson,FC Ward 1,State Senate,1,,Dan Watermeier ,471
+Richardson,FC Ward 2,State Senate,1,,Dan Watermeier ,334
+Richardson,FC Ward 3,State Senate,1,,Dan Watermeier ,355
+Richardson,FC Ward 4,State Senate,1,,Dan Watermeier ,224
+Richardson,FCRural/Ohio,State Senate,1,,Dan Watermeier ,231
+Richardson,Fran/Hrr/Spi,State Senate,1,,Dan Watermeier ,183
+Richardson,Grant/Nemaha,State Senate,1,,Dan Watermeier ,171
+Richardson,Humb. I,State Senate,1,,Dan Watermeier ,176
+Richardson,Humb.II,State Senate,1,,Dan Watermeier ,177
+Richardson,Jeff/Rulo,State Senate,1,,Dan Watermeier ,169
+Richardson,Liberty,State Senate,1,,Dan Watermeier ,122
+Richardson,New/Former Resident,State Senate,1,,Dan Watermeier ,0
+Richardson,Salem,State Senate,1,,Dan Watermeier ,69
+Richardson,WMuddy/Porter,State Senate,1,,Dan Watermeier ,157

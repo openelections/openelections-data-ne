@@ -1,0 +1,49 @@
+county,precinct,office,district,party,candidate,votes
+Pierce,Absentee/Early Vote,President,,Democratic,Hillary Clinton,95
+Pierce,Countywide,President,,Democratic,Hillary Clinton,0
+Pierce,New/Former Resident,President,,Democratic,Hillary Clinton,0
+Pierce,Osmond,President,,Democratic,Hillary Clinton,52
+Pierce,Pierce,President,,Democratic,Hillary Clinton,41
+Pierce,Pierce City,President,,Democratic,Hillary Clinton,92
+Pierce,Plainview,President,,Democratic,Hillary Clinton,78
+Pierce,South Branch,President,,Democratic,Hillary Clinton,24
+Pierce,Absentee/Early Vote,President,,Libertarian,Gary Johnson,20
+Pierce,Countywide,President,,Libertarian,Gary Johnson,0
+Pierce,New/Former Resident,President,,Libertarian,Gary Johnson,0
+Pierce,Osmond,President,,Libertarian,Gary Johnson,23
+Pierce,Pierce,President,,Libertarian,Gary Johnson,13
+Pierce,Pierce City,President,,Libertarian,Gary Johnson,32
+Pierce,Plainview,President,,Libertarian,Gary Johnson,24
+Pierce,South Branch,President,,Libertarian,Gary Johnson,13
+Pierce,Absentee/Early Vote,President,,,Jill Stein,9
+Pierce,Countywide,President,,,Jill Stein,0
+Pierce,New/Former Resident,President,,,Jill Stein,0
+Pierce,Osmond,President,,,Jill Stein,3
+Pierce,Pierce,President,,,Jill Stein,2
+Pierce,Pierce City,President,,,Jill Stein,3
+Pierce,Plainview,President,,,Jill Stein,3
+Pierce,South Branch,President,,,Jill Stein,1
+Pierce,Absentee/Early Vote,President,,Republican,Donald J. Trump,465
+Pierce,Countywide,President,,Republican,Donald J. Trump,0
+Pierce,New/Former Resident,President,,Republican,Donald J. Trump,2
+Pierce,Osmond,President,,Republican,Donald J. Trump,627
+Pierce,Pierce,President,,Republican,Donald J. Trump,577
+Pierce,Pierce City,President,,Republican,Donald J. Trump,567
+Pierce,Plainview,President,,Republican,Donald J. Trump,507
+Pierce,South Branch,President,,Republican,Donald J. Trump,307
+Pierce,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,493
+Pierce,Countywide,U.S. House,3,Republican,Adrian Smith,0
+Pierce,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
+Pierce,Osmond,U.S. House,3,Republican,Adrian Smith,637
+Pierce,Pierce,U.S. House,3,Republican,Adrian Smith,572
+Pierce,Pierce City,U.S. House,3,Republican,Adrian Smith,602
+Pierce,Plainview,U.S. House,3,Republican,Adrian Smith,549
+Pierce,South Branch,U.S. House,3,Republican,Adrian Smith,319
+Pierce,Absentee/Early Vote,State Senate,41,,Tom Briese,419
+Pierce,Countywide,State Senate,41,,Tom Briese,0
+Pierce,New/Former Resident,State Senate,41,,Tom Briese,0
+Pierce,Osmond,State Senate,41,,Tom Briese,543
+Pierce,Pierce,State Senate,41,,Tom Briese,470
+Pierce,Pierce City,State Senate,41,,Tom Briese,540
+Pierce,Plainview,State Senate,41,,Tom Briese,483
+Pierce,South Branch,State Senate,41,,Tom Briese,281

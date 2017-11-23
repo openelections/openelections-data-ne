@@ -1,0 +1,43 @@
+county,precinct,office,district,party,candidate,votes
+Keya Paha,Absentee/Early Vote,President,,Democratic,Hillary Clinton,12
+Keya Paha,Countywide,President,,Democratic,Hillary Clinton,0
+Keya Paha,Custer,President,,Democratic,Hillary Clinton,15
+Keya Paha,Garfield,President,,Democratic,Hillary Clinton,9
+Keya Paha,Mills,President,,Democratic,Hillary Clinton,3
+Keya Paha,New/Former Resident,President,,Democratic,Hillary Clinton,1
+Keya Paha,Absentee/Early Vote,President,,Libertarian,Gary Johnson,12
+Keya Paha,Countywide,President,,Libertarian,Gary Johnson,0
+Keya Paha,Custer,President,,Libertarian,Gary Johnson,2
+Keya Paha,Garfield,President,,Libertarian,Gary Johnson,2
+Keya Paha,Mills,President,,Libertarian,Gary Johnson,1
+Keya Paha,New/Former Resident,President,,Libertarian,Gary Johnson,0
+Keya Paha,Absentee/Early Vote,President,,,Jill Stein,0
+Keya Paha,Countywide,President,,,Jill Stein,0
+Keya Paha,Custer,President,,,Jill Stein,0
+Keya Paha,Garfield,President,,,Jill Stein,0
+Keya Paha,Mills,President,,,Jill Stein,0
+Keya Paha,New/Former Resident,President,,,Jill Stein,0
+Keya Paha,Absentee/Early Vote,President,,Republican,Donald J. Trump,135
+Keya Paha,Countywide,President,,Republican,Donald J. Trump,0
+Keya Paha,Custer,President,,Republican,Donald J. Trump,131
+Keya Paha,Garfield,President,,Republican,Donald J. Trump,113
+Keya Paha,Mills,President,,Republican,Donald J. Trump,79
+Keya Paha,New/Former Resident,President,,Republican,Donald J. Trump,2
+Keya Paha,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,134
+Keya Paha,Countywide,U.S. House,3,Republican,Adrian Smith,0
+Keya Paha,Custer,U.S. House,3,Republican,Adrian Smith,128
+Keya Paha,Garfield,U.S. House,3,Republican,Adrian Smith,99
+Keya Paha,Mills,U.S. House,3,Republican,Adrian Smith,72
+Keya Paha,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
+Keya Paha,Absentee/Early Vote,State Senate,43,,Al Davis,61
+Keya Paha,Countywide,State Senate,43,,Al Davis,0
+Keya Paha,Custer,State Senate,43,,Al Davis,58
+Keya Paha,Garfield,State Senate,43,,Al Davis,36
+Keya Paha,Mills,State Senate,43,,Al Davis,32
+Keya Paha,New/Former Resident,State Senate,43,,Al Davis,0
+Keya Paha,Absentee/Early Vote,State Senate,43,,Tom Brewer,85
+Keya Paha,Countywide,State Senate,43,,Tom Brewer,0
+Keya Paha,Custer,State Senate,43,,Tom Brewer,84
+Keya Paha,Garfield,State Senate,43,,Tom Brewer,83
+Keya Paha,Mills,State Senate,43,,Tom Brewer,43
+Keya Paha,New/Former Resident,State Senate,43,,Tom Brewer,0

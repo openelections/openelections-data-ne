@@ -1,0 +1,55 @@
+county,precinct,office,district,party,candidate,votes
+Sherman,Absentee/Early Vote,President,,Democratic,Hillary Clinton,0
+Sherman,Ashton,President,,Democratic,Hillary Clinton,35
+Sherman,Central LC,President,,Democratic,Hillary Clinton,48
+Sherman,Countywide,President,,Democratic,Hillary Clinton,0
+Sherman,Harrison,President,,Democratic,Hillary Clinton,44
+Sherman,New/Former Resident,President,,Democratic,Hillary Clinton,0
+Sherman,North LC,President,,Democratic,Hillary Clinton,106
+Sherman,Rockville,President,,Democratic,Hillary Clinton,46
+Sherman,South LC,President,,Democratic,Hillary Clinton,61
+Sherman,Absentee/Early Vote,President,,Libertarian,Gary Johnson,0
+Sherman,Ashton,President,,Libertarian,Gary Johnson,12
+Sherman,Central LC,President,,Libertarian,Gary Johnson,6
+Sherman,Countywide,President,,Libertarian,Gary Johnson,0
+Sherman,Harrison,President,,Libertarian,Gary Johnson,17
+Sherman,New/Former Resident,President,,Libertarian,Gary Johnson,0
+Sherman,North LC,President,,Libertarian,Gary Johnson,9
+Sherman,Rockville,President,,Libertarian,Gary Johnson,8
+Sherman,South LC,President,,Libertarian,Gary Johnson,7
+Sherman,Absentee/Early Vote,President,,,Jill Stein,0
+Sherman,Ashton,President,,,Jill Stein,3
+Sherman,Central LC,President,,,Jill Stein,2
+Sherman,Countywide,President,,,Jill Stein,0
+Sherman,Harrison,President,,,Jill Stein,2
+Sherman,New/Former Resident,President,,,Jill Stein,0
+Sherman,North LC,President,,,Jill Stein,4
+Sherman,Rockville,President,,,Jill Stein,1
+Sherman,South LC,President,,,Jill Stein,1
+Sherman,Absentee/Early Vote,President,,Republican,Donald J. Trump,0
+Sherman,Ashton,President,,Republican,Donald J. Trump,177
+Sherman,Central LC,President,,Republican,Donald J. Trump,128
+Sherman,Countywide,President,,Republican,Donald J. Trump,0
+Sherman,Harrison,President,,Republican,Donald J. Trump,275
+Sherman,New/Former Resident,President,,Republican,Donald J. Trump,0
+Sherman,North LC,President,,Republican,Donald J. Trump,200
+Sherman,Rockville,President,,Republican,Donald J. Trump,171
+Sherman,South LC,President,,Republican,Donald J. Trump,199
+Sherman,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,0
+Sherman,Ashton,U.S. House,3,Republican,Adrian Smith,173
+Sherman,Central LC,U.S. House,3,Republican,Adrian Smith,152
+Sherman,Countywide,U.S. House,3,Republican,Adrian Smith,0
+Sherman,Harrison,U.S. House,3,Republican,Adrian Smith,291
+Sherman,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
+Sherman,North LC,U.S. House,3,Republican,Adrian Smith,253
+Sherman,Rockville,U.S. House,3,Republican,Adrian Smith,205
+Sherman,South LC,U.S. House,3,Republican,Adrian Smith,227
+Sherman,Absentee/Early Vote,State Senate,41,,Tom Briese,0
+Sherman,Ashton,State Senate,41,,Tom Briese,143
+Sherman,Central LC,State Senate,41,,Tom Briese,130
+Sherman,Countywide,State Senate,41,,Tom Briese,0
+Sherman,Harrison,State Senate,41,,Tom Briese,234
+Sherman,New/Former Resident,State Senate,41,,Tom Briese,0
+Sherman,North LC,State Senate,41,,Tom Briese,220
+Sherman,Rockville,State Senate,41,,Tom Briese,176
+Sherman,South LC,State Senate,41,,Tom Briese,189

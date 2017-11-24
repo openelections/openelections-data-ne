@@ -8,9 +8,9 @@ Buffalo,1,President,,,Jill Stein,9,8,1
 Buffalo,1,President,,,Write-ins,24,17,7
 Buffalo,1,U.S. House,3,Republican,Adrian Smith,825,631,194
 Buffalo,1,U.S. House,3,,Write-ins,19,14,5
-Buffalo,1,State Senate,37,,Bob Lammers,446,338,108
-Buffalo,1,State Senate,37,,John S. Lowe Sr.,466,363,103
-Buffalo,1,State Senate,37,,Write-ins,2,0,2
+Buffalo,1,State Legislature,37,,Bob Lammers,446,338,108
+Buffalo,1,State Legislature,37,,John S. Lowe Sr.,466,363,103
+Buffalo,1,State Legislature,37,,Write-ins,2,0,2
 Buffalo,2,Registered Voters,,,,944,,
 Buffalo,2,Ballots Cast,,,,716,576,140
 Buffalo,2,President,,Republican,Donald J. Trump,440,375,65
@@ -20,9 +20,9 @@ Buffalo,2,President,,,Jill Stein,7,7,0
 Buffalo,2,President,,,Write-ins,10,9,1
 Buffalo,2,U.S. House,3,Republican,Adrian Smith,589,492,97
 Buffalo,2,U.S. House,3,,Write-ins,23,17,6
-Buffalo,2,State Senate,37,,Bob Lammers,332,261,71
-Buffalo,2,State Senate,37,,John S. Lowe Sr.,340,286,54
-Buffalo,2,State Senate,37,,Write-ins,1,1,0
+Buffalo,2,State Legislature,37,,Bob Lammers,332,261,71
+Buffalo,2,State Legislature,37,,John S. Lowe Sr.,340,286,54
+Buffalo,2,State Legislature,37,,Write-ins,1,1,0
 Buffalo,3,Registered Voters,,,,1295,,
 Buffalo,3,Ballots Cast,,,,1029,836,193
 Buffalo,3,President,,Republican,Donald J. Trump,664,554,110
@@ -32,9 +32,9 @@ Buffalo,3,President,,,Jill Stein,8,7,1
 Buffalo,3,President,,,Write-ins,24,22,2
 Buffalo,3,U.S. House,3,Republican,Adrian Smith,836,682,154
 Buffalo,3,U.S. House,3,,Write-ins,29,26,3
-Buffalo,3,State Senate,37,,Bob Lammers,512,422,90
-Buffalo,3,State Senate,37,,John S. Lowe Sr.,463,374,89
-Buffalo,3,State Senate,37,,Write-ins,6,4,2
+Buffalo,3,State Legislature,37,,Bob Lammers,512,422,90
+Buffalo,3,State Legislature,37,,John S. Lowe Sr.,463,374,89
+Buffalo,3,State Legislature,37,,Write-ins,6,4,2
 Buffalo,4,Registered Voters,,,,1677,,
 Buffalo,4,Ballots Cast,,,,1365,1131,234
 Buffalo,4,President,,Republican,Donald J. Trump,943,817,126
@@ -44,9 +44,9 @@ Buffalo,4,President,,,Jill Stein,8,8,0
 Buffalo,4,President,,,Write-ins,25,19,6
 Buffalo,4,U.S. House,3,Republican,Adrian Smith,1134,952,182
 Buffalo,4,U.S. House,3,,Write-ins,19,13,6
-Buffalo,4,State Senate,37,,Bob Lammers,639,523,116
-Buffalo,4,State Senate,37,,John S. Lowe Sr.,639,540,99
-Buffalo,4,State Senate,37,,Write-ins,4,3,1
+Buffalo,4,State Legislature,37,,Bob Lammers,639,523,116
+Buffalo,4,State Legislature,37,,John S. Lowe Sr.,639,540,99
+Buffalo,4,State Legislature,37,,Write-ins,4,3,1
 Buffalo,5,Registered Voters,,,,1052,,
 Buffalo,5,Ballots Cast,,,,731,601,130
 Buffalo,5,President,,Republican,Donald J. Trump,461,390,71
@@ -56,9 +56,9 @@ Buffalo,5,President,,,Jill Stein,2,2,0
 Buffalo,5,President,,,Write-ins,16,12,4
 Buffalo,5,U.S. House,3,Republican,Adrian Smith,616,510,106
 Buffalo,5,U.S. House,3,,Write-ins,12,10,2
-Buffalo,5,State Senate,37,,Bob Lammers,347,297,50
-Buffalo,5,State Senate,37,,John S. Lowe Sr.,337,271,66
-Buffalo,5,State Senate,37,,Write-ins,0,0,0
+Buffalo,5,State Legislature,37,,Bob Lammers,347,297,50
+Buffalo,5,State Legislature,37,,John S. Lowe Sr.,337,271,66
+Buffalo,5,State Legislature,37,,Write-ins,0,0,0
 Buffalo,6,Registered Voters,,,,1653,,
 Buffalo,6,Ballots Cast,,,,1266,1014,252
 Buffalo,6,President,,Republican,Donald J. Trump,869,721,148
@@ -68,9 +68,9 @@ Buffalo,6,President,,,Jill Stein,8,6,2
 Buffalo,6,President,,,Write-ins,22,19,3
 Buffalo,6,U.S. House,3,Republican,Adrian Smith,1037,855,182
 Buffalo,6,U.S. House,3,,Write-ins,16,13,3
-Buffalo,6,State Senate,37,,Bob Lammers,628,499,129
-Buffalo,6,State Senate,37,,John S. Lowe Sr.,589,477,112
-Buffalo,6,State Senate,37,,Write-ins,4,3,1
+Buffalo,6,State Legislature,37,,Bob Lammers,628,499,129
+Buffalo,6,State Legislature,37,,John S. Lowe Sr.,589,477,112
+Buffalo,6,State Legislature,37,,Write-ins,4,3,1
 Buffalo,7,Registered Voters,,,,1426,,
 Buffalo,7,Ballots Cast,,,,980,846,134
 Buffalo,7,President,,Republican,Donald J. Trump,561,481,80
@@ -80,9 +80,9 @@ Buffalo,7,President,,,Jill Stein,13,12,1
 Buffalo,7,President,,,Write-ins,30,27,3
 Buffalo,7,U.S. House,3,Republican,Adrian Smith,769,665,104
 Buffalo,7,U.S. House,3,,Write-ins,37,32,5
-Buffalo,7,State Senate,37,,Bob Lammers,473,418,55
-Buffalo,7,State Senate,37,,John S. Lowe Sr.,442,373,69
-Buffalo,7,State Senate,37,,Write-ins,4,4,0
+Buffalo,7,State Legislature,37,,Bob Lammers,473,418,55
+Buffalo,7,State Legislature,37,,John S. Lowe Sr.,442,373,69
+Buffalo,7,State Legislature,37,,Write-ins,4,4,0
 Buffalo,8,Registered Voters,,,,798,,
 Buffalo,8,Ballots Cast,,,,550,469,81
 Buffalo,8,President,,Republican,Donald J. Trump,359,321,38
@@ -92,9 +92,9 @@ Buffalo,8,President,,,Jill Stein,5,5,0
 Buffalo,8,President,,,Write-ins,10,8,2
 Buffalo,8,U.S. House,3,Republican,Adrian Smith,454,394,60
 Buffalo,8,U.S. House,3,,Write-ins,11,9,2
-Buffalo,8,State Senate,37,,Bob Lammers,225,193,32
-Buffalo,8,State Senate,37,,John S. Lowe Sr.,287,247,40
-Buffalo,8,State Senate,37,,Write-ins,2,2,0
+Buffalo,8,State Legislature,37,,Bob Lammers,225,193,32
+Buffalo,8,State Legislature,37,,John S. Lowe Sr.,287,247,40
+Buffalo,8,State Legislature,37,,Write-ins,2,2,0
 Buffalo,9,Registered Voters,,,,1174,,
 Buffalo,9,Ballots Cast,,,,855,758,97
 Buffalo,9,President,,Republican,Donald J. Trump,493,433,60
@@ -104,9 +104,9 @@ Buffalo,9,President,,,Jill Stein,12,11,1
 Buffalo,9,President,,,Write-ins,15,15,0
 Buffalo,9,U.S. House,3,Republican,Adrian Smith,680,607,73
 Buffalo,9,U.S. House,3,,Write-ins,27,23,4
-Buffalo,9,State Senate,37,,Bob Lammers,385,355,30
-Buffalo,9,State Senate,37,,John S. Lowe Sr.,400,347,53
-Buffalo,9,State Senate,37,,Write-ins,7,7,0
+Buffalo,9,State Legislature,37,,Bob Lammers,385,355,30
+Buffalo,9,State Legislature,37,,John S. Lowe Sr.,400,347,53
+Buffalo,9,State Legislature,37,,Write-ins,7,7,0
 Buffalo,10,Registered Voters,,,,1931,,
 Buffalo,10,Ballots Cast,,,,1260,1056,204
 Buffalo,10,President,,Republican,Donald J. Trump,776,672,104
@@ -116,9 +116,9 @@ Buffalo,10,President,,,Jill Stein,28,26,2
 Buffalo,10,President,,,Write-ins,15,13,2
 Buffalo,10,U.S. House,3,Republican,Adrian Smith,1035,886,149
 Buffalo,10,U.S. House,3,,Write-ins,40,26,14
-Buffalo,10,State Senate,37,,Bob Lammers,516,443,73
-Buffalo,10,State Senate,37,,John S. Lowe Sr.,657,554,103
-Buffalo,10,State Senate,37,,Write-ins,8,4,4
+Buffalo,10,State Legislature,37,,Bob Lammers,516,443,73
+Buffalo,10,State Legislature,37,,John S. Lowe Sr.,657,554,103
+Buffalo,10,State Legislature,37,,Write-ins,8,4,4
 Buffalo,11,Registered Voters,,,,980,,
 Buffalo,11,Ballots Cast,,,,563,482,81
 Buffalo,11,President,,Republican,Donald J. Trump,332,290,42
@@ -128,9 +128,9 @@ Buffalo,11,President,,,Jill Stein,7,5,2
 Buffalo,11,President,,,Write-ins,9,7,2
 Buffalo,11,U.S. House,3,Republican,Adrian Smith,464,404,60
 Buffalo,11,U.S. House,3,,Write-ins,12,7,5
-Buffalo,11,State Senate,37,,Bob Lammers,239,208,31
-Buffalo,11,State Senate,37,,John S. Lowe Sr.,268,230,38
-Buffalo,11,State Senate,37,,Write-ins,3,2,1
+Buffalo,11,State Legislature,37,,Bob Lammers,239,208,31
+Buffalo,11,State Legislature,37,,John S. Lowe Sr.,268,230,38
+Buffalo,11,State Legislature,37,,Write-ins,3,2,1
 Buffalo,12,Registered Voters,,,,1172,,
 Buffalo,12,Ballots Cast,,,,759,631,128
 Buffalo,12,President,,Republican,Donald J. Trump,395,345,50
@@ -140,9 +140,9 @@ Buffalo,12,President,,,Jill Stein,26,19,7
 Buffalo,12,President,,,Write-ins,24,20,4
 Buffalo,12,U.S. House,3,Republican,Adrian Smith,547,467,80
 Buffalo,12,U.S. House,3,,Write-ins,35,25,10
-Buffalo,12,State Senate,37,,Bob Lammers,345,284,61
-Buffalo,12,State Senate,37,,John S. Lowe Sr.,336,282,54
-Buffalo,12,State Senate,37,,Write-ins,5,3,2
+Buffalo,12,State Legislature,37,,Bob Lammers,345,284,61
+Buffalo,12,State Legislature,37,,John S. Lowe Sr.,336,282,54
+Buffalo,12,State Legislature,37,,Write-ins,5,3,2
 Buffalo,13,Registered Voters,,,,1865,,
 Buffalo,13,Ballots Cast,,,,1321,1101,220
 Buffalo,13,President,,Republican,Donald J. Trump,905,777,128
@@ -152,9 +152,9 @@ Buffalo,13,President,,,Jill Stein,16,12,4
 Buffalo,13,President,,,Write-ins,25,17,8
 Buffalo,13,U.S. House,3,Republican,Adrian Smith,1076,916,160
 Buffalo,13,U.S. House,3,,Write-ins,35,22,13
-Buffalo,13,State Senate,37,,Bob Lammers,529,441,88
-Buffalo,13,State Senate,37,,John S. Lowe Sr.,724,607,117
-Buffalo,13,State Senate,37,,Write-ins,0,0,0
+Buffalo,13,State Legislature,37,,Bob Lammers,529,441,88
+Buffalo,13,State Legislature,37,,John S. Lowe Sr.,724,607,117
+Buffalo,13,State Legislature,37,,Write-ins,0,0,0
 Buffalo,14,Registered Voters,,,,1851,,
 Buffalo,14,Ballots Cast,,,,1164,977,187
 Buffalo,14,President,,Republican,Donald J. Trump,726,615,111
@@ -164,9 +164,9 @@ Buffalo,14,President,,,Jill Stein,18,18,0
 Buffalo,14,President,,,Write-ins,24,18,6
 Buffalo,14,U.S. House,3,Republican,Adrian Smith,941,799,142
 Buffalo,14,U.S. House,3,,Write-ins,28,23,5
-Buffalo,14,State Senate,37,,Bob Lammers,458,364,94
-Buffalo,14,State Senate,37,,John S. Lowe Sr.,627,544,83
-Buffalo,14,State Senate,37,,Write-ins,1,1,0
+Buffalo,14,State Legislature,37,,Bob Lammers,458,364,94
+Buffalo,14,State Legislature,37,,John S. Lowe Sr.,627,544,83
+Buffalo,14,State Legislature,37,,Write-ins,1,1,0
 Buffalo,15,Registered Voters,,,,358,,
 Buffalo,15,Ballots Cast,,,,290,235,55
 Buffalo,15,President,,Republican,Donald J. Trump,249,203,46
@@ -221,9 +221,9 @@ Buffalo,20,President,,,Jill Stein,6,4,2
 Buffalo,20,President,,,Write-ins,12,9,3
 Buffalo,20,U.S. House,3,Republican,Adrian Smith,880,713,167
 Buffalo,20,U.S. House,3,,Write-ins,21,16,5
-Buffalo,20,State Senate,37,,Bob Lammers,449,353,96
-Buffalo,20,State Senate,37,,John S. Lowe Sr.,525,424,101
-Buffalo,20,State Senate,37,,Write-ins,4,3,1
+Buffalo,20,State Legislature,37,,Bob Lammers,449,353,96
+Buffalo,20,State Legislature,37,,John S. Lowe Sr.,525,424,101
+Buffalo,20,State Legislature,37,,Write-ins,4,3,1
 Buffalo,21,Registered Voters,,,,662,,
 Buffalo,21,Ballots Cast,,,,511,444,67
 Buffalo,21,President,,Republican,Donald J. Trump,401,347,54
@@ -233,9 +233,9 @@ Buffalo,21,President,,,Jill Stein,2,2,0
 Buffalo,21,President,,,Write-ins,9,9,0
 Buffalo,21,U.S. House,3,Republican,Adrian Smith,427,370,57
 Buffalo,21,U.S. House,3,,Write-ins,7,6,1
-Buffalo,21,State Senate,37,,Bob Lammers,192,163,29
-Buffalo,21,State Senate,37,,John S. Lowe Sr.,276,241,35
-Buffalo,21,State Senate,37,,Write-ins,2,2,0
+Buffalo,21,State Legislature,37,,Bob Lammers,192,163,29
+Buffalo,21,State Legislature,37,,John S. Lowe Sr.,276,241,35
+Buffalo,21,State Legislature,37,,Write-ins,2,2,0
 Buffalo,22,Registered Voters,,,,435,,
 Buffalo,22,Ballots Cast,,,,294,249,45
 Buffalo,22,President,,Republican,Donald J. Trump,207,176,31
@@ -245,9 +245,9 @@ Buffalo,22,President,,,Jill Stein,1,1,0
 Buffalo,22,President,,,Write-ins,8,6,2
 Buffalo,22,U.S. House,3,Republican,Adrian Smith,252,216,36
 Buffalo,22,U.S. House,3,,Write-ins,4,3,1
-Buffalo,22,State Senate,37,,Bob Lammers,108,95,13
-Buffalo,22,State Senate,37,,John S. Lowe Sr.,164,134,30
-Buffalo,22,State Senate,37,,Write-ins,0,0,0
+Buffalo,22,State Legislature,37,,Bob Lammers,108,95,13
+Buffalo,22,State Legislature,37,,John S. Lowe Sr.,164,134,30
+Buffalo,22,State Legislature,37,,Write-ins,0,0,0
 Buffalo,23,Registered Voters,,,,526,,
 Buffalo,23,Ballots Cast,,,,349,321,28
 Buffalo,23,President,,Republican,Donald J. Trump,249,228,21
@@ -257,9 +257,9 @@ Buffalo,23,President,,,Jill Stein,4,4,0
 Buffalo,23,President,,,Write-ins,5,5,0
 Buffalo,23,U.S. House,3,Republican,Adrian Smith,283,259,24
 Buffalo,23,U.S. House,3,,Write-ins,5,5,0
-Buffalo,23,State Senate,37,,Bob Lammers,139,131,8
-Buffalo,23,State Senate,37,,John S. Lowe Sr.,187,169,18
-Buffalo,23,State Senate,37,,Write-ins,1,1,0
+Buffalo,23,State Legislature,37,,Bob Lammers,139,131,8
+Buffalo,23,State Legislature,37,,John S. Lowe Sr.,187,169,18
+Buffalo,23,State Legislature,37,,Write-ins,1,1,0
 Buffalo,24,Registered Voters,,,,981,,
 Buffalo,24,Ballots Cast,,,,711,609,102
 Buffalo,24,President,,Republican,Donald J. Trump,509,449,60
@@ -269,9 +269,9 @@ Buffalo,24,President,,,Jill Stein,2,2,0
 Buffalo,24,President,,,Write-ins,10,9,1
 Buffalo,24,U.S. House,3,Republican,Adrian Smith,581,510,71
 Buffalo,24,U.S. House,3,,Write-ins,13,10,3
-Buffalo,24,State Senate,37,,Bob Lammers,266,216,50
-Buffalo,24,State Senate,37,,John S. Lowe Sr.,386,344,42
-Buffalo,24,State Senate,37,,Write-ins,2,2,0
+Buffalo,24,State Legislature,37,,Bob Lammers,266,216,50
+Buffalo,24,State Legislature,37,,John S. Lowe Sr.,386,344,42
+Buffalo,24,State Legislature,37,,Write-ins,2,2,0
 Buffalo,25,Registered Voters,,,,869,,
 Buffalo,25,Ballots Cast,,,,637,577,60
 Buffalo,25,President,,Republican,Donald J. Trump,491,445,46
@@ -299,9 +299,9 @@ Buffalo,27,President,,,Jill Stein,1,1,0
 Buffalo,27,President,,,Write-ins,10,8,2
 Buffalo,27,U.S. House,3,Republican,Adrian Smith,268,240,28
 Buffalo,27,U.S. House,3,,Write-ins,11,10,1
-Buffalo,27,State Senate,37,,Bob Lammers,138,120,18
-Buffalo,27,State Senate,37,,John S. Lowe Sr.,176,155,21
-Buffalo,27,State Senate,37,,Write-ins,1,1,0
+Buffalo,27,State Legislature,37,,Bob Lammers,138,120,18
+Buffalo,27,State Legislature,37,,John S. Lowe Sr.,176,155,21
+Buffalo,27,State Legislature,37,,Write-ins,1,1,0
 Buffalo,28,Registered Voters,,,,692,,
 Buffalo,28,Ballots Cast,,,,555,462,93
 Buffalo,28,President,,Republican,Donald J. Trump,438,361,77
@@ -320,6 +320,6 @@ Buffalo,29,President,,,Jill Stein,3,3,0
 Buffalo,29,President,,,Write-ins,6,5,1
 Buffalo,29,U.S. House,3,Republican,Adrian Smith,453,382,71
 Buffalo,29,U.S. House,3,,Write-ins,6,4,2
-Buffalo,29,State Senate,37,,Bob Lammers,181,153,28
-Buffalo,29,State Senate,37,,John S. Lowe Sr.,311,259,52
-Buffalo,29,State Senate,37,,Write-ins,0,0,0
+Buffalo,29,State Legislature,37,,Bob Lammers,181,153,28
+Buffalo,29,State Legislature,37,,John S. Lowe Sr.,311,259,52
+Buffalo,29,State Legislature,37,,Write-ins,0,0,0

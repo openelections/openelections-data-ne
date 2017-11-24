@@ -7,8 +7,8 @@ Otoe,Absentee,President,NA,NA,Write-Ins,29
 Otoe,Absentee,U.S. House,1,Republican,Jeff Fortenberry,1092
 Otoe,Absentee,U.S. House,1,Democrat,Daniel M. Wik,371
 Otoe,Absentee,U.S. House,1,NA,Write-Ins,2
-Otoe,Absentee,State Senate,NA,NA,Dan Watermeier,1025
-Otoe,Absentee,State Senate,NA,NA,Write-Ins,18
+Otoe,Absentee,State Legislature,NA,NA,Dan Watermeier,1025
+Otoe,Absentee,State Legislature,NA,NA,Write-Ins,18
 Otoe,Ber,President,NA,Republican,Trump/Pence,219
 Otoe,Ber,President,NA,Democrat,Clinton/Kaine,80
 Otoe,Ber,President,NA,Libertarian,Johnson/Weld,10
@@ -17,8 +17,8 @@ Otoe,Ber,President,NA,NA,Write-Ins,9
 Otoe,Ber,U.S. House,1,Republican,Jeff Fortenberry,258
 Otoe,Ber,U.S. House,1,Democrat,Daniel M. Wik,57
 Otoe,Ber,U.S. House,1,NA,Write-Ins,2
-Otoe,Ber,State Senate,NA,NA,Dan Watermeier,275
-Otoe,Ber,State Senate,NA,NA,Write-Ins,8
+Otoe,Ber,State Legislature,NA,NA,Dan Watermeier,275
+Otoe,Ber,State Legislature,NA,NA,Write-Ins,8
 Otoe,Del,President,NA,Republican,Trump/Pence,269
 Otoe,Del,President,NA,Democrat,Clinton/Kaine,57
 Otoe,Del,President,NA,Libertarian,Johnson/Weld,27
@@ -27,8 +27,8 @@ Otoe,Del,President,NA,NA,Write-Ins,4
 Otoe,Del,U.S. House,1,Republican,Jeff Fortenberry,287
 Otoe,Del,U.S. House,1,Democrat,Daniel M. Wik,54
 Otoe,Del,U.S. House,1,NA,Write-Ins,0
-Otoe,Del,State Senate,NA,NA,Dan Watermeier,305
-Otoe,Del,State Senate,NA,NA,Write-Ins,0
+Otoe,Del,State Legislature,NA,NA,Dan Watermeier,305
+Otoe,Del,State Legislature,NA,NA,Write-Ins,0
 Otoe,McW,President,NA,Republican,Trump/Pence,235
 Otoe,McW,President,NA,Democrat,Clinton/Kaine,53
 Otoe,McW,President,NA,Libertarian,Johnson/Weld,10
@@ -37,8 +37,8 @@ Otoe,McW,President,NA,NA,Write-Ins,9
 Otoe,McW,U.S. House,1,Republican,Jeff Fortenberry,264
 Otoe,McW,U.S. House,1,Democrat,Daniel M. Wik,39
 Otoe,McW,U.S. House,1,NA,Write-Ins,0
-Otoe,McW,State Senate,NA,NA,Dan Watermeier,266
-Otoe,McW,State Senate,NA,NA,Write-Ins,2
+Otoe,McW,State Legislature,NA,NA,Dan Watermeier,266
+Otoe,McW,State Legislature,NA,NA,Write-Ins,2
 Otoe,Syr,President,NA,Republican,Trump/Pence,655
 Otoe,Syr,President,NA,Democrat,Clinton/Kaine,296
 Otoe,Syr,President,NA,Libertarian,Johnson/Weld,61
@@ -47,8 +47,8 @@ Otoe,Syr,President,NA,NA,Write-Ins,20
 Otoe,Syr,U.S. House,1,Republican,Jeff Fortenberry,825
 Otoe,Syr,U.S. House,1,Democrat,Daniel M. Wik,205
 Otoe,Syr,U.S. House,1,NA,Write-Ins,1
-Otoe,Syr,State Senate,NA,NA,Dan Watermeier,969
-Otoe,Syr,State Senate,NA,NA,Write-Ins,9
+Otoe,Syr,State Legislature,NA,NA,Dan Watermeier,969
+Otoe,Syr,State Legislature,NA,NA,Write-Ins,9
 Otoe,Pal,President,NA,Republican,Trump/Pence,459
 Otoe,Pal,President,NA,Democrat,Clinton/Kaine,238
 Otoe,Pal,President,NA,Libertarian,Johnson/Weld,41
@@ -57,8 +57,8 @@ Otoe,Pal,President,NA,NA,Write-Ins,21
 Otoe,Pal,U.S. House,1,Republican,Jeff Fortenberry,515
 Otoe,Pal,U.S. House,1,Democrat,Daniel M. Wik,227
 Otoe,Pal,U.S. House,1,NA,Write-Ins,1
-Otoe,Pal,State Senate,NA,NA,Dan Watermeier,600
-Otoe,Pal,State Senate,NA,NA,Write-Ins,7
+Otoe,Pal,State Legislature,NA,NA,Dan Watermeier,600
+Otoe,Pal,State Legislature,NA,NA,Write-Ins,7
 Otoe,Rus,President,NA,Republican,Trump/Pence,200
 Otoe,Rus,President,NA,Democrat,Clinton/Kaine,107
 Otoe,Rus,President,NA,Libertarian,Johnson/Weld,26
@@ -67,8 +67,8 @@ Otoe,Rus,President,NA,NA,Write-Ins,9
 Otoe,Rus,U.S. House,1,Republican,Jeff Fortenberry,256
 Otoe,Rus,U.S. House,1,Democrat,Daniel M. Wik,93
 Otoe,Rus,U.S. House,1,NA,Write-Ins,0
-Otoe,Rus,State Senate,NA,NA,Dan Watermeier,311
-Otoe,Rus,State Senate,NA,NA,Write-Ins,1
+Otoe,Rus,State Legislature,NA,NA,Dan Watermeier,311
+Otoe,Rus,State Legislature,NA,NA,Write-Ins,1
 Otoe,SBr,President,NA,Republican,Trump/Pence,211
 Otoe,SBr,President,NA,Democrat,Clinton/Kaine,81
 Otoe,SBr,President,NA,Libertarian,Johnson/Weld,17
@@ -77,8 +77,8 @@ Otoe,SBr,President,NA,NA,Write-Ins,3
 Otoe,SBr,U.S. House,1,Republican,Jeff Fortenberry,239
 Otoe,SBr,U.S. House,1,Democrat,Daniel M. Wik,74
 Otoe,SBr,U.S. House,1,NA,Write-Ins,0
-Otoe,SBr,State Senate,NA,NA,Dan Watermeier,286
-Otoe,SBr,State Senate,NA,NA,Write-Ins,0
+Otoe,SBr,State Legislature,NA,NA,Dan Watermeier,286
+Otoe,SBr,State Legislature,NA,NA,Write-Ins,0
 Otoe,NC11,President,NA,Republican,Trump/Pence,258
 Otoe,NC11,President,NA,Democrat,Clinton/Kaine,83
 Otoe,NC11,President,NA,Libertarian,Johnson/Weld,16
@@ -87,8 +87,8 @@ Otoe,NC11,President,NA,NA,Write-Ins,9
 Otoe,NC11,U.S. House,1,Republican,Jeff Fortenberry,271
 Otoe,NC11,U.S. House,1,Democrat,Daniel M. Wik,88
 Otoe,NC11,U.S. House,1,NA,Write-Ins,1
-Otoe,NC11,State Senate,NA,NA,Dan Watermeier,NA
-Otoe,NC11,State Senate,NA,NA,Write-Ins,NA
+Otoe,NC11,State Legislature,NA,NA,Dan Watermeier,NA
+Otoe,NC11,State Legislature,NA,NA,Write-Ins,NA
 Otoe,NC12,President,NA,Republican,Trump/Pence,202
 Otoe,NC12,President,NA,Democrat,Clinton/Kaine,96
 Otoe,NC12,President,NA,Libertarian,Johnson/Weld,15
@@ -97,8 +97,8 @@ Otoe,NC12,President,NA,NA,Write-Ins,2
 Otoe,NC12,U.S. House,1,Republican,Jeff Fortenberry,233
 Otoe,NC12,U.S. House,1,Democrat,Daniel M. Wik,71
 Otoe,NC12,U.S. House,1,NA,Write-Ins,0
-Otoe,NC12,State Senate,NA,NA,Dan Watermeier,248
-Otoe,NC12,State Senate,NA,NA,Write-Ins,2
+Otoe,NC12,State Legislature,NA,NA,Dan Watermeier,248
+Otoe,NC12,State Legislature,NA,NA,Write-Ins,2
 Otoe,NC13,President,NA,Republican,Trump/Pence,371
 Otoe,NC13,President,NA,Democrat,Clinton/Kaine,112
 Otoe,NC13,President,NA,Libertarian,Johnson/Weld,22
@@ -107,8 +107,8 @@ Otoe,NC13,President,NA,NA,Write-Ins,8
 Otoe,NC13,U.S. House,1,Republican,Jeff Fortenberry,422
 Otoe,NC13,U.S. House,1,Democrat,Daniel M. Wik,85
 Otoe,NC13,U.S. House,1,NA,Write-Ins,2
-Otoe,NC13,State Senate,NA,NA,Dan Watermeier,NA
-Otoe,NC13,State Senate,NA,NA,Write-Ins,NA
+Otoe,NC13,State Legislature,NA,NA,Dan Watermeier,NA
+Otoe,NC13,State Legislature,NA,NA,Write-Ins,NA
 Otoe,NC14,President,NA,Republican,Trump/Pence,193
 Otoe,NC14,President,NA,Democrat,Clinton/Kaine,95
 Otoe,NC14,President,NA,Libertarian,Johnson/Weld,14
@@ -117,8 +117,8 @@ Otoe,NC14,President,NA,NA,Write-Ins,7
 Otoe,NC14,U.S. House,1,Republican,Jeff Fortenberry,225
 Otoe,NC14,U.S. House,1,Democrat,Daniel M. Wik,71
 Otoe,NC14,U.S. House,1,NA,Write-Ins,1
-Otoe,NC14,State Senate,NA,NA,Dan Watermeier,242
-Otoe,NC14,State Senate,NA,NA,Write-Ins,5
+Otoe,NC14,State Legislature,NA,NA,Dan Watermeier,242
+Otoe,NC14,State Legislature,NA,NA,Write-Ins,5
 Otoe,NC15,President,NA,Republican,Trump/Pence,308
 Otoe,NC15,President,NA,Democrat,Clinton/Kaine,92
 Otoe,NC15,President,NA,Libertarian,Johnson/Weld,29
@@ -127,8 +127,8 @@ Otoe,NC15,President,NA,NA,Write-Ins,7
 Otoe,NC15,U.S. House,1,Republican,Jeff Fortenberry,333
 Otoe,NC15,U.S. House,1,Democrat,Daniel M. Wik,85
 Otoe,NC15,U.S. House,1,NA,Write-Ins,1
-Otoe,NC15,State Senate,NA,NA,Dan Watermeier,375
-Otoe,NC15,State Senate,NA,NA,Write-Ins,1
+Otoe,NC15,State Legislature,NA,NA,Dan Watermeier,375
+Otoe,NC15,State Legislature,NA,NA,Write-Ins,1
 Otoe,NC16,President,NA,Republican,Trump/Pence,348
 Otoe,NC16,President,NA,Democrat,Clinton/Kaine,148
 Otoe,NC16,President,NA,Libertarian,Johnson/Weld,19
@@ -137,5 +137,5 @@ Otoe,NC16,President,NA,NA,Write-Ins,3
 Otoe,NC16,U.S. House,1,Republican,Jeff Fortenberry,429
 Otoe,NC16,U.S. House,1,Democrat,Daniel M. Wik,93
 Otoe,NC16,U.S. House,1,NA,Write-Ins,1
-Otoe,NC16,State Senate,NA,NA,Dan Watermeier,449
-Otoe,NC16,State Senate,NA,NA,Write-Ins,2
+Otoe,NC16,State Legislature,NA,NA,Dan Watermeier,449
+Otoe,NC16,State Legislature,NA,NA,Write-Ins,2

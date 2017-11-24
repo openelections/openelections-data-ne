@@ -1,0 +1,76 @@
+county,precinct,office,district,party,candidate,votes
+York,Absentee/Early Vote,President,,Democratic,Hillary Clinton,333
+York,Brown Hend,President,,Democratic,Hillary Clinton,105
+York,Countywide,President,,Democratic,Hillary Clinton,0
+York,Hays McFadden,President,,Democratic,Hillary Clinton,45
+York,LeRoy Baker,President,,Democratic,Hillary Clinton,35
+York,MABL,President,,Democratic,Hillary Clinton,63
+York,New/Former Resident,President,,Democratic,Hillary Clinton,0
+York,Ny Waco Beav WB,President,,Democratic,Hillary Clinton,65
+York,Stewart Thayer,President,,Democratic,Hillary Clinton,41
+York,Ward 1,President,,Democratic,Hillary Clinton,59
+York,Ward 2A,President,,Democratic,Hillary Clinton,78
+York,Ward 2B,President,,Democratic,Hillary Clinton,83
+York,Ward 3,President,,Democratic,Hillary Clinton,65
+York,Ward 4A,President,,Democratic,Hillary Clinton,109
+York,Ward 4B,President,,Democratic,Hillary Clinton,105
+York,Absentee/Early Vote,President,,Libertarian,Gary Johnson,73
+York,Brown Hend,President,,Libertarian,Gary Johnson,22
+York,Countywide,President,,Libertarian,Gary Johnson,0
+York,Hays McFadden,President,,Libertarian,Gary Johnson,21
+York,LeRoy Baker,President,,Libertarian,Gary Johnson,9
+York,MABL,President,,Libertarian,Gary Johnson,14
+York,New/Former Resident,President,,Libertarian,Gary Johnson,0
+York,Ny Waco Beav WB,President,,Libertarian,Gary Johnson,17
+York,Stewart Thayer,President,,Libertarian,Gary Johnson,15
+York,Ward 1,President,,Libertarian,Gary Johnson,26
+York,Ward 2A,President,,Libertarian,Gary Johnson,25
+York,Ward 2B,President,,Libertarian,Gary Johnson,40
+York,Ward 3,President,,Libertarian,Gary Johnson,21
+York,Ward 4A,President,,Libertarian,Gary Johnson,33
+York,Ward 4B,President,,Libertarian,Gary Johnson,29
+York,Absentee/Early Vote,President,,,Jill Stein,11
+York,Brown Hend,President,,,Jill Stein,3
+York,Countywide,President,,,Jill Stein,0
+York,Hays McFadden,President,,,Jill Stein,0
+York,LeRoy Baker,President,,,Jill Stein,4
+York,MABL,President,,,Jill Stein,1
+York,New/Former Resident,President,,,Jill Stein,0
+York,Ny Waco Beav WB,President,,,Jill Stein,5
+York,Stewart Thayer,President,,,Jill Stein,2
+York,Ward 1,President,,,Jill Stein,0
+York,Ward 2A,President,,,Jill Stein,6
+York,Ward 2B,President,,,Jill Stein,0
+York,Ward 3,President,,,Jill Stein,5
+York,Ward 4A,President,,,Jill Stein,10
+York,Ward 4B,President,,,Jill Stein,5
+York,Absentee/Early Vote,President,,Republican,Donald J. Trump,856
+York,Brown Hend,President,,Republican,Donald J. Trump,565
+York,Countywide,President,,Republican,Donald J. Trump,0
+York,Hays McFadden,President,,Republican,Donald J. Trump,294
+York,LeRoy Baker,President,,Republican,Donald J. Trump,171
+York,MABL,President,,Republican,Donald J. Trump,374
+York,New/Former Resident,President,,Republican,Donald J. Trump,0
+York,Ny Waco Beav WB,President,,Republican,Donald J. Trump,358
+York,Stewart Thayer,President,,Republican,Donald J. Trump,205
+York,Ward 1,President,,Republican,Donald J. Trump,289
+York,Ward 2A,President,,Republican,Donald J. Trump,288
+York,Ward 2B,President,,Republican,Donald J. Trump,282
+York,Ward 3,President,,Republican,Donald J. Trump,230
+York,Ward 4A,President,,Republican,Donald J. Trump,426
+York,Ward 4B,President,,Republican,Donald J. Trump,362
+York,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,1048
+York,Brown Hend,U.S. House,3,Republican,Adrian Smith,630
+York,Countywide,U.S. House,3,Republican,Adrian Smith,0
+York,Hays McFadden,U.S. House,3,Republican,Adrian Smith,307
+York,LeRoy Baker,U.S. House,3,Republican,Adrian Smith,189
+York,MABL,U.S. House,3,Republican,Adrian Smith,411
+York,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
+York,Ny Waco Beav WB,U.S. House,3,Republican,Adrian Smith,410
+York,Stewart Thayer,U.S. House,3,Republican,Adrian Smith,235
+York,Ward 1,U.S. House,3,Republican,Adrian Smith,345
+York,Ward 2A,U.S. House,3,Republican,Adrian Smith,360
+York,Ward 2B,U.S. House,3,Republican,Adrian Smith,350
+York,Ward 3,U.S. House,3,Republican,Adrian Smith,289
+York,Ward 4A,U.S. House,3,Republican,Adrian Smith,519
+York,Ward 4B,U.S. House,3,Republican,Adrian Smith,451

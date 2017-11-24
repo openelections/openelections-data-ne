@@ -1,0 +1,127 @@
+county,precinct,office,district,candidate,party,votes
+Cuming,BCN,Registered Voters,,,,674
+Cuming,BL,Registered Voters,,,,650
+Cuming,SSGC,Registered Voters,,,,784
+Cuming,SW4,Registered Voters,,,,593
+Cuming,WP2,Registered Voters,,,,766
+Cuming,BGW,Registered Voters,,,,1092
+Cuming,WP1&3,Registered Voters,,,,1276
+Cuming,ABSENTEE,Registered Voters,,,,0
+Cuming,Total,Registered Voters,,,,5835
+Cuming,BCN,Ballots Cast,,,,430
+Cuming,BL,Ballots Cast,,,,387
+Cuming,SSGC,Ballots Cast,,,,476
+Cuming,SW4,Ballots Cast,,,,482
+Cuming,WP2,Ballots Cast,,,,452
+Cuming,BGW,Ballots Cast,,,,680
+Cuming,WP1&3,Ballots Cast,,,,654
+Cuming,ABSENTEE,Ballots Cast,,,,582
+Cuming,Total,Ballots Cast,,,,4143
+Cuming,BCN,President,,Trump/Pence,REP,317
+Cuming,BL,President,,Trump/Pence,REP,311
+Cuming,SSGC,President,,Trump/Pence,REP,372
+Cuming,SW4,President,,Trump/Pence,REP,375
+Cuming,WP2,President,,Trump/Pence,REP,342
+Cuming,BGW,President,,Trump/Pence,REP,520
+Cuming,WP1&3,President,,Trump/Pence,REP,478
+Cuming,ABSENTEE,President,,Trump/Pence,REP,406
+Cuming,Total,President,,Trump/Pence,REP,3121
+Cuming,BCN,President,,Clinton/Kaine,DEM,85
+Cuming,BL,President,,Clinton/Kaine,DEM,55
+Cuming,SSGC,President,,Clinton/Kaine,DEM,70
+Cuming,SW4,President,,Clinton/Kaine,DEM,63
+Cuming,WP2,President,,Clinton/Kaine,DEM,71
+Cuming,BGW,President,,Clinton/Kaine,DEM,119
+Cuming,WP1&3,President,,Clinton/Kaine,DEM,123
+Cuming,ABSENTEE,President,,Clinton/Kaine,DEM,132
+Cuming,Total,President,,Clinton/Kaine,DEM,718
+Cuming,BCN,President,,Johnson/Weld,LIB,16
+Cuming,BL,President,,Johnson/Weld,LIB,7
+Cuming,SSGC,President,,Johnson/Weld,LIB,18
+Cuming,SW4,President,,Johnson/Weld,LIB,21
+Cuming,WP2,President,,Johnson/Weld,LIB,16
+Cuming,BGW,President,,Johnson/Weld,LIB,28
+Cuming,WP1&3,President,,Johnson/Weld,LIB,27
+Cuming,ABSENTEE,President,,Johnson/Weld,LIB,24
+Cuming,Total,President,,Johnson/Weld,LIB,157
+Cuming,BCN,President,,Stein/Baraka,,3
+Cuming,BL,President,,Stein/Baraka,,2
+Cuming,SSGC,President,,Stein/Baraka,,2
+Cuming,SW4,President,,Stein/Baraka,,3
+Cuming,WP2,President,,Stein/Baraka,,1
+Cuming,BGW,President,,Stein/Baraka,,3
+Cuming,WP1&3,President,,Stein/Baraka,,7
+Cuming,ABSENTEE,President,,Stein/Baraka,,5
+Cuming,Total,President,,Stein/Baraka,,26
+Cuming,BCN,President,,Write-ins,,3
+Cuming,BL,President,,Write-ins,,5
+Cuming,SSGC,President,,Write-ins,,7
+Cuming,SW4,President,,Write-ins,,5
+Cuming,WP2,President,,Write-ins,,8
+Cuming,BGW,President,,Write-ins,,5
+Cuming,WP1&3,President,,Write-ins,,7
+Cuming,ABSENTEE,President,,Write-ins,,10
+Cuming,Total,President,,Write-ins,,50
+Cuming,BCN,President,,Over Votes,,0
+Cuming,BL,President,,Over Votes,,2
+Cuming,SSGC,President,,Over Votes,,3
+Cuming,SW4,President,,Over Votes,,2
+Cuming,WP2,President,,Over Votes,,4
+Cuming,BGW,President,,Over Votes,,1
+Cuming,WP1&3,President,,Over Votes,,6
+Cuming,ABSENTEE,President,,Over Votes,,2
+Cuming,Total,President,,Over Votes,,20
+Cuming,BCN,President,,Under Votes,,6
+Cuming,BL,President,,Under Votes,,5
+Cuming,SSGC,President,,Under Votes,,4
+Cuming,SW4,President,,Under Votes,,13
+Cuming,WP2,President,,Under Votes,,10
+Cuming,BGW,President,,Under Votes,,4
+Cuming,WP1&3,President,,Under Votes,,6
+Cuming,ABSENTEE,President,,Under Votes,,5
+Cuming,Total,President,,Under Votes,,53
+Cuming,BCN,U.S. House,1,Jeff Fortenberry,REP,352
+Cuming,BL,U.S. House,1,Jeff Fortenberry,REP,332
+Cuming,SSGC,U.S. House,1,Jeff Fortenberry,REP,418
+Cuming,SW4,U.S. House,1,Jeff Fortenberry,REP,416
+Cuming,WP2,U.S. House,1,Jeff Fortenberry,REP,387
+Cuming,BGW,U.S. House,1,Jeff Fortenberry,REP,541
+Cuming,WP1&3,U.S. House,1,Jeff Fortenberry,REP,544
+Cuming,ABSENTEE,U.S. House,1,Jeff Fortenberry,REP,457
+Cuming,Total,U.S. House,1,Jeff Fortenberry,REP,3447
+Cuming,BCN,U.S. House,1,Daniel M. Wik,DEM,55
+Cuming,BL,U.S. House,1,Daniel M. Wik,DEM,42
+Cuming,SSGC,U.S. House,1,Daniel M. Wik,DEM,45
+Cuming,SW4,U.S. House,1,Daniel M. Wik,DEM,51
+Cuming,WP2,U.S. House,1,Daniel M. Wik,DEM,49
+Cuming,BGW,U.S. House,1,Daniel M. Wik,DEM,110
+Cuming,WP1&3,U.S. House,1,Daniel M. Wik,DEM,80
+Cuming,ABSENTEE,U.S. House,1,Daniel M. Wik,DEM,95
+Cuming,Total,U.S. House,1,Daniel M. Wik,DEM,527
+Cuming,BCN,U.S. House,1,Write-ins,,1
+Cuming,BL,U.S. House,1,Write-ins,,1
+Cuming,SSGC,U.S. House,1,Write-ins,,0
+Cuming,SW4,U.S. House,1,Write-ins,,0
+Cuming,WP2,U.S. House,1,Write-ins,,0
+Cuming,BGW,U.S. House,1,Write-ins,,0
+Cuming,WP1&3,U.S. House,1,Write-ins,,2
+Cuming,ABSENTEE,U.S. House,1,Write-ins,,2
+Cuming,Total,U.S. House,1,Write-ins,,6
+Cuming,BCN,U.S. House,1,Over Votes,,0
+Cuming,BL,U.S. House,1,Over Votes,,0
+Cuming,SSGC,U.S. House,1,Over Votes,,1
+Cuming,SW4,U.S. House,1,Over Votes,,0
+Cuming,WP2,U.S. House,1,Over Votes,,0
+Cuming,BGW,U.S. House,1,Over Votes,,0
+Cuming,WP1&3,U.S. House,1,Over Votes,,1
+Cuming,ABSENTEE,U.S. House,1,Over Votes,,0
+Cuming,Total,U.S. House,1,Over Votes,,2
+Cuming,BCN,U.S. House,1,Under Votes,,22
+Cuming,BL,U.S. House,1,Under Votes,,12
+Cuming,SSGC,U.S. House,1,Under Votes,,12
+Cuming,SW4,U.S. House,1,Under Votes,,15
+Cuming,WP2,U.S. House,1,Under Votes,,16
+Cuming,BGW,U.S. House,1,Under Votes,,29
+Cuming,WP1&3,U.S. House,1,Under Votes,,27
+Cuming,ABSENTEE,U.S. House,1,Under Votes,,28
+Cuming,Total,U.S. House,1,Under Votes,,161

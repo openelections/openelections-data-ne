@@ -1,0 +1,31 @@
+county,precinct,office,district,party,candidate,votes
+Sioux,Absentee/Early Vote,President,,Democratic,Hillary Clinton,0
+Sioux,Bowen,President,,Democratic,Hillary Clinton,56
+Sioux,Countywide,President,,Democratic,Hillary Clinton,0
+Sioux,New/Former Resident,President,,Democratic,Hillary Clinton,1
+Sioux,Sheep Creek,President,,Democratic,Hillary Clinton,24
+Sioux,Absentee/Early Vote,President,,Libertarian,Gary Johnson,0
+Sioux,Bowen,President,,Libertarian,Gary Johnson,20
+Sioux,Countywide,President,,Libertarian,Gary Johnson,0
+Sioux,New/Former Resident,President,,Libertarian,Gary Johnson,1
+Sioux,Sheep Creek,President,,Libertarian,Gary Johnson,7
+Sioux,Absentee/Early Vote,President,,Republican,Donald J. Trump,0
+Sioux,Bowen,President,,Republican,Donald J. Trump,365
+Sioux,Countywide,President,,Republican,Donald J. Trump,0
+Sioux,New/Former Resident,President,,Republican,Donald J. Trump,6
+Sioux,Sheep Creek,President,,Republican,Donald J. Trump,245
+Sioux,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,0
+Sioux,Bowen,U.S. House,3,Republican,Adrian Smith,380
+Sioux,Countywide,U.S. House,3,Republican,Adrian Smith,0
+Sioux,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
+Sioux,Sheep Creek,U.S. House,3,Republican,Adrian Smith,244
+Sioux,Absentee/Early Vote,State Senate,47,,Karl Elmshaeuser,0
+Sioux,Bowen,State Senate,47,,Karl Elmshaeuser,60
+Sioux,Countywide,State Senate,47,,Karl Elmshaeuser,0
+Sioux,New/Former Resident,State Senate,47,,Karl Elmshaeuser,0
+Sioux,Sheep Creek,State Senate,47,,Karl Elmshaeuser,53
+Sioux,Absentee/Early Vote,State Senate,47,,Steve Erdman,0
+Sioux,Bowen,State Senate,47,,Steve Erdman,324
+Sioux,Countywide,State Senate,47,,Steve Erdman,0
+Sioux,New/Former Resident,State Senate,47,,Steve Erdman,0
+Sioux,Sheep Creek,State Senate,47,,Steve Erdman,194

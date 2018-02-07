@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,in_person_votes,early_votes,total_votes
+county,precinct,office,district,party,candidate,election_day,early_voting,votes
 Thomas,Thomas,President/Vice President,,REP,Trump/Pence,231,113,344
 Thomas,Thomas,President/Vice President,,DEM,Clinton/Kaine,21,9,30
 Thomas,Thomas,President/Vice President,,LIB,Johnson/Weld,4,6,10

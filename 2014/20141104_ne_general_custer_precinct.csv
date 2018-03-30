@@ -1,0 +1,741 @@
+county,precinct,office,district,party,candidate,votes
+Custer,Countywide,Senator,3,DEM,Dave Domina,0
+Custer,Absentee/Early Vote,Senator,3,DEM,Dave Domina,72
+Custer,MASON CITY,Senator,3,DEM,Dave Domina,10
+Custer,ARNOLD,Senator,3,DEM,Dave Domina,19
+Custer,ANSLEY/M/W,Senator,3,DEM,Dave Domina,30
+Custer,BB NORTH,Senator,3,DEM,Dave Domina,13
+Custer,BB NORTH RURAL,Senator,3,DEM,Dave Domina,12
+Custer,BB SOUTH,Senator,3,DEM,Dave Domina,47
+Custer,BB SOUTHWEST,Senator,3,DEM,Dave Domina,24
+Custer,BERWYN,Senator,3,DEM,Dave Domina,1
+Custer,CUSTER,Senator,3,DEM,Dave Domina,1
+Custer,EAST CUSTER,Senator,3,DEM,Dave Domina,1
+Custer,CLIFF,Senator,3,DEM,Dave Domina,2
+Custer,COMSTOCK,Senator,3,DEM,Dave Domina,16
+Custer,DOUGLAS GROVE,Senator,3,DEM,Dave Domina,4
+Custer,SPRING CREEK,Senator,3,DEM,Dave Domina,0
+Custer,DELIGHT,Senator,3,DEM,Dave Domina,10
+Custer,ELIM,Senator,3,DEM,Dave Domina,2
+Custer,TRIUMPH,Senator,3,DEM,Dave Domina,2
+Custer,GARFIELD,Senator,3,DEM,Dave Domina,0
+Custer,GRANT,Senator,3,DEM,Dave Domina,3
+Custer,KILFOIL,Senator,3,DEM,Dave Domina,24
+Custer,LOUP,Senator,3,DEM,Dave Domina,1
+Custer,LILLIAN,Senator,3,DEM,Dave Domina,3
+Custer,MILBURN,Senator,3,DEM,Dave Domina,2
+Custer,CORNER,Senator,3,DEM,Dave Domina,0
+Custer,SARGENT RURAL,Senator,3,DEM,Dave Domina,7
+Custer,WEST UNION,Senator,3,DEM,Dave Domina,0
+Custer,SARGENT VILLAGE,Senator,3,DEM,Dave Domina,24
+Custer,RYNO,Senator,3,DEM,Dave Domina,1
+Custer,ANSELMO,Senator,3,DEM,Dave Domina,16
+Custer,WOODRIVER,Senator,3,DEM,Dave Domina,12
+Custer,WAYNE,Senator,3,DEM,Dave Domina,1
+Custer,BB NORTHWEST,Senator,3,DEM,Dave Domina,48
+Custer,BB SOUTH RURAL,Senator,3,DEM,Dave Domina,12
+Custer,Absentee/Early Vote,Senator,3,DEM,Dave Domina,0
+Custer,Provisional,Senator,3,DEM,Dave Domina,0
+Custer,Countywide,Senator,3,ZZZ,Jim Jenkins,0
+Custer,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,145
+Custer,MASON CITY,Senator,3,ZZZ,Jim Jenkins,35
+Custer,ARNOLD,Senator,3,ZZZ,Jim Jenkins,55
+Custer,ANSLEY/M/W,Senator,3,ZZZ,Jim Jenkins,58
+Custer,BB NORTH,Senator,3,ZZZ,Jim Jenkins,38
+Custer,BB NORTH RURAL,Senator,3,ZZZ,Jim Jenkins,56
+Custer,BB SOUTH,Senator,3,ZZZ,Jim Jenkins,99
+Custer,BB SOUTHWEST,Senator,3,ZZZ,Jim Jenkins,68
+Custer,BERWYN,Senator,3,ZZZ,Jim Jenkins,28
+Custer,CUSTER,Senator,3,ZZZ,Jim Jenkins,26
+Custer,EAST CUSTER,Senator,3,ZZZ,Jim Jenkins,5
+Custer,CLIFF,Senator,3,ZZZ,Jim Jenkins,19
+Custer,COMSTOCK,Senator,3,ZZZ,Jim Jenkins,4
+Custer,DOUGLAS GROVE,Senator,3,ZZZ,Jim Jenkins,10
+Custer,SPRING CREEK,Senator,3,ZZZ,Jim Jenkins,1
+Custer,DELIGHT,Senator,3,ZZZ,Jim Jenkins,177
+Custer,ELIM,Senator,3,ZZZ,Jim Jenkins,10
+Custer,TRIUMPH,Senator,3,ZZZ,Jim Jenkins,16
+Custer,GARFIELD,Senator,3,ZZZ,Jim Jenkins,14
+Custer,GRANT,Senator,3,ZZZ,Jim Jenkins,5
+Custer,KILFOIL,Senator,3,ZZZ,Jim Jenkins,72
+Custer,LOUP,Senator,3,ZZZ,Jim Jenkins,9
+Custer,LILLIAN,Senator,3,ZZZ,Jim Jenkins,5
+Custer,MILBURN,Senator,3,ZZZ,Jim Jenkins,3
+Custer,CORNER,Senator,3,ZZZ,Jim Jenkins,1
+Custer,SARGENT RURAL,Senator,3,ZZZ,Jim Jenkins,15
+Custer,WEST UNION,Senator,3,ZZZ,Jim Jenkins,6
+Custer,SARGENT VILLAGE,Senator,3,ZZZ,Jim Jenkins,18
+Custer,RYNO,Senator,3,ZZZ,Jim Jenkins,8
+Custer,ANSELMO,Senator,3,ZZZ,Jim Jenkins,45
+Custer,WOODRIVER,Senator,3,ZZZ,Jim Jenkins,46
+Custer,WAYNE,Senator,3,ZZZ,Jim Jenkins,4
+Custer,BB NORTHWEST,Senator,3,ZZZ,Jim Jenkins,99
+Custer,BB SOUTH RURAL,Senator,3,ZZZ,Jim Jenkins,55
+Custer,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,0
+Custer,Provisional,Senator,3,ZZZ,Jim Jenkins,0
+Custer,Countywide,Senator,3,REP,Ben Sasse,0
+Custer,Absentee/Early Vote,Senator,3,REP,Ben Sasse,322
+Custer,MASON CITY,Senator,3,REP,Ben Sasse,91
+Custer,ARNOLD,Senator,3,REP,Ben Sasse,228
+Custer,ANSLEY/M/W,Senator,3,REP,Ben Sasse,191
+Custer,BB NORTH,Senator,3,REP,Ben Sasse,48
+Custer,BB NORTH RURAL,Senator,3,REP,Ben Sasse,85
+Custer,BB SOUTH,Senator,3,REP,Ben Sasse,241
+Custer,BB SOUTHWEST,Senator,3,REP,Ben Sasse,107
+Custer,BERWYN,Senator,3,REP,Ben Sasse,55
+Custer,CUSTER,Senator,3,REP,Ben Sasse,11
+Custer,EAST CUSTER,Senator,3,REP,Ben Sasse,12
+Custer,CLIFF,Senator,3,REP,Ben Sasse,28
+Custer,COMSTOCK,Senator,3,REP,Ben Sasse,23
+Custer,DOUGLAS GROVE,Senator,3,REP,Ben Sasse,18
+Custer,SPRING CREEK,Senator,3,REP,Ben Sasse,5
+Custer,DELIGHT,Senator,3,REP,Ben Sasse,108
+Custer,ELIM,Senator,3,REP,Ben Sasse,38
+Custer,TRIUMPH,Senator,3,REP,Ben Sasse,29
+Custer,GARFIELD,Senator,3,REP,Ben Sasse,36
+Custer,GRANT,Senator,3,REP,Ben Sasse,7
+Custer,KILFOIL,Senator,3,REP,Ben Sasse,134
+Custer,LOUP,Senator,3,REP,Ben Sasse,30
+Custer,LILLIAN,Senator,3,REP,Ben Sasse,29
+Custer,MILBURN,Senator,3,REP,Ben Sasse,10
+Custer,CORNER,Senator,3,REP,Ben Sasse,5
+Custer,SARGENT RURAL,Senator,3,REP,Ben Sasse,32
+Custer,WEST UNION,Senator,3,REP,Ben Sasse,23
+Custer,SARGENT VILLAGE,Senator,3,REP,Ben Sasse,121
+Custer,RYNO,Senator,3,REP,Ben Sasse,22
+Custer,ANSELMO,Senator,3,REP,Ben Sasse,86
+Custer,WOODRIVER,Senator,3,REP,Ben Sasse,46
+Custer,WAYNE,Senator,3,REP,Ben Sasse,30
+Custer,BB NORTHWEST,Senator,3,REP,Ben Sasse,196
+Custer,BB SOUTH RURAL,Senator,3,REP,Ben Sasse,89
+Custer,Absentee/Early Vote,Senator,3,REP,Ben Sasse,0
+Custer,Provisional,Senator,3,REP,Ben Sasse,0
+Custer,Countywide,Senator,3,ZZZ,Todd F. Watson,0
+Custer,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,15
+Custer,MASON CITY,Senator,3,ZZZ,Todd F. Watson,0
+Custer,ARNOLD,Senator,3,ZZZ,Todd F. Watson,5
+Custer,ANSLEY/M/W,Senator,3,ZZZ,Todd F. Watson,5
+Custer,BB NORTH,Senator,3,ZZZ,Todd F. Watson,1
+Custer,BB NORTH RURAL,Senator,3,ZZZ,Todd F. Watson,1
+Custer,BB SOUTH,Senator,3,ZZZ,Todd F. Watson,7
+Custer,BB SOUTHWEST,Senator,3,ZZZ,Todd F. Watson,1
+Custer,BERWYN,Senator,3,ZZZ,Todd F. Watson,0
+Custer,CUSTER,Senator,3,ZZZ,Todd F. Watson,0
+Custer,EAST CUSTER,Senator,3,ZZZ,Todd F. Watson,0
+Custer,CLIFF,Senator,3,ZZZ,Todd F. Watson,1
+Custer,COMSTOCK,Senator,3,ZZZ,Todd F. Watson,1
+Custer,DOUGLAS GROVE,Senator,3,ZZZ,Todd F. Watson,0
+Custer,SPRING CREEK,Senator,3,ZZZ,Todd F. Watson,1
+Custer,DELIGHT,Senator,3,ZZZ,Todd F. Watson,4
+Custer,ELIM,Senator,3,ZZZ,Todd F. Watson,1
+Custer,TRIUMPH,Senator,3,ZZZ,Todd F. Watson,2
+Custer,GARFIELD,Senator,3,ZZZ,Todd F. Watson,3
+Custer,GRANT,Senator,3,ZZZ,Todd F. Watson,0
+Custer,KILFOIL,Senator,3,ZZZ,Todd F. Watson,1
+Custer,LOUP,Senator,3,ZZZ,Todd F. Watson,2
+Custer,LILLIAN,Senator,3,ZZZ,Todd F. Watson,1
+Custer,MILBURN,Senator,3,ZZZ,Todd F. Watson,0
+Custer,CORNER,Senator,3,ZZZ,Todd F. Watson,0
+Custer,SARGENT RURAL,Senator,3,ZZZ,Todd F. Watson,1
+Custer,WEST UNION,Senator,3,ZZZ,Todd F. Watson,0
+Custer,SARGENT VILLAGE,Senator,3,ZZZ,Todd F. Watson,0
+Custer,RYNO,Senator,3,ZZZ,Todd F. Watson,0
+Custer,ANSELMO,Senator,3,ZZZ,Todd F. Watson,2
+Custer,WOODRIVER,Senator,3,ZZZ,Todd F. Watson,2
+Custer,WAYNE,Senator,3,ZZZ,Todd F. Watson,0
+Custer,BB NORTHWEST,Senator,3,ZZZ,Todd F. Watson,4
+Custer,BB SOUTH RURAL,Senator,3,ZZZ,Todd F. Watson,0
+Custer,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,0
+Custer,Provisional,Senator,3,ZZZ,Todd F. Watson,0
+Custer,Countywide,Representative,3,REP,Adrian Smith,0
+Custer,Absentee/Early Vote,Representative,3,REP,Adrian Smith,417
+Custer,MASON CITY,Representative,3,REP,Adrian Smith,111
+Custer,ARNOLD,Representative,3,REP,Adrian Smith,271
+Custer,ANSLEY/M/W,Representative,3,REP,Adrian Smith,227
+Custer,BB NORTH,Representative,3,REP,Adrian Smith,77
+Custer,BB NORTH RURAL,Representative,3,REP,Adrian Smith,134
+Custer,BB SOUTH,Representative,3,REP,Adrian Smith,304
+Custer,BB SOUTHWEST,Representative,3,REP,Adrian Smith,158
+Custer,BERWYN,Representative,3,REP,Adrian Smith,68
+Custer,CUSTER,Representative,3,REP,Adrian Smith,27
+Custer,EAST CUSTER,Representative,3,REP,Adrian Smith,15
+Custer,CLIFF,Representative,3,REP,Adrian Smith,44
+Custer,COMSTOCK,Representative,3,REP,Adrian Smith,24
+Custer,DOUGLAS GROVE,Representative,3,REP,Adrian Smith,22
+Custer,SPRING CREEK,Representative,3,REP,Adrian Smith,4
+Custer,DELIGHT,Representative,3,REP,Adrian Smith,232
+Custer,ELIM,Representative,3,REP,Adrian Smith,49
+Custer,TRIUMPH,Representative,3,REP,Adrian Smith,39
+Custer,GARFIELD,Representative,3,REP,Adrian Smith,46
+Custer,GRANT,Representative,3,REP,Adrian Smith,12
+Custer,KILFOIL,Representative,3,REP,Adrian Smith,196
+Custer,LOUP,Representative,3,REP,Adrian Smith,36
+Custer,LILLIAN,Representative,3,REP,Adrian Smith,36
+Custer,MILBURN,Representative,3,REP,Adrian Smith,12
+Custer,CORNER,Representative,3,REP,Adrian Smith,6
+Custer,SARGENT RURAL,Representative,3,REP,Adrian Smith,41
+Custer,WEST UNION,Representative,3,REP,Adrian Smith,26
+Custer,SARGENT VILLAGE,Representative,3,REP,Adrian Smith,127
+Custer,RYNO,Representative,3,REP,Adrian Smith,28
+Custer,ANSELMO,Representative,3,REP,Adrian Smith,110
+Custer,WOODRIVER,Representative,3,REP,Adrian Smith,79
+Custer,WAYNE,Representative,3,REP,Adrian Smith,33
+Custer,BB NORTHWEST,Representative,3,REP,Adrian Smith,268
+Custer,BB SOUTH RURAL,Representative,3,REP,Adrian Smith,122
+Custer,Absentee/Early Vote,Representative,3,REP,Adrian Smith,0
+Custer,Provisional,Representative,3,REP,Adrian Smith,0
+Custer,Countywide,Representative,3,DEM,Mark Sullivan,0
+Custer,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,124
+Custer,MASON CITY,Representative,3,DEM,Mark Sullivan,23
+Custer,ARNOLD,Representative,3,DEM,Mark Sullivan,38
+Custer,ANSLEY/M/W,Representative,3,DEM,Mark Sullivan,54
+Custer,BB NORTH,Representative,3,DEM,Mark Sullivan,20
+Custer,BB NORTH RURAL,Representative,3,DEM,Mark Sullivan,15
+Custer,BB SOUTH,Representative,3,DEM,Mark Sullivan,90
+Custer,BB SOUTHWEST,Representative,3,DEM,Mark Sullivan,42
+Custer,BERWYN,Representative,3,DEM,Mark Sullivan,15
+Custer,CUSTER,Representative,3,DEM,Mark Sullivan,10
+Custer,EAST CUSTER,Representative,3,DEM,Mark Sullivan,3
+Custer,CLIFF,Representative,3,DEM,Mark Sullivan,5
+Custer,COMSTOCK,Representative,3,DEM,Mark Sullivan,19
+Custer,DOUGLAS GROVE,Representative,3,DEM,Mark Sullivan,9
+Custer,SPRING CREEK,Representative,3,DEM,Mark Sullivan,3
+Custer,DELIGHT,Representative,3,DEM,Mark Sullivan,64
+Custer,ELIM,Representative,3,DEM,Mark Sullivan,3
+Custer,TRIUMPH,Representative,3,DEM,Mark Sullivan,8
+Custer,GARFIELD,Representative,3,DEM,Mark Sullivan,6
+Custer,GRANT,Representative,3,DEM,Mark Sullivan,3
+Custer,KILFOIL,Representative,3,DEM,Mark Sullivan,34
+Custer,LOUP,Representative,3,DEM,Mark Sullivan,5
+Custer,LILLIAN,Representative,3,DEM,Mark Sullivan,3
+Custer,MILBURN,Representative,3,DEM,Mark Sullivan,3
+Custer,CORNER,Representative,3,DEM,Mark Sullivan,0
+Custer,SARGENT RURAL,Representative,3,DEM,Mark Sullivan,13
+Custer,WEST UNION,Representative,3,DEM,Mark Sullivan,2
+Custer,SARGENT VILLAGE,Representative,3,DEM,Mark Sullivan,35
+Custer,RYNO,Representative,3,DEM,Mark Sullivan,3
+Custer,ANSELMO,Representative,3,DEM,Mark Sullivan,39
+Custer,WOODRIVER,Representative,3,DEM,Mark Sullivan,25
+Custer,WAYNE,Representative,3,DEM,Mark Sullivan,1
+Custer,BB NORTHWEST,Representative,3,DEM,Mark Sullivan,77
+Custer,BB SOUTH RURAL,Representative,3,DEM,Mark Sullivan,31
+Custer,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,0
+Custer,Provisional,Representative,3,DEM,Mark Sullivan,0
+Custer,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Custer,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,169
+Custer,MASON CITY,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,29
+Custer,ARNOLD,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,54
+Custer,ANSLEY/M/W,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,79
+Custer,BB NORTH,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,31
+Custer,BB NORTH RURAL,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,38
+Custer,BB SOUTH,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,134
+Custer,BB SOUTHWEST,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,63
+Custer,BERWYN,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,21
+Custer,CUSTER,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,9
+Custer,EAST CUSTER,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,2
+Custer,CLIFF,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,9
+Custer,COMSTOCK,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,25
+Custer,DOUGLAS GROVE,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,14
+Custer,SPRING CREEK,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,4
+Custer,DELIGHT,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,98
+Custer,ELIM,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,10
+Custer,TRIUMPH,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,11
+Custer,GARFIELD,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,14
+Custer,GRANT,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,1
+Custer,KILFOIL,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,60
+Custer,LOUP,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,10
+Custer,LILLIAN,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,5
+Custer,MILBURN,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,4
+Custer,CORNER,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,1
+Custer,SARGENT RURAL,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,20
+Custer,WEST UNION,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,4
+Custer,SARGENT VILLAGE,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,57
+Custer,RYNO,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,9
+Custer,ANSELMO,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,55
+Custer,WOODRIVER,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,39
+Custer,WAYNE,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,3
+Custer,BB NORTHWEST,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,129
+Custer,BB SOUTH RURAL,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,38
+Custer,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Custer,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Custer,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Custer,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,344
+Custer,MASON CITY,Governor,3,REP,Pete Ricketts and Mike Foley,97
+Custer,ARNOLD,Governor,3,REP,Pete Ricketts and Mike Foley,242
+Custer,ANSLEY/M/W,Governor,3,REP,Pete Ricketts and Mike Foley,188
+Custer,BB NORTH,Governor,3,REP,Pete Ricketts and Mike Foley,65
+Custer,BB NORTH RURAL,Governor,3,REP,Pete Ricketts and Mike Foley,111
+Custer,BB SOUTH,Governor,3,REP,Pete Ricketts and Mike Foley,230
+Custer,BB SOUTHWEST,Governor,3,REP,Pete Ricketts and Mike Foley,117
+Custer,BERWYN,Governor,3,REP,Pete Ricketts and Mike Foley,54
+Custer,CUSTER,Governor,3,REP,Pete Ricketts and Mike Foley,29
+Custer,EAST CUSTER,Governor,3,REP,Pete Ricketts and Mike Foley,16
+Custer,CLIFF,Governor,3,REP,Pete Ricketts and Mike Foley,40
+Custer,COMSTOCK,Governor,3,REP,Pete Ricketts and Mike Foley,16
+Custer,DOUGLAS GROVE,Governor,3,REP,Pete Ricketts and Mike Foley,15
+Custer,SPRING CREEK,Governor,3,REP,Pete Ricketts and Mike Foley,3
+Custer,DELIGHT,Governor,3,REP,Pete Ricketts and Mike Foley,177
+Custer,ELIM,Governor,3,REP,Pete Ricketts and Mike Foley,40
+Custer,TRIUMPH,Governor,3,REP,Pete Ricketts and Mike Foley,33
+Custer,GARFIELD,Governor,3,REP,Pete Ricketts and Mike Foley,33
+Custer,GRANT,Governor,3,REP,Pete Ricketts and Mike Foley,13
+Custer,KILFOIL,Governor,3,REP,Pete Ricketts and Mike Foley,159
+Custer,LOUP,Governor,3,REP,Pete Ricketts and Mike Foley,28
+Custer,LILLIAN,Governor,3,REP,Pete Ricketts and Mike Foley,28
+Custer,MILBURN,Governor,3,REP,Pete Ricketts and Mike Foley,11
+Custer,CORNER,Governor,3,REP,Pete Ricketts and Mike Foley,5
+Custer,SARGENT RURAL,Governor,3,REP,Pete Ricketts and Mike Foley,30
+Custer,WEST UNION,Governor,3,REP,Pete Ricketts and Mike Foley,24
+Custer,SARGENT VILLAGE,Governor,3,REP,Pete Ricketts and Mike Foley,92
+Custer,RYNO,Governor,3,REP,Pete Ricketts and Mike Foley,22
+Custer,ANSELMO,Governor,3,REP,Pete Ricketts and Mike Foley,83
+Custer,WOODRIVER,Governor,3,REP,Pete Ricketts and Mike Foley,60
+Custer,WAYNE,Governor,3,REP,Pete Ricketts and Mike Foley,31
+Custer,BB NORTHWEST,Governor,3,REP,Pete Ricketts and Mike Foley,197
+Custer,BB SOUTH RURAL,Governor,3,REP,Pete Ricketts and Mike Foley,108
+Custer,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Custer,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Custer,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Custer,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,24
+Custer,MASON CITY,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Custer,ARNOLD,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,11
+Custer,ANSLEY/M/W,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,17
+Custer,BB NORTH,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,2
+Custer,BB NORTH RURAL,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,4
+Custer,BB SOUTH,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,20
+Custer,BB SOUTHWEST,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,11
+Custer,BERWYN,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+Custer,CUSTER,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,1
+Custer,EAST CUSTER,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Custer,CLIFF,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,1
+Custer,COMSTOCK,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,3
+Custer,DOUGLAS GROVE,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,2
+Custer,SPRING CREEK,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Custer,DELIGHT,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,19
+Custer,ELIM,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,2
+Custer,TRIUMPH,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,3
+Custer,GARFIELD,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,3
+Custer,GRANT,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,1
+Custer,KILFOIL,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+Custer,LOUP,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,1
+Custer,LILLIAN,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,3
+Custer,MILBURN,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Custer,CORNER,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Custer,SARGENT RURAL,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,3
+Custer,WEST UNION,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Custer,SARGENT VILLAGE,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,11
+Custer,RYNO,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Custer,ANSELMO,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,11
+Custer,WOODRIVER,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Custer,WAYNE,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,1
+Custer,BB NORTHWEST,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,18
+Custer,BB SOUTH RURAL,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,3
+Custer,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Custer,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Custer,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Custer,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,79
+Custer,MASON CITY,Secretary of State,3,LIB,Ben Backus,20
+Custer,ARNOLD,Secretary of State,3,LIB,Ben Backus,34
+Custer,ANSLEY/M/W,Secretary of State,3,LIB,Ben Backus,37
+Custer,BB NORTH,Secretary of State,3,LIB,Ben Backus,16
+Custer,BB NORTH RURAL,Secretary of State,3,LIB,Ben Backus,12
+Custer,BB SOUTH,Secretary of State,3,LIB,Ben Backus,65
+Custer,BB SOUTHWEST,Secretary of State,3,LIB,Ben Backus,30
+Custer,BERWYN,Secretary of State,3,LIB,Ben Backus,10
+Custer,CUSTER,Secretary of State,3,LIB,Ben Backus,3
+Custer,EAST CUSTER,Secretary of State,3,LIB,Ben Backus,2
+Custer,CLIFF,Secretary of State,3,LIB,Ben Backus,4
+Custer,COMSTOCK,Secretary of State,3,LIB,Ben Backus,15
+Custer,DOUGLAS GROVE,Secretary of State,3,LIB,Ben Backus,7
+Custer,SPRING CREEK,Secretary of State,3,LIB,Ben Backus,1
+Custer,DELIGHT,Secretary of State,3,LIB,Ben Backus,44
+Custer,ELIM,Secretary of State,3,LIB,Ben Backus,3
+Custer,TRIUMPH,Secretary of State,3,LIB,Ben Backus,8
+Custer,GARFIELD,Secretary of State,3,LIB,Ben Backus,5
+Custer,GRANT,Secretary of State,3,LIB,Ben Backus,3
+Custer,KILFOIL,Secretary of State,3,LIB,Ben Backus,21
+Custer,LOUP,Secretary of State,3,LIB,Ben Backus,3
+Custer,LILLIAN,Secretary of State,3,LIB,Ben Backus,2
+Custer,MILBURN,Secretary of State,3,LIB,Ben Backus,1
+Custer,CORNER,Secretary of State,3,LIB,Ben Backus,0
+Custer,SARGENT RURAL,Secretary of State,3,LIB,Ben Backus,5
+Custer,WEST UNION,Secretary of State,3,LIB,Ben Backus,4
+Custer,SARGENT VILLAGE,Secretary of State,3,LIB,Ben Backus,34
+Custer,RYNO,Secretary of State,3,LIB,Ben Backus,2
+Custer,ANSELMO,Secretary of State,3,LIB,Ben Backus,21
+Custer,WOODRIVER,Secretary of State,3,LIB,Ben Backus,16
+Custer,WAYNE,Secretary of State,3,LIB,Ben Backus,1
+Custer,BB NORTHWEST,Secretary of State,3,LIB,Ben Backus,53
+Custer,BB SOUTH RURAL,Secretary of State,3,LIB,Ben Backus,26
+Custer,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Custer,Provisional,Secretary of State,3,LIB,Ben Backus,0
+Custer,Countywide,Secretary of State,3,REP,John A. Gale,0
+Custer,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,415
+Custer,MASON CITY,Secretary of State,3,REP,John A. Gale,102
+Custer,ARNOLD,Secretary of State,3,REP,John A. Gale,266
+Custer,ANSLEY/M/W,Secretary of State,3,REP,John A. Gale,226
+Custer,BB NORTH,Secretary of State,3,REP,John A. Gale,71
+Custer,BB NORTH RURAL,Secretary of State,3,REP,John A. Gale,128
+Custer,BB SOUTH,Secretary of State,3,REP,John A. Gale,293
+Custer,BB SOUTHWEST,Secretary of State,3,REP,John A. Gale,150
+Custer,BERWYN,Secretary of State,3,REP,John A. Gale,69
+Custer,CUSTER,Secretary of State,3,REP,John A. Gale,27
+Custer,EAST CUSTER,Secretary of State,3,REP,John A. Gale,14
+Custer,CLIFF,Secretary of State,3,REP,John A. Gale,42
+Custer,COMSTOCK,Secretary of State,3,REP,John A. Gale,24
+Custer,DOUGLAS GROVE,Secretary of State,3,REP,John A. Gale,21
+Custer,SPRING CREEK,Secretary of State,3,REP,John A. Gale,6
+Custer,DELIGHT,Secretary of State,3,REP,John A. Gale,228
+Custer,ELIM,Secretary of State,3,REP,John A. Gale,45
+Custer,TRIUMPH,Secretary of State,3,REP,John A. Gale,37
+Custer,GARFIELD,Secretary of State,3,REP,John A. Gale,43
+Custer,GRANT,Secretary of State,3,REP,John A. Gale,12
+Custer,KILFOIL,Secretary of State,3,REP,John A. Gale,191
+Custer,LOUP,Secretary of State,3,REP,John A. Gale,36
+Custer,LILLIAN,Secretary of State,3,REP,John A. Gale,30
+Custer,MILBURN,Secretary of State,3,REP,John A. Gale,12
+Custer,CORNER,Secretary of State,3,REP,John A. Gale,6
+Custer,SARGENT RURAL,Secretary of State,3,REP,John A. Gale,42
+Custer,WEST UNION,Secretary of State,3,REP,John A. Gale,25
+Custer,SARGENT VILLAGE,Secretary of State,3,REP,John A. Gale,117
+Custer,RYNO,Secretary of State,3,REP,John A. Gale,26
+Custer,ANSELMO,Secretary of State,3,REP,John A. Gale,111
+Custer,WOODRIVER,Secretary of State,3,REP,John A. Gale,78
+Custer,WAYNE,Secretary of State,3,REP,John A. Gale,33
+Custer,BB NORTHWEST,Secretary of State,3,REP,John A. Gale,254
+Custer,BB SOUTH RURAL,Secretary of State,3,REP,John A. Gale,120
+Custer,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Custer,Provisional,Secretary of State,3,REP,John A. Gale,0
+Custer,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Custer,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,34
+Custer,MASON CITY,State Treasurer,3,LIB,Michael Knebel,4
+Custer,ARNOLD,State Treasurer,3,LIB,Michael Knebel,10
+Custer,ANSLEY/M/W,State Treasurer,3,LIB,Michael Knebel,24
+Custer,BB NORTH,State Treasurer,3,LIB,Michael Knebel,5
+Custer,BB NORTH RURAL,State Treasurer,3,LIB,Michael Knebel,4
+Custer,BB SOUTH,State Treasurer,3,LIB,Michael Knebel,24
+Custer,BB SOUTHWEST,State Treasurer,3,LIB,Michael Knebel,10
+Custer,BERWYN,State Treasurer,3,LIB,Michael Knebel,5
+Custer,CUSTER,State Treasurer,3,LIB,Michael Knebel,2
+Custer,EAST CUSTER,State Treasurer,3,LIB,Michael Knebel,1
+Custer,CLIFF,State Treasurer,3,LIB,Michael Knebel,3
+Custer,COMSTOCK,State Treasurer,3,LIB,Michael Knebel,6
+Custer,DOUGLAS GROVE,State Treasurer,3,LIB,Michael Knebel,0
+Custer,SPRING CREEK,State Treasurer,3,LIB,Michael Knebel,1
+Custer,DELIGHT,State Treasurer,3,LIB,Michael Knebel,22
+Custer,ELIM,State Treasurer,3,LIB,Michael Knebel,0
+Custer,TRIUMPH,State Treasurer,3,LIB,Michael Knebel,3
+Custer,GARFIELD,State Treasurer,3,LIB,Michael Knebel,2
+Custer,GRANT,State Treasurer,3,LIB,Michael Knebel,0
+Custer,KILFOIL,State Treasurer,3,LIB,Michael Knebel,7
+Custer,LOUP,State Treasurer,3,LIB,Michael Knebel,1
+Custer,LILLIAN,State Treasurer,3,LIB,Michael Knebel,1
+Custer,MILBURN,State Treasurer,3,LIB,Michael Knebel,0
+Custer,CORNER,State Treasurer,3,LIB,Michael Knebel,0
+Custer,SARGENT RURAL,State Treasurer,3,LIB,Michael Knebel,3
+Custer,WEST UNION,State Treasurer,3,LIB,Michael Knebel,3
+Custer,SARGENT VILLAGE,State Treasurer,3,LIB,Michael Knebel,8
+Custer,RYNO,State Treasurer,3,LIB,Michael Knebel,1
+Custer,ANSELMO,State Treasurer,3,LIB,Michael Knebel,6
+Custer,WOODRIVER,State Treasurer,3,LIB,Michael Knebel,8
+Custer,WAYNE,State Treasurer,3,LIB,Michael Knebel,1
+Custer,BB NORTHWEST,State Treasurer,3,LIB,Michael Knebel,15
+Custer,BB SOUTH RURAL,State Treasurer,3,LIB,Michael Knebel,8
+Custer,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Custer,Provisional,State Treasurer,3,LIB,Michael Knebel,0
+Custer,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Custer,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,91
+Custer,MASON CITY,State Treasurer,3,DEM,Michael J. O'Hara,10
+Custer,ARNOLD,State Treasurer,3,DEM,Michael J. O'Hara,34
+Custer,ANSLEY/M/W,State Treasurer,3,DEM,Michael J. O'Hara,21
+Custer,BB NORTH,State Treasurer,3,DEM,Michael J. O'Hara,13
+Custer,BB NORTH RURAL,State Treasurer,3,DEM,Michael J. O'Hara,6
+Custer,BB SOUTH,State Treasurer,3,DEM,Michael J. O'Hara,53
+Custer,BB SOUTHWEST,State Treasurer,3,DEM,Michael J. O'Hara,37
+Custer,BERWYN,State Treasurer,3,DEM,Michael J. O'Hara,2
+Custer,CUSTER,State Treasurer,3,DEM,Michael J. O'Hara,6
+Custer,EAST CUSTER,State Treasurer,3,DEM,Michael J. O'Hara,1
+Custer,CLIFF,State Treasurer,3,DEM,Michael J. O'Hara,3
+Custer,COMSTOCK,State Treasurer,3,DEM,Michael J. O'Hara,14
+Custer,DOUGLAS GROVE,State Treasurer,3,DEM,Michael J. O'Hara,9
+Custer,SPRING CREEK,State Treasurer,3,DEM,Michael J. O'Hara,1
+Custer,DELIGHT,State Treasurer,3,DEM,Michael J. O'Hara,27
+Custer,ELIM,State Treasurer,3,DEM,Michael J. O'Hara,2
+Custer,TRIUMPH,State Treasurer,3,DEM,Michael J. O'Hara,5
+Custer,GARFIELD,State Treasurer,3,DEM,Michael J. O'Hara,4
+Custer,GRANT,State Treasurer,3,DEM,Michael J. O'Hara,2
+Custer,KILFOIL,State Treasurer,3,DEM,Michael J. O'Hara,22
+Custer,LOUP,State Treasurer,3,DEM,Michael J. O'Hara,2
+Custer,LILLIAN,State Treasurer,3,DEM,Michael J. O'Hara,2
+Custer,MILBURN,State Treasurer,3,DEM,Michael J. O'Hara,0
+Custer,CORNER,State Treasurer,3,DEM,Michael J. O'Hara,0
+Custer,SARGENT RURAL,State Treasurer,3,DEM,Michael J. O'Hara,6
+Custer,WEST UNION,State Treasurer,3,DEM,Michael J. O'Hara,1
+Custer,SARGENT VILLAGE,State Treasurer,3,DEM,Michael J. O'Hara,21
+Custer,RYNO,State Treasurer,3,DEM,Michael J. O'Hara,1
+Custer,ANSELMO,State Treasurer,3,DEM,Michael J. O'Hara,19
+Custer,WOODRIVER,State Treasurer,3,DEM,Michael J. O'Hara,11
+Custer,WAYNE,State Treasurer,3,DEM,Michael J. O'Hara,1
+Custer,BB NORTHWEST,State Treasurer,3,DEM,Michael J. O'Hara,51
+Custer,BB SOUTH RURAL,State Treasurer,3,DEM,Michael J. O'Hara,20
+Custer,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Custer,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,0
+Custer,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Custer,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,399
+Custer,MASON CITY,State Treasurer,3,REP,Don Stenberg,116
+Custer,ARNOLD,State Treasurer,3,REP,Don Stenberg,257
+Custer,ANSLEY/M/W,State Treasurer,3,REP,Don Stenberg,229
+Custer,BB NORTH,State Treasurer,3,REP,Don Stenberg,70
+Custer,BB NORTH RURAL,State Treasurer,3,REP,Don Stenberg,137
+Custer,BB SOUTH,State Treasurer,3,REP,Don Stenberg,300
+Custer,BB SOUTHWEST,State Treasurer,3,REP,Don Stenberg,146
+Custer,BERWYN,State Treasurer,3,REP,Don Stenberg,74
+Custer,CUSTER,State Treasurer,3,REP,Don Stenberg,26
+Custer,EAST CUSTER,State Treasurer,3,REP,Don Stenberg,15
+Custer,CLIFF,State Treasurer,3,REP,Don Stenberg,42
+Custer,COMSTOCK,State Treasurer,3,REP,Don Stenberg,24
+Custer,DOUGLAS GROVE,State Treasurer,3,REP,Don Stenberg,20
+Custer,SPRING CREEK,State Treasurer,3,REP,Don Stenberg,5
+Custer,DELIGHT,State Treasurer,3,REP,Don Stenberg,236
+Custer,ELIM,State Treasurer,3,REP,Don Stenberg,48
+Custer,TRIUMPH,State Treasurer,3,REP,Don Stenberg,39
+Custer,GARFIELD,State Treasurer,3,REP,Don Stenberg,44
+Custer,GRANT,State Treasurer,3,REP,Don Stenberg,12
+Custer,KILFOIL,State Treasurer,3,REP,Don Stenberg,197
+Custer,LOUP,State Treasurer,3,REP,Don Stenberg,38
+Custer,LILLIAN,State Treasurer,3,REP,Don Stenberg,32
+Custer,MILBURN,State Treasurer,3,REP,Don Stenberg,12
+Custer,CORNER,State Treasurer,3,REP,Don Stenberg,6
+Custer,SARGENT RURAL,State Treasurer,3,REP,Don Stenberg,41
+Custer,WEST UNION,State Treasurer,3,REP,Don Stenberg,25
+Custer,SARGENT VILLAGE,State Treasurer,3,REP,Don Stenberg,130
+Custer,RYNO,State Treasurer,3,REP,Don Stenberg,25
+Custer,ANSELMO,State Treasurer,3,REP,Don Stenberg,117
+Custer,WOODRIVER,State Treasurer,3,REP,Don Stenberg,80
+Custer,WAYNE,State Treasurer,3,REP,Don Stenberg,31
+Custer,BB NORTHWEST,State Treasurer,3,REP,Don Stenberg,264
+Custer,BB SOUTH RURAL,State Treasurer,3,REP,Don Stenberg,121
+Custer,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Custer,Provisional,State Treasurer,3,REP,Don Stenberg,0
+Custer,Countywide,Attorney General,3,REP,Doug Peterson,0
+Custer,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,371
+Custer,MASON CITY,Attorney General,3,REP,Doug Peterson,104
+Custer,ARNOLD,Attorney General,3,REP,Doug Peterson,257
+Custer,ANSLEY/M/W,Attorney General,3,REP,Doug Peterson,223
+Custer,BB NORTH,Attorney General,3,REP,Doug Peterson,73
+Custer,BB NORTH RURAL,Attorney General,3,REP,Doug Peterson,124
+Custer,BB SOUTH,Attorney General,3,REP,Doug Peterson,291
+Custer,BB SOUTHWEST,Attorney General,3,REP,Doug Peterson,143
+Custer,BERWYN,Attorney General,3,REP,Doug Peterson,64
+Custer,CUSTER,Attorney General,3,REP,Doug Peterson,26
+Custer,EAST CUSTER,Attorney General,3,REP,Doug Peterson,14
+Custer,CLIFF,Attorney General,3,REP,Doug Peterson,40
+Custer,COMSTOCK,Attorney General,3,REP,Doug Peterson,25
+Custer,DOUGLAS GROVE,Attorney General,3,REP,Doug Peterson,18
+Custer,SPRING CREEK,Attorney General,3,REP,Doug Peterson,5
+Custer,DELIGHT,Attorney General,3,REP,Doug Peterson,223
+Custer,ELIM,Attorney General,3,REP,Doug Peterson,46
+Custer,TRIUMPH,Attorney General,3,REP,Doug Peterson,35
+Custer,GARFIELD,Attorney General,3,REP,Doug Peterson,41
+Custer,GRANT,Attorney General,3,REP,Doug Peterson,10
+Custer,KILFOIL,Attorney General,3,REP,Doug Peterson,186
+Custer,LOUP,Attorney General,3,REP,Doug Peterson,33
+Custer,LILLIAN,Attorney General,3,REP,Doug Peterson,33
+Custer,MILBURN,Attorney General,3,REP,Doug Peterson,11
+Custer,CORNER,Attorney General,3,REP,Doug Peterson,6
+Custer,SARGENT RURAL,Attorney General,3,REP,Doug Peterson,34
+Custer,WEST UNION,Attorney General,3,REP,Doug Peterson,25
+Custer,SARGENT VILLAGE,Attorney General,3,REP,Doug Peterson,119
+Custer,RYNO,Attorney General,3,REP,Doug Peterson,23
+Custer,ANSELMO,Attorney General,3,REP,Doug Peterson,99
+Custer,WOODRIVER,Attorney General,3,REP,Doug Peterson,72
+Custer,WAYNE,Attorney General,3,REP,Doug Peterson,34
+Custer,BB NORTHWEST,Attorney General,3,REP,Doug Peterson,255
+Custer,BB SOUTH RURAL,Attorney General,3,REP,Doug Peterson,117
+Custer,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Custer,Provisional,Attorney General,3,REP,Doug Peterson,0
+Custer,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Custer,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,130
+Custer,MASON CITY,Attorney General,3,DEM,Janet Stewart,21
+Custer,ARNOLD,Attorney General,3,DEM,Janet Stewart,42
+Custer,ANSLEY/M/W,Attorney General,3,DEM,Janet Stewart,47
+Custer,BB NORTH,Attorney General,3,DEM,Janet Stewart,17
+Custer,BB NORTH RURAL,Attorney General,3,DEM,Janet Stewart,19
+Custer,BB SOUTH,Attorney General,3,DEM,Janet Stewart,78
+Custer,BB SOUTHWEST,Attorney General,3,DEM,Janet Stewart,43
+Custer,BERWYN,Attorney General,3,DEM,Janet Stewart,12
+Custer,CUSTER,Attorney General,3,DEM,Janet Stewart,9
+Custer,EAST CUSTER,Attorney General,3,DEM,Janet Stewart,2
+Custer,CLIFF,Attorney General,3,DEM,Janet Stewart,7
+Custer,COMSTOCK,Attorney General,3,DEM,Janet Stewart,18
+Custer,DOUGLAS GROVE,Attorney General,3,DEM,Janet Stewart,11
+Custer,SPRING CREEK,Attorney General,3,DEM,Janet Stewart,2
+Custer,DELIGHT,Attorney General,3,DEM,Janet Stewart,54
+Custer,ELIM,Attorney General,3,DEM,Janet Stewart,2
+Custer,TRIUMPH,Attorney General,3,DEM,Janet Stewart,7
+Custer,GARFIELD,Attorney General,3,DEM,Janet Stewart,6
+Custer,GRANT,Attorney General,3,DEM,Janet Stewart,4
+Custer,KILFOIL,Attorney General,3,DEM,Janet Stewart,27
+Custer,LOUP,Attorney General,3,DEM,Janet Stewart,4
+Custer,LILLIAN,Attorney General,3,DEM,Janet Stewart,4
+Custer,MILBURN,Attorney General,3,DEM,Janet Stewart,0
+Custer,CORNER,Attorney General,3,DEM,Janet Stewart,0
+Custer,SARGENT RURAL,Attorney General,3,DEM,Janet Stewart,11
+Custer,WEST UNION,Attorney General,3,DEM,Janet Stewart,1
+Custer,SARGENT VILLAGE,Attorney General,3,DEM,Janet Stewart,37
+Custer,RYNO,Attorney General,3,DEM,Janet Stewart,3
+Custer,ANSELMO,Attorney General,3,DEM,Janet Stewart,36
+Custer,WOODRIVER,Attorney General,3,DEM,Janet Stewart,22
+Custer,WAYNE,Attorney General,3,DEM,Janet Stewart,1
+Custer,BB NORTHWEST,Attorney General,3,DEM,Janet Stewart,75
+Custer,BB SOUTH RURAL,Attorney General,3,DEM,Janet Stewart,27
+Custer,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Custer,Provisional,Attorney General,3,DEM,Janet Stewart,0
+Custer,Countywide,Auditor,3,REP,Charlie Janssen,0
+Custer,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,313
+Custer,MASON CITY,Auditor,3,REP,Charlie Janssen,96
+Custer,ARNOLD,Auditor,3,REP,Charlie Janssen,236
+Custer,ANSLEY/M/W,Auditor,3,REP,Charlie Janssen,186
+Custer,BB NORTH,Auditor,3,REP,Charlie Janssen,58
+Custer,BB NORTH RURAL,Auditor,3,REP,Charlie Janssen,108
+Custer,BB SOUTH,Auditor,3,REP,Charlie Janssen,245
+Custer,BB SOUTHWEST,Auditor,3,REP,Charlie Janssen,130
+Custer,BERWYN,Auditor,3,REP,Charlie Janssen,61
+Custer,CUSTER,Auditor,3,REP,Charlie Janssen,22
+Custer,EAST CUSTER,Auditor,3,REP,Charlie Janssen,14
+Custer,CLIFF,Auditor,3,REP,Charlie Janssen,36
+Custer,COMSTOCK,Auditor,3,REP,Charlie Janssen,22
+Custer,DOUGLAS GROVE,Auditor,3,REP,Charlie Janssen,18
+Custer,SPRING CREEK,Auditor,3,REP,Charlie Janssen,4
+Custer,DELIGHT,Auditor,3,REP,Charlie Janssen,183
+Custer,ELIM,Auditor,3,REP,Charlie Janssen,42
+Custer,TRIUMPH,Auditor,3,REP,Charlie Janssen,32
+Custer,GARFIELD,Auditor,3,REP,Charlie Janssen,36
+Custer,GRANT,Auditor,3,REP,Charlie Janssen,10
+Custer,KILFOIL,Auditor,3,REP,Charlie Janssen,157
+Custer,LOUP,Auditor,3,REP,Charlie Janssen,26
+Custer,LILLIAN,Auditor,3,REP,Charlie Janssen,26
+Custer,MILBURN,Auditor,3,REP,Charlie Janssen,10
+Custer,CORNER,Auditor,3,REP,Charlie Janssen,6
+Custer,SARGENT RURAL,Auditor,3,REP,Charlie Janssen,33
+Custer,WEST UNION,Auditor,3,REP,Charlie Janssen,22
+Custer,SARGENT VILLAGE,Auditor,3,REP,Charlie Janssen,103
+Custer,RYNO,Auditor,3,REP,Charlie Janssen,22
+Custer,ANSELMO,Auditor,3,REP,Charlie Janssen,84
+Custer,WOODRIVER,Auditor,3,REP,Charlie Janssen,56
+Custer,WAYNE,Auditor,3,REP,Charlie Janssen,24
+Custer,BB NORTHWEST,Auditor,3,REP,Charlie Janssen,215
+Custer,BB SOUTH RURAL,Auditor,3,REP,Charlie Janssen,103
+Custer,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Custer,Provisional,Auditor,3,REP,Charlie Janssen,0
+Custer,Countywide,Auditor,3,DEM,Amanda McGill,0
+Custer,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,150
+Custer,MASON CITY,Auditor,3,DEM,Amanda McGill,22
+Custer,ARNOLD,Auditor,3,DEM,Amanda McGill,52
+Custer,ANSLEY/M/W,Auditor,3,DEM,Amanda McGill,66
+Custer,BB NORTH,Auditor,3,DEM,Amanda McGill,26
+Custer,BB NORTH RURAL,Auditor,3,DEM,Amanda McGill,21
+Custer,BB SOUTH,Auditor,3,DEM,Amanda McGill,99
+Custer,BB SOUTHWEST,Auditor,3,DEM,Amanda McGill,49
+Custer,BERWYN,Auditor,3,DEM,Amanda McGill,13
+Custer,CUSTER,Auditor,3,DEM,Amanda McGill,10
+Custer,EAST CUSTER,Auditor,3,DEM,Amanda McGill,2
+Custer,CLIFF,Auditor,3,DEM,Amanda McGill,10
+Custer,COMSTOCK,Auditor,3,DEM,Amanda McGill,18
+Custer,DOUGLAS GROVE,Auditor,3,DEM,Amanda McGill,10
+Custer,SPRING CREEK,Auditor,3,DEM,Amanda McGill,3
+Custer,DELIGHT,Auditor,3,DEM,Amanda McGill,77
+Custer,ELIM,Auditor,3,DEM,Amanda McGill,3
+Custer,TRIUMPH,Auditor,3,DEM,Amanda McGill,10
+Custer,GARFIELD,Auditor,3,DEM,Amanda McGill,9
+Custer,GRANT,Auditor,3,DEM,Amanda McGill,4
+Custer,KILFOIL,Auditor,3,DEM,Amanda McGill,43
+Custer,LOUP,Auditor,3,DEM,Amanda McGill,8
+Custer,LILLIAN,Auditor,3,DEM,Amanda McGill,4
+Custer,MILBURN,Auditor,3,DEM,Amanda McGill,1
+Custer,CORNER,Auditor,3,DEM,Amanda McGill,0
+Custer,SARGENT RURAL,Auditor,3,DEM,Amanda McGill,15
+Custer,WEST UNION,Auditor,3,DEM,Amanda McGill,1
+Custer,SARGENT VILLAGE,Auditor,3,DEM,Amanda McGill,45
+Custer,RYNO,Auditor,3,DEM,Amanda McGill,5
+Custer,ANSELMO,Auditor,3,DEM,Amanda McGill,37
+Custer,WOODRIVER,Auditor,3,DEM,Amanda McGill,26
+Custer,WAYNE,Auditor,3,DEM,Amanda McGill,3
+Custer,BB NORTHWEST,Auditor,3,DEM,Amanda McGill,86
+Custer,BB SOUTH RURAL,Auditor,3,DEM,Amanda McGill,31
+Custer,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Custer,Provisional,Auditor,3,DEM,Amanda McGill,0
+Custer,Countywide,Legislature,LD0036,NON,Luis Sotelo,0
+Custer,Absentee/Early Vote,Legislature,LD0036,NON,Luis Sotelo,89
+Custer,MASON CITY,Legislature,LD0036,NON,Luis Sotelo,14
+Custer,ARNOLD,Legislature,LD0036,NON,Luis Sotelo,43
+Custer,ANSLEY/M/W,Legislature,LD0036,NON,Luis Sotelo,37
+Custer,BB NORTH,Legislature,LD0036,NON,Luis Sotelo,16
+Custer,BB NORTH RURAL,Legislature,LD0036,NON,Luis Sotelo,20
+Custer,BB SOUTH,Legislature,LD0036,NON,Luis Sotelo,81
+Custer,BB SOUTHWEST,Legislature,LD0036,NON,Luis Sotelo,33
+Custer,BERWYN,Legislature,LD0036,NON,Luis Sotelo,16
+Custer,CUSTER,Legislature,LD0036,NON,Luis Sotelo,5
+Custer,EAST CUSTER,Legislature,LD0036,NON,Luis Sotelo,3
+Custer,CLIFF,Legislature,LD0036,NON,Luis Sotelo,4
+Custer,COMSTOCK,Legislature,LD0036,NON,Luis Sotelo,6
+Custer,DOUGLAS GROVE,Legislature,LD0036,NON,Luis Sotelo,3
+Custer,SPRING CREEK,Legislature,LD0036,NON,Luis Sotelo,1
+Custer,DELIGHT,Legislature,LD0036,NON,Luis Sotelo,52
+Custer,ELIM,Legislature,LD0036,NON,Luis Sotelo,6
+Custer,TRIUMPH,Legislature,LD0036,NON,Luis Sotelo,5
+Custer,GARFIELD,Legislature,LD0036,NON,Luis Sotelo,5
+Custer,GRANT,Legislature,LD0036,NON,Luis Sotelo,1
+Custer,KILFOIL,Legislature,LD0036,NON,Luis Sotelo,33
+Custer,LOUP,Legislature,LD0036,NON,Luis Sotelo,4
+Custer,LILLIAN,Legislature,LD0036,NON,Luis Sotelo,5
+Custer,MILBURN,Legislature,LD0036,NON,Luis Sotelo,0
+Custer,CORNER,Legislature,LD0036,NON,Luis Sotelo,0
+Custer,SARGENT RURAL,Legislature,LD0036,NON,Luis Sotelo,4
+Custer,WEST UNION,Legislature,LD0036,NON,Luis Sotelo,2
+Custer,SARGENT VILLAGE,Legislature,LD0036,NON,Luis Sotelo,18
+Custer,RYNO,Legislature,LD0036,NON,Luis Sotelo,2
+Custer,ANSELMO,Legislature,LD0036,NON,Luis Sotelo,19
+Custer,WOODRIVER,Legislature,LD0036,NON,Luis Sotelo,16
+Custer,WAYNE,Legislature,LD0036,NON,Luis Sotelo,1
+Custer,BB NORTHWEST,Legislature,LD0036,NON,Luis Sotelo,76
+Custer,BB SOUTH RURAL,Legislature,LD0036,NON,Luis Sotelo,21
+Custer,Absentee/Early Vote,Legislature,LD0036,NON,Luis Sotelo,0
+Custer,Provisional,Legislature,LD0036,NON,Luis Sotelo,0
+Custer,Countywide,Legislature,LD0036,NON,Matt Williams,0
+Custer,Absentee/Early Vote,Legislature,LD0036,NON,Matt Williams,375
+Custer,MASON CITY,Legislature,LD0036,NON,Matt Williams,87
+Custer,ARNOLD,Legislature,LD0036,NON,Matt Williams,210
+Custer,ANSLEY/M/W,Legislature,LD0036,NON,Matt Williams,186
+Custer,BB NORTH,Legislature,LD0036,NON,Matt Williams,60
+Custer,BB NORTH RURAL,Legislature,LD0036,NON,Matt Williams,107
+Custer,BB SOUTH,Legislature,LD0036,NON,Matt Williams,249
+Custer,BB SOUTHWEST,Legislature,LD0036,NON,Matt Williams,127
+Custer,BERWYN,Legislature,LD0036,NON,Matt Williams,56
+Custer,CUSTER,Legislature,LD0036,NON,Matt Williams,26
+Custer,EAST CUSTER,Legislature,LD0036,NON,Matt Williams,12
+Custer,CLIFF,Legislature,LD0036,NON,Matt Williams,36
+Custer,COMSTOCK,Legislature,LD0036,NON,Matt Williams,22
+Custer,DOUGLAS GROVE,Legislature,LD0036,NON,Matt Williams,22
+Custer,SPRING CREEK,Legislature,LD0036,NON,Matt Williams,5
+Custer,DELIGHT,Legislature,LD0036,NON,Matt Williams,220
+Custer,ELIM,Legislature,LD0036,NON,Matt Williams,38
+Custer,TRIUMPH,Legislature,LD0036,NON,Matt Williams,37
+Custer,GARFIELD,Legislature,LD0036,NON,Matt Williams,35
+Custer,GRANT,Legislature,LD0036,NON,Matt Williams,13
+Custer,KILFOIL,Legislature,LD0036,NON,Matt Williams,151
+Custer,LOUP,Legislature,LD0036,NON,Matt Williams,33
+Custer,LILLIAN,Legislature,LD0036,NON,Matt Williams,20
+Custer,MILBURN,Legislature,LD0036,NON,Matt Williams,9
+Custer,CORNER,Legislature,LD0036,NON,Matt Williams,3
+Custer,SARGENT RURAL,Legislature,LD0036,NON,Matt Williams,39
+Custer,WEST UNION,Legislature,LD0036,NON,Matt Williams,21
+Custer,SARGENT VILLAGE,Legislature,LD0036,NON,Matt Williams,121
+Custer,RYNO,Legislature,LD0036,NON,Matt Williams,24
+Custer,ANSELMO,Legislature,LD0036,NON,Matt Williams,97
+Custer,WOODRIVER,Legislature,LD0036,NON,Matt Williams,75
+Custer,WAYNE,Legislature,LD0036,NON,Matt Williams,34
+Custer,BB NORTHWEST,Legislature,LD0036,NON,Matt Williams,223
+Custer,BB SOUTH RURAL,Legislature,LD0036,NON,Matt Williams,114
+Custer,Absentee/Early Vote,Legislature,LD0036,NON,Matt Williams,0
+Custer,Provisional,Legislature,LD0036,NON,Matt Williams,0

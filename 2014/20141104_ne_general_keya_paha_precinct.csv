@@ -1,0 +1,127 @@
+county,precinct,office,district,party,candidate,votes
+Keya Paha,Countywide,Senator,3,DEM,Dave Domina,0
+Keya Paha,Absentee/Early Vote,Senator,3,DEM,Dave Domina,13
+Keya Paha,Garfield,Senator,3,DEM,Dave Domina,15
+Keya Paha,Custer,Senator,3,DEM,Dave Domina,13
+Keya Paha,Mills,Senator,3,DEM,Dave Domina,12
+Keya Paha,Absentee/Early Vote,Senator,3,DEM,Dave Domina,0
+Keya Paha,Provisional,Senator,3,DEM,Dave Domina,0
+Keya Paha,Countywide,Senator,3,ZZZ,Jim Jenkins,0
+Keya Paha,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,1
+Keya Paha,Garfield,Senator,3,ZZZ,Jim Jenkins,0
+Keya Paha,Custer,Senator,3,ZZZ,Jim Jenkins,4
+Keya Paha,Mills,Senator,3,ZZZ,Jim Jenkins,0
+Keya Paha,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,0
+Keya Paha,Provisional,Senator,3,ZZZ,Jim Jenkins,0
+Keya Paha,Countywide,Senator,3,REP,Ben Sasse,0
+Keya Paha,Absentee/Early Vote,Senator,3,REP,Ben Sasse,73
+Keya Paha,Garfield,Senator,3,REP,Ben Sasse,85
+Keya Paha,Custer,Senator,3,REP,Ben Sasse,105
+Keya Paha,Mills,Senator,3,REP,Ben Sasse,50
+Keya Paha,Absentee/Early Vote,Senator,3,REP,Ben Sasse,0
+Keya Paha,Provisional,Senator,3,REP,Ben Sasse,2
+Keya Paha,Countywide,Senator,3,ZZZ,Todd F. Watson,0
+Keya Paha,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,3
+Keya Paha,Garfield,Senator,3,ZZZ,Todd F. Watson,0
+Keya Paha,Custer,Senator,3,ZZZ,Todd F. Watson,2
+Keya Paha,Mills,Senator,3,ZZZ,Todd F. Watson,2
+Keya Paha,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,0
+Keya Paha,Provisional,Senator,3,ZZZ,Todd F. Watson,0
+Keya Paha,Countywide,Representative,3,REP,Adrian Smith,0
+Keya Paha,Absentee/Early Vote,Representative,3,REP,Adrian Smith,81
+Keya Paha,Garfield,Representative,3,REP,Adrian Smith,89
+Keya Paha,Custer,Representative,3,REP,Adrian Smith,104
+Keya Paha,Mills,Representative,3,REP,Adrian Smith,59
+Keya Paha,Absentee/Early Vote,Representative,3,REP,Adrian Smith,0
+Keya Paha,Provisional,Representative,3,REP,Adrian Smith,2
+Keya Paha,Countywide,Representative,3,DEM,Mark Sullivan,0
+Keya Paha,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,12
+Keya Paha,Garfield,Representative,3,DEM,Mark Sullivan,8
+Keya Paha,Custer,Representative,3,DEM,Mark Sullivan,19
+Keya Paha,Mills,Representative,3,DEM,Mark Sullivan,6
+Keya Paha,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,0
+Keya Paha,Provisional,Representative,3,DEM,Mark Sullivan,0
+Keya Paha,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Keya Paha,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,23
+Keya Paha,Garfield,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,24
+Keya Paha,Custer,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,29
+Keya Paha,Mills,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,16
+Keya Paha,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Keya Paha,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Keya Paha,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Keya Paha,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,62
+Keya Paha,Garfield,Governor,3,REP,Pete Ricketts and Mike Foley,74
+Keya Paha,Custer,Governor,3,REP,Pete Ricketts and Mike Foley,89
+Keya Paha,Mills,Governor,3,REP,Pete Ricketts and Mike Foley,50
+Keya Paha,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Keya Paha,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Keya Paha,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Keya Paha,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Keya Paha,Garfield,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,3
+Keya Paha,Custer,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Keya Paha,Mills,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,1
+Keya Paha,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Keya Paha,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Keya Paha,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Keya Paha,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,9
+Keya Paha,Garfield,Secretary of State,3,LIB,Ben Backus,5
+Keya Paha,Custer,Secretary of State,3,LIB,Ben Backus,16
+Keya Paha,Mills,Secretary of State,3,LIB,Ben Backus,6
+Keya Paha,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Keya Paha,Provisional,Secretary of State,3,LIB,Ben Backus,0
+Keya Paha,Countywide,Secretary of State,3,REP,John A. Gale,0
+Keya Paha,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,85
+Keya Paha,Garfield,Secretary of State,3,REP,John A. Gale,92
+Keya Paha,Custer,Secretary of State,3,REP,John A. Gale,100
+Keya Paha,Mills,Secretary of State,3,REP,John A. Gale,54
+Keya Paha,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Keya Paha,Provisional,Secretary of State,3,REP,John A. Gale,2
+Keya Paha,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Keya Paha,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,6
+Keya Paha,Garfield,State Treasurer,3,LIB,Michael Knebel,2
+Keya Paha,Custer,State Treasurer,3,LIB,Michael Knebel,3
+Keya Paha,Mills,State Treasurer,3,LIB,Michael Knebel,1
+Keya Paha,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Keya Paha,Provisional,State Treasurer,3,LIB,Michael Knebel,0
+Keya Paha,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Keya Paha,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,9
+Keya Paha,Garfield,State Treasurer,3,DEM,Michael J. O'Hara,11
+Keya Paha,Custer,State Treasurer,3,DEM,Michael J. O'Hara,16
+Keya Paha,Mills,State Treasurer,3,DEM,Michael J. O'Hara,2
+Keya Paha,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Keya Paha,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,0
+Keya Paha,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Keya Paha,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,73
+Keya Paha,Garfield,State Treasurer,3,REP,Don Stenberg,81
+Keya Paha,Custer,State Treasurer,3,REP,Don Stenberg,101
+Keya Paha,Mills,State Treasurer,3,REP,Don Stenberg,60
+Keya Paha,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Keya Paha,Provisional,State Treasurer,3,REP,Don Stenberg,2
+Keya Paha,Countywide,Attorney General,3,REP,Doug Peterson,0
+Keya Paha,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,71
+Keya Paha,Garfield,Attorney General,3,REP,Doug Peterson,83
+Keya Paha,Custer,Attorney General,3,REP,Doug Peterson,87
+Keya Paha,Mills,Attorney General,3,REP,Doug Peterson,53
+Keya Paha,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Keya Paha,Provisional,Attorney General,3,REP,Doug Peterson,2
+Keya Paha,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Keya Paha,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,15
+Keya Paha,Garfield,Attorney General,3,DEM,Janet Stewart,10
+Keya Paha,Custer,Attorney General,3,DEM,Janet Stewart,27
+Keya Paha,Mills,Attorney General,3,DEM,Janet Stewart,8
+Keya Paha,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Keya Paha,Provisional,Attorney General,3,DEM,Janet Stewart,0
+Keya Paha,Countywide,Auditor,3,REP,Charlie Janssen,0
+Keya Paha,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,61
+Keya Paha,Garfield,Auditor,3,REP,Charlie Janssen,69
+Keya Paha,Custer,Auditor,3,REP,Charlie Janssen,84
+Keya Paha,Mills,Auditor,3,REP,Charlie Janssen,47
+Keya Paha,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Keya Paha,Provisional,Auditor,3,REP,Charlie Janssen,0
+Keya Paha,Countywide,Auditor,3,DEM,Amanda McGill,0
+Keya Paha,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,21
+Keya Paha,Garfield,Auditor,3,DEM,Amanda McGill,13
+Keya Paha,Custer,Auditor,3,DEM,Amanda McGill,21
+Keya Paha,Mills,Auditor,3,DEM,Amanda McGill,8
+Keya Paha,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Keya Paha,Provisional,Auditor,3,DEM,Amanda McGill,0

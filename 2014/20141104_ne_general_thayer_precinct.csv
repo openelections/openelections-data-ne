@@ -1,0 +1,221 @@
+county,precinct,office,district,party,candidate,votes
+Thayer,Countywide,Senator,3,DEM,Dave Domina,0
+Thayer,Absentee/Early Vote,Senator,3,DEM,Dave Domina,71
+Thayer,Alexandria,Senator,3,DEM,Dave Domina,34
+Thayer,Bruning,Senator,3,DEM,Dave Domina,48
+Thayer,Chester,Senator,3,DEM,Dave Domina,27
+Thayer,Carleton/Davenport,Senator,3,DEM,Dave Domina,48
+Thayer,Deshler,Senator,3,DEM,Dave Domina,54
+Thayer,Hebron North,Senator,3,DEM,Dave Domina,76
+Thayer,Hebron South,Senator,3,DEM,Dave Domina,63
+Thayer,Absentee/Early Vote,Senator,3,DEM,Dave Domina,0
+Thayer,Provisional,Senator,3,DEM,Dave Domina,0
+Thayer,Countywide,Senator,3,ZZZ,Jim Jenkins,0
+Thayer,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,4
+Thayer,Alexandria,Senator,3,ZZZ,Jim Jenkins,5
+Thayer,Bruning,Senator,3,ZZZ,Jim Jenkins,14
+Thayer,Chester,Senator,3,ZZZ,Jim Jenkins,4
+Thayer,Carleton/Davenport,Senator,3,ZZZ,Jim Jenkins,5
+Thayer,Deshler,Senator,3,ZZZ,Jim Jenkins,7
+Thayer,Hebron North,Senator,3,ZZZ,Jim Jenkins,7
+Thayer,Hebron South,Senator,3,ZZZ,Jim Jenkins,7
+Thayer,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,0
+Thayer,Provisional,Senator,3,ZZZ,Jim Jenkins,0
+Thayer,Countywide,Senator,3,REP,Ben Sasse,0
+Thayer,Absentee/Early Vote,Senator,3,REP,Ben Sasse,162
+Thayer,Alexandria,Senator,3,REP,Ben Sasse,100
+Thayer,Bruning,Senator,3,REP,Ben Sasse,119
+Thayer,Chester,Senator,3,REP,Ben Sasse,211
+Thayer,Carleton/Davenport,Senator,3,REP,Ben Sasse,207
+Thayer,Deshler,Senator,3,REP,Ben Sasse,242
+Thayer,Hebron North,Senator,3,REP,Ben Sasse,230
+Thayer,Hebron South,Senator,3,REP,Ben Sasse,205
+Thayer,Absentee/Early Vote,Senator,3,REP,Ben Sasse,0
+Thayer,Provisional,Senator,3,REP,Ben Sasse,0
+Thayer,Countywide,Senator,3,ZZZ,Todd F. Watson,0
+Thayer,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,2
+Thayer,Alexandria,Senator,3,ZZZ,Todd F. Watson,3
+Thayer,Bruning,Senator,3,ZZZ,Todd F. Watson,2
+Thayer,Chester,Senator,3,ZZZ,Todd F. Watson,2
+Thayer,Carleton/Davenport,Senator,3,ZZZ,Todd F. Watson,3
+Thayer,Deshler,Senator,3,ZZZ,Todd F. Watson,3
+Thayer,Hebron North,Senator,3,ZZZ,Todd F. Watson,7
+Thayer,Hebron South,Senator,3,ZZZ,Todd F. Watson,2
+Thayer,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,0
+Thayer,Provisional,Senator,3,ZZZ,Todd F. Watson,0
+Thayer,Countywide,Representative,3,REP,Adrian Smith,0
+Thayer,Absentee/Early Vote,Representative,3,REP,Adrian Smith,153
+Thayer,Alexandria,Representative,3,REP,Adrian Smith,96
+Thayer,Bruning,Representative,3,REP,Adrian Smith,131
+Thayer,Chester,Representative,3,REP,Adrian Smith,202
+Thayer,Carleton/Davenport,Representative,3,REP,Adrian Smith,214
+Thayer,Deshler,Representative,3,REP,Adrian Smith,243
+Thayer,Hebron North,Representative,3,REP,Adrian Smith,237
+Thayer,Hebron South,Representative,3,REP,Adrian Smith,195
+Thayer,Absentee/Early Vote,Representative,3,REP,Adrian Smith,0
+Thayer,Provisional,Representative,3,REP,Adrian Smith,0
+Thayer,Countywide,Representative,3,DEM,Mark Sullivan,0
+Thayer,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,84
+Thayer,Alexandria,Representative,3,DEM,Mark Sullivan,44
+Thayer,Bruning,Representative,3,DEM,Mark Sullivan,50
+Thayer,Chester,Representative,3,DEM,Mark Sullivan,40
+Thayer,Carleton/Davenport,Representative,3,DEM,Mark Sullivan,51
+Thayer,Deshler,Representative,3,DEM,Mark Sullivan,56
+Thayer,Hebron North,Representative,3,DEM,Mark Sullivan,79
+Thayer,Hebron South,Representative,3,DEM,Mark Sullivan,83
+Thayer,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,0
+Thayer,Provisional,Representative,3,DEM,Mark Sullivan,0
+Thayer,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Thayer,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,105
+Thayer,Alexandria,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,47
+Thayer,Bruning,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,83
+Thayer,Chester,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,61
+Thayer,Carleton/Davenport,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,82
+Thayer,Deshler,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,96
+Thayer,Hebron North,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,131
+Thayer,Hebron South,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,102
+Thayer,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Thayer,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Thayer,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Thayer,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,122
+Thayer,Alexandria,Governor,3,REP,Pete Ricketts and Mike Foley,79
+Thayer,Bruning,Governor,3,REP,Pete Ricketts and Mike Foley,89
+Thayer,Chester,Governor,3,REP,Pete Ricketts and Mike Foley,175
+Thayer,Carleton/Davenport,Governor,3,REP,Pete Ricketts and Mike Foley,167
+Thayer,Deshler,Governor,3,REP,Pete Ricketts and Mike Foley,192
+Thayer,Hebron North,Governor,3,REP,Pete Ricketts and Mike Foley,176
+Thayer,Hebron South,Governor,3,REP,Pete Ricketts and Mike Foley,158
+Thayer,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Thayer,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Thayer,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Thayer,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,7
+Thayer,Alexandria,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Thayer,Bruning,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,9
+Thayer,Chester,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,7
+Thayer,Carleton/Davenport,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,13
+Thayer,Deshler,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,16
+Thayer,Hebron North,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,18
+Thayer,Hebron South,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,13
+Thayer,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Thayer,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Thayer,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Thayer,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,46
+Thayer,Alexandria,Secretary of State,3,LIB,Ben Backus,30
+Thayer,Bruning,Secretary of State,3,LIB,Ben Backus,33
+Thayer,Chester,Secretary of State,3,LIB,Ben Backus,25
+Thayer,Carleton/Davenport,Secretary of State,3,LIB,Ben Backus,34
+Thayer,Deshler,Secretary of State,3,LIB,Ben Backus,47
+Thayer,Hebron North,Secretary of State,3,LIB,Ben Backus,42
+Thayer,Hebron South,Secretary of State,3,LIB,Ben Backus,45
+Thayer,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Thayer,Provisional,Secretary of State,3,LIB,Ben Backus,0
+Thayer,Countywide,Secretary of State,3,REP,John A. Gale,0
+Thayer,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,160
+Thayer,Alexandria,Secretary of State,3,REP,John A. Gale,103
+Thayer,Bruning,Secretary of State,3,REP,John A. Gale,132
+Thayer,Chester,Secretary of State,3,REP,John A. Gale,188
+Thayer,Carleton/Davenport,Secretary of State,3,REP,John A. Gale,209
+Thayer,Deshler,Secretary of State,3,REP,John A. Gale,235
+Thayer,Hebron North,Secretary of State,3,REP,John A. Gale,253
+Thayer,Hebron South,Secretary of State,3,REP,John A. Gale,197
+Thayer,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Thayer,Provisional,Secretary of State,3,REP,John A. Gale,0
+Thayer,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Thayer,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,4
+Thayer,Alexandria,State Treasurer,3,LIB,Michael Knebel,11
+Thayer,Bruning,State Treasurer,3,LIB,Michael Knebel,11
+Thayer,Chester,State Treasurer,3,LIB,Michael Knebel,9
+Thayer,Carleton/Davenport,State Treasurer,3,LIB,Michael Knebel,11
+Thayer,Deshler,State Treasurer,3,LIB,Michael Knebel,21
+Thayer,Hebron North,State Treasurer,3,LIB,Michael Knebel,14
+Thayer,Hebron South,State Treasurer,3,LIB,Michael Knebel,9
+Thayer,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Thayer,Provisional,State Treasurer,3,LIB,Michael Knebel,0
+Thayer,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Thayer,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,54
+Thayer,Alexandria,State Treasurer,3,DEM,Michael J. O'Hara,30
+Thayer,Bruning,State Treasurer,3,DEM,Michael J. O'Hara,32
+Thayer,Chester,State Treasurer,3,DEM,Michael J. O'Hara,23
+Thayer,Carleton/Davenport,State Treasurer,3,DEM,Michael J. O'Hara,33
+Thayer,Deshler,State Treasurer,3,DEM,Michael J. O'Hara,36
+Thayer,Hebron North,State Treasurer,3,DEM,Michael J. O'Hara,53
+Thayer,Hebron South,State Treasurer,3,DEM,Michael J. O'Hara,46
+Thayer,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Thayer,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,0
+Thayer,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Thayer,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,166
+Thayer,Alexandria,State Treasurer,3,REP,Don Stenberg,94
+Thayer,Bruning,State Treasurer,3,REP,Don Stenberg,130
+Thayer,Chester,State Treasurer,3,REP,Don Stenberg,199
+Thayer,Carleton/Davenport,State Treasurer,3,REP,Don Stenberg,213
+Thayer,Deshler,State Treasurer,3,REP,Don Stenberg,242
+Thayer,Hebron North,State Treasurer,3,REP,Don Stenberg,242
+Thayer,Hebron South,State Treasurer,3,REP,Don Stenberg,209
+Thayer,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Thayer,Provisional,State Treasurer,3,REP,Don Stenberg,0
+Thayer,Countywide,Attorney General,3,REP,Doug Peterson,0
+Thayer,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,142
+Thayer,Alexandria,Attorney General,3,REP,Doug Peterson,91
+Thayer,Bruning,Attorney General,3,REP,Doug Peterson,121
+Thayer,Chester,Attorney General,3,REP,Doug Peterson,184
+Thayer,Carleton/Davenport,Attorney General,3,REP,Doug Peterson,209
+Thayer,Deshler,Attorney General,3,REP,Doug Peterson,237
+Thayer,Hebron North,Attorney General,3,REP,Doug Peterson,225
+Thayer,Hebron South,Attorney General,3,REP,Doug Peterson,187
+Thayer,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Thayer,Provisional,Attorney General,3,REP,Doug Peterson,0
+Thayer,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Thayer,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,78
+Thayer,Alexandria,Attorney General,3,DEM,Janet Stewart,43
+Thayer,Bruning,Attorney General,3,DEM,Janet Stewart,49
+Thayer,Chester,Attorney General,3,DEM,Janet Stewart,42
+Thayer,Carleton/Davenport,Attorney General,3,DEM,Janet Stewart,39
+Thayer,Deshler,Attorney General,3,DEM,Janet Stewart,51
+Thayer,Hebron North,Attorney General,3,DEM,Janet Stewart,72
+Thayer,Hebron South,Attorney General,3,DEM,Janet Stewart,63
+Thayer,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Thayer,Provisional,Attorney General,3,DEM,Janet Stewart,0
+Thayer,Countywide,Auditor,3,REP,Charlie Janssen,0
+Thayer,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,116
+Thayer,Alexandria,Auditor,3,REP,Charlie Janssen,78
+Thayer,Bruning,Auditor,3,REP,Charlie Janssen,93
+Thayer,Chester,Auditor,3,REP,Charlie Janssen,150
+Thayer,Carleton/Davenport,Auditor,3,REP,Charlie Janssen,171
+Thayer,Deshler,Auditor,3,REP,Charlie Janssen,200
+Thayer,Hebron North,Auditor,3,REP,Charlie Janssen,188
+Thayer,Hebron South,Auditor,3,REP,Charlie Janssen,150
+Thayer,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Thayer,Provisional,Auditor,3,REP,Charlie Janssen,0
+Thayer,Countywide,Auditor,3,DEM,Amanda McGill,0
+Thayer,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,95
+Thayer,Alexandria,Auditor,3,DEM,Amanda McGill,52
+Thayer,Bruning,Auditor,3,DEM,Amanda McGill,66
+Thayer,Chester,Auditor,3,DEM,Amanda McGill,58
+Thayer,Carleton/Davenport,Auditor,3,DEM,Amanda McGill,65
+Thayer,Deshler,Auditor,3,DEM,Amanda McGill,81
+Thayer,Hebron North,Auditor,3,DEM,Amanda McGill,95
+Thayer,Hebron South,Auditor,3,DEM,Amanda McGill,83
+Thayer,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Thayer,Provisional,Auditor,3,DEM,Amanda McGill,0
+Thayer,Countywide,Legislature,LD0032,NON,Laura Ebke,0
+Thayer,Absentee/Early Vote,Legislature,LD0032,NON,Laura Ebke,117
+Thayer,Alexandria,Legislature,LD0032,NON,Laura Ebke,67
+Thayer,Bruning,Legislature,LD0032,NON,Laura Ebke,95
+Thayer,Chester,Legislature,LD0032,NON,Laura Ebke,116
+Thayer,Carleton/Davenport,Legislature,LD0032,NON,Laura Ebke,143
+Thayer,Deshler,Legislature,LD0032,NON,Laura Ebke,152
+Thayer,Hebron North,Legislature,LD0032,NON,Laura Ebke,164
+Thayer,Hebron South,Legislature,LD0032,NON,Laura Ebke,130
+Thayer,Absentee/Early Vote,Legislature,LD0032,NON,Laura Ebke,0
+Thayer,Provisional,Legislature,LD0032,NON,Laura Ebke,0
+Thayer,Countywide,Legislature,LD0032,NON,Phil Hardenburger,0
+Thayer,Absentee/Early Vote,Legislature,LD0032,NON,Phil Hardenburger,97
+Thayer,Alexandria,Legislature,LD0032,NON,Phil Hardenburger,67
+Thayer,Bruning,Legislature,LD0032,NON,Phil Hardenburger,70
+Thayer,Chester,Legislature,LD0032,NON,Phil Hardenburger,93
+Thayer,Carleton/Davenport,Legislature,LD0032,NON,Phil Hardenburger,102
+Thayer,Deshler,Legislature,LD0032,NON,Phil Hardenburger,127
+Thayer,Hebron North,Legislature,LD0032,NON,Phil Hardenburger,136
+Thayer,Hebron South,Legislature,LD0032,NON,Phil Hardenburger,123
+Thayer,Absentee/Early Vote,Legislature,LD0032,NON,Phil Hardenburger,0
+Thayer,Provisional,Legislature,LD0032,NON,Phil Hardenburger,0

@@ -1,0 +1,163 @@
+county,precinct,office,district,party,candidate,votes
+Pierce,Countywide,Senator,3,DEM,Dave Domina,0
+Pierce,Absentee/Early Vote,Senator,3,DEM,Dave Domina,50
+Pierce,Osmond,Senator,3,DEM,Dave Domina,97
+Pierce,Plainview,Senator,3,DEM,Dave Domina,97
+Pierce,Pierce,Senator,3,DEM,Dave Domina,54
+Pierce,South Branch,Senator,3,DEM,Dave Domina,48
+Pierce,Pierce City,Senator,3,DEM,Dave Domina,99
+Pierce,Absentee/Early Vote,Senator,3,DEM,Dave Domina,0
+Pierce,Provisional,Senator,3,DEM,Dave Domina,0
+Pierce,Countywide,Senator,3,ZZZ,Jim Jenkins,0
+Pierce,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,9
+Pierce,Osmond,Senator,3,ZZZ,Jim Jenkins,8
+Pierce,Plainview,Senator,3,ZZZ,Jim Jenkins,12
+Pierce,Pierce,Senator,3,ZZZ,Jim Jenkins,7
+Pierce,South Branch,Senator,3,ZZZ,Jim Jenkins,0
+Pierce,Pierce City,Senator,3,ZZZ,Jim Jenkins,9
+Pierce,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,0
+Pierce,Provisional,Senator,3,ZZZ,Jim Jenkins,0
+Pierce,Countywide,Senator,3,REP,Ben Sasse,0
+Pierce,Absentee/Early Vote,Senator,3,REP,Ben Sasse,242
+Pierce,Osmond,Senator,3,REP,Ben Sasse,377
+Pierce,Plainview,Senator,3,REP,Ben Sasse,372
+Pierce,Pierce,Senator,3,REP,Ben Sasse,382
+Pierce,South Branch,Senator,3,REP,Ben Sasse,168
+Pierce,Pierce City,Senator,3,REP,Ben Sasse,302
+Pierce,Absentee/Early Vote,Senator,3,REP,Ben Sasse,0
+Pierce,Provisional,Senator,3,REP,Ben Sasse,0
+Pierce,Countywide,Senator,3,ZZZ,Todd F. Watson,0
+Pierce,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,2
+Pierce,Osmond,Senator,3,ZZZ,Todd F. Watson,2
+Pierce,Plainview,Senator,3,ZZZ,Todd F. Watson,6
+Pierce,Pierce,Senator,3,ZZZ,Todd F. Watson,4
+Pierce,South Branch,Senator,3,ZZZ,Todd F. Watson,0
+Pierce,Pierce City,Senator,3,ZZZ,Todd F. Watson,10
+Pierce,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,0
+Pierce,Provisional,Senator,3,ZZZ,Todd F. Watson,0
+Pierce,Countywide,Representative,3,REP,Adrian Smith,0
+Pierce,Absentee/Early Vote,Representative,3,REP,Adrian Smith,257
+Pierce,Osmond,Representative,3,REP,Adrian Smith,402
+Pierce,Plainview,Representative,3,REP,Adrian Smith,389
+Pierce,Pierce,Representative,3,REP,Adrian Smith,396
+Pierce,South Branch,Representative,3,REP,Adrian Smith,190
+Pierce,Pierce City,Representative,3,REP,Adrian Smith,339
+Pierce,Absentee/Early Vote,Representative,3,REP,Adrian Smith,0
+Pierce,Provisional,Representative,3,REP,Adrian Smith,0
+Pierce,Countywide,Representative,3,DEM,Mark Sullivan,0
+Pierce,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,43
+Pierce,Osmond,Representative,3,DEM,Mark Sullivan,62
+Pierce,Plainview,Representative,3,DEM,Mark Sullivan,95
+Pierce,Pierce,Representative,3,DEM,Mark Sullivan,46
+Pierce,South Branch,Representative,3,DEM,Mark Sullivan,21
+Pierce,Pierce City,Representative,3,DEM,Mark Sullivan,74
+Pierce,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,0
+Pierce,Provisional,Representative,3,DEM,Mark Sullivan,0
+Pierce,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Pierce,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,69
+Pierce,Osmond,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,113
+Pierce,Plainview,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,150
+Pierce,Pierce,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,74
+Pierce,South Branch,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,36
+Pierce,Pierce City,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,128
+Pierce,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Pierce,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Pierce,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Pierce,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,227
+Pierce,Osmond,Governor,3,REP,Pete Ricketts and Mike Foley,352
+Pierce,Plainview,Governor,3,REP,Pete Ricketts and Mike Foley,322
+Pierce,Pierce,Governor,3,REP,Pete Ricketts and Mike Foley,358
+Pierce,South Branch,Governor,3,REP,Pete Ricketts and Mike Foley,171
+Pierce,Pierce City,Governor,3,REP,Pete Ricketts and Mike Foley,272
+Pierce,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Pierce,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Pierce,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Pierce,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,6
+Pierce,Osmond,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,18
+Pierce,Plainview,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,17
+Pierce,Pierce,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Pierce,South Branch,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,6
+Pierce,Pierce City,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,19
+Pierce,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Pierce,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Pierce,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Pierce,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,27
+Pierce,Osmond,Secretary of State,3,LIB,Ben Backus,56
+Pierce,Plainview,Secretary of State,3,LIB,Ben Backus,65
+Pierce,Pierce,Secretary of State,3,LIB,Ben Backus,39
+Pierce,South Branch,Secretary of State,3,LIB,Ben Backus,28
+Pierce,Pierce City,Secretary of State,3,LIB,Ben Backus,63
+Pierce,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Pierce,Provisional,Secretary of State,3,LIB,Ben Backus,0
+Pierce,Countywide,Secretary of State,3,REP,John A. Gale,0
+Pierce,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,257
+Pierce,Osmond,Secretary of State,3,REP,John A. Gale,395
+Pierce,Plainview,Secretary of State,3,REP,John A. Gale,394
+Pierce,Pierce,Secretary of State,3,REP,John A. Gale,376
+Pierce,South Branch,Secretary of State,3,REP,John A. Gale,177
+Pierce,Pierce City,Secretary of State,3,REP,John A. Gale,330
+Pierce,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Pierce,Provisional,Secretary of State,3,REP,John A. Gale,0
+Pierce,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Pierce,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,16
+Pierce,Osmond,State Treasurer,3,LIB,Michael Knebel,13
+Pierce,Plainview,State Treasurer,3,LIB,Michael Knebel,23
+Pierce,Pierce,State Treasurer,3,LIB,Michael Knebel,25
+Pierce,South Branch,State Treasurer,3,LIB,Michael Knebel,12
+Pierce,Pierce City,State Treasurer,3,LIB,Michael Knebel,20
+Pierce,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Pierce,Provisional,State Treasurer,3,LIB,Michael Knebel,0
+Pierce,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Pierce,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,38
+Pierce,Osmond,State Treasurer,3,DEM,Michael J. O'Hara,35
+Pierce,Plainview,State Treasurer,3,DEM,Michael J. O'Hara,60
+Pierce,Pierce,State Treasurer,3,DEM,Michael J. O'Hara,30
+Pierce,South Branch,State Treasurer,3,DEM,Michael J. O'Hara,12
+Pierce,Pierce City,State Treasurer,3,DEM,Michael J. O'Hara,49
+Pierce,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Pierce,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,0
+Pierce,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Pierce,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,239
+Pierce,Osmond,State Treasurer,3,REP,Don Stenberg,418
+Pierce,Plainview,State Treasurer,3,REP,Don Stenberg,384
+Pierce,Pierce,State Treasurer,3,REP,Don Stenberg,367
+Pierce,South Branch,State Treasurer,3,REP,Don Stenberg,184
+Pierce,Pierce City,State Treasurer,3,REP,Don Stenberg,334
+Pierce,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Pierce,Provisional,State Treasurer,3,REP,Don Stenberg,0
+Pierce,Countywide,Attorney General,3,REP,Doug Peterson,0
+Pierce,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,238
+Pierce,Osmond,Attorney General,3,REP,Doug Peterson,394
+Pierce,Plainview,Attorney General,3,REP,Doug Peterson,355
+Pierce,Pierce,Attorney General,3,REP,Doug Peterson,358
+Pierce,South Branch,Attorney General,3,REP,Doug Peterson,185
+Pierce,Pierce City,Attorney General,3,REP,Doug Peterson,321
+Pierce,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Pierce,Provisional,Attorney General,3,REP,Doug Peterson,0
+Pierce,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Pierce,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,49
+Pierce,Osmond,Attorney General,3,DEM,Janet Stewart,54
+Pierce,Plainview,Attorney General,3,DEM,Janet Stewart,105
+Pierce,Pierce,Attorney General,3,DEM,Janet Stewart,47
+Pierce,South Branch,Attorney General,3,DEM,Janet Stewart,18
+Pierce,Pierce City,Attorney General,3,DEM,Janet Stewart,68
+Pierce,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Pierce,Provisional,Attorney General,3,DEM,Janet Stewart,0
+Pierce,Countywide,Auditor,3,REP,Charlie Janssen,0
+Pierce,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,217
+Pierce,Osmond,Auditor,3,REP,Charlie Janssen,335
+Pierce,Plainview,Auditor,3,REP,Charlie Janssen,323
+Pierce,Pierce,Auditor,3,REP,Charlie Janssen,315
+Pierce,South Branch,Auditor,3,REP,Charlie Janssen,166
+Pierce,Pierce City,Auditor,3,REP,Charlie Janssen,274
+Pierce,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Pierce,Provisional,Auditor,3,REP,Charlie Janssen,0
+Pierce,Countywide,Auditor,3,DEM,Amanda McGill,0
+Pierce,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,60
+Pierce,Osmond,Auditor,3,DEM,Amanda McGill,83
+Pierce,Plainview,Auditor,3,DEM,Amanda McGill,121
+Pierce,Pierce,Auditor,3,DEM,Amanda McGill,73
+Pierce,South Branch,Auditor,3,DEM,Amanda McGill,33
+Pierce,Pierce City,Auditor,3,DEM,Amanda McGill,100
+Pierce,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Pierce,Provisional,Auditor,3,DEM,Amanda McGill,0

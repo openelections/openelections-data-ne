@@ -1,0 +1,703 @@
+county,precinct,office,district,party,candidate,votes
+Dodge,Countywide,Senator,1,DEM,Dave Domina,0
+Dodge,Absentee/Early Vote,Senator,1,DEM,Dave Domina,417
+Dodge,Fremont - 1A,Senator,1,DEM,Dave Domina,130
+Dodge,Fremont - 1B,Senator,1,DEM,Dave Domina,114
+Dodge,Fremont - 1C,Senator,1,DEM,Dave Domina,134
+Dodge,Fremont - 1D,Senator,1,DEM,Dave Domina,57
+Dodge,Fremont - 1E,Senator,1,DEM,Dave Domina,110
+Dodge,Fremont - 2A,Senator,1,DEM,Dave Domina,78
+Dodge,Fremont - 2B,Senator,1,DEM,Dave Domina,61
+Dodge,Fremont - 2C,Senator,1,DEM,Dave Domina,137
+Dodge,Fremont - 2D,Senator,1,DEM,Dave Domina,48
+Dodge,Fremont - 2E,Senator,1,DEM,Dave Domina,99
+Dodge,Fremont - 3A,Senator,1,DEM,Dave Domina,51
+Dodge,Fremont - 3B,Senator,1,DEM,Dave Domina,33
+Dodge,Fremont - 3C,Senator,1,DEM,Dave Domina,68
+Dodge,Fremont - 3D,Senator,1,DEM,Dave Domina,79
+Dodge,Fremont - 3E,Senator,1,DEM,Dave Domina,82
+Dodge,Fremont - 4A,Senator,1,DEM,Dave Domina,91
+Dodge,Fremont - 4B,Senator,1,DEM,Dave Domina,48
+Dodge,Fremont - 4C,Senator,1,DEM,Dave Domina,121
+Dodge,Fremont - 4D,Senator,1,DEM,Dave Domina,111
+Dodge,Fremont - 4E,Senator,1,DEM,Dave Domina,42
+Dodge,City of North Bend,Senator,1,DEM,Dave Domina,127
+Dodge,City of Scribner,Senator,1,DEM,Dave Domina,59
+Dodge,Cuming/Everett Townships,Senator,1,DEM,Dave Domina,39
+Dodge,Webster Township,Senator,1,DEM,Dave Domina,71
+Dodge,Pebble Township,Senator,1,DEM,Dave Domina,30
+Dodge,Platte East,Senator,1,DEM,Dave Domina,47
+Dodge,Platte West,Senator,1,DEM,Dave Domina,73
+Dodge,Nickerson Township,Senator,1,DEM,Dave Domina,43
+Dodge,City of Hooper,Senator,1,DEM,Dave Domina,70
+Dodge,Hooper/Logan Townships,Senator,1,DEM,Dave Domina,39
+Dodge,Elkhorn Township,Senator,1,DEM,Dave Domina,27
+Dodge,Maple Township,Senator,1,DEM,Dave Domina,29
+Dodge,Union/Cott/Pl Val/Ridg Twps,Senator,1,DEM,Dave Domina,75
+Dodge,800,Senator,1,DEM,Dave Domina,0
+Dodge,801,Senator,1,DEM,Dave Domina,0
+Dodge,Absentee/Early Vote,Senator,1,DEM,Dave Domina,0
+Dodge,Provisional,Senator,1,DEM,Dave Domina,0
+Dodge,Countywide,Senator,1,ZZZ,Jim Jenkins,0
+Dodge,Absentee/Early Vote,Senator,1,ZZZ,Jim Jenkins,30
+Dodge,Fremont - 1A,Senator,1,ZZZ,Jim Jenkins,8
+Dodge,Fremont - 1B,Senator,1,ZZZ,Jim Jenkins,9
+Dodge,Fremont - 1C,Senator,1,ZZZ,Jim Jenkins,7
+Dodge,Fremont - 1D,Senator,1,ZZZ,Jim Jenkins,7
+Dodge,Fremont - 1E,Senator,1,ZZZ,Jim Jenkins,3
+Dodge,Fremont - 2A,Senator,1,ZZZ,Jim Jenkins,2
+Dodge,Fremont - 2B,Senator,1,ZZZ,Jim Jenkins,6
+Dodge,Fremont - 2C,Senator,1,ZZZ,Jim Jenkins,10
+Dodge,Fremont - 2D,Senator,1,ZZZ,Jim Jenkins,5
+Dodge,Fremont - 2E,Senator,1,ZZZ,Jim Jenkins,3
+Dodge,Fremont - 3A,Senator,1,ZZZ,Jim Jenkins,2
+Dodge,Fremont - 3B,Senator,1,ZZZ,Jim Jenkins,1
+Dodge,Fremont - 3C,Senator,1,ZZZ,Jim Jenkins,6
+Dodge,Fremont - 3D,Senator,1,ZZZ,Jim Jenkins,10
+Dodge,Fremont - 3E,Senator,1,ZZZ,Jim Jenkins,4
+Dodge,Fremont - 4A,Senator,1,ZZZ,Jim Jenkins,7
+Dodge,Fremont - 4B,Senator,1,ZZZ,Jim Jenkins,2
+Dodge,Fremont - 4C,Senator,1,ZZZ,Jim Jenkins,7
+Dodge,Fremont - 4D,Senator,1,ZZZ,Jim Jenkins,8
+Dodge,Fremont - 4E,Senator,1,ZZZ,Jim Jenkins,4
+Dodge,City of North Bend,Senator,1,ZZZ,Jim Jenkins,10
+Dodge,City of Scribner,Senator,1,ZZZ,Jim Jenkins,5
+Dodge,Cuming/Everett Townships,Senator,1,ZZZ,Jim Jenkins,4
+Dodge,Webster Township,Senator,1,ZZZ,Jim Jenkins,11
+Dodge,Pebble Township,Senator,1,ZZZ,Jim Jenkins,4
+Dodge,Platte East,Senator,1,ZZZ,Jim Jenkins,5
+Dodge,Platte West,Senator,1,ZZZ,Jim Jenkins,10
+Dodge,Nickerson Township,Senator,1,ZZZ,Jim Jenkins,7
+Dodge,City of Hooper,Senator,1,ZZZ,Jim Jenkins,3
+Dodge,Hooper/Logan Townships,Senator,1,ZZZ,Jim Jenkins,10
+Dodge,Elkhorn Township,Senator,1,ZZZ,Jim Jenkins,1
+Dodge,Maple Township,Senator,1,ZZZ,Jim Jenkins,3
+Dodge,Union/Cott/Pl Val/Ridg Twps,Senator,1,ZZZ,Jim Jenkins,2
+Dodge,800,Senator,1,ZZZ,Jim Jenkins,0
+Dodge,801,Senator,1,ZZZ,Jim Jenkins,0
+Dodge,Absentee/Early Vote,Senator,1,ZZZ,Jim Jenkins,0
+Dodge,Provisional,Senator,1,ZZZ,Jim Jenkins,0
+Dodge,Countywide,Senator,1,REP,Ben Sasse,0
+Dodge,Absentee/Early Vote,Senator,1,REP,Ben Sasse,698
+Dodge,Fremont - 1A,Senator,1,REP,Ben Sasse,300
+Dodge,Fremont - 1B,Senator,1,REP,Ben Sasse,221
+Dodge,Fremont - 1C,Senator,1,REP,Ben Sasse,415
+Dodge,Fremont - 1D,Senator,1,REP,Ben Sasse,142
+Dodge,Fremont - 1E,Senator,1,REP,Ben Sasse,278
+Dodge,Fremont - 2A,Senator,1,REP,Ben Sasse,181
+Dodge,Fremont - 2B,Senator,1,REP,Ben Sasse,179
+Dodge,Fremont - 2C,Senator,1,REP,Ben Sasse,362
+Dodge,Fremont - 2D,Senator,1,REP,Ben Sasse,131
+Dodge,Fremont - 2E,Senator,1,REP,Ben Sasse,242
+Dodge,Fremont - 3A,Senator,1,REP,Ben Sasse,120
+Dodge,Fremont - 3B,Senator,1,REP,Ben Sasse,52
+Dodge,Fremont - 3C,Senator,1,REP,Ben Sasse,104
+Dodge,Fremont - 3D,Senator,1,REP,Ben Sasse,186
+Dodge,Fremont - 3E,Senator,1,REP,Ben Sasse,172
+Dodge,Fremont - 4A,Senator,1,REP,Ben Sasse,231
+Dodge,Fremont - 4B,Senator,1,REP,Ben Sasse,151
+Dodge,Fremont - 4C,Senator,1,REP,Ben Sasse,327
+Dodge,Fremont - 4D,Senator,1,REP,Ben Sasse,421
+Dodge,Fremont - 4E,Senator,1,REP,Ben Sasse,117
+Dodge,City of North Bend,Senator,1,REP,Ben Sasse,236
+Dodge,City of Scribner,Senator,1,REP,Ben Sasse,229
+Dodge,Cuming/Everett Townships,Senator,1,REP,Ben Sasse,140
+Dodge,Webster Township,Senator,1,REP,Ben Sasse,189
+Dodge,Pebble Township,Senator,1,REP,Ben Sasse,126
+Dodge,Platte East,Senator,1,REP,Ben Sasse,102
+Dodge,Platte West,Senator,1,REP,Ben Sasse,302
+Dodge,Nickerson Township,Senator,1,REP,Ben Sasse,151
+Dodge,City of Hooper,Senator,1,REP,Ben Sasse,182
+Dodge,Hooper/Logan Townships,Senator,1,REP,Ben Sasse,223
+Dodge,Elkhorn Township,Senator,1,REP,Ben Sasse,96
+Dodge,Maple Township,Senator,1,REP,Ben Sasse,77
+Dodge,Union/Cott/Pl Val/Ridg Twps,Senator,1,REP,Ben Sasse,241
+Dodge,800,Senator,1,REP,Ben Sasse,0
+Dodge,801,Senator,1,REP,Ben Sasse,0
+Dodge,Absentee/Early Vote,Senator,1,REP,Ben Sasse,0
+Dodge,Provisional,Senator,1,REP,Ben Sasse,0
+Dodge,Countywide,Senator,1,ZZZ,Todd F. Watson,0
+Dodge,Absentee/Early Vote,Senator,1,ZZZ,Todd F. Watson,14
+Dodge,Fremont - 1A,Senator,1,ZZZ,Todd F. Watson,4
+Dodge,Fremont - 1B,Senator,1,ZZZ,Todd F. Watson,3
+Dodge,Fremont - 1C,Senator,1,ZZZ,Todd F. Watson,0
+Dodge,Fremont - 1D,Senator,1,ZZZ,Todd F. Watson,0
+Dodge,Fremont - 1E,Senator,1,ZZZ,Todd F. Watson,2
+Dodge,Fremont - 2A,Senator,1,ZZZ,Todd F. Watson,4
+Dodge,Fremont - 2B,Senator,1,ZZZ,Todd F. Watson,0
+Dodge,Fremont - 2C,Senator,1,ZZZ,Todd F. Watson,5
+Dodge,Fremont - 2D,Senator,1,ZZZ,Todd F. Watson,4
+Dodge,Fremont - 2E,Senator,1,ZZZ,Todd F. Watson,4
+Dodge,Fremont - 3A,Senator,1,ZZZ,Todd F. Watson,3
+Dodge,Fremont - 3B,Senator,1,ZZZ,Todd F. Watson,4
+Dodge,Fremont - 3C,Senator,1,ZZZ,Todd F. Watson,5
+Dodge,Fremont - 3D,Senator,1,ZZZ,Todd F. Watson,2
+Dodge,Fremont - 3E,Senator,1,ZZZ,Todd F. Watson,6
+Dodge,Fremont - 4A,Senator,1,ZZZ,Todd F. Watson,5
+Dodge,Fremont - 4B,Senator,1,ZZZ,Todd F. Watson,3
+Dodge,Fremont - 4C,Senator,1,ZZZ,Todd F. Watson,5
+Dodge,Fremont - 4D,Senator,1,ZZZ,Todd F. Watson,2
+Dodge,Fremont - 4E,Senator,1,ZZZ,Todd F. Watson,8
+Dodge,City of North Bend,Senator,1,ZZZ,Todd F. Watson,0
+Dodge,City of Scribner,Senator,1,ZZZ,Todd F. Watson,3
+Dodge,Cuming/Everett Townships,Senator,1,ZZZ,Todd F. Watson,1
+Dodge,Webster Township,Senator,1,ZZZ,Todd F. Watson,2
+Dodge,Pebble Township,Senator,1,ZZZ,Todd F. Watson,1
+Dodge,Platte East,Senator,1,ZZZ,Todd F. Watson,2
+Dodge,Platte West,Senator,1,ZZZ,Todd F. Watson,2
+Dodge,Nickerson Township,Senator,1,ZZZ,Todd F. Watson,2
+Dodge,City of Hooper,Senator,1,ZZZ,Todd F. Watson,4
+Dodge,Hooper/Logan Townships,Senator,1,ZZZ,Todd F. Watson,0
+Dodge,Elkhorn Township,Senator,1,ZZZ,Todd F. Watson,0
+Dodge,Maple Township,Senator,1,ZZZ,Todd F. Watson,0
+Dodge,Union/Cott/Pl Val/Ridg Twps,Senator,1,ZZZ,Todd F. Watson,3
+Dodge,800,Senator,1,ZZZ,Todd F. Watson,0
+Dodge,801,Senator,1,ZZZ,Todd F. Watson,0
+Dodge,Absentee/Early Vote,Senator,1,ZZZ,Todd F. Watson,0
+Dodge,Provisional,Senator,1,ZZZ,Todd F. Watson,0
+Dodge,Countywide,Representative,1,DEM,Dennis P. Crawford,0
+Dodge,Absentee/Early Vote,Representative,1,DEM,Dennis P. Crawford,409
+Dodge,Fremont - 1A,Representative,1,DEM,Dennis P. Crawford,127
+Dodge,Fremont - 1B,Representative,1,DEM,Dennis P. Crawford,107
+Dodge,Fremont - 1C,Representative,1,DEM,Dennis P. Crawford,124
+Dodge,Fremont - 1D,Representative,1,DEM,Dennis P. Crawford,63
+Dodge,Fremont - 1E,Representative,1,DEM,Dennis P. Crawford,99
+Dodge,Fremont - 2A,Representative,1,DEM,Dennis P. Crawford,73
+Dodge,Fremont - 2B,Representative,1,DEM,Dennis P. Crawford,55
+Dodge,Fremont - 2C,Representative,1,DEM,Dennis P. Crawford,136
+Dodge,Fremont - 2D,Representative,1,DEM,Dennis P. Crawford,55
+Dodge,Fremont - 2E,Representative,1,DEM,Dennis P. Crawford,89
+Dodge,Fremont - 3A,Representative,1,DEM,Dennis P. Crawford,48
+Dodge,Fremont - 3B,Representative,1,DEM,Dennis P. Crawford,30
+Dodge,Fremont - 3C,Representative,1,DEM,Dennis P. Crawford,61
+Dodge,Fremont - 3D,Representative,1,DEM,Dennis P. Crawford,99
+Dodge,Fremont - 3E,Representative,1,DEM,Dennis P. Crawford,82
+Dodge,Fremont - 4A,Representative,1,DEM,Dennis P. Crawford,97
+Dodge,Fremont - 4B,Representative,1,DEM,Dennis P. Crawford,55
+Dodge,Fremont - 4C,Representative,1,DEM,Dennis P. Crawford,112
+Dodge,Fremont - 4D,Representative,1,DEM,Dennis P. Crawford,119
+Dodge,Fremont - 4E,Representative,1,DEM,Dennis P. Crawford,47
+Dodge,City of North Bend,Representative,1,DEM,Dennis P. Crawford,89
+Dodge,City of Scribner,Representative,1,DEM,Dennis P. Crawford,57
+Dodge,Cuming/Everett Townships,Representative,1,DEM,Dennis P. Crawford,41
+Dodge,Webster Township,Representative,1,DEM,Dennis P. Crawford,57
+Dodge,Pebble Township,Representative,1,DEM,Dennis P. Crawford,14
+Dodge,Platte East,Representative,1,DEM,Dennis P. Crawford,51
+Dodge,Platte West,Representative,1,DEM,Dennis P. Crawford,67
+Dodge,Nickerson Township,Representative,1,DEM,Dennis P. Crawford,57
+Dodge,City of Hooper,Representative,1,DEM,Dennis P. Crawford,69
+Dodge,Hooper/Logan Townships,Representative,1,DEM,Dennis P. Crawford,34
+Dodge,Elkhorn Township,Representative,1,DEM,Dennis P. Crawford,33
+Dodge,Maple Township,Representative,1,DEM,Dennis P. Crawford,27
+Dodge,Union/Cott/Pl Val/Ridg Twps,Representative,1,DEM,Dennis P. Crawford,65
+Dodge,800,Representative,1,DEM,Dennis P. Crawford,0
+Dodge,801,Representative,1,DEM,Dennis P. Crawford,0
+Dodge,Absentee/Early Vote,Representative,1,DEM,Dennis P. Crawford,0
+Dodge,Provisional,Representative,1,DEM,Dennis P. Crawford,0
+Dodge,Countywide,Representative,1,REP,Jeff Fortenberry,0
+Dodge,Absentee/Early Vote,Representative,1,REP,Jeff Fortenberry,735
+Dodge,Fremont - 1A,Representative,1,REP,Jeff Fortenberry,306
+Dodge,Fremont - 1B,Representative,1,REP,Jeff Fortenberry,235
+Dodge,Fremont - 1C,Representative,1,REP,Jeff Fortenberry,424
+Dodge,Fremont - 1D,Representative,1,REP,Jeff Fortenberry,144
+Dodge,Fremont - 1E,Representative,1,REP,Jeff Fortenberry,290
+Dodge,Fremont - 2A,Representative,1,REP,Jeff Fortenberry,189
+Dodge,Fremont - 2B,Representative,1,REP,Jeff Fortenberry,190
+Dodge,Fremont - 2C,Representative,1,REP,Jeff Fortenberry,371
+Dodge,Fremont - 2D,Representative,1,REP,Jeff Fortenberry,128
+Dodge,Fremont - 2E,Representative,1,REP,Jeff Fortenberry,252
+Dodge,Fremont - 3A,Representative,1,REP,Jeff Fortenberry,125
+Dodge,Fremont - 3B,Representative,1,REP,Jeff Fortenberry,59
+Dodge,Fremont - 3C,Representative,1,REP,Jeff Fortenberry,116
+Dodge,Fremont - 3D,Representative,1,REP,Jeff Fortenberry,172
+Dodge,Fremont - 3E,Representative,1,REP,Jeff Fortenberry,179
+Dodge,Fremont - 4A,Representative,1,REP,Jeff Fortenberry,234
+Dodge,Fremont - 4B,Representative,1,REP,Jeff Fortenberry,145
+Dodge,Fremont - 4C,Representative,1,REP,Jeff Fortenberry,336
+Dodge,Fremont - 4D,Representative,1,REP,Jeff Fortenberry,414
+Dodge,Fremont - 4E,Representative,1,REP,Jeff Fortenberry,122
+Dodge,City of North Bend,Representative,1,REP,Jeff Fortenberry,275
+Dodge,City of Scribner,Representative,1,REP,Jeff Fortenberry,234
+Dodge,Cuming/Everett Townships,Representative,1,REP,Jeff Fortenberry,136
+Dodge,Webster Township,Representative,1,REP,Jeff Fortenberry,207
+Dodge,Pebble Township,Representative,1,REP,Jeff Fortenberry,142
+Dodge,Platte East,Representative,1,REP,Jeff Fortenberry,106
+Dodge,Platte West,Representative,1,REP,Jeff Fortenberry,315
+Dodge,Nickerson Township,Representative,1,REP,Jeff Fortenberry,139
+Dodge,City of Hooper,Representative,1,REP,Jeff Fortenberry,184
+Dodge,Hooper/Logan Townships,Representative,1,REP,Jeff Fortenberry,234
+Dodge,Elkhorn Township,Representative,1,REP,Jeff Fortenberry,91
+Dodge,Maple Township,Representative,1,REP,Jeff Fortenberry,78
+Dodge,Union/Cott/Pl Val/Ridg Twps,Representative,1,REP,Jeff Fortenberry,246
+Dodge,800,Representative,1,REP,Jeff Fortenberry,0
+Dodge,801,Representative,1,REP,Jeff Fortenberry,0
+Dodge,Absentee/Early Vote,Representative,1,REP,Jeff Fortenberry,0
+Dodge,Provisional,Representative,1,REP,Jeff Fortenberry,0
+Dodge,Countywide,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Dodge,Absentee/Early Vote,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,531
+Dodge,Fremont - 1A,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,187
+Dodge,Fremont - 1B,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,143
+Dodge,Fremont - 1C,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,179
+Dodge,Fremont - 1D,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,89
+Dodge,Fremont - 1E,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,161
+Dodge,Fremont - 2A,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,109
+Dodge,Fremont - 2B,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,95
+Dodge,Fremont - 2C,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,206
+Dodge,Fremont - 2D,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,71
+Dodge,Fremont - 2E,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,143
+Dodge,Fremont - 3A,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,74
+Dodge,Fremont - 3B,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,37
+Dodge,Fremont - 3C,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,72
+Dodge,Fremont - 3D,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,137
+Dodge,Fremont - 3E,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,117
+Dodge,Fremont - 4A,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,144
+Dodge,Fremont - 4B,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,83
+Dodge,Fremont - 4C,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,197
+Dodge,Fremont - 4D,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,178
+Dodge,Fremont - 4E,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,71
+Dodge,City of North Bend,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,160
+Dodge,City of Scribner,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,109
+Dodge,Cuming/Everett Townships,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,69
+Dodge,Webster Township,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,103
+Dodge,Pebble Township,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,43
+Dodge,Platte East,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,75
+Dodge,Platte West,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,110
+Dodge,Nickerson Township,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,84
+Dodge,City of Hooper,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,108
+Dodge,Hooper/Logan Townships,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,84
+Dodge,Elkhorn Township,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,45
+Dodge,Maple Township,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,41
+Dodge,Union/Cott/Pl Val/Ridg Twps,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,111
+Dodge,800,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Dodge,801,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Dodge,Absentee/Early Vote,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Dodge,Provisional,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Dodge,Countywide,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Dodge,Absentee/Early Vote,Governor,1,REP,Pete Ricketts and Mike Foley,584
+Dodge,Fremont - 1A,Governor,1,REP,Pete Ricketts and Mike Foley,220
+Dodge,Fremont - 1B,Governor,1,REP,Pete Ricketts and Mike Foley,177
+Dodge,Fremont - 1C,Governor,1,REP,Pete Ricketts and Mike Foley,366
+Dodge,Fremont - 1D,Governor,1,REP,Pete Ricketts and Mike Foley,104
+Dodge,Fremont - 1E,Governor,1,REP,Pete Ricketts and Mike Foley,222
+Dodge,Fremont - 2A,Governor,1,REP,Pete Ricketts and Mike Foley,139
+Dodge,Fremont - 2B,Governor,1,REP,Pete Ricketts and Mike Foley,140
+Dodge,Fremont - 2C,Governor,1,REP,Pete Ricketts and Mike Foley,288
+Dodge,Fremont - 2D,Governor,1,REP,Pete Ricketts and Mike Foley,102
+Dodge,Fremont - 2E,Governor,1,REP,Pete Ricketts and Mike Foley,185
+Dodge,Fremont - 3A,Governor,1,REP,Pete Ricketts and Mike Foley,91
+Dodge,Fremont - 3B,Governor,1,REP,Pete Ricketts and Mike Foley,43
+Dodge,Fremont - 3C,Governor,1,REP,Pete Ricketts and Mike Foley,90
+Dodge,Fremont - 3D,Governor,1,REP,Pete Ricketts and Mike Foley,117
+Dodge,Fremont - 3E,Governor,1,REP,Pete Ricketts and Mike Foley,122
+Dodge,Fremont - 4A,Governor,1,REP,Pete Ricketts and Mike Foley,172
+Dodge,Fremont - 4B,Governor,1,REP,Pete Ricketts and Mike Foley,106
+Dodge,Fremont - 4C,Governor,1,REP,Pete Ricketts and Mike Foley,248
+Dodge,Fremont - 4D,Governor,1,REP,Pete Ricketts and Mike Foley,347
+Dodge,Fremont - 4E,Governor,1,REP,Pete Ricketts and Mike Foley,86
+Dodge,City of North Bend,Governor,1,REP,Pete Ricketts and Mike Foley,204
+Dodge,City of Scribner,Governor,1,REP,Pete Ricketts and Mike Foley,167
+Dodge,Cuming/Everett Townships,Governor,1,REP,Pete Ricketts and Mike Foley,110
+Dodge,Webster Township,Governor,1,REP,Pete Ricketts and Mike Foley,161
+Dodge,Pebble Township,Governor,1,REP,Pete Ricketts and Mike Foley,103
+Dodge,Platte East,Governor,1,REP,Pete Ricketts and Mike Foley,76
+Dodge,Platte West,Governor,1,REP,Pete Ricketts and Mike Foley,254
+Dodge,Nickerson Township,Governor,1,REP,Pete Ricketts and Mike Foley,103
+Dodge,City of Hooper,Governor,1,REP,Pete Ricketts and Mike Foley,131
+Dodge,Hooper/Logan Townships,Governor,1,REP,Pete Ricketts and Mike Foley,172
+Dodge,Elkhorn Township,Governor,1,REP,Pete Ricketts and Mike Foley,74
+Dodge,Maple Township,Governor,1,REP,Pete Ricketts and Mike Foley,60
+Dodge,Union/Cott/Pl Val/Ridg Twps,Governor,1,REP,Pete Ricketts and Mike Foley,192
+Dodge,800,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Dodge,801,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Dodge,Absentee/Early Vote,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Dodge,Provisional,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Dodge,Countywide,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Dodge,Absentee/Early Vote,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,44
+Dodge,Fremont - 1A,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,30
+Dodge,Fremont - 1B,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,24
+Dodge,Fremont - 1C,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Dodge,Fremont - 1D,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,15
+Dodge,Fremont - 1E,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,7
+Dodge,Fremont - 2A,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,19
+Dodge,Fremont - 2B,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,9
+Dodge,Fremont - 2C,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,19
+Dodge,Fremont - 2D,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,9
+Dodge,Fremont - 2E,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Dodge,Fremont - 3A,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Dodge,Fremont - 3B,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Dodge,Fremont - 3C,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,18
+Dodge,Fremont - 3D,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,22
+Dodge,Fremont - 3E,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,23
+Dodge,Fremont - 4A,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,18
+Dodge,Fremont - 4B,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,14
+Dodge,Fremont - 4C,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,15
+Dodge,Fremont - 4D,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,15
+Dodge,Fremont - 4E,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,13
+Dodge,City of North Bend,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+Dodge,City of Scribner,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,15
+Dodge,Cuming/Everett Townships,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Dodge,Webster Township,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,7
+Dodge,Pebble Township,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,13
+Dodge,Platte East,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Dodge,Platte West,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,14
+Dodge,Nickerson Township,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Dodge,City of Hooper,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,19
+Dodge,Hooper/Logan Townships,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,13
+Dodge,Elkhorn Township,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,3
+Dodge,Maple Township,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,7
+Dodge,Union/Cott/Pl Val/Ridg Twps,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,18
+Dodge,800,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Dodge,801,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Dodge,Absentee/Early Vote,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Dodge,Provisional,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Dodge,Countywide,Secretary of State,1,LIB,Ben Backus,0
+Dodge,Absentee/Early Vote,Secretary of State,1,LIB,Ben Backus,269
+Dodge,Fremont - 1A,Secretary of State,1,LIB,Ben Backus,124
+Dodge,Fremont - 1B,Secretary of State,1,LIB,Ben Backus,99
+Dodge,Fremont - 1C,Secretary of State,1,LIB,Ben Backus,87
+Dodge,Fremont - 1D,Secretary of State,1,LIB,Ben Backus,59
+Dodge,Fremont - 1E,Secretary of State,1,LIB,Ben Backus,65
+Dodge,Fremont - 2A,Secretary of State,1,LIB,Ben Backus,69
+Dodge,Fremont - 2B,Secretary of State,1,LIB,Ben Backus,46
+Dodge,Fremont - 2C,Secretary of State,1,LIB,Ben Backus,127
+Dodge,Fremont - 2D,Secretary of State,1,LIB,Ben Backus,46
+Dodge,Fremont - 2E,Secretary of State,1,LIB,Ben Backus,60
+Dodge,Fremont - 3A,Secretary of State,1,LIB,Ben Backus,52
+Dodge,Fremont - 3B,Secretary of State,1,LIB,Ben Backus,29
+Dodge,Fremont - 3C,Secretary of State,1,LIB,Ben Backus,65
+Dodge,Fremont - 3D,Secretary of State,1,LIB,Ben Backus,85
+Dodge,Fremont - 3E,Secretary of State,1,LIB,Ben Backus,70
+Dodge,Fremont - 4A,Secretary of State,1,LIB,Ben Backus,82
+Dodge,Fremont - 4B,Secretary of State,1,LIB,Ben Backus,51
+Dodge,Fremont - 4C,Secretary of State,1,LIB,Ben Backus,90
+Dodge,Fremont - 4D,Secretary of State,1,LIB,Ben Backus,71
+Dodge,Fremont - 4E,Secretary of State,1,LIB,Ben Backus,59
+Dodge,City of North Bend,Secretary of State,1,LIB,Ben Backus,80
+Dodge,City of Scribner,Secretary of State,1,LIB,Ben Backus,64
+Dodge,Cuming/Everett Townships,Secretary of State,1,LIB,Ben Backus,26
+Dodge,Webster Township,Secretary of State,1,LIB,Ben Backus,56
+Dodge,Pebble Township,Secretary of State,1,LIB,Ben Backus,27
+Dodge,Platte East,Secretary of State,1,LIB,Ben Backus,42
+Dodge,Platte West,Secretary of State,1,LIB,Ben Backus,68
+Dodge,Nickerson Township,Secretary of State,1,LIB,Ben Backus,48
+Dodge,City of Hooper,Secretary of State,1,LIB,Ben Backus,51
+Dodge,Hooper/Logan Townships,Secretary of State,1,LIB,Ben Backus,44
+Dodge,Elkhorn Township,Secretary of State,1,LIB,Ben Backus,32
+Dodge,Maple Township,Secretary of State,1,LIB,Ben Backus,26
+Dodge,Union/Cott/Pl Val/Ridg Twps,Secretary of State,1,LIB,Ben Backus,42
+Dodge,800,Secretary of State,1,LIB,Ben Backus,0
+Dodge,801,Secretary of State,1,LIB,Ben Backus,0
+Dodge,Absentee/Early Vote,Secretary of State,1,LIB,Ben Backus,0
+Dodge,Provisional,Secretary of State,1,LIB,Ben Backus,0
+Dodge,Countywide,Secretary of State,1,REP,John A. Gale,0
+Dodge,Absentee/Early Vote,Secretary of State,1,REP,John A. Gale,761
+Dodge,Fremont - 1A,Secretary of State,1,REP,John A. Gale,280
+Dodge,Fremont - 1B,Secretary of State,1,REP,John A. Gale,223
+Dodge,Fremont - 1C,Secretary of State,1,REP,John A. Gale,424
+Dodge,Fremont - 1D,Secretary of State,1,REP,John A. Gale,138
+Dodge,Fremont - 1E,Secretary of State,1,REP,John A. Gale,284
+Dodge,Fremont - 2A,Secretary of State,1,REP,John A. Gale,172
+Dodge,Fremont - 2B,Secretary of State,1,REP,John A. Gale,184
+Dodge,Fremont - 2C,Secretary of State,1,REP,John A. Gale,346
+Dodge,Fremont - 2D,Secretary of State,1,REP,John A. Gale,119
+Dodge,Fremont - 2E,Secretary of State,1,REP,John A. Gale,260
+Dodge,Fremont - 3A,Secretary of State,1,REP,John A. Gale,113
+Dodge,Fremont - 3B,Secretary of State,1,REP,John A. Gale,54
+Dodge,Fremont - 3C,Secretary of State,1,REP,John A. Gale,103
+Dodge,Fremont - 3D,Secretary of State,1,REP,John A. Gale,169
+Dodge,Fremont - 3E,Secretary of State,1,REP,John A. Gale,175
+Dodge,Fremont - 4A,Secretary of State,1,REP,John A. Gale,232
+Dodge,Fremont - 4B,Secretary of State,1,REP,John A. Gale,134
+Dodge,Fremont - 4C,Secretary of State,1,REP,John A. Gale,332
+Dodge,Fremont - 4D,Secretary of State,1,REP,John A. Gale,421
+Dodge,Fremont - 4E,Secretary of State,1,REP,John A. Gale,98
+Dodge,City of North Bend,Secretary of State,1,REP,John A. Gale,241
+Dodge,City of Scribner,Secretary of State,1,REP,John A. Gale,200
+Dodge,Cuming/Everett Townships,Secretary of State,1,REP,John A. Gale,125
+Dodge,Webster Township,Secretary of State,1,REP,John A. Gale,175
+Dodge,Pebble Township,Secretary of State,1,REP,John A. Gale,123
+Dodge,Platte East,Secretary of State,1,REP,John A. Gale,110
+Dodge,Platte West,Secretary of State,1,REP,John A. Gale,291
+Dodge,Nickerson Township,Secretary of State,1,REP,John A. Gale,139
+Dodge,City of Hooper,Secretary of State,1,REP,John A. Gale,186
+Dodge,Hooper/Logan Townships,Secretary of State,1,REP,John A. Gale,204
+Dodge,Elkhorn Township,Secretary of State,1,REP,John A. Gale,85
+Dodge,Maple Township,Secretary of State,1,REP,John A. Gale,67
+Dodge,Union/Cott/Pl Val/Ridg Twps,Secretary of State,1,REP,John A. Gale,247
+Dodge,800,Secretary of State,1,REP,John A. Gale,0
+Dodge,801,Secretary of State,1,REP,John A. Gale,0
+Dodge,Absentee/Early Vote,Secretary of State,1,REP,John A. Gale,0
+Dodge,Provisional,Secretary of State,1,REP,John A. Gale,0
+Dodge,Countywide,State Treasurer,1,LIB,Michael Knebel,0
+Dodge,Absentee/Early Vote,State Treasurer,1,LIB,Michael Knebel,65
+Dodge,Fremont - 1A,State Treasurer,1,LIB,Michael Knebel,27
+Dodge,Fremont - 1B,State Treasurer,1,LIB,Michael Knebel,20
+Dodge,Fremont - 1C,State Treasurer,1,LIB,Michael Knebel,9
+Dodge,Fremont - 1D,State Treasurer,1,LIB,Michael Knebel,14
+Dodge,Fremont - 1E,State Treasurer,1,LIB,Michael Knebel,21
+Dodge,Fremont - 2A,State Treasurer,1,LIB,Michael Knebel,23
+Dodge,Fremont - 2B,State Treasurer,1,LIB,Michael Knebel,16
+Dodge,Fremont - 2C,State Treasurer,1,LIB,Michael Knebel,29
+Dodge,Fremont - 2D,State Treasurer,1,LIB,Michael Knebel,16
+Dodge,Fremont - 2E,State Treasurer,1,LIB,Michael Knebel,22
+Dodge,Fremont - 3A,State Treasurer,1,LIB,Michael Knebel,15
+Dodge,Fremont - 3B,State Treasurer,1,LIB,Michael Knebel,11
+Dodge,Fremont - 3C,State Treasurer,1,LIB,Michael Knebel,14
+Dodge,Fremont - 3D,State Treasurer,1,LIB,Michael Knebel,27
+Dodge,Fremont - 3E,State Treasurer,1,LIB,Michael Knebel,25
+Dodge,Fremont - 4A,State Treasurer,1,LIB,Michael Knebel,26
+Dodge,Fremont - 4B,State Treasurer,1,LIB,Michael Knebel,14
+Dodge,Fremont - 4C,State Treasurer,1,LIB,Michael Knebel,32
+Dodge,Fremont - 4D,State Treasurer,1,LIB,Michael Knebel,19
+Dodge,Fremont - 4E,State Treasurer,1,LIB,Michael Knebel,21
+Dodge,City of North Bend,State Treasurer,1,LIB,Michael Knebel,12
+Dodge,City of Scribner,State Treasurer,1,LIB,Michael Knebel,13
+Dodge,Cuming/Everett Townships,State Treasurer,1,LIB,Michael Knebel,8
+Dodge,Webster Township,State Treasurer,1,LIB,Michael Knebel,9
+Dodge,Pebble Township,State Treasurer,1,LIB,Michael Knebel,15
+Dodge,Platte East,State Treasurer,1,LIB,Michael Knebel,12
+Dodge,Platte West,State Treasurer,1,LIB,Michael Knebel,23
+Dodge,Nickerson Township,State Treasurer,1,LIB,Michael Knebel,15
+Dodge,City of Hooper,State Treasurer,1,LIB,Michael Knebel,17
+Dodge,Hooper/Logan Townships,State Treasurer,1,LIB,Michael Knebel,14
+Dodge,Elkhorn Township,State Treasurer,1,LIB,Michael Knebel,14
+Dodge,Maple Township,State Treasurer,1,LIB,Michael Knebel,7
+Dodge,Union/Cott/Pl Val/Ridg Twps,State Treasurer,1,LIB,Michael Knebel,11
+Dodge,800,State Treasurer,1,LIB,Michael Knebel,0
+Dodge,801,State Treasurer,1,LIB,Michael Knebel,0
+Dodge,Absentee/Early Vote,State Treasurer,1,LIB,Michael Knebel,0
+Dodge,Provisional,State Treasurer,1,LIB,Michael Knebel,0
+Dodge,Countywide,State Treasurer,1,DEM,Michael J. O'Hara,0
+Dodge,Absentee/Early Vote,State Treasurer,1,DEM,Michael J. O'Hara,360
+Dodge,Fremont - 1A,State Treasurer,1,DEM,Michael J. O'Hara,104
+Dodge,Fremont - 1B,State Treasurer,1,DEM,Michael J. O'Hara,86
+Dodge,Fremont - 1C,State Treasurer,1,DEM,Michael J. O'Hara,105
+Dodge,Fremont - 1D,State Treasurer,1,DEM,Michael J. O'Hara,53
+Dodge,Fremont - 1E,State Treasurer,1,DEM,Michael J. O'Hara,83
+Dodge,Fremont - 2A,State Treasurer,1,DEM,Michael J. O'Hara,66
+Dodge,Fremont - 2B,State Treasurer,1,DEM,Michael J. O'Hara,51
+Dodge,Fremont - 2C,State Treasurer,1,DEM,Michael J. O'Hara,119
+Dodge,Fremont - 2D,State Treasurer,1,DEM,Michael J. O'Hara,39
+Dodge,Fremont - 2E,State Treasurer,1,DEM,Michael J. O'Hara,76
+Dodge,Fremont - 3A,State Treasurer,1,DEM,Michael J. O'Hara,50
+Dodge,Fremont - 3B,State Treasurer,1,DEM,Michael J. O'Hara,32
+Dodge,Fremont - 3C,State Treasurer,1,DEM,Michael J. O'Hara,55
+Dodge,Fremont - 3D,State Treasurer,1,DEM,Michael J. O'Hara,79
+Dodge,Fremont - 3E,State Treasurer,1,DEM,Michael J. O'Hara,71
+Dodge,Fremont - 4A,State Treasurer,1,DEM,Michael J. O'Hara,87
+Dodge,Fremont - 4B,State Treasurer,1,DEM,Michael J. O'Hara,42
+Dodge,Fremont - 4C,State Treasurer,1,DEM,Michael J. O'Hara,92
+Dodge,Fremont - 4D,State Treasurer,1,DEM,Michael J. O'Hara,98
+Dodge,Fremont - 4E,State Treasurer,1,DEM,Michael J. O'Hara,37
+Dodge,City of North Bend,State Treasurer,1,DEM,Michael J. O'Hara,83
+Dodge,City of Scribner,State Treasurer,1,DEM,Michael J. O'Hara,49
+Dodge,Cuming/Everett Townships,State Treasurer,1,DEM,Michael J. O'Hara,23
+Dodge,Webster Township,State Treasurer,1,DEM,Michael J. O'Hara,54
+Dodge,Pebble Township,State Treasurer,1,DEM,Michael J. O'Hara,12
+Dodge,Platte East,State Treasurer,1,DEM,Michael J. O'Hara,46
+Dodge,Platte West,State Treasurer,1,DEM,Michael J. O'Hara,65
+Dodge,Nickerson Township,State Treasurer,1,DEM,Michael J. O'Hara,40
+Dodge,City of Hooper,State Treasurer,1,DEM,Michael J. O'Hara,56
+Dodge,Hooper/Logan Townships,State Treasurer,1,DEM,Michael J. O'Hara,25
+Dodge,Elkhorn Township,State Treasurer,1,DEM,Michael J. O'Hara,22
+Dodge,Maple Township,State Treasurer,1,DEM,Michael J. O'Hara,25
+Dodge,Union/Cott/Pl Val/Ridg Twps,State Treasurer,1,DEM,Michael J. O'Hara,49
+Dodge,800,State Treasurer,1,DEM,Michael J. O'Hara,0
+Dodge,801,State Treasurer,1,DEM,Michael J. O'Hara,0
+Dodge,Absentee/Early Vote,State Treasurer,1,DEM,Michael J. O'Hara,0
+Dodge,Provisional,State Treasurer,1,DEM,Michael J. O'Hara,0
+Dodge,Countywide,State Treasurer,1,REP,Don Stenberg,0
+Dodge,Absentee/Early Vote,State Treasurer,1,REP,Don Stenberg,703
+Dodge,Fremont - 1A,State Treasurer,1,REP,Don Stenberg,291
+Dodge,Fremont - 1B,State Treasurer,1,REP,Don Stenberg,227
+Dodge,Fremont - 1C,State Treasurer,1,REP,Don Stenberg,420
+Dodge,Fremont - 1D,State Treasurer,1,REP,Don Stenberg,138
+Dodge,Fremont - 1E,State Treasurer,1,REP,Don Stenberg,270
+Dodge,Fremont - 2A,State Treasurer,1,REP,Don Stenberg,168
+Dodge,Fremont - 2B,State Treasurer,1,REP,Don Stenberg,170
+Dodge,Fremont - 2C,State Treasurer,1,REP,Don Stenberg,348
+Dodge,Fremont - 2D,State Treasurer,1,REP,Don Stenberg,120
+Dodge,Fremont - 2E,State Treasurer,1,REP,Don Stenberg,243
+Dodge,Fremont - 3A,State Treasurer,1,REP,Don Stenberg,107
+Dodge,Fremont - 3B,State Treasurer,1,REP,Don Stenberg,44
+Dodge,Fremont - 3C,State Treasurer,1,REP,Don Stenberg,111
+Dodge,Fremont - 3D,State Treasurer,1,REP,Don Stenberg,158
+Dodge,Fremont - 3E,State Treasurer,1,REP,Don Stenberg,161
+Dodge,Fremont - 4A,State Treasurer,1,REP,Don Stenberg,215
+Dodge,Fremont - 4B,State Treasurer,1,REP,Don Stenberg,139
+Dodge,Fremont - 4C,State Treasurer,1,REP,Don Stenberg,319
+Dodge,Fremont - 4D,State Treasurer,1,REP,Don Stenberg,405
+Dodge,Fremont - 4E,State Treasurer,1,REP,Don Stenberg,106
+Dodge,City of North Bend,State Treasurer,1,REP,Don Stenberg,261
+Dodge,City of Scribner,State Treasurer,1,REP,Don Stenberg,223
+Dodge,Cuming/Everett Townships,State Treasurer,1,REP,Don Stenberg,139
+Dodge,Webster Township,State Treasurer,1,REP,Don Stenberg,196
+Dodge,Pebble Township,State Treasurer,1,REP,Don Stenberg,125
+Dodge,Platte East,State Treasurer,1,REP,Don Stenberg,99
+Dodge,Platte West,State Treasurer,1,REP,Don Stenberg,287
+Dodge,Nickerson Township,State Treasurer,1,REP,Don Stenberg,141
+Dodge,City of Hooper,State Treasurer,1,REP,Don Stenberg,180
+Dodge,Hooper/Logan Townships,State Treasurer,1,REP,Don Stenberg,225
+Dodge,Elkhorn Township,State Treasurer,1,REP,Don Stenberg,84
+Dodge,Maple Township,State Treasurer,1,REP,Don Stenberg,74
+Dodge,Union/Cott/Pl Val/Ridg Twps,State Treasurer,1,REP,Don Stenberg,246
+Dodge,800,State Treasurer,1,REP,Don Stenberg,0
+Dodge,801,State Treasurer,1,REP,Don Stenberg,0
+Dodge,Absentee/Early Vote,State Treasurer,1,REP,Don Stenberg,0
+Dodge,Provisional,State Treasurer,1,REP,Don Stenberg,0
+Dodge,Countywide,Attorney General,1,REP,Doug Peterson,0
+Dodge,Absentee/Early Vote,Attorney General,1,REP,Doug Peterson,640
+Dodge,Fremont - 1A,Attorney General,1,REP,Doug Peterson,255
+Dodge,Fremont - 1B,Attorney General,1,REP,Doug Peterson,199
+Dodge,Fremont - 1C,Attorney General,1,REP,Doug Peterson,361
+Dodge,Fremont - 1D,Attorney General,1,REP,Doug Peterson,126
+Dodge,Fremont - 1E,Attorney General,1,REP,Doug Peterson,237
+Dodge,Fremont - 2A,Attorney General,1,REP,Doug Peterson,166
+Dodge,Fremont - 2B,Attorney General,1,REP,Doug Peterson,158
+Dodge,Fremont - 2C,Attorney General,1,REP,Doug Peterson,311
+Dodge,Fremont - 2D,Attorney General,1,REP,Doug Peterson,116
+Dodge,Fremont - 2E,Attorney General,1,REP,Doug Peterson,218
+Dodge,Fremont - 3A,Attorney General,1,REP,Doug Peterson,106
+Dodge,Fremont - 3B,Attorney General,1,REP,Doug Peterson,50
+Dodge,Fremont - 3C,Attorney General,1,REP,Doug Peterson,102
+Dodge,Fremont - 3D,Attorney General,1,REP,Doug Peterson,143
+Dodge,Fremont - 3E,Attorney General,1,REP,Doug Peterson,158
+Dodge,Fremont - 4A,Attorney General,1,REP,Doug Peterson,204
+Dodge,Fremont - 4B,Attorney General,1,REP,Doug Peterson,115
+Dodge,Fremont - 4C,Attorney General,1,REP,Doug Peterson,273
+Dodge,Fremont - 4D,Attorney General,1,REP,Doug Peterson,357
+Dodge,Fremont - 4E,Attorney General,1,REP,Doug Peterson,101
+Dodge,City of North Bend,Attorney General,1,REP,Doug Peterson,221
+Dodge,City of Scribner,Attorney General,1,REP,Doug Peterson,196
+Dodge,Cuming/Everett Townships,Attorney General,1,REP,Doug Peterson,115
+Dodge,Webster Township,Attorney General,1,REP,Doug Peterson,164
+Dodge,Pebble Township,Attorney General,1,REP,Doug Peterson,121
+Dodge,Platte East,Attorney General,1,REP,Doug Peterson,87
+Dodge,Platte West,Attorney General,1,REP,Doug Peterson,267
+Dodge,Nickerson Township,Attorney General,1,REP,Doug Peterson,130
+Dodge,City of Hooper,Attorney General,1,REP,Doug Peterson,169
+Dodge,Hooper/Logan Townships,Attorney General,1,REP,Doug Peterson,210
+Dodge,Elkhorn Township,Attorney General,1,REP,Doug Peterson,75
+Dodge,Maple Township,Attorney General,1,REP,Doug Peterson,70
+Dodge,Union/Cott/Pl Val/Ridg Twps,Attorney General,1,REP,Doug Peterson,214
+Dodge,800,Attorney General,1,REP,Doug Peterson,0
+Dodge,801,Attorney General,1,REP,Doug Peterson,0
+Dodge,Absentee/Early Vote,Attorney General,1,REP,Doug Peterson,0
+Dodge,Provisional,Attorney General,1,REP,Doug Peterson,0
+Dodge,Countywide,Attorney General,1,DEM,Janet Stewart,0
+Dodge,Absentee/Early Vote,Attorney General,1,DEM,Janet Stewart,459
+Dodge,Fremont - 1A,Attorney General,1,DEM,Janet Stewart,161
+Dodge,Fremont - 1B,Attorney General,1,DEM,Janet Stewart,135
+Dodge,Fremont - 1C,Attorney General,1,DEM,Janet Stewart,159
+Dodge,Fremont - 1D,Attorney General,1,DEM,Janet Stewart,74
+Dodge,Fremont - 1E,Attorney General,1,DEM,Janet Stewart,126
+Dodge,Fremont - 2A,Attorney General,1,DEM,Janet Stewart,93
+Dodge,Fremont - 2B,Attorney General,1,DEM,Janet Stewart,76
+Dodge,Fremont - 2C,Attorney General,1,DEM,Janet Stewart,177
+Dodge,Fremont - 2D,Attorney General,1,DEM,Janet Stewart,55
+Dodge,Fremont - 2E,Attorney General,1,DEM,Janet Stewart,110
+Dodge,Fremont - 3A,Attorney General,1,DEM,Janet Stewart,62
+Dodge,Fremont - 3B,Attorney General,1,DEM,Janet Stewart,37
+Dodge,Fremont - 3C,Attorney General,1,DEM,Janet Stewart,74
+Dodge,Fremont - 3D,Attorney General,1,DEM,Janet Stewart,113
+Dodge,Fremont - 3E,Attorney General,1,DEM,Janet Stewart,96
+Dodge,Fremont - 4A,Attorney General,1,DEM,Janet Stewart,114
+Dodge,Fremont - 4B,Attorney General,1,DEM,Janet Stewart,77
+Dodge,Fremont - 4C,Attorney General,1,DEM,Janet Stewart,167
+Dodge,Fremont - 4D,Attorney General,1,DEM,Janet Stewart,152
+Dodge,Fremont - 4E,Attorney General,1,DEM,Janet Stewart,58
+Dodge,City of North Bend,Attorney General,1,DEM,Janet Stewart,109
+Dodge,City of Scribner,Attorney General,1,DEM,Janet Stewart,69
+Dodge,Cuming/Everett Townships,Attorney General,1,DEM,Janet Stewart,42
+Dodge,Webster Township,Attorney General,1,DEM,Janet Stewart,75
+Dodge,Pebble Township,Attorney General,1,DEM,Janet Stewart,26
+Dodge,Platte East,Attorney General,1,DEM,Janet Stewart,66
+Dodge,Platte West,Attorney General,1,DEM,Janet Stewart,96
+Dodge,Nickerson Township,Attorney General,1,DEM,Janet Stewart,64
+Dodge,City of Hooper,Attorney General,1,DEM,Janet Stewart,72
+Dodge,Hooper/Logan Townships,Attorney General,1,DEM,Janet Stewart,43
+Dodge,Elkhorn Township,Attorney General,1,DEM,Janet Stewart,40
+Dodge,Maple Township,Attorney General,1,DEM,Janet Stewart,32
+Dodge,Union/Cott/Pl Val/Ridg Twps,Attorney General,1,DEM,Janet Stewart,73
+Dodge,800,Attorney General,1,DEM,Janet Stewart,0
+Dodge,801,Attorney General,1,DEM,Janet Stewart,0
+Dodge,Absentee/Early Vote,Attorney General,1,DEM,Janet Stewart,0
+Dodge,Provisional,Attorney General,1,DEM,Janet Stewart,0
+Dodge,Countywide,Auditor,1,REP,Charlie Janssen,0
+Dodge,Absentee/Early Vote,Auditor,1,REP,Charlie Janssen,610
+Dodge,Fremont - 1A,Auditor,1,REP,Charlie Janssen,246
+Dodge,Fremont - 1B,Auditor,1,REP,Charlie Janssen,190
+Dodge,Fremont - 1C,Auditor,1,REP,Charlie Janssen,296
+Dodge,Fremont - 1D,Auditor,1,REP,Charlie Janssen,122
+Dodge,Fremont - 1E,Auditor,1,REP,Charlie Janssen,224
+Dodge,Fremont - 2A,Auditor,1,REP,Charlie Janssen,168
+Dodge,Fremont - 2B,Auditor,1,REP,Charlie Janssen,133
+Dodge,Fremont - 2C,Auditor,1,REP,Charlie Janssen,282
+Dodge,Fremont - 2D,Auditor,1,REP,Charlie Janssen,108
+Dodge,Fremont - 2E,Auditor,1,REP,Charlie Janssen,202
+Dodge,Fremont - 3A,Auditor,1,REP,Charlie Janssen,102
+Dodge,Fremont - 3B,Auditor,1,REP,Charlie Janssen,48
+Dodge,Fremont - 3C,Auditor,1,REP,Charlie Janssen,105
+Dodge,Fremont - 3D,Auditor,1,REP,Charlie Janssen,151
+Dodge,Fremont - 3E,Auditor,1,REP,Charlie Janssen,122
+Dodge,Fremont - 4A,Auditor,1,REP,Charlie Janssen,180
+Dodge,Fremont - 4B,Auditor,1,REP,Charlie Janssen,124
+Dodge,Fremont - 4C,Auditor,1,REP,Charlie Janssen,269
+Dodge,Fremont - 4D,Auditor,1,REP,Charlie Janssen,306
+Dodge,Fremont - 4E,Auditor,1,REP,Charlie Janssen,103
+Dodge,City of North Bend,Auditor,1,REP,Charlie Janssen,231
+Dodge,City of Scribner,Auditor,1,REP,Charlie Janssen,190
+Dodge,Cuming/Everett Townships,Auditor,1,REP,Charlie Janssen,95
+Dodge,Webster Township,Auditor,1,REP,Charlie Janssen,155
+Dodge,Pebble Township,Auditor,1,REP,Charlie Janssen,103
+Dodge,Platte East,Auditor,1,REP,Charlie Janssen,89
+Dodge,Platte West,Auditor,1,REP,Charlie Janssen,266
+Dodge,Nickerson Township,Auditor,1,REP,Charlie Janssen,112
+Dodge,City of Hooper,Auditor,1,REP,Charlie Janssen,139
+Dodge,Hooper/Logan Townships,Auditor,1,REP,Charlie Janssen,173
+Dodge,Elkhorn Township,Auditor,1,REP,Charlie Janssen,75
+Dodge,Maple Township,Auditor,1,REP,Charlie Janssen,65
+Dodge,Union/Cott/Pl Val/Ridg Twps,Auditor,1,REP,Charlie Janssen,201
+Dodge,800,Auditor,1,REP,Charlie Janssen,0
+Dodge,801,Auditor,1,REP,Charlie Janssen,0
+Dodge,Absentee/Early Vote,Auditor,1,REP,Charlie Janssen,0
+Dodge,Provisional,Auditor,1,REP,Charlie Janssen,0
+Dodge,Countywide,Auditor,1,DEM,Amanda McGill,0
+Dodge,Absentee/Early Vote,Auditor,1,DEM,Amanda McGill,521
+Dodge,Fremont - 1A,Auditor,1,DEM,Amanda McGill,179
+Dodge,Fremont - 1B,Auditor,1,DEM,Amanda McGill,144
+Dodge,Fremont - 1C,Auditor,1,DEM,Amanda McGill,241
+Dodge,Fremont - 1D,Auditor,1,DEM,Amanda McGill,84
+Dodge,Fremont - 1E,Auditor,1,DEM,Amanda McGill,159
+Dodge,Fremont - 2A,Auditor,1,DEM,Amanda McGill,93
+Dodge,Fremont - 2B,Auditor,1,DEM,Amanda McGill,103
+Dodge,Fremont - 2C,Auditor,1,DEM,Amanda McGill,219
+Dodge,Fremont - 2D,Auditor,1,DEM,Amanda McGill,67
+Dodge,Fremont - 2E,Auditor,1,DEM,Amanda McGill,135
+Dodge,Fremont - 3A,Auditor,1,DEM,Amanda McGill,72
+Dodge,Fremont - 3B,Auditor,1,DEM,Amanda McGill,37
+Dodge,Fremont - 3C,Auditor,1,DEM,Amanda McGill,73
+Dodge,Fremont - 3D,Auditor,1,DEM,Amanda McGill,120
+Dodge,Fremont - 3E,Auditor,1,DEM,Amanda McGill,136
+Dodge,Fremont - 4A,Auditor,1,DEM,Amanda McGill,152
+Dodge,Fremont - 4B,Auditor,1,DEM,Amanda McGill,72
+Dodge,Fremont - 4C,Auditor,1,DEM,Amanda McGill,182
+Dodge,Fremont - 4D,Auditor,1,DEM,Amanda McGill,218
+Dodge,Fremont - 4E,Auditor,1,DEM,Amanda McGill,64
+Dodge,City of North Bend,Auditor,1,DEM,Amanda McGill,130
+Dodge,City of Scribner,Auditor,1,DEM,Amanda McGill,101
+Dodge,Cuming/Everett Townships,Auditor,1,DEM,Amanda McGill,77
+Dodge,Webster Township,Auditor,1,DEM,Amanda McGill,91
+Dodge,Pebble Township,Auditor,1,DEM,Amanda McGill,48
+Dodge,Platte East,Auditor,1,DEM,Amanda McGill,68
+Dodge,Platte West,Auditor,1,DEM,Amanda McGill,109
+Dodge,Nickerson Township,Auditor,1,DEM,Amanda McGill,84
+Dodge,City of Hooper,Auditor,1,DEM,Amanda McGill,114
+Dodge,Hooper/Logan Townships,Auditor,1,DEM,Amanda McGill,92
+Dodge,Elkhorn Township,Auditor,1,DEM,Amanda McGill,48
+Dodge,Maple Township,Auditor,1,DEM,Amanda McGill,38
+Dodge,Union/Cott/Pl Val/Ridg Twps,Auditor,1,DEM,Amanda McGill,108
+Dodge,800,Auditor,1,DEM,Amanda McGill,0
+Dodge,801,Auditor,1,DEM,Amanda McGill,0
+Dodge,Absentee/Early Vote,Auditor,1,DEM,Amanda McGill,0
+Dodge,Provisional,Auditor,1,DEM,Amanda McGill,0

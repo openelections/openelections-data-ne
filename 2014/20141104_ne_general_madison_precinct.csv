@@ -1,0 +1,469 @@
+county,precinct,office,district,party,candidate,votes
+Madison,Countywide,Senator,1,DEM,Dave Domina,0
+Madison,Absentee/Early Vote,Senator,1,DEM,Dave Domina,379
+Madison,Norfolk 1-1,Senator,1,DEM,Dave Domina,136
+Madison,Norfolk 1-2,Senator,1,DEM,Dave Domina,104
+Madison,Norfolk 1-3,Senator,1,DEM,Dave Domina,129
+Madison,Norfolk 2-1,Senator,1,DEM,Dave Domina,200
+Madison,Norfolk 2-2,Senator,1,DEM,Dave Domina,146
+Madison,Norfolk 2-3,Senator,1,DEM,Dave Domina,181
+Madison,Norfolk 3-1,Senator,1,DEM,Dave Domina,119
+Madison,Norfolk 3-2,Senator,1,DEM,Dave Domina,108
+Madison,Norfolk 3-3,Senator,1,DEM,Dave Domina,136
+Madison,Norfolk 4-1,Senator,1,DEM,Dave Domina,76
+Madison,Norfolk 4-2,Senator,1,DEM,Dave Domina,118
+Madison,Norfolk 4-3,Senator,1,DEM,Dave Domina,98
+Madison,Norfolk,Senator,1,DEM,Dave Domina,90
+Madison,Valley,Senator,1,DEM,Dave Domina,69
+Madison,MG-Jefferson-Grove-High,Senator,1,DEM,Dave Domina,85
+Madison,Tilden 2nd Ward,Senator,1,DEM,Dave Domina,55
+Madison,Battle Creek City-BC,Senator,1,DEM,Dave Domina,128
+Madison,Warnerville,Senator,1,DEM,Dave Domina,24
+Madison,Union-Madison,Senator,1,DEM,Dave Domina,22
+Madison,Fairview-Kalamazoo-GG,Senator,1,DEM,Dave Domina,9
+Madison,School-Emer-Shell Crk-NG,Senator,1,DEM,Dave Domina,79
+Madison,Madison City,Senator,1,DEM,Dave Domina,145
+Madison,Absentee/Early Vote,Senator,1,DEM,Dave Domina,0
+Madison,Provisional,Senator,1,DEM,Dave Domina,0
+Madison,Countywide,Senator,1,ZZZ,Jim Jenkins,0
+Madison,Absentee/Early Vote,Senator,1,ZZZ,Jim Jenkins,21
+Madison,Norfolk 1-1,Senator,1,ZZZ,Jim Jenkins,14
+Madison,Norfolk 1-2,Senator,1,ZZZ,Jim Jenkins,7
+Madison,Norfolk 1-3,Senator,1,ZZZ,Jim Jenkins,7
+Madison,Norfolk 2-1,Senator,1,ZZZ,Jim Jenkins,15
+Madison,Norfolk 2-2,Senator,1,ZZZ,Jim Jenkins,8
+Madison,Norfolk 2-3,Senator,1,ZZZ,Jim Jenkins,8
+Madison,Norfolk 3-1,Senator,1,ZZZ,Jim Jenkins,4
+Madison,Norfolk 3-2,Senator,1,ZZZ,Jim Jenkins,10
+Madison,Norfolk 3-3,Senator,1,ZZZ,Jim Jenkins,11
+Madison,Norfolk 4-1,Senator,1,ZZZ,Jim Jenkins,5
+Madison,Norfolk 4-2,Senator,1,ZZZ,Jim Jenkins,10
+Madison,Norfolk 4-3,Senator,1,ZZZ,Jim Jenkins,5
+Madison,Norfolk,Senator,1,ZZZ,Jim Jenkins,7
+Madison,Valley,Senator,1,ZZZ,Jim Jenkins,6
+Madison,MG-Jefferson-Grove-High,Senator,1,ZZZ,Jim Jenkins,4
+Madison,Tilden 2nd Ward,Senator,1,ZZZ,Jim Jenkins,3
+Madison,Battle Creek City-BC,Senator,1,ZZZ,Jim Jenkins,8
+Madison,Warnerville,Senator,1,ZZZ,Jim Jenkins,1
+Madison,Union-Madison,Senator,1,ZZZ,Jim Jenkins,2
+Madison,Fairview-Kalamazoo-GG,Senator,1,ZZZ,Jim Jenkins,1
+Madison,School-Emer-Shell Crk-NG,Senator,1,ZZZ,Jim Jenkins,7
+Madison,Madison City,Senator,1,ZZZ,Jim Jenkins,15
+Madison,Absentee/Early Vote,Senator,1,ZZZ,Jim Jenkins,0
+Madison,Provisional,Senator,1,ZZZ,Jim Jenkins,0
+Madison,Countywide,Senator,1,REP,Ben Sasse,0
+Madison,Absentee/Early Vote,Senator,1,REP,Ben Sasse,664
+Madison,Norfolk 1-1,Senator,1,REP,Ben Sasse,363
+Madison,Norfolk 1-2,Senator,1,REP,Ben Sasse,254
+Madison,Norfolk 1-3,Senator,1,REP,Ben Sasse,237
+Madison,Norfolk 2-1,Senator,1,REP,Ben Sasse,551
+Madison,Norfolk 2-2,Senator,1,REP,Ben Sasse,452
+Madison,Norfolk 2-3,Senator,1,REP,Ben Sasse,493
+Madison,Norfolk 3-1,Senator,1,REP,Ben Sasse,236
+Madison,Norfolk 3-2,Senator,1,REP,Ben Sasse,183
+Madison,Norfolk 3-3,Senator,1,REP,Ben Sasse,334
+Madison,Norfolk 4-1,Senator,1,REP,Ben Sasse,159
+Madison,Norfolk 4-2,Senator,1,REP,Ben Sasse,288
+Madison,Norfolk 4-3,Senator,1,REP,Ben Sasse,189
+Madison,Norfolk,Senator,1,REP,Ben Sasse,284
+Madison,Valley,Senator,1,REP,Ben Sasse,289
+Madison,MG-Jefferson-Grove-High,Senator,1,REP,Ben Sasse,230
+Madison,Tilden 2nd Ward,Senator,1,REP,Ben Sasse,142
+Madison,Battle Creek City-BC,Senator,1,REP,Ben Sasse,318
+Madison,Warnerville,Senator,1,REP,Ben Sasse,97
+Madison,Union-Madison,Senator,1,REP,Ben Sasse,112
+Madison,Fairview-Kalamazoo-GG,Senator,1,REP,Ben Sasse,130
+Madison,School-Emer-Shell Crk-NG,Senator,1,REP,Ben Sasse,217
+Madison,Madison City,Senator,1,REP,Ben Sasse,254
+Madison,Absentee/Early Vote,Senator,1,REP,Ben Sasse,0
+Madison,Provisional,Senator,1,REP,Ben Sasse,0
+Madison,Countywide,Senator,1,ZZZ,Todd F. Watson,0
+Madison,Absentee/Early Vote,Senator,1,ZZZ,Todd F. Watson,8
+Madison,Norfolk 1-1,Senator,1,ZZZ,Todd F. Watson,2
+Madison,Norfolk 1-2,Senator,1,ZZZ,Todd F. Watson,3
+Madison,Norfolk 1-3,Senator,1,ZZZ,Todd F. Watson,3
+Madison,Norfolk 2-1,Senator,1,ZZZ,Todd F. Watson,5
+Madison,Norfolk 2-2,Senator,1,ZZZ,Todd F. Watson,6
+Madison,Norfolk 2-3,Senator,1,ZZZ,Todd F. Watson,4
+Madison,Norfolk 3-1,Senator,1,ZZZ,Todd F. Watson,5
+Madison,Norfolk 3-2,Senator,1,ZZZ,Todd F. Watson,5
+Madison,Norfolk 3-3,Senator,1,ZZZ,Todd F. Watson,8
+Madison,Norfolk 4-1,Senator,1,ZZZ,Todd F. Watson,2
+Madison,Norfolk 4-2,Senator,1,ZZZ,Todd F. Watson,4
+Madison,Norfolk 4-3,Senator,1,ZZZ,Todd F. Watson,8
+Madison,Norfolk,Senator,1,ZZZ,Todd F. Watson,2
+Madison,Valley,Senator,1,ZZZ,Todd F. Watson,1
+Madison,MG-Jefferson-Grove-High,Senator,1,ZZZ,Todd F. Watson,4
+Madison,Tilden 2nd Ward,Senator,1,ZZZ,Todd F. Watson,2
+Madison,Battle Creek City-BC,Senator,1,ZZZ,Todd F. Watson,1
+Madison,Warnerville,Senator,1,ZZZ,Todd F. Watson,2
+Madison,Union-Madison,Senator,1,ZZZ,Todd F. Watson,0
+Madison,Fairview-Kalamazoo-GG,Senator,1,ZZZ,Todd F. Watson,0
+Madison,School-Emer-Shell Crk-NG,Senator,1,ZZZ,Todd F. Watson,4
+Madison,Madison City,Senator,1,ZZZ,Todd F. Watson,10
+Madison,Absentee/Early Vote,Senator,1,ZZZ,Todd F. Watson,0
+Madison,Provisional,Senator,1,ZZZ,Todd F. Watson,0
+Madison,Countywide,Representative,1,DEM,Dennis P. Crawford,0
+Madison,Absentee/Early Vote,Representative,1,DEM,Dennis P. Crawford,258
+Madison,Norfolk 1-1,Representative,1,DEM,Dennis P. Crawford,67
+Madison,Norfolk 1-2,Representative,1,DEM,Dennis P. Crawford,64
+Madison,Norfolk 1-3,Representative,1,DEM,Dennis P. Crawford,79
+Madison,Norfolk 2-1,Representative,1,DEM,Dennis P. Crawford,105
+Madison,Norfolk 2-2,Representative,1,DEM,Dennis P. Crawford,81
+Madison,Norfolk 2-3,Representative,1,DEM,Dennis P. Crawford,119
+Madison,Norfolk 3-1,Representative,1,DEM,Dennis P. Crawford,75
+Madison,Norfolk 3-2,Representative,1,DEM,Dennis P. Crawford,66
+Madison,Norfolk 3-3,Representative,1,DEM,Dennis P. Crawford,88
+Madison,Norfolk 4-1,Representative,1,DEM,Dennis P. Crawford,49
+Madison,Norfolk 4-2,Representative,1,DEM,Dennis P. Crawford,75
+Madison,Norfolk 4-3,Representative,1,DEM,Dennis P. Crawford,73
+Madison,Norfolk,Representative,1,DEM,Dennis P. Crawford,44
+Madison,Valley,Representative,1,DEM,Dennis P. Crawford,42
+Madison,MG-Jefferson-Grove-High,Representative,1,DEM,Dennis P. Crawford,44
+Madison,Tilden 2nd Ward,Representative,1,DEM,Dennis P. Crawford,32
+Madison,Battle Creek City-BC,Representative,1,DEM,Dennis P. Crawford,62
+Madison,Warnerville,Representative,1,DEM,Dennis P. Crawford,13
+Madison,Union-Madison,Representative,1,DEM,Dennis P. Crawford,14
+Madison,Fairview-Kalamazoo-GG,Representative,1,DEM,Dennis P. Crawford,11
+Madison,School-Emer-Shell Crk-NG,Representative,1,DEM,Dennis P. Crawford,59
+Madison,Madison City,Representative,1,DEM,Dennis P. Crawford,84
+Madison,Absentee/Early Vote,Representative,1,DEM,Dennis P. Crawford,0
+Madison,Provisional,Representative,1,DEM,Dennis P. Crawford,0
+Madison,Countywide,Representative,1,REP,Jeff Fortenberry,0
+Madison,Absentee/Early Vote,Representative,1,REP,Jeff Fortenberry,808
+Madison,Norfolk 1-1,Representative,1,REP,Jeff Fortenberry,442
+Madison,Norfolk 1-2,Representative,1,REP,Jeff Fortenberry,304
+Madison,Norfolk 1-3,Representative,1,REP,Jeff Fortenberry,293
+Madison,Norfolk 2-1,Representative,1,REP,Jeff Fortenberry,655
+Madison,Norfolk 2-2,Representative,1,REP,Jeff Fortenberry,523
+Madison,Norfolk 2-3,Representative,1,REP,Jeff Fortenberry,570
+Madison,Norfolk 3-1,Representative,1,REP,Jeff Fortenberry,283
+Madison,Norfolk 3-2,Representative,1,REP,Jeff Fortenberry,235
+Madison,Norfolk 3-3,Representative,1,REP,Jeff Fortenberry,403
+Madison,Norfolk 4-1,Representative,1,REP,Jeff Fortenberry,189
+Madison,Norfolk 4-2,Representative,1,REP,Jeff Fortenberry,339
+Madison,Norfolk 4-3,Representative,1,REP,Jeff Fortenberry,225
+Madison,Norfolk,Representative,1,REP,Jeff Fortenberry,337
+Madison,Valley,Representative,1,REP,Jeff Fortenberry,317
+Madison,MG-Jefferson-Grove-High,Representative,1,REP,Jeff Fortenberry,266
+Madison,Tilden 2nd Ward,Representative,1,REP,Jeff Fortenberry,165
+Madison,Battle Creek City-BC,Representative,1,REP,Jeff Fortenberry,389
+Madison,Warnerville,Representative,1,REP,Jeff Fortenberry,112
+Madison,Union-Madison,Representative,1,REP,Jeff Fortenberry,121
+Madison,Fairview-Kalamazoo-GG,Representative,1,REP,Jeff Fortenberry,126
+Madison,School-Emer-Shell Crk-NG,Representative,1,REP,Jeff Fortenberry,240
+Madison,Madison City,Representative,1,REP,Jeff Fortenberry,330
+Madison,Absentee/Early Vote,Representative,1,REP,Jeff Fortenberry,0
+Madison,Provisional,Representative,1,REP,Jeff Fortenberry,0
+Madison,Countywide,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Madison,Absentee/Early Vote,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,372
+Madison,Norfolk 1-1,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,137
+Madison,Norfolk 1-2,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,98
+Madison,Norfolk 1-3,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,127
+Madison,Norfolk 2-1,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,175
+Madison,Norfolk 2-2,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,145
+Madison,Norfolk 2-3,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,177
+Madison,Norfolk 3-1,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,122
+Madison,Norfolk 3-2,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,91
+Madison,Norfolk 3-3,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,142
+Madison,Norfolk 4-1,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,67
+Madison,Norfolk 4-2,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,112
+Madison,Norfolk 4-3,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,109
+Madison,Norfolk,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,81
+Madison,Valley,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,66
+Madison,MG-Jefferson-Grove-High,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,87
+Madison,Tilden 2nd Ward,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,55
+Madison,Battle Creek City-BC,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,128
+Madison,Warnerville,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,22
+Madison,Union-Madison,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,36
+Madison,Fairview-Kalamazoo-GG,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,25
+Madison,School-Emer-Shell Crk-NG,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,111
+Madison,Madison City,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,143
+Madison,Absentee/Early Vote,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Madison,Provisional,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Madison,Countywide,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Madison,Absentee/Early Vote,Governor,1,REP,Pete Ricketts and Mike Foley,659
+Madison,Norfolk 1-1,Governor,1,REP,Pete Ricketts and Mike Foley,354
+Madison,Norfolk 1-2,Governor,1,REP,Pete Ricketts and Mike Foley,241
+Madison,Norfolk 1-3,Governor,1,REP,Pete Ricketts and Mike Foley,229
+Madison,Norfolk 2-1,Governor,1,REP,Pete Ricketts and Mike Foley,573
+Madison,Norfolk 2-2,Governor,1,REP,Pete Ricketts and Mike Foley,452
+Madison,Norfolk 2-3,Governor,1,REP,Pete Ricketts and Mike Foley,493
+Madison,Norfolk 3-1,Governor,1,REP,Pete Ricketts and Mike Foley,222
+Madison,Norfolk 3-2,Governor,1,REP,Pete Ricketts and Mike Foley,186
+Madison,Norfolk 3-3,Governor,1,REP,Pete Ricketts and Mike Foley,321
+Madison,Norfolk 4-1,Governor,1,REP,Pete Ricketts and Mike Foley,157
+Madison,Norfolk 4-2,Governor,1,REP,Pete Ricketts and Mike Foley,285
+Madison,Norfolk 4-3,Governor,1,REP,Pete Ricketts and Mike Foley,168
+Madison,Norfolk,Governor,1,REP,Pete Ricketts and Mike Foley,283
+Madison,Valley,Governor,1,REP,Pete Ricketts and Mike Foley,288
+Madison,MG-Jefferson-Grove-High,Governor,1,REP,Pete Ricketts and Mike Foley,215
+Madison,Tilden 2nd Ward,Governor,1,REP,Pete Ricketts and Mike Foley,141
+Madison,Battle Creek City-BC,Governor,1,REP,Pete Ricketts and Mike Foley,314
+Madison,Warnerville,Governor,1,REP,Pete Ricketts and Mike Foley,97
+Madison,Union-Madison,Governor,1,REP,Pete Ricketts and Mike Foley,97
+Madison,Fairview-Kalamazoo-GG,Governor,1,REP,Pete Ricketts and Mike Foley,105
+Madison,School-Emer-Shell Crk-NG,Governor,1,REP,Pete Ricketts and Mike Foley,168
+Madison,Madison City,Governor,1,REP,Pete Ricketts and Mike Foley,245
+Madison,Absentee/Early Vote,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Madison,Provisional,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Madison,Countywide,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Madison,Absentee/Early Vote,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,38
+Madison,Norfolk 1-1,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,18
+Madison,Norfolk 1-2,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,23
+Madison,Norfolk 1-3,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,19
+Madison,Norfolk 2-1,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,15
+Madison,Norfolk 2-2,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,15
+Madison,Norfolk 2-3,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,15
+Madison,Norfolk 3-1,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,18
+Madison,Norfolk 3-2,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,24
+Madison,Norfolk 3-3,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,20
+Madison,Norfolk 4-1,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,14
+Madison,Norfolk 4-2,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,14
+Madison,Norfolk 4-3,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,20
+Madison,Norfolk,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,16
+Madison,Valley,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Madison,MG-Jefferson-Grove-High,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,17
+Madison,Tilden 2nd Ward,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,9
+Madison,Battle Creek City-BC,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,9
+Madison,Warnerville,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Madison,Union-Madison,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,3
+Madison,Fairview-Kalamazoo-GG,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,6
+Madison,School-Emer-Shell Crk-NG,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,11
+Madison,Madison City,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,32
+Madison,Absentee/Early Vote,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Madison,Provisional,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Madison,Countywide,Secretary of State,1,LIB,Ben Backus,0
+Madison,Absentee/Early Vote,Secretary of State,1,LIB,Ben Backus,175
+Madison,Norfolk 1-1,Secretary of State,1,LIB,Ben Backus,75
+Madison,Norfolk 1-2,Secretary of State,1,LIB,Ben Backus,52
+Madison,Norfolk 1-3,Secretary of State,1,LIB,Ben Backus,80
+Madison,Norfolk 2-1,Secretary of State,1,LIB,Ben Backus,94
+Madison,Norfolk 2-2,Secretary of State,1,LIB,Ben Backus,82
+Madison,Norfolk 2-3,Secretary of State,1,LIB,Ben Backus,78
+Madison,Norfolk 3-1,Secretary of State,1,LIB,Ben Backus,81
+Madison,Norfolk 3-2,Secretary of State,1,LIB,Ben Backus,68
+Madison,Norfolk 3-3,Secretary of State,1,LIB,Ben Backus,82
+Madison,Norfolk 4-1,Secretary of State,1,LIB,Ben Backus,58
+Madison,Norfolk 4-2,Secretary of State,1,LIB,Ben Backus,80
+Madison,Norfolk 4-3,Secretary of State,1,LIB,Ben Backus,79
+Madison,Norfolk,Secretary of State,1,LIB,Ben Backus,39
+Madison,Valley,Secretary of State,1,LIB,Ben Backus,40
+Madison,MG-Jefferson-Grove-High,Secretary of State,1,LIB,Ben Backus,62
+Madison,Tilden 2nd Ward,Secretary of State,1,LIB,Ben Backus,22
+Madison,Battle Creek City-BC,Secretary of State,1,LIB,Ben Backus,61
+Madison,Warnerville,Secretary of State,1,LIB,Ben Backus,21
+Madison,Union-Madison,Secretary of State,1,LIB,Ben Backus,13
+Madison,Fairview-Kalamazoo-GG,Secretary of State,1,LIB,Ben Backus,10
+Madison,School-Emer-Shell Crk-NG,Secretary of State,1,LIB,Ben Backus,52
+Madison,Madison City,Secretary of State,1,LIB,Ben Backus,85
+Madison,Absentee/Early Vote,Secretary of State,1,LIB,Ben Backus,0
+Madison,Provisional,Secretary of State,1,LIB,Ben Backus,0
+Madison,Countywide,Secretary of State,1,REP,John A. Gale,0
+Madison,Absentee/Early Vote,Secretary of State,1,REP,John A. Gale,792
+Madison,Norfolk 1-1,Secretary of State,1,REP,John A. Gale,411
+Madison,Norfolk 1-2,Secretary of State,1,REP,John A. Gale,291
+Madison,Norfolk 1-3,Secretary of State,1,REP,John A. Gale,272
+Madison,Norfolk 2-1,Secretary of State,1,REP,John A. Gale,631
+Madison,Norfolk 2-2,Secretary of State,1,REP,John A. Gale,499
+Madison,Norfolk 2-3,Secretary of State,1,REP,John A. Gale,563
+Madison,Norfolk 3-1,Secretary of State,1,REP,John A. Gale,252
+Madison,Norfolk 3-2,Secretary of State,1,REP,John A. Gale,216
+Madison,Norfolk 3-3,Secretary of State,1,REP,John A. Gale,381
+Madison,Norfolk 4-1,Secretary of State,1,REP,John A. Gale,167
+Madison,Norfolk 4-2,Secretary of State,1,REP,John A. Gale,309
+Madison,Norfolk 4-3,Secretary of State,1,REP,John A. Gale,201
+Madison,Norfolk,Secretary of State,1,REP,John A. Gale,327
+Madison,Valley,Secretary of State,1,REP,John A. Gale,299
+Madison,MG-Jefferson-Grove-High,Secretary of State,1,REP,John A. Gale,236
+Madison,Tilden 2nd Ward,Secretary of State,1,REP,John A. Gale,166
+Madison,Battle Creek City-BC,Secretary of State,1,REP,John A. Gale,359
+Madison,Warnerville,Secretary of State,1,REP,John A. Gale,97
+Madison,Union-Madison,Secretary of State,1,REP,John A. Gale,112
+Madison,Fairview-Kalamazoo-GG,Secretary of State,1,REP,John A. Gale,122
+Madison,School-Emer-Shell Crk-NG,Secretary of State,1,REP,John A. Gale,221
+Madison,Madison City,Secretary of State,1,REP,John A. Gale,304
+Madison,Absentee/Early Vote,Secretary of State,1,REP,John A. Gale,0
+Madison,Provisional,Secretary of State,1,REP,John A. Gale,0
+Madison,Countywide,State Treasurer,1,LIB,Michael Knebel,0
+Madison,Absentee/Early Vote,State Treasurer,1,LIB,Michael Knebel,35
+Madison,Norfolk 1-1,State Treasurer,1,LIB,Michael Knebel,26
+Madison,Norfolk 1-2,State Treasurer,1,LIB,Michael Knebel,19
+Madison,Norfolk 1-3,State Treasurer,1,LIB,Michael Knebel,20
+Madison,Norfolk 2-1,State Treasurer,1,LIB,Michael Knebel,38
+Madison,Norfolk 2-2,State Treasurer,1,LIB,Michael Knebel,23
+Madison,Norfolk 2-3,State Treasurer,1,LIB,Michael Knebel,24
+Madison,Norfolk 3-1,State Treasurer,1,LIB,Michael Knebel,30
+Madison,Norfolk 3-2,State Treasurer,1,LIB,Michael Knebel,28
+Madison,Norfolk 3-3,State Treasurer,1,LIB,Michael Knebel,28
+Madison,Norfolk 4-1,State Treasurer,1,LIB,Michael Knebel,14
+Madison,Norfolk 4-2,State Treasurer,1,LIB,Michael Knebel,17
+Madison,Norfolk 4-3,State Treasurer,1,LIB,Michael Knebel,21
+Madison,Norfolk,State Treasurer,1,LIB,Michael Knebel,22
+Madison,Valley,State Treasurer,1,LIB,Michael Knebel,16
+Madison,MG-Jefferson-Grove-High,State Treasurer,1,LIB,Michael Knebel,25
+Madison,Tilden 2nd Ward,State Treasurer,1,LIB,Michael Knebel,9
+Madison,Battle Creek City-BC,State Treasurer,1,LIB,Michael Knebel,19
+Madison,Warnerville,State Treasurer,1,LIB,Michael Knebel,6
+Madison,Union-Madison,State Treasurer,1,LIB,Michael Knebel,5
+Madison,Fairview-Kalamazoo-GG,State Treasurer,1,LIB,Michael Knebel,2
+Madison,School-Emer-Shell Crk-NG,State Treasurer,1,LIB,Michael Knebel,15
+Madison,Madison City,State Treasurer,1,LIB,Michael Knebel,27
+Madison,Absentee/Early Vote,State Treasurer,1,LIB,Michael Knebel,0
+Madison,Provisional,State Treasurer,1,LIB,Michael Knebel,0
+Madison,Countywide,State Treasurer,1,DEM,Michael J. O'Hara,0
+Madison,Absentee/Early Vote,State Treasurer,1,DEM,Michael J. O'Hara,238
+Madison,Norfolk 1-1,State Treasurer,1,DEM,Michael J. O'Hara,71
+Madison,Norfolk 1-2,State Treasurer,1,DEM,Michael J. O'Hara,49
+Madison,Norfolk 1-3,State Treasurer,1,DEM,Michael J. O'Hara,73
+Madison,Norfolk 2-1,State Treasurer,1,DEM,Michael J. O'Hara,99
+Madison,Norfolk 2-2,State Treasurer,1,DEM,Michael J. O'Hara,75
+Madison,Norfolk 2-3,State Treasurer,1,DEM,Michael J. O'Hara,114
+Madison,Norfolk 3-1,State Treasurer,1,DEM,Michael J. O'Hara,67
+Madison,Norfolk 3-2,State Treasurer,1,DEM,Michael J. O'Hara,54
+Madison,Norfolk 3-3,State Treasurer,1,DEM,Michael J. O'Hara,70
+Madison,Norfolk 4-1,State Treasurer,1,DEM,Michael J. O'Hara,41
+Madison,Norfolk 4-2,State Treasurer,1,DEM,Michael J. O'Hara,66
+Madison,Norfolk 4-3,State Treasurer,1,DEM,Michael J. O'Hara,79
+Madison,Norfolk,State Treasurer,1,DEM,Michael J. O'Hara,36
+Madison,Valley,State Treasurer,1,DEM,Michael J. O'Hara,39
+Madison,MG-Jefferson-Grove-High,State Treasurer,1,DEM,Michael J. O'Hara,45
+Madison,Tilden 2nd Ward,State Treasurer,1,DEM,Michael J. O'Hara,21
+Madison,Battle Creek City-BC,State Treasurer,1,DEM,Michael J. O'Hara,53
+Madison,Warnerville,State Treasurer,1,DEM,Michael J. O'Hara,15
+Madison,Union-Madison,State Treasurer,1,DEM,Michael J. O'Hara,10
+Madison,Fairview-Kalamazoo-GG,State Treasurer,1,DEM,Michael J. O'Hara,8
+Madison,School-Emer-Shell Crk-NG,State Treasurer,1,DEM,Michael J. O'Hara,41
+Madison,Madison City,State Treasurer,1,DEM,Michael J. O'Hara,71
+Madison,Absentee/Early Vote,State Treasurer,1,DEM,Michael J. O'Hara,0
+Madison,Provisional,State Treasurer,1,DEM,Michael J. O'Hara,0
+Madison,Countywide,State Treasurer,1,REP,Don Stenberg,0
+Madison,Absentee/Early Vote,State Treasurer,1,REP,Don Stenberg,773
+Madison,Norfolk 1-1,State Treasurer,1,REP,Don Stenberg,411
+Madison,Norfolk 1-2,State Treasurer,1,REP,Don Stenberg,292
+Madison,Norfolk 1-3,State Treasurer,1,REP,Don Stenberg,269
+Madison,Norfolk 2-1,State Treasurer,1,REP,Don Stenberg,610
+Madison,Norfolk 2-2,State Treasurer,1,REP,Don Stenberg,502
+Madison,Norfolk 2-3,State Treasurer,1,REP,Don Stenberg,527
+Madison,Norfolk 3-1,State Treasurer,1,REP,Don Stenberg,256
+Madison,Norfolk 3-2,State Treasurer,1,REP,Don Stenberg,214
+Madison,Norfolk 3-3,State Treasurer,1,REP,Don Stenberg,380
+Madison,Norfolk 4-1,State Treasurer,1,REP,Don Stenberg,178
+Madison,Norfolk 4-2,State Treasurer,1,REP,Don Stenberg,320
+Madison,Norfolk 4-3,State Treasurer,1,REP,Don Stenberg,197
+Madison,Norfolk,State Treasurer,1,REP,Don Stenberg,320
+Madison,Valley,State Treasurer,1,REP,Don Stenberg,300
+Madison,MG-Jefferson-Grove-High,State Treasurer,1,REP,Don Stenberg,236
+Madison,Tilden 2nd Ward,State Treasurer,1,REP,Don Stenberg,165
+Madison,Battle Creek City-BC,State Treasurer,1,REP,Don Stenberg,368
+Madison,Warnerville,State Treasurer,1,REP,Don Stenberg,103
+Madison,Union-Madison,State Treasurer,1,REP,Don Stenberg,119
+Madison,Fairview-Kalamazoo-GG,State Treasurer,1,REP,Don Stenberg,128
+Madison,School-Emer-Shell Crk-NG,State Treasurer,1,REP,Don Stenberg,234
+Madison,Madison City,State Treasurer,1,REP,Don Stenberg,313
+Madison,Absentee/Early Vote,State Treasurer,1,REP,Don Stenberg,0
+Madison,Provisional,State Treasurer,1,REP,Don Stenberg,0
+Madison,Countywide,Attorney General,1,REP,Doug Peterson,0
+Madison,Absentee/Early Vote,Attorney General,1,REP,Doug Peterson,717
+Madison,Norfolk 1-1,Attorney General,1,REP,Doug Peterson,397
+Madison,Norfolk 1-2,Attorney General,1,REP,Doug Peterson,277
+Madison,Norfolk 1-3,Attorney General,1,REP,Doug Peterson,259
+Madison,Norfolk 2-1,Attorney General,1,REP,Doug Peterson,590
+Madison,Norfolk 2-2,Attorney General,1,REP,Doug Peterson,477
+Madison,Norfolk 2-3,Attorney General,1,REP,Doug Peterson,522
+Madison,Norfolk 3-1,Attorney General,1,REP,Doug Peterson,260
+Madison,Norfolk 3-2,Attorney General,1,REP,Doug Peterson,206
+Madison,Norfolk 3-3,Attorney General,1,REP,Doug Peterson,358
+Madison,Norfolk 4-1,Attorney General,1,REP,Doug Peterson,178
+Madison,Norfolk 4-2,Attorney General,1,REP,Doug Peterson,302
+Madison,Norfolk 4-3,Attorney General,1,REP,Doug Peterson,191
+Madison,Norfolk,Attorney General,1,REP,Doug Peterson,309
+Madison,Valley,Attorney General,1,REP,Doug Peterson,290
+Madison,MG-Jefferson-Grove-High,Attorney General,1,REP,Doug Peterson,224
+Madison,Tilden 2nd Ward,Attorney General,1,REP,Doug Peterson,151
+Madison,Battle Creek City-BC,Attorney General,1,REP,Doug Peterson,344
+Madison,Warnerville,Attorney General,1,REP,Doug Peterson,102
+Madison,Union-Madison,Attorney General,1,REP,Doug Peterson,111
+Madison,Fairview-Kalamazoo-GG,Attorney General,1,REP,Doug Peterson,120
+Madison,School-Emer-Shell Crk-NG,Attorney General,1,REP,Doug Peterson,222
+Madison,Madison City,Attorney General,1,REP,Doug Peterson,291
+Madison,Absentee/Early Vote,Attorney General,1,REP,Doug Peterson,0
+Madison,Provisional,Attorney General,1,REP,Doug Peterson,0
+Madison,Countywide,Attorney General,1,DEM,Janet Stewart,0
+Madison,Absentee/Early Vote,Attorney General,1,DEM,Janet Stewart,302
+Madison,Norfolk 1-1,Attorney General,1,DEM,Janet Stewart,90
+Madison,Norfolk 1-2,Attorney General,1,DEM,Janet Stewart,81
+Madison,Norfolk 1-3,Attorney General,1,DEM,Janet Stewart,94
+Madison,Norfolk 2-1,Attorney General,1,DEM,Janet Stewart,138
+Madison,Norfolk 2-2,Attorney General,1,DEM,Janet Stewart,103
+Madison,Norfolk 2-3,Attorney General,1,DEM,Janet Stewart,130
+Madison,Norfolk 3-1,Attorney General,1,DEM,Janet Stewart,92
+Madison,Norfolk 3-2,Attorney General,1,DEM,Janet Stewart,78
+Madison,Norfolk 3-3,Attorney General,1,DEM,Janet Stewart,111
+Madison,Norfolk 4-1,Attorney General,1,DEM,Janet Stewart,55
+Madison,Norfolk 4-2,Attorney General,1,DEM,Janet Stewart,98
+Madison,Norfolk 4-3,Attorney General,1,DEM,Janet Stewart,95
+Madison,Norfolk,Attorney General,1,DEM,Janet Stewart,60
+Madison,Valley,Attorney General,1,DEM,Janet Stewart,54
+Madison,MG-Jefferson-Grove-High,Attorney General,1,DEM,Janet Stewart,71
+Madison,Tilden 2nd Ward,Attorney General,1,DEM,Janet Stewart,39
+Madison,Battle Creek City-BC,Attorney General,1,DEM,Janet Stewart,81
+Madison,Warnerville,Attorney General,1,DEM,Janet Stewart,21
+Madison,Union-Madison,Attorney General,1,DEM,Janet Stewart,16
+Madison,Fairview-Kalamazoo-GG,Attorney General,1,DEM,Janet Stewart,11
+Madison,School-Emer-Shell Crk-NG,Attorney General,1,DEM,Janet Stewart,64
+Madison,Madison City,Attorney General,1,DEM,Janet Stewart,104
+Madison,Absentee/Early Vote,Attorney General,1,DEM,Janet Stewart,0
+Madison,Provisional,Attorney General,1,DEM,Janet Stewart,0
+Madison,Countywide,Auditor,1,REP,Charlie Janssen,0
+Madison,Absentee/Early Vote,Auditor,1,REP,Charlie Janssen,649
+Madison,Norfolk 1-1,Auditor,1,REP,Charlie Janssen,345
+Madison,Norfolk 1-2,Auditor,1,REP,Charlie Janssen,250
+Madison,Norfolk 1-3,Auditor,1,REP,Charlie Janssen,230
+Madison,Norfolk 2-1,Auditor,1,REP,Charlie Janssen,519
+Madison,Norfolk 2-2,Auditor,1,REP,Charlie Janssen,419
+Madison,Norfolk 2-3,Auditor,1,REP,Charlie Janssen,449
+Madison,Norfolk 3-1,Auditor,1,REP,Charlie Janssen,237
+Madison,Norfolk 3-2,Auditor,1,REP,Charlie Janssen,169
+Madison,Norfolk 3-3,Auditor,1,REP,Charlie Janssen,314
+Madison,Norfolk 4-1,Auditor,1,REP,Charlie Janssen,151
+Madison,Norfolk 4-2,Auditor,1,REP,Charlie Janssen,279
+Madison,Norfolk 4-3,Auditor,1,REP,Charlie Janssen,171
+Madison,Norfolk,Auditor,1,REP,Charlie Janssen,284
+Madison,Valley,Auditor,1,REP,Charlie Janssen,265
+Madison,MG-Jefferson-Grove-High,Auditor,1,REP,Charlie Janssen,200
+Madison,Tilden 2nd Ward,Auditor,1,REP,Charlie Janssen,144
+Madison,Battle Creek City-BC,Auditor,1,REP,Charlie Janssen,305
+Madison,Warnerville,Auditor,1,REP,Charlie Janssen,93
+Madison,Union-Madison,Auditor,1,REP,Charlie Janssen,98
+Madison,Fairview-Kalamazoo-GG,Auditor,1,REP,Charlie Janssen,95
+Madison,School-Emer-Shell Crk-NG,Auditor,1,REP,Charlie Janssen,179
+Madison,Madison City,Auditor,1,REP,Charlie Janssen,257
+Madison,Absentee/Early Vote,Auditor,1,REP,Charlie Janssen,0
+Madison,Provisional,Auditor,1,REP,Charlie Janssen,0
+Madison,Countywide,Auditor,1,DEM,Amanda McGill,0
+Madison,Absentee/Early Vote,Auditor,1,DEM,Amanda McGill,333
+Madison,Norfolk 1-1,Auditor,1,DEM,Amanda McGill,125
+Madison,Norfolk 1-2,Auditor,1,DEM,Amanda McGill,99
+Madison,Norfolk 1-3,Auditor,1,DEM,Amanda McGill,119
+Madison,Norfolk 2-1,Auditor,1,DEM,Amanda McGill,187
+Madison,Norfolk 2-2,Auditor,1,DEM,Amanda McGill,156
+Madison,Norfolk 2-3,Auditor,1,DEM,Amanda McGill,179
+Madison,Norfolk 3-1,Auditor,1,DEM,Amanda McGill,112
+Madison,Norfolk 3-2,Auditor,1,DEM,Amanda McGill,113
+Madison,Norfolk 3-3,Auditor,1,DEM,Amanda McGill,138
+Madison,Norfolk 4-1,Auditor,1,DEM,Amanda McGill,73
+Madison,Norfolk 4-2,Auditor,1,DEM,Amanda McGill,118
+Madison,Norfolk 4-3,Auditor,1,DEM,Amanda McGill,108
+Madison,Norfolk,Auditor,1,DEM,Amanda McGill,78
+Madison,Valley,Auditor,1,DEM,Amanda McGill,69
+Madison,MG-Jefferson-Grove-High,Auditor,1,DEM,Amanda McGill,83
+Madison,Tilden 2nd Ward,Auditor,1,DEM,Amanda McGill,37
+Madison,Battle Creek City-BC,Auditor,1,DEM,Amanda McGill,110
+Madison,Warnerville,Auditor,1,DEM,Amanda McGill,27
+Madison,Union-Madison,Auditor,1,DEM,Amanda McGill,29
+Madison,Fairview-Kalamazoo-GG,Auditor,1,DEM,Amanda McGill,24
+Madison,School-Emer-Shell Crk-NG,Auditor,1,DEM,Amanda McGill,87
+Madison,Madison City,Auditor,1,DEM,Amanda McGill,117
+Madison,Absentee/Early Vote,Auditor,1,DEM,Amanda McGill,0
+Madison,Provisional,Auditor,1,DEM,Amanda McGill,0

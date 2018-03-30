@@ -1,0 +1,681 @@
+county,precinct,office,district,party,candidate,votes
+Cass,Countywide,Senator,1,DEM,Dave Domina,0
+Cass,Absentee/Early Vote,Senator,1,DEM,Dave Domina,0
+Cass,Tipton,Senator,1,DEM,Dave Domina,186
+Cass,McKelverly,Senator,1,DEM,Dave Domina,55
+Cass,Salt Creek,Senator,1,DEM,Dave Domina,90
+Cass,Stove Creek,Senator,1,DEM,Dave Domina,94
+Cass,Murdock,Senator,1,DEM,Dave Domina,54
+Cass,South Bend,Senator,1,DEM,Dave Domina,85
+Cass,Center,Senator,1,DEM,Dave Domina,48
+Cass,East Louisville,Senator,1,DEM,Dave Domina,79
+Cass,West Louisville,Senator,1,DEM,Dave Domina,101
+Cass,Avoca,Senator,1,DEM,Dave Domina,46
+Cass,Mount Pleasant,Senator,1,DEM,Dave Domina,25
+Cass,Eight Mile Grove,Senator,1,DEM,Dave Domina,85
+Cass,Nehawka,Senator,1,DEM,Dave Domina,30
+Cass,Liberty,Senator,1,DEM,Dave Domina,51
+Cass,North Rock Bluff,Senator,1,DEM,Dave Domina,78
+Cass,South Rock Bluff,Senator,1,DEM,Dave Domina,128
+Cass,West Rock Bluff,Senator,1,DEM,Dave Domina,63
+Cass,North Plattsmouth,Senator,1,DEM,Dave Domina,183
+Cass,South Plattsmouth,Senator,1,DEM,Dave Domina,107
+Cass,Weeping Water 1st Ward,Senator,1,DEM,Dave Domina,55
+Cass,Weeping Water 2nd Ward,Senator,1,DEM,Dave Domina,59
+Cass,1st Ward - 1st Precinct,Senator,1,DEM,Dave Domina,74
+Cass,1st Ward - 2nd Precinct,Senator,1,DEM,Dave Domina,66
+Cass,2nd Ward - 1st Precinct,Senator,1,DEM,Dave Domina,82
+Cass,2nd Ward - 2nd Precinct,Senator,1,DEM,Dave Domina,52
+Cass,3rd Ward - 1st Precinct,Senator,1,DEM,Dave Domina,41
+Cass,3rd Ward - 2nd Precinct,Senator,1,DEM,Dave Domina,54
+Cass,4th Ward - 1st Precinct,Senator,1,DEM,Dave Domina,62
+Cass,4th Ward - 2nd Precinct,Senator,1,DEM,Dave Domina,76
+Cass,NPPD,Senator,1,DEM,Dave Domina,0
+Cass,Absentee/Early Vote,Senator,1,DEM,Dave Domina,0
+Cass,Provisional,Senator,1,DEM,Dave Domina,0
+Cass,Countywide,Senator,1,ZZZ,Jim Jenkins,0
+Cass,Absentee/Early Vote,Senator,1,ZZZ,Jim Jenkins,0
+Cass,Tipton,Senator,1,ZZZ,Jim Jenkins,30
+Cass,McKelverly,Senator,1,ZZZ,Jim Jenkins,8
+Cass,Salt Creek,Senator,1,ZZZ,Jim Jenkins,7
+Cass,Stove Creek,Senator,1,ZZZ,Jim Jenkins,8
+Cass,Murdock,Senator,1,ZZZ,Jim Jenkins,4
+Cass,South Bend,Senator,1,ZZZ,Jim Jenkins,9
+Cass,Center,Senator,1,ZZZ,Jim Jenkins,3
+Cass,East Louisville,Senator,1,ZZZ,Jim Jenkins,5
+Cass,West Louisville,Senator,1,ZZZ,Jim Jenkins,6
+Cass,Avoca,Senator,1,ZZZ,Jim Jenkins,5
+Cass,Mount Pleasant,Senator,1,ZZZ,Jim Jenkins,2
+Cass,Eight Mile Grove,Senator,1,ZZZ,Jim Jenkins,9
+Cass,Nehawka,Senator,1,ZZZ,Jim Jenkins,7
+Cass,Liberty,Senator,1,ZZZ,Jim Jenkins,5
+Cass,North Rock Bluff,Senator,1,ZZZ,Jim Jenkins,12
+Cass,South Rock Bluff,Senator,1,ZZZ,Jim Jenkins,11
+Cass,West Rock Bluff,Senator,1,ZZZ,Jim Jenkins,5
+Cass,North Plattsmouth,Senator,1,ZZZ,Jim Jenkins,10
+Cass,South Plattsmouth,Senator,1,ZZZ,Jim Jenkins,9
+Cass,Weeping Water 1st Ward,Senator,1,ZZZ,Jim Jenkins,3
+Cass,Weeping Water 2nd Ward,Senator,1,ZZZ,Jim Jenkins,3
+Cass,1st Ward - 1st Precinct,Senator,1,ZZZ,Jim Jenkins,4
+Cass,1st Ward - 2nd Precinct,Senator,1,ZZZ,Jim Jenkins,4
+Cass,2nd Ward - 1st Precinct,Senator,1,ZZZ,Jim Jenkins,5
+Cass,2nd Ward - 2nd Precinct,Senator,1,ZZZ,Jim Jenkins,4
+Cass,3rd Ward - 1st Precinct,Senator,1,ZZZ,Jim Jenkins,7
+Cass,3rd Ward - 2nd Precinct,Senator,1,ZZZ,Jim Jenkins,6
+Cass,4th Ward - 1st Precinct,Senator,1,ZZZ,Jim Jenkins,7
+Cass,4th Ward - 2nd Precinct,Senator,1,ZZZ,Jim Jenkins,6
+Cass,NPPD,Senator,1,ZZZ,Jim Jenkins,0
+Cass,Absentee/Early Vote,Senator,1,ZZZ,Jim Jenkins,0
+Cass,Provisional,Senator,1,ZZZ,Jim Jenkins,0
+Cass,Countywide,Senator,1,REP,Ben Sasse,0
+Cass,Absentee/Early Vote,Senator,1,REP,Ben Sasse,0
+Cass,Tipton,Senator,1,REP,Ben Sasse,448
+Cass,McKelverly,Senator,1,REP,Ben Sasse,106
+Cass,Salt Creek,Senator,1,REP,Ben Sasse,187
+Cass,Stove Creek,Senator,1,REP,Ben Sasse,225
+Cass,Murdock,Senator,1,REP,Ben Sasse,158
+Cass,South Bend,Senator,1,REP,Ben Sasse,261
+Cass,Center,Senator,1,REP,Ben Sasse,144
+Cass,East Louisville,Senator,1,REP,Ben Sasse,214
+Cass,West Louisville,Senator,1,REP,Ben Sasse,286
+Cass,Avoca,Senator,1,REP,Ben Sasse,121
+Cass,Mount Pleasant,Senator,1,REP,Ben Sasse,63
+Cass,Eight Mile Grove,Senator,1,REP,Ben Sasse,277
+Cass,Nehawka,Senator,1,REP,Ben Sasse,97
+Cass,Liberty,Senator,1,REP,Ben Sasse,160
+Cass,North Rock Bluff,Senator,1,REP,Ben Sasse,282
+Cass,South Rock Bluff,Senator,1,REP,Ben Sasse,457
+Cass,West Rock Bluff,Senator,1,REP,Ben Sasse,221
+Cass,North Plattsmouth,Senator,1,REP,Ben Sasse,586
+Cass,South Plattsmouth,Senator,1,REP,Ben Sasse,393
+Cass,Weeping Water 1st Ward,Senator,1,REP,Ben Sasse,137
+Cass,Weeping Water 2nd Ward,Senator,1,REP,Ben Sasse,126
+Cass,1st Ward - 1st Precinct,Senator,1,REP,Ben Sasse,152
+Cass,1st Ward - 2nd Precinct,Senator,1,REP,Ben Sasse,155
+Cass,2nd Ward - 1st Precinct,Senator,1,REP,Ben Sasse,182
+Cass,2nd Ward - 2nd Precinct,Senator,1,REP,Ben Sasse,146
+Cass,3rd Ward - 1st Precinct,Senator,1,REP,Ben Sasse,141
+Cass,3rd Ward - 2nd Precinct,Senator,1,REP,Ben Sasse,118
+Cass,4th Ward - 1st Precinct,Senator,1,REP,Ben Sasse,88
+Cass,4th Ward - 2nd Precinct,Senator,1,REP,Ben Sasse,131
+Cass,NPPD,Senator,1,REP,Ben Sasse,0
+Cass,Absentee/Early Vote,Senator,1,REP,Ben Sasse,0
+Cass,Provisional,Senator,1,REP,Ben Sasse,0
+Cass,Countywide,Senator,1,ZZZ,Todd F. Watson,0
+Cass,Absentee/Early Vote,Senator,1,ZZZ,Todd F. Watson,0
+Cass,Tipton,Senator,1,ZZZ,Todd F. Watson,15
+Cass,McKelverly,Senator,1,ZZZ,Todd F. Watson,3
+Cass,Salt Creek,Senator,1,ZZZ,Todd F. Watson,3
+Cass,Stove Creek,Senator,1,ZZZ,Todd F. Watson,1
+Cass,Murdock,Senator,1,ZZZ,Todd F. Watson,4
+Cass,South Bend,Senator,1,ZZZ,Todd F. Watson,2
+Cass,Center,Senator,1,ZZZ,Todd F. Watson,2
+Cass,East Louisville,Senator,1,ZZZ,Todd F. Watson,2
+Cass,West Louisville,Senator,1,ZZZ,Todd F. Watson,7
+Cass,Avoca,Senator,1,ZZZ,Todd F. Watson,1
+Cass,Mount Pleasant,Senator,1,ZZZ,Todd F. Watson,0
+Cass,Eight Mile Grove,Senator,1,ZZZ,Todd F. Watson,5
+Cass,Nehawka,Senator,1,ZZZ,Todd F. Watson,3
+Cass,Liberty,Senator,1,ZZZ,Todd F. Watson,4
+Cass,North Rock Bluff,Senator,1,ZZZ,Todd F. Watson,2
+Cass,South Rock Bluff,Senator,1,ZZZ,Todd F. Watson,3
+Cass,West Rock Bluff,Senator,1,ZZZ,Todd F. Watson,5
+Cass,North Plattsmouth,Senator,1,ZZZ,Todd F. Watson,6
+Cass,South Plattsmouth,Senator,1,ZZZ,Todd F. Watson,11
+Cass,Weeping Water 1st Ward,Senator,1,ZZZ,Todd F. Watson,3
+Cass,Weeping Water 2nd Ward,Senator,1,ZZZ,Todd F. Watson,3
+Cass,1st Ward - 1st Precinct,Senator,1,ZZZ,Todd F. Watson,1
+Cass,1st Ward - 2nd Precinct,Senator,1,ZZZ,Todd F. Watson,2
+Cass,2nd Ward - 1st Precinct,Senator,1,ZZZ,Todd F. Watson,3
+Cass,2nd Ward - 2nd Precinct,Senator,1,ZZZ,Todd F. Watson,1
+Cass,3rd Ward - 1st Precinct,Senator,1,ZZZ,Todd F. Watson,3
+Cass,3rd Ward - 2nd Precinct,Senator,1,ZZZ,Todd F. Watson,5
+Cass,4th Ward - 1st Precinct,Senator,1,ZZZ,Todd F. Watson,3
+Cass,4th Ward - 2nd Precinct,Senator,1,ZZZ,Todd F. Watson,6
+Cass,NPPD,Senator,1,ZZZ,Todd F. Watson,0
+Cass,Absentee/Early Vote,Senator,1,ZZZ,Todd F. Watson,0
+Cass,Provisional,Senator,1,ZZZ,Todd F. Watson,0
+Cass,Countywide,Representative,1,DEM,Dennis P. Crawford,0
+Cass,Absentee/Early Vote,Representative,1,DEM,Dennis P. Crawford,0
+Cass,Tipton,Representative,1,DEM,Dennis P. Crawford,181
+Cass,McKelverly,Representative,1,DEM,Dennis P. Crawford,56
+Cass,Salt Creek,Representative,1,DEM,Dennis P. Crawford,89
+Cass,Stove Creek,Representative,1,DEM,Dennis P. Crawford,90
+Cass,Murdock,Representative,1,DEM,Dennis P. Crawford,55
+Cass,South Bend,Representative,1,DEM,Dennis P. Crawford,79
+Cass,Center,Representative,1,DEM,Dennis P. Crawford,59
+Cass,East Louisville,Representative,1,DEM,Dennis P. Crawford,84
+Cass,West Louisville,Representative,1,DEM,Dennis P. Crawford,96
+Cass,Avoca,Representative,1,DEM,Dennis P. Crawford,49
+Cass,Mount Pleasant,Representative,1,DEM,Dennis P. Crawford,22
+Cass,Eight Mile Grove,Representative,1,DEM,Dennis P. Crawford,103
+Cass,Nehawka,Representative,1,DEM,Dennis P. Crawford,37
+Cass,Liberty,Representative,1,DEM,Dennis P. Crawford,50
+Cass,North Rock Bluff,Representative,1,DEM,Dennis P. Crawford,75
+Cass,South Rock Bluff,Representative,1,DEM,Dennis P. Crawford,140
+Cass,West Rock Bluff,Representative,1,DEM,Dennis P. Crawford,65
+Cass,North Plattsmouth,Representative,1,DEM,Dennis P. Crawford,181
+Cass,South Plattsmouth,Representative,1,DEM,Dennis P. Crawford,94
+Cass,Weeping Water 1st Ward,Representative,1,DEM,Dennis P. Crawford,56
+Cass,Weeping Water 2nd Ward,Representative,1,DEM,Dennis P. Crawford,63
+Cass,1st Ward - 1st Precinct,Representative,1,DEM,Dennis P. Crawford,71
+Cass,1st Ward - 2nd Precinct,Representative,1,DEM,Dennis P. Crawford,60
+Cass,2nd Ward - 1st Precinct,Representative,1,DEM,Dennis P. Crawford,79
+Cass,2nd Ward - 2nd Precinct,Representative,1,DEM,Dennis P. Crawford,61
+Cass,3rd Ward - 1st Precinct,Representative,1,DEM,Dennis P. Crawford,47
+Cass,3rd Ward - 2nd Precinct,Representative,1,DEM,Dennis P. Crawford,58
+Cass,4th Ward - 1st Precinct,Representative,1,DEM,Dennis P. Crawford,65
+Cass,4th Ward - 2nd Precinct,Representative,1,DEM,Dennis P. Crawford,87
+Cass,NPPD,Representative,1,DEM,Dennis P. Crawford,0
+Cass,Absentee/Early Vote,Representative,1,DEM,Dennis P. Crawford,0
+Cass,Provisional,Representative,1,DEM,Dennis P. Crawford,0
+Cass,Countywide,Representative,1,REP,Jeff Fortenberry,0
+Cass,Absentee/Early Vote,Representative,1,REP,Jeff Fortenberry,0
+Cass,Tipton,Representative,1,REP,Jeff Fortenberry,479
+Cass,McKelverly,Representative,1,REP,Jeff Fortenberry,112
+Cass,Salt Creek,Representative,1,REP,Jeff Fortenberry,193
+Cass,Stove Creek,Representative,1,REP,Jeff Fortenberry,228
+Cass,Murdock,Representative,1,REP,Jeff Fortenberry,167
+Cass,South Bend,Representative,1,REP,Jeff Fortenberry,269
+Cass,Center,Representative,1,REP,Jeff Fortenberry,135
+Cass,East Louisville,Representative,1,REP,Jeff Fortenberry,211
+Cass,West Louisville,Representative,1,REP,Jeff Fortenberry,290
+Cass,Avoca,Representative,1,REP,Jeff Fortenberry,123
+Cass,Mount Pleasant,Representative,1,REP,Jeff Fortenberry,69
+Cass,Eight Mile Grove,Representative,1,REP,Jeff Fortenberry,271
+Cass,Nehawka,Representative,1,REP,Jeff Fortenberry,99
+Cass,Liberty,Representative,1,REP,Jeff Fortenberry,166
+Cass,North Rock Bluff,Representative,1,REP,Jeff Fortenberry,290
+Cass,South Rock Bluff,Representative,1,REP,Jeff Fortenberry,453
+Cass,West Rock Bluff,Representative,1,REP,Jeff Fortenberry,222
+Cass,North Plattsmouth,Representative,1,REP,Jeff Fortenberry,592
+Cass,South Plattsmouth,Representative,1,REP,Jeff Fortenberry,422
+Cass,Weeping Water 1st Ward,Representative,1,REP,Jeff Fortenberry,138
+Cass,Weeping Water 2nd Ward,Representative,1,REP,Jeff Fortenberry,123
+Cass,1st Ward - 1st Precinct,Representative,1,REP,Jeff Fortenberry,156
+Cass,1st Ward - 2nd Precinct,Representative,1,REP,Jeff Fortenberry,165
+Cass,2nd Ward - 1st Precinct,Representative,1,REP,Jeff Fortenberry,187
+Cass,2nd Ward - 2nd Precinct,Representative,1,REP,Jeff Fortenberry,140
+Cass,3rd Ward - 1st Precinct,Representative,1,REP,Jeff Fortenberry,148
+Cass,3rd Ward - 2nd Precinct,Representative,1,REP,Jeff Fortenberry,119
+Cass,4th Ward - 1st Precinct,Representative,1,REP,Jeff Fortenberry,94
+Cass,4th Ward - 2nd Precinct,Representative,1,REP,Jeff Fortenberry,134
+Cass,NPPD,Representative,1,REP,Jeff Fortenberry,0
+Cass,Absentee/Early Vote,Representative,1,REP,Jeff Fortenberry,0
+Cass,Provisional,Representative,1,REP,Jeff Fortenberry,0
+Cass,Countywide,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Cass,Absentee/Early Vote,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Cass,Tipton,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,224
+Cass,McKelverly,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,72
+Cass,Salt Creek,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,113
+Cass,Stove Creek,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,135
+Cass,Murdock,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,76
+Cass,South Bend,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,127
+Cass,Center,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,80
+Cass,East Louisville,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,117
+Cass,West Louisville,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,138
+Cass,Avoca,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,66
+Cass,Mount Pleasant,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,30
+Cass,Eight Mile Grove,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,137
+Cass,Nehawka,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,51
+Cass,Liberty,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,79
+Cass,North Rock Bluff,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,110
+Cass,South Rock Bluff,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,198
+Cass,West Rock Bluff,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,115
+Cass,North Plattsmouth,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,228
+Cass,South Plattsmouth,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,152
+Cass,Weeping Water 1st Ward,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,90
+Cass,Weeping Water 2nd Ward,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,83
+Cass,1st Ward - 1st Precinct,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,85
+Cass,1st Ward - 2nd Precinct,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,80
+Cass,2nd Ward - 1st Precinct,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,93
+Cass,2nd Ward - 2nd Precinct,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,72
+Cass,3rd Ward - 1st Precinct,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,71
+Cass,3rd Ward - 2nd Precinct,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,66
+Cass,4th Ward - 1st Precinct,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,74
+Cass,4th Ward - 2nd Precinct,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,95
+Cass,NPPD,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Cass,Absentee/Early Vote,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Cass,Provisional,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Cass,Countywide,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Cass,Absentee/Early Vote,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Cass,Tipton,Governor,1,REP,Pete Ricketts and Mike Foley,435
+Cass,McKelverly,Governor,1,REP,Pete Ricketts and Mike Foley,93
+Cass,Salt Creek,Governor,1,REP,Pete Ricketts and Mike Foley,156
+Cass,Stove Creek,Governor,1,REP,Pete Ricketts and Mike Foley,184
+Cass,Murdock,Governor,1,REP,Pete Ricketts and Mike Foley,133
+Cass,South Bend,Governor,1,REP,Pete Ricketts and Mike Foley,218
+Cass,Center,Governor,1,REP,Pete Ricketts and Mike Foley,113
+Cass,East Louisville,Governor,1,REP,Pete Ricketts and Mike Foley,161
+Cass,West Louisville,Governor,1,REP,Pete Ricketts and Mike Foley,246
+Cass,Avoca,Governor,1,REP,Pete Ricketts and Mike Foley,99
+Cass,Mount Pleasant,Governor,1,REP,Pete Ricketts and Mike Foley,52
+Cass,Eight Mile Grove,Governor,1,REP,Pete Ricketts and Mike Foley,228
+Cass,Nehawka,Governor,1,REP,Pete Ricketts and Mike Foley,78
+Cass,Liberty,Governor,1,REP,Pete Ricketts and Mike Foley,130
+Cass,North Rock Bluff,Governor,1,REP,Pete Ricketts and Mike Foley,250
+Cass,South Rock Bluff,Governor,1,REP,Pete Ricketts and Mike Foley,368
+Cass,West Rock Bluff,Governor,1,REP,Pete Ricketts and Mike Foley,163
+Cass,North Plattsmouth,Governor,1,REP,Pete Ricketts and Mike Foley,530
+Cass,South Plattsmouth,Governor,1,REP,Pete Ricketts and Mike Foley,354
+Cass,Weeping Water 1st Ward,Governor,1,REP,Pete Ricketts and Mike Foley,101
+Cass,Weeping Water 2nd Ward,Governor,1,REP,Pete Ricketts and Mike Foley,90
+Cass,1st Ward - 1st Precinct,Governor,1,REP,Pete Ricketts and Mike Foley,125
+Cass,1st Ward - 2nd Precinct,Governor,1,REP,Pete Ricketts and Mike Foley,127
+Cass,2nd Ward - 1st Precinct,Governor,1,REP,Pete Ricketts and Mike Foley,167
+Cass,2nd Ward - 2nd Precinct,Governor,1,REP,Pete Ricketts and Mike Foley,123
+Cass,3rd Ward - 1st Precinct,Governor,1,REP,Pete Ricketts and Mike Foley,99
+Cass,3rd Ward - 2nd Precinct,Governor,1,REP,Pete Ricketts and Mike Foley,96
+Cass,4th Ward - 1st Precinct,Governor,1,REP,Pete Ricketts and Mike Foley,73
+Cass,4th Ward - 2nd Precinct,Governor,1,REP,Pete Ricketts and Mike Foley,115
+Cass,NPPD,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Cass,Absentee/Early Vote,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Cass,Provisional,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Cass,Countywide,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Cass,Absentee/Early Vote,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Cass,Tipton,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,24
+Cass,McKelverly,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Cass,Salt Creek,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,14
+Cass,Stove Creek,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,9
+Cass,Murdock,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Cass,South Bend,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Cass,Center,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,7
+Cass,East Louisville,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,17
+Cass,West Louisville,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,19
+Cass,Avoca,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+Cass,Mount Pleasant,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+Cass,Eight Mile Grove,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,21
+Cass,Nehawka,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Cass,Liberty,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Cass,North Rock Bluff,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Cass,South Rock Bluff,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,30
+Cass,West Rock Bluff,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,16
+Cass,North Plattsmouth,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,23
+Cass,South Plattsmouth,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,20
+Cass,Weeping Water 1st Ward,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,11
+Cass,Weeping Water 2nd Ward,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,17
+Cass,1st Ward - 1st Precinct,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,16
+Cass,1st Ward - 2nd Precinct,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,21
+Cass,2nd Ward - 1st Precinct,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+Cass,2nd Ward - 2nd Precinct,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+Cass,3rd Ward - 1st Precinct,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,24
+Cass,3rd Ward - 2nd Precinct,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,17
+Cass,4th Ward - 1st Precinct,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,11
+Cass,4th Ward - 2nd Precinct,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,14
+Cass,NPPD,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Cass,Absentee/Early Vote,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Cass,Provisional,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Cass,Countywide,Secretary of State,1,LIB,Ben Backus,0
+Cass,Absentee/Early Vote,Secretary of State,1,LIB,Ben Backus,0
+Cass,Tipton,Secretary of State,1,LIB,Ben Backus,148
+Cass,McKelverly,Secretary of State,1,LIB,Ben Backus,46
+Cass,Salt Creek,Secretary of State,1,LIB,Ben Backus,66
+Cass,Stove Creek,Secretary of State,1,LIB,Ben Backus,68
+Cass,Murdock,Secretary of State,1,LIB,Ben Backus,40
+Cass,South Bend,Secretary of State,1,LIB,Ben Backus,68
+Cass,Center,Secretary of State,1,LIB,Ben Backus,46
+Cass,East Louisville,Secretary of State,1,LIB,Ben Backus,85
+Cass,West Louisville,Secretary of State,1,LIB,Ben Backus,87
+Cass,Avoca,Secretary of State,1,LIB,Ben Backus,40
+Cass,Mount Pleasant,Secretary of State,1,LIB,Ben Backus,28
+Cass,Eight Mile Grove,Secretary of State,1,LIB,Ben Backus,87
+Cass,Nehawka,Secretary of State,1,LIB,Ben Backus,39
+Cass,Liberty,Secretary of State,1,LIB,Ben Backus,53
+Cass,North Rock Bluff,Secretary of State,1,LIB,Ben Backus,79
+Cass,South Rock Bluff,Secretary of State,1,LIB,Ben Backus,137
+Cass,West Rock Bluff,Secretary of State,1,LIB,Ben Backus,69
+Cass,North Plattsmouth,Secretary of State,1,LIB,Ben Backus,166
+Cass,South Plattsmouth,Secretary of State,1,LIB,Ben Backus,97
+Cass,Weeping Water 1st Ward,Secretary of State,1,LIB,Ben Backus,43
+Cass,Weeping Water 2nd Ward,Secretary of State,1,LIB,Ben Backus,64
+Cass,1st Ward - 1st Precinct,Secretary of State,1,LIB,Ben Backus,71
+Cass,1st Ward - 2nd Precinct,Secretary of State,1,LIB,Ben Backus,64
+Cass,2nd Ward - 1st Precinct,Secretary of State,1,LIB,Ben Backus,61
+Cass,2nd Ward - 2nd Precinct,Secretary of State,1,LIB,Ben Backus,50
+Cass,3rd Ward - 1st Precinct,Secretary of State,1,LIB,Ben Backus,50
+Cass,3rd Ward - 2nd Precinct,Secretary of State,1,LIB,Ben Backus,48
+Cass,4th Ward - 1st Precinct,Secretary of State,1,LIB,Ben Backus,58
+Cass,4th Ward - 2nd Precinct,Secretary of State,1,LIB,Ben Backus,72
+Cass,NPPD,Secretary of State,1,LIB,Ben Backus,0
+Cass,Absentee/Early Vote,Secretary of State,1,LIB,Ben Backus,0
+Cass,Provisional,Secretary of State,1,LIB,Ben Backus,0
+Cass,Countywide,Secretary of State,1,REP,John A. Gale,0
+Cass,Absentee/Early Vote,Secretary of State,1,REP,John A. Gale,0
+Cass,Tipton,Secretary of State,1,REP,John A. Gale,464
+Cass,McKelverly,Secretary of State,1,REP,John A. Gale,112
+Cass,Salt Creek,Secretary of State,1,REP,John A. Gale,185
+Cass,Stove Creek,Secretary of State,1,REP,John A. Gale,221
+Cass,Murdock,Secretary of State,1,REP,John A. Gale,157
+Cass,South Bend,Secretary of State,1,REP,John A. Gale,250
+Cass,Center,Secretary of State,1,REP,John A. Gale,136
+Cass,East Louisville,Secretary of State,1,REP,John A. Gale,168
+Cass,West Louisville,Secretary of State,1,REP,John A. Gale,268
+Cass,Avoca,Secretary of State,1,REP,John A. Gale,109
+Cass,Mount Pleasant,Secretary of State,1,REP,John A. Gale,53
+Cass,Eight Mile Grove,Secretary of State,1,REP,John A. Gale,263
+Cass,Nehawka,Secretary of State,1,REP,John A. Gale,84
+Cass,Liberty,Secretary of State,1,REP,John A. Gale,142
+Cass,North Rock Bluff,Secretary of State,1,REP,John A. Gale,270
+Cass,South Rock Bluff,Secretary of State,1,REP,John A. Gale,425
+Cass,West Rock Bluff,Secretary of State,1,REP,John A. Gale,199
+Cass,North Plattsmouth,Secretary of State,1,REP,John A. Gale,555
+Cass,South Plattsmouth,Secretary of State,1,REP,John A. Gale,378
+Cass,Weeping Water 1st Ward,Secretary of State,1,REP,John A. Gale,121
+Cass,Weeping Water 2nd Ward,Secretary of State,1,REP,John A. Gale,103
+Cass,1st Ward - 1st Precinct,Secretary of State,1,REP,John A. Gale,143
+Cass,1st Ward - 2nd Precinct,Secretary of State,1,REP,John A. Gale,149
+Cass,2nd Ward - 1st Precinct,Secretary of State,1,REP,John A. Gale,171
+Cass,2nd Ward - 2nd Precinct,Secretary of State,1,REP,John A. Gale,123
+Cass,3rd Ward - 1st Precinct,Secretary of State,1,REP,John A. Gale,133
+Cass,3rd Ward - 2nd Precinct,Secretary of State,1,REP,John A. Gale,107
+Cass,4th Ward - 1st Precinct,Secretary of State,1,REP,John A. Gale,83
+Cass,4th Ward - 2nd Precinct,Secretary of State,1,REP,John A. Gale,129
+Cass,NPPD,Secretary of State,1,REP,John A. Gale,0
+Cass,Absentee/Early Vote,Secretary of State,1,REP,John A. Gale,0
+Cass,Provisional,Secretary of State,1,REP,John A. Gale,0
+Cass,Countywide,State Treasurer,1,LIB,Michael Knebel,0
+Cass,Absentee/Early Vote,State Treasurer,1,LIB,Michael Knebel,0
+Cass,Tipton,State Treasurer,1,LIB,Michael Knebel,39
+Cass,McKelverly,State Treasurer,1,LIB,Michael Knebel,9
+Cass,Salt Creek,State Treasurer,1,LIB,Michael Knebel,19
+Cass,Stove Creek,State Treasurer,1,LIB,Michael Knebel,16
+Cass,Murdock,State Treasurer,1,LIB,Michael Knebel,13
+Cass,South Bend,State Treasurer,1,LIB,Michael Knebel,19
+Cass,Center,State Treasurer,1,LIB,Michael Knebel,13
+Cass,East Louisville,State Treasurer,1,LIB,Michael Knebel,17
+Cass,West Louisville,State Treasurer,1,LIB,Michael Knebel,29
+Cass,Avoca,State Treasurer,1,LIB,Michael Knebel,8
+Cass,Mount Pleasant,State Treasurer,1,LIB,Michael Knebel,11
+Cass,Eight Mile Grove,State Treasurer,1,LIB,Michael Knebel,18
+Cass,Nehawka,State Treasurer,1,LIB,Michael Knebel,17
+Cass,Liberty,State Treasurer,1,LIB,Michael Knebel,14
+Cass,North Rock Bluff,State Treasurer,1,LIB,Michael Knebel,18
+Cass,South Rock Bluff,State Treasurer,1,LIB,Michael Knebel,42
+Cass,West Rock Bluff,State Treasurer,1,LIB,Michael Knebel,20
+Cass,North Plattsmouth,State Treasurer,1,LIB,Michael Knebel,51
+Cass,South Plattsmouth,State Treasurer,1,LIB,Michael Knebel,34
+Cass,Weeping Water 1st Ward,State Treasurer,1,LIB,Michael Knebel,12
+Cass,Weeping Water 2nd Ward,State Treasurer,1,LIB,Michael Knebel,18
+Cass,1st Ward - 1st Precinct,State Treasurer,1,LIB,Michael Knebel,23
+Cass,1st Ward - 2nd Precinct,State Treasurer,1,LIB,Michael Knebel,18
+Cass,2nd Ward - 1st Precinct,State Treasurer,1,LIB,Michael Knebel,15
+Cass,2nd Ward - 2nd Precinct,State Treasurer,1,LIB,Michael Knebel,9
+Cass,3rd Ward - 1st Precinct,State Treasurer,1,LIB,Michael Knebel,22
+Cass,3rd Ward - 2nd Precinct,State Treasurer,1,LIB,Michael Knebel,18
+Cass,4th Ward - 1st Precinct,State Treasurer,1,LIB,Michael Knebel,14
+Cass,4th Ward - 2nd Precinct,State Treasurer,1,LIB,Michael Knebel,15
+Cass,NPPD,State Treasurer,1,LIB,Michael Knebel,0
+Cass,Absentee/Early Vote,State Treasurer,1,LIB,Michael Knebel,0
+Cass,Provisional,State Treasurer,1,LIB,Michael Knebel,0
+Cass,Countywide,State Treasurer,1,DEM,Michael J. O'Hara,0
+Cass,Absentee/Early Vote,State Treasurer,1,DEM,Michael J. O'Hara,0
+Cass,Tipton,State Treasurer,1,DEM,Michael J. O'Hara,147
+Cass,McKelverly,State Treasurer,1,DEM,Michael J. O'Hara,52
+Cass,Salt Creek,State Treasurer,1,DEM,Michael J. O'Hara,72
+Cass,Stove Creek,State Treasurer,1,DEM,Michael J. O'Hara,82
+Cass,Murdock,State Treasurer,1,DEM,Michael J. O'Hara,50
+Cass,South Bend,State Treasurer,1,DEM,Michael J. O'Hara,83
+Cass,Center,State Treasurer,1,DEM,Michael J. O'Hara,45
+Cass,East Louisville,State Treasurer,1,DEM,Michael J. O'Hara,69
+Cass,West Louisville,State Treasurer,1,DEM,Michael J. O'Hara,90
+Cass,Avoca,State Treasurer,1,DEM,Michael J. O'Hara,41
+Cass,Mount Pleasant,State Treasurer,1,DEM,Michael J. O'Hara,17
+Cass,Eight Mile Grove,State Treasurer,1,DEM,Michael J. O'Hara,82
+Cass,Nehawka,State Treasurer,1,DEM,Michael J. O'Hara,28
+Cass,Liberty,State Treasurer,1,DEM,Michael J. O'Hara,44
+Cass,North Rock Bluff,State Treasurer,1,DEM,Michael J. O'Hara,68
+Cass,South Rock Bluff,State Treasurer,1,DEM,Michael J. O'Hara,120
+Cass,West Rock Bluff,State Treasurer,1,DEM,Michael J. O'Hara,56
+Cass,North Plattsmouth,State Treasurer,1,DEM,Michael J. O'Hara,161
+Cass,South Plattsmouth,State Treasurer,1,DEM,Michael J. O'Hara,77
+Cass,Weeping Water 1st Ward,State Treasurer,1,DEM,Michael J. O'Hara,62
+Cass,Weeping Water 2nd Ward,State Treasurer,1,DEM,Michael J. O'Hara,58
+Cass,1st Ward - 1st Precinct,State Treasurer,1,DEM,Michael J. O'Hara,65
+Cass,1st Ward - 2nd Precinct,State Treasurer,1,DEM,Michael J. O'Hara,55
+Cass,2nd Ward - 1st Precinct,State Treasurer,1,DEM,Michael J. O'Hara,66
+Cass,2nd Ward - 2nd Precinct,State Treasurer,1,DEM,Michael J. O'Hara,60
+Cass,3rd Ward - 1st Precinct,State Treasurer,1,DEM,Michael J. O'Hara,41
+Cass,3rd Ward - 2nd Precinct,State Treasurer,1,DEM,Michael J. O'Hara,42
+Cass,4th Ward - 1st Precinct,State Treasurer,1,DEM,Michael J. O'Hara,53
+Cass,4th Ward - 2nd Precinct,State Treasurer,1,DEM,Michael J. O'Hara,71
+Cass,NPPD,State Treasurer,1,DEM,Michael J. O'Hara,0
+Cass,Absentee/Early Vote,State Treasurer,1,DEM,Michael J. O'Hara,0
+Cass,Provisional,State Treasurer,1,DEM,Michael J. O'Hara,0
+Cass,Countywide,State Treasurer,1,REP,Don Stenberg,0
+Cass,Absentee/Early Vote,State Treasurer,1,REP,Don Stenberg,0
+Cass,Tipton,State Treasurer,1,REP,Don Stenberg,457
+Cass,McKelverly,State Treasurer,1,REP,Don Stenberg,106
+Cass,Salt Creek,State Treasurer,1,REP,Don Stenberg,183
+Cass,Stove Creek,State Treasurer,1,REP,Don Stenberg,217
+Cass,Murdock,State Treasurer,1,REP,Don Stenberg,153
+Cass,South Bend,State Treasurer,1,REP,Don Stenberg,245
+Cass,Center,State Treasurer,1,REP,Don Stenberg,131
+Cass,East Louisville,State Treasurer,1,REP,Don Stenberg,196
+Cass,West Louisville,State Treasurer,1,REP,Don Stenberg,267
+Cass,Avoca,State Treasurer,1,REP,Don Stenberg,114
+Cass,Mount Pleasant,State Treasurer,1,REP,Don Stenberg,56
+Cass,Eight Mile Grove,State Treasurer,1,REP,Don Stenberg,267
+Cass,Nehawka,State Treasurer,1,REP,Don Stenberg,85
+Cass,Liberty,State Treasurer,1,REP,Don Stenberg,154
+Cass,North Rock Bluff,State Treasurer,1,REP,Don Stenberg,279
+Cass,South Rock Bluff,State Treasurer,1,REP,Don Stenberg,421
+Cass,West Rock Bluff,State Treasurer,1,REP,Don Stenberg,203
+Cass,North Plattsmouth,State Treasurer,1,REP,Don Stenberg,554
+Cass,South Plattsmouth,State Treasurer,1,REP,Don Stenberg,390
+Cass,Weeping Water 1st Ward,State Treasurer,1,REP,Don Stenberg,117
+Cass,Weeping Water 2nd Ward,State Treasurer,1,REP,Don Stenberg,106
+Cass,1st Ward - 1st Precinct,State Treasurer,1,REP,Don Stenberg,142
+Cass,1st Ward - 2nd Precinct,State Treasurer,1,REP,Don Stenberg,154
+Cass,2nd Ward - 1st Precinct,State Treasurer,1,REP,Don Stenberg,174
+Cass,2nd Ward - 2nd Precinct,State Treasurer,1,REP,Don Stenberg,127
+Cass,3rd Ward - 1st Precinct,State Treasurer,1,REP,Don Stenberg,130
+Cass,3rd Ward - 2nd Precinct,State Treasurer,1,REP,Don Stenberg,114
+Cass,4th Ward - 1st Precinct,State Treasurer,1,REP,Don Stenberg,87
+Cass,4th Ward - 2nd Precinct,State Treasurer,1,REP,Don Stenberg,130
+Cass,NPPD,State Treasurer,1,REP,Don Stenberg,0
+Cass,Absentee/Early Vote,State Treasurer,1,REP,Don Stenberg,0
+Cass,Provisional,State Treasurer,1,REP,Don Stenberg,0
+Cass,Countywide,Attorney General,1,REP,Doug Peterson,0
+Cass,Absentee/Early Vote,Attorney General,1,REP,Doug Peterson,0
+Cass,Tipton,Attorney General,1,REP,Doug Peterson,435
+Cass,McKelverly,Attorney General,1,REP,Doug Peterson,94
+Cass,Salt Creek,Attorney General,1,REP,Doug Peterson,170
+Cass,Stove Creek,Attorney General,1,REP,Doug Peterson,210
+Cass,Murdock,Attorney General,1,REP,Doug Peterson,150
+Cass,South Bend,Attorney General,1,REP,Doug Peterson,238
+Cass,Center,Attorney General,1,REP,Doug Peterson,128
+Cass,East Louisville,Attorney General,1,REP,Doug Peterson,176
+Cass,West Louisville,Attorney General,1,REP,Doug Peterson,263
+Cass,Avoca,Attorney General,1,REP,Doug Peterson,105
+Cass,Mount Pleasant,Attorney General,1,REP,Doug Peterson,53
+Cass,Eight Mile Grove,Attorney General,1,REP,Doug Peterson,237
+Cass,Nehawka,Attorney General,1,REP,Doug Peterson,84
+Cass,Liberty,Attorney General,1,REP,Doug Peterson,142
+Cass,North Rock Bluff,Attorney General,1,REP,Doug Peterson,263
+Cass,South Rock Bluff,Attorney General,1,REP,Doug Peterson,419
+Cass,West Rock Bluff,Attorney General,1,REP,Doug Peterson,186
+Cass,North Plattsmouth,Attorney General,1,REP,Doug Peterson,530
+Cass,South Plattsmouth,Attorney General,1,REP,Doug Peterson,377
+Cass,Weeping Water 1st Ward,Attorney General,1,REP,Doug Peterson,119
+Cass,Weeping Water 2nd Ward,Attorney General,1,REP,Doug Peterson,103
+Cass,1st Ward - 1st Precinct,Attorney General,1,REP,Doug Peterson,141
+Cass,1st Ward - 2nd Precinct,Attorney General,1,REP,Doug Peterson,142
+Cass,2nd Ward - 1st Precinct,Attorney General,1,REP,Doug Peterson,158
+Cass,2nd Ward - 2nd Precinct,Attorney General,1,REP,Doug Peterson,121
+Cass,3rd Ward - 1st Precinct,Attorney General,1,REP,Doug Peterson,131
+Cass,3rd Ward - 2nd Precinct,Attorney General,1,REP,Doug Peterson,105
+Cass,4th Ward - 1st Precinct,Attorney General,1,REP,Doug Peterson,75
+Cass,4th Ward - 2nd Precinct,Attorney General,1,REP,Doug Peterson,118
+Cass,NPPD,Attorney General,1,REP,Doug Peterson,0
+Cass,Absentee/Early Vote,Attorney General,1,REP,Doug Peterson,0
+Cass,Provisional,Attorney General,1,REP,Doug Peterson,0
+Cass,Countywide,Attorney General,1,DEM,Janet Stewart,0
+Cass,Absentee/Early Vote,Attorney General,1,DEM,Janet Stewart,0
+Cass,Tipton,Attorney General,1,DEM,Janet Stewart,190
+Cass,McKelverly,Attorney General,1,DEM,Janet Stewart,69
+Cass,Salt Creek,Attorney General,1,DEM,Janet Stewart,95
+Cass,Stove Creek,Attorney General,1,DEM,Janet Stewart,103
+Cass,Murdock,Attorney General,1,DEM,Janet Stewart,62
+Cass,South Bend,Attorney General,1,DEM,Janet Stewart,102
+Cass,Center,Attorney General,1,DEM,Janet Stewart,56
+Cass,East Louisville,Attorney General,1,DEM,Janet Stewart,93
+Cass,West Louisville,Attorney General,1,DEM,Janet Stewart,104
+Cass,Avoca,Attorney General,1,DEM,Janet Stewart,50
+Cass,Mount Pleasant,Attorney General,1,DEM,Janet Stewart,24
+Cass,Eight Mile Grove,Attorney General,1,DEM,Janet Stewart,118
+Cass,Nehawka,Attorney General,1,DEM,Janet Stewart,40
+Cass,Liberty,Attorney General,1,DEM,Janet Stewart,63
+Cass,North Rock Bluff,Attorney General,1,DEM,Janet Stewart,92
+Cass,South Rock Bluff,Attorney General,1,DEM,Janet Stewart,154
+Cass,West Rock Bluff,Attorney General,1,DEM,Janet Stewart,86
+Cass,North Plattsmouth,Attorney General,1,DEM,Janet Stewart,218
+Cass,South Plattsmouth,Attorney General,1,DEM,Janet Stewart,117
+Cass,Weeping Water 1st Ward,Attorney General,1,DEM,Janet Stewart,62
+Cass,Weeping Water 2nd Ward,Attorney General,1,DEM,Janet Stewart,69
+Cass,1st Ward - 1st Precinct,Attorney General,1,DEM,Janet Stewart,79
+Cass,1st Ward - 2nd Precinct,Attorney General,1,DEM,Janet Stewart,76
+Cass,2nd Ward - 1st Precinct,Attorney General,1,DEM,Janet Stewart,88
+Cass,2nd Ward - 2nd Precinct,Attorney General,1,DEM,Janet Stewart,67
+Cass,3rd Ward - 1st Precinct,Attorney General,1,DEM,Janet Stewart,57
+Cass,3rd Ward - 2nd Precinct,Attorney General,1,DEM,Janet Stewart,61
+Cass,4th Ward - 1st Precinct,Attorney General,1,DEM,Janet Stewart,79
+Cass,4th Ward - 2nd Precinct,Attorney General,1,DEM,Janet Stewart,93
+Cass,NPPD,Attorney General,1,DEM,Janet Stewart,0
+Cass,Absentee/Early Vote,Attorney General,1,DEM,Janet Stewart,0
+Cass,Provisional,Attorney General,1,DEM,Janet Stewart,0
+Cass,Countywide,Auditor,1,REP,Charlie Janssen,0
+Cass,Absentee/Early Vote,Auditor,1,REP,Charlie Janssen,0
+Cass,Tipton,Auditor,1,REP,Charlie Janssen,366
+Cass,McKelverly,Auditor,1,REP,Charlie Janssen,83
+Cass,Salt Creek,Auditor,1,REP,Charlie Janssen,151
+Cass,Stove Creek,Auditor,1,REP,Charlie Janssen,164
+Cass,Murdock,Auditor,1,REP,Charlie Janssen,120
+Cass,South Bend,Auditor,1,REP,Charlie Janssen,218
+Cass,Center,Auditor,1,REP,Charlie Janssen,107
+Cass,East Louisville,Auditor,1,REP,Charlie Janssen,151
+Cass,West Louisville,Auditor,1,REP,Charlie Janssen,234
+Cass,Avoca,Auditor,1,REP,Charlie Janssen,90
+Cass,Mount Pleasant,Auditor,1,REP,Charlie Janssen,43
+Cass,Eight Mile Grove,Auditor,1,REP,Charlie Janssen,228
+Cass,Nehawka,Auditor,1,REP,Charlie Janssen,72
+Cass,Liberty,Auditor,1,REP,Charlie Janssen,125
+Cass,North Rock Bluff,Auditor,1,REP,Charlie Janssen,237
+Cass,South Rock Bluff,Auditor,1,REP,Charlie Janssen,385
+Cass,West Rock Bluff,Auditor,1,REP,Charlie Janssen,168
+Cass,North Plattsmouth,Auditor,1,REP,Charlie Janssen,480
+Cass,South Plattsmouth,Auditor,1,REP,Charlie Janssen,325
+Cass,Weeping Water 1st Ward,Auditor,1,REP,Charlie Janssen,102
+Cass,Weeping Water 2nd Ward,Auditor,1,REP,Charlie Janssen,84
+Cass,1st Ward - 1st Precinct,Auditor,1,REP,Charlie Janssen,135
+Cass,1st Ward - 2nd Precinct,Auditor,1,REP,Charlie Janssen,131
+Cass,2nd Ward - 1st Precinct,Auditor,1,REP,Charlie Janssen,135
+Cass,2nd Ward - 2nd Precinct,Auditor,1,REP,Charlie Janssen,113
+Cass,3rd Ward - 1st Precinct,Auditor,1,REP,Charlie Janssen,116
+Cass,3rd Ward - 2nd Precinct,Auditor,1,REP,Charlie Janssen,102
+Cass,4th Ward - 1st Precinct,Auditor,1,REP,Charlie Janssen,79
+Cass,4th Ward - 2nd Precinct,Auditor,1,REP,Charlie Janssen,108
+Cass,NPPD,Auditor,1,REP,Charlie Janssen,0
+Cass,Absentee/Early Vote,Auditor,1,REP,Charlie Janssen,0
+Cass,Provisional,Auditor,1,REP,Charlie Janssen,0
+Cass,Countywide,Auditor,1,DEM,Amanda McGill,0
+Cass,Absentee/Early Vote,Auditor,1,DEM,Amanda McGill,0
+Cass,Tipton,Auditor,1,DEM,Amanda McGill,258
+Cass,McKelverly,Auditor,1,DEM,Amanda McGill,81
+Cass,Salt Creek,Auditor,1,DEM,Amanda McGill,108
+Cass,Stove Creek,Auditor,1,DEM,Amanda McGill,133
+Cass,Murdock,Auditor,1,DEM,Amanda McGill,82
+Cass,South Bend,Auditor,1,DEM,Amanda McGill,116
+Cass,Center,Auditor,1,DEM,Amanda McGill,71
+Cass,East Louisville,Auditor,1,DEM,Amanda McGill,110
+Cass,West Louisville,Auditor,1,DEM,Amanda McGill,127
+Cass,Avoca,Auditor,1,DEM,Amanda McGill,64
+Cass,Mount Pleasant,Auditor,1,DEM,Amanda McGill,32
+Cass,Eight Mile Grove,Auditor,1,DEM,Amanda McGill,127
+Cass,Nehawka,Auditor,1,DEM,Amanda McGill,48
+Cass,Liberty,Auditor,1,DEM,Amanda McGill,73
+Cass,North Rock Bluff,Auditor,1,DEM,Amanda McGill,117
+Cass,South Rock Bluff,Auditor,1,DEM,Amanda McGill,177
+Cass,West Rock Bluff,Auditor,1,DEM,Amanda McGill,99
+Cass,North Plattsmouth,Auditor,1,DEM,Amanda McGill,250
+Cass,South Plattsmouth,Auditor,1,DEM,Amanda McGill,148
+Cass,Weeping Water 1st Ward,Auditor,1,DEM,Amanda McGill,75
+Cass,Weeping Water 2nd Ward,Auditor,1,DEM,Amanda McGill,87
+Cass,1st Ward - 1st Precinct,Auditor,1,DEM,Amanda McGill,84
+Cass,1st Ward - 2nd Precinct,Auditor,1,DEM,Amanda McGill,84
+Cass,2nd Ward - 1st Precinct,Auditor,1,DEM,Amanda McGill,101
+Cass,2nd Ward - 2nd Precinct,Auditor,1,DEM,Amanda McGill,68
+Cass,3rd Ward - 1st Precinct,Auditor,1,DEM,Amanda McGill,65
+Cass,3rd Ward - 2nd Precinct,Auditor,1,DEM,Amanda McGill,65
+Cass,4th Ward - 1st Precinct,Auditor,1,DEM,Amanda McGill,72
+Cass,4th Ward - 2nd Precinct,Auditor,1,DEM,Amanda McGill,106
+Cass,NPPD,Auditor,1,DEM,Amanda McGill,0
+Cass,Absentee/Early Vote,Auditor,1,DEM,Amanda McGill,0
+Cass,Provisional,Auditor,1,DEM,Amanda McGill,0
+Cass,Countywide,Legislature,LD0002,NON,Bill Kintner,0
+Cass,Absentee/Early Vote,Legislature,LD0002,NON,Bill Kintner,0
+Cass,Tipton,Legislature,LD0002,NON,Bill Kintner,354
+Cass,McKelverly,Legislature,LD0002,NON,Bill Kintner,72
+Cass,Salt Creek,Legislature,LD0002,NON,Bill Kintner,150
+Cass,Stove Creek,Legislature,LD0002,NON,Bill Kintner,179
+Cass,Murdock,Legislature,LD0002,NON,Bill Kintner,121
+Cass,South Bend,Legislature,LD0002,NON,Bill Kintner,206
+Cass,Center,Legislature,LD0002,NON,Bill Kintner,88
+Cass,East Louisville,Legislature,LD0002,NON,Bill Kintner,157
+Cass,West Louisville,Legislature,LD0002,NON,Bill Kintner,224
+Cass,Avoca,Legislature,LD0002,NON,Bill Kintner,94
+Cass,Mount Pleasant,Legislature,LD0002,NON,Bill Kintner,29
+Cass,Eight Mile Grove,Legislature,LD0002,NON,Bill Kintner,233
+Cass,Nehawka,Legislature,LD0002,NON,Bill Kintner,75
+Cass,Liberty,Legislature,LD0002,NON,Bill Kintner,120
+Cass,North Rock Bluff,Legislature,LD0002,NON,Bill Kintner,216
+Cass,South Rock Bluff,Legislature,LD0002,NON,Bill Kintner,338
+Cass,West Rock Bluff,Legislature,LD0002,NON,Bill Kintner,142
+Cass,North Plattsmouth,Legislature,LD0002,NON,Bill Kintner,465
+Cass,South Plattsmouth,Legislature,LD0002,NON,Bill Kintner,249
+Cass,Weeping Water 1st Ward,Legislature,LD0002,NON,Bill Kintner,92
+Cass,Weeping Water 2nd Ward,Legislature,LD0002,NON,Bill Kintner,67
+Cass,1st Ward - 1st Precinct,Legislature,LD0002,NON,Bill Kintner,145
+Cass,1st Ward - 2nd Precinct,Legislature,LD0002,NON,Bill Kintner,103
+Cass,2nd Ward - 1st Precinct,Legislature,LD0002,NON,Bill Kintner,148
+Cass,2nd Ward - 2nd Precinct,Legislature,LD0002,NON,Bill Kintner,97
+Cass,3rd Ward - 1st Precinct,Legislature,LD0002,NON,Bill Kintner,105
+Cass,3rd Ward - 2nd Precinct,Legislature,LD0002,NON,Bill Kintner,93
+Cass,4th Ward - 1st Precinct,Legislature,LD0002,NON,Bill Kintner,80
+Cass,4th Ward - 2nd Precinct,Legislature,LD0002,NON,Bill Kintner,110
+Cass,NPPD,Legislature,LD0002,NON,Bill Kintner,0
+Cass,Absentee/Early Vote,Legislature,LD0002,NON,Bill Kintner,0
+Cass,Provisional,Legislature,LD0002,NON,Bill Kintner,0
+Cass,Countywide,Legislature,LD0002,NON,Ron Nolte,0
+Cass,Absentee/Early Vote,Legislature,LD0002,NON,Ron Nolte,0
+Cass,Tipton,Legislature,LD0002,NON,Ron Nolte,201
+Cass,McKelverly,Legislature,LD0002,NON,Ron Nolte,74
+Cass,Salt Creek,Legislature,LD0002,NON,Ron Nolte,86
+Cass,Stove Creek,Legislature,LD0002,NON,Ron Nolte,121
+Cass,Murdock,Legislature,LD0002,NON,Ron Nolte,81
+Cass,South Bend,Legislature,LD0002,NON,Ron Nolte,114
+Cass,Center,Legislature,LD0002,NON,Ron Nolte,94
+Cass,East Louisville,Legislature,LD0002,NON,Ron Nolte,114
+Cass,West Louisville,Legislature,LD0002,NON,Ron Nolte,138
+Cass,Avoca,Legislature,LD0002,NON,Ron Nolte,68
+Cass,Mount Pleasant,Legislature,LD0002,NON,Ron Nolte,62
+Cass,Eight Mile Grove,Legislature,LD0002,NON,Ron Nolte,126
+Cass,Nehawka,Legislature,LD0002,NON,Ron Nolte,67
+Cass,Liberty,Legislature,LD0002,NON,Ron Nolte,93
+Cass,North Rock Bluff,Legislature,LD0002,NON,Ron Nolte,136
+Cass,South Rock Bluff,Legislature,LD0002,NON,Ron Nolte,228
+Cass,West Rock Bluff,Legislature,LD0002,NON,Ron Nolte,145
+Cass,North Plattsmouth,Legislature,LD0002,NON,Ron Nolte,277
+Cass,South Plattsmouth,Legislature,LD0002,NON,Ron Nolte,239
+Cass,Weeping Water 1st Ward,Legislature,LD0002,NON,Ron Nolte,87
+Cass,Weeping Water 2nd Ward,Legislature,LD0002,NON,Ron Nolte,115
+Cass,1st Ward - 1st Precinct,Legislature,LD0002,NON,Ron Nolte,75
+Cass,1st Ward - 2nd Precinct,Legislature,LD0002,NON,Ron Nolte,119
+Cass,2nd Ward - 1st Precinct,Legislature,LD0002,NON,Ron Nolte,101
+Cass,2nd Ward - 2nd Precinct,Legislature,LD0002,NON,Ron Nolte,91
+Cass,3rd Ward - 1st Precinct,Legislature,LD0002,NON,Ron Nolte,82
+Cass,3rd Ward - 2nd Precinct,Legislature,LD0002,NON,Ron Nolte,70
+Cass,4th Ward - 1st Precinct,Legislature,LD0002,NON,Ron Nolte,63
+Cass,4th Ward - 2nd Precinct,Legislature,LD0002,NON,Ron Nolte,87
+Cass,NPPD,Legislature,LD0002,NON,Ron Nolte,0
+Cass,Absentee/Early Vote,Legislature,LD0002,NON,Ron Nolte,0
+Cass,Provisional,Legislature,LD0002,NON,Ron Nolte,0

@@ -1,0 +1,341 @@
+county,precinct,office,district,party,candidate,votes
+Red Willow,Countywide,Senator,3,DEM,Dave Domina,0
+Red Willow,Absentee/Early Vote,Senator,3,DEM,Dave Domina,75
+Red Willow,Bartley,Senator,3,DEM,Dave Domina,15
+Red Willow,Beaver,Senator,3,DEM,Dave Domina,5
+Red Willow,Indianola,Senator,3,DEM,Dave Domina,26
+Red Willow,Northwest,Senator,3,DEM,Dave Domina,28
+Red Willow,Southwest,Senator,3,DEM,Dave Domina,19
+Red Willow,W-1 P-1,Senator,3,DEM,Dave Domina,24
+Red Willow,W-1 P-2,Senator,3,DEM,Dave Domina,42
+Red Willow,W-1 P-3,Senator,3,DEM,Dave Domina,30
+Red Willow,W-2 P-1,Senator,3,DEM,Dave Domina,38
+Red Willow,W-2 P-2,Senator,3,DEM,Dave Domina,37
+Red Willow,W-3 P-1,Senator,3,DEM,Dave Domina,42
+Red Willow,W-3 P-3,Senator,3,DEM,Dave Domina,21
+Red Willow,W-4 P-1,Senator,3,DEM,Dave Domina,35
+Red Willow,Absentee/Early Vote,Senator,3,DEM,Dave Domina,0
+Red Willow,Provisional,Senator,3,DEM,Dave Domina,5
+Red Willow,Countywide,Senator,3,ZZZ,Jim Jenkins,0
+Red Willow,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,13
+Red Willow,Bartley,Senator,3,ZZZ,Jim Jenkins,2
+Red Willow,Beaver,Senator,3,ZZZ,Jim Jenkins,4
+Red Willow,Indianola,Senator,3,ZZZ,Jim Jenkins,5
+Red Willow,Northwest,Senator,3,ZZZ,Jim Jenkins,12
+Red Willow,Southwest,Senator,3,ZZZ,Jim Jenkins,7
+Red Willow,W-1 P-1,Senator,3,ZZZ,Jim Jenkins,8
+Red Willow,W-1 P-2,Senator,3,ZZZ,Jim Jenkins,11
+Red Willow,W-1 P-3,Senator,3,ZZZ,Jim Jenkins,6
+Red Willow,W-2 P-1,Senator,3,ZZZ,Jim Jenkins,6
+Red Willow,W-2 P-2,Senator,3,ZZZ,Jim Jenkins,8
+Red Willow,W-3 P-1,Senator,3,ZZZ,Jim Jenkins,2
+Red Willow,W-3 P-3,Senator,3,ZZZ,Jim Jenkins,5
+Red Willow,W-4 P-1,Senator,3,ZZZ,Jim Jenkins,9
+Red Willow,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,0
+Red Willow,Provisional,Senator,3,ZZZ,Jim Jenkins,0
+Red Willow,Countywide,Senator,3,REP,Ben Sasse,0
+Red Willow,Absentee/Early Vote,Senator,3,REP,Ben Sasse,398
+Red Willow,Bartley,Senator,3,REP,Ben Sasse,122
+Red Willow,Beaver,Senator,3,REP,Ben Sasse,113
+Red Willow,Indianola,Senator,3,REP,Ben Sasse,261
+Red Willow,Northwest,Senator,3,REP,Ben Sasse,231
+Red Willow,Southwest,Senator,3,REP,Ben Sasse,128
+Red Willow,W-1 P-1,Senator,3,REP,Ben Sasse,167
+Red Willow,W-1 P-2,Senator,3,REP,Ben Sasse,211
+Red Willow,W-1 P-3,Senator,3,REP,Ben Sasse,226
+Red Willow,W-2 P-1,Senator,3,REP,Ben Sasse,226
+Red Willow,W-2 P-2,Senator,3,REP,Ben Sasse,229
+Red Willow,W-3 P-1,Senator,3,REP,Ben Sasse,189
+Red Willow,W-3 P-3,Senator,3,REP,Ben Sasse,202
+Red Willow,W-4 P-1,Senator,3,REP,Ben Sasse,225
+Red Willow,Absentee/Early Vote,Senator,3,REP,Ben Sasse,0
+Red Willow,Provisional,Senator,3,REP,Ben Sasse,13
+Red Willow,Countywide,Senator,3,ZZZ,Todd F. Watson,0
+Red Willow,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,1
+Red Willow,Bartley,Senator,3,ZZZ,Todd F. Watson,3
+Red Willow,Beaver,Senator,3,ZZZ,Todd F. Watson,2
+Red Willow,Indianola,Senator,3,ZZZ,Todd F. Watson,6
+Red Willow,Northwest,Senator,3,ZZZ,Todd F. Watson,4
+Red Willow,Southwest,Senator,3,ZZZ,Todd F. Watson,8
+Red Willow,W-1 P-1,Senator,3,ZZZ,Todd F. Watson,2
+Red Willow,W-1 P-2,Senator,3,ZZZ,Todd F. Watson,3
+Red Willow,W-1 P-3,Senator,3,ZZZ,Todd F. Watson,1
+Red Willow,W-2 P-1,Senator,3,ZZZ,Todd F. Watson,0
+Red Willow,W-2 P-2,Senator,3,ZZZ,Todd F. Watson,5
+Red Willow,W-3 P-1,Senator,3,ZZZ,Todd F. Watson,3
+Red Willow,W-3 P-3,Senator,3,ZZZ,Todd F. Watson,5
+Red Willow,W-4 P-1,Senator,3,ZZZ,Todd F. Watson,3
+Red Willow,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,0
+Red Willow,Provisional,Senator,3,ZZZ,Todd F. Watson,0
+Red Willow,Countywide,Representative,3,REP,Adrian Smith,0
+Red Willow,Absentee/Early Vote,Representative,3,REP,Adrian Smith,398
+Red Willow,Bartley,Representative,3,REP,Adrian Smith,124
+Red Willow,Beaver,Representative,3,REP,Adrian Smith,114
+Red Willow,Indianola,Representative,3,REP,Adrian Smith,259
+Red Willow,Northwest,Representative,3,REP,Adrian Smith,239
+Red Willow,Southwest,Representative,3,REP,Adrian Smith,146
+Red Willow,W-1 P-1,Representative,3,REP,Adrian Smith,165
+Red Willow,W-1 P-2,Representative,3,REP,Adrian Smith,212
+Red Willow,W-1 P-3,Representative,3,REP,Adrian Smith,223
+Red Willow,W-2 P-1,Representative,3,REP,Adrian Smith,229
+Red Willow,W-2 P-2,Representative,3,REP,Adrian Smith,230
+Red Willow,W-3 P-1,Representative,3,REP,Adrian Smith,184
+Red Willow,W-3 P-3,Representative,3,REP,Adrian Smith,204
+Red Willow,W-4 P-1,Representative,3,REP,Adrian Smith,225
+Red Willow,Absentee/Early Vote,Representative,3,REP,Adrian Smith,0
+Red Willow,Provisional,Representative,3,REP,Adrian Smith,14
+Red Willow,Countywide,Representative,3,DEM,Mark Sullivan,0
+Red Willow,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,90
+Red Willow,Bartley,Representative,3,DEM,Mark Sullivan,18
+Red Willow,Beaver,Representative,3,DEM,Mark Sullivan,11
+Red Willow,Indianola,Representative,3,DEM,Mark Sullivan,37
+Red Willow,Northwest,Representative,3,DEM,Mark Sullivan,35
+Red Willow,Southwest,Representative,3,DEM,Mark Sullivan,15
+Red Willow,W-1 P-1,Representative,3,DEM,Mark Sullivan,34
+Red Willow,W-1 P-2,Representative,3,DEM,Mark Sullivan,48
+Red Willow,W-1 P-3,Representative,3,DEM,Mark Sullivan,40
+Red Willow,W-2 P-1,Representative,3,DEM,Mark Sullivan,41
+Red Willow,W-2 P-2,Representative,3,DEM,Mark Sullivan,50
+Red Willow,W-3 P-1,Representative,3,DEM,Mark Sullivan,46
+Red Willow,W-3 P-3,Representative,3,DEM,Mark Sullivan,32
+Red Willow,W-4 P-1,Representative,3,DEM,Mark Sullivan,50
+Red Willow,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,0
+Red Willow,Provisional,Representative,3,DEM,Mark Sullivan,4
+Red Willow,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Red Willow,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,122
+Red Willow,Bartley,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,34
+Red Willow,Beaver,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,25
+Red Willow,Indianola,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,72
+Red Willow,Northwest,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,63
+Red Willow,Southwest,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,28
+Red Willow,W-1 P-1,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,51
+Red Willow,W-1 P-2,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,64
+Red Willow,W-1 P-3,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,67
+Red Willow,W-2 P-1,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,72
+Red Willow,W-2 P-2,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,84
+Red Willow,W-3 P-1,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,74
+Red Willow,W-3 P-3,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,52
+Red Willow,W-4 P-1,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,66
+Red Willow,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Red Willow,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,4
+Red Willow,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Red Willow,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,348
+Red Willow,Bartley,Governor,3,REP,Pete Ricketts and Mike Foley,100
+Red Willow,Beaver,Governor,3,REP,Pete Ricketts and Mike Foley,97
+Red Willow,Indianola,Governor,3,REP,Pete Ricketts and Mike Foley,205
+Red Willow,Northwest,Governor,3,REP,Pete Ricketts and Mike Foley,199
+Red Willow,Southwest,Governor,3,REP,Pete Ricketts and Mike Foley,126
+Red Willow,W-1 P-1,Governor,3,REP,Pete Ricketts and Mike Foley,138
+Red Willow,W-1 P-2,Governor,3,REP,Pete Ricketts and Mike Foley,189
+Red Willow,W-1 P-3,Governor,3,REP,Pete Ricketts and Mike Foley,189
+Red Willow,W-2 P-1,Governor,3,REP,Pete Ricketts and Mike Foley,185
+Red Willow,W-2 P-2,Governor,3,REP,Pete Ricketts and Mike Foley,176
+Red Willow,W-3 P-1,Governor,3,REP,Pete Ricketts and Mike Foley,152
+Red Willow,W-3 P-3,Governor,3,REP,Pete Ricketts and Mike Foley,174
+Red Willow,W-4 P-1,Governor,3,REP,Pete Ricketts and Mike Foley,199
+Red Willow,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Red Willow,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,12
+Red Willow,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Red Willow,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,16
+Red Willow,Bartley,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,6
+Red Willow,Beaver,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Red Willow,Indianola,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Red Willow,Northwest,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,16
+Red Willow,Southwest,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Red Willow,W-1 P-1,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Red Willow,W-1 P-2,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,9
+Red Willow,W-1 P-3,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,6
+Red Willow,W-2 P-1,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,11
+Red Willow,W-2 P-2,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,21
+Red Willow,W-3 P-1,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,6
+Red Willow,W-3 P-3,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+Red Willow,W-4 P-1,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,9
+Red Willow,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Red Willow,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,2
+Red Willow,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Red Willow,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,67
+Red Willow,Bartley,Secretary of State,3,LIB,Ben Backus,15
+Red Willow,Beaver,Secretary of State,3,LIB,Ben Backus,17
+Red Willow,Indianola,Secretary of State,3,LIB,Ben Backus,39
+Red Willow,Northwest,Secretary of State,3,LIB,Ben Backus,37
+Red Willow,Southwest,Secretary of State,3,LIB,Ben Backus,20
+Red Willow,W-1 P-1,Secretary of State,3,LIB,Ben Backus,24
+Red Willow,W-1 P-2,Secretary of State,3,LIB,Ben Backus,28
+Red Willow,W-1 P-3,Secretary of State,3,LIB,Ben Backus,26
+Red Willow,W-2 P-1,Secretary of State,3,LIB,Ben Backus,34
+Red Willow,W-2 P-2,Secretary of State,3,LIB,Ben Backus,46
+Red Willow,W-3 P-1,Secretary of State,3,LIB,Ben Backus,33
+Red Willow,W-3 P-3,Secretary of State,3,LIB,Ben Backus,27
+Red Willow,W-4 P-1,Secretary of State,3,LIB,Ben Backus,47
+Red Willow,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Red Willow,Provisional,Secretary of State,3,LIB,Ben Backus,5
+Red Willow,Countywide,Secretary of State,3,REP,John A. Gale,0
+Red Willow,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,402
+Red Willow,Bartley,Secretary of State,3,REP,John A. Gale,120
+Red Willow,Beaver,Secretary of State,3,REP,John A. Gale,102
+Red Willow,Indianola,Secretary of State,3,REP,John A. Gale,237
+Red Willow,Northwest,Secretary of State,3,REP,John A. Gale,228
+Red Willow,Southwest,Secretary of State,3,REP,John A. Gale,133
+Red Willow,W-1 P-1,Secretary of State,3,REP,John A. Gale,163
+Red Willow,W-1 P-2,Secretary of State,3,REP,John A. Gale,215
+Red Willow,W-1 P-3,Secretary of State,3,REP,John A. Gale,226
+Red Willow,W-2 P-1,Secretary of State,3,REP,John A. Gale,213
+Red Willow,W-2 P-2,Secretary of State,3,REP,John A. Gale,219
+Red Willow,W-3 P-1,Secretary of State,3,REP,John A. Gale,183
+Red Willow,W-3 P-3,Secretary of State,3,REP,John A. Gale,192
+Red Willow,W-4 P-1,Secretary of State,3,REP,John A. Gale,215
+Red Willow,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Red Willow,Provisional,Secretary of State,3,REP,John A. Gale,12
+Red Willow,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Red Willow,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,13
+Red Willow,Bartley,State Treasurer,3,LIB,Michael Knebel,3
+Red Willow,Beaver,State Treasurer,3,LIB,Michael Knebel,5
+Red Willow,Indianola,State Treasurer,3,LIB,Michael Knebel,12
+Red Willow,Northwest,State Treasurer,3,LIB,Michael Knebel,13
+Red Willow,Southwest,State Treasurer,3,LIB,Michael Knebel,9
+Red Willow,W-1 P-1,State Treasurer,3,LIB,Michael Knebel,5
+Red Willow,W-1 P-2,State Treasurer,3,LIB,Michael Knebel,11
+Red Willow,W-1 P-3,State Treasurer,3,LIB,Michael Knebel,11
+Red Willow,W-2 P-1,State Treasurer,3,LIB,Michael Knebel,10
+Red Willow,W-2 P-2,State Treasurer,3,LIB,Michael Knebel,17
+Red Willow,W-3 P-1,State Treasurer,3,LIB,Michael Knebel,10
+Red Willow,W-3 P-3,State Treasurer,3,LIB,Michael Knebel,9
+Red Willow,W-4 P-1,State Treasurer,3,LIB,Michael Knebel,13
+Red Willow,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Red Willow,Provisional,State Treasurer,3,LIB,Michael Knebel,1
+Red Willow,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Red Willow,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,86
+Red Willow,Bartley,State Treasurer,3,DEM,Michael J. O'Hara,15
+Red Willow,Beaver,State Treasurer,3,DEM,Michael J. O'Hara,7
+Red Willow,Indianola,State Treasurer,3,DEM,Michael J. O'Hara,24
+Red Willow,Northwest,State Treasurer,3,DEM,Michael J. O'Hara,30
+Red Willow,Southwest,State Treasurer,3,DEM,Michael J. O'Hara,10
+Red Willow,W-1 P-1,State Treasurer,3,DEM,Michael J. O'Hara,24
+Red Willow,W-1 P-2,State Treasurer,3,DEM,Michael J. O'Hara,34
+Red Willow,W-1 P-3,State Treasurer,3,DEM,Michael J. O'Hara,34
+Red Willow,W-2 P-1,State Treasurer,3,DEM,Michael J. O'Hara,28
+Red Willow,W-2 P-2,State Treasurer,3,DEM,Michael J. O'Hara,31
+Red Willow,W-3 P-1,State Treasurer,3,DEM,Michael J. O'Hara,41
+Red Willow,W-3 P-3,State Treasurer,3,DEM,Michael J. O'Hara,28
+Red Willow,W-4 P-1,State Treasurer,3,DEM,Michael J. O'Hara,31
+Red Willow,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Red Willow,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,5
+Red Willow,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Red Willow,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,377
+Red Willow,Bartley,State Treasurer,3,REP,Don Stenberg,121
+Red Willow,Beaver,State Treasurer,3,REP,Don Stenberg,110
+Red Willow,Indianola,State Treasurer,3,REP,Don Stenberg,248
+Red Willow,Northwest,State Treasurer,3,REP,Don Stenberg,228
+Red Willow,Southwest,State Treasurer,3,REP,Don Stenberg,139
+Red Willow,W-1 P-1,State Treasurer,3,REP,Don Stenberg,167
+Red Willow,W-1 P-2,State Treasurer,3,REP,Don Stenberg,216
+Red Willow,W-1 P-3,State Treasurer,3,REP,Don Stenberg,212
+Red Willow,W-2 P-1,State Treasurer,3,REP,Don Stenberg,233
+Red Willow,W-2 P-2,State Treasurer,3,REP,Don Stenberg,225
+Red Willow,W-3 P-1,State Treasurer,3,REP,Don Stenberg,176
+Red Willow,W-3 P-3,State Treasurer,3,REP,Don Stenberg,194
+Red Willow,W-4 P-1,State Treasurer,3,REP,Don Stenberg,226
+Red Willow,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Red Willow,Provisional,State Treasurer,3,REP,Don Stenberg,12
+Red Willow,Countywide,Attorney General,3,REP,Doug Peterson,0
+Red Willow,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,363
+Red Willow,Bartley,Attorney General,3,REP,Doug Peterson,117
+Red Willow,Beaver,Attorney General,3,REP,Doug Peterson,105
+Red Willow,Indianola,Attorney General,3,REP,Doug Peterson,227
+Red Willow,Northwest,Attorney General,3,REP,Doug Peterson,228
+Red Willow,Southwest,Attorney General,3,REP,Doug Peterson,135
+Red Willow,W-1 P-1,Attorney General,3,REP,Doug Peterson,155
+Red Willow,W-1 P-2,Attorney General,3,REP,Doug Peterson,205
+Red Willow,W-1 P-3,Attorney General,3,REP,Doug Peterson,215
+Red Willow,W-2 P-1,Attorney General,3,REP,Doug Peterson,199
+Red Willow,W-2 P-2,Attorney General,3,REP,Doug Peterson,216
+Red Willow,W-3 P-1,Attorney General,3,REP,Doug Peterson,173
+Red Willow,W-3 P-3,Attorney General,3,REP,Doug Peterson,178
+Red Willow,W-4 P-1,Attorney General,3,REP,Doug Peterson,221
+Red Willow,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Red Willow,Provisional,Attorney General,3,REP,Doug Peterson,14
+Red Willow,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Red Willow,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,105
+Red Willow,Bartley,Attorney General,3,DEM,Janet Stewart,19
+Red Willow,Beaver,Attorney General,3,DEM,Janet Stewart,12
+Red Willow,Indianola,Attorney General,3,DEM,Janet Stewart,50
+Red Willow,Northwest,Attorney General,3,DEM,Janet Stewart,39
+Red Willow,Southwest,Attorney General,3,DEM,Janet Stewart,19
+Red Willow,W-1 P-1,Attorney General,3,DEM,Janet Stewart,37
+Red Willow,W-1 P-2,Attorney General,3,DEM,Janet Stewart,44
+Red Willow,W-1 P-3,Attorney General,3,DEM,Janet Stewart,38
+Red Willow,W-2 P-1,Attorney General,3,DEM,Janet Stewart,63
+Red Willow,W-2 P-2,Attorney General,3,DEM,Janet Stewart,57
+Red Willow,W-3 P-1,Attorney General,3,DEM,Janet Stewart,50
+Red Willow,W-3 P-3,Attorney General,3,DEM,Janet Stewart,43
+Red Willow,W-4 P-1,Attorney General,3,DEM,Janet Stewart,44
+Red Willow,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Red Willow,Provisional,Attorney General,3,DEM,Janet Stewart,4
+Red Willow,Countywide,Auditor,3,REP,Charlie Janssen,0
+Red Willow,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,331
+Red Willow,Bartley,Auditor,3,REP,Charlie Janssen,101
+Red Willow,Beaver,Auditor,3,REP,Charlie Janssen,91
+Red Willow,Indianola,Auditor,3,REP,Charlie Janssen,192
+Red Willow,Northwest,Auditor,3,REP,Charlie Janssen,207
+Red Willow,Southwest,Auditor,3,REP,Charlie Janssen,122
+Red Willow,W-1 P-1,Auditor,3,REP,Charlie Janssen,139
+Red Willow,W-1 P-2,Auditor,3,REP,Charlie Janssen,183
+Red Willow,W-1 P-3,Auditor,3,REP,Charlie Janssen,177
+Red Willow,W-2 P-1,Auditor,3,REP,Charlie Janssen,182
+Red Willow,W-2 P-2,Auditor,3,REP,Charlie Janssen,189
+Red Willow,W-3 P-1,Auditor,3,REP,Charlie Janssen,154
+Red Willow,W-3 P-3,Auditor,3,REP,Charlie Janssen,163
+Red Willow,W-4 P-1,Auditor,3,REP,Charlie Janssen,193
+Red Willow,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Red Willow,Provisional,Auditor,3,REP,Charlie Janssen,11
+Red Willow,Countywide,Auditor,3,DEM,Amanda McGill,0
+Red Willow,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,112
+Red Willow,Bartley,Auditor,3,DEM,Amanda McGill,25
+Red Willow,Beaver,Auditor,3,DEM,Amanda McGill,18
+Red Willow,Indianola,Auditor,3,DEM,Amanda McGill,57
+Red Willow,Northwest,Auditor,3,DEM,Amanda McGill,49
+Red Willow,Southwest,Auditor,3,DEM,Amanda McGill,23
+Red Willow,W-1 P-1,Auditor,3,DEM,Amanda McGill,49
+Red Willow,W-1 P-2,Auditor,3,DEM,Amanda McGill,54
+Red Willow,W-1 P-3,Auditor,3,DEM,Amanda McGill,55
+Red Willow,W-2 P-1,Auditor,3,DEM,Amanda McGill,60
+Red Willow,W-2 P-2,Auditor,3,DEM,Amanda McGill,68
+Red Willow,W-3 P-1,Auditor,3,DEM,Amanda McGill,60
+Red Willow,W-3 P-3,Auditor,3,DEM,Amanda McGill,48
+Red Willow,W-4 P-1,Auditor,3,DEM,Amanda McGill,66
+Red Willow,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Red Willow,Provisional,Auditor,3,DEM,Amanda McGill,7
+Red Willow,Countywide,Legislature,LD0044,NON,Dan Hughes,0
+Red Willow,Absentee/Early Vote,Legislature,LD0044,NON,Dan Hughes,263
+Red Willow,Bartley,Legislature,LD0044,NON,Dan Hughes,75
+Red Willow,Beaver,Legislature,LD0044,NON,Dan Hughes,63
+Red Willow,Indianola,Legislature,LD0044,NON,Dan Hughes,159
+Red Willow,Northwest,Legislature,LD0044,NON,Dan Hughes,150
+Red Willow,Southwest,Legislature,LD0044,NON,Dan Hughes,77
+Red Willow,W-1 P-1,Legislature,LD0044,NON,Dan Hughes,111
+Red Willow,W-1 P-2,Legislature,LD0044,NON,Dan Hughes,147
+Red Willow,W-1 P-3,Legislature,LD0044,NON,Dan Hughes,158
+Red Willow,W-2 P-1,Legislature,LD0044,NON,Dan Hughes,151
+Red Willow,W-2 P-2,Legislature,LD0044,NON,Dan Hughes,153
+Red Willow,W-3 P-1,Legislature,LD0044,NON,Dan Hughes,98
+Red Willow,W-3 P-3,Legislature,LD0044,NON,Dan Hughes,128
+Red Willow,W-4 P-1,Legislature,LD0044,NON,Dan Hughes,130
+Red Willow,Absentee/Early Vote,Legislature,LD0044,NON,Dan Hughes,0
+Red Willow,Provisional,Legislature,LD0044,NON,Dan Hughes,5
+Red Willow,Countywide,Legislature,LD0044,NON,Steve Stroup,0
+Red Willow,Absentee/Early Vote,Legislature,LD0044,NON,Steve Stroup,181
+Red Willow,Bartley,Legislature,LD0044,NON,Steve Stroup,61
+Red Willow,Beaver,Legislature,LD0044,NON,Steve Stroup,52
+Red Willow,Indianola,Legislature,LD0044,NON,Steve Stroup,117
+Red Willow,Northwest,Legislature,LD0044,NON,Steve Stroup,109
+Red Willow,Southwest,Legislature,LD0044,NON,Steve Stroup,71
+Red Willow,W-1 P-1,Legislature,LD0044,NON,Steve Stroup,75
+Red Willow,W-1 P-2,Legislature,LD0044,NON,Steve Stroup,103
+Red Willow,W-1 P-3,Legislature,LD0044,NON,Steve Stroup,90
+Red Willow,W-2 P-1,Legislature,LD0044,NON,Steve Stroup,103
+Red Willow,W-2 P-2,Legislature,LD0044,NON,Steve Stroup,109
+Red Willow,W-3 P-1,Legislature,LD0044,NON,Steve Stroup,112
+Red Willow,W-3 P-3,Legislature,LD0044,NON,Steve Stroup,92
+Red Willow,W-4 P-1,Legislature,LD0044,NON,Steve Stroup,128
+Red Willow,Absentee/Early Vote,Legislature,LD0044,NON,Steve Stroup,0
+Red Willow,Provisional,Legislature,LD0044,NON,Steve Stroup,12

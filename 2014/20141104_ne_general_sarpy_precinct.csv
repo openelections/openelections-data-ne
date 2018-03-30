@@ -1,0 +1,1457 @@
+county,precinct,office,district,party,candidate,votes
+Sarpy,Countywide,Senator,2,DEM,Dave Domina,0
+Sarpy,Absentee/Early Vote,Senator,2,DEM,Dave Domina,0
+Sarpy,Precinct 1,Senator,1,DEM,Dave Domina,224
+Sarpy,Precinct 2,Senator,1,DEM,Dave Domina,163
+Sarpy,Precinct 3,Senator,1,DEM,Dave Domina,259
+Sarpy,Precinct 4,Senator,1,DEM,Dave Domina,250
+Sarpy,Precinct 5,Senator,1,DEM,Dave Domina,213
+Sarpy,Precinct 6,Senator,1,DEM,Dave Domina,277
+Sarpy,Precinct 7,Senator,1,DEM,Dave Domina,247
+Sarpy,Precinct 8,Senator,1,DEM,Dave Domina,174
+Sarpy,Precinct 9,Senator,1,DEM,Dave Domina,190
+Sarpy,Precinct 10,Senator,1,DEM,Dave Domina,162
+Sarpy,Precinct 11,Senator,1,DEM,Dave Domina,270
+Sarpy,Precinct 12,Senator,1,DEM,Dave Domina,212
+Sarpy,Precinct 13,Senator,1,DEM,Dave Domina,358
+Sarpy,Precinct 16,Senator,1,DEM,Dave Domina,335
+Sarpy,Precinct 17,Senator,1,DEM,Dave Domina,316
+Sarpy,Precinct 18,Senator,1,DEM,Dave Domina,229
+Sarpy,Precinct 19,Senator,1,DEM,Dave Domina,339
+Sarpy,Precinct 20,Senator,1,DEM,Dave Domina,330
+Sarpy,Precinct 21,Senator,1,DEM,Dave Domina,342
+Sarpy,Precinct 22,Senator,1,DEM,Dave Domina,261
+Sarpy,Precinct 23,Senator,2,DEM,Dave Domina,246
+Sarpy,Precinct 24,Senator,1,DEM,Dave Domina,142
+Sarpy,Precinct 25,Senator,1,DEM,Dave Domina,149
+Sarpy,Precinct 26,Senator,1,DEM,Dave Domina,244
+Sarpy,Precinct 31,Senator,2,DEM,Dave Domina,387
+Sarpy,Precinct 32,Senator,2,DEM,Dave Domina,237
+Sarpy,Precinct 33,Senator,2,DEM,Dave Domina,264
+Sarpy,Precinct 34,Senator,2,DEM,Dave Domina,299
+Sarpy,Precinct 35,Senator,2,DEM,Dave Domina,302
+Sarpy,Precinct 36,Senator,2,DEM,Dave Domina,235
+Sarpy,Precinct 37,Senator,2,DEM,Dave Domina,311
+Sarpy,Precinct 38,Senator,2,DEM,Dave Domina,278
+Sarpy,Precinct 39,Senator,2,DEM,Dave Domina,267
+Sarpy,Precinct 40,Senator,2,DEM,Dave Domina,283
+Sarpy,Precinct 41,Senator,2,DEM,Dave Domina,324
+Sarpy,Precinct 42,Senator,2,DEM,Dave Domina,266
+Sarpy,Precinct 46,Senator,2,DEM,Dave Domina,164
+Sarpy,Precinct 47,Senator,2,DEM,Dave Domina,127
+Sarpy,Precinct 48,Senator,2,DEM,Dave Domina,270
+Sarpy,Precinct 49,Senator,2,DEM,Dave Domina,296
+Sarpy,Precinct 51,Senator,2,DEM,Dave Domina,250
+Sarpy,Precinct 52,Senator,2,DEM,Dave Domina,330
+Sarpy,Precinct 53,Senator,2,DEM,Dave Domina,314
+Sarpy,Precinct 54,Senator,2,DEM,Dave Domina,313
+Sarpy,Precinct 55,Senator,2,DEM,Dave Domina,302
+Sarpy,Precinct 56,Senator,2,DEM,Dave Domina,237
+Sarpy,Precinct 57,Senator,2,DEM,Dave Domina,243
+Sarpy,Precinct 58,Senator,2,DEM,Dave Domina,107
+Sarpy,Precinct 59,Senator,2,DEM,Dave Domina,185
+Sarpy,Precinct 60,Senator,2,DEM,Dave Domina,171
+Sarpy,Precinct 61,Senator,2,DEM,Dave Domina,290
+Sarpy,Precinct 62,Senator,2,DEM,Dave Domina,179
+Sarpy,Absentee/Early Vote,Senator,2,DEM,Dave Domina,0
+Sarpy,Provisional,Senator,2,DEM,Dave Domina,0
+Sarpy,Countywide,Senator,2,ZZZ,Jim Jenkins,0
+Sarpy,Absentee/Early Vote,Senator,2,ZZZ,Jim Jenkins,0
+Sarpy,Precinct 1,Senator,1,ZZZ,Jim Jenkins,11
+Sarpy,Precinct 2,Senator,1,ZZZ,Jim Jenkins,10
+Sarpy,Precinct 3,Senator,1,ZZZ,Jim Jenkins,15
+Sarpy,Precinct 4,Senator,1,ZZZ,Jim Jenkins,11
+Sarpy,Precinct 5,Senator,1,ZZZ,Jim Jenkins,11
+Sarpy,Precinct 6,Senator,1,ZZZ,Jim Jenkins,18
+Sarpy,Precinct 7,Senator,1,ZZZ,Jim Jenkins,17
+Sarpy,Precinct 8,Senator,1,ZZZ,Jim Jenkins,7
+Sarpy,Precinct 9,Senator,1,ZZZ,Jim Jenkins,15
+Sarpy,Precinct 10,Senator,1,ZZZ,Jim Jenkins,9
+Sarpy,Precinct 11,Senator,1,ZZZ,Jim Jenkins,17
+Sarpy,Precinct 12,Senator,1,ZZZ,Jim Jenkins,8
+Sarpy,Precinct 13,Senator,1,ZZZ,Jim Jenkins,16
+Sarpy,Precinct 16,Senator,1,ZZZ,Jim Jenkins,20
+Sarpy,Precinct 17,Senator,1,ZZZ,Jim Jenkins,14
+Sarpy,Precinct 18,Senator,1,ZZZ,Jim Jenkins,16
+Sarpy,Precinct 19,Senator,1,ZZZ,Jim Jenkins,26
+Sarpy,Precinct 20,Senator,1,ZZZ,Jim Jenkins,15
+Sarpy,Precinct 21,Senator,1,ZZZ,Jim Jenkins,18
+Sarpy,Precinct 22,Senator,1,ZZZ,Jim Jenkins,14
+Sarpy,Precinct 23,Senator,2,ZZZ,Jim Jenkins,17
+Sarpy,Precinct 24,Senator,1,ZZZ,Jim Jenkins,11
+Sarpy,Precinct 25,Senator,1,ZZZ,Jim Jenkins,8
+Sarpy,Precinct 26,Senator,1,ZZZ,Jim Jenkins,16
+Sarpy,Precinct 31,Senator,2,ZZZ,Jim Jenkins,23
+Sarpy,Precinct 32,Senator,2,ZZZ,Jim Jenkins,9
+Sarpy,Precinct 33,Senator,2,ZZZ,Jim Jenkins,18
+Sarpy,Precinct 34,Senator,2,ZZZ,Jim Jenkins,24
+Sarpy,Precinct 35,Senator,2,ZZZ,Jim Jenkins,20
+Sarpy,Precinct 36,Senator,2,ZZZ,Jim Jenkins,6
+Sarpy,Precinct 37,Senator,2,ZZZ,Jim Jenkins,23
+Sarpy,Precinct 38,Senator,2,ZZZ,Jim Jenkins,11
+Sarpy,Precinct 39,Senator,2,ZZZ,Jim Jenkins,23
+Sarpy,Precinct 40,Senator,2,ZZZ,Jim Jenkins,15
+Sarpy,Precinct 41,Senator,2,ZZZ,Jim Jenkins,16
+Sarpy,Precinct 42,Senator,2,ZZZ,Jim Jenkins,20
+Sarpy,Precinct 46,Senator,2,ZZZ,Jim Jenkins,11
+Sarpy,Precinct 47,Senator,2,ZZZ,Jim Jenkins,12
+Sarpy,Precinct 48,Senator,2,ZZZ,Jim Jenkins,28
+Sarpy,Precinct 49,Senator,2,ZZZ,Jim Jenkins,20
+Sarpy,Precinct 51,Senator,2,ZZZ,Jim Jenkins,22
+Sarpy,Precinct 52,Senator,2,ZZZ,Jim Jenkins,15
+Sarpy,Precinct 53,Senator,2,ZZZ,Jim Jenkins,16
+Sarpy,Precinct 54,Senator,2,ZZZ,Jim Jenkins,22
+Sarpy,Precinct 55,Senator,2,ZZZ,Jim Jenkins,32
+Sarpy,Precinct 56,Senator,2,ZZZ,Jim Jenkins,11
+Sarpy,Precinct 57,Senator,2,ZZZ,Jim Jenkins,17
+Sarpy,Precinct 58,Senator,2,ZZZ,Jim Jenkins,12
+Sarpy,Precinct 59,Senator,2,ZZZ,Jim Jenkins,11
+Sarpy,Precinct 60,Senator,2,ZZZ,Jim Jenkins,17
+Sarpy,Precinct 61,Senator,2,ZZZ,Jim Jenkins,22
+Sarpy,Precinct 62,Senator,2,ZZZ,Jim Jenkins,15
+Sarpy,Absentee/Early Vote,Senator,2,ZZZ,Jim Jenkins,0
+Sarpy,Provisional,Senator,2,ZZZ,Jim Jenkins,0
+Sarpy,Countywide,Senator,2,REP,Ben Sasse,0
+Sarpy,Absentee/Early Vote,Senator,2,REP,Ben Sasse,0
+Sarpy,Precinct 1,Senator,1,REP,Ben Sasse,285
+Sarpy,Precinct 2,Senator,1,REP,Ben Sasse,430
+Sarpy,Precinct 3,Senator,1,REP,Ben Sasse,455
+Sarpy,Precinct 4,Senator,1,REP,Ben Sasse,532
+Sarpy,Precinct 5,Senator,1,REP,Ben Sasse,447
+Sarpy,Precinct 6,Senator,1,REP,Ben Sasse,485
+Sarpy,Precinct 7,Senator,1,REP,Ben Sasse,471
+Sarpy,Precinct 8,Senator,1,REP,Ben Sasse,516
+Sarpy,Precinct 9,Senator,1,REP,Ben Sasse,386
+Sarpy,Precinct 10,Senator,1,REP,Ben Sasse,333
+Sarpy,Precinct 11,Senator,1,REP,Ben Sasse,649
+Sarpy,Precinct 12,Senator,1,REP,Ben Sasse,563
+Sarpy,Precinct 13,Senator,1,REP,Ben Sasse,760
+Sarpy,Precinct 16,Senator,1,REP,Ben Sasse,552
+Sarpy,Precinct 17,Senator,1,REP,Ben Sasse,527
+Sarpy,Precinct 18,Senator,1,REP,Ben Sasse,369
+Sarpy,Precinct 19,Senator,1,REP,Ben Sasse,903
+Sarpy,Precinct 20,Senator,1,REP,Ben Sasse,552
+Sarpy,Precinct 21,Senator,1,REP,Ben Sasse,977
+Sarpy,Precinct 22,Senator,1,REP,Ben Sasse,468
+Sarpy,Precinct 23,Senator,2,REP,Ben Sasse,762
+Sarpy,Precinct 24,Senator,1,REP,Ben Sasse,415
+Sarpy,Precinct 25,Senator,1,REP,Ben Sasse,358
+Sarpy,Precinct 26,Senator,1,REP,Ben Sasse,580
+Sarpy,Precinct 31,Senator,2,REP,Ben Sasse,996
+Sarpy,Precinct 32,Senator,2,REP,Ben Sasse,455
+Sarpy,Precinct 33,Senator,2,REP,Ben Sasse,492
+Sarpy,Precinct 34,Senator,2,REP,Ben Sasse,499
+Sarpy,Precinct 35,Senator,2,REP,Ben Sasse,509
+Sarpy,Precinct 36,Senator,2,REP,Ben Sasse,762
+Sarpy,Precinct 37,Senator,2,REP,Ben Sasse,863
+Sarpy,Precinct 38,Senator,2,REP,Ben Sasse,607
+Sarpy,Precinct 39,Senator,2,REP,Ben Sasse,713
+Sarpy,Precinct 40,Senator,2,REP,Ben Sasse,629
+Sarpy,Precinct 41,Senator,2,REP,Ben Sasse,758
+Sarpy,Precinct 42,Senator,2,REP,Ben Sasse,615
+Sarpy,Precinct 46,Senator,2,REP,Ben Sasse,536
+Sarpy,Precinct 47,Senator,2,REP,Ben Sasse,365
+Sarpy,Precinct 48,Senator,2,REP,Ben Sasse,849
+Sarpy,Precinct 49,Senator,2,REP,Ben Sasse,699
+Sarpy,Precinct 51,Senator,2,REP,Ben Sasse,754
+Sarpy,Precinct 52,Senator,2,REP,Ben Sasse,755
+Sarpy,Precinct 53,Senator,2,REP,Ben Sasse,581
+Sarpy,Precinct 54,Senator,2,REP,Ben Sasse,643
+Sarpy,Precinct 55,Senator,2,REP,Ben Sasse,711
+Sarpy,Precinct 56,Senator,2,REP,Ben Sasse,516
+Sarpy,Precinct 57,Senator,2,REP,Ben Sasse,406
+Sarpy,Precinct 58,Senator,2,REP,Ben Sasse,474
+Sarpy,Precinct 59,Senator,2,REP,Ben Sasse,516
+Sarpy,Precinct 60,Senator,2,REP,Ben Sasse,445
+Sarpy,Precinct 61,Senator,2,REP,Ben Sasse,980
+Sarpy,Precinct 62,Senator,2,REP,Ben Sasse,378
+Sarpy,Absentee/Early Vote,Senator,2,REP,Ben Sasse,0
+Sarpy,Provisional,Senator,2,REP,Ben Sasse,0
+Sarpy,Countywide,Senator,2,ZZZ,Todd F. Watson,0
+Sarpy,Absentee/Early Vote,Senator,2,ZZZ,Todd F. Watson,0
+Sarpy,Precinct 1,Senator,1,ZZZ,Todd F. Watson,6
+Sarpy,Precinct 2,Senator,1,ZZZ,Todd F. Watson,6
+Sarpy,Precinct 3,Senator,1,ZZZ,Todd F. Watson,7
+Sarpy,Precinct 4,Senator,1,ZZZ,Todd F. Watson,8
+Sarpy,Precinct 5,Senator,1,ZZZ,Todd F. Watson,6
+Sarpy,Precinct 6,Senator,1,ZZZ,Todd F. Watson,7
+Sarpy,Precinct 7,Senator,1,ZZZ,Todd F. Watson,10
+Sarpy,Precinct 8,Senator,1,ZZZ,Todd F. Watson,6
+Sarpy,Precinct 9,Senator,1,ZZZ,Todd F. Watson,7
+Sarpy,Precinct 10,Senator,1,ZZZ,Todd F. Watson,6
+Sarpy,Precinct 11,Senator,1,ZZZ,Todd F. Watson,8
+Sarpy,Precinct 12,Senator,1,ZZZ,Todd F. Watson,3
+Sarpy,Precinct 13,Senator,1,ZZZ,Todd F. Watson,10
+Sarpy,Precinct 16,Senator,1,ZZZ,Todd F. Watson,3
+Sarpy,Precinct 17,Senator,1,ZZZ,Todd F. Watson,8
+Sarpy,Precinct 18,Senator,1,ZZZ,Todd F. Watson,5
+Sarpy,Precinct 19,Senator,1,ZZZ,Todd F. Watson,4
+Sarpy,Precinct 20,Senator,1,ZZZ,Todd F. Watson,12
+Sarpy,Precinct 21,Senator,1,ZZZ,Todd F. Watson,9
+Sarpy,Precinct 22,Senator,1,ZZZ,Todd F. Watson,8
+Sarpy,Precinct 23,Senator,2,ZZZ,Todd F. Watson,11
+Sarpy,Precinct 24,Senator,1,ZZZ,Todd F. Watson,8
+Sarpy,Precinct 25,Senator,1,ZZZ,Todd F. Watson,2
+Sarpy,Precinct 26,Senator,1,ZZZ,Todd F. Watson,7
+Sarpy,Precinct 31,Senator,2,ZZZ,Todd F. Watson,4
+Sarpy,Precinct 32,Senator,2,ZZZ,Todd F. Watson,5
+Sarpy,Precinct 33,Senator,2,ZZZ,Todd F. Watson,5
+Sarpy,Precinct 34,Senator,2,ZZZ,Todd F. Watson,6
+Sarpy,Precinct 35,Senator,2,ZZZ,Todd F. Watson,10
+Sarpy,Precinct 36,Senator,2,ZZZ,Todd F. Watson,5
+Sarpy,Precinct 37,Senator,2,ZZZ,Todd F. Watson,4
+Sarpy,Precinct 38,Senator,2,ZZZ,Todd F. Watson,9
+Sarpy,Precinct 39,Senator,2,ZZZ,Todd F. Watson,11
+Sarpy,Precinct 40,Senator,2,ZZZ,Todd F. Watson,5
+Sarpy,Precinct 41,Senator,2,ZZZ,Todd F. Watson,7
+Sarpy,Precinct 42,Senator,2,ZZZ,Todd F. Watson,14
+Sarpy,Precinct 46,Senator,2,ZZZ,Todd F. Watson,7
+Sarpy,Precinct 47,Senator,2,ZZZ,Todd F. Watson,8
+Sarpy,Precinct 48,Senator,2,ZZZ,Todd F. Watson,16
+Sarpy,Precinct 49,Senator,2,ZZZ,Todd F. Watson,11
+Sarpy,Precinct 51,Senator,2,ZZZ,Todd F. Watson,8
+Sarpy,Precinct 52,Senator,2,ZZZ,Todd F. Watson,6
+Sarpy,Precinct 53,Senator,2,ZZZ,Todd F. Watson,10
+Sarpy,Precinct 54,Senator,2,ZZZ,Todd F. Watson,6
+Sarpy,Precinct 55,Senator,2,ZZZ,Todd F. Watson,14
+Sarpy,Precinct 56,Senator,2,ZZZ,Todd F. Watson,6
+Sarpy,Precinct 57,Senator,2,ZZZ,Todd F. Watson,7
+Sarpy,Precinct 58,Senator,2,ZZZ,Todd F. Watson,4
+Sarpy,Precinct 59,Senator,2,ZZZ,Todd F. Watson,10
+Sarpy,Precinct 60,Senator,2,ZZZ,Todd F. Watson,5
+Sarpy,Precinct 61,Senator,2,ZZZ,Todd F. Watson,9
+Sarpy,Precinct 62,Senator,2,ZZZ,Todd F. Watson,5
+Sarpy,Absentee/Early Vote,Senator,2,ZZZ,Todd F. Watson,0
+Sarpy,Provisional,Senator,2,ZZZ,Todd F. Watson,0
+Sarpy,Countywide,Representative,2,DEM,Brad Ashford,0
+Sarpy,Absentee/Early Vote,Representative,2,DEM,Brad Ashford,0
+Sarpy,Precinct 1,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 2,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 3,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 4,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 5,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 6,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 7,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 8,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 9,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 10,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 11,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 12,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 13,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 16,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 17,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 18,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 19,Representative,2,DEM,Brad Ashford,213
+Sarpy,Precinct 20,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 21,Representative,2,DEM,Brad Ashford,263
+Sarpy,Precinct 22,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 23,Representative,2,DEM,Brad Ashford,337
+Sarpy,Precinct 24,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 25,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 26,Representative,1,DEM,Brad Ashford,0
+Sarpy,Precinct 31,Representative,2,DEM,Brad Ashford,589
+Sarpy,Precinct 32,Representative,2,DEM,Brad Ashford,318
+Sarpy,Precinct 33,Representative,2,DEM,Brad Ashford,359
+Sarpy,Precinct 34,Representative,2,DEM,Brad Ashford,377
+Sarpy,Precinct 35,Representative,2,DEM,Brad Ashford,409
+Sarpy,Precinct 36,Representative,2,DEM,Brad Ashford,347
+Sarpy,Precinct 37,Representative,2,DEM,Brad Ashford,432
+Sarpy,Precinct 38,Representative,2,DEM,Brad Ashford,369
+Sarpy,Precinct 39,Representative,2,DEM,Brad Ashford,397
+Sarpy,Precinct 40,Representative,2,DEM,Brad Ashford,384
+Sarpy,Precinct 41,Representative,2,DEM,Brad Ashford,443
+Sarpy,Precinct 42,Representative,2,DEM,Brad Ashford,351
+Sarpy,Precinct 46,Representative,2,DEM,Brad Ashford,240
+Sarpy,Precinct 47,Representative,2,DEM,Brad Ashford,203
+Sarpy,Precinct 48,Representative,2,DEM,Brad Ashford,404
+Sarpy,Precinct 49,Representative,2,DEM,Brad Ashford,427
+Sarpy,Precinct 51,Representative,2,DEM,Brad Ashford,363
+Sarpy,Precinct 52,Representative,2,DEM,Brad Ashford,448
+Sarpy,Precinct 53,Representative,2,DEM,Brad Ashford,397
+Sarpy,Precinct 54,Representative,2,DEM,Brad Ashford,431
+Sarpy,Precinct 55,Representative,2,DEM,Brad Ashford,411
+Sarpy,Precinct 56,Representative,2,DEM,Brad Ashford,299
+Sarpy,Precinct 57,Representative,2,DEM,Brad Ashford,317
+Sarpy,Precinct 58,Representative,2,DEM,Brad Ashford,185
+Sarpy,Precinct 59,Representative,2,DEM,Brad Ashford,266
+Sarpy,Precinct 60,Representative,2,DEM,Brad Ashford,251
+Sarpy,Precinct 61,Representative,2,DEM,Brad Ashford,458
+Sarpy,Precinct 62,Representative,2,DEM,Brad Ashford,246
+Sarpy,Absentee/Early Vote,Representative,2,DEM,Brad Ashford,0
+Sarpy,Provisional,Representative,2,DEM,Brad Ashford,0
+Sarpy,Countywide,Representative,2,LIB,Steven Laird,0
+Sarpy,Absentee/Early Vote,Representative,2,LIB,Steven Laird,0
+Sarpy,Precinct 1,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 2,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 3,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 4,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 5,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 6,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 7,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 8,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 9,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 10,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 11,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 12,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 13,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 16,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 17,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 18,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 19,Representative,2,LIB,Steven Laird,34
+Sarpy,Precinct 20,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 21,Representative,2,LIB,Steven Laird,48
+Sarpy,Precinct 22,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 23,Representative,2,LIB,Steven Laird,63
+Sarpy,Precinct 24,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 25,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 26,Representative,1,LIB,Steven Laird,0
+Sarpy,Precinct 31,Representative,2,LIB,Steven Laird,76
+Sarpy,Precinct 32,Representative,2,LIB,Steven Laird,45
+Sarpy,Precinct 33,Representative,2,LIB,Steven Laird,51
+Sarpy,Precinct 34,Representative,2,LIB,Steven Laird,80
+Sarpy,Precinct 35,Representative,2,LIB,Steven Laird,62
+Sarpy,Precinct 36,Representative,2,LIB,Steven Laird,59
+Sarpy,Precinct 37,Representative,2,LIB,Steven Laird,52
+Sarpy,Precinct 38,Representative,2,LIB,Steven Laird,57
+Sarpy,Precinct 39,Representative,2,LIB,Steven Laird,59
+Sarpy,Precinct 40,Representative,2,LIB,Steven Laird,53
+Sarpy,Precinct 41,Representative,2,LIB,Steven Laird,70
+Sarpy,Precinct 42,Representative,2,LIB,Steven Laird,59
+Sarpy,Precinct 46,Representative,2,LIB,Steven Laird,38
+Sarpy,Precinct 47,Representative,2,LIB,Steven Laird,55
+Sarpy,Precinct 48,Representative,2,LIB,Steven Laird,63
+Sarpy,Precinct 49,Representative,2,LIB,Steven Laird,62
+Sarpy,Precinct 51,Representative,2,LIB,Steven Laird,50
+Sarpy,Precinct 52,Representative,2,LIB,Steven Laird,69
+Sarpy,Precinct 53,Representative,2,LIB,Steven Laird,60
+Sarpy,Precinct 54,Representative,2,LIB,Steven Laird,68
+Sarpy,Precinct 55,Representative,2,LIB,Steven Laird,66
+Sarpy,Precinct 56,Representative,2,LIB,Steven Laird,51
+Sarpy,Precinct 57,Representative,2,LIB,Steven Laird,44
+Sarpy,Precinct 58,Representative,2,LIB,Steven Laird,43
+Sarpy,Precinct 59,Representative,2,LIB,Steven Laird,49
+Sarpy,Precinct 60,Representative,2,LIB,Steven Laird,54
+Sarpy,Precinct 61,Representative,2,LIB,Steven Laird,72
+Sarpy,Precinct 62,Representative,2,LIB,Steven Laird,42
+Sarpy,Absentee/Early Vote,Representative,2,LIB,Steven Laird,0
+Sarpy,Provisional,Representative,2,LIB,Steven Laird,0
+Sarpy,Countywide,Representative,2,REP,Lee Terry,0
+Sarpy,Absentee/Early Vote,Representative,2,REP,Lee Terry,0
+Sarpy,Precinct 1,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 2,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 3,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 4,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 5,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 6,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 7,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 8,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 9,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 10,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 11,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 12,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 13,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 16,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 17,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 18,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 19,Representative,2,REP,Lee Terry,388
+Sarpy,Precinct 20,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 21,Representative,2,REP,Lee Terry,484
+Sarpy,Precinct 22,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 23,Representative,2,REP,Lee Terry,630
+Sarpy,Precinct 24,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 25,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 26,Representative,1,REP,Lee Terry,0
+Sarpy,Precinct 31,Representative,2,REP,Lee Terry,748
+Sarpy,Precinct 32,Representative,2,REP,Lee Terry,343
+Sarpy,Precinct 33,Representative,2,REP,Lee Terry,361
+Sarpy,Precinct 34,Representative,2,REP,Lee Terry,375
+Sarpy,Precinct 35,Representative,2,REP,Lee Terry,371
+Sarpy,Precinct 36,Representative,2,REP,Lee Terry,601
+Sarpy,Precinct 37,Representative,2,REP,Lee Terry,710
+Sarpy,Precinct 38,Representative,2,REP,Lee Terry,474
+Sarpy,Precinct 39,Representative,2,REP,Lee Terry,551
+Sarpy,Precinct 40,Representative,2,REP,Lee Terry,495
+Sarpy,Precinct 41,Representative,2,REP,Lee Terry,583
+Sarpy,Precinct 42,Representative,2,REP,Lee Terry,498
+Sarpy,Precinct 46,Representative,2,REP,Lee Terry,448
+Sarpy,Precinct 47,Representative,2,REP,Lee Terry,260
+Sarpy,Precinct 48,Representative,2,REP,Lee Terry,686
+Sarpy,Precinct 49,Representative,2,REP,Lee Terry,533
+Sarpy,Precinct 51,Representative,2,REP,Lee Terry,614
+Sarpy,Precinct 52,Representative,2,REP,Lee Terry,578
+Sarpy,Precinct 53,Representative,2,REP,Lee Terry,456
+Sarpy,Precinct 54,Representative,2,REP,Lee Terry,482
+Sarpy,Precinct 55,Representative,2,REP,Lee Terry,579
+Sarpy,Precinct 56,Representative,2,REP,Lee Terry,413
+Sarpy,Precinct 57,Representative,2,REP,Lee Terry,313
+Sarpy,Precinct 58,Representative,2,REP,Lee Terry,365
+Sarpy,Precinct 59,Representative,2,REP,Lee Terry,399
+Sarpy,Precinct 60,Representative,2,REP,Lee Terry,320
+Sarpy,Precinct 61,Representative,2,REP,Lee Terry,763
+Sarpy,Precinct 62,Representative,2,REP,Lee Terry,292
+Sarpy,Absentee/Early Vote,Representative,2,REP,Lee Terry,0
+Sarpy,Provisional,Representative,2,REP,Lee Terry,0
+Sarpy,Countywide,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Absentee/Early Vote,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 1,Representative,1,DEM,Dennis P. Crawford,234
+Sarpy,Precinct 2,Representative,1,DEM,Dennis P. Crawford,161
+Sarpy,Precinct 3,Representative,1,DEM,Dennis P. Crawford,271
+Sarpy,Precinct 4,Representative,1,DEM,Dennis P. Crawford,252
+Sarpy,Precinct 5,Representative,1,DEM,Dennis P. Crawford,215
+Sarpy,Precinct 6,Representative,1,DEM,Dennis P. Crawford,272
+Sarpy,Precinct 7,Representative,1,DEM,Dennis P. Crawford,246
+Sarpy,Precinct 8,Representative,1,DEM,Dennis P. Crawford,167
+Sarpy,Precinct 9,Representative,1,DEM,Dennis P. Crawford,204
+Sarpy,Precinct 10,Representative,1,DEM,Dennis P. Crawford,172
+Sarpy,Precinct 11,Representative,1,DEM,Dennis P. Crawford,258
+Sarpy,Precinct 12,Representative,1,DEM,Dennis P. Crawford,214
+Sarpy,Precinct 13,Representative,1,DEM,Dennis P. Crawford,323
+Sarpy,Precinct 16,Representative,1,DEM,Dennis P. Crawford,343
+Sarpy,Precinct 17,Representative,1,DEM,Dennis P. Crawford,334
+Sarpy,Precinct 18,Representative,1,DEM,Dennis P. Crawford,227
+Sarpy,Precinct 19,Representative,1,DEM,Dennis P. Crawford,199
+Sarpy,Precinct 20,Representative,1,DEM,Dennis P. Crawford,338
+Sarpy,Precinct 21,Representative,1,DEM,Dennis P. Crawford,139
+Sarpy,Precinct 22,Representative,1,DEM,Dennis P. Crawford,261
+Sarpy,Precinct 23,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 24,Representative,1,DEM,Dennis P. Crawford,135
+Sarpy,Precinct 25,Representative,1,DEM,Dennis P. Crawford,148
+Sarpy,Precinct 26,Representative,1,DEM,Dennis P. Crawford,245
+Sarpy,Precinct 31,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 32,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 33,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 34,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 35,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 36,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 37,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 38,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 39,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 40,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 41,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 42,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 46,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 47,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 48,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 49,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 51,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 52,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 53,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 54,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 55,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 56,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 57,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 58,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 59,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 60,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 61,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Precinct 62,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Absentee/Early Vote,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Provisional,Representative,2,DEM,Dennis P. Crawford,0
+Sarpy,Countywide,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Absentee/Early Vote,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 1,Representative,1,REP,Jeff Fortenberry,284
+Sarpy,Precinct 2,Representative,1,REP,Jeff Fortenberry,442
+Sarpy,Precinct 3,Representative,1,REP,Jeff Fortenberry,463
+Sarpy,Precinct 4,Representative,1,REP,Jeff Fortenberry,542
+Sarpy,Precinct 5,Representative,1,REP,Jeff Fortenberry,458
+Sarpy,Precinct 6,Representative,1,REP,Jeff Fortenberry,508
+Sarpy,Precinct 7,Representative,1,REP,Jeff Fortenberry,496
+Sarpy,Precinct 8,Representative,1,REP,Jeff Fortenberry,528
+Sarpy,Precinct 9,Representative,1,REP,Jeff Fortenberry,391
+Sarpy,Precinct 10,Representative,1,REP,Jeff Fortenberry,330
+Sarpy,Precinct 11,Representative,1,REP,Jeff Fortenberry,675
+Sarpy,Precinct 12,Representative,1,REP,Jeff Fortenberry,567
+Sarpy,Precinct 13,Representative,1,REP,Jeff Fortenberry,800
+Sarpy,Precinct 16,Representative,1,REP,Jeff Fortenberry,551
+Sarpy,Precinct 17,Representative,1,REP,Jeff Fortenberry,526
+Sarpy,Precinct 18,Representative,1,REP,Jeff Fortenberry,379
+Sarpy,Precinct 19,Representative,1,REP,Jeff Fortenberry,426
+Sarpy,Precinct 20,Representative,1,REP,Jeff Fortenberry,559
+Sarpy,Precinct 21,Representative,1,REP,Jeff Fortenberry,403
+Sarpy,Precinct 22,Representative,1,REP,Jeff Fortenberry,489
+Sarpy,Precinct 23,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 24,Representative,1,REP,Jeff Fortenberry,438
+Sarpy,Precinct 25,Representative,1,REP,Jeff Fortenberry,365
+Sarpy,Precinct 26,Representative,1,REP,Jeff Fortenberry,600
+Sarpy,Precinct 31,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 32,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 33,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 34,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 35,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 36,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 37,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 38,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 39,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 40,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 41,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 42,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 46,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 47,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 48,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 49,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 51,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 52,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 53,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 54,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 55,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 56,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 57,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 58,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 59,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 60,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 61,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Precinct 62,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Absentee/Early Vote,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Provisional,Representative,2,REP,Jeff Fortenberry,0
+Sarpy,Countywide,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,0
+Sarpy,Absentee/Early Vote,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,0
+Sarpy,Precinct 1,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,264
+Sarpy,Precinct 2,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,219
+Sarpy,Precinct 3,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,315
+Sarpy,Precinct 4,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,321
+Sarpy,Precinct 5,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,247
+Sarpy,Precinct 6,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,330
+Sarpy,Precinct 7,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,309
+Sarpy,Precinct 8,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,208
+Sarpy,Precinct 9,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,248
+Sarpy,Precinct 10,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,202
+Sarpy,Precinct 11,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,315
+Sarpy,Precinct 12,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,250
+Sarpy,Precinct 13,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,401
+Sarpy,Precinct 16,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,410
+Sarpy,Precinct 17,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,388
+Sarpy,Precinct 18,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,267
+Sarpy,Precinct 19,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,419
+Sarpy,Precinct 20,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,387
+Sarpy,Precinct 21,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,417
+Sarpy,Precinct 22,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,276
+Sarpy,Precinct 23,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,315
+Sarpy,Precinct 24,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,167
+Sarpy,Precinct 25,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,165
+Sarpy,Precinct 26,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,270
+Sarpy,Precinct 31,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,499
+Sarpy,Precinct 32,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,305
+Sarpy,Precinct 33,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,325
+Sarpy,Precinct 34,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,399
+Sarpy,Precinct 35,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,351
+Sarpy,Precinct 36,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,268
+Sarpy,Precinct 37,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,384
+Sarpy,Precinct 38,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,337
+Sarpy,Precinct 39,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,345
+Sarpy,Precinct 40,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,364
+Sarpy,Precinct 41,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,388
+Sarpy,Precinct 42,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,319
+Sarpy,Precinct 46,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,215
+Sarpy,Precinct 47,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,190
+Sarpy,Precinct 48,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,332
+Sarpy,Precinct 49,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,359
+Sarpy,Precinct 51,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,302
+Sarpy,Precinct 52,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,398
+Sarpy,Precinct 53,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,357
+Sarpy,Precinct 54,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,381
+Sarpy,Precinct 55,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,363
+Sarpy,Precinct 56,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,273
+Sarpy,Precinct 57,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,286
+Sarpy,Precinct 58,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,138
+Sarpy,Precinct 59,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,238
+Sarpy,Precinct 60,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,231
+Sarpy,Precinct 61,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,397
+Sarpy,Precinct 62,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,224
+Sarpy,Absentee/Early Vote,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,0
+Sarpy,Provisional,Governor,2,DEM,Chuck Hassebrook and Jane Raybould,0
+Sarpy,Countywide,Governor,2,REP,Pete Ricketts and Mike Foley,0
+Sarpy,Absentee/Early Vote,Governor,2,REP,Pete Ricketts and Mike Foley,0
+Sarpy,Precinct 1,Governor,1,REP,Pete Ricketts and Mike Foley,241
+Sarpy,Precinct 2,Governor,1,REP,Pete Ricketts and Mike Foley,367
+Sarpy,Precinct 3,Governor,1,REP,Pete Ricketts and Mike Foley,377
+Sarpy,Precinct 4,Governor,1,REP,Pete Ricketts and Mike Foley,455
+Sarpy,Precinct 5,Governor,1,REP,Pete Ricketts and Mike Foley,389
+Sarpy,Precinct 6,Governor,1,REP,Pete Ricketts and Mike Foley,433
+Sarpy,Precinct 7,Governor,1,REP,Pete Ricketts and Mike Foley,396
+Sarpy,Precinct 8,Governor,1,REP,Pete Ricketts and Mike Foley,468
+Sarpy,Precinct 9,Governor,1,REP,Pete Ricketts and Mike Foley,323
+Sarpy,Precinct 10,Governor,1,REP,Pete Ricketts and Mike Foley,259
+Sarpy,Precinct 11,Governor,1,REP,Pete Ricketts and Mike Foley,589
+Sarpy,Precinct 12,Governor,1,REP,Pete Ricketts and Mike Foley,505
+Sarpy,Precinct 13,Governor,1,REP,Pete Ricketts and Mike Foley,707
+Sarpy,Precinct 16,Governor,1,REP,Pete Ricketts and Mike Foley,471
+Sarpy,Precinct 17,Governor,1,REP,Pete Ricketts and Mike Foley,455
+Sarpy,Precinct 18,Governor,1,REP,Pete Ricketts and Mike Foley,314
+Sarpy,Precinct 19,Governor,1,REP,Pete Ricketts and Mike Foley,822
+Sarpy,Precinct 20,Governor,1,REP,Pete Ricketts and Mike Foley,483
+Sarpy,Precinct 21,Governor,1,REP,Pete Ricketts and Mike Foley,885
+Sarpy,Precinct 22,Governor,1,REP,Pete Ricketts and Mike Foley,439
+Sarpy,Precinct 23,Governor,2,REP,Pete Ricketts and Mike Foley,687
+Sarpy,Precinct 24,Governor,1,REP,Pete Ricketts and Mike Foley,384
+Sarpy,Precinct 25,Governor,1,REP,Pete Ricketts and Mike Foley,336
+Sarpy,Precinct 26,Governor,1,REP,Pete Ricketts and Mike Foley,531
+Sarpy,Precinct 31,Governor,2,REP,Pete Ricketts and Mike Foley,875
+Sarpy,Precinct 32,Governor,2,REP,Pete Ricketts and Mike Foley,373
+Sarpy,Precinct 33,Governor,2,REP,Pete Ricketts and Mike Foley,422
+Sarpy,Precinct 34,Governor,2,REP,Pete Ricketts and Mike Foley,391
+Sarpy,Precinct 35,Governor,2,REP,Pete Ricketts and Mike Foley,459
+Sarpy,Precinct 36,Governor,2,REP,Pete Ricketts and Mike Foley,717
+Sarpy,Precinct 37,Governor,2,REP,Pete Ricketts and Mike Foley,794
+Sarpy,Precinct 38,Governor,2,REP,Pete Ricketts and Mike Foley,546
+Sarpy,Precinct 39,Governor,2,REP,Pete Ricketts and Mike Foley,635
+Sarpy,Precinct 40,Governor,2,REP,Pete Ricketts and Mike Foley,527
+Sarpy,Precinct 41,Governor,2,REP,Pete Ricketts and Mike Foley,672
+Sarpy,Precinct 42,Governor,2,REP,Pete Ricketts and Mike Foley,552
+Sarpy,Precinct 46,Governor,2,REP,Pete Ricketts and Mike Foley,489
+Sarpy,Precinct 47,Governor,2,REP,Pete Ricketts and Mike Foley,297
+Sarpy,Precinct 48,Governor,2,REP,Pete Ricketts and Mike Foley,794
+Sarpy,Precinct 49,Governor,2,REP,Pete Ricketts and Mike Foley,637
+Sarpy,Precinct 51,Governor,2,REP,Pete Ricketts and Mike Foley,697
+Sarpy,Precinct 52,Governor,2,REP,Pete Ricketts and Mike Foley,668
+Sarpy,Precinct 53,Governor,2,REP,Pete Ricketts and Mike Foley,533
+Sarpy,Precinct 54,Governor,2,REP,Pete Ricketts and Mike Foley,564
+Sarpy,Precinct 55,Governor,2,REP,Pete Ricketts and Mike Foley,656
+Sarpy,Precinct 56,Governor,2,REP,Pete Ricketts and Mike Foley,465
+Sarpy,Precinct 57,Governor,2,REP,Pete Ricketts and Mike Foley,359
+Sarpy,Precinct 58,Governor,2,REP,Pete Ricketts and Mike Foley,444
+Sarpy,Precinct 59,Governor,2,REP,Pete Ricketts and Mike Foley,454
+Sarpy,Precinct 60,Governor,2,REP,Pete Ricketts and Mike Foley,380
+Sarpy,Precinct 61,Governor,2,REP,Pete Ricketts and Mike Foley,882
+Sarpy,Precinct 62,Governor,2,REP,Pete Ricketts and Mike Foley,334
+Sarpy,Absentee/Early Vote,Governor,2,REP,Pete Ricketts and Mike Foley,0
+Sarpy,Provisional,Governor,2,REP,Pete Ricketts and Mike Foley,0
+Sarpy,Countywide,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Sarpy,Absentee/Early Vote,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Sarpy,Precinct 1,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,18
+Sarpy,Precinct 2,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,28
+Sarpy,Precinct 3,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,43
+Sarpy,Precinct 4,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,26
+Sarpy,Precinct 5,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,38
+Sarpy,Precinct 6,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,26
+Sarpy,Precinct 7,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,40
+Sarpy,Precinct 8,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,26
+Sarpy,Precinct 9,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,28
+Sarpy,Precinct 10,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,45
+Sarpy,Precinct 11,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,38
+Sarpy,Precinct 12,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,32
+Sarpy,Precinct 13,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,36
+Sarpy,Precinct 16,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,27
+Sarpy,Precinct 17,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,27
+Sarpy,Precinct 18,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,37
+Sarpy,Precinct 19,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,34
+Sarpy,Precinct 20,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,40
+Sarpy,Precinct 21,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,42
+Sarpy,Precinct 22,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,37
+Sarpy,Precinct 23,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,35
+Sarpy,Precinct 24,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,24
+Sarpy,Precinct 25,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,17
+Sarpy,Precinct 26,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,43
+Sarpy,Precinct 31,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,44
+Sarpy,Precinct 32,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,31
+Sarpy,Precinct 33,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,36
+Sarpy,Precinct 34,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,46
+Sarpy,Precinct 35,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,33
+Sarpy,Precinct 36,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,27
+Sarpy,Precinct 37,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,27
+Sarpy,Precinct 38,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,23
+Sarpy,Precinct 39,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,33
+Sarpy,Precinct 40,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,49
+Sarpy,Precinct 41,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,36
+Sarpy,Precinct 42,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,39
+Sarpy,Precinct 46,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,23
+Sarpy,Precinct 47,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,30
+Sarpy,Precinct 48,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,37
+Sarpy,Precinct 49,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,29
+Sarpy,Precinct 51,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,32
+Sarpy,Precinct 52,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,35
+Sarpy,Precinct 53,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,37
+Sarpy,Precinct 54,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,35
+Sarpy,Precinct 55,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,43
+Sarpy,Precinct 56,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,29
+Sarpy,Precinct 57,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,30
+Sarpy,Precinct 58,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,19
+Sarpy,Precinct 59,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,30
+Sarpy,Precinct 60,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,20
+Sarpy,Precinct 61,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,26
+Sarpy,Precinct 62,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,24
+Sarpy,Absentee/Early Vote,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Sarpy,Provisional,Governor,2,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Sarpy,Countywide,Secretary of State,2,LIB,Ben Backus,0
+Sarpy,Absentee/Early Vote,Secretary of State,2,LIB,Ben Backus,0
+Sarpy,Precinct 1,Secretary of State,1,LIB,Ben Backus,199
+Sarpy,Precinct 2,Secretary of State,1,LIB,Ben Backus,140
+Sarpy,Precinct 3,Secretary of State,1,LIB,Ben Backus,233
+Sarpy,Precinct 4,Secretary of State,1,LIB,Ben Backus,202
+Sarpy,Precinct 5,Secretary of State,1,LIB,Ben Backus,161
+Sarpy,Precinct 6,Secretary of State,1,LIB,Ben Backus,230
+Sarpy,Precinct 7,Secretary of State,1,LIB,Ben Backus,197
+Sarpy,Precinct 8,Secretary of State,1,LIB,Ben Backus,158
+Sarpy,Precinct 9,Secretary of State,1,LIB,Ben Backus,174
+Sarpy,Precinct 10,Secretary of State,1,LIB,Ben Backus,152
+Sarpy,Precinct 11,Secretary of State,1,LIB,Ben Backus,226
+Sarpy,Precinct 12,Secretary of State,1,LIB,Ben Backus,192
+Sarpy,Precinct 13,Secretary of State,1,LIB,Ben Backus,239
+Sarpy,Precinct 16,Secretary of State,1,LIB,Ben Backus,276
+Sarpy,Precinct 17,Secretary of State,1,LIB,Ben Backus,275
+Sarpy,Precinct 18,Secretary of State,1,LIB,Ben Backus,199
+Sarpy,Precinct 19,Secretary of State,1,LIB,Ben Backus,267
+Sarpy,Precinct 20,Secretary of State,1,LIB,Ben Backus,287
+Sarpy,Precinct 21,Secretary of State,1,LIB,Ben Backus,269
+Sarpy,Precinct 22,Secretary of State,1,LIB,Ben Backus,211
+Sarpy,Precinct 23,Secretary of State,2,LIB,Ben Backus,204
+Sarpy,Precinct 24,Secretary of State,1,LIB,Ben Backus,130
+Sarpy,Precinct 25,Secretary of State,1,LIB,Ben Backus,129
+Sarpy,Precinct 26,Secretary of State,1,LIB,Ben Backus,194
+Sarpy,Precinct 31,Secretary of State,2,LIB,Ben Backus,329
+Sarpy,Precinct 32,Secretary of State,2,LIB,Ben Backus,168
+Sarpy,Precinct 33,Secretary of State,2,LIB,Ben Backus,193
+Sarpy,Precinct 34,Secretary of State,2,LIB,Ben Backus,269
+Sarpy,Precinct 35,Secretary of State,2,LIB,Ben Backus,241
+Sarpy,Precinct 36,Secretary of State,2,LIB,Ben Backus,159
+Sarpy,Precinct 37,Secretary of State,2,LIB,Ben Backus,216
+Sarpy,Precinct 38,Secretary of State,2,LIB,Ben Backus,193
+Sarpy,Precinct 39,Secretary of State,2,LIB,Ben Backus,207
+Sarpy,Precinct 40,Secretary of State,2,LIB,Ben Backus,253
+Sarpy,Precinct 41,Secretary of State,2,LIB,Ben Backus,228
+Sarpy,Precinct 42,Secretary of State,2,LIB,Ben Backus,212
+Sarpy,Precinct 46,Secretary of State,2,LIB,Ben Backus,121
+Sarpy,Precinct 47,Secretary of State,2,LIB,Ben Backus,125
+Sarpy,Precinct 48,Secretary of State,2,LIB,Ben Backus,243
+Sarpy,Precinct 49,Secretary of State,2,LIB,Ben Backus,221
+Sarpy,Precinct 51,Secretary of State,2,LIB,Ben Backus,198
+Sarpy,Precinct 52,Secretary of State,2,LIB,Ben Backus,264
+Sarpy,Precinct 53,Secretary of State,2,LIB,Ben Backus,252
+Sarpy,Precinct 54,Secretary of State,2,LIB,Ben Backus,253
+Sarpy,Precinct 55,Secretary of State,2,LIB,Ben Backus,258
+Sarpy,Precinct 56,Secretary of State,2,LIB,Ben Backus,176
+Sarpy,Precinct 57,Secretary of State,2,LIB,Ben Backus,212
+Sarpy,Precinct 58,Secretary of State,2,LIB,Ben Backus,103
+Sarpy,Precinct 59,Secretary of State,2,LIB,Ben Backus,127
+Sarpy,Precinct 60,Secretary of State,2,LIB,Ben Backus,139
+Sarpy,Precinct 61,Secretary of State,2,LIB,Ben Backus,227
+Sarpy,Precinct 62,Secretary of State,2,LIB,Ben Backus,159
+Sarpy,Absentee/Early Vote,Secretary of State,2,LIB,Ben Backus,0
+Sarpy,Provisional,Secretary of State,2,LIB,Ben Backus,0
+Sarpy,Countywide,Secretary of State,2,REP,John A. Gale,0
+Sarpy,Absentee/Early Vote,Secretary of State,2,REP,John A. Gale,0
+Sarpy,Precinct 1,Secretary of State,1,REP,John A. Gale,272
+Sarpy,Precinct 2,Secretary of State,1,REP,John A. Gale,426
+Sarpy,Precinct 3,Secretary of State,1,REP,John A. Gale,447
+Sarpy,Precinct 4,Secretary of State,1,REP,John A. Gale,527
+Sarpy,Precinct 5,Secretary of State,1,REP,John A. Gale,463
+Sarpy,Precinct 6,Secretary of State,1,REP,John A. Gale,495
+Sarpy,Precinct 7,Secretary of State,1,REP,John A. Gale,478
+Sarpy,Precinct 8,Secretary of State,1,REP,John A. Gale,508
+Sarpy,Precinct 9,Secretary of State,1,REP,John A. Gale,372
+Sarpy,Precinct 10,Secretary of State,1,REP,John A. Gale,320
+Sarpy,Precinct 11,Secretary of State,1,REP,John A. Gale,655
+Sarpy,Precinct 12,Secretary of State,1,REP,John A. Gale,541
+Sarpy,Precinct 13,Secretary of State,1,REP,John A. Gale,811
+Sarpy,Precinct 16,Secretary of State,1,REP,John A. Gale,534
+Sarpy,Precinct 17,Secretary of State,1,REP,John A. Gale,513
+Sarpy,Precinct 18,Secretary of State,1,REP,John A. Gale,361
+Sarpy,Precinct 19,Secretary of State,1,REP,John A. Gale,918
+Sarpy,Precinct 20,Secretary of State,1,REP,John A. Gale,545
+Sarpy,Precinct 21,Secretary of State,1,REP,John A. Gale,987
+Sarpy,Precinct 22,Secretary of State,1,REP,John A. Gale,491
+Sarpy,Precinct 23,Secretary of State,2,REP,John A. Gale,765
+Sarpy,Precinct 24,Secretary of State,1,REP,John A. Gale,404
+Sarpy,Precinct 25,Secretary of State,1,REP,John A. Gale,353
+Sarpy,Precinct 26,Secretary of State,1,REP,John A. Gale,599
+Sarpy,Precinct 31,Secretary of State,2,REP,John A. Gale,978
+Sarpy,Precinct 32,Secretary of State,2,REP,John A. Gale,485
+Sarpy,Precinct 33,Secretary of State,2,REP,John A. Gale,517
+Sarpy,Precinct 34,Secretary of State,2,REP,John A. Gale,500
+Sarpy,Precinct 35,Secretary of State,2,REP,John A. Gale,521
+Sarpy,Precinct 36,Secretary of State,2,REP,John A. Gale,778
+Sarpy,Precinct 37,Secretary of State,2,REP,John A. Gale,896
+Sarpy,Precinct 38,Secretary of State,2,REP,John A. Gale,622
+Sarpy,Precinct 39,Secretary of State,2,REP,John A. Gale,711
+Sarpy,Precinct 40,Secretary of State,2,REP,John A. Gale,616
+Sarpy,Precinct 41,Secretary of State,2,REP,John A. Gale,778
+Sarpy,Precinct 42,Secretary of State,2,REP,John A. Gale,636
+Sarpy,Precinct 46,Secretary of State,2,REP,John A. Gale,524
+Sarpy,Precinct 47,Secretary of State,2,REP,John A. Gale,340
+Sarpy,Precinct 48,Secretary of State,2,REP,John A. Gale,840
+Sarpy,Precinct 49,Secretary of State,2,REP,John A. Gale,726
+Sarpy,Precinct 51,Secretary of State,2,REP,John A. Gale,761
+Sarpy,Precinct 52,Secretary of State,2,REP,John A. Gale,754
+Sarpy,Precinct 53,Secretary of State,2,REP,John A. Gale,594
+Sarpy,Precinct 54,Secretary of State,2,REP,John A. Gale,648
+Sarpy,Precinct 55,Secretary of State,2,REP,John A. Gale,707
+Sarpy,Precinct 56,Secretary of State,2,REP,John A. Gale,528
+Sarpy,Precinct 57,Secretary of State,2,REP,John A. Gale,405
+Sarpy,Precinct 58,Secretary of State,2,REP,John A. Gale,463
+Sarpy,Precinct 59,Secretary of State,2,REP,John A. Gale,523
+Sarpy,Precinct 60,Secretary of State,2,REP,John A. Gale,452
+Sarpy,Precinct 61,Secretary of State,2,REP,John A. Gale,989
+Sarpy,Precinct 62,Secretary of State,2,REP,John A. Gale,386
+Sarpy,Absentee/Early Vote,Secretary of State,2,REP,John A. Gale,0
+Sarpy,Provisional,Secretary of State,2,REP,John A. Gale,0
+Sarpy,Countywide,State Treasurer,2,LIB,Michael Knebel,0
+Sarpy,Absentee/Early Vote,State Treasurer,2,LIB,Michael Knebel,0
+Sarpy,Precinct 1,State Treasurer,1,LIB,Michael Knebel,37
+Sarpy,Precinct 2,State Treasurer,1,LIB,Michael Knebel,48
+Sarpy,Precinct 3,State Treasurer,1,LIB,Michael Knebel,79
+Sarpy,Precinct 4,State Treasurer,1,LIB,Michael Knebel,48
+Sarpy,Precinct 5,State Treasurer,1,LIB,Michael Knebel,43
+Sarpy,Precinct 6,State Treasurer,1,LIB,Michael Knebel,60
+Sarpy,Precinct 7,State Treasurer,1,LIB,Michael Knebel,58
+Sarpy,Precinct 8,State Treasurer,1,LIB,Michael Knebel,29
+Sarpy,Precinct 9,State Treasurer,1,LIB,Michael Knebel,39
+Sarpy,Precinct 10,State Treasurer,1,LIB,Michael Knebel,59
+Sarpy,Precinct 11,State Treasurer,1,LIB,Michael Knebel,74
+Sarpy,Precinct 12,State Treasurer,1,LIB,Michael Knebel,55
+Sarpy,Precinct 13,State Treasurer,1,LIB,Michael Knebel,72
+Sarpy,Precinct 16,State Treasurer,1,LIB,Michael Knebel,54
+Sarpy,Precinct 17,State Treasurer,1,LIB,Michael Knebel,53
+Sarpy,Precinct 18,State Treasurer,1,LIB,Michael Knebel,49
+Sarpy,Precinct 19,State Treasurer,1,LIB,Michael Knebel,66
+Sarpy,Precinct 20,State Treasurer,1,LIB,Michael Knebel,61
+Sarpy,Precinct 21,State Treasurer,1,LIB,Michael Knebel,87
+Sarpy,Precinct 22,State Treasurer,1,LIB,Michael Knebel,54
+Sarpy,Precinct 23,State Treasurer,2,LIB,Michael Knebel,57
+Sarpy,Precinct 24,State Treasurer,1,LIB,Michael Knebel,52
+Sarpy,Precinct 25,State Treasurer,1,LIB,Michael Knebel,41
+Sarpy,Precinct 26,State Treasurer,1,LIB,Michael Knebel,59
+Sarpy,Precinct 31,State Treasurer,2,LIB,Michael Knebel,82
+Sarpy,Precinct 32,State Treasurer,2,LIB,Michael Knebel,35
+Sarpy,Precinct 33,State Treasurer,2,LIB,Michael Knebel,45
+Sarpy,Precinct 34,State Treasurer,2,LIB,Michael Knebel,60
+Sarpy,Precinct 35,State Treasurer,2,LIB,Michael Knebel,62
+Sarpy,Precinct 36,State Treasurer,2,LIB,Michael Knebel,50
+Sarpy,Precinct 37,State Treasurer,2,LIB,Michael Knebel,55
+Sarpy,Precinct 38,State Treasurer,2,LIB,Michael Knebel,56
+Sarpy,Precinct 39,State Treasurer,2,LIB,Michael Knebel,58
+Sarpy,Precinct 40,State Treasurer,2,LIB,Michael Knebel,57
+Sarpy,Precinct 41,State Treasurer,2,LIB,Michael Knebel,52
+Sarpy,Precinct 42,State Treasurer,2,LIB,Michael Knebel,56
+Sarpy,Precinct 46,State Treasurer,2,LIB,Michael Knebel,37
+Sarpy,Precinct 47,State Treasurer,2,LIB,Michael Knebel,30
+Sarpy,Precinct 48,State Treasurer,2,LIB,Michael Knebel,73
+Sarpy,Precinct 49,State Treasurer,2,LIB,Michael Knebel,54
+Sarpy,Precinct 51,State Treasurer,2,LIB,Michael Knebel,44
+Sarpy,Precinct 52,State Treasurer,2,LIB,Michael Knebel,57
+Sarpy,Precinct 53,State Treasurer,2,LIB,Michael Knebel,65
+Sarpy,Precinct 54,State Treasurer,2,LIB,Michael Knebel,53
+Sarpy,Precinct 55,State Treasurer,2,LIB,Michael Knebel,60
+Sarpy,Precinct 56,State Treasurer,2,LIB,Michael Knebel,58
+Sarpy,Precinct 57,State Treasurer,2,LIB,Michael Knebel,59
+Sarpy,Precinct 58,State Treasurer,2,LIB,Michael Knebel,33
+Sarpy,Precinct 59,State Treasurer,2,LIB,Michael Knebel,34
+Sarpy,Precinct 60,State Treasurer,2,LIB,Michael Knebel,35
+Sarpy,Precinct 61,State Treasurer,2,LIB,Michael Knebel,71
+Sarpy,Precinct 62,State Treasurer,2,LIB,Michael Knebel,49
+Sarpy,Absentee/Early Vote,State Treasurer,2,LIB,Michael Knebel,0
+Sarpy,Provisional,State Treasurer,2,LIB,Michael Knebel,0
+Sarpy,Countywide,State Treasurer,2,DEM,Michael J. O'Hara,0
+Sarpy,Absentee/Early Vote,State Treasurer,2,DEM,Michael J. O'Hara,0
+Sarpy,Precinct 1,State Treasurer,1,DEM,Michael J. O'Hara,206
+Sarpy,Precinct 2,State Treasurer,1,DEM,Michael J. O'Hara,151
+Sarpy,Precinct 3,State Treasurer,1,DEM,Michael J. O'Hara,228
+Sarpy,Precinct 4,State Treasurer,1,DEM,Michael J. O'Hara,236
+Sarpy,Precinct 5,State Treasurer,1,DEM,Michael J. O'Hara,178
+Sarpy,Precinct 6,State Treasurer,1,DEM,Michael J. O'Hara,249
+Sarpy,Precinct 7,State Treasurer,1,DEM,Michael J. O'Hara,221
+Sarpy,Precinct 8,State Treasurer,1,DEM,Michael J. O'Hara,165
+Sarpy,Precinct 9,State Treasurer,1,DEM,Michael J. O'Hara,171
+Sarpy,Precinct 10,State Treasurer,1,DEM,Michael J. O'Hara,139
+Sarpy,Precinct 11,State Treasurer,1,DEM,Michael J. O'Hara,239
+Sarpy,Precinct 12,State Treasurer,1,DEM,Michael J. O'Hara,195
+Sarpy,Precinct 13,State Treasurer,1,DEM,Michael J. O'Hara,307
+Sarpy,Precinct 16,State Treasurer,1,DEM,Michael J. O'Hara,292
+Sarpy,Precinct 17,State Treasurer,1,DEM,Michael J. O'Hara,299
+Sarpy,Precinct 18,State Treasurer,1,DEM,Michael J. O'Hara,219
+Sarpy,Precinct 19,State Treasurer,1,DEM,Michael J. O'Hara,309
+Sarpy,Precinct 20,State Treasurer,1,DEM,Michael J. O'Hara,312
+Sarpy,Precinct 21,State Treasurer,1,DEM,Michael J. O'Hara,307
+Sarpy,Precinct 22,State Treasurer,1,DEM,Michael J. O'Hara,224
+Sarpy,Precinct 23,State Treasurer,2,DEM,Michael J. O'Hara,213
+Sarpy,Precinct 24,State Treasurer,1,DEM,Michael J. O'Hara,128
+Sarpy,Precinct 25,State Treasurer,1,DEM,Michael J. O'Hara,149
+Sarpy,Precinct 26,State Treasurer,1,DEM,Michael J. O'Hara,210
+Sarpy,Precinct 31,State Treasurer,2,DEM,Michael J. O'Hara,326
+Sarpy,Precinct 32,State Treasurer,2,DEM,Michael J. O'Hara,215
+Sarpy,Precinct 33,State Treasurer,2,DEM,Michael J. O'Hara,232
+Sarpy,Precinct 34,State Treasurer,2,DEM,Michael J. O'Hara,284
+Sarpy,Precinct 35,State Treasurer,2,DEM,Michael J. O'Hara,273
+Sarpy,Precinct 36,State Treasurer,2,DEM,Michael J. O'Hara,215
+Sarpy,Precinct 37,State Treasurer,2,DEM,Michael J. O'Hara,272
+Sarpy,Precinct 38,State Treasurer,2,DEM,Michael J. O'Hara,233
+Sarpy,Precinct 39,State Treasurer,2,DEM,Michael J. O'Hara,231
+Sarpy,Precinct 40,State Treasurer,2,DEM,Michael J. O'Hara,267
+Sarpy,Precinct 41,State Treasurer,2,DEM,Michael J. O'Hara,304
+Sarpy,Precinct 42,State Treasurer,2,DEM,Michael J. O'Hara,232
+Sarpy,Precinct 46,State Treasurer,2,DEM,Michael J. O'Hara,149
+Sarpy,Precinct 47,State Treasurer,2,DEM,Michael J. O'Hara,121
+Sarpy,Precinct 48,State Treasurer,2,DEM,Michael J. O'Hara,214
+Sarpy,Precinct 49,State Treasurer,2,DEM,Michael J. O'Hara,235
+Sarpy,Precinct 51,State Treasurer,2,DEM,Michael J. O'Hara,210
+Sarpy,Precinct 52,State Treasurer,2,DEM,Michael J. O'Hara,292
+Sarpy,Precinct 53,State Treasurer,2,DEM,Michael J. O'Hara,261
+Sarpy,Precinct 54,State Treasurer,2,DEM,Michael J. O'Hara,278
+Sarpy,Precinct 55,State Treasurer,2,DEM,Michael J. O'Hara,266
+Sarpy,Precinct 56,State Treasurer,2,DEM,Michael J. O'Hara,191
+Sarpy,Precinct 57,State Treasurer,2,DEM,Michael J. O'Hara,199
+Sarpy,Precinct 58,State Treasurer,2,DEM,Michael J. O'Hara,86
+Sarpy,Precinct 59,State Treasurer,2,DEM,Michael J. O'Hara,153
+Sarpy,Precinct 60,State Treasurer,2,DEM,Michael J. O'Hara,135
+Sarpy,Precinct 61,State Treasurer,2,DEM,Michael J. O'Hara,265
+Sarpy,Precinct 62,State Treasurer,2,DEM,Michael J. O'Hara,176
+Sarpy,Absentee/Early Vote,State Treasurer,2,DEM,Michael J. O'Hara,0
+Sarpy,Provisional,State Treasurer,2,DEM,Michael J. O'Hara,0
+Sarpy,Countywide,State Treasurer,2,REP,Don Stenberg,0
+Sarpy,Absentee/Early Vote,State Treasurer,2,REP,Don Stenberg,0
+Sarpy,Precinct 1,State Treasurer,1,REP,Don Stenberg,264
+Sarpy,Precinct 2,State Treasurer,1,REP,Don Stenberg,406
+Sarpy,Precinct 3,State Treasurer,1,REP,Don Stenberg,419
+Sarpy,Precinct 4,State Treasurer,1,REP,Don Stenberg,500
+Sarpy,Precinct 5,State Treasurer,1,REP,Don Stenberg,446
+Sarpy,Precinct 6,State Treasurer,1,REP,Don Stenberg,461
+Sarpy,Precinct 7,State Treasurer,1,REP,Don Stenberg,449
+Sarpy,Precinct 8,State Treasurer,1,REP,Don Stenberg,494
+Sarpy,Precinct 9,State Treasurer,1,REP,Don Stenberg,377
+Sarpy,Precinct 10,State Treasurer,1,REP,Don Stenberg,293
+Sarpy,Precinct 11,State Treasurer,1,REP,Don Stenberg,604
+Sarpy,Precinct 12,State Treasurer,1,REP,Don Stenberg,525
+Sarpy,Precinct 13,State Treasurer,1,REP,Don Stenberg,741
+Sarpy,Precinct 16,State Treasurer,1,REP,Don Stenberg,535
+Sarpy,Precinct 17,State Treasurer,1,REP,Don Stenberg,497
+Sarpy,Precinct 18,State Treasurer,1,REP,Don Stenberg,328
+Sarpy,Precinct 19,State Treasurer,1,REP,Don Stenberg,866
+Sarpy,Precinct 20,State Treasurer,1,REP,Don Stenberg,515
+Sarpy,Precinct 21,State Treasurer,1,REP,Don Stenberg,920
+Sarpy,Precinct 22,State Treasurer,1,REP,Don Stenberg,463
+Sarpy,Precinct 23,State Treasurer,2,REP,Don Stenberg,740
+Sarpy,Precinct 24,State Treasurer,1,REP,Don Stenberg,385
+Sarpy,Precinct 25,State Treasurer,1,REP,Don Stenberg,323
+Sarpy,Precinct 26,State Treasurer,1,REP,Don Stenberg,558
+Sarpy,Precinct 31,State Treasurer,2,REP,Don Stenberg,965
+Sarpy,Precinct 32,State Treasurer,2,REP,Don Stenberg,446
+Sarpy,Precinct 33,State Treasurer,2,REP,Don Stenberg,482
+Sarpy,Precinct 34,State Treasurer,2,REP,Don Stenberg,475
+Sarpy,Precinct 35,State Treasurer,2,REP,Don Stenberg,482
+Sarpy,Precinct 36,State Treasurer,2,REP,Don Stenberg,718
+Sarpy,Precinct 37,State Treasurer,2,REP,Don Stenberg,837
+Sarpy,Precinct 38,State Treasurer,2,REP,Don Stenberg,591
+Sarpy,Precinct 39,State Treasurer,2,REP,Don Stenberg,692
+Sarpy,Precinct 40,State Treasurer,2,REP,Don Stenberg,591
+Sarpy,Precinct 41,State Treasurer,2,REP,Don Stenberg,712
+Sarpy,Precinct 42,State Treasurer,2,REP,Don Stenberg,605
+Sarpy,Precinct 46,State Treasurer,2,REP,Don Stenberg,517
+Sarpy,Precinct 47,State Treasurer,2,REP,Don Stenberg,342
+Sarpy,Precinct 48,State Treasurer,2,REP,Don Stenberg,839
+Sarpy,Precinct 49,State Treasurer,2,REP,Don Stenberg,706
+Sarpy,Precinct 51,State Treasurer,2,REP,Don Stenberg,746
+Sarpy,Precinct 52,State Treasurer,2,REP,Don Stenberg,713
+Sarpy,Precinct 53,State Treasurer,2,REP,Don Stenberg,559
+Sarpy,Precinct 54,State Treasurer,2,REP,Don Stenberg,631
+Sarpy,Precinct 55,State Treasurer,2,REP,Don Stenberg,704
+Sarpy,Precinct 56,State Treasurer,2,REP,Don Stenberg,500
+Sarpy,Precinct 57,State Treasurer,2,REP,Don Stenberg,396
+Sarpy,Precinct 58,State Treasurer,2,REP,Don Stenberg,464
+Sarpy,Precinct 59,State Treasurer,2,REP,Don Stenberg,512
+Sarpy,Precinct 60,State Treasurer,2,REP,Don Stenberg,447
+Sarpy,Precinct 61,State Treasurer,2,REP,Don Stenberg,945
+Sarpy,Precinct 62,State Treasurer,2,REP,Don Stenberg,343
+Sarpy,Absentee/Early Vote,State Treasurer,2,REP,Don Stenberg,0
+Sarpy,Provisional,State Treasurer,2,REP,Don Stenberg,0
+Sarpy,Countywide,Attorney General,2,REP,Doug Peterson,0
+Sarpy,Absentee/Early Vote,Attorney General,2,REP,Doug Peterson,0
+Sarpy,Precinct 1,Attorney General,1,REP,Doug Peterson,248
+Sarpy,Precinct 2,Attorney General,1,REP,Doug Peterson,390
+Sarpy,Precinct 3,Attorney General,1,REP,Doug Peterson,428
+Sarpy,Precinct 4,Attorney General,1,REP,Doug Peterson,489
+Sarpy,Precinct 5,Attorney General,1,REP,Doug Peterson,430
+Sarpy,Precinct 6,Attorney General,1,REP,Doug Peterson,458
+Sarpy,Precinct 7,Attorney General,1,REP,Doug Peterson,445
+Sarpy,Precinct 8,Attorney General,1,REP,Doug Peterson,494
+Sarpy,Precinct 9,Attorney General,1,REP,Doug Peterson,349
+Sarpy,Precinct 10,Attorney General,1,REP,Doug Peterson,314
+Sarpy,Precinct 11,Attorney General,1,REP,Doug Peterson,616
+Sarpy,Precinct 12,Attorney General,1,REP,Doug Peterson,527
+Sarpy,Precinct 13,Attorney General,1,REP,Doug Peterson,727
+Sarpy,Precinct 16,Attorney General,1,REP,Doug Peterson,495
+Sarpy,Precinct 17,Attorney General,1,REP,Doug Peterson,466
+Sarpy,Precinct 18,Attorney General,1,REP,Doug Peterson,330
+Sarpy,Precinct 19,Attorney General,1,REP,Doug Peterson,862
+Sarpy,Precinct 20,Attorney General,1,REP,Doug Peterson,517
+Sarpy,Precinct 21,Attorney General,1,REP,Doug Peterson,936
+Sarpy,Precinct 22,Attorney General,1,REP,Doug Peterson,464
+Sarpy,Precinct 23,Attorney General,2,REP,Doug Peterson,725
+Sarpy,Precinct 24,Attorney General,1,REP,Doug Peterson,408
+Sarpy,Precinct 25,Attorney General,1,REP,Doug Peterson,339
+Sarpy,Precinct 26,Attorney General,1,REP,Doug Peterson,549
+Sarpy,Precinct 31,Attorney General,2,REP,Doug Peterson,939
+Sarpy,Precinct 32,Attorney General,2,REP,Doug Peterson,415
+Sarpy,Precinct 33,Attorney General,2,REP,Doug Peterson,476
+Sarpy,Precinct 34,Attorney General,2,REP,Doug Peterson,461
+Sarpy,Precinct 35,Attorney General,2,REP,Doug Peterson,485
+Sarpy,Precinct 36,Attorney General,2,REP,Doug Peterson,725
+Sarpy,Precinct 37,Attorney General,2,REP,Doug Peterson,808
+Sarpy,Precinct 38,Attorney General,2,REP,Doug Peterson,568
+Sarpy,Precinct 39,Attorney General,2,REP,Doug Peterson,646
+Sarpy,Precinct 40,Attorney General,2,REP,Doug Peterson,585
+Sarpy,Precinct 41,Attorney General,2,REP,Doug Peterson,700
+Sarpy,Precinct 42,Attorney General,2,REP,Doug Peterson,608
+Sarpy,Precinct 46,Attorney General,2,REP,Doug Peterson,499
+Sarpy,Precinct 47,Attorney General,2,REP,Doug Peterson,331
+Sarpy,Precinct 48,Attorney General,2,REP,Doug Peterson,831
+Sarpy,Precinct 49,Attorney General,2,REP,Doug Peterson,662
+Sarpy,Precinct 51,Attorney General,2,REP,Doug Peterson,714
+Sarpy,Precinct 52,Attorney General,2,REP,Doug Peterson,700
+Sarpy,Precinct 53,Attorney General,2,REP,Doug Peterson,561
+Sarpy,Precinct 54,Attorney General,2,REP,Doug Peterson,605
+Sarpy,Precinct 55,Attorney General,2,REP,Doug Peterson,696
+Sarpy,Precinct 56,Attorney General,2,REP,Doug Peterson,496
+Sarpy,Precinct 57,Attorney General,2,REP,Doug Peterson,397
+Sarpy,Precinct 58,Attorney General,2,REP,Doug Peterson,465
+Sarpy,Precinct 59,Attorney General,2,REP,Doug Peterson,483
+Sarpy,Precinct 60,Attorney General,2,REP,Doug Peterson,436
+Sarpy,Precinct 61,Attorney General,2,REP,Doug Peterson,921
+Sarpy,Precinct 62,Attorney General,2,REP,Doug Peterson,352
+Sarpy,Absentee/Early Vote,Attorney General,2,REP,Doug Peterson,0
+Sarpy,Provisional,Attorney General,2,REP,Doug Peterson,0
+Sarpy,Countywide,Attorney General,2,DEM,Janet Stewart,0
+Sarpy,Absentee/Early Vote,Attorney General,2,DEM,Janet Stewart,0
+Sarpy,Precinct 1,Attorney General,1,DEM,Janet Stewart,253
+Sarpy,Precinct 2,Attorney General,1,DEM,Janet Stewart,194
+Sarpy,Precinct 3,Attorney General,1,DEM,Janet Stewart,289
+Sarpy,Precinct 4,Attorney General,1,DEM,Janet Stewart,289
+Sarpy,Precinct 5,Attorney General,1,DEM,Janet Stewart,228
+Sarpy,Precinct 6,Attorney General,1,DEM,Janet Stewart,304
+Sarpy,Precinct 7,Attorney General,1,DEM,Janet Stewart,272
+Sarpy,Precinct 8,Attorney General,1,DEM,Janet Stewart,185
+Sarpy,Precinct 9,Attorney General,1,DEM,Janet Stewart,231
+Sarpy,Precinct 10,Attorney General,1,DEM,Janet Stewart,181
+Sarpy,Precinct 11,Attorney General,1,DEM,Janet Stewart,292
+Sarpy,Precinct 12,Attorney General,1,DEM,Janet Stewart,235
+Sarpy,Precinct 13,Attorney General,1,DEM,Janet Stewart,373
+Sarpy,Precinct 16,Attorney General,1,DEM,Janet Stewart,365
+Sarpy,Precinct 17,Attorney General,1,DEM,Janet Stewart,362
+Sarpy,Precinct 18,Attorney General,1,DEM,Janet Stewart,264
+Sarpy,Precinct 19,Attorney General,1,DEM,Janet Stewart,364
+Sarpy,Precinct 20,Attorney General,1,DEM,Janet Stewart,362
+Sarpy,Precinct 21,Attorney General,1,DEM,Janet Stewart,370
+Sarpy,Precinct 22,Attorney General,1,DEM,Janet Stewart,268
+Sarpy,Precinct 23,Attorney General,2,DEM,Janet Stewart,267
+Sarpy,Precinct 24,Attorney General,1,DEM,Janet Stewart,150
+Sarpy,Precinct 25,Attorney General,1,DEM,Janet Stewart,161
+Sarpy,Precinct 26,Attorney General,1,DEM,Janet Stewart,272
+Sarpy,Precinct 31,Attorney General,2,DEM,Janet Stewart,403
+Sarpy,Precinct 32,Attorney General,2,DEM,Janet Stewart,266
+Sarpy,Precinct 33,Attorney General,2,DEM,Janet Stewart,274
+Sarpy,Precinct 34,Attorney General,2,DEM,Janet Stewart,345
+Sarpy,Precinct 35,Attorney General,2,DEM,Janet Stewart,321
+Sarpy,Precinct 36,Attorney General,2,DEM,Janet Stewart,242
+Sarpy,Precinct 37,Attorney General,2,DEM,Janet Stewart,342
+Sarpy,Precinct 38,Attorney General,2,DEM,Janet Stewart,302
+Sarpy,Precinct 39,Attorney General,2,DEM,Janet Stewart,308
+Sarpy,Precinct 40,Attorney General,2,DEM,Janet Stewart,312
+Sarpy,Precinct 41,Attorney General,2,DEM,Janet Stewart,346
+Sarpy,Precinct 42,Attorney General,2,DEM,Janet Stewart,284
+Sarpy,Precinct 46,Attorney General,2,DEM,Janet Stewart,192
+Sarpy,Precinct 47,Attorney General,2,DEM,Janet Stewart,151
+Sarpy,Precinct 48,Attorney General,2,DEM,Janet Stewart,278
+Sarpy,Precinct 49,Attorney General,2,DEM,Janet Stewart,325
+Sarpy,Precinct 51,Attorney General,2,DEM,Janet Stewart,276
+Sarpy,Precinct 52,Attorney General,2,DEM,Janet Stewart,354
+Sarpy,Precinct 53,Attorney General,2,DEM,Janet Stewart,305
+Sarpy,Precinct 54,Attorney General,2,DEM,Janet Stewart,343
+Sarpy,Precinct 55,Attorney General,2,DEM,Janet Stewart,324
+Sarpy,Precinct 56,Attorney General,2,DEM,Janet Stewart,246
+Sarpy,Precinct 57,Attorney General,2,DEM,Janet Stewart,243
+Sarpy,Precinct 58,Attorney General,2,DEM,Janet Stewart,106
+Sarpy,Precinct 59,Attorney General,2,DEM,Janet Stewart,199
+Sarpy,Precinct 60,Attorney General,2,DEM,Janet Stewart,175
+Sarpy,Precinct 61,Attorney General,2,DEM,Janet Stewart,335
+Sarpy,Precinct 62,Attorney General,2,DEM,Janet Stewart,210
+Sarpy,Absentee/Early Vote,Attorney General,2,DEM,Janet Stewart,0
+Sarpy,Provisional,Attorney General,2,DEM,Janet Stewart,0
+Sarpy,Countywide,Auditor,2,REP,Charlie Janssen,0
+Sarpy,Absentee/Early Vote,Auditor,2,REP,Charlie Janssen,0
+Sarpy,Precinct 1,Auditor,1,REP,Charlie Janssen,230
+Sarpy,Precinct 2,Auditor,1,REP,Charlie Janssen,365
+Sarpy,Precinct 3,Auditor,1,REP,Charlie Janssen,399
+Sarpy,Precinct 4,Auditor,1,REP,Charlie Janssen,442
+Sarpy,Precinct 5,Auditor,1,REP,Charlie Janssen,400
+Sarpy,Precinct 6,Auditor,1,REP,Charlie Janssen,423
+Sarpy,Precinct 7,Auditor,1,REP,Charlie Janssen,416
+Sarpy,Precinct 8,Auditor,1,REP,Charlie Janssen,457
+Sarpy,Precinct 9,Auditor,1,REP,Charlie Janssen,322
+Sarpy,Precinct 10,Auditor,1,REP,Charlie Janssen,281
+Sarpy,Precinct 11,Auditor,1,REP,Charlie Janssen,591
+Sarpy,Precinct 12,Auditor,1,REP,Charlie Janssen,486
+Sarpy,Precinct 13,Auditor,1,REP,Charlie Janssen,675
+Sarpy,Precinct 16,Auditor,1,REP,Charlie Janssen,444
+Sarpy,Precinct 17,Auditor,1,REP,Charlie Janssen,441
+Sarpy,Precinct 18,Auditor,1,REP,Charlie Janssen,302
+Sarpy,Precinct 19,Auditor,1,REP,Charlie Janssen,799
+Sarpy,Precinct 20,Auditor,1,REP,Charlie Janssen,477
+Sarpy,Precinct 21,Auditor,1,REP,Charlie Janssen,875
+Sarpy,Precinct 22,Auditor,1,REP,Charlie Janssen,419
+Sarpy,Precinct 23,Auditor,2,REP,Charlie Janssen,670
+Sarpy,Precinct 24,Auditor,1,REP,Charlie Janssen,383
+Sarpy,Precinct 25,Auditor,1,REP,Charlie Janssen,321
+Sarpy,Precinct 26,Auditor,1,REP,Charlie Janssen,507
+Sarpy,Precinct 31,Auditor,2,REP,Charlie Janssen,812
+Sarpy,Precinct 32,Auditor,2,REP,Charlie Janssen,383
+Sarpy,Precinct 33,Auditor,2,REP,Charlie Janssen,420
+Sarpy,Precinct 34,Auditor,2,REP,Charlie Janssen,434
+Sarpy,Precinct 35,Auditor,2,REP,Charlie Janssen,416
+Sarpy,Precinct 36,Auditor,2,REP,Charlie Janssen,661
+Sarpy,Precinct 37,Auditor,2,REP,Charlie Janssen,753
+Sarpy,Precinct 38,Auditor,2,REP,Charlie Janssen,536
+Sarpy,Precinct 39,Auditor,2,REP,Charlie Janssen,594
+Sarpy,Precinct 40,Auditor,2,REP,Charlie Janssen,522
+Sarpy,Precinct 41,Auditor,2,REP,Charlie Janssen,618
+Sarpy,Precinct 42,Auditor,2,REP,Charlie Janssen,544
+Sarpy,Precinct 46,Auditor,2,REP,Charlie Janssen,443
+Sarpy,Precinct 47,Auditor,2,REP,Charlie Janssen,297
+Sarpy,Precinct 48,Auditor,2,REP,Charlie Janssen,728
+Sarpy,Precinct 49,Auditor,2,REP,Charlie Janssen,614
+Sarpy,Precinct 51,Auditor,2,REP,Charlie Janssen,657
+Sarpy,Precinct 52,Auditor,2,REP,Charlie Janssen,627
+Sarpy,Precinct 53,Auditor,2,REP,Charlie Janssen,485
+Sarpy,Precinct 54,Auditor,2,REP,Charlie Janssen,540
+Sarpy,Precinct 55,Auditor,2,REP,Charlie Janssen,616
+Sarpy,Precinct 56,Auditor,2,REP,Charlie Janssen,454
+Sarpy,Precinct 57,Auditor,2,REP,Charlie Janssen,357
+Sarpy,Precinct 58,Auditor,2,REP,Charlie Janssen,424
+Sarpy,Precinct 59,Auditor,2,REP,Charlie Janssen,455
+Sarpy,Precinct 60,Auditor,2,REP,Charlie Janssen,378
+Sarpy,Precinct 61,Auditor,2,REP,Charlie Janssen,830
+Sarpy,Precinct 62,Auditor,2,REP,Charlie Janssen,316
+Sarpy,Absentee/Early Vote,Auditor,2,REP,Charlie Janssen,0
+Sarpy,Provisional,Auditor,2,REP,Charlie Janssen,0
+Sarpy,Countywide,Auditor,2,DEM,Amanda McGill,0
+Sarpy,Absentee/Early Vote,Auditor,2,DEM,Amanda McGill,0
+Sarpy,Precinct 1,Auditor,1,DEM,Amanda McGill,258
+Sarpy,Precinct 2,Auditor,1,DEM,Amanda McGill,217
+Sarpy,Precinct 3,Auditor,1,DEM,Amanda McGill,307
+Sarpy,Precinct 4,Auditor,1,DEM,Amanda McGill,335
+Sarpy,Precinct 5,Auditor,1,DEM,Amanda McGill,244
+Sarpy,Precinct 6,Auditor,1,DEM,Amanda McGill,330
+Sarpy,Precinct 7,Auditor,1,DEM,Amanda McGill,287
+Sarpy,Precinct 8,Auditor,1,DEM,Amanda McGill,218
+Sarpy,Precinct 9,Auditor,1,DEM,Amanda McGill,253
+Sarpy,Precinct 10,Auditor,1,DEM,Amanda McGill,206
+Sarpy,Precinct 11,Auditor,1,DEM,Amanda McGill,313
+Sarpy,Precinct 12,Auditor,1,DEM,Amanda McGill,265
+Sarpy,Precinct 13,Auditor,1,DEM,Amanda McGill,411
+Sarpy,Precinct 16,Auditor,1,DEM,Amanda McGill,419
+Sarpy,Precinct 17,Auditor,1,DEM,Amanda McGill,383
+Sarpy,Precinct 18,Auditor,1,DEM,Amanda McGill,285
+Sarpy,Precinct 19,Auditor,1,DEM,Amanda McGill,402
+Sarpy,Precinct 20,Auditor,1,DEM,Amanda McGill,398
+Sarpy,Precinct 21,Auditor,1,DEM,Amanda McGill,413
+Sarpy,Precinct 22,Auditor,1,DEM,Amanda McGill,306
+Sarpy,Precinct 23,Auditor,2,DEM,Amanda McGill,319
+Sarpy,Precinct 24,Auditor,1,DEM,Amanda McGill,169
+Sarpy,Precinct 25,Auditor,1,DEM,Amanda McGill,176
+Sarpy,Precinct 26,Auditor,1,DEM,Amanda McGill,294
+Sarpy,Precinct 31,Auditor,2,DEM,Amanda McGill,501
+Sarpy,Precinct 32,Auditor,2,DEM,Amanda McGill,295
+Sarpy,Precinct 33,Auditor,2,DEM,Amanda McGill,309
+Sarpy,Precinct 34,Auditor,2,DEM,Amanda McGill,370
+Sarpy,Precinct 35,Auditor,2,DEM,Amanda McGill,363
+Sarpy,Precinct 36,Auditor,2,DEM,Amanda McGill,293
+Sarpy,Precinct 37,Auditor,2,DEM,Amanda McGill,384
+Sarpy,Precinct 38,Auditor,2,DEM,Amanda McGill,323
+Sarpy,Precinct 39,Auditor,2,DEM,Amanda McGill,353
+Sarpy,Precinct 40,Auditor,2,DEM,Amanda McGill,356
+Sarpy,Precinct 41,Auditor,2,DEM,Amanda McGill,406
+Sarpy,Precinct 42,Auditor,2,DEM,Amanda McGill,326
+Sarpy,Precinct 46,Auditor,2,DEM,Amanda McGill,234
+Sarpy,Precinct 47,Auditor,2,DEM,Amanda McGill,172
+Sarpy,Precinct 48,Auditor,2,DEM,Amanda McGill,356
+Sarpy,Precinct 49,Auditor,2,DEM,Amanda McGill,365
+Sarpy,Precinct 51,Auditor,2,DEM,Amanda McGill,325
+Sarpy,Precinct 52,Auditor,2,DEM,Amanda McGill,414
+Sarpy,Precinct 53,Auditor,2,DEM,Amanda McGill,378
+Sarpy,Precinct 54,Auditor,2,DEM,Amanda McGill,390
+Sarpy,Precinct 55,Auditor,2,DEM,Amanda McGill,393
+Sarpy,Precinct 56,Auditor,2,DEM,Amanda McGill,273
+Sarpy,Precinct 57,Auditor,2,DEM,Amanda McGill,277
+Sarpy,Precinct 58,Auditor,2,DEM,Amanda McGill,142
+Sarpy,Precinct 59,Auditor,2,DEM,Amanda McGill,221
+Sarpy,Precinct 60,Auditor,2,DEM,Amanda McGill,217
+Sarpy,Precinct 61,Auditor,2,DEM,Amanda McGill,411
+Sarpy,Precinct 62,Auditor,2,DEM,Amanda McGill,238
+Sarpy,Absentee/Early Vote,Auditor,2,DEM,Amanda McGill,0
+Sarpy,Provisional,Auditor,2,DEM,Amanda McGill,0
+Sarpy,Countywide,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Absentee/Early Vote,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 1,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 2,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 3,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 4,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 5,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 6,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 7,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 8,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 9,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 10,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 11,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 12,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 13,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 16,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 17,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 18,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 19,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 20,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 21,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 22,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 23,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 24,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 25,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 26,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 31,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 32,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 33,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 34,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 35,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 36,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 37,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 38,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 39,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 40,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 41,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 42,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 46,Legislature,LD0002,NON,Bill Kintner,464
+Sarpy,Precinct 47,Legislature,LD0002,NON,Bill Kintner,339
+Sarpy,Precinct 48,Legislature,LD0002,NON,Bill Kintner,781
+Sarpy,Precinct 49,Legislature,LD0002,NON,Bill Kintner,637
+Sarpy,Precinct 51,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 52,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 53,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 54,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 55,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 56,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 57,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 58,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 59,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 60,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 61,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Precinct 62,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Absentee/Early Vote,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Provisional,Legislature,LD0002,NON,Bill Kintner,0
+Sarpy,Countywide,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Absentee/Early Vote,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 1,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 2,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 3,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 4,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 5,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 6,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 7,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 8,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 9,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 10,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 11,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 12,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 13,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 16,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 17,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 18,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 19,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 20,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 21,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 22,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 23,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 24,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 25,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 26,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 31,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 32,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 33,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 34,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 35,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 36,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 37,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 38,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 39,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 40,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 41,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 42,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 46,Legislature,LD0002,NON,Ron Nolte,178
+Sarpy,Precinct 47,Legislature,LD0002,NON,Ron Nolte,152
+Sarpy,Precinct 48,Legislature,LD0002,NON,Ron Nolte,280
+Sarpy,Precinct 49,Legislature,LD0002,NON,Ron Nolte,270
+Sarpy,Precinct 51,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 52,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 53,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 54,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 55,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 56,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 57,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 58,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 59,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 60,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 61,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Precinct 62,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Absentee/Early Vote,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Provisional,Legislature,LD0002,NON,Ron Nolte,0
+Sarpy,Countywide,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Absentee/Early Vote,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 1,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 2,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 3,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 4,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 5,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 6,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 7,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 8,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 9,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 10,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 11,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 12,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 13,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 16,Legislature,LD0003,NON,Carol Blood,514
+Sarpy,Precinct 17,Legislature,LD0003,NON,Carol Blood,446
+Sarpy,Precinct 18,Legislature,LD0003,NON,Carol Blood,304
+Sarpy,Precinct 19,Legislature,LD0003,NON,Carol Blood,491
+Sarpy,Precinct 20,Legislature,LD0003,NON,Carol Blood,423
+Sarpy,Precinct 21,Legislature,LD0003,NON,Carol Blood,519
+Sarpy,Precinct 22,Legislature,LD0003,NON,Carol Blood,357
+Sarpy,Precinct 23,Legislature,LD0003,NON,Carol Blood,358
+Sarpy,Precinct 24,Legislature,LD0003,NON,Carol Blood,205
+Sarpy,Precinct 25,Legislature,LD0003,NON,Carol Blood,220
+Sarpy,Precinct 26,Legislature,LD0003,NON,Carol Blood,342
+Sarpy,Precinct 31,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 32,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 33,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 34,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 35,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 36,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 37,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 38,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 39,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 40,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 41,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 42,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 46,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 47,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 48,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 49,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 51,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 52,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 53,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 54,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 55,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 56,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 57,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 58,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 59,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 60,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 61,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Precinct 62,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Absentee/Early Vote,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Provisional,Legislature,LD0003,NON,Carol Blood,0
+Sarpy,Countywide,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Absentee/Early Vote,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 1,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 2,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 3,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 4,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 5,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 6,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 7,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 8,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 9,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 10,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 11,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 12,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 13,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 16,Legislature,LD0003,NON,Tommy L. Garrett,348
+Sarpy,Precinct 17,Legislature,LD0003,NON,Tommy L. Garrett,381
+Sarpy,Precinct 18,Legislature,LD0003,NON,Tommy L. Garrett,279
+Sarpy,Precinct 19,Legislature,LD0003,NON,Tommy L. Garrett,683
+Sarpy,Precinct 20,Legislature,LD0003,NON,Tommy L. Garrett,412
+Sarpy,Precinct 21,Legislature,LD0003,NON,Tommy L. Garrett,736
+Sarpy,Precinct 22,Legislature,LD0003,NON,Tommy L. Garrett,371
+Sarpy,Precinct 23,Legislature,LD0003,NON,Tommy L. Garrett,549
+Sarpy,Precinct 24,Legislature,LD0003,NON,Tommy L. Garrett,350
+Sarpy,Precinct 25,Legislature,LD0003,NON,Tommy L. Garrett,273
+Sarpy,Precinct 26,Legislature,LD0003,NON,Tommy L. Garrett,463
+Sarpy,Precinct 31,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 32,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 33,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 34,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 35,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 36,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 37,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 38,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 39,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 40,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 41,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 42,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 46,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 47,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 48,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 49,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 51,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 52,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 53,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 54,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 55,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 56,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 57,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 58,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 59,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 60,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 61,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Precinct 62,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Absentee/Early Vote,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Provisional,Legislature,LD0003,NON,Tommy L. Garrett,0
+Sarpy,Countywide,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Absentee/Early Vote,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 1,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 2,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 3,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 4,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 5,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 6,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 7,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 8,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 9,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 10,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 11,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 12,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 13,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 16,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 17,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 18,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 19,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 20,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 21,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 22,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 23,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 24,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 25,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 26,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 31,Legislature,LD0014,NON,Jim Smith,977
+Sarpy,Precinct 32,Legislature,LD0014,NON,Jim Smith,502
+Sarpy,Precinct 33,Legislature,LD0014,NON,Jim Smith,566
+Sarpy,Precinct 34,Legislature,LD0014,NON,Jim Smith,589
+Sarpy,Precinct 35,Legislature,LD0014,NON,Jim Smith,600
+Sarpy,Precinct 36,Legislature,LD0014,NON,Jim Smith,760
+Sarpy,Precinct 37,Legislature,LD0014,NON,Jim Smith,888
+Sarpy,Precinct 38,Legislature,LD0014,NON,Jim Smith,676
+Sarpy,Precinct 39,Legislature,LD0014,NON,Jim Smith,743
+Sarpy,Precinct 40,Legislature,LD0014,NON,Jim Smith,710
+Sarpy,Precinct 41,Legislature,LD0014,NON,Jim Smith,779
+Sarpy,Precinct 42,Legislature,LD0014,NON,Jim Smith,685
+Sarpy,Precinct 46,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 47,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 48,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 49,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 51,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 52,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 53,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 54,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 55,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 56,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 57,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 58,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 59,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 60,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 61,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Precinct 62,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Absentee/Early Vote,Legislature,LD0014,NON,Jim Smith,0
+Sarpy,Provisional,Legislature,LD0014,NON,Jim Smith,0

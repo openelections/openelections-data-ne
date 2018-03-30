@@ -1,0 +1,101 @@
+county,precinct,office,district,party,candidate,votes
+Rock,Countywide,Senator,3,DEM,Dave Domina,0
+Rock,Absentee/Early Vote,Senator,3,DEM,Dave Domina,30
+Rock,Rock,Senator,3,DEM,Dave Domina,71
+Rock,Absentee/Early Vote,Senator,3,DEM,Dave Domina,0
+Rock,Provisional,Senator,3,DEM,Dave Domina,3
+Rock,Countywide,Senator,3,ZZZ,Jim Jenkins,0
+Rock,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,7
+Rock,Rock,Senator,3,ZZZ,Jim Jenkins,16
+Rock,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,0
+Rock,Provisional,Senator,3,ZZZ,Jim Jenkins,0
+Rock,Countywide,Senator,3,REP,Ben Sasse,0
+Rock,Absentee/Early Vote,Senator,3,REP,Ben Sasse,120
+Rock,Rock,Senator,3,REP,Ben Sasse,376
+Rock,Absentee/Early Vote,Senator,3,REP,Ben Sasse,0
+Rock,Provisional,Senator,3,REP,Ben Sasse,0
+Rock,Countywide,Senator,3,ZZZ,Todd F. Watson,0
+Rock,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,3
+Rock,Rock,Senator,3,ZZZ,Todd F. Watson,6
+Rock,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,0
+Rock,Provisional,Senator,3,ZZZ,Todd F. Watson,0
+Rock,Countywide,Representative,3,REP,Adrian Smith,0
+Rock,Absentee/Early Vote,Representative,3,REP,Adrian Smith,138
+Rock,Rock,Representative,3,REP,Adrian Smith,424
+Rock,Absentee/Early Vote,Representative,3,REP,Adrian Smith,0
+Rock,Provisional,Representative,3,REP,Adrian Smith,2
+Rock,Countywide,Representative,3,DEM,Mark Sullivan,0
+Rock,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,18
+Rock,Rock,Representative,3,DEM,Mark Sullivan,38
+Rock,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,0
+Rock,Provisional,Representative,3,DEM,Mark Sullivan,1
+Rock,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Rock,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,37
+Rock,Rock,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,138
+Rock,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Rock,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,1
+Rock,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Rock,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,113
+Rock,Rock,Governor,3,REP,Pete Ricketts and Mike Foley,303
+Rock,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Rock,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Rock,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Rock,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,6
+Rock,Rock,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,20
+Rock,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Rock,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,2
+Rock,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Rock,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,14
+Rock,Rock,Secretary of State,3,LIB,Ben Backus,49
+Rock,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Rock,Provisional,Secretary of State,3,LIB,Ben Backus,1
+Rock,Countywide,Secretary of State,3,REP,John A. Gale,0
+Rock,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,138
+Rock,Rock,Secretary of State,3,REP,John A. Gale,404
+Rock,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Rock,Provisional,Secretary of State,3,REP,John A. Gale,2
+Rock,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Rock,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,13
+Rock,Rock,State Treasurer,3,LIB,Michael Knebel,16
+Rock,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Rock,Provisional,State Treasurer,3,LIB,Michael Knebel,0
+Rock,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Rock,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,13
+Rock,Rock,State Treasurer,3,DEM,Michael J. O'Hara,30
+Rock,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Rock,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,1
+Rock,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Rock,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,130
+Rock,Rock,State Treasurer,3,REP,Don Stenberg,403
+Rock,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Rock,Provisional,State Treasurer,3,REP,Don Stenberg,2
+Rock,Countywide,Attorney General,3,REP,Doug Peterson,0
+Rock,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,115
+Rock,Rock,Attorney General,3,REP,Doug Peterson,384
+Rock,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Rock,Provisional,Attorney General,3,REP,Doug Peterson,2
+Rock,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Rock,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,24
+Rock,Rock,Attorney General,3,DEM,Janet Stewart,57
+Rock,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Rock,Provisional,Attorney General,3,DEM,Janet Stewart,1
+Rock,Countywide,Auditor,3,REP,Charlie Janssen,0
+Rock,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,104
+Rock,Rock,Auditor,3,REP,Charlie Janssen,330
+Rock,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Rock,Provisional,Auditor,3,REP,Charlie Janssen,0
+Rock,Countywide,Auditor,3,DEM,Amanda McGill,0
+Rock,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,31
+Rock,Rock,Auditor,3,DEM,Amanda McGill,79
+Rock,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Rock,Provisional,Auditor,3,DEM,Amanda McGill,2
+Rock,Countywide,Legislature,LD0040,NON,Keith F. Kube,0
+Rock,Absentee/Early Vote,Legislature,LD0040,NON,Keith F. Kube,31
+Rock,Rock,Legislature,LD0040,NON,Keith F. Kube,104
+Rock,Absentee/Early Vote,Legislature,LD0040,NON,Keith F. Kube,0
+Rock,Provisional,Legislature,LD0040,NON,Keith F. Kube,0
+Rock,Countywide,Legislature,LD0040,NON,Tyson Rope Larson,0
+Rock,Absentee/Early Vote,Legislature,LD0040,NON,Tyson Rope Larson,106
+Rock,Rock,Legislature,LD0040,NON,Tyson Rope Larson,319
+Rock,Absentee/Early Vote,Legislature,LD0040,NON,Tyson Rope Larson,0
+Rock,Provisional,Legislature,LD0040,NON,Tyson Rope Larson,3

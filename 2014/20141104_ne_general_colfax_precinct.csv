@@ -1,0 +1,201 @@
+county,precinct,office,district,party,candidate,votes
+Colfax,Countywide,Senator,1,DEM,Dave Domina,0
+Colfax,Absentee/Early Vote,Senator,1,DEM,Dave Domina,78
+Colfax,Schuyler 1,Senator,1,DEM,Dave Domina,87
+Colfax,Schuyler 2,Senator,1,DEM,Dave Domina,107
+Colfax,Schuyler 3,Senator,1,DEM,Dave Domina,90
+Colfax,Clarkson 4,Senator,1,DEM,Dave Domina,85
+Colfax,Howells 5,Senator,1,DEM,Dave Domina,59
+Colfax,Cuming County PPD,Senator,1,DEM,Dave Domina,0
+Colfax,Absentee/Early Vote,Senator,1,DEM,Dave Domina,0
+Colfax,Provisional,Senator,1,DEM,Dave Domina,0
+Colfax,Countywide,Senator,1,ZZZ,Jim Jenkins,0
+Colfax,Absentee/Early Vote,Senator,1,ZZZ,Jim Jenkins,2
+Colfax,Schuyler 1,Senator,1,ZZZ,Jim Jenkins,4
+Colfax,Schuyler 2,Senator,1,ZZZ,Jim Jenkins,12
+Colfax,Schuyler 3,Senator,1,ZZZ,Jim Jenkins,10
+Colfax,Clarkson 4,Senator,1,ZZZ,Jim Jenkins,4
+Colfax,Howells 5,Senator,1,ZZZ,Jim Jenkins,6
+Colfax,Cuming County PPD,Senator,1,ZZZ,Jim Jenkins,0
+Colfax,Absentee/Early Vote,Senator,1,ZZZ,Jim Jenkins,0
+Colfax,Provisional,Senator,1,ZZZ,Jim Jenkins,0
+Colfax,Countywide,Senator,1,REP,Ben Sasse,0
+Colfax,Absentee/Early Vote,Senator,1,REP,Ben Sasse,204
+Colfax,Schuyler 1,Senator,1,REP,Ben Sasse,177
+Colfax,Schuyler 2,Senator,1,REP,Ben Sasse,268
+Colfax,Schuyler 3,Senator,1,REP,Ben Sasse,269
+Colfax,Clarkson 4,Senator,1,REP,Ben Sasse,269
+Colfax,Howells 5,Senator,1,REP,Ben Sasse,218
+Colfax,Cuming County PPD,Senator,1,REP,Ben Sasse,0
+Colfax,Absentee/Early Vote,Senator,1,REP,Ben Sasse,0
+Colfax,Provisional,Senator,1,REP,Ben Sasse,0
+Colfax,Countywide,Senator,1,ZZZ,Todd F. Watson,0
+Colfax,Absentee/Early Vote,Senator,1,ZZZ,Todd F. Watson,1
+Colfax,Schuyler 1,Senator,1,ZZZ,Todd F. Watson,5
+Colfax,Schuyler 2,Senator,1,ZZZ,Todd F. Watson,2
+Colfax,Schuyler 3,Senator,1,ZZZ,Todd F. Watson,6
+Colfax,Clarkson 4,Senator,1,ZZZ,Todd F. Watson,3
+Colfax,Howells 5,Senator,1,ZZZ,Todd F. Watson,5
+Colfax,Cuming County PPD,Senator,1,ZZZ,Todd F. Watson,0
+Colfax,Absentee/Early Vote,Senator,1,ZZZ,Todd F. Watson,0
+Colfax,Provisional,Senator,1,ZZZ,Todd F. Watson,0
+Colfax,Countywide,Representative,1,DEM,Dennis P. Crawford,0
+Colfax,Absentee/Early Vote,Representative,1,DEM,Dennis P. Crawford,65
+Colfax,Schuyler 1,Representative,1,DEM,Dennis P. Crawford,75
+Colfax,Schuyler 2,Representative,1,DEM,Dennis P. Crawford,99
+Colfax,Schuyler 3,Representative,1,DEM,Dennis P. Crawford,91
+Colfax,Clarkson 4,Representative,1,DEM,Dennis P. Crawford,62
+Colfax,Howells 5,Representative,1,DEM,Dennis P. Crawford,43
+Colfax,Cuming County PPD,Representative,1,DEM,Dennis P. Crawford,0
+Colfax,Absentee/Early Vote,Representative,1,DEM,Dennis P. Crawford,0
+Colfax,Provisional,Representative,1,DEM,Dennis P. Crawford,0
+Colfax,Countywide,Representative,1,REP,Jeff Fortenberry,0
+Colfax,Absentee/Early Vote,Representative,1,REP,Jeff Fortenberry,216
+Colfax,Schuyler 1,Representative,1,REP,Jeff Fortenberry,195
+Colfax,Schuyler 2,Representative,1,REP,Jeff Fortenberry,283
+Colfax,Schuyler 3,Representative,1,REP,Jeff Fortenberry,282
+Colfax,Clarkson 4,Representative,1,REP,Jeff Fortenberry,297
+Colfax,Howells 5,Representative,1,REP,Jeff Fortenberry,245
+Colfax,Cuming County PPD,Representative,1,REP,Jeff Fortenberry,0
+Colfax,Absentee/Early Vote,Representative,1,REP,Jeff Fortenberry,0
+Colfax,Provisional,Representative,1,REP,Jeff Fortenberry,0
+Colfax,Countywide,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Colfax,Absentee/Early Vote,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,116
+Colfax,Schuyler 1,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,107
+Colfax,Schuyler 2,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,144
+Colfax,Schuyler 3,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,160
+Colfax,Clarkson 4,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,120
+Colfax,Howells 5,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,125
+Colfax,Cuming County PPD,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Colfax,Absentee/Early Vote,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Colfax,Provisional,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Colfax,Countywide,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Colfax,Absentee/Early Vote,Governor,1,REP,Pete Ricketts and Mike Foley,160
+Colfax,Schuyler 1,Governor,1,REP,Pete Ricketts and Mike Foley,152
+Colfax,Schuyler 2,Governor,1,REP,Pete Ricketts and Mike Foley,230
+Colfax,Schuyler 3,Governor,1,REP,Pete Ricketts and Mike Foley,202
+Colfax,Clarkson 4,Governor,1,REP,Pete Ricketts and Mike Foley,221
+Colfax,Howells 5,Governor,1,REP,Pete Ricketts and Mike Foley,156
+Colfax,Cuming County PPD,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Colfax,Absentee/Early Vote,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Colfax,Provisional,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Colfax,Countywide,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Colfax,Absentee/Early Vote,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Colfax,Schuyler 1,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,7
+Colfax,Schuyler 2,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,15
+Colfax,Schuyler 3,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,17
+Colfax,Clarkson 4,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,19
+Colfax,Howells 5,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+Colfax,Cuming County PPD,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Colfax,Absentee/Early Vote,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Colfax,Provisional,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Colfax,Countywide,Secretary of State,1,LIB,Ben Backus,0
+Colfax,Absentee/Early Vote,Secretary of State,1,LIB,Ben Backus,56
+Colfax,Schuyler 1,Secretary of State,1,LIB,Ben Backus,62
+Colfax,Schuyler 2,Secretary of State,1,LIB,Ben Backus,92
+Colfax,Schuyler 3,Secretary of State,1,LIB,Ben Backus,65
+Colfax,Clarkson 4,Secretary of State,1,LIB,Ben Backus,62
+Colfax,Howells 5,Secretary of State,1,LIB,Ben Backus,47
+Colfax,Cuming County PPD,Secretary of State,1,LIB,Ben Backus,0
+Colfax,Absentee/Early Vote,Secretary of State,1,LIB,Ben Backus,0
+Colfax,Provisional,Secretary of State,1,LIB,Ben Backus,0
+Colfax,Countywide,Secretary of State,1,REP,John A. Gale,0
+Colfax,Absentee/Early Vote,Secretary of State,1,REP,John A. Gale,206
+Colfax,Schuyler 1,Secretary of State,1,REP,John A. Gale,183
+Colfax,Schuyler 2,Secretary of State,1,REP,John A. Gale,261
+Colfax,Schuyler 3,Secretary of State,1,REP,John A. Gale,271
+Colfax,Clarkson 4,Secretary of State,1,REP,John A. Gale,272
+Colfax,Howells 5,Secretary of State,1,REP,John A. Gale,211
+Colfax,Cuming County PPD,Secretary of State,1,REP,John A. Gale,0
+Colfax,Absentee/Early Vote,Secretary of State,1,REP,John A. Gale,0
+Colfax,Provisional,Secretary of State,1,REP,John A. Gale,0
+Colfax,Countywide,State Treasurer,1,LIB,Michael Knebel,0
+Colfax,Absentee/Early Vote,State Treasurer,1,LIB,Michael Knebel,6
+Colfax,Schuyler 1,State Treasurer,1,LIB,Michael Knebel,18
+Colfax,Schuyler 2,State Treasurer,1,LIB,Michael Knebel,17
+Colfax,Schuyler 3,State Treasurer,1,LIB,Michael Knebel,21
+Colfax,Clarkson 4,State Treasurer,1,LIB,Michael Knebel,11
+Colfax,Howells 5,State Treasurer,1,LIB,Michael Knebel,10
+Colfax,Cuming County PPD,State Treasurer,1,LIB,Michael Knebel,0
+Colfax,Absentee/Early Vote,State Treasurer,1,LIB,Michael Knebel,0
+Colfax,Provisional,State Treasurer,1,LIB,Michael Knebel,0
+Colfax,Countywide,State Treasurer,1,DEM,Michael J. O'Hara,0
+Colfax,Absentee/Early Vote,State Treasurer,1,DEM,Michael J. O'Hara,69
+Colfax,Schuyler 1,State Treasurer,1,DEM,Michael J. O'Hara,73
+Colfax,Schuyler 2,State Treasurer,1,DEM,Michael J. O'Hara,91
+Colfax,Schuyler 3,State Treasurer,1,DEM,Michael J. O'Hara,87
+Colfax,Clarkson 4,State Treasurer,1,DEM,Michael J. O'Hara,52
+Colfax,Howells 5,State Treasurer,1,DEM,Michael J. O'Hara,37
+Colfax,Cuming County PPD,State Treasurer,1,DEM,Michael J. O'Hara,0
+Colfax,Absentee/Early Vote,State Treasurer,1,DEM,Michael J. O'Hara,0
+Colfax,Provisional,State Treasurer,1,DEM,Michael J. O'Hara,0
+Colfax,Countywide,State Treasurer,1,REP,Don Stenberg,0
+Colfax,Absentee/Early Vote,State Treasurer,1,REP,Don Stenberg,208
+Colfax,Schuyler 1,State Treasurer,1,REP,Don Stenberg,172
+Colfax,Schuyler 2,State Treasurer,1,REP,Don Stenberg,272
+Colfax,Schuyler 3,State Treasurer,1,REP,Don Stenberg,256
+Colfax,Clarkson 4,State Treasurer,1,REP,Don Stenberg,291
+Colfax,Howells 5,State Treasurer,1,REP,Don Stenberg,233
+Colfax,Cuming County PPD,State Treasurer,1,REP,Don Stenberg,0
+Colfax,Absentee/Early Vote,State Treasurer,1,REP,Don Stenberg,0
+Colfax,Provisional,State Treasurer,1,REP,Don Stenberg,0
+Colfax,Countywide,Attorney General,1,REP,Doug Peterson,0
+Colfax,Absentee/Early Vote,Attorney General,1,REP,Doug Peterson,175
+Colfax,Schuyler 1,Attorney General,1,REP,Doug Peterson,169
+Colfax,Schuyler 2,Attorney General,1,REP,Doug Peterson,244
+Colfax,Schuyler 3,Attorney General,1,REP,Doug Peterson,229
+Colfax,Clarkson 4,Attorney General,1,REP,Doug Peterson,260
+Colfax,Howells 5,Attorney General,1,REP,Doug Peterson,183
+Colfax,Cuming County PPD,Attorney General,1,REP,Doug Peterson,0
+Colfax,Absentee/Early Vote,Attorney General,1,REP,Doug Peterson,0
+Colfax,Provisional,Attorney General,1,REP,Doug Peterson,0
+Colfax,Countywide,Attorney General,1,DEM,Janet Stewart,0
+Colfax,Absentee/Early Vote,Attorney General,1,DEM,Janet Stewart,90
+Colfax,Schuyler 1,Attorney General,1,DEM,Janet Stewart,91
+Colfax,Schuyler 2,Attorney General,1,DEM,Janet Stewart,124
+Colfax,Schuyler 3,Attorney General,1,DEM,Janet Stewart,120
+Colfax,Clarkson 4,Attorney General,1,DEM,Janet Stewart,80
+Colfax,Howells 5,Attorney General,1,DEM,Janet Stewart,74
+Colfax,Cuming County PPD,Attorney General,1,DEM,Janet Stewart,0
+Colfax,Absentee/Early Vote,Attorney General,1,DEM,Janet Stewart,0
+Colfax,Provisional,Attorney General,1,DEM,Janet Stewart,0
+Colfax,Countywide,Auditor,1,REP,Charlie Janssen,0
+Colfax,Absentee/Early Vote,Auditor,1,REP,Charlie Janssen,160
+Colfax,Schuyler 1,Auditor,1,REP,Charlie Janssen,154
+Colfax,Schuyler 2,Auditor,1,REP,Charlie Janssen,221
+Colfax,Schuyler 3,Auditor,1,REP,Charlie Janssen,212
+Colfax,Clarkson 4,Auditor,1,REP,Charlie Janssen,235
+Colfax,Howells 5,Auditor,1,REP,Charlie Janssen,156
+Colfax,Cuming County PPD,Auditor,1,REP,Charlie Janssen,0
+Colfax,Absentee/Early Vote,Auditor,1,REP,Charlie Janssen,0
+Colfax,Provisional,Auditor,1,REP,Charlie Janssen,0
+Colfax,Countywide,Auditor,1,DEM,Amanda McGill,0
+Colfax,Absentee/Early Vote,Auditor,1,DEM,Amanda McGill,100
+Colfax,Schuyler 1,Auditor,1,DEM,Amanda McGill,95
+Colfax,Schuyler 2,Auditor,1,DEM,Amanda McGill,135
+Colfax,Schuyler 3,Auditor,1,DEM,Amanda McGill,135
+Colfax,Clarkson 4,Auditor,1,DEM,Amanda McGill,98
+Colfax,Howells 5,Auditor,1,DEM,Amanda McGill,104
+Colfax,Cuming County PPD,Auditor,1,DEM,Amanda McGill,0
+Colfax,Absentee/Early Vote,Auditor,1,DEM,Amanda McGill,0
+Colfax,Provisional,Auditor,1,DEM,Amanda McGill,0
+Colfax,Countywide,Legislature,LD0022,NON,Douglas J. Liewer,0
+Colfax,Absentee/Early Vote,Legislature,LD0022,NON,Douglas J. Liewer,10
+Colfax,Schuyler 1,Legislature,LD0022,NON,Douglas J. Liewer,0
+Colfax,Schuyler 2,Legislature,LD0022,NON,Douglas J. Liewer,0
+Colfax,Schuyler 3,Legislature,LD0022,NON,Douglas J. Liewer,0
+Colfax,Clarkson 4,Legislature,LD0022,NON,Douglas J. Liewer,35
+Colfax,Howells 5,Legislature,LD0022,NON,Douglas J. Liewer,0
+Colfax,Cuming County PPD,Legislature,LD0022,NON,Douglas J. Liewer,0
+Colfax,Absentee/Early Vote,Legislature,LD0022,NON,Douglas J. Liewer,0
+Colfax,Provisional,Legislature,LD0022,NON,Douglas J. Liewer,0
+Colfax,Countywide,Legislature,LD0022,NON,Paul Schumacher,0
+Colfax,Absentee/Early Vote,Legislature,LD0022,NON,Paul Schumacher,47
+Colfax,Schuyler 1,Legislature,LD0022,NON,Paul Schumacher,0
+Colfax,Schuyler 2,Legislature,LD0022,NON,Paul Schumacher,0
+Colfax,Schuyler 3,Legislature,LD0022,NON,Paul Schumacher,0
+Colfax,Clarkson 4,Legislature,LD0022,NON,Paul Schumacher,288
+Colfax,Howells 5,Legislature,LD0022,NON,Paul Schumacher,0
+Colfax,Cuming County PPD,Legislature,LD0022,NON,Paul Schumacher,0
+Colfax,Absentee/Early Vote,Legislature,LD0022,NON,Paul Schumacher,0
+Colfax,Provisional,Legislature,LD0022,NON,Paul Schumacher,0

@@ -1,0 +1,163 @@
+county,precinct,office,district,party,candidate,votes
+Kimball,Countywide,Senator,3,DEM,Dave Domina,0
+Kimball,Absentee/Early Vote,Senator,3,DEM,Dave Domina,43
+Kimball,1st Ward,Senator,3,DEM,Dave Domina,57
+Kimball,2nd Ward,Senator,3,DEM,Dave Domina,30
+Kimball,Antelope,Senator,3,DEM,Dave Domina,13
+Kimball,Bushnell,Senator,3,DEM,Dave Domina,16
+Kimball,Dix,Senator,3,DEM,Dave Domina,11
+Kimball,Absentee/Early Vote,Senator,3,DEM,Dave Domina,0
+Kimball,Provisional,Senator,3,DEM,Dave Domina,0
+Kimball,Countywide,Senator,3,ZZZ,Jim Jenkins,0
+Kimball,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,4
+Kimball,1st Ward,Senator,3,ZZZ,Jim Jenkins,16
+Kimball,2nd Ward,Senator,3,ZZZ,Jim Jenkins,7
+Kimball,Antelope,Senator,3,ZZZ,Jim Jenkins,3
+Kimball,Bushnell,Senator,3,ZZZ,Jim Jenkins,3
+Kimball,Dix,Senator,3,ZZZ,Jim Jenkins,4
+Kimball,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,0
+Kimball,Provisional,Senator,3,ZZZ,Jim Jenkins,0
+Kimball,Countywide,Senator,3,REP,Ben Sasse,0
+Kimball,Absentee/Early Vote,Senator,3,REP,Ben Sasse,151
+Kimball,1st Ward,Senator,3,REP,Ben Sasse,311
+Kimball,2nd Ward,Senator,3,REP,Ben Sasse,197
+Kimball,Antelope,Senator,3,REP,Ben Sasse,149
+Kimball,Bushnell,Senator,3,REP,Ben Sasse,69
+Kimball,Dix,Senator,3,REP,Ben Sasse,95
+Kimball,Absentee/Early Vote,Senator,3,REP,Ben Sasse,0
+Kimball,Provisional,Senator,3,REP,Ben Sasse,0
+Kimball,Countywide,Senator,3,ZZZ,Todd F. Watson,0
+Kimball,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,2
+Kimball,1st Ward,Senator,3,ZZZ,Todd F. Watson,12
+Kimball,2nd Ward,Senator,3,ZZZ,Todd F. Watson,3
+Kimball,Antelope,Senator,3,ZZZ,Todd F. Watson,5
+Kimball,Bushnell,Senator,3,ZZZ,Todd F. Watson,2
+Kimball,Dix,Senator,3,ZZZ,Todd F. Watson,4
+Kimball,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,0
+Kimball,Provisional,Senator,3,ZZZ,Todd F. Watson,0
+Kimball,Countywide,Representative,3,REP,Adrian Smith,0
+Kimball,Absentee/Early Vote,Representative,3,REP,Adrian Smith,157
+Kimball,1st Ward,Representative,3,REP,Adrian Smith,329
+Kimball,2nd Ward,Representative,3,REP,Adrian Smith,204
+Kimball,Antelope,Representative,3,REP,Adrian Smith,157
+Kimball,Bushnell,Representative,3,REP,Adrian Smith,73
+Kimball,Dix,Representative,3,REP,Adrian Smith,98
+Kimball,Absentee/Early Vote,Representative,3,REP,Adrian Smith,0
+Kimball,Provisional,Representative,3,REP,Adrian Smith,0
+Kimball,Countywide,Representative,3,DEM,Mark Sullivan,0
+Kimball,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,45
+Kimball,1st Ward,Representative,3,DEM,Mark Sullivan,69
+Kimball,2nd Ward,Representative,3,DEM,Mark Sullivan,37
+Kimball,Antelope,Representative,3,DEM,Mark Sullivan,15
+Kimball,Bushnell,Representative,3,DEM,Mark Sullivan,18
+Kimball,Dix,Representative,3,DEM,Mark Sullivan,14
+Kimball,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,0
+Kimball,Provisional,Representative,3,DEM,Mark Sullivan,0
+Kimball,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Kimball,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,54
+Kimball,1st Ward,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,77
+Kimball,2nd Ward,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,46
+Kimball,Antelope,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,26
+Kimball,Bushnell,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,17
+Kimball,Dix,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,20
+Kimball,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Kimball,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Kimball,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Kimball,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,145
+Kimball,1st Ward,Governor,3,REP,Pete Ricketts and Mike Foley,289
+Kimball,2nd Ward,Governor,3,REP,Pete Ricketts and Mike Foley,189
+Kimball,Antelope,Governor,3,REP,Pete Ricketts and Mike Foley,141
+Kimball,Bushnell,Governor,3,REP,Pete Ricketts and Mike Foley,64
+Kimball,Dix,Governor,3,REP,Pete Ricketts and Mike Foley,88
+Kimball,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Kimball,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Kimball,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Kimball,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,3
+Kimball,1st Ward,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,32
+Kimball,2nd Ward,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Kimball,Antelope,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Kimball,Bushnell,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,9
+Kimball,Dix,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,6
+Kimball,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Kimball,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Kimball,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Kimball,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,44
+Kimball,1st Ward,Secretary of State,3,LIB,Ben Backus,71
+Kimball,2nd Ward,Secretary of State,3,LIB,Ben Backus,30
+Kimball,Antelope,Secretary of State,3,LIB,Ben Backus,13
+Kimball,Bushnell,Secretary of State,3,LIB,Ben Backus,17
+Kimball,Dix,Secretary of State,3,LIB,Ben Backus,17
+Kimball,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Kimball,Provisional,Secretary of State,3,LIB,Ben Backus,0
+Kimball,Countywide,Secretary of State,3,REP,John A. Gale,0
+Kimball,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,145
+Kimball,1st Ward,Secretary of State,3,REP,John A. Gale,309
+Kimball,2nd Ward,Secretary of State,3,REP,John A. Gale,206
+Kimball,Antelope,Secretary of State,3,REP,John A. Gale,149
+Kimball,Bushnell,Secretary of State,3,REP,John A. Gale,69
+Kimball,Dix,Secretary of State,3,REP,John A. Gale,98
+Kimball,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Kimball,Provisional,Secretary of State,3,REP,John A. Gale,0
+Kimball,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Kimball,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,11
+Kimball,1st Ward,State Treasurer,3,LIB,Michael Knebel,27
+Kimball,2nd Ward,State Treasurer,3,LIB,Michael Knebel,7
+Kimball,Antelope,State Treasurer,3,LIB,Michael Knebel,11
+Kimball,Bushnell,State Treasurer,3,LIB,Michael Knebel,10
+Kimball,Dix,State Treasurer,3,LIB,Michael Knebel,7
+Kimball,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Kimball,Provisional,State Treasurer,3,LIB,Michael Knebel,0
+Kimball,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Kimball,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,42
+Kimball,1st Ward,State Treasurer,3,DEM,Michael J. O'Hara,59
+Kimball,2nd Ward,State Treasurer,3,DEM,Michael J. O'Hara,32
+Kimball,Antelope,State Treasurer,3,DEM,Michael J. O'Hara,11
+Kimball,Bushnell,State Treasurer,3,DEM,Michael J. O'Hara,18
+Kimball,Dix,State Treasurer,3,DEM,Michael J. O'Hara,14
+Kimball,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Kimball,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,0
+Kimball,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Kimball,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,140
+Kimball,1st Ward,State Treasurer,3,REP,Don Stenberg,303
+Kimball,2nd Ward,State Treasurer,3,REP,Don Stenberg,201
+Kimball,Antelope,State Treasurer,3,REP,Don Stenberg,146
+Kimball,Bushnell,State Treasurer,3,REP,Don Stenberg,60
+Kimball,Dix,State Treasurer,3,REP,Don Stenberg,92
+Kimball,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Kimball,Provisional,State Treasurer,3,REP,Don Stenberg,0
+Kimball,Countywide,Attorney General,3,REP,Doug Peterson,0
+Kimball,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,137
+Kimball,1st Ward,Attorney General,3,REP,Doug Peterson,296
+Kimball,2nd Ward,Attorney General,3,REP,Doug Peterson,196
+Kimball,Antelope,Attorney General,3,REP,Doug Peterson,142
+Kimball,Bushnell,Attorney General,3,REP,Doug Peterson,64
+Kimball,Dix,Attorney General,3,REP,Doug Peterson,94
+Kimball,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Kimball,Provisional,Attorney General,3,REP,Doug Peterson,0
+Kimball,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Kimball,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,53
+Kimball,1st Ward,Attorney General,3,DEM,Janet Stewart,81
+Kimball,2nd Ward,Attorney General,3,DEM,Janet Stewart,40
+Kimball,Antelope,Attorney General,3,DEM,Janet Stewart,20
+Kimball,Bushnell,Attorney General,3,DEM,Janet Stewart,21
+Kimball,Dix,Attorney General,3,DEM,Janet Stewart,19
+Kimball,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Kimball,Provisional,Attorney General,3,DEM,Janet Stewart,0
+Kimball,Countywide,Auditor,3,REP,Charlie Janssen,0
+Kimball,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,131
+Kimball,1st Ward,Auditor,3,REP,Charlie Janssen,286
+Kimball,2nd Ward,Auditor,3,REP,Charlie Janssen,176
+Kimball,Antelope,Auditor,3,REP,Charlie Janssen,127
+Kimball,Bushnell,Auditor,3,REP,Charlie Janssen,66
+Kimball,Dix,Auditor,3,REP,Charlie Janssen,86
+Kimball,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Kimball,Provisional,Auditor,3,REP,Charlie Janssen,0
+Kimball,Countywide,Auditor,3,DEM,Amanda McGill,0
+Kimball,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,54
+Kimball,1st Ward,Auditor,3,DEM,Amanda McGill,84
+Kimball,2nd Ward,Auditor,3,DEM,Amanda McGill,47
+Kimball,Antelope,Auditor,3,DEM,Amanda McGill,27
+Kimball,Bushnell,Auditor,3,DEM,Amanda McGill,17
+Kimball,Dix,Auditor,3,DEM,Amanda McGill,26
+Kimball,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Kimball,Provisional,Auditor,3,DEM,Amanda McGill,0

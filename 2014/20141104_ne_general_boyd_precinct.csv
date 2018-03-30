@@ -1,0 +1,141 @@
+county,precinct,office,district,party,candidate,votes
+Boyd,Countywide,Senator,3,DEM,Dave Domina,0
+Boyd,Absentee/Early Vote,Senator,3,DEM,Dave Domina,53
+Boyd,ButteBasinMcCulley,Senator,3,DEM,Dave Domina,59
+Boyd,LynchBristowMullenBush,Senator,3,DEM,Dave Domina,35
+Boyd,SpencerMorton,Senator,3,DEM,Dave Domina,59
+Boyd,Absentee/Early Vote,Senator,3,DEM,Dave Domina,0
+Boyd,Provisional,Senator,3,DEM,Dave Domina,0
+Boyd,Countywide,Senator,3,ZZZ,Jim Jenkins,0
+Boyd,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,1
+Boyd,ButteBasinMcCulley,Senator,3,ZZZ,Jim Jenkins,4
+Boyd,LynchBristowMullenBush,Senator,3,ZZZ,Jim Jenkins,3
+Boyd,SpencerMorton,Senator,3,ZZZ,Jim Jenkins,9
+Boyd,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,0
+Boyd,Provisional,Senator,3,ZZZ,Jim Jenkins,0
+Boyd,Countywide,Senator,3,REP,Ben Sasse,0
+Boyd,Absentee/Early Vote,Senator,3,REP,Ben Sasse,148
+Boyd,ButteBasinMcCulley,Senator,3,REP,Ben Sasse,191
+Boyd,LynchBristowMullenBush,Senator,3,REP,Ben Sasse,137
+Boyd,SpencerMorton,Senator,3,REP,Ben Sasse,236
+Boyd,Absentee/Early Vote,Senator,3,REP,Ben Sasse,0
+Boyd,Provisional,Senator,3,REP,Ben Sasse,0
+Boyd,Countywide,Senator,3,ZZZ,Todd F. Watson,0
+Boyd,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,4
+Boyd,ButteBasinMcCulley,Senator,3,ZZZ,Todd F. Watson,2
+Boyd,LynchBristowMullenBush,Senator,3,ZZZ,Todd F. Watson,1
+Boyd,SpencerMorton,Senator,3,ZZZ,Todd F. Watson,6
+Boyd,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,0
+Boyd,Provisional,Senator,3,ZZZ,Todd F. Watson,0
+Boyd,Countywide,Representative,3,REP,Adrian Smith,0
+Boyd,Absentee/Early Vote,Representative,3,REP,Adrian Smith,160
+Boyd,ButteBasinMcCulley,Representative,3,REP,Adrian Smith,209
+Boyd,LynchBristowMullenBush,Representative,3,REP,Adrian Smith,142
+Boyd,SpencerMorton,Representative,3,REP,Adrian Smith,269
+Boyd,Absentee/Early Vote,Representative,3,REP,Adrian Smith,0
+Boyd,Provisional,Representative,3,REP,Adrian Smith,0
+Boyd,Countywide,Representative,3,DEM,Mark Sullivan,0
+Boyd,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,33
+Boyd,ButteBasinMcCulley,Representative,3,DEM,Mark Sullivan,38
+Boyd,LynchBristowMullenBush,Representative,3,DEM,Mark Sullivan,33
+Boyd,SpencerMorton,Representative,3,DEM,Mark Sullivan,37
+Boyd,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,0
+Boyd,Provisional,Representative,3,DEM,Mark Sullivan,0
+Boyd,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Boyd,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,57
+Boyd,ButteBasinMcCulley,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,80
+Boyd,LynchBristowMullenBush,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,60
+Boyd,SpencerMorton,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,102
+Boyd,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Boyd,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Boyd,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Boyd,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,133
+Boyd,ButteBasinMcCulley,Governor,3,REP,Pete Ricketts and Mike Foley,163
+Boyd,LynchBristowMullenBush,Governor,3,REP,Pete Ricketts and Mike Foley,112
+Boyd,SpencerMorton,Governor,3,REP,Pete Ricketts and Mike Foley,194
+Boyd,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Boyd,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Boyd,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Boyd,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,3
+Boyd,ButteBasinMcCulley,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,11
+Boyd,LynchBristowMullenBush,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,7
+Boyd,SpencerMorton,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,14
+Boyd,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Boyd,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Boyd,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Boyd,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,21
+Boyd,ButteBasinMcCulley,Secretary of State,3,LIB,Ben Backus,32
+Boyd,LynchBristowMullenBush,Secretary of State,3,LIB,Ben Backus,22
+Boyd,SpencerMorton,Secretary of State,3,LIB,Ben Backus,32
+Boyd,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Boyd,Provisional,Secretary of State,3,LIB,Ben Backus,0
+Boyd,Countywide,Secretary of State,3,REP,John A. Gale,0
+Boyd,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,145
+Boyd,ButteBasinMcCulley,Secretary of State,3,REP,John A. Gale,180
+Boyd,LynchBristowMullenBush,Secretary of State,3,REP,John A. Gale,135
+Boyd,SpencerMorton,Secretary of State,3,REP,John A. Gale,234
+Boyd,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Boyd,Provisional,Secretary of State,3,REP,John A. Gale,0
+Boyd,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Boyd,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,9
+Boyd,ButteBasinMcCulley,State Treasurer,3,LIB,Michael Knebel,13
+Boyd,LynchBristowMullenBush,State Treasurer,3,LIB,Michael Knebel,8
+Boyd,SpencerMorton,State Treasurer,3,LIB,Michael Knebel,13
+Boyd,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Boyd,Provisional,State Treasurer,3,LIB,Michael Knebel,0
+Boyd,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Boyd,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,30
+Boyd,ButteBasinMcCulley,State Treasurer,3,DEM,Michael J. O'Hara,29
+Boyd,LynchBristowMullenBush,State Treasurer,3,DEM,Michael J. O'Hara,27
+Boyd,SpencerMorton,State Treasurer,3,DEM,Michael J. O'Hara,26
+Boyd,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Boyd,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,0
+Boyd,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Boyd,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,142
+Boyd,ButteBasinMcCulley,State Treasurer,3,REP,Don Stenberg,188
+Boyd,LynchBristowMullenBush,State Treasurer,3,REP,Don Stenberg,130
+Boyd,SpencerMorton,State Treasurer,3,REP,Don Stenberg,245
+Boyd,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Boyd,Provisional,State Treasurer,3,REP,Don Stenberg,0
+Boyd,Countywide,Attorney General,3,REP,Doug Peterson,0
+Boyd,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,132
+Boyd,ButteBasinMcCulley,Attorney General,3,REP,Doug Peterson,177
+Boyd,LynchBristowMullenBush,Attorney General,3,REP,Doug Peterson,128
+Boyd,SpencerMorton,Attorney General,3,REP,Doug Peterson,219
+Boyd,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Boyd,Provisional,Attorney General,3,REP,Doug Peterson,0
+Boyd,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Boyd,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,36
+Boyd,ButteBasinMcCulley,Attorney General,3,DEM,Janet Stewart,40
+Boyd,LynchBristowMullenBush,Attorney General,3,DEM,Janet Stewart,35
+Boyd,SpencerMorton,Attorney General,3,DEM,Janet Stewart,50
+Boyd,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Boyd,Provisional,Attorney General,3,DEM,Janet Stewart,0
+Boyd,Countywide,Auditor,3,REP,Charlie Janssen,0
+Boyd,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,114
+Boyd,ButteBasinMcCulley,Auditor,3,REP,Charlie Janssen,141
+Boyd,LynchBristowMullenBush,Auditor,3,REP,Charlie Janssen,110
+Boyd,SpencerMorton,Auditor,3,REP,Charlie Janssen,189
+Boyd,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Boyd,Provisional,Auditor,3,REP,Charlie Janssen,0
+Boyd,Countywide,Auditor,3,DEM,Amanda McGill,0
+Boyd,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,41
+Boyd,ButteBasinMcCulley,Auditor,3,DEM,Amanda McGill,46
+Boyd,LynchBristowMullenBush,Auditor,3,DEM,Amanda McGill,44
+Boyd,SpencerMorton,Auditor,3,DEM,Amanda McGill,61
+Boyd,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Boyd,Provisional,Auditor,3,DEM,Amanda McGill,0
+Boyd,Countywide,Legislature,LD0040,NON,Keith F. Kube,0
+Boyd,Absentee/Early Vote,Legislature,LD0040,NON,Keith F. Kube,40
+Boyd,ButteBasinMcCulley,Legislature,LD0040,NON,Keith F. Kube,58
+Boyd,LynchBristowMullenBush,Legislature,LD0040,NON,Keith F. Kube,65
+Boyd,SpencerMorton,Legislature,LD0040,NON,Keith F. Kube,106
+Boyd,Absentee/Early Vote,Legislature,LD0040,NON,Keith F. Kube,0
+Boyd,Provisional,Legislature,LD0040,NON,Keith F. Kube,0
+Boyd,Countywide,Legislature,LD0040,NON,Tyson Rope Larson,0
+Boyd,Absentee/Early Vote,Legislature,LD0040,NON,Tyson Rope Larson,142
+Boyd,ButteBasinMcCulley,Legislature,LD0040,NON,Tyson Rope Larson,182
+Boyd,LynchBristowMullenBush,Legislature,LD0040,NON,Tyson Rope Larson,100
+Boyd,SpencerMorton,Legislature,LD0040,NON,Tyson Rope Larson,177
+Boyd,Absentee/Early Vote,Legislature,LD0040,NON,Tyson Rope Larson,0
+Boyd,Provisional,Legislature,LD0040,NON,Tyson Rope Larson,0

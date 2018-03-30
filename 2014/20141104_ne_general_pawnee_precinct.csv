@@ -1,0 +1,163 @@
+county,precinct,office,district,party,candidate,votes
+Pawnee,Countywide,Senator,3,DEM,Dave Domina,0
+Pawnee,Absentee/Early Vote,Senator,3,DEM,Dave Domina,0
+Pawnee,Pawnee 1,Senator,3,DEM,Dave Domina,87
+Pawnee,Pawnee 2,Senator,3,DEM,Dave Domina,87
+Pawnee,Burchard,Senator,3,DEM,Dave Domina,27
+Pawnee,Table Rock,Senator,3,DEM,Dave Domina,31
+Pawnee,Steinauer,Senator,3,DEM,Dave Domina,43
+Pawnee,Absentee/Early Vote,Senator,3,DEM,Dave Domina,0
+Pawnee,Provisional,Senator,3,DEM,Dave Domina,1
+Pawnee,Countywide,Senator,3,ZZZ,Jim Jenkins,0
+Pawnee,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,0
+Pawnee,Pawnee 1,Senator,3,ZZZ,Jim Jenkins,3
+Pawnee,Pawnee 2,Senator,3,ZZZ,Jim Jenkins,3
+Pawnee,Burchard,Senator,3,ZZZ,Jim Jenkins,3
+Pawnee,Table Rock,Senator,3,ZZZ,Jim Jenkins,1
+Pawnee,Steinauer,Senator,3,ZZZ,Jim Jenkins,3
+Pawnee,Absentee/Early Vote,Senator,3,ZZZ,Jim Jenkins,0
+Pawnee,Provisional,Senator,3,ZZZ,Jim Jenkins,0
+Pawnee,Countywide,Senator,3,REP,Ben Sasse,0
+Pawnee,Absentee/Early Vote,Senator,3,REP,Ben Sasse,0
+Pawnee,Pawnee 1,Senator,3,REP,Ben Sasse,187
+Pawnee,Pawnee 2,Senator,3,REP,Ben Sasse,200
+Pawnee,Burchard,Senator,3,REP,Ben Sasse,121
+Pawnee,Table Rock,Senator,3,REP,Ben Sasse,127
+Pawnee,Steinauer,Senator,3,REP,Ben Sasse,150
+Pawnee,Absentee/Early Vote,Senator,3,REP,Ben Sasse,0
+Pawnee,Provisional,Senator,3,REP,Ben Sasse,3
+Pawnee,Countywide,Senator,3,ZZZ,Todd F. Watson,0
+Pawnee,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,0
+Pawnee,Pawnee 1,Senator,3,ZZZ,Todd F. Watson,5
+Pawnee,Pawnee 2,Senator,3,ZZZ,Todd F. Watson,4
+Pawnee,Burchard,Senator,3,ZZZ,Todd F. Watson,5
+Pawnee,Table Rock,Senator,3,ZZZ,Todd F. Watson,0
+Pawnee,Steinauer,Senator,3,ZZZ,Todd F. Watson,2
+Pawnee,Absentee/Early Vote,Senator,3,ZZZ,Todd F. Watson,0
+Pawnee,Provisional,Senator,3,ZZZ,Todd F. Watson,0
+Pawnee,Countywide,Representative,3,REP,Adrian Smith,0
+Pawnee,Absentee/Early Vote,Representative,3,REP,Adrian Smith,0
+Pawnee,Pawnee 1,Representative,3,REP,Adrian Smith,185
+Pawnee,Pawnee 2,Representative,3,REP,Adrian Smith,212
+Pawnee,Burchard,Representative,3,REP,Adrian Smith,119
+Pawnee,Table Rock,Representative,3,REP,Adrian Smith,130
+Pawnee,Steinauer,Representative,3,REP,Adrian Smith,144
+Pawnee,Absentee/Early Vote,Representative,3,REP,Adrian Smith,0
+Pawnee,Provisional,Representative,3,REP,Adrian Smith,3
+Pawnee,Countywide,Representative,3,DEM,Mark Sullivan,0
+Pawnee,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,0
+Pawnee,Pawnee 1,Representative,3,DEM,Mark Sullivan,84
+Pawnee,Pawnee 2,Representative,3,DEM,Mark Sullivan,69
+Pawnee,Burchard,Representative,3,DEM,Mark Sullivan,33
+Pawnee,Table Rock,Representative,3,DEM,Mark Sullivan,25
+Pawnee,Steinauer,Representative,3,DEM,Mark Sullivan,50
+Pawnee,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,0
+Pawnee,Provisional,Representative,3,DEM,Mark Sullivan,1
+Pawnee,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Pawnee,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Pawnee,Pawnee 1,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,117
+Pawnee,Pawnee 2,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,106
+Pawnee,Burchard,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,43
+Pawnee,Table Rock,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,40
+Pawnee,Steinauer,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,68
+Pawnee,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Pawnee,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,2
+Pawnee,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Pawnee,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Pawnee,Pawnee 1,Governor,3,REP,Pete Ricketts and Mike Foley,149
+Pawnee,Pawnee 2,Governor,3,REP,Pete Ricketts and Mike Foley,176
+Pawnee,Burchard,Governor,3,REP,Pete Ricketts and Mike Foley,105
+Pawnee,Table Rock,Governor,3,REP,Pete Ricketts and Mike Foley,114
+Pawnee,Steinauer,Governor,3,REP,Pete Ricketts and Mike Foley,126
+Pawnee,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Pawnee,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,2
+Pawnee,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Pawnee,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Pawnee,Pawnee 1,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,13
+Pawnee,Pawnee 2,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,7
+Pawnee,Burchard,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+Pawnee,Table Rock,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,3
+Pawnee,Steinauer,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,4
+Pawnee,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Pawnee,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Pawnee,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Pawnee,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Pawnee,Pawnee 1,Secretary of State,3,LIB,Ben Backus,59
+Pawnee,Pawnee 2,Secretary of State,3,LIB,Ben Backus,46
+Pawnee,Burchard,Secretary of State,3,LIB,Ben Backus,22
+Pawnee,Table Rock,Secretary of State,3,LIB,Ben Backus,26
+Pawnee,Steinauer,Secretary of State,3,LIB,Ben Backus,34
+Pawnee,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Pawnee,Provisional,Secretary of State,3,LIB,Ben Backus,1
+Pawnee,Countywide,Secretary of State,3,REP,John A. Gale,0
+Pawnee,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Pawnee,Pawnee 1,Secretary of State,3,REP,John A. Gale,197
+Pawnee,Pawnee 2,Secretary of State,3,REP,John A. Gale,210
+Pawnee,Burchard,Secretary of State,3,REP,John A. Gale,122
+Pawnee,Table Rock,Secretary of State,3,REP,John A. Gale,113
+Pawnee,Steinauer,Secretary of State,3,REP,John A. Gale,137
+Pawnee,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Pawnee,Provisional,Secretary of State,3,REP,John A. Gale,3
+Pawnee,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Pawnee,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Pawnee,Pawnee 1,State Treasurer,3,LIB,Michael Knebel,13
+Pawnee,Pawnee 2,State Treasurer,3,LIB,Michael Knebel,8
+Pawnee,Burchard,State Treasurer,3,LIB,Michael Knebel,7
+Pawnee,Table Rock,State Treasurer,3,LIB,Michael Knebel,7
+Pawnee,Steinauer,State Treasurer,3,LIB,Michael Knebel,9
+Pawnee,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Pawnee,Provisional,State Treasurer,3,LIB,Michael Knebel,0
+Pawnee,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Pawnee,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Pawnee,Pawnee 1,State Treasurer,3,DEM,Michael J. O'Hara,67
+Pawnee,Pawnee 2,State Treasurer,3,DEM,Michael J. O'Hara,61
+Pawnee,Burchard,State Treasurer,3,DEM,Michael J. O'Hara,20
+Pawnee,Table Rock,State Treasurer,3,DEM,Michael J. O'Hara,18
+Pawnee,Steinauer,State Treasurer,3,DEM,Michael J. O'Hara,40
+Pawnee,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Pawnee,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,1
+Pawnee,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Pawnee,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Pawnee,Pawnee 1,State Treasurer,3,REP,Don Stenberg,194
+Pawnee,Pawnee 2,State Treasurer,3,REP,Don Stenberg,206
+Pawnee,Burchard,State Treasurer,3,REP,Don Stenberg,126
+Pawnee,Table Rock,State Treasurer,3,REP,Don Stenberg,123
+Pawnee,Steinauer,State Treasurer,3,REP,Don Stenberg,148
+Pawnee,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Pawnee,Provisional,State Treasurer,3,REP,Don Stenberg,3
+Pawnee,Countywide,Attorney General,3,REP,Doug Peterson,0
+Pawnee,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Pawnee,Pawnee 1,Attorney General,3,REP,Doug Peterson,190
+Pawnee,Pawnee 2,Attorney General,3,REP,Doug Peterson,200
+Pawnee,Burchard,Attorney General,3,REP,Doug Peterson,119
+Pawnee,Table Rock,Attorney General,3,REP,Doug Peterson,115
+Pawnee,Steinauer,Attorney General,3,REP,Doug Peterson,132
+Pawnee,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Pawnee,Provisional,Attorney General,3,REP,Doug Peterson,2
+Pawnee,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Pawnee,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Pawnee,Pawnee 1,Attorney General,3,DEM,Janet Stewart,82
+Pawnee,Pawnee 2,Attorney General,3,DEM,Janet Stewart,65
+Pawnee,Burchard,Attorney General,3,DEM,Janet Stewart,31
+Pawnee,Table Rock,Attorney General,3,DEM,Janet Stewart,28
+Pawnee,Steinauer,Attorney General,3,DEM,Janet Stewart,54
+Pawnee,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Pawnee,Provisional,Attorney General,3,DEM,Janet Stewart,2
+Pawnee,Countywide,Auditor,3,REP,Charlie Janssen,0
+Pawnee,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Pawnee,Pawnee 1,Auditor,3,REP,Charlie Janssen,137
+Pawnee,Pawnee 2,Auditor,3,REP,Charlie Janssen,163
+Pawnee,Burchard,Auditor,3,REP,Charlie Janssen,97
+Pawnee,Table Rock,Auditor,3,REP,Charlie Janssen,102
+Pawnee,Steinauer,Auditor,3,REP,Charlie Janssen,121
+Pawnee,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Pawnee,Provisional,Auditor,3,REP,Charlie Janssen,2
+Pawnee,Countywide,Auditor,3,DEM,Amanda McGill,0
+Pawnee,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Pawnee,Pawnee 1,Auditor,3,DEM,Amanda McGill,120
+Pawnee,Pawnee 2,Auditor,3,DEM,Amanda McGill,84
+Pawnee,Burchard,Auditor,3,DEM,Amanda McGill,45
+Pawnee,Table Rock,Auditor,3,DEM,Amanda McGill,40
+Pawnee,Steinauer,Auditor,3,DEM,Amanda McGill,62
+Pawnee,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Pawnee,Provisional,Auditor,3,DEM,Amanda McGill,1

@@ -1,0 +1,199 @@
+county,precinct,office,district,party,candidate,votes
+Valley,Countywide,U.S. Senate,3,DEM,Dave Domina,0
+Valley,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,26
+Valley,Precinct 1,U.S. Senate,3,DEM,Dave Domina,60
+Valley,Precinct 2,U.S. Senate,3,DEM,Dave Domina,51
+Valley,Precinct 3,U.S. Senate,3,DEM,Dave Domina,44
+Valley,Precinct 4,U.S. Senate,3,DEM,Dave Domina,51
+Valley,Precinct 5,U.S. Senate,3,DEM,Dave Domina,49
+Valley,Precinct 6,U.S. Senate,3,DEM,Dave Domina,38
+Valley,Precinct 7,U.S. Senate,3,DEM,Dave Domina,27
+Valley,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,0
+Valley,Provisional,U.S. Senate,3,DEM,Dave Domina,0
+Valley,Countywide,U.S. Senate,3,,Jim Jenkins,0
+Valley,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,5
+Valley,Precinct 1,U.S. Senate,3,,Jim Jenkins,6
+Valley,Precinct 2,U.S. Senate,3,,Jim Jenkins,3
+Valley,Precinct 3,U.S. Senate,3,,Jim Jenkins,8
+Valley,Precinct 4,U.S. Senate,3,,Jim Jenkins,6
+Valley,Precinct 5,U.S. Senate,3,,Jim Jenkins,4
+Valley,Precinct 6,U.S. Senate,3,,Jim Jenkins,10
+Valley,Precinct 7,U.S. Senate,3,,Jim Jenkins,18
+Valley,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,0
+Valley,Provisional,U.S. Senate,3,,Jim Jenkins,0
+Valley,Countywide,U.S. Senate,3,REP,Ben Sasse,0
+Valley,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,117
+Valley,Precinct 1,U.S. Senate,3,REP,Ben Sasse,168
+Valley,Precinct 2,U.S. Senate,3,REP,Ben Sasse,139
+Valley,Precinct 3,U.S. Senate,3,REP,Ben Sasse,170
+Valley,Precinct 4,U.S. Senate,3,REP,Ben Sasse,169
+Valley,Precinct 5,U.S. Senate,3,REP,Ben Sasse,146
+Valley,Precinct 6,U.S. Senate,3,REP,Ben Sasse,128
+Valley,Precinct 7,U.S. Senate,3,REP,Ben Sasse,179
+Valley,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,0
+Valley,Provisional,U.S. Senate,3,REP,Ben Sasse,0
+Valley,Countywide,U.S. Senate,3,,Todd F. Watson,0
+Valley,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,1
+Valley,Precinct 1,U.S. Senate,3,,Todd F. Watson,1
+Valley,Precinct 2,U.S. Senate,3,,Todd F. Watson,4
+Valley,Precinct 3,U.S. Senate,3,,Todd F. Watson,3
+Valley,Precinct 4,U.S. Senate,3,,Todd F. Watson,1
+Valley,Precinct 5,U.S. Senate,3,,Todd F. Watson,3
+Valley,Precinct 6,U.S. Senate,3,,Todd F. Watson,1
+Valley,Precinct 7,U.S. Senate,3,,Todd F. Watson,2
+Valley,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,0
+Valley,Provisional,U.S. Senate,3,,Todd F. Watson,0
+Valley,Countywide,Representative,3,REP,Adrian Smith,0
+Valley,Absentee/Early Vote,Representative,3,REP,Adrian Smith,113
+Valley,Precinct 1,Representative,3,REP,Adrian Smith,169
+Valley,Precinct 2,Representative,3,REP,Adrian Smith,131
+Valley,Precinct 3,Representative,3,REP,Adrian Smith,170
+Valley,Precinct 4,Representative,3,REP,Adrian Smith,183
+Valley,Precinct 5,Representative,3,REP,Adrian Smith,156
+Valley,Precinct 6,Representative,3,REP,Adrian Smith,125
+Valley,Precinct 7,Representative,3,REP,Adrian Smith,182
+Valley,Absentee/Early Vote,Representative,3,REP,Adrian Smith,0
+Valley,Provisional,Representative,3,REP,Adrian Smith,0
+Valley,Countywide,Representative,3,DEM,Mark Sullivan,0
+Valley,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,35
+Valley,Precinct 1,Representative,3,DEM,Mark Sullivan,63
+Valley,Precinct 2,Representative,3,DEM,Mark Sullivan,64
+Valley,Precinct 3,Representative,3,DEM,Mark Sullivan,51
+Valley,Precinct 4,Representative,3,DEM,Mark Sullivan,45
+Valley,Precinct 5,Representative,3,DEM,Mark Sullivan,49
+Valley,Precinct 6,Representative,3,DEM,Mark Sullivan,49
+Valley,Precinct 7,Representative,3,DEM,Mark Sullivan,43
+Valley,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,0
+Valley,Provisional,Representative,3,DEM,Mark Sullivan,0
+Valley,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Valley,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,38
+Valley,Precinct 1,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,84
+Valley,Precinct 2,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,82
+Valley,Precinct 3,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,78
+Valley,Precinct 4,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,66
+Valley,Precinct 5,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,66
+Valley,Precinct 6,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,71
+Valley,Precinct 7,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,74
+Valley,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Valley,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Valley,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Valley,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,105
+Valley,Precinct 1,Governor,3,REP,Pete Ricketts and Mike Foley,140
+Valley,Precinct 2,Governor,3,REP,Pete Ricketts and Mike Foley,105
+Valley,Precinct 3,Governor,3,REP,Pete Ricketts and Mike Foley,142
+Valley,Precinct 4,Governor,3,REP,Pete Ricketts and Mike Foley,150
+Valley,Precinct 5,Governor,3,REP,Pete Ricketts and Mike Foley,128
+Valley,Precinct 6,Governor,3,REP,Pete Ricketts and Mike Foley,102
+Valley,Precinct 7,Governor,3,REP,Pete Ricketts and Mike Foley,139
+Valley,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Valley,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Valley,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Valley,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,6
+Valley,Precinct 1,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Valley,Precinct 2,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,6
+Valley,Precinct 3,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,7
+Valley,Precinct 4,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Valley,Precinct 5,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,7
+Valley,Precinct 6,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Valley,Precinct 7,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,11
+Valley,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Valley,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Valley,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Valley,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,17
+Valley,Precinct 1,Secretary of State,3,LIB,Ben Backus,36
+Valley,Precinct 2,Secretary of State,3,LIB,Ben Backus,47
+Valley,Precinct 3,Secretary of State,3,LIB,Ben Backus,29
+Valley,Precinct 4,Secretary of State,3,LIB,Ben Backus,34
+Valley,Precinct 5,Secretary of State,3,LIB,Ben Backus,24
+Valley,Precinct 6,Secretary of State,3,LIB,Ben Backus,31
+Valley,Precinct 7,Secretary of State,3,LIB,Ben Backus,24
+Valley,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Valley,Provisional,Secretary of State,3,LIB,Ben Backus,0
+Valley,Countywide,Secretary of State,3,REP,John A. Gale,0
+Valley,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,116
+Valley,Precinct 1,Secretary of State,3,REP,John A. Gale,170
+Valley,Precinct 2,Secretary of State,3,REP,John A. Gale,137
+Valley,Precinct 3,Secretary of State,3,REP,John A. Gale,184
+Valley,Precinct 4,Secretary of State,3,REP,John A. Gale,178
+Valley,Precinct 5,Secretary of State,3,REP,John A. Gale,163
+Valley,Precinct 6,Secretary of State,3,REP,John A. Gale,129
+Valley,Precinct 7,Secretary of State,3,REP,John A. Gale,170
+Valley,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Valley,Provisional,Secretary of State,3,REP,John A. Gale,0
+Valley,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Valley,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,8
+Valley,Precinct 1,State Treasurer,3,LIB,Michael Knebel,12
+Valley,Precinct 2,State Treasurer,3,LIB,Michael Knebel,12
+Valley,Precinct 3,State Treasurer,3,LIB,Michael Knebel,9
+Valley,Precinct 4,State Treasurer,3,LIB,Michael Knebel,10
+Valley,Precinct 5,State Treasurer,3,LIB,Michael Knebel,7
+Valley,Precinct 6,State Treasurer,3,LIB,Michael Knebel,8
+Valley,Precinct 7,State Treasurer,3,LIB,Michael Knebel,8
+Valley,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Valley,Provisional,State Treasurer,3,LIB,Michael Knebel,0
+Valley,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Valley,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,23
+Valley,Precinct 1,State Treasurer,3,DEM,Michael J. O'Hara,39
+Valley,Precinct 2,State Treasurer,3,DEM,Michael J. O'Hara,52
+Valley,Precinct 3,State Treasurer,3,DEM,Michael J. O'Hara,32
+Valley,Precinct 4,State Treasurer,3,DEM,Michael J. O'Hara,36
+Valley,Precinct 5,State Treasurer,3,DEM,Michael J. O'Hara,26
+Valley,Precinct 6,State Treasurer,3,DEM,Michael J. O'Hara,31
+Valley,Precinct 7,State Treasurer,3,DEM,Michael J. O'Hara,26
+Valley,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Valley,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,0
+Valley,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Valley,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,114
+Valley,Precinct 1,State Treasurer,3,REP,Don Stenberg,170
+Valley,Precinct 2,State Treasurer,3,REP,Don Stenberg,131
+Valley,Precinct 3,State Treasurer,3,REP,Don Stenberg,179
+Valley,Precinct 4,State Treasurer,3,REP,Don Stenberg,174
+Valley,Precinct 5,State Treasurer,3,REP,Don Stenberg,165
+Valley,Precinct 6,State Treasurer,3,REP,Don Stenberg,130
+Valley,Precinct 7,State Treasurer,3,REP,Don Stenberg,181
+Valley,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Valley,Provisional,State Treasurer,3,REP,Don Stenberg,0
+Valley,Countywide,Attorney General,3,REP,Doug Peterson,0
+Valley,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,112
+Valley,Precinct 1,Attorney General,3,REP,Doug Peterson,161
+Valley,Precinct 2,Attorney General,3,REP,Doug Peterson,130
+Valley,Precinct 3,Attorney General,3,REP,Doug Peterson,174
+Valley,Precinct 4,Attorney General,3,REP,Doug Peterson,164
+Valley,Precinct 5,Attorney General,3,REP,Doug Peterson,153
+Valley,Precinct 6,Attorney General,3,REP,Doug Peterson,128
+Valley,Precinct 7,Attorney General,3,REP,Doug Peterson,175
+Valley,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Valley,Provisional,Attorney General,3,REP,Doug Peterson,0
+Valley,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Valley,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,28
+Valley,Precinct 1,Attorney General,3,DEM,Janet Stewart,53
+Valley,Precinct 2,Attorney General,3,DEM,Janet Stewart,64
+Valley,Precinct 3,Attorney General,3,DEM,Janet Stewart,44
+Valley,Precinct 4,Attorney General,3,DEM,Janet Stewart,48
+Valley,Precinct 5,Attorney General,3,DEM,Janet Stewart,36
+Valley,Precinct 6,Attorney General,3,DEM,Janet Stewart,43
+Valley,Precinct 7,Attorney General,3,DEM,Janet Stewart,37
+Valley,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Valley,Provisional,Attorney General,3,DEM,Janet Stewart,0
+Valley,Countywide,Auditor,3,REP,Charlie Janssen,0
+Valley,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,94
+Valley,Precinct 1,Auditor,3,REP,Charlie Janssen,127
+Valley,Precinct 2,Auditor,3,REP,Charlie Janssen,110
+Valley,Precinct 3,Auditor,3,REP,Charlie Janssen,148
+Valley,Precinct 4,Auditor,3,REP,Charlie Janssen,145
+Valley,Precinct 5,Auditor,3,REP,Charlie Janssen,132
+Valley,Precinct 6,Auditor,3,REP,Charlie Janssen,113
+Valley,Precinct 7,Auditor,3,REP,Charlie Janssen,139
+Valley,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Valley,Provisional,Auditor,3,REP,Charlie Janssen,0
+Valley,Countywide,Auditor,3,DEM,Amanda McGill,0
+Valley,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,34
+Valley,Precinct 1,Auditor,3,DEM,Amanda McGill,64
+Valley,Precinct 2,Auditor,3,DEM,Amanda McGill,66
+Valley,Precinct 3,Auditor,3,DEM,Amanda McGill,62
+Valley,Precinct 4,Auditor,3,DEM,Amanda McGill,59
+Valley,Precinct 5,Auditor,3,DEM,Amanda McGill,50
+Valley,Precinct 6,Auditor,3,DEM,Amanda McGill,45
+Valley,Precinct 7,Auditor,3,DEM,Amanda McGill,53
+Valley,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Valley,Provisional,Auditor,3,DEM,Amanda McGill,0

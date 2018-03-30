@@ -1,0 +1,401 @@
+county,precinct,office,district,party,candidate,votes
+Seward,Countywide,U.S. Senate,1,DEM,Dave Domina,0
+Seward,Absentee/Early Vote,U.S. Senate,1,DEM,Dave Domina,219
+Seward,B,U.S. Senate,1,DEM,Dave Domina,28
+Seward,C,U.S. Senate,1,DEM,Dave Domina,57
+Seward,E,U.S. Senate,1,DEM,Dave Domina,59
+Seward,G,U.S. Senate,1,DEM,Dave Domina,39
+Seward,H,U.S. Senate,1,DEM,Dave Domina,89
+Seward,I,U.S. Senate,1,DEM,Dave Domina,80
+Seward,J,U.S. Senate,1,DEM,Dave Domina,37
+Seward,K,U.S. Senate,1,DEM,Dave Domina,66
+Seward,M-BX,U.S. Senate,1,DEM,Dave Domina,40
+Seward,M-CO,U.S. Senate,1,DEM,Dave Domina,20
+Seward,O-1,U.S. Senate,1,DEM,Dave Domina,46
+Seward,O-2,U.S. Senate,1,DEM,Dave Domina,54
+Seward,S-1,U.S. Senate,1,DEM,Dave Domina,138
+Seward,S-2,U.S. Senate,1,DEM,Dave Domina,200
+Seward,S-3,U.S. Senate,1,DEM,Dave Domina,116
+Seward,S-4,U.S. Senate,1,DEM,Dave Domina,77
+Seward,Absentee/Early Vote,U.S. Senate,1,DEM,Dave Domina,0
+Seward,Provisional,U.S. Senate,1,DEM,Dave Domina,0
+Seward,Countywide,U.S. Senate,1,,Jim Jenkins,0
+Seward,Absentee/Early Vote,U.S. Senate,1,,Jim Jenkins,22
+Seward,B,U.S. Senate,1,,Jim Jenkins,5
+Seward,C,U.S. Senate,1,,Jim Jenkins,9
+Seward,E,U.S. Senate,1,,Jim Jenkins,14
+Seward,G,U.S. Senate,1,,Jim Jenkins,3
+Seward,H,U.S. Senate,1,,Jim Jenkins,14
+Seward,I,U.S. Senate,1,,Jim Jenkins,21
+Seward,J,U.S. Senate,1,,Jim Jenkins,2
+Seward,K,U.S. Senate,1,,Jim Jenkins,6
+Seward,M-BX,U.S. Senate,1,,Jim Jenkins,7
+Seward,M-CO,U.S. Senate,1,,Jim Jenkins,2
+Seward,O-1,U.S. Senate,1,,Jim Jenkins,6
+Seward,O-2,U.S. Senate,1,,Jim Jenkins,8
+Seward,S-1,U.S. Senate,1,,Jim Jenkins,32
+Seward,S-2,U.S. Senate,1,,Jim Jenkins,18
+Seward,S-3,U.S. Senate,1,,Jim Jenkins,14
+Seward,S-4,U.S. Senate,1,,Jim Jenkins,10
+Seward,Absentee/Early Vote,U.S. Senate,1,,Jim Jenkins,0
+Seward,Provisional,U.S. Senate,1,,Jim Jenkins,0
+Seward,Countywide,U.S. Senate,1,REP,Ben Sasse,0
+Seward,Absentee/Early Vote,U.S. Senate,1,REP,Ben Sasse,369
+Seward,B,U.S. Senate,1,REP,Ben Sasse,87
+Seward,C,U.S. Senate,1,REP,Ben Sasse,147
+Seward,E,U.S. Senate,1,REP,Ben Sasse,228
+Seward,G,U.S. Senate,1,REP,Ben Sasse,125
+Seward,H,U.S. Senate,1,REP,Ben Sasse,261
+Seward,I,U.S. Senate,1,REP,Ben Sasse,251
+Seward,J,U.S. Senate,1,REP,Ben Sasse,88
+Seward,K,U.S. Senate,1,REP,Ben Sasse,135
+Seward,M-BX,U.S. Senate,1,REP,Ben Sasse,179
+Seward,M-CO,U.S. Senate,1,REP,Ben Sasse,123
+Seward,O-1,U.S. Senate,1,REP,Ben Sasse,194
+Seward,O-2,U.S. Senate,1,REP,Ben Sasse,260
+Seward,S-1,U.S. Senate,1,REP,Ben Sasse,459
+Seward,S-2,U.S. Senate,1,REP,Ben Sasse,444
+Seward,S-3,U.S. Senate,1,REP,Ben Sasse,295
+Seward,S-4,U.S. Senate,1,REP,Ben Sasse,215
+Seward,Absentee/Early Vote,U.S. Senate,1,REP,Ben Sasse,0
+Seward,Provisional,U.S. Senate,1,REP,Ben Sasse,0
+Seward,Countywide,U.S. Senate,1,,Todd F. Watson,0
+Seward,Absentee/Early Vote,U.S. Senate,1,,Todd F. Watson,4
+Seward,B,U.S. Senate,1,,Todd F. Watson,2
+Seward,C,U.S. Senate,1,,Todd F. Watson,1
+Seward,E,U.S. Senate,1,,Todd F. Watson,5
+Seward,G,U.S. Senate,1,,Todd F. Watson,0
+Seward,H,U.S. Senate,1,,Todd F. Watson,4
+Seward,I,U.S. Senate,1,,Todd F. Watson,6
+Seward,J,U.S. Senate,1,,Todd F. Watson,2
+Seward,K,U.S. Senate,1,,Todd F. Watson,0
+Seward,M-BX,U.S. Senate,1,,Todd F. Watson,6
+Seward,M-CO,U.S. Senate,1,,Todd F. Watson,4
+Seward,O-1,U.S. Senate,1,,Todd F. Watson,2
+Seward,O-2,U.S. Senate,1,,Todd F. Watson,6
+Seward,S-1,U.S. Senate,1,,Todd F. Watson,6
+Seward,S-2,U.S. Senate,1,,Todd F. Watson,7
+Seward,S-3,U.S. Senate,1,,Todd F. Watson,8
+Seward,S-4,U.S. Senate,1,,Todd F. Watson,5
+Seward,Absentee/Early Vote,U.S. Senate,1,,Todd F. Watson,0
+Seward,Provisional,U.S. Senate,1,,Todd F. Watson,0
+Seward,Countywide,Representative,1,DEM,Dennis P. Crawford,0
+Seward,Absentee/Early Vote,Representative,1,DEM,Dennis P. Crawford,194
+Seward,B,Representative,1,DEM,Dennis P. Crawford,31
+Seward,C,Representative,1,DEM,Dennis P. Crawford,51
+Seward,E,Representative,1,DEM,Dennis P. Crawford,56
+Seward,G,Representative,1,DEM,Dennis P. Crawford,29
+Seward,H,Representative,1,DEM,Dennis P. Crawford,85
+Seward,I,Representative,1,DEM,Dennis P. Crawford,86
+Seward,J,Representative,1,DEM,Dennis P. Crawford,30
+Seward,K,Representative,1,DEM,Dennis P. Crawford,53
+Seward,M-BX,Representative,1,DEM,Dennis P. Crawford,51
+Seward,M-CO,Representative,1,DEM,Dennis P. Crawford,42
+Seward,O-1,Representative,1,DEM,Dennis P. Crawford,37
+Seward,O-2,Representative,1,DEM,Dennis P. Crawford,50
+Seward,S-1,Representative,1,DEM,Dennis P. Crawford,102
+Seward,S-2,Representative,1,DEM,Dennis P. Crawford,145
+Seward,S-3,Representative,1,DEM,Dennis P. Crawford,111
+Seward,S-4,Representative,1,DEM,Dennis P. Crawford,66
+Seward,Absentee/Early Vote,Representative,1,DEM,Dennis P. Crawford,0
+Seward,Provisional,Representative,1,DEM,Dennis P. Crawford,0
+Seward,Countywide,Representative,1,REP,Jeff Fortenberry,0
+Seward,Absentee/Early Vote,Representative,1,REP,Jeff Fortenberry,408
+Seward,B,Representative,1,REP,Jeff Fortenberry,91
+Seward,C,Representative,1,REP,Jeff Fortenberry,160
+Seward,E,Representative,1,REP,Jeff Fortenberry,249
+Seward,G,Representative,1,REP,Jeff Fortenberry,137
+Seward,H,Representative,1,REP,Jeff Fortenberry,280
+Seward,I,Representative,1,REP,Jeff Fortenberry,266
+Seward,J,Representative,1,REP,Jeff Fortenberry,98
+Seward,K,Representative,1,REP,Jeff Fortenberry,155
+Seward,M-BX,Representative,1,REP,Jeff Fortenberry,180
+Seward,M-CO,Representative,1,REP,Jeff Fortenberry,106
+Seward,O-1,Representative,1,REP,Jeff Fortenberry,212
+Seward,O-2,Representative,1,REP,Jeff Fortenberry,274
+Seward,S-1,Representative,1,REP,Jeff Fortenberry,532
+Seward,S-2,Representative,1,REP,Jeff Fortenberry,510
+Seward,S-3,Representative,1,REP,Jeff Fortenberry,318
+Seward,S-4,Representative,1,REP,Jeff Fortenberry,237
+Seward,Absentee/Early Vote,Representative,1,REP,Jeff Fortenberry,0
+Seward,Provisional,Representative,1,REP,Jeff Fortenberry,0
+Seward,Countywide,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Seward,Absentee/Early Vote,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,278
+Seward,B,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,43
+Seward,C,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,96
+Seward,E,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,112
+Seward,G,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,51
+Seward,H,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,144
+Seward,I,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,122
+Seward,J,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,44
+Seward,K,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,83
+Seward,M-BX,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,65
+Seward,M-CO,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,53
+Seward,O-1,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,76
+Seward,O-2,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,83
+Seward,S-1,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,223
+Seward,S-2,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,299
+Seward,S-3,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,178
+Seward,S-4,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,116
+Seward,Absentee/Early Vote,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Seward,Provisional,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Seward,Countywide,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Seward,Absentee/Early Vote,Governor,1,REP,Pete Ricketts and Mike Foley,317
+Seward,B,Governor,1,REP,Pete Ricketts and Mike Foley,73
+Seward,C,Governor,1,REP,Pete Ricketts and Mike Foley,109
+Seward,E,Governor,1,REP,Pete Ricketts and Mike Foley,179
+Seward,G,Governor,1,REP,Pete Ricketts and Mike Foley,111
+Seward,H,Governor,1,REP,Pete Ricketts and Mike Foley,215
+Seward,I,Governor,1,REP,Pete Ricketts and Mike Foley,223
+Seward,J,Governor,1,REP,Pete Ricketts and Mike Foley,81
+Seward,K,Governor,1,REP,Pete Ricketts and Mike Foley,115
+Seward,M-BX,Governor,1,REP,Pete Ricketts and Mike Foley,152
+Seward,M-CO,Governor,1,REP,Pete Ricketts and Mike Foley,88
+Seward,O-1,Governor,1,REP,Pete Ricketts and Mike Foley,163
+Seward,O-2,Governor,1,REP,Pete Ricketts and Mike Foley,228
+Seward,S-1,Governor,1,REP,Pete Ricketts and Mike Foley,403
+Seward,S-2,Governor,1,REP,Pete Ricketts and Mike Foley,352
+Seward,S-3,Governor,1,REP,Pete Ricketts and Mike Foley,242
+Seward,S-4,Governor,1,REP,Pete Ricketts and Mike Foley,173
+Seward,Absentee/Early Vote,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Seward,Provisional,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Seward,Countywide,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Seward,Absentee/Early Vote,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,14
+Seward,B,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,6
+Seward,C,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+Seward,E,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,11
+Seward,G,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,2
+Seward,H,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Seward,I,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Seward,J,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Seward,K,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,9
+Seward,M-BX,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,14
+Seward,M-CO,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,6
+Seward,O-1,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+Seward,O-2,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Seward,S-1,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,14
+Seward,S-2,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Seward,S-3,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Seward,S-4,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,13
+Seward,Absentee/Early Vote,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Seward,Provisional,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Seward,Countywide,Secretary of State,1,LIB,Ben Backus,0
+Seward,Absentee/Early Vote,Secretary of State,1,LIB,Ben Backus,134
+Seward,B,Secretary of State,1,LIB,Ben Backus,22
+Seward,C,Secretary of State,1,LIB,Ben Backus,41
+Seward,E,Secretary of State,1,LIB,Ben Backus,42
+Seward,G,Secretary of State,1,LIB,Ben Backus,28
+Seward,H,Secretary of State,1,LIB,Ben Backus,82
+Seward,I,Secretary of State,1,LIB,Ben Backus,67
+Seward,J,Secretary of State,1,LIB,Ben Backus,22
+Seward,K,Secretary of State,1,LIB,Ben Backus,40
+Seward,M-BX,Secretary of State,1,LIB,Ben Backus,51
+Seward,M-CO,Secretary of State,1,LIB,Ben Backus,23
+Seward,O-1,Secretary of State,1,LIB,Ben Backus,31
+Seward,O-2,Secretary of State,1,LIB,Ben Backus,56
+Seward,S-1,Secretary of State,1,LIB,Ben Backus,85
+Seward,S-2,Secretary of State,1,LIB,Ben Backus,104
+Seward,S-3,Secretary of State,1,LIB,Ben Backus,90
+Seward,S-4,Secretary of State,1,LIB,Ben Backus,42
+Seward,Absentee/Early Vote,Secretary of State,1,LIB,Ben Backus,0
+Seward,Provisional,Secretary of State,1,LIB,Ben Backus,0
+Seward,Countywide,Secretary of State,1,REP,John A. Gale,0
+Seward,Absentee/Early Vote,Secretary of State,1,REP,John A. Gale,408
+Seward,B,Secretary of State,1,REP,John A. Gale,79
+Seward,C,Secretary of State,1,REP,John A. Gale,146
+Seward,E,Secretary of State,1,REP,John A. Gale,242
+Seward,G,Secretary of State,1,REP,John A. Gale,128
+Seward,H,Secretary of State,1,REP,John A. Gale,260
+Seward,I,Secretary of State,1,REP,John A. Gale,253
+Seward,J,Secretary of State,1,REP,John A. Gale,98
+Seward,K,Secretary of State,1,REP,John A. Gale,152
+Seward,M-BX,Secretary of State,1,REP,John A. Gale,166
+Seward,M-CO,Secretary of State,1,REP,John A. Gale,115
+Seward,O-1,Secretary of State,1,REP,John A. Gale,200
+Seward,O-2,Secretary of State,1,REP,John A. Gale,252
+Seward,S-1,Secretary of State,1,REP,John A. Gale,494
+Seward,S-2,Secretary of State,1,REP,John A. Gale,498
+Seward,S-3,Secretary of State,1,REP,John A. Gale,309
+Seward,S-4,Secretary of State,1,REP,John A. Gale,224
+Seward,Absentee/Early Vote,Secretary of State,1,REP,John A. Gale,0
+Seward,Provisional,Secretary of State,1,REP,John A. Gale,0
+Seward,Countywide,State Treasurer,1,LIB,Michael Knebel,0
+Seward,Absentee/Early Vote,State Treasurer,1,LIB,Michael Knebel,29
+Seward,B,State Treasurer,1,LIB,Michael Knebel,4
+Seward,C,State Treasurer,1,LIB,Michael Knebel,9
+Seward,E,State Treasurer,1,LIB,Michael Knebel,7
+Seward,G,State Treasurer,1,LIB,Michael Knebel,3
+Seward,H,State Treasurer,1,LIB,Michael Knebel,29
+Seward,I,State Treasurer,1,LIB,Michael Knebel,19
+Seward,J,State Treasurer,1,LIB,Michael Knebel,7
+Seward,K,State Treasurer,1,LIB,Michael Knebel,8
+Seward,M-BX,State Treasurer,1,LIB,Michael Knebel,9
+Seward,M-CO,State Treasurer,1,LIB,Michael Knebel,8
+Seward,O-1,State Treasurer,1,LIB,Michael Knebel,12
+Seward,O-2,State Treasurer,1,LIB,Michael Knebel,16
+Seward,S-1,State Treasurer,1,LIB,Michael Knebel,26
+Seward,S-2,State Treasurer,1,LIB,Michael Knebel,20
+Seward,S-3,State Treasurer,1,LIB,Michael Knebel,18
+Seward,S-4,State Treasurer,1,LIB,Michael Knebel,11
+Seward,Absentee/Early Vote,State Treasurer,1,LIB,Michael Knebel,0
+Seward,Provisional,State Treasurer,1,LIB,Michael Knebel,0
+Seward,Countywide,State Treasurer,1,DEM,Michael J. O'Hara,0
+Seward,Absentee/Early Vote,State Treasurer,1,DEM,Michael J. O'Hara,173
+Seward,B,State Treasurer,1,DEM,Michael J. O'Hara,24
+Seward,C,State Treasurer,1,DEM,Michael J. O'Hara,37
+Seward,E,State Treasurer,1,DEM,Michael J. O'Hara,57
+Seward,G,State Treasurer,1,DEM,Michael J. O'Hara,32
+Seward,H,State Treasurer,1,DEM,Michael J. O'Hara,72
+Seward,I,State Treasurer,1,DEM,Michael J. O'Hara,71
+Seward,J,State Treasurer,1,DEM,Michael J. O'Hara,26
+Seward,K,State Treasurer,1,DEM,Michael J. O'Hara,46
+Seward,M-BX,State Treasurer,1,DEM,Michael J. O'Hara,44
+Seward,M-CO,State Treasurer,1,DEM,Michael J. O'Hara,24
+Seward,O-1,State Treasurer,1,DEM,Michael J. O'Hara,38
+Seward,O-2,State Treasurer,1,DEM,Michael J. O'Hara,35
+Seward,S-1,State Treasurer,1,DEM,Michael J. O'Hara,85
+Seward,S-2,State Treasurer,1,DEM,Michael J. O'Hara,139
+Seward,S-3,State Treasurer,1,DEM,Michael J. O'Hara,89
+Seward,S-4,State Treasurer,1,DEM,Michael J. O'Hara,57
+Seward,Absentee/Early Vote,State Treasurer,1,DEM,Michael J. O'Hara,0
+Seward,Provisional,State Treasurer,1,DEM,Michael J. O'Hara,0
+Seward,Countywide,State Treasurer,1,REP,Don Stenberg,0
+Seward,Absentee/Early Vote,State Treasurer,1,REP,Don Stenberg,394
+Seward,B,State Treasurer,1,REP,Don Stenberg,88
+Seward,C,State Treasurer,1,REP,Don Stenberg,154
+Seward,E,State Treasurer,1,REP,Don Stenberg,234
+Seward,G,State Treasurer,1,REP,Don Stenberg,127
+Seward,H,State Treasurer,1,REP,Don Stenberg,260
+Seward,I,State Treasurer,1,REP,Don Stenberg,255
+Seward,J,State Treasurer,1,REP,Don Stenberg,93
+Seward,K,State Treasurer,1,REP,Don Stenberg,146
+Seward,M-BX,State Treasurer,1,REP,Don Stenberg,173
+Seward,M-CO,State Treasurer,1,REP,Don Stenberg,115
+Seward,O-1,State Treasurer,1,REP,Don Stenberg,196
+Seward,O-2,State Treasurer,1,REP,Don Stenberg,264
+Seward,S-1,State Treasurer,1,REP,Don Stenberg,497
+Seward,S-2,State Treasurer,1,REP,Don Stenberg,475
+Seward,S-3,State Treasurer,1,REP,Don Stenberg,309
+Seward,S-4,State Treasurer,1,REP,Don Stenberg,220
+Seward,Absentee/Early Vote,State Treasurer,1,REP,Don Stenberg,0
+Seward,Provisional,State Treasurer,1,REP,Don Stenberg,0
+Seward,Countywide,Attorney General,1,REP,Doug Peterson,0
+Seward,Absentee/Early Vote,Attorney General,1,REP,Doug Peterson,359
+Seward,B,Attorney General,1,REP,Doug Peterson,85
+Seward,C,Attorney General,1,REP,Doug Peterson,143
+Seward,E,Attorney General,1,REP,Doug Peterson,207
+Seward,G,Attorney General,1,REP,Doug Peterson,121
+Seward,H,Attorney General,1,REP,Doug Peterson,244
+Seward,I,Attorney General,1,REP,Doug Peterson,245
+Seward,J,Attorney General,1,REP,Doug Peterson,91
+Seward,K,Attorney General,1,REP,Doug Peterson,138
+Seward,M-BX,Attorney General,1,REP,Doug Peterson,168
+Seward,M-CO,Attorney General,1,REP,Doug Peterson,109
+Seward,O-1,Attorney General,1,REP,Doug Peterson,190
+Seward,O-2,Attorney General,1,REP,Doug Peterson,250
+Seward,S-1,Attorney General,1,REP,Doug Peterson,461
+Seward,S-2,Attorney General,1,REP,Doug Peterson,443
+Seward,S-3,Attorney General,1,REP,Doug Peterson,282
+Seward,S-4,Attorney General,1,REP,Doug Peterson,205
+Seward,Absentee/Early Vote,Attorney General,1,REP,Doug Peterson,0
+Seward,Provisional,Attorney General,1,REP,Doug Peterson,0
+Seward,Countywide,Attorney General,1,DEM,Janet Stewart,0
+Seward,Absentee/Early Vote,Attorney General,1,DEM,Janet Stewart,219
+Seward,B,Attorney General,1,DEM,Janet Stewart,31
+Seward,C,Attorney General,1,DEM,Janet Stewart,54
+Seward,E,Attorney General,1,DEM,Janet Stewart,80
+Seward,G,Attorney General,1,DEM,Janet Stewart,39
+Seward,H,Attorney General,1,DEM,Janet Stewart,114
+Seward,I,Attorney General,1,DEM,Janet Stewart,91
+Seward,J,Attorney General,1,DEM,Janet Stewart,32
+Seward,K,Attorney General,1,DEM,Janet Stewart,62
+Seward,M-BX,Attorney General,1,DEM,Janet Stewart,58
+Seward,M-CO,Attorney General,1,DEM,Janet Stewart,33
+Seward,O-1,Attorney General,1,DEM,Janet Stewart,51
+Seward,O-2,Attorney General,1,DEM,Janet Stewart,66
+Seward,S-1,Attorney General,1,DEM,Janet Stewart,146
+Seward,S-2,Attorney General,1,DEM,Janet Stewart,179
+Seward,S-3,Attorney General,1,DEM,Janet Stewart,128
+Seward,S-4,Attorney General,1,DEM,Janet Stewart,83
+Seward,Absentee/Early Vote,Attorney General,1,DEM,Janet Stewart,0
+Seward,Provisional,Attorney General,1,DEM,Janet Stewart,0
+Seward,Countywide,Auditor,1,REP,Charlie Janssen,0
+Seward,Absentee/Early Vote,Auditor,1,REP,Charlie Janssen,288
+Seward,B,Auditor,1,REP,Charlie Janssen,77
+Seward,C,Auditor,1,REP,Charlie Janssen,108
+Seward,E,Auditor,1,REP,Charlie Janssen,179
+Seward,G,Auditor,1,REP,Charlie Janssen,104
+Seward,H,Auditor,1,REP,Charlie Janssen,206
+Seward,I,Auditor,1,REP,Charlie Janssen,219
+Seward,J,Auditor,1,REP,Charlie Janssen,83
+Seward,K,Auditor,1,REP,Charlie Janssen,120
+Seward,M-BX,Auditor,1,REP,Charlie Janssen,138
+Seward,M-CO,Auditor,1,REP,Charlie Janssen,84
+Seward,O-1,Auditor,1,REP,Charlie Janssen,155
+Seward,O-2,Auditor,1,REP,Charlie Janssen,227
+Seward,S-1,Auditor,1,REP,Charlie Janssen,376
+Seward,S-2,Auditor,1,REP,Charlie Janssen,356
+Seward,S-3,Auditor,1,REP,Charlie Janssen,231
+Seward,S-4,Auditor,1,REP,Charlie Janssen,170
+Seward,Absentee/Early Vote,Auditor,1,REP,Charlie Janssen,0
+Seward,Provisional,Auditor,1,REP,Charlie Janssen,0
+Seward,Countywide,Auditor,1,DEM,Amanda McGill,0
+Seward,Absentee/Early Vote,Auditor,1,DEM,Amanda McGill,280
+Seward,B,Auditor,1,DEM,Amanda McGill,32
+Seward,C,Auditor,1,DEM,Amanda McGill,87
+Seward,E,Auditor,1,DEM,Amanda McGill,102
+Seward,G,Auditor,1,DEM,Amanda McGill,51
+Seward,H,Auditor,1,DEM,Amanda McGill,142
+Seward,I,Auditor,1,DEM,Amanda McGill,118
+Seward,J,Auditor,1,DEM,Amanda McGill,41
+Seward,K,Auditor,1,DEM,Amanda McGill,73
+Seward,M-BX,Auditor,1,DEM,Amanda McGill,86
+Seward,M-CO,Auditor,1,DEM,Amanda McGill,52
+Seward,O-1,Auditor,1,DEM,Amanda McGill,79
+Seward,O-2,Auditor,1,DEM,Amanda McGill,77
+Seward,S-1,Auditor,1,DEM,Amanda McGill,211
+Seward,S-2,Auditor,1,DEM,Amanda McGill,251
+Seward,S-3,Auditor,1,DEM,Amanda McGill,167
+Seward,S-4,Auditor,1,DEM,Amanda McGill,108
+Seward,Absentee/Early Vote,Auditor,1,DEM,Amanda McGill,0
+Seward,Provisional,Auditor,1,DEM,Amanda McGill,0
+Seward,Countywide,Legislature,LD0024,NON,Mark A. Kolterman,0
+Seward,Absentee/Early Vote,Legislature,LD0024,NON,Mark A. Kolterman,456
+Seward,B,Legislature,LD0024,NON,Mark A. Kolterman,96
+Seward,C,Legislature,LD0024,NON,Mark A. Kolterman,156
+Seward,E,Legislature,LD0024,NON,Mark A. Kolterman,239
+Seward,G,Legislature,LD0024,NON,Mark A. Kolterman,132
+Seward,H,Legislature,LD0024,NON,Mark A. Kolterman,251
+Seward,I,Legislature,LD0024,NON,Mark A. Kolterman,227
+Seward,J,Legislature,LD0024,NON,Mark A. Kolterman,99
+Seward,K,Legislature,LD0024,NON,Mark A. Kolterman,139
+Seward,M-BX,Legislature,LD0024,NON,Mark A. Kolterman,165
+Seward,M-CO,Legislature,LD0024,NON,Mark A. Kolterman,91
+Seward,O-1,Legislature,LD0024,NON,Mark A. Kolterman,175
+Seward,O-2,Legislature,LD0024,NON,Mark A. Kolterman,235
+Seward,S-1,Legislature,LD0024,NON,Mark A. Kolterman,532
+Seward,S-2,Legislature,LD0024,NON,Mark A. Kolterman,558
+Seward,S-3,Legislature,LD0024,NON,Mark A. Kolterman,340
+Seward,S-4,Legislature,LD0024,NON,Mark A. Kolterman,253
+Seward,Absentee/Early Vote,Legislature,LD0024,NON,Mark A. Kolterman,0
+Seward,Provisional,Legislature,LD0024,NON,Mark A. Kolterman,0
+Seward,Countywide,Legislature,LD0024,NON,Kirk Tesar,0
+Seward,Absentee/Early Vote,Legislature,LD0024,NON,Kirk Tesar,101
+Seward,B,Legislature,LD0024,NON,Kirk Tesar,17
+Seward,C,Legislature,LD0024,NON,Kirk Tesar,43
+Seward,E,Legislature,LD0024,NON,Kirk Tesar,48
+Seward,G,Legislature,LD0024,NON,Kirk Tesar,18
+Seward,H,Legislature,LD0024,NON,Kirk Tesar,67
+Seward,I,Legislature,LD0024,NON,Kirk Tesar,55
+Seward,J,Legislature,LD0024,NON,Kirk Tesar,20
+Seward,K,Legislature,LD0024,NON,Kirk Tesar,45
+Seward,M-BX,Legislature,LD0024,NON,Kirk Tesar,39
+Seward,M-CO,Legislature,LD0024,NON,Kirk Tesar,30
+Seward,O-1,Legislature,LD0024,NON,Kirk Tesar,35
+Seward,O-2,Legislature,LD0024,NON,Kirk Tesar,38
+Seward,S-1,Legislature,LD0024,NON,Kirk Tesar,79
+Seward,S-2,Legislature,LD0024,NON,Kirk Tesar,76
+Seward,S-3,Legislature,LD0024,NON,Kirk Tesar,56
+Seward,S-4,Legislature,LD0024,NON,Kirk Tesar,36
+Seward,Absentee/Early Vote,Legislature,LD0024,NON,Kirk Tesar,0
+Seward,Provisional,Legislature,LD0024,NON,Kirk Tesar,0

@@ -1,0 +1,235 @@
+county,precinct,office,district,party,candidate,votes
+Thurston,Countywide,U.S. Senate,1,DEM,Dave Domina,0
+Thurston,Absentee/Early Vote,U.S. Senate,1,DEM,Dave Domina,29
+Thurston,Anderson/Blackbird,U.S. Senate,1,DEM,Dave Domina,114
+Thurston,Bryan,U.S. Senate,1,DEM,Dave Domina,9
+Thurston,Dawes,U.S. Senate,1,DEM,Dave Domina,38
+Thurston,Flournoy/Merry,U.S. Senate,1,DEM,Dave Domina,32
+Thurston,Omaha,U.S. Senate,1,DEM,Dave Domina,125
+Thurston,Pender,U.S. Senate,1,DEM,Dave Domina,127
+Thurston,Perry,U.S. Senate,1,DEM,Dave Domina,19
+Thurston,Thayer,U.S. Senate,1,DEM,Dave Domina,8
+Thurston,Winnebago,U.S. Senate,1,DEM,Dave Domina,156
+Thurston,Absentee/Early Vote,U.S. Senate,1,DEM,Dave Domina,0
+Thurston,Provisional,U.S. Senate,1,DEM,Dave Domina,6
+Thurston,Countywide,U.S. Senate,1,,Jim Jenkins,0
+Thurston,Absentee/Early Vote,U.S. Senate,1,,Jim Jenkins,1
+Thurston,Anderson/Blackbird,U.S. Senate,1,,Jim Jenkins,1
+Thurston,Bryan,U.S. Senate,1,,Jim Jenkins,1
+Thurston,Dawes,U.S. Senate,1,,Jim Jenkins,3
+Thurston,Flournoy/Merry,U.S. Senate,1,,Jim Jenkins,2
+Thurston,Omaha,U.S. Senate,1,,Jim Jenkins,7
+Thurston,Pender,U.S. Senate,1,,Jim Jenkins,9
+Thurston,Perry,U.S. Senate,1,,Jim Jenkins,0
+Thurston,Thayer,U.S. Senate,1,,Jim Jenkins,0
+Thurston,Winnebago,U.S. Senate,1,,Jim Jenkins,2
+Thurston,Absentee/Early Vote,U.S. Senate,1,,Jim Jenkins,0
+Thurston,Provisional,U.S. Senate,1,,Jim Jenkins,0
+Thurston,Countywide,U.S. Senate,1,REP,Ben Sasse,0
+Thurston,Absentee/Early Vote,U.S. Senate,1,REP,Ben Sasse,54
+Thurston,Anderson/Blackbird,U.S. Senate,1,REP,Ben Sasse,18
+Thurston,Bryan,U.S. Senate,1,REP,Ben Sasse,26
+Thurston,Dawes,U.S. Senate,1,REP,Ben Sasse,52
+Thurston,Flournoy/Merry,U.S. Senate,1,REP,Ben Sasse,70
+Thurston,Omaha,U.S. Senate,1,REP,Ben Sasse,92
+Thurston,Pender,U.S. Senate,1,REP,Ben Sasse,292
+Thurston,Perry,U.S. Senate,1,REP,Ben Sasse,44
+Thurston,Thayer,U.S. Senate,1,REP,Ben Sasse,30
+Thurston,Winnebago,U.S. Senate,1,REP,Ben Sasse,32
+Thurston,Absentee/Early Vote,U.S. Senate,1,REP,Ben Sasse,0
+Thurston,Provisional,U.S. Senate,1,REP,Ben Sasse,3
+Thurston,Countywide,U.S. Senate,1,,Todd F. Watson,0
+Thurston,Absentee/Early Vote,U.S. Senate,1,,Todd F. Watson,0
+Thurston,Anderson/Blackbird,U.S. Senate,1,,Todd F. Watson,2
+Thurston,Bryan,U.S. Senate,1,,Todd F. Watson,0
+Thurston,Dawes,U.S. Senate,1,,Todd F. Watson,1
+Thurston,Flournoy/Merry,U.S. Senate,1,,Todd F. Watson,1
+Thurston,Omaha,U.S. Senate,1,,Todd F. Watson,2
+Thurston,Pender,U.S. Senate,1,,Todd F. Watson,7
+Thurston,Perry,U.S. Senate,1,,Todd F. Watson,2
+Thurston,Thayer,U.S. Senate,1,,Todd F. Watson,0
+Thurston,Winnebago,U.S. Senate,1,,Todd F. Watson,2
+Thurston,Absentee/Early Vote,U.S. Senate,1,,Todd F. Watson,0
+Thurston,Provisional,U.S. Senate,1,,Todd F. Watson,1
+Thurston,Countywide,Representative,1,DEM,Dennis P. Crawford,0
+Thurston,Absentee/Early Vote,Representative,1,DEM,Dennis P. Crawford,15
+Thurston,Anderson/Blackbird,Representative,1,DEM,Dennis P. Crawford,92
+Thurston,Bryan,Representative,1,DEM,Dennis P. Crawford,4
+Thurston,Dawes,Representative,1,DEM,Dennis P. Crawford,26
+Thurston,Flournoy/Merry,Representative,1,DEM,Dennis P. Crawford,20
+Thurston,Omaha,Representative,1,DEM,Dennis P. Crawford,100
+Thurston,Pender,Representative,1,DEM,Dennis P. Crawford,62
+Thurston,Perry,Representative,1,DEM,Dennis P. Crawford,15
+Thurston,Thayer,Representative,1,DEM,Dennis P. Crawford,3
+Thurston,Winnebago,Representative,1,DEM,Dennis P. Crawford,133
+Thurston,Absentee/Early Vote,Representative,1,DEM,Dennis P. Crawford,0
+Thurston,Provisional,Representative,1,DEM,Dennis P. Crawford,6
+Thurston,Countywide,Representative,1,REP,Jeff Fortenberry,0
+Thurston,Absentee/Early Vote,Representative,1,REP,Jeff Fortenberry,69
+Thurston,Anderson/Blackbird,Representative,1,REP,Jeff Fortenberry,34
+Thurston,Bryan,Representative,1,REP,Jeff Fortenberry,33
+Thurston,Dawes,Representative,1,REP,Jeff Fortenberry,71
+Thurston,Flournoy/Merry,Representative,1,REP,Jeff Fortenberry,85
+Thurston,Omaha,Representative,1,REP,Jeff Fortenberry,119
+Thurston,Pender,Representative,1,REP,Jeff Fortenberry,379
+Thurston,Perry,Representative,1,REP,Jeff Fortenberry,53
+Thurston,Thayer,Representative,1,REP,Jeff Fortenberry,35
+Thurston,Winnebago,Representative,1,REP,Jeff Fortenberry,54
+Thurston,Absentee/Early Vote,Representative,1,REP,Jeff Fortenberry,0
+Thurston,Provisional,Representative,1,REP,Jeff Fortenberry,3
+Thurston,Countywide,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Thurston,Absentee/Early Vote,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,33
+Thurston,Anderson/Blackbird,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,113
+Thurston,Bryan,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,15
+Thurston,Dawes,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,52
+Thurston,Flournoy/Merry,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,40
+Thurston,Omaha,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,155
+Thurston,Pender,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,184
+Thurston,Perry,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,26
+Thurston,Thayer,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,13
+Thurston,Winnebago,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,158
+Thurston,Absentee/Early Vote,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Thurston,Provisional,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,7
+Thurston,Countywide,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Thurston,Absentee/Early Vote,Governor,1,REP,Pete Ricketts and Mike Foley,51
+Thurston,Anderson/Blackbird,Governor,1,REP,Pete Ricketts and Mike Foley,21
+Thurston,Bryan,Governor,1,REP,Pete Ricketts and Mike Foley,21
+Thurston,Dawes,Governor,1,REP,Pete Ricketts and Mike Foley,43
+Thurston,Flournoy/Merry,Governor,1,REP,Pete Ricketts and Mike Foley,67
+Thurston,Omaha,Governor,1,REP,Pete Ricketts and Mike Foley,71
+Thurston,Pender,Governor,1,REP,Pete Ricketts and Mike Foley,257
+Thurston,Perry,Governor,1,REP,Pete Ricketts and Mike Foley,36
+Thurston,Thayer,Governor,1,REP,Pete Ricketts and Mike Foley,25
+Thurston,Winnebago,Governor,1,REP,Pete Ricketts and Mike Foley,32
+Thurston,Absentee/Early Vote,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Thurston,Provisional,Governor,1,REP,Pete Ricketts and Mike Foley,2
+Thurston,Countywide,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Thurston,Absentee/Early Vote,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,1
+Thurston,Anderson/Blackbird,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Thurston,Bryan,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Thurston,Dawes,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,2
+Thurston,Flournoy/Merry,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,1
+Thurston,Omaha,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,7
+Thurston,Pender,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+Thurston,Perry,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Thurston,Thayer,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Thurston,Winnebago,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,2
+Thurston,Absentee/Early Vote,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Thurston,Provisional,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Thurston,Countywide,Secretary of State,1,LIB,Ben Backus,0
+Thurston,Absentee/Early Vote,Secretary of State,1,LIB,Ben Backus,15
+Thurston,Anderson/Blackbird,Secretary of State,1,LIB,Ben Backus,68
+Thurston,Bryan,Secretary of State,1,LIB,Ben Backus,6
+Thurston,Dawes,Secretary of State,1,LIB,Ben Backus,20
+Thurston,Flournoy/Merry,Secretary of State,1,LIB,Ben Backus,23
+Thurston,Omaha,Secretary of State,1,LIB,Ben Backus,96
+Thurston,Pender,Secretary of State,1,LIB,Ben Backus,58
+Thurston,Perry,Secretary of State,1,LIB,Ben Backus,18
+Thurston,Thayer,Secretary of State,1,LIB,Ben Backus,4
+Thurston,Winnebago,Secretary of State,1,LIB,Ben Backus,122
+Thurston,Absentee/Early Vote,Secretary of State,1,LIB,Ben Backus,0
+Thurston,Provisional,Secretary of State,1,LIB,Ben Backus,7
+Thurston,Countywide,Secretary of State,1,REP,John A. Gale,0
+Thurston,Absentee/Early Vote,Secretary of State,1,REP,John A. Gale,60
+Thurston,Anderson/Blackbird,Secretary of State,1,REP,John A. Gale,17
+Thurston,Bryan,Secretary of State,1,REP,John A. Gale,28
+Thurston,Dawes,Secretary of State,1,REP,John A. Gale,60
+Thurston,Flournoy/Merry,Secretary of State,1,REP,John A. Gale,73
+Thurston,Omaha,Secretary of State,1,REP,John A. Gale,74
+Thurston,Pender,Secretary of State,1,REP,John A. Gale,334
+Thurston,Perry,Secretary of State,1,REP,John A. Gale,40
+Thurston,Thayer,Secretary of State,1,REP,John A. Gale,27
+Thurston,Winnebago,Secretary of State,1,REP,John A. Gale,42
+Thurston,Absentee/Early Vote,Secretary of State,1,REP,John A. Gale,0
+Thurston,Provisional,Secretary of State,1,REP,John A. Gale,2
+Thurston,Countywide,State Treasurer,1,LIB,Michael Knebel,0
+Thurston,Absentee/Early Vote,State Treasurer,1,LIB,Michael Knebel,5
+Thurston,Anderson/Blackbird,State Treasurer,1,LIB,Michael Knebel,4
+Thurston,Bryan,State Treasurer,1,LIB,Michael Knebel,1
+Thurston,Dawes,State Treasurer,1,LIB,Michael Knebel,6
+Thurston,Flournoy/Merry,State Treasurer,1,LIB,Michael Knebel,6
+Thurston,Omaha,State Treasurer,1,LIB,Michael Knebel,6
+Thurston,Pender,State Treasurer,1,LIB,Michael Knebel,17
+Thurston,Perry,State Treasurer,1,LIB,Michael Knebel,6
+Thurston,Thayer,State Treasurer,1,LIB,Michael Knebel,0
+Thurston,Winnebago,State Treasurer,1,LIB,Michael Knebel,10
+Thurston,Absentee/Early Vote,State Treasurer,1,LIB,Michael Knebel,0
+Thurston,Provisional,State Treasurer,1,LIB,Michael Knebel,0
+Thurston,Countywide,State Treasurer,1,DEM,Michael J. O'Hara,0
+Thurston,Absentee/Early Vote,State Treasurer,1,DEM,Michael J. O'Hara,18
+Thurston,Anderson/Blackbird,State Treasurer,1,DEM,Michael J. O'Hara,102
+Thurston,Bryan,State Treasurer,1,DEM,Michael J. O'Hara,5
+Thurston,Dawes,State Treasurer,1,DEM,Michael J. O'Hara,25
+Thurston,Flournoy/Merry,State Treasurer,1,DEM,Michael J. O'Hara,18
+Thurston,Omaha,State Treasurer,1,DEM,Michael J. O'Hara,102
+Thurston,Pender,State Treasurer,1,DEM,Michael J. O'Hara,60
+Thurston,Perry,State Treasurer,1,DEM,Michael J. O'Hara,10
+Thurston,Thayer,State Treasurer,1,DEM,Michael J. O'Hara,5
+Thurston,Winnebago,State Treasurer,1,DEM,Michael J. O'Hara,140
+Thurston,Absentee/Early Vote,State Treasurer,1,DEM,Michael J. O'Hara,0
+Thurston,Provisional,State Treasurer,1,DEM,Michael J. O'Hara,7
+Thurston,Countywide,State Treasurer,1,REP,Don Stenberg,0
+Thurston,Absentee/Early Vote,State Treasurer,1,REP,Don Stenberg,56
+Thurston,Anderson/Blackbird,State Treasurer,1,REP,Don Stenberg,18
+Thurston,Bryan,State Treasurer,1,REP,Don Stenberg,26
+Thurston,Dawes,State Treasurer,1,REP,Don Stenberg,57
+Thurston,Flournoy/Merry,State Treasurer,1,REP,Don Stenberg,82
+Thurston,Omaha,State Treasurer,1,REP,Don Stenberg,95
+Thurston,Pender,State Treasurer,1,REP,Don Stenberg,339
+Thurston,Perry,State Treasurer,1,REP,Don Stenberg,44
+Thurston,Thayer,State Treasurer,1,REP,Don Stenberg,30
+Thurston,Winnebago,State Treasurer,1,REP,Don Stenberg,35
+Thurston,Absentee/Early Vote,State Treasurer,1,REP,Don Stenberg,0
+Thurston,Provisional,State Treasurer,1,REP,Don Stenberg,2
+Thurston,Countywide,Attorney General,1,REP,Doug Peterson,0
+Thurston,Absentee/Early Vote,Attorney General,1,REP,Doug Peterson,59
+Thurston,Anderson/Blackbird,Attorney General,1,REP,Doug Peterson,11
+Thurston,Bryan,Attorney General,1,REP,Doug Peterson,24
+Thurston,Dawes,Attorney General,1,REP,Doug Peterson,52
+Thurston,Flournoy/Merry,Attorney General,1,REP,Doug Peterson,71
+Thurston,Omaha,Attorney General,1,REP,Doug Peterson,92
+Thurston,Pender,Attorney General,1,REP,Doug Peterson,304
+Thurston,Perry,Attorney General,1,REP,Doug Peterson,40
+Thurston,Thayer,Attorney General,1,REP,Doug Peterson,26
+Thurston,Winnebago,Attorney General,1,REP,Doug Peterson,33
+Thurston,Absentee/Early Vote,Attorney General,1,REP,Doug Peterson,0
+Thurston,Provisional,Attorney General,1,REP,Doug Peterson,2
+Thurston,Countywide,Attorney General,1,DEM,Janet Stewart,0
+Thurston,Absentee/Early Vote,Attorney General,1,DEM,Janet Stewart,20
+Thurston,Anderson/Blackbird,Attorney General,1,DEM,Janet Stewart,110
+Thurston,Bryan,Attorney General,1,DEM,Janet Stewart,9
+Thurston,Dawes,Attorney General,1,DEM,Janet Stewart,34
+Thurston,Flournoy/Merry,Attorney General,1,DEM,Janet Stewart,29
+Thurston,Omaha,Attorney General,1,DEM,Janet Stewart,116
+Thurston,Pender,Attorney General,1,DEM,Janet Stewart,94
+Thurston,Perry,Attorney General,1,DEM,Janet Stewart,16
+Thurston,Thayer,Attorney General,1,DEM,Janet Stewart,8
+Thurston,Winnebago,Attorney General,1,DEM,Janet Stewart,152
+Thurston,Absentee/Early Vote,Attorney General,1,DEM,Janet Stewart,0
+Thurston,Provisional,Attorney General,1,DEM,Janet Stewart,6
+Thurston,Countywide,Auditor,1,REP,Charlie Janssen,0
+Thurston,Absentee/Early Vote,Auditor,1,REP,Charlie Janssen,52
+Thurston,Anderson/Blackbird,Auditor,1,REP,Charlie Janssen,12
+Thurston,Bryan,Auditor,1,REP,Charlie Janssen,20
+Thurston,Dawes,Auditor,1,REP,Charlie Janssen,48
+Thurston,Flournoy/Merry,Auditor,1,REP,Charlie Janssen,66
+Thurston,Omaha,Auditor,1,REP,Charlie Janssen,89
+Thurston,Pender,Auditor,1,REP,Charlie Janssen,283
+Thurston,Perry,Auditor,1,REP,Charlie Janssen,38
+Thurston,Thayer,Auditor,1,REP,Charlie Janssen,25
+Thurston,Winnebago,Auditor,1,REP,Charlie Janssen,31
+Thurston,Absentee/Early Vote,Auditor,1,REP,Charlie Janssen,0
+Thurston,Provisional,Auditor,1,REP,Charlie Janssen,1
+Thurston,Countywide,Auditor,1,DEM,Amanda McGill,0
+Thurston,Absentee/Early Vote,Auditor,1,DEM,Amanda McGill,23
+Thurston,Anderson/Blackbird,Auditor,1,DEM,Amanda McGill,105
+Thurston,Bryan,Auditor,1,DEM,Amanda McGill,12
+Thurston,Dawes,Auditor,1,DEM,Amanda McGill,35
+Thurston,Flournoy/Merry,Auditor,1,DEM,Amanda McGill,28
+Thurston,Omaha,Auditor,1,DEM,Amanda McGill,114
+Thurston,Pender,Auditor,1,DEM,Amanda McGill,101
+Thurston,Perry,Auditor,1,DEM,Amanda McGill,15
+Thurston,Thayer,Auditor,1,DEM,Amanda McGill,8
+Thurston,Winnebago,Auditor,1,DEM,Amanda McGill,154
+Thurston,Absentee/Early Vote,Auditor,1,DEM,Amanda McGill,0
+Thurston,Provisional,Auditor,1,DEM,Amanda McGill,6

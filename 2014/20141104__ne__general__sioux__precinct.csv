@@ -1,0 +1,109 @@
+county,precinct,office,district,party,candidate,votes
+Sioux,Countywide,U.S. Senate,3,DEM,Dave Domina,0
+Sioux,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,11
+Sioux,Bowen,U.S. Senate,3,DEM,Dave Domina,40
+Sioux,Sheep Creek,U.S. Senate,3,DEM,Dave Domina,18
+Sioux,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,4
+Sioux,Provisional,U.S. Senate,3,DEM,Dave Domina,0
+Sioux,Countywide,U.S. Senate,3,,Jim Jenkins,0
+Sioux,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,0
+Sioux,Bowen,U.S. Senate,3,,Jim Jenkins,5
+Sioux,Sheep Creek,U.S. Senate,3,,Jim Jenkins,2
+Sioux,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,0
+Sioux,Provisional,U.S. Senate,3,,Jim Jenkins,1
+Sioux,Countywide,U.S. Senate,3,REP,Ben Sasse,0
+Sioux,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,58
+Sioux,Bowen,U.S. Senate,3,REP,Ben Sasse,228
+Sioux,Sheep Creek,U.S. Senate,3,REP,Ben Sasse,129
+Sioux,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,26
+Sioux,Provisional,U.S. Senate,3,REP,Ben Sasse,3
+Sioux,Countywide,U.S. Senate,3,,Todd F. Watson,0
+Sioux,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,0
+Sioux,Bowen,U.S. Senate,3,,Todd F. Watson,3
+Sioux,Sheep Creek,U.S. Senate,3,,Todd F. Watson,2
+Sioux,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,2
+Sioux,Provisional,U.S. Senate,3,,Todd F. Watson,0
+Sioux,Countywide,Representative,3,REP,Adrian Smith,0
+Sioux,Absentee/Early Vote,Representative,3,REP,Adrian Smith,57
+Sioux,Bowen,Representative,3,REP,Adrian Smith,240
+Sioux,Sheep Creek,Representative,3,REP,Adrian Smith,128
+Sioux,Absentee/Early Vote,Representative,3,REP,Adrian Smith,26
+Sioux,Provisional,Representative,3,REP,Adrian Smith,5
+Sioux,Countywide,Representative,3,DEM,Mark Sullivan,0
+Sioux,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,12
+Sioux,Bowen,Representative,3,DEM,Mark Sullivan,39
+Sioux,Sheep Creek,Representative,3,DEM,Mark Sullivan,22
+Sioux,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,5
+Sioux,Provisional,Representative,3,DEM,Mark Sullivan,0
+Sioux,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Sioux,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,6
+Sioux,Bowen,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,42
+Sioux,Sheep Creek,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,18
+Sioux,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,2
+Sioux,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,1
+Sioux,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Sioux,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,59
+Sioux,Bowen,Governor,3,REP,Pete Ricketts and Mike Foley,226
+Sioux,Sheep Creek,Governor,3,REP,Pete Ricketts and Mike Foley,133
+Sioux,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,28
+Sioux,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,3
+Sioux,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Sioux,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,2
+Sioux,Bowen,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,11
+Sioux,Sheep Creek,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,1
+Sioux,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,2
+Sioux,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,1
+Sioux,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Sioux,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,11
+Sioux,Bowen,Secretary of State,3,LIB,Ben Backus,28
+Sioux,Sheep Creek,Secretary of State,3,LIB,Ben Backus,14
+Sioux,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,8
+Sioux,Provisional,Secretary of State,3,LIB,Ben Backus,2
+Sioux,Countywide,Secretary of State,3,REP,John A. Gale,0
+Sioux,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,55
+Sioux,Bowen,Secretary of State,3,REP,John A. Gale,233
+Sioux,Sheep Creek,Secretary of State,3,REP,John A. Gale,133
+Sioux,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,24
+Sioux,Provisional,Secretary of State,3,REP,John A. Gale,2
+Sioux,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Sioux,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,6
+Sioux,Bowen,State Treasurer,3,LIB,Michael Knebel,15
+Sioux,Sheep Creek,State Treasurer,3,LIB,Michael Knebel,3
+Sioux,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,4
+Sioux,Provisional,State Treasurer,3,LIB,Michael Knebel,0
+Sioux,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Sioux,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,8
+Sioux,Bowen,State Treasurer,3,DEM,Michael J. O'Hara,30
+Sioux,Sheep Creek,State Treasurer,3,DEM,Michael J. O'Hara,15
+Sioux,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,1
+Sioux,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,0
+Sioux,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Sioux,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,56
+Sioux,Bowen,State Treasurer,3,REP,Don Stenberg,225
+Sioux,Sheep Creek,State Treasurer,3,REP,Don Stenberg,132
+Sioux,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,25
+Sioux,Provisional,State Treasurer,3,REP,Don Stenberg,4
+Sioux,Countywide,Attorney General,3,REP,Doug Peterson,0
+Sioux,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,59
+Sioux,Bowen,Attorney General,3,REP,Doug Peterson,218
+Sioux,Sheep Creek,Attorney General,3,REP,Doug Peterson,123
+Sioux,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,29
+Sioux,Provisional,Attorney General,3,REP,Doug Peterson,3
+Sioux,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Sioux,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,8
+Sioux,Bowen,Attorney General,3,DEM,Janet Stewart,42
+Sioux,Sheep Creek,Attorney General,3,DEM,Janet Stewart,21
+Sioux,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,2
+Sioux,Provisional,Attorney General,3,DEM,Janet Stewart,0
+Sioux,Countywide,Auditor,3,REP,Charlie Janssen,0
+Sioux,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,53
+Sioux,Bowen,Auditor,3,REP,Charlie Janssen,192
+Sioux,Sheep Creek,Auditor,3,REP,Charlie Janssen,120
+Sioux,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,28
+Sioux,Provisional,Auditor,3,REP,Charlie Janssen,3
+Sioux,Countywide,Auditor,3,DEM,Amanda McGill,0
+Sioux,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,9
+Sioux,Bowen,Auditor,3,DEM,Amanda McGill,45
+Sioux,Sheep Creek,Auditor,3,DEM,Amanda McGill,19
+Sioux,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,3
+Sioux,Provisional,Auditor,3,DEM,Amanda McGill,1

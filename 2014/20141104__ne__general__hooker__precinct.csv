@@ -1,0 +1,91 @@
+county,precinct,office,district,party,candidate,votes
+Hooker,Countywide,U.S. Senate,3,DEM,Dave Domina,0
+Hooker,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,9
+Hooker,Precinct 1,U.S. Senate,3,DEM,Dave Domina,35
+Hooker,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,0
+Hooker,Provisional,U.S. Senate,3,DEM,Dave Domina,0
+Hooker,Countywide,U.S. Senate,3,,Jim Jenkins,0
+Hooker,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,2
+Hooker,Precinct 1,U.S. Senate,3,,Jim Jenkins,31
+Hooker,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,0
+Hooker,Provisional,U.S. Senate,3,,Jim Jenkins,0
+Hooker,Countywide,U.S. Senate,3,REP,Ben Sasse,0
+Hooker,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,27
+Hooker,Precinct 1,U.S. Senate,3,REP,Ben Sasse,185
+Hooker,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,0
+Hooker,Provisional,U.S. Senate,3,REP,Ben Sasse,0
+Hooker,Countywide,U.S. Senate,3,,Todd F. Watson,0
+Hooker,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,0
+Hooker,Precinct 1,U.S. Senate,3,,Todd F. Watson,5
+Hooker,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,0
+Hooker,Provisional,U.S. Senate,3,,Todd F. Watson,0
+Hooker,Countywide,U.S. House,3,REP,Adrian Smith,0
+Hooker,Absentee/Early Vote,U.S. House,3,REP,Adrian Smith,31
+Hooker,Precinct 1,U.S. House,3,REP,Adrian Smith,223
+Hooker,Absentee/Early Vote,U.S. House,3,REP,Adrian Smith,0
+Hooker,Provisional,U.S. House,3,REP,Adrian Smith,0
+Hooker,Countywide,U.S. House,3,DEM,Mark Sullivan,0
+Hooker,Absentee/Early Vote,U.S. House,3,DEM,Mark Sullivan,6
+Hooker,Precinct 1,U.S. House,3,DEM,Mark Sullivan,28
+Hooker,Absentee/Early Vote,U.S. House,3,DEM,Mark Sullivan,0
+Hooker,Provisional,U.S. House,3,DEM,Mark Sullivan,0
+Hooker,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Hooker,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,12
+Hooker,Precinct 1,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,45
+Hooker,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Hooker,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Hooker,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Hooker,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,24
+Hooker,Precinct 1,Governor,3,REP,Pete Ricketts and Mike Foley,194
+Hooker,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Hooker,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Hooker,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Hooker,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Hooker,Precinct 1,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Hooker,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Hooker,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Hooker,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Hooker,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,5
+Hooker,Precinct 1,Secretary of State,3,LIB,Ben Backus,15
+Hooker,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Hooker,Provisional,Secretary of State,3,LIB,Ben Backus,0
+Hooker,Countywide,Secretary of State,3,REP,John A. Gale,0
+Hooker,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,27
+Hooker,Precinct 1,Secretary of State,3,REP,John A. Gale,217
+Hooker,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Hooker,Provisional,Secretary of State,3,REP,John A. Gale,0
+Hooker,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Hooker,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,2
+Hooker,Precinct 1,State Treasurer,3,LIB,Michael Knebel,6
+Hooker,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Hooker,Provisional,State Treasurer,3,LIB,Michael Knebel,0
+Hooker,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Hooker,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,6
+Hooker,Precinct 1,State Treasurer,3,DEM,Michael J. O'Hara,24
+Hooker,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Hooker,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,0
+Hooker,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Hooker,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,27
+Hooker,Precinct 1,State Treasurer,3,REP,Don Stenberg,207
+Hooker,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Hooker,Provisional,State Treasurer,3,REP,Don Stenberg,0
+Hooker,Countywide,Attorney General,3,REP,Doug Peterson,0
+Hooker,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,26
+Hooker,Precinct 1,Attorney General,3,REP,Doug Peterson,192
+Hooker,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Hooker,Provisional,Attorney General,3,REP,Doug Peterson,0
+Hooker,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Hooker,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,7
+Hooker,Precinct 1,Attorney General,3,DEM,Janet Stewart,34
+Hooker,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Hooker,Provisional,Attorney General,3,DEM,Janet Stewart,0
+Hooker,Countywide,Auditor,3,REP,Charlie Janssen,0
+Hooker,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,24
+Hooker,Precinct 1,Auditor,3,REP,Charlie Janssen,172
+Hooker,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Hooker,Provisional,Auditor,3,REP,Charlie Janssen,0
+Hooker,Countywide,Auditor,3,DEM,Amanda McGill,0
+Hooker,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,7
+Hooker,Precinct 1,Auditor,3,DEM,Amanda McGill,36
+Hooker,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Hooker,Provisional,Auditor,3,DEM,Amanda McGill,0

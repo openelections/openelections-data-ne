@@ -1,0 +1,241 @@
+county,precinct,office,district,party,candidate,votes
+Furnas,Countywide,U.S. Senate,3,DEM,Dave Domina,0
+Furnas,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,0
+Furnas,Arapahoe,U.S. Senate,3,DEM,Dave Domina,46
+Furnas,Beaver City,U.S. Senate,3,DEM,Dave Domina,42
+Furnas,Cambridge,U.S. Senate,3,DEM,Dave Domina,49
+Furnas,Edison,U.S. Senate,3,DEM,Dave Domina,8
+Furnas,Hendley,U.S. Senate,3,DEM,Dave Domina,10
+Furnas,Holbrook,U.S. Senate,3,DEM,Dave Domina,18
+Furnas,Oxford,U.S. Senate,3,DEM,Dave Domina,28
+Furnas,Wilsonville,U.S. Senate,3,DEM,Dave Domina,12
+Furnas,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,0
+Furnas,Provisional,U.S. Senate,3,DEM,Dave Domina,1
+Furnas,Countywide,U.S. Senate,3,,Jim Jenkins,0
+Furnas,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,0
+Furnas,Arapahoe,U.S. Senate,3,,Jim Jenkins,16
+Furnas,Beaver City,U.S. Senate,3,,Jim Jenkins,3
+Furnas,Cambridge,U.S. Senate,3,,Jim Jenkins,11
+Furnas,Edison,U.S. Senate,3,,Jim Jenkins,2
+Furnas,Hendley,U.S. Senate,3,,Jim Jenkins,2
+Furnas,Holbrook,U.S. Senate,3,,Jim Jenkins,3
+Furnas,Oxford,U.S. Senate,3,,Jim Jenkins,4
+Furnas,Wilsonville,U.S. Senate,3,,Jim Jenkins,2
+Furnas,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,0
+Furnas,Provisional,U.S. Senate,3,,Jim Jenkins,0
+Furnas,Countywide,U.S. Senate,3,REP,Ben Sasse,0
+Furnas,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,0
+Furnas,Arapahoe,U.S. Senate,3,REP,Ben Sasse,333
+Furnas,Beaver City,U.S. Senate,3,REP,Ben Sasse,213
+Furnas,Cambridge,U.S. Senate,3,REP,Ben Sasse,346
+Furnas,Edison,U.S. Senate,3,REP,Ben Sasse,68
+Furnas,Hendley,U.S. Senate,3,REP,Ben Sasse,59
+Furnas,Holbrook,U.S. Senate,3,REP,Ben Sasse,79
+Furnas,Oxford,U.S. Senate,3,REP,Ben Sasse,186
+Furnas,Wilsonville,U.S. Senate,3,REP,Ben Sasse,57
+Furnas,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,0
+Furnas,Provisional,U.S. Senate,3,REP,Ben Sasse,3
+Furnas,Countywide,U.S. Senate,3,,Todd F. Watson,0
+Furnas,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,0
+Furnas,Arapahoe,U.S. Senate,3,,Todd F. Watson,22
+Furnas,Beaver City,U.S. Senate,3,,Todd F. Watson,11
+Furnas,Cambridge,U.S. Senate,3,,Todd F. Watson,9
+Furnas,Edison,U.S. Senate,3,,Todd F. Watson,5
+Furnas,Hendley,U.S. Senate,3,,Todd F. Watson,6
+Furnas,Holbrook,U.S. Senate,3,,Todd F. Watson,5
+Furnas,Oxford,U.S. Senate,3,,Todd F. Watson,3
+Furnas,Wilsonville,U.S. Senate,3,,Todd F. Watson,2
+Furnas,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,0
+Furnas,Provisional,U.S. Senate,3,,Todd F. Watson,0
+Furnas,Countywide,U.S. House,3,REP,Adrian Smith,0
+Furnas,Absentee/Early Vote,U.S. House,3,REP,Adrian Smith,0
+Furnas,Arapahoe,U.S. House,3,REP,Adrian Smith,362
+Furnas,Beaver City,U.S. House,3,REP,Adrian Smith,209
+Furnas,Cambridge,U.S. House,3,REP,Adrian Smith,346
+Furnas,Edison,U.S. House,3,REP,Adrian Smith,72
+Furnas,Hendley,U.S. House,3,REP,Adrian Smith,61
+Furnas,Holbrook,U.S. House,3,REP,Adrian Smith,87
+Furnas,Oxford,U.S. House,3,REP,Adrian Smith,200
+Furnas,Wilsonville,U.S. House,3,REP,Adrian Smith,56
+Furnas,Absentee/Early Vote,U.S. House,3,REP,Adrian Smith,0
+Furnas,Provisional,U.S. House,3,REP,Adrian Smith,3
+Furnas,Countywide,U.S. House,3,DEM,Mark Sullivan,0
+Furnas,Absentee/Early Vote,U.S. House,3,DEM,Mark Sullivan,0
+Furnas,Arapahoe,U.S. House,3,DEM,Mark Sullivan,55
+Furnas,Beaver City,U.S. House,3,DEM,Mark Sullivan,59
+Furnas,Cambridge,U.S. House,3,DEM,Mark Sullivan,71
+Furnas,Edison,U.S. House,3,DEM,Mark Sullivan,11
+Furnas,Hendley,U.S. House,3,DEM,Mark Sullivan,15
+Furnas,Holbrook,U.S. House,3,DEM,Mark Sullivan,19
+Furnas,Oxford,U.S. House,3,DEM,Mark Sullivan,43
+Furnas,Wilsonville,U.S. House,3,DEM,Mark Sullivan,16
+Furnas,Absentee/Early Vote,U.S. House,3,DEM,Mark Sullivan,0
+Furnas,Provisional,U.S. House,3,DEM,Mark Sullivan,1
+Furnas,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Furnas,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Furnas,Arapahoe,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,106
+Furnas,Beaver City,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,94
+Furnas,Cambridge,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,116
+Furnas,Edison,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,22
+Furnas,Hendley,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,20
+Furnas,Holbrook,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,33
+Furnas,Oxford,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,61
+Furnas,Wilsonville,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,24
+Furnas,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Furnas,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,1
+Furnas,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Furnas,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Furnas,Arapahoe,Governor,3,REP,Pete Ricketts and Mike Foley,290
+Furnas,Beaver City,Governor,3,REP,Pete Ricketts and Mike Foley,161
+Furnas,Cambridge,Governor,3,REP,Pete Ricketts and Mike Foley,276
+Furnas,Edison,Governor,3,REP,Pete Ricketts and Mike Foley,53
+Furnas,Hendley,Governor,3,REP,Pete Ricketts and Mike Foley,53
+Furnas,Holbrook,Governor,3,REP,Pete Ricketts and Mike Foley,65
+Furnas,Oxford,Governor,3,REP,Pete Ricketts and Mike Foley,153
+Furnas,Wilsonville,Governor,3,REP,Pete Ricketts and Mike Foley,46
+Furnas,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Furnas,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,3
+Furnas,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Furnas,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Furnas,Arapahoe,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,20
+Furnas,Beaver City,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Furnas,Cambridge,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,21
+Furnas,Edison,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Furnas,Hendley,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,2
+Furnas,Holbrook,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,9
+Furnas,Oxford,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,19
+Furnas,Wilsonville,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,2
+Furnas,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Furnas,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Furnas,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Furnas,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Furnas,Arapahoe,Secretary of State,3,LIB,Ben Backus,48
+Furnas,Beaver City,Secretary of State,3,LIB,Ben Backus,31
+Furnas,Cambridge,Secretary of State,3,LIB,Ben Backus,51
+Furnas,Edison,Secretary of State,3,LIB,Ben Backus,13
+Furnas,Hendley,Secretary of State,3,LIB,Ben Backus,9
+Furnas,Holbrook,Secretary of State,3,LIB,Ben Backus,13
+Furnas,Oxford,Secretary of State,3,LIB,Ben Backus,31
+Furnas,Wilsonville,Secretary of State,3,LIB,Ben Backus,7
+Furnas,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Furnas,Provisional,Secretary of State,3,LIB,Ben Backus,1
+Furnas,Countywide,Secretary of State,3,REP,John A. Gale,0
+Furnas,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Furnas,Arapahoe,Secretary of State,3,REP,John A. Gale,347
+Furnas,Beaver City,Secretary of State,3,REP,John A. Gale,217
+Furnas,Cambridge,Secretary of State,3,REP,John A. Gale,332
+Furnas,Edison,Secretary of State,3,REP,John A. Gale,67
+Furnas,Hendley,Secretary of State,3,REP,John A. Gale,65
+Furnas,Holbrook,Secretary of State,3,REP,John A. Gale,83
+Furnas,Oxford,Secretary of State,3,REP,John A. Gale,196
+Furnas,Wilsonville,Secretary of State,3,REP,John A. Gale,61
+Furnas,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Furnas,Provisional,Secretary of State,3,REP,John A. Gale,2
+Furnas,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Furnas,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Furnas,Arapahoe,State Treasurer,3,LIB,Michael Knebel,16
+Furnas,Beaver City,State Treasurer,3,LIB,Michael Knebel,14
+Furnas,Cambridge,State Treasurer,3,LIB,Michael Knebel,17
+Furnas,Edison,State Treasurer,3,LIB,Michael Knebel,4
+Furnas,Hendley,State Treasurer,3,LIB,Michael Knebel,3
+Furnas,Holbrook,State Treasurer,3,LIB,Michael Knebel,3
+Furnas,Oxford,State Treasurer,3,LIB,Michael Knebel,15
+Furnas,Wilsonville,State Treasurer,3,LIB,Michael Knebel,2
+Furnas,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Furnas,Provisional,State Treasurer,3,LIB,Michael Knebel,0
+Furnas,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Furnas,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Furnas,Arapahoe,State Treasurer,3,DEM,Michael J. O'Hara,38
+Furnas,Beaver City,State Treasurer,3,DEM,Michael J. O'Hara,35
+Furnas,Cambridge,State Treasurer,3,DEM,Michael J. O'Hara,51
+Furnas,Edison,State Treasurer,3,DEM,Michael J. O'Hara,10
+Furnas,Hendley,State Treasurer,3,DEM,Michael J. O'Hara,8
+Furnas,Holbrook,State Treasurer,3,DEM,Michael J. O'Hara,15
+Furnas,Oxford,State Treasurer,3,DEM,Michael J. O'Hara,30
+Furnas,Wilsonville,State Treasurer,3,DEM,Michael J. O'Hara,7
+Furnas,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Furnas,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,0
+Furnas,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Furnas,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Furnas,Arapahoe,State Treasurer,3,REP,Don Stenberg,358
+Furnas,Beaver City,State Treasurer,3,REP,Don Stenberg,214
+Furnas,Cambridge,State Treasurer,3,REP,Don Stenberg,332
+Furnas,Edison,State Treasurer,3,REP,Don Stenberg,65
+Furnas,Hendley,State Treasurer,3,REP,Don Stenberg,64
+Furnas,Holbrook,State Treasurer,3,REP,Don Stenberg,87
+Furnas,Oxford,State Treasurer,3,REP,Don Stenberg,190
+Furnas,Wilsonville,State Treasurer,3,REP,Don Stenberg,58
+Furnas,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Furnas,Provisional,State Treasurer,3,REP,Don Stenberg,3
+Furnas,Countywide,Attorney General,3,REP,Doug Peterson,0
+Furnas,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Furnas,Arapahoe,Attorney General,3,REP,Doug Peterson,350
+Furnas,Beaver City,Attorney General,3,REP,Doug Peterson,211
+Furnas,Cambridge,Attorney General,3,REP,Doug Peterson,321
+Furnas,Edison,Attorney General,3,REP,Doug Peterson,67
+Furnas,Hendley,Attorney General,3,REP,Doug Peterson,62
+Furnas,Holbrook,Attorney General,3,REP,Doug Peterson,79
+Furnas,Oxford,Attorney General,3,REP,Doug Peterson,198
+Furnas,Wilsonville,Attorney General,3,REP,Doug Peterson,55
+Furnas,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Furnas,Provisional,Attorney General,3,REP,Doug Peterson,3
+Furnas,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Furnas,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Furnas,Arapahoe,Attorney General,3,DEM,Janet Stewart,58
+Furnas,Beaver City,Attorney General,3,DEM,Janet Stewart,48
+Furnas,Cambridge,Attorney General,3,DEM,Janet Stewart,66
+Furnas,Edison,Attorney General,3,DEM,Janet Stewart,13
+Furnas,Hendley,Attorney General,3,DEM,Janet Stewart,12
+Furnas,Holbrook,Attorney General,3,DEM,Janet Stewart,21
+Furnas,Oxford,Attorney General,3,DEM,Janet Stewart,35
+Furnas,Wilsonville,Attorney General,3,DEM,Janet Stewart,11
+Furnas,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Furnas,Provisional,Attorney General,3,DEM,Janet Stewart,1
+Furnas,Countywide,Auditor,3,REP,Charlie Janssen,0
+Furnas,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Furnas,Arapahoe,Auditor,3,REP,Charlie Janssen,303
+Furnas,Beaver City,Auditor,3,REP,Charlie Janssen,172
+Furnas,Cambridge,Auditor,3,REP,Charlie Janssen,282
+Furnas,Edison,Auditor,3,REP,Charlie Janssen,57
+Furnas,Hendley,Auditor,3,REP,Charlie Janssen,53
+Furnas,Holbrook,Auditor,3,REP,Charlie Janssen,69
+Furnas,Oxford,Auditor,3,REP,Charlie Janssen,178
+Furnas,Wilsonville,Auditor,3,REP,Charlie Janssen,49
+Furnas,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Furnas,Provisional,Auditor,3,REP,Charlie Janssen,3
+Furnas,Countywide,Auditor,3,DEM,Amanda McGill,0
+Furnas,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Furnas,Arapahoe,Auditor,3,DEM,Amanda McGill,89
+Furnas,Beaver City,Auditor,3,DEM,Amanda McGill,68
+Furnas,Cambridge,Auditor,3,DEM,Amanda McGill,89
+Furnas,Edison,Auditor,3,DEM,Amanda McGill,19
+Furnas,Hendley,Auditor,3,DEM,Amanda McGill,19
+Furnas,Holbrook,Auditor,3,DEM,Amanda McGill,26
+Furnas,Oxford,Auditor,3,DEM,Amanda McGill,46
+Furnas,Wilsonville,Auditor,3,DEM,Amanda McGill,13
+Furnas,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Furnas,Provisional,Auditor,3,DEM,Amanda McGill,1
+Furnas,Countywide,Legislature,LD0044,NON,Dan Hughes,0
+Furnas,Absentee/Early Vote,Legislature,LD0044,NON,Dan Hughes,0
+Furnas,Arapahoe,Legislature,LD0044,NON,Dan Hughes,182
+Furnas,Beaver City,Legislature,LD0044,NON,Dan Hughes,110
+Furnas,Cambridge,Legislature,LD0044,NON,Dan Hughes,206
+Furnas,Edison,Legislature,LD0044,NON,Dan Hughes,32
+Furnas,Hendley,Legislature,LD0044,NON,Dan Hughes,40
+Furnas,Holbrook,Legislature,LD0044,NON,Dan Hughes,46
+Furnas,Oxford,Legislature,LD0044,NON,Dan Hughes,99
+Furnas,Wilsonville,Legislature,LD0044,NON,Dan Hughes,40
+Furnas,Absentee/Early Vote,Legislature,LD0044,NON,Dan Hughes,0
+Furnas,Provisional,Legislature,LD0044,NON,Dan Hughes,1
+Furnas,Countywide,Legislature,LD0044,NON,Steve Stroup,0
+Furnas,Absentee/Early Vote,Legislature,LD0044,NON,Steve Stroup,0
+Furnas,Arapahoe,Legislature,LD0044,NON,Steve Stroup,204
+Furnas,Beaver City,Legislature,LD0044,NON,Steve Stroup,132
+Furnas,Cambridge,Legislature,LD0044,NON,Steve Stroup,174
+Furnas,Edison,Legislature,LD0044,NON,Steve Stroup,44
+Furnas,Hendley,Legislature,LD0044,NON,Steve Stroup,32
+Furnas,Holbrook,Legislature,LD0044,NON,Steve Stroup,51
+Furnas,Oxford,Legislature,LD0044,NON,Steve Stroup,107
+Furnas,Wilsonville,Legislature,LD0044,NON,Steve Stroup,24
+Furnas,Absentee/Early Vote,Legislature,LD0044,NON,Steve Stroup,0
+Furnas,Provisional,Legislature,LD0044,NON,Steve Stroup,2

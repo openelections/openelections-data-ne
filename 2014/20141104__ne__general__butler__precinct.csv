@@ -1,0 +1,271 @@
+county,precinct,office,district,party,candidate,votes
+Butler,Countywide,U.S. Senate,1,DEM,Dave Domina,0
+Butler,Absentee/Early Vote,U.S. Senate,1,DEM,Dave Domina,72
+Butler,Linwood-Skull Creek-Platte,U.S. Senate,1,DEM,Dave Domina,57
+Butler,Savannah-Alexis,U.S. Senate,1,DEM,Dave Domina,68
+Butler,Summit-Reading,U.S. Senate,1,DEM,Dave Domina,32
+Butler,Franklin-Bone Creek,U.S. Senate,1,DEM,Dave Domina,28
+Butler,Oak Creek-Center,U.S. Senate,1,DEM,Dave Domina,77
+Butler,Union-Olive,U.S. Senate,1,DEM,Dave Domina,21
+Butler,Read-Ulysses,U.S. Senate,1,DEM,Dave Domina,37
+Butler,Plum Creek-Richardson,U.S. Senate,1,DEM,Dave Domina,52
+Butler,First Ward,U.S. Senate,1,DEM,Dave Domina,47
+Butler,Second Ward,U.S. Senate,1,DEM,Dave Domina,50
+Butler,Third Ward,U.S. Senate,1,DEM,Dave Domina,60
+Butler,Absentee/Early Vote,U.S. Senate,1,DEM,Dave Domina,0
+Butler,Provisional,U.S. Senate,1,DEM,Dave Domina,0
+Butler,Countywide,U.S. Senate,1,,Jim Jenkins,0
+Butler,Absentee/Early Vote,U.S. Senate,1,,Jim Jenkins,10
+Butler,Linwood-Skull Creek-Platte,U.S. Senate,1,,Jim Jenkins,2
+Butler,Savannah-Alexis,U.S. Senate,1,,Jim Jenkins,10
+Butler,Summit-Reading,U.S. Senate,1,,Jim Jenkins,13
+Butler,Franklin-Bone Creek,U.S. Senate,1,,Jim Jenkins,2
+Butler,Oak Creek-Center,U.S. Senate,1,,Jim Jenkins,8
+Butler,Union-Olive,U.S. Senate,1,,Jim Jenkins,4
+Butler,Read-Ulysses,U.S. Senate,1,,Jim Jenkins,3
+Butler,Plum Creek-Richardson,U.S. Senate,1,,Jim Jenkins,6
+Butler,First Ward,U.S. Senate,1,,Jim Jenkins,1
+Butler,Second Ward,U.S. Senate,1,,Jim Jenkins,8
+Butler,Third Ward,U.S. Senate,1,,Jim Jenkins,10
+Butler,Absentee/Early Vote,U.S. Senate,1,,Jim Jenkins,0
+Butler,Provisional,U.S. Senate,1,,Jim Jenkins,0
+Butler,Countywide,U.S. Senate,1,REP,Ben Sasse,0
+Butler,Absentee/Early Vote,U.S. Senate,1,REP,Ben Sasse,231
+Butler,Linwood-Skull Creek-Platte,U.S. Senate,1,REP,Ben Sasse,173
+Butler,Savannah-Alexis,U.S. Senate,1,REP,Ben Sasse,279
+Butler,Summit-Reading,U.S. Senate,1,REP,Ben Sasse,180
+Butler,Franklin-Bone Creek,U.S. Senate,1,REP,Ben Sasse,162
+Butler,Oak Creek-Center,U.S. Senate,1,REP,Ben Sasse,212
+Butler,Union-Olive,U.S. Senate,1,REP,Ben Sasse,144
+Butler,Read-Ulysses,U.S. Senate,1,REP,Ben Sasse,136
+Butler,Plum Creek-Richardson,U.S. Senate,1,REP,Ben Sasse,156
+Butler,First Ward,U.S. Senate,1,REP,Ben Sasse,199
+Butler,Second Ward,U.S. Senate,1,REP,Ben Sasse,222
+Butler,Third Ward,U.S. Senate,1,REP,Ben Sasse,283
+Butler,Absentee/Early Vote,U.S. Senate,1,REP,Ben Sasse,0
+Butler,Provisional,U.S. Senate,1,REP,Ben Sasse,0
+Butler,Countywide,U.S. Senate,1,,Todd F. Watson,0
+Butler,Absentee/Early Vote,U.S. Senate,1,,Todd F. Watson,5
+Butler,Linwood-Skull Creek-Platte,U.S. Senate,1,,Todd F. Watson,3
+Butler,Savannah-Alexis,U.S. Senate,1,,Todd F. Watson,10
+Butler,Summit-Reading,U.S. Senate,1,,Todd F. Watson,2
+Butler,Franklin-Bone Creek,U.S. Senate,1,,Todd F. Watson,5
+Butler,Oak Creek-Center,U.S. Senate,1,,Todd F. Watson,5
+Butler,Union-Olive,U.S. Senate,1,,Todd F. Watson,3
+Butler,Read-Ulysses,U.S. Senate,1,,Todd F. Watson,6
+Butler,Plum Creek-Richardson,U.S. Senate,1,,Todd F. Watson,2
+Butler,First Ward,U.S. Senate,1,,Todd F. Watson,5
+Butler,Second Ward,U.S. Senate,1,,Todd F. Watson,4
+Butler,Third Ward,U.S. Senate,1,,Todd F. Watson,1
+Butler,Absentee/Early Vote,U.S. Senate,1,,Todd F. Watson,0
+Butler,Provisional,U.S. Senate,1,,Todd F. Watson,0
+Butler,Countywide,U.S. House,1,DEM,Dennis P. Crawford,0
+Butler,Absentee/Early Vote,U.S. House,1,DEM,Dennis P. Crawford,72
+Butler,Linwood-Skull Creek-Platte,U.S. House,1,DEM,Dennis P. Crawford,50
+Butler,Savannah-Alexis,U.S. House,1,DEM,Dennis P. Crawford,51
+Butler,Summit-Reading,U.S. House,1,DEM,Dennis P. Crawford,32
+Butler,Franklin-Bone Creek,U.S. House,1,DEM,Dennis P. Crawford,28
+Butler,Oak Creek-Center,U.S. House,1,DEM,Dennis P. Crawford,55
+Butler,Union-Olive,U.S. House,1,DEM,Dennis P. Crawford,28
+Butler,Read-Ulysses,U.S. House,1,DEM,Dennis P. Crawford,39
+Butler,Plum Creek-Richardson,U.S. House,1,DEM,Dennis P. Crawford,47
+Butler,First Ward,U.S. House,1,DEM,Dennis P. Crawford,31
+Butler,Second Ward,U.S. House,1,DEM,Dennis P. Crawford,43
+Butler,Third Ward,U.S. House,1,DEM,Dennis P. Crawford,56
+Butler,Absentee/Early Vote,U.S. House,1,DEM,Dennis P. Crawford,0
+Butler,Provisional,U.S. House,1,DEM,Dennis P. Crawford,0
+Butler,Countywide,U.S. House,1,REP,Jeff Fortenberry,0
+Butler,Absentee/Early Vote,U.S. House,1,REP,Jeff Fortenberry,236
+Butler,Linwood-Skull Creek-Platte,U.S. House,1,REP,Jeff Fortenberry,176
+Butler,Savannah-Alexis,U.S. House,1,REP,Jeff Fortenberry,312
+Butler,Summit-Reading,U.S. House,1,REP,Jeff Fortenberry,190
+Butler,Franklin-Bone Creek,U.S. House,1,REP,Jeff Fortenberry,168
+Butler,Oak Creek-Center,U.S. House,1,REP,Jeff Fortenberry,241
+Butler,Union-Olive,U.S. House,1,REP,Jeff Fortenberry,145
+Butler,Read-Ulysses,U.S. House,1,REP,Jeff Fortenberry,141
+Butler,Plum Creek-Richardson,U.S. House,1,REP,Jeff Fortenberry,171
+Butler,First Ward,U.S. House,1,REP,Jeff Fortenberry,213
+Butler,Second Ward,U.S. House,1,REP,Jeff Fortenberry,235
+Butler,Third Ward,U.S. House,1,REP,Jeff Fortenberry,298
+Butler,Absentee/Early Vote,U.S. House,1,REP,Jeff Fortenberry,0
+Butler,Provisional,U.S. House,1,REP,Jeff Fortenberry,0
+Butler,Countywide,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Butler,Absentee/Early Vote,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,133
+Butler,Linwood-Skull Creek-Platte,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,103
+Butler,Savannah-Alexis,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,119
+Butler,Summit-Reading,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,83
+Butler,Franklin-Bone Creek,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,58
+Butler,Oak Creek-Center,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,135
+Butler,Union-Olive,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,43
+Butler,Read-Ulysses,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,69
+Butler,Plum Creek-Richardson,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,89
+Butler,First Ward,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,95
+Butler,Second Ward,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,113
+Butler,Third Ward,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,131
+Butler,Absentee/Early Vote,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Butler,Provisional,Governor,1,DEM,Chuck Hassebrook and Jane Raybould,0
+Butler,Countywide,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Butler,Absentee/Early Vote,Governor,1,REP,Pete Ricketts and Mike Foley,175
+Butler,Linwood-Skull Creek-Platte,Governor,1,REP,Pete Ricketts and Mike Foley,119
+Butler,Savannah-Alexis,Governor,1,REP,Pete Ricketts and Mike Foley,233
+Butler,Summit-Reading,Governor,1,REP,Pete Ricketts and Mike Foley,139
+Butler,Franklin-Bone Creek,Governor,1,REP,Pete Ricketts and Mike Foley,132
+Butler,Oak Creek-Center,Governor,1,REP,Pete Ricketts and Mike Foley,162
+Butler,Union-Olive,Governor,1,REP,Pete Ricketts and Mike Foley,126
+Butler,Read-Ulysses,Governor,1,REP,Pete Ricketts and Mike Foley,96
+Butler,Plum Creek-Richardson,Governor,1,REP,Pete Ricketts and Mike Foley,119
+Butler,First Ward,Governor,1,REP,Pete Ricketts and Mike Foley,144
+Butler,Second Ward,Governor,1,REP,Pete Ricketts and Mike Foley,164
+Butler,Third Ward,Governor,1,REP,Pete Ricketts and Mike Foley,217
+Butler,Absentee/Early Vote,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Butler,Provisional,Governor,1,REP,Pete Ricketts and Mike Foley,0
+Butler,Countywide,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Butler,Absentee/Early Vote,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Butler,Linwood-Skull Creek-Platte,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Butler,Savannah-Alexis,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,17
+Butler,Summit-Reading,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Butler,Franklin-Bone Creek,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,9
+Butler,Oak Creek-Center,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Butler,Union-Olive,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,7
+Butler,Read-Ulysses,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Butler,Plum Creek-Richardson,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Butler,First Ward,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,17
+Butler,Second Ward,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Butler,Third Ward,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Butler,Absentee/Early Vote,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Butler,Provisional,Governor,1,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Butler,Countywide,Secretary of State,1,LIB,Ben Backus,0
+Butler,Absentee/Early Vote,Secretary of State,1,LIB,Ben Backus,51
+Butler,Linwood-Skull Creek-Platte,Secretary of State,1,LIB,Ben Backus,47
+Butler,Savannah-Alexis,Secretary of State,1,LIB,Ben Backus,51
+Butler,Summit-Reading,Secretary of State,1,LIB,Ben Backus,27
+Butler,Franklin-Bone Creek,Secretary of State,1,LIB,Ben Backus,37
+Butler,Oak Creek-Center,Secretary of State,1,LIB,Ben Backus,47
+Butler,Union-Olive,Secretary of State,1,LIB,Ben Backus,31
+Butler,Read-Ulysses,Secretary of State,1,LIB,Ben Backus,42
+Butler,Plum Creek-Richardson,Secretary of State,1,LIB,Ben Backus,35
+Butler,First Ward,Secretary of State,1,LIB,Ben Backus,44
+Butler,Second Ward,Secretary of State,1,LIB,Ben Backus,47
+Butler,Third Ward,Secretary of State,1,LIB,Ben Backus,61
+Butler,Absentee/Early Vote,Secretary of State,1,LIB,Ben Backus,0
+Butler,Provisional,Secretary of State,1,LIB,Ben Backus,0
+Butler,Countywide,Secretary of State,1,REP,John A. Gale,0
+Butler,Absentee/Early Vote,Secretary of State,1,REP,John A. Gale,221
+Butler,Linwood-Skull Creek-Platte,Secretary of State,1,REP,John A. Gale,139
+Butler,Savannah-Alexis,Secretary of State,1,REP,John A. Gale,277
+Butler,Summit-Reading,Secretary of State,1,REP,John A. Gale,168
+Butler,Franklin-Bone Creek,Secretary of State,1,REP,John A. Gale,142
+Butler,Oak Creek-Center,Secretary of State,1,REP,John A. Gale,197
+Butler,Union-Olive,Secretary of State,1,REP,John A. Gale,129
+Butler,Read-Ulysses,Secretary of State,1,REP,John A. Gale,117
+Butler,Plum Creek-Richardson,Secretary of State,1,REP,John A. Gale,143
+Butler,First Ward,Secretary of State,1,REP,John A. Gale,170
+Butler,Second Ward,Secretary of State,1,REP,John A. Gale,196
+Butler,Third Ward,Secretary of State,1,REP,John A. Gale,255
+Butler,Absentee/Early Vote,Secretary of State,1,REP,John A. Gale,0
+Butler,Provisional,Secretary of State,1,REP,John A. Gale,0
+Butler,Countywide,State Treasurer,1,LIB,Michael Knebel,0
+Butler,Absentee/Early Vote,State Treasurer,1,LIB,Michael Knebel,13
+Butler,Linwood-Skull Creek-Platte,State Treasurer,1,LIB,Michael Knebel,11
+Butler,Savannah-Alexis,State Treasurer,1,LIB,Michael Knebel,20
+Butler,Summit-Reading,State Treasurer,1,LIB,Michael Knebel,10
+Butler,Franklin-Bone Creek,State Treasurer,1,LIB,Michael Knebel,2
+Butler,Oak Creek-Center,State Treasurer,1,LIB,Michael Knebel,13
+Butler,Union-Olive,State Treasurer,1,LIB,Michael Knebel,7
+Butler,Read-Ulysses,State Treasurer,1,LIB,Michael Knebel,6
+Butler,Plum Creek-Richardson,State Treasurer,1,LIB,Michael Knebel,12
+Butler,First Ward,State Treasurer,1,LIB,Michael Knebel,14
+Butler,Second Ward,State Treasurer,1,LIB,Michael Knebel,11
+Butler,Third Ward,State Treasurer,1,LIB,Michael Knebel,14
+Butler,Absentee/Early Vote,State Treasurer,1,LIB,Michael Knebel,0
+Butler,Provisional,State Treasurer,1,LIB,Michael Knebel,0
+Butler,Countywide,State Treasurer,1,DEM,Michael J. O'Hara,0
+Butler,Absentee/Early Vote,State Treasurer,1,DEM,Michael J. O'Hara,58
+Butler,Linwood-Skull Creek-Platte,State Treasurer,1,DEM,Michael J. O'Hara,45
+Butler,Savannah-Alexis,State Treasurer,1,DEM,Michael J. O'Hara,44
+Butler,Summit-Reading,State Treasurer,1,DEM,Michael J. O'Hara,34
+Butler,Franklin-Bone Creek,State Treasurer,1,DEM,Michael J. O'Hara,30
+Butler,Oak Creek-Center,State Treasurer,1,DEM,Michael J. O'Hara,52
+Butler,Union-Olive,State Treasurer,1,DEM,Michael J. O'Hara,24
+Butler,Read-Ulysses,State Treasurer,1,DEM,Michael J. O'Hara,33
+Butler,Plum Creek-Richardson,State Treasurer,1,DEM,Michael J. O'Hara,47
+Butler,First Ward,State Treasurer,1,DEM,Michael J. O'Hara,32
+Butler,Second Ward,State Treasurer,1,DEM,Michael J. O'Hara,42
+Butler,Third Ward,State Treasurer,1,DEM,Michael J. O'Hara,52
+Butler,Absentee/Early Vote,State Treasurer,1,DEM,Michael J. O'Hara,0
+Butler,Provisional,State Treasurer,1,DEM,Michael J. O'Hara,0
+Butler,Countywide,State Treasurer,1,REP,Don Stenberg,0
+Butler,Absentee/Early Vote,State Treasurer,1,REP,Don Stenberg,234
+Butler,Linwood-Skull Creek-Platte,State Treasurer,1,REP,Don Stenberg,162
+Butler,Savannah-Alexis,State Treasurer,1,REP,Don Stenberg,289
+Butler,Summit-Reading,State Treasurer,1,REP,Don Stenberg,169
+Butler,Franklin-Bone Creek,State Treasurer,1,REP,Don Stenberg,160
+Butler,Oak Creek-Center,State Treasurer,1,REP,Don Stenberg,222
+Butler,Union-Olive,State Treasurer,1,REP,Don Stenberg,138
+Butler,Read-Ulysses,State Treasurer,1,REP,Don Stenberg,136
+Butler,Plum Creek-Richardson,State Treasurer,1,REP,Don Stenberg,152
+Butler,First Ward,State Treasurer,1,REP,Don Stenberg,191
+Butler,Second Ward,State Treasurer,1,REP,Don Stenberg,214
+Butler,Third Ward,State Treasurer,1,REP,Don Stenberg,273
+Butler,Absentee/Early Vote,State Treasurer,1,REP,Don Stenberg,0
+Butler,Provisional,State Treasurer,1,REP,Don Stenberg,0
+Butler,Countywide,Attorney General,1,REP,Doug Peterson,0
+Butler,Absentee/Early Vote,Attorney General,1,REP,Doug Peterson,193
+Butler,Linwood-Skull Creek-Platte,Attorney General,1,REP,Doug Peterson,133
+Butler,Savannah-Alexis,Attorney General,1,REP,Doug Peterson,277
+Butler,Summit-Reading,Attorney General,1,REP,Doug Peterson,156
+Butler,Franklin-Bone Creek,Attorney General,1,REP,Doug Peterson,142
+Butler,Oak Creek-Center,Attorney General,1,REP,Doug Peterson,178
+Butler,Union-Olive,Attorney General,1,REP,Doug Peterson,126
+Butler,Read-Ulysses,Attorney General,1,REP,Doug Peterson,119
+Butler,Plum Creek-Richardson,Attorney General,1,REP,Doug Peterson,135
+Butler,First Ward,Attorney General,1,REP,Doug Peterson,172
+Butler,Second Ward,Attorney General,1,REP,Doug Peterson,196
+Butler,Third Ward,Attorney General,1,REP,Doug Peterson,245
+Butler,Absentee/Early Vote,Attorney General,1,REP,Doug Peterson,0
+Butler,Provisional,Attorney General,1,REP,Doug Peterson,0
+Butler,Countywide,Attorney General,1,DEM,Janet Stewart,0
+Butler,Absentee/Early Vote,Attorney General,1,DEM,Janet Stewart,91
+Butler,Linwood-Skull Creek-Platte,Attorney General,1,DEM,Janet Stewart,70
+Butler,Savannah-Alexis,Attorney General,1,DEM,Janet Stewart,70
+Butler,Summit-Reading,Attorney General,1,DEM,Janet Stewart,44
+Butler,Franklin-Bone Creek,Attorney General,1,DEM,Janet Stewart,43
+Butler,Oak Creek-Center,Attorney General,1,DEM,Janet Stewart,77
+Butler,Union-Olive,Attorney General,1,DEM,Janet Stewart,35
+Butler,Read-Ulysses,Attorney General,1,DEM,Janet Stewart,49
+Butler,Plum Creek-Richardson,Attorney General,1,DEM,Janet Stewart,57
+Butler,First Ward,Attorney General,1,DEM,Janet Stewart,56
+Butler,Second Ward,Attorney General,1,DEM,Janet Stewart,62
+Butler,Third Ward,Attorney General,1,DEM,Janet Stewart,77
+Butler,Absentee/Early Vote,Attorney General,1,DEM,Janet Stewart,0
+Butler,Provisional,Attorney General,1,DEM,Janet Stewart,0
+Butler,Countywide,Auditor,1,REP,Charlie Janssen,0
+Butler,Absentee/Early Vote,Auditor,1,REP,Charlie Janssen,171
+Butler,Linwood-Skull Creek-Platte,Auditor,1,REP,Charlie Janssen,120
+Butler,Savannah-Alexis,Auditor,1,REP,Charlie Janssen,231
+Butler,Summit-Reading,Auditor,1,REP,Charlie Janssen,120
+Butler,Franklin-Bone Creek,Auditor,1,REP,Charlie Janssen,130
+Butler,Oak Creek-Center,Auditor,1,REP,Charlie Janssen,140
+Butler,Union-Olive,Auditor,1,REP,Charlie Janssen,119
+Butler,Read-Ulysses,Auditor,1,REP,Charlie Janssen,102
+Butler,Plum Creek-Richardson,Auditor,1,REP,Charlie Janssen,109
+Butler,First Ward,Auditor,1,REP,Charlie Janssen,147
+Butler,Second Ward,Auditor,1,REP,Charlie Janssen,158
+Butler,Third Ward,Auditor,1,REP,Charlie Janssen,218
+Butler,Absentee/Early Vote,Auditor,1,REP,Charlie Janssen,0
+Butler,Provisional,Auditor,1,REP,Charlie Janssen,0
+Butler,Countywide,Auditor,1,DEM,Amanda McGill,0
+Butler,Absentee/Early Vote,Auditor,1,DEM,Amanda McGill,104
+Butler,Linwood-Skull Creek-Platte,Auditor,1,DEM,Amanda McGill,74
+Butler,Savannah-Alexis,Auditor,1,DEM,Amanda McGill,96
+Butler,Summit-Reading,Auditor,1,DEM,Amanda McGill,65
+Butler,Franklin-Bone Creek,Auditor,1,DEM,Amanda McGill,47
+Butler,Oak Creek-Center,Auditor,1,DEM,Amanda McGill,99
+Butler,Union-Olive,Auditor,1,DEM,Amanda McGill,38
+Butler,Read-Ulysses,Auditor,1,DEM,Amanda McGill,59
+Butler,Plum Creek-Richardson,Auditor,1,DEM,Amanda McGill,84
+Butler,First Ward,Auditor,1,DEM,Amanda McGill,66
+Butler,Second Ward,Auditor,1,DEM,Amanda McGill,87
+Butler,Third Ward,Auditor,1,DEM,Amanda McGill,98
+Butler,Absentee/Early Vote,Auditor,1,DEM,Amanda McGill,0
+Butler,Provisional,Auditor,1,DEM,Amanda McGill,0

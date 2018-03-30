@@ -1,0 +1,91 @@
+county,precinct,office,district,party,candidate,votes
+Logan,Countywide,U.S. Senate,3,DEM,Dave Domina,0
+Logan,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,6
+Logan,Logan County,U.S. Senate,3,DEM,Dave Domina,34
+Logan,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,0
+Logan,Provisional,U.S. Senate,3,DEM,Dave Domina,0
+Logan,Countywide,U.S. Senate,3,,Jim Jenkins,0
+Logan,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,4
+Logan,Logan County,U.S. Senate,3,,Jim Jenkins,17
+Logan,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,0
+Logan,Provisional,U.S. Senate,3,,Jim Jenkins,0
+Logan,Countywide,U.S. Senate,3,REP,Ben Sasse,0
+Logan,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,28
+Logan,Logan County,U.S. Senate,3,REP,Ben Sasse,262
+Logan,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,0
+Logan,Provisional,U.S. Senate,3,REP,Ben Sasse,0
+Logan,Countywide,U.S. Senate,3,,Todd F. Watson,0
+Logan,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,0
+Logan,Logan County,U.S. Senate,3,,Todd F. Watson,3
+Logan,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,0
+Logan,Provisional,U.S. Senate,3,,Todd F. Watson,0
+Logan,Countywide,U.S. House,3,REP,Adrian Smith,0
+Logan,Absentee/Early Vote,U.S. House,3,REP,Adrian Smith,35
+Logan,Logan County,U.S. House,3,REP,Adrian Smith,279
+Logan,Absentee/Early Vote,U.S. House,3,REP,Adrian Smith,0
+Logan,Provisional,U.S. House,3,REP,Adrian Smith,0
+Logan,Countywide,U.S. House,3,DEM,Mark Sullivan,0
+Logan,Absentee/Early Vote,U.S. House,3,DEM,Mark Sullivan,3
+Logan,Logan County,U.S. House,3,DEM,Mark Sullivan,41
+Logan,Absentee/Early Vote,U.S. House,3,DEM,Mark Sullivan,0
+Logan,Provisional,U.S. House,3,DEM,Mark Sullivan,0
+Logan,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Logan,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,7
+Logan,Logan County,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,59
+Logan,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Logan,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Logan,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Logan,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,27
+Logan,Logan County,Governor,3,REP,Pete Ricketts and Mike Foley,245
+Logan,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Logan,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Logan,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Logan,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,2
+Logan,Logan County,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Logan,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Logan,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Logan,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Logan,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,4
+Logan,Logan County,Secretary of State,3,LIB,Ben Backus,29
+Logan,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Logan,Provisional,Secretary of State,3,LIB,Ben Backus,0
+Logan,Countywide,Secretary of State,3,REP,John A. Gale,0
+Logan,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,33
+Logan,Logan County,Secretary of State,3,REP,John A. Gale,275
+Logan,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Logan,Provisional,Secretary of State,3,REP,John A. Gale,0
+Logan,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Logan,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Logan,Logan County,State Treasurer,3,LIB,Michael Knebel,13
+Logan,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Logan,Provisional,State Treasurer,3,LIB,Michael Knebel,0
+Logan,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Logan,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,4
+Logan,Logan County,State Treasurer,3,DEM,Michael J. O'Hara,29
+Logan,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Logan,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,0
+Logan,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Logan,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,34
+Logan,Logan County,State Treasurer,3,REP,Don Stenberg,263
+Logan,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Logan,Provisional,State Treasurer,3,REP,Don Stenberg,0
+Logan,Countywide,Attorney General,3,REP,Doug Peterson,0
+Logan,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,31
+Logan,Logan County,Attorney General,3,REP,Doug Peterson,260
+Logan,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Logan,Provisional,Attorney General,3,REP,Doug Peterson,0
+Logan,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Logan,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,5
+Logan,Logan County,Attorney General,3,DEM,Janet Stewart,41
+Logan,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Logan,Provisional,Attorney General,3,DEM,Janet Stewart,0
+Logan,Countywide,Auditor,3,REP,Charlie Janssen,0
+Logan,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,30
+Logan,Logan County,Auditor,3,REP,Charlie Janssen,241
+Logan,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Logan,Provisional,Auditor,3,REP,Charlie Janssen,0
+Logan,Countywide,Auditor,3,DEM,Amanda McGill,0
+Logan,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,6
+Logan,Logan County,Auditor,3,DEM,Amanda McGill,49
+Logan,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Logan,Provisional,Auditor,3,DEM,Amanda McGill,0

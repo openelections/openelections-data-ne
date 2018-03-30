@@ -1,0 +1,321 @@
+county,precinct,office,district,party,candidate,votes
+Saline,Countywide,U.S. Senate,3,DEM,Dave Domina,0
+Saline,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,215
+Saline,Crete 1,U.S. Senate,3,DEM,Dave Domina,191
+Saline,Crete 2,U.S. Senate,3,DEM,Dave Domina,112
+Saline,Crete 3,U.S. Senate,3,DEM,Dave Domina,152
+Saline,C & B,U.S. Senate,3,DEM,Dave Domina,102
+Saline,Dorchester,U.S. Senate,3,DEM,Dave Domina,109
+Saline,Friend 1,U.S. Senate,3,DEM,Dave Domina,55
+Saline,Friend 2,U.S. Senate,3,DEM,Dave Domina,59
+Saline,Wilber 1,U.S. Senate,3,DEM,Dave Domina,115
+Saline,Wilber 2,U.S. Senate,3,DEM,Dave Domina,80
+Saline,Olive,U.S. Senate,3,DEM,Dave Domina,38
+Saline,South Fork,U.S. Senate,3,DEM,Dave Domina,45
+Saline,DeWitt,U.S. Senate,3,DEM,Dave Domina,84
+Saline,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,0
+Saline,Provisional,U.S. Senate,3,DEM,Dave Domina,0
+Saline,Countywide,U.S. Senate,3,,Jim Jenkins,0
+Saline,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,19
+Saline,Crete 1,U.S. Senate,3,,Jim Jenkins,7
+Saline,Crete 2,U.S. Senate,3,,Jim Jenkins,5
+Saline,Crete 3,U.S. Senate,3,,Jim Jenkins,10
+Saline,C & B,U.S. Senate,3,,Jim Jenkins,7
+Saline,Dorchester,U.S. Senate,3,,Jim Jenkins,13
+Saline,Friend 1,U.S. Senate,3,,Jim Jenkins,7
+Saline,Friend 2,U.S. Senate,3,,Jim Jenkins,5
+Saline,Wilber 1,U.S. Senate,3,,Jim Jenkins,9
+Saline,Wilber 2,U.S. Senate,3,,Jim Jenkins,7
+Saline,Olive,U.S. Senate,3,,Jim Jenkins,1
+Saline,South Fork,U.S. Senate,3,,Jim Jenkins,4
+Saline,DeWitt,U.S. Senate,3,,Jim Jenkins,6
+Saline,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,0
+Saline,Provisional,U.S. Senate,3,,Jim Jenkins,0
+Saline,Countywide,U.S. Senate,3,REP,Ben Sasse,0
+Saline,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,213
+Saline,Crete 1,U.S. Senate,3,REP,Ben Sasse,244
+Saline,Crete 2,U.S. Senate,3,REP,Ben Sasse,143
+Saline,Crete 3,U.S. Senate,3,REP,Ben Sasse,195
+Saline,C & B,U.S. Senate,3,REP,Ben Sasse,140
+Saline,Dorchester,U.S. Senate,3,REP,Ben Sasse,217
+Saline,Friend 1,U.S. Senate,3,REP,Ben Sasse,175
+Saline,Friend 2,U.S. Senate,3,REP,Ben Sasse,149
+Saline,Wilber 1,U.S. Senate,3,REP,Ben Sasse,190
+Saline,Wilber 2,U.S. Senate,3,REP,Ben Sasse,159
+Saline,Olive,U.S. Senate,3,REP,Ben Sasse,75
+Saline,South Fork,U.S. Senate,3,REP,Ben Sasse,122
+Saline,DeWitt,U.S. Senate,3,REP,Ben Sasse,162
+Saline,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,0
+Saline,Provisional,U.S. Senate,3,REP,Ben Sasse,0
+Saline,Countywide,U.S. Senate,3,,Todd F. Watson,0
+Saline,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,4
+Saline,Crete 1,U.S. Senate,3,,Todd F. Watson,2
+Saline,Crete 2,U.S. Senate,3,,Todd F. Watson,5
+Saline,Crete 3,U.S. Senate,3,,Todd F. Watson,3
+Saline,C & B,U.S. Senate,3,,Todd F. Watson,2
+Saline,Dorchester,U.S. Senate,3,,Todd F. Watson,5
+Saline,Friend 1,U.S. Senate,3,,Todd F. Watson,1
+Saline,Friend 2,U.S. Senate,3,,Todd F. Watson,1
+Saline,Wilber 1,U.S. Senate,3,,Todd F. Watson,3
+Saline,Wilber 2,U.S. Senate,3,,Todd F. Watson,5
+Saline,Olive,U.S. Senate,3,,Todd F. Watson,3
+Saline,South Fork,U.S. Senate,3,,Todd F. Watson,2
+Saline,DeWitt,U.S. Senate,3,,Todd F. Watson,2
+Saline,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,0
+Saline,Provisional,U.S. Senate,3,,Todd F. Watson,0
+Saline,Countywide,Representative,3,REP,Adrian Smith,0
+Saline,Absentee/Early Vote,Representative,3,REP,Adrian Smith,217
+Saline,Crete 1,Representative,3,REP,Adrian Smith,254
+Saline,Crete 2,Representative,3,REP,Adrian Smith,147
+Saline,Crete 3,Representative,3,REP,Adrian Smith,186
+Saline,C & B,Representative,3,REP,Adrian Smith,135
+Saline,Dorchester,Representative,3,REP,Adrian Smith,205
+Saline,Friend 1,Representative,3,REP,Adrian Smith,181
+Saline,Friend 2,Representative,3,REP,Adrian Smith,152
+Saline,Wilber 1,Representative,3,REP,Adrian Smith,186
+Saline,Wilber 2,Representative,3,REP,Adrian Smith,156
+Saline,Olive,Representative,3,REP,Adrian Smith,75
+Saline,South Fork,Representative,3,REP,Adrian Smith,104
+Saline,DeWitt,Representative,3,REP,Adrian Smith,153
+Saline,Absentee/Early Vote,Representative,3,REP,Adrian Smith,0
+Saline,Provisional,Representative,3,REP,Adrian Smith,0
+Saline,Countywide,Representative,3,DEM,Mark Sullivan,0
+Saline,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,233
+Saline,Crete 1,Representative,3,DEM,Mark Sullivan,184
+Saline,Crete 2,Representative,3,DEM,Mark Sullivan,117
+Saline,Crete 3,Representative,3,DEM,Mark Sullivan,169
+Saline,C & B,Representative,3,DEM,Mark Sullivan,110
+Saline,Dorchester,Representative,3,DEM,Mark Sullivan,136
+Saline,Friend 1,Representative,3,DEM,Mark Sullivan,53
+Saline,Friend 2,Representative,3,DEM,Mark Sullivan,61
+Saline,Wilber 1,Representative,3,DEM,Mark Sullivan,119
+Saline,Wilber 2,Representative,3,DEM,Mark Sullivan,92
+Saline,Olive,Representative,3,DEM,Mark Sullivan,41
+Saline,South Fork,Representative,3,DEM,Mark Sullivan,61
+Saline,DeWitt,Representative,3,DEM,Mark Sullivan,92
+Saline,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,0
+Saline,Provisional,Representative,3,DEM,Mark Sullivan,0
+Saline,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Saline,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,298
+Saline,Crete 1,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,242
+Saline,Crete 2,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,146
+Saline,Crete 3,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,203
+Saline,C & B,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,131
+Saline,Dorchester,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,174
+Saline,Friend 1,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,86
+Saline,Friend 2,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,84
+Saline,Wilber 1,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,156
+Saline,Wilber 2,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,125
+Saline,Olive,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,61
+Saline,South Fork,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,80
+Saline,DeWitt,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,127
+Saline,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Saline,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Saline,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Saline,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,150
+Saline,Crete 1,Governor,3,REP,Pete Ricketts and Mike Foley,195
+Saline,Crete 2,Governor,3,REP,Pete Ricketts and Mike Foley,105
+Saline,Crete 3,Governor,3,REP,Pete Ricketts and Mike Foley,150
+Saline,C & B,Governor,3,REP,Pete Ricketts and Mike Foley,113
+Saline,Dorchester,Governor,3,REP,Pete Ricketts and Mike Foley,147
+Saline,Friend 1,Governor,3,REP,Pete Ricketts and Mike Foley,146
+Saline,Friend 2,Governor,3,REP,Pete Ricketts and Mike Foley,121
+Saline,Wilber 1,Governor,3,REP,Pete Ricketts and Mike Foley,148
+Saline,Wilber 2,Governor,3,REP,Pete Ricketts and Mike Foley,112
+Saline,Olive,Governor,3,REP,Pete Ricketts and Mike Foley,55
+Saline,South Fork,Governor,3,REP,Pete Ricketts and Mike Foley,83
+Saline,DeWitt,Governor,3,REP,Pete Ricketts and Mike Foley,113
+Saline,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Saline,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Saline,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Saline,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+Saline,Crete 1,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,9
+Saline,Crete 2,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,16
+Saline,Crete 3,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,7
+Saline,C & B,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+Saline,Dorchester,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,16
+Saline,Friend 1,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,6
+Saline,Friend 2,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,6
+Saline,Wilber 1,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,13
+Saline,Wilber 2,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,17
+Saline,Olive,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,3
+Saline,South Fork,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Saline,DeWitt,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,16
+Saline,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Saline,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Saline,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Saline,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,114
+Saline,Crete 1,Secretary of State,3,LIB,Ben Backus,87
+Saline,Crete 2,Secretary of State,3,LIB,Ben Backus,84
+Saline,Crete 3,Secretary of State,3,LIB,Ben Backus,91
+Saline,C & B,Secretary of State,3,LIB,Ben Backus,59
+Saline,Dorchester,Secretary of State,3,LIB,Ben Backus,94
+Saline,Friend 1,Secretary of State,3,LIB,Ben Backus,36
+Saline,Friend 2,Secretary of State,3,LIB,Ben Backus,37
+Saline,Wilber 1,Secretary of State,3,LIB,Ben Backus,55
+Saline,Wilber 2,Secretary of State,3,LIB,Ben Backus,56
+Saline,Olive,Secretary of State,3,LIB,Ben Backus,24
+Saline,South Fork,Secretary of State,3,LIB,Ben Backus,43
+Saline,DeWitt,Secretary of State,3,LIB,Ben Backus,60
+Saline,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Saline,Provisional,Secretary of State,3,LIB,Ben Backus,0
+Saline,Countywide,Secretary of State,3,REP,John A. Gale,0
+Saline,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,277
+Saline,Crete 1,Secretary of State,3,REP,John A. Gale,307
+Saline,Crete 2,Secretary of State,3,REP,John A. Gale,159
+Saline,Crete 3,Secretary of State,3,REP,John A. Gale,220
+Saline,C & B,Secretary of State,3,REP,John A. Gale,157
+Saline,Dorchester,Secretary of State,3,REP,John A. Gale,214
+Saline,Friend 1,Secretary of State,3,REP,John A. Gale,182
+Saline,Friend 2,Secretary of State,3,REP,John A. Gale,162
+Saline,Wilber 1,Secretary of State,3,REP,John A. Gale,232
+Saline,Wilber 2,Secretary of State,3,REP,John A. Gale,167
+Saline,Olive,Secretary of State,3,REP,John A. Gale,80
+Saline,South Fork,Secretary of State,3,REP,John A. Gale,105
+Saline,DeWitt,Secretary of State,3,REP,John A. Gale,173
+Saline,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Saline,Provisional,Secretary of State,3,REP,John A. Gale,0
+Saline,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Saline,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,17
+Saline,Crete 1,State Treasurer,3,LIB,Michael Knebel,13
+Saline,Crete 2,State Treasurer,3,LIB,Michael Knebel,18
+Saline,Crete 3,State Treasurer,3,LIB,Michael Knebel,13
+Saline,C & B,State Treasurer,3,LIB,Michael Knebel,9
+Saline,Dorchester,State Treasurer,3,LIB,Michael Knebel,21
+Saline,Friend 1,State Treasurer,3,LIB,Michael Knebel,8
+Saline,Friend 2,State Treasurer,3,LIB,Michael Knebel,9
+Saline,Wilber 1,State Treasurer,3,LIB,Michael Knebel,12
+Saline,Wilber 2,State Treasurer,3,LIB,Michael Knebel,21
+Saline,Olive,State Treasurer,3,LIB,Michael Knebel,3
+Saline,South Fork,State Treasurer,3,LIB,Michael Knebel,7
+Saline,DeWitt,State Treasurer,3,LIB,Michael Knebel,16
+Saline,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Saline,Provisional,State Treasurer,3,LIB,Michael Knebel,0
+Saline,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Saline,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,182
+Saline,Crete 1,State Treasurer,3,DEM,Michael J. O'Hara,140
+Saline,Crete 2,State Treasurer,3,DEM,Michael J. O'Hara,92
+Saline,Crete 3,State Treasurer,3,DEM,Michael J. O'Hara,132
+Saline,C & B,State Treasurer,3,DEM,Michael J. O'Hara,85
+Saline,Dorchester,State Treasurer,3,DEM,Michael J. O'Hara,98
+Saline,Friend 1,State Treasurer,3,DEM,Michael J. O'Hara,38
+Saline,Friend 2,State Treasurer,3,DEM,Michael J. O'Hara,42
+Saline,Wilber 1,State Treasurer,3,DEM,Michael J. O'Hara,88
+Saline,Wilber 2,State Treasurer,3,DEM,Michael J. O'Hara,52
+Saline,Olive,State Treasurer,3,DEM,Michael J. O'Hara,28
+Saline,South Fork,State Treasurer,3,DEM,Michael J. O'Hara,37
+Saline,DeWitt,State Treasurer,3,DEM,Michael J. O'Hara,66
+Saline,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Saline,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,0
+Saline,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Saline,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,246
+Saline,Crete 1,State Treasurer,3,REP,Don Stenberg,276
+Saline,Crete 2,State Treasurer,3,REP,Don Stenberg,150
+Saline,Crete 3,State Treasurer,3,REP,Don Stenberg,205
+Saline,C & B,State Treasurer,3,REP,Don Stenberg,143
+Saline,Dorchester,State Treasurer,3,REP,Don Stenberg,213
+Saline,Friend 1,State Treasurer,3,REP,Don Stenberg,189
+Saline,Friend 2,State Treasurer,3,REP,Don Stenberg,156
+Saline,Wilber 1,State Treasurer,3,REP,Don Stenberg,206
+Saline,Wilber 2,State Treasurer,3,REP,Don Stenberg,171
+Saline,Olive,State Treasurer,3,REP,Don Stenberg,83
+Saline,South Fork,State Treasurer,3,REP,Don Stenberg,118
+Saline,DeWitt,State Treasurer,3,REP,Don Stenberg,165
+Saline,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Saline,Provisional,State Treasurer,3,REP,Don Stenberg,0
+Saline,Countywide,Attorney General,3,REP,Doug Peterson,0
+Saline,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,194
+Saline,Crete 1,Attorney General,3,REP,Doug Peterson,243
+Saline,Crete 2,Attorney General,3,REP,Doug Peterson,131
+Saline,Crete 3,Attorney General,3,REP,Doug Peterson,180
+Saline,C & B,Attorney General,3,REP,Doug Peterson,135
+Saline,Dorchester,Attorney General,3,REP,Doug Peterson,196
+Saline,Friend 1,Attorney General,3,REP,Doug Peterson,179
+Saline,Friend 2,Attorney General,3,REP,Doug Peterson,152
+Saline,Wilber 1,Attorney General,3,REP,Doug Peterson,175
+Saline,Wilber 2,Attorney General,3,REP,Doug Peterson,152
+Saline,Olive,Attorney General,3,REP,Doug Peterson,73
+Saline,South Fork,Attorney General,3,REP,Doug Peterson,94
+Saline,DeWitt,Attorney General,3,REP,Doug Peterson,154
+Saline,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Saline,Provisional,Attorney General,3,REP,Doug Peterson,0
+Saline,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Saline,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,236
+Saline,Crete 1,Attorney General,3,DEM,Janet Stewart,174
+Saline,Crete 2,Attorney General,3,DEM,Janet Stewart,123
+Saline,Crete 3,Attorney General,3,DEM,Janet Stewart,163
+Saline,C & B,Attorney General,3,DEM,Janet Stewart,102
+Saline,Dorchester,Attorney General,3,DEM,Janet Stewart,134
+Saline,Friend 1,Attorney General,3,DEM,Janet Stewart,48
+Saline,Friend 2,Attorney General,3,DEM,Janet Stewart,54
+Saline,Wilber 1,Attorney General,3,DEM,Janet Stewart,125
+Saline,Wilber 2,Attorney General,3,DEM,Janet Stewart,83
+Saline,Olive,Attorney General,3,DEM,Janet Stewart,42
+Saline,South Fork,Attorney General,3,DEM,Janet Stewart,60
+Saline,DeWitt,Attorney General,3,DEM,Janet Stewart,89
+Saline,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Saline,Provisional,Attorney General,3,DEM,Janet Stewart,0
+Saline,Countywide,Auditor,3,REP,Charlie Janssen,0
+Saline,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,161
+Saline,Crete 1,Auditor,3,REP,Charlie Janssen,182
+Saline,Crete 2,Auditor,3,REP,Charlie Janssen,114
+Saline,Crete 3,Auditor,3,REP,Charlie Janssen,139
+Saline,C & B,Auditor,3,REP,Charlie Janssen,101
+Saline,Dorchester,Auditor,3,REP,Charlie Janssen,157
+Saline,Friend 1,Auditor,3,REP,Charlie Janssen,142
+Saline,Friend 2,Auditor,3,REP,Charlie Janssen,116
+Saline,Wilber 1,Auditor,3,REP,Charlie Janssen,130
+Saline,Wilber 2,Auditor,3,REP,Charlie Janssen,116
+Saline,Olive,Auditor,3,REP,Charlie Janssen,53
+Saline,South Fork,Auditor,3,REP,Charlie Janssen,83
+Saline,DeWitt,Auditor,3,REP,Charlie Janssen,108
+Saline,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Saline,Provisional,Auditor,3,REP,Charlie Janssen,0
+Saline,Countywide,Auditor,3,DEM,Amanda McGill,0
+Saline,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,263
+Saline,Crete 1,Auditor,3,DEM,Amanda McGill,223
+Saline,Crete 2,Auditor,3,DEM,Amanda McGill,141
+Saline,Crete 3,Auditor,3,DEM,Amanda McGill,197
+Saline,C & B,Auditor,3,DEM,Amanda McGill,124
+Saline,Dorchester,Auditor,3,DEM,Amanda McGill,160
+Saline,Friend 1,Auditor,3,DEM,Amanda McGill,77
+Saline,Friend 2,Auditor,3,DEM,Amanda McGill,78
+Saline,Wilber 1,Auditor,3,DEM,Amanda McGill,159
+Saline,Wilber 2,Auditor,3,DEM,Amanda McGill,110
+Saline,Olive,Auditor,3,DEM,Amanda McGill,52
+Saline,South Fork,Auditor,3,DEM,Amanda McGill,69
+Saline,DeWitt,Auditor,3,DEM,Amanda McGill,126
+Saline,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Saline,Provisional,Auditor,3,DEM,Amanda McGill,0
+Saline,Countywide,Legislature,LD0032,NON,Laura Ebke,0
+Saline,Absentee/Early Vote,Legislature,LD0032,NON,Laura Ebke,165
+Saline,Crete 1,Legislature,LD0032,NON,Laura Ebke,172
+Saline,Crete 2,Legislature,LD0032,NON,Laura Ebke,101
+Saline,Crete 3,Legislature,LD0032,NON,Laura Ebke,152
+Saline,C & B,Legislature,LD0032,NON,Laura Ebke,92
+Saline,Dorchester,Legislature,LD0032,NON,Laura Ebke,127
+Saline,Friend 1,Legislature,LD0032,NON,Laura Ebke,94
+Saline,Friend 2,Legislature,LD0032,NON,Laura Ebke,93
+Saline,Wilber 1,Legislature,LD0032,NON,Laura Ebke,126
+Saline,Wilber 2,Legislature,LD0032,NON,Laura Ebke,105
+Saline,Olive,Legislature,LD0032,NON,Laura Ebke,53
+Saline,South Fork,Legislature,LD0032,NON,Laura Ebke,75
+Saline,DeWitt,Legislature,LD0032,NON,Laura Ebke,107
+Saline,Absentee/Early Vote,Legislature,LD0032,NON,Laura Ebke,0
+Saline,Provisional,Legislature,LD0032,NON,Laura Ebke,0
+Saline,Countywide,Legislature,LD0032,NON,Phil Hardenburger,0
+Saline,Absentee/Early Vote,Legislature,LD0032,NON,Phil Hardenburger,277
+Saline,Crete 1,Legislature,LD0032,NON,Phil Hardenburger,274
+Saline,Crete 2,Legislature,LD0032,NON,Phil Hardenburger,159
+Saline,Crete 3,Legislature,LD0032,NON,Phil Hardenburger,207
+Saline,C & B,Legislature,LD0032,NON,Phil Hardenburger,158
+Saline,Dorchester,Legislature,LD0032,NON,Phil Hardenburger,217
+Saline,Friend 1,Legislature,LD0032,NON,Phil Hardenburger,136
+Saline,Friend 2,Legislature,LD0032,NON,Phil Hardenburger,110
+Saline,Wilber 1,Legislature,LD0032,NON,Phil Hardenburger,185
+Saline,Wilber 2,Legislature,LD0032,NON,Phil Hardenburger,138
+Saline,Olive,Legislature,LD0032,NON,Phil Hardenburger,65
+Saline,South Fork,Legislature,LD0032,NON,Phil Hardenburger,96
+Saline,DeWitt,Legislature,LD0032,NON,Phil Hardenburger,143
+Saline,Absentee/Early Vote,Legislature,LD0032,NON,Phil Hardenburger,0
+Saline,Provisional,Legislature,LD0032,NON,Phil Hardenburger,0

@@ -1,0 +1,321 @@
+county,precinct,office,district,party,candidate,votes
+York,Countywide,U.S. Senate,3,DEM,Dave Domina,0
+York,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,132
+York,Stewart Thayer,U.S. Senate,3,DEM,Dave Domina,36
+York,Ny Waco Beav WB,U.S. Senate,3,DEM,Dave Domina,41
+York,Hays McFadden,U.S. Senate,3,DEM,Dave Domina,31
+York,LeRoy Baker,U.S. Senate,3,DEM,Dave Domina,27
+York,MABL,U.S. Senate,3,DEM,Dave Domina,63
+York,Brown Hend,U.S. Senate,3,DEM,Dave Domina,77
+York,Ward 1,U.S. Senate,3,DEM,Dave Domina,48
+York,Ward 2A,U.S. Senate,3,DEM,Dave Domina,57
+York,Ward 2B,U.S. Senate,3,DEM,Dave Domina,62
+York,Ward 3,U.S. Senate,3,DEM,Dave Domina,52
+York,Ward 4A,U.S. Senate,3,DEM,Dave Domina,84
+York,Ward 4B,U.S. Senate,3,DEM,Dave Domina,64
+York,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,0
+York,Provisional,U.S. Senate,3,DEM,Dave Domina,0
+York,Countywide,U.S. Senate,3,,Jim Jenkins,0
+York,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,46
+York,Stewart Thayer,U.S. Senate,3,,Jim Jenkins,9
+York,Ny Waco Beav WB,U.S. Senate,3,,Jim Jenkins,12
+York,Hays McFadden,U.S. Senate,3,,Jim Jenkins,11
+York,LeRoy Baker,U.S. Senate,3,,Jim Jenkins,7
+York,MABL,U.S. Senate,3,,Jim Jenkins,17
+York,Brown Hend,U.S. Senate,3,,Jim Jenkins,22
+York,Ward 1,U.S. Senate,3,,Jim Jenkins,16
+York,Ward 2A,U.S. Senate,3,,Jim Jenkins,29
+York,Ward 2B,U.S. Senate,3,,Jim Jenkins,7
+York,Ward 3,U.S. Senate,3,,Jim Jenkins,19
+York,Ward 4A,U.S. Senate,3,,Jim Jenkins,36
+York,Ward 4B,U.S. Senate,3,,Jim Jenkins,28
+York,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,0
+York,Provisional,U.S. Senate,3,,Jim Jenkins,0
+York,Countywide,U.S. Senate,3,REP,Ben Sasse,0
+York,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,448
+York,Stewart Thayer,U.S. Senate,3,REP,Ben Sasse,137
+York,Ny Waco Beav WB,U.S. Senate,3,REP,Ben Sasse,247
+York,Hays McFadden,U.S. Senate,3,REP,Ben Sasse,201
+York,LeRoy Baker,U.S. Senate,3,REP,Ben Sasse,132
+York,MABL,U.S. Senate,3,REP,Ben Sasse,245
+York,Brown Hend,U.S. Senate,3,REP,Ben Sasse,473
+York,Ward 1,U.S. Senate,3,REP,Ben Sasse,226
+York,Ward 2A,U.S. Senate,3,REP,Ben Sasse,216
+York,Ward 2B,U.S. Senate,3,REP,Ben Sasse,194
+York,Ward 3,U.S. Senate,3,REP,Ben Sasse,188
+York,Ward 4A,U.S. Senate,3,REP,Ben Sasse,377
+York,Ward 4B,U.S. Senate,3,REP,Ben Sasse,293
+York,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,0
+York,Provisional,U.S. Senate,3,REP,Ben Sasse,0
+York,Countywide,U.S. Senate,3,,Todd F. Watson,0
+York,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,11
+York,Stewart Thayer,U.S. Senate,3,,Todd F. Watson,5
+York,Ny Waco Beav WB,U.S. Senate,3,,Todd F. Watson,6
+York,Hays McFadden,U.S. Senate,3,,Todd F. Watson,6
+York,LeRoy Baker,U.S. Senate,3,,Todd F. Watson,5
+York,MABL,U.S. Senate,3,,Todd F. Watson,16
+York,Brown Hend,U.S. Senate,3,,Todd F. Watson,13
+York,Ward 1,U.S. Senate,3,,Todd F. Watson,8
+York,Ward 2A,U.S. Senate,3,,Todd F. Watson,8
+York,Ward 2B,U.S. Senate,3,,Todd F. Watson,13
+York,Ward 3,U.S. Senate,3,,Todd F. Watson,9
+York,Ward 4A,U.S. Senate,3,,Todd F. Watson,14
+York,Ward 4B,U.S. Senate,3,,Todd F. Watson,13
+York,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,0
+York,Provisional,U.S. Senate,3,,Todd F. Watson,0
+York,Countywide,Representative,3,REP,Adrian Smith,0
+York,Absentee/Early Vote,Representative,3,REP,Adrian Smith,476
+York,Stewart Thayer,Representative,3,REP,Adrian Smith,154
+York,Ny Waco Beav WB,Representative,3,REP,Adrian Smith,250
+York,Hays McFadden,Representative,3,REP,Adrian Smith,202
+York,LeRoy Baker,Representative,3,REP,Adrian Smith,139
+York,MABL,Representative,3,REP,Adrian Smith,268
+York,Brown Hend,Representative,3,REP,Adrian Smith,500
+York,Ward 1,Representative,3,REP,Adrian Smith,243
+York,Ward 2A,Representative,3,REP,Adrian Smith,239
+York,Ward 2B,Representative,3,REP,Adrian Smith,210
+York,Ward 3,Representative,3,REP,Adrian Smith,195
+York,Ward 4A,Representative,3,REP,Adrian Smith,396
+York,Ward 4B,Representative,3,REP,Adrian Smith,313
+York,Absentee/Early Vote,Representative,3,REP,Adrian Smith,0
+York,Provisional,Representative,3,REP,Adrian Smith,0
+York,Countywide,Representative,3,DEM,Mark Sullivan,0
+York,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,161
+York,Stewart Thayer,Representative,3,DEM,Mark Sullivan,35
+York,Ny Waco Beav WB,Representative,3,DEM,Mark Sullivan,51
+York,Hays McFadden,Representative,3,DEM,Mark Sullivan,45
+York,LeRoy Baker,Representative,3,DEM,Mark Sullivan,31
+York,MABL,Representative,3,DEM,Mark Sullivan,68
+York,Brown Hend,Representative,3,DEM,Mark Sullivan,83
+York,Ward 1,Representative,3,DEM,Mark Sullivan,48
+York,Ward 2A,Representative,3,DEM,Mark Sullivan,68
+York,Ward 2B,Representative,3,DEM,Mark Sullivan,64
+York,Ward 3,Representative,3,DEM,Mark Sullivan,70
+York,Ward 4A,Representative,3,DEM,Mark Sullivan,106
+York,Ward 4B,Representative,3,DEM,Mark Sullivan,80
+York,Absentee/Early Vote,Representative,3,DEM,Mark Sullivan,0
+York,Provisional,Representative,3,DEM,Mark Sullivan,0
+York,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+York,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,195
+York,Stewart Thayer,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,47
+York,Ny Waco Beav WB,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,73
+York,Hays McFadden,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,69
+York,LeRoy Baker,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,48
+York,MABL,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,100
+York,Brown Hend,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,142
+York,Ward 1,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,78
+York,Ward 2A,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,84
+York,Ward 2B,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,86
+York,Ward 3,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,82
+York,Ward 4A,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,128
+York,Ward 4B,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,117
+York,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+York,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+York,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+York,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,420
+York,Stewart Thayer,Governor,3,REP,Pete Ricketts and Mike Foley,130
+York,Ny Waco Beav WB,Governor,3,REP,Pete Ricketts and Mike Foley,222
+York,Hays McFadden,Governor,3,REP,Pete Ricketts and Mike Foley,172
+York,LeRoy Baker,Governor,3,REP,Pete Ricketts and Mike Foley,114
+York,MABL,Governor,3,REP,Pete Ricketts and Mike Foley,223
+York,Brown Hend,Governor,3,REP,Pete Ricketts and Mike Foley,425
+York,Ward 1,Governor,3,REP,Pete Ricketts and Mike Foley,195
+York,Ward 2A,Governor,3,REP,Pete Ricketts and Mike Foley,203
+York,Ward 2B,Governor,3,REP,Pete Ricketts and Mike Foley,179
+York,Ward 3,Governor,3,REP,Pete Ricketts and Mike Foley,171
+York,Ward 4A,Governor,3,REP,Pete Ricketts and Mike Foley,362
+York,Ward 4B,Governor,3,REP,Pete Ricketts and Mike Foley,260
+York,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+York,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,0
+York,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+York,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,18
+York,Stewart Thayer,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+York,Ny Waco Beav WB,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,6
+York,Hays McFadden,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+York,LeRoy Baker,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,8
+York,MABL,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,17
+York,Brown Hend,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,19
+York,Ward 1,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,20
+York,Ward 2A,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,18
+York,Ward 2B,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,9
+York,Ward 3,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,14
+York,Ward 4A,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,14
+York,Ward 4B,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,22
+York,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+York,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+York,Countywide,Secretary of State,3,LIB,Ben Backus,0
+York,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,95
+York,Stewart Thayer,Secretary of State,3,LIB,Ben Backus,30
+York,Ny Waco Beav WB,Secretary of State,3,LIB,Ben Backus,34
+York,Hays McFadden,Secretary of State,3,LIB,Ben Backus,36
+York,LeRoy Baker,Secretary of State,3,LIB,Ben Backus,26
+York,MABL,Secretary of State,3,LIB,Ben Backus,52
+York,Brown Hend,Secretary of State,3,LIB,Ben Backus,52
+York,Ward 1,Secretary of State,3,LIB,Ben Backus,39
+York,Ward 2A,Secretary of State,3,LIB,Ben Backus,55
+York,Ward 2B,Secretary of State,3,LIB,Ben Backus,62
+York,Ward 3,Secretary of State,3,LIB,Ben Backus,39
+York,Ward 4A,Secretary of State,3,LIB,Ben Backus,64
+York,Ward 4B,Secretary of State,3,LIB,Ben Backus,58
+York,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+York,Provisional,Secretary of State,3,LIB,Ben Backus,0
+York,Countywide,Secretary of State,3,REP,John A. Gale,0
+York,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,515
+York,Stewart Thayer,Secretary of State,3,REP,John A. Gale,149
+York,Ny Waco Beav WB,Secretary of State,3,REP,John A. Gale,255
+York,Hays McFadden,Secretary of State,3,REP,John A. Gale,192
+York,LeRoy Baker,Secretary of State,3,REP,John A. Gale,137
+York,MABL,Secretary of State,3,REP,John A. Gale,271
+York,Brown Hend,Secretary of State,3,REP,John A. Gale,478
+York,Ward 1,Secretary of State,3,REP,John A. Gale,242
+York,Ward 2A,Secretary of State,3,REP,John A. Gale,233
+York,Ward 2B,Secretary of State,3,REP,John A. Gale,192
+York,Ward 3,Secretary of State,3,REP,John A. Gale,219
+York,Ward 4A,Secretary of State,3,REP,John A. Gale,413
+York,Ward 4B,Secretary of State,3,REP,John A. Gale,304
+York,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+York,Provisional,Secretary of State,3,REP,John A. Gale,0
+York,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+York,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,27
+York,Stewart Thayer,State Treasurer,3,LIB,Michael Knebel,10
+York,Ny Waco Beav WB,State Treasurer,3,LIB,Michael Knebel,13
+York,Hays McFadden,State Treasurer,3,LIB,Michael Knebel,13
+York,LeRoy Baker,State Treasurer,3,LIB,Michael Knebel,12
+York,MABL,State Treasurer,3,LIB,Michael Knebel,12
+York,Brown Hend,State Treasurer,3,LIB,Michael Knebel,19
+York,Ward 1,State Treasurer,3,LIB,Michael Knebel,16
+York,Ward 2A,State Treasurer,3,LIB,Michael Knebel,25
+York,Ward 2B,State Treasurer,3,LIB,Michael Knebel,18
+York,Ward 3,State Treasurer,3,LIB,Michael Knebel,16
+York,Ward 4A,State Treasurer,3,LIB,Michael Knebel,19
+York,Ward 4B,State Treasurer,3,LIB,Michael Knebel,27
+York,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+York,Provisional,State Treasurer,3,LIB,Michael Knebel,0
+York,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+York,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,107
+York,Stewart Thayer,State Treasurer,3,DEM,Michael J. O'Hara,25
+York,Ny Waco Beav WB,State Treasurer,3,DEM,Michael J. O'Hara,35
+York,Hays McFadden,State Treasurer,3,DEM,Michael J. O'Hara,33
+York,LeRoy Baker,State Treasurer,3,DEM,Michael J. O'Hara,19
+York,MABL,State Treasurer,3,DEM,Michael J. O'Hara,48
+York,Brown Hend,State Treasurer,3,DEM,Michael J. O'Hara,52
+York,Ward 1,State Treasurer,3,DEM,Michael J. O'Hara,34
+York,Ward 2A,State Treasurer,3,DEM,Michael J. O'Hara,52
+York,Ward 2B,State Treasurer,3,DEM,Michael J. O'Hara,53
+York,Ward 3,State Treasurer,3,DEM,Michael J. O'Hara,41
+York,Ward 4A,State Treasurer,3,DEM,Michael J. O'Hara,72
+York,Ward 4B,State Treasurer,3,DEM,Michael J. O'Hara,44
+York,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+York,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,0
+York,Countywide,State Treasurer,3,REP,Don Stenberg,0
+York,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,496
+York,Stewart Thayer,State Treasurer,3,REP,Don Stenberg,147
+York,Ny Waco Beav WB,State Treasurer,3,REP,Don Stenberg,255
+York,Hays McFadden,State Treasurer,3,REP,Don Stenberg,198
+York,LeRoy Baker,State Treasurer,3,REP,Don Stenberg,140
+York,MABL,State Treasurer,3,REP,Don Stenberg,274
+York,Brown Hend,State Treasurer,3,REP,Don Stenberg,502
+York,Ward 1,State Treasurer,3,REP,Don Stenberg,239
+York,Ward 2A,State Treasurer,3,REP,Don Stenberg,222
+York,Ward 2B,State Treasurer,3,REP,Don Stenberg,193
+York,Ward 3,State Treasurer,3,REP,Don Stenberg,204
+York,Ward 4A,State Treasurer,3,REP,Don Stenberg,403
+York,Ward 4B,State Treasurer,3,REP,Don Stenberg,316
+York,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+York,Provisional,State Treasurer,3,REP,Don Stenberg,0
+York,Countywide,Attorney General,3,REP,Doug Peterson,0
+York,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,464
+York,Stewart Thayer,Attorney General,3,REP,Doug Peterson,143
+York,Ny Waco Beav WB,Attorney General,3,REP,Doug Peterson,238
+York,Hays McFadden,Attorney General,3,REP,Doug Peterson,185
+York,LeRoy Baker,Attorney General,3,REP,Doug Peterson,141
+York,MABL,Attorney General,3,REP,Doug Peterson,264
+York,Brown Hend,Attorney General,3,REP,Doug Peterson,498
+York,Ward 1,Attorney General,3,REP,Doug Peterson,233
+York,Ward 2A,Attorney General,3,REP,Doug Peterson,224
+York,Ward 2B,Attorney General,3,REP,Doug Peterson,201
+York,Ward 3,Attorney General,3,REP,Doug Peterson,205
+York,Ward 4A,Attorney General,3,REP,Doug Peterson,383
+York,Ward 4B,Attorney General,3,REP,Doug Peterson,303
+York,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+York,Provisional,Attorney General,3,REP,Doug Peterson,0
+York,Countywide,Attorney General,3,DEM,Janet Stewart,0
+York,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,146
+York,Stewart Thayer,Attorney General,3,DEM,Janet Stewart,35
+York,Ny Waco Beav WB,Attorney General,3,DEM,Janet Stewart,51
+York,Hays McFadden,Attorney General,3,DEM,Janet Stewart,50
+York,LeRoy Baker,Attorney General,3,DEM,Janet Stewart,26
+York,MABL,Attorney General,3,DEM,Janet Stewart,61
+York,Brown Hend,Attorney General,3,DEM,Janet Stewart,62
+York,Ward 1,Attorney General,3,DEM,Janet Stewart,47
+York,Ward 2A,Attorney General,3,DEM,Janet Stewart,67
+York,Ward 2B,Attorney General,3,DEM,Janet Stewart,57
+York,Ward 3,Attorney General,3,DEM,Janet Stewart,54
+York,Ward 4A,Attorney General,3,DEM,Janet Stewart,101
+York,Ward 4B,Attorney General,3,DEM,Janet Stewart,74
+York,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+York,Provisional,Attorney General,3,DEM,Janet Stewart,0
+York,Countywide,Auditor,3,REP,Charlie Janssen,0
+York,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,396
+York,Stewart Thayer,Auditor,3,REP,Charlie Janssen,115
+York,Ny Waco Beav WB,Auditor,3,REP,Charlie Janssen,226
+York,Hays McFadden,Auditor,3,REP,Charlie Janssen,168
+York,LeRoy Baker,Auditor,3,REP,Charlie Janssen,121
+York,MABL,Auditor,3,REP,Charlie Janssen,219
+York,Brown Hend,Auditor,3,REP,Charlie Janssen,433
+York,Ward 1,Auditor,3,REP,Charlie Janssen,193
+York,Ward 2A,Auditor,3,REP,Charlie Janssen,203
+York,Ward 2B,Auditor,3,REP,Charlie Janssen,172
+York,Ward 3,Auditor,3,REP,Charlie Janssen,180
+York,Ward 4A,Auditor,3,REP,Charlie Janssen,336
+York,Ward 4B,Auditor,3,REP,Charlie Janssen,254
+York,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+York,Provisional,Auditor,3,REP,Charlie Janssen,0
+York,Countywide,Auditor,3,DEM,Amanda McGill,0
+York,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,197
+York,Stewart Thayer,Auditor,3,DEM,Amanda McGill,50
+York,Ny Waco Beav WB,Auditor,3,DEM,Amanda McGill,59
+York,Hays McFadden,Auditor,3,DEM,Amanda McGill,55
+York,LeRoy Baker,Auditor,3,DEM,Amanda McGill,40
+York,MABL,Auditor,3,DEM,Amanda McGill,97
+York,Brown Hend,Auditor,3,DEM,Amanda McGill,96
+York,Ward 1,Auditor,3,DEM,Amanda McGill,82
+York,Ward 2A,Auditor,3,DEM,Amanda McGill,82
+York,Ward 2B,Auditor,3,DEM,Amanda McGill,79
+York,Ward 3,Auditor,3,DEM,Amanda McGill,72
+York,Ward 4A,Auditor,3,DEM,Amanda McGill,136
+York,Ward 4B,Auditor,3,DEM,Amanda McGill,113
+York,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+York,Provisional,Auditor,3,DEM,Amanda McGill,0
+York,Countywide,Legislature,LD0024,NON,Mark A. Kolterman,0
+York,Absentee/Early Vote,Legislature,LD0024,NON,Mark A. Kolterman,398
+York,Stewart Thayer,Legislature,LD0024,NON,Mark A. Kolterman,134
+York,Ny Waco Beav WB,Legislature,LD0024,NON,Mark A. Kolterman,218
+York,Hays McFadden,Legislature,LD0024,NON,Mark A. Kolterman,148
+York,LeRoy Baker,Legislature,LD0024,NON,Mark A. Kolterman,101
+York,MABL,Legislature,LD0024,NON,Mark A. Kolterman,221
+York,Brown Hend,Legislature,LD0024,NON,Mark A. Kolterman,318
+York,Ward 1,Legislature,LD0024,NON,Mark A. Kolterman,176
+York,Ward 2A,Legislature,LD0024,NON,Mark A. Kolterman,182
+York,Ward 2B,Legislature,LD0024,NON,Mark A. Kolterman,164
+York,Ward 3,Legislature,LD0024,NON,Mark A. Kolterman,149
+York,Ward 4A,Legislature,LD0024,NON,Mark A. Kolterman,311
+York,Ward 4B,Legislature,LD0024,NON,Mark A. Kolterman,232
+York,Absentee/Early Vote,Legislature,LD0024,NON,Mark A. Kolterman,0
+York,Provisional,Legislature,LD0024,NON,Mark A. Kolterman,0
+York,Countywide,Legislature,LD0024,NON,Kirk Tesar,0
+York,Absentee/Early Vote,Legislature,LD0024,NON,Kirk Tesar,119
+York,Stewart Thayer,Legislature,LD0024,NON,Kirk Tesar,28
+York,Ny Waco Beav WB,Legislature,LD0024,NON,Kirk Tesar,47
+York,Hays McFadden,Legislature,LD0024,NON,Kirk Tesar,43
+York,LeRoy Baker,Legislature,LD0024,NON,Kirk Tesar,36
+York,MABL,Legislature,LD0024,NON,Kirk Tesar,53
+York,Brown Hend,Legislature,LD0024,NON,Kirk Tesar,82
+York,Ward 1,Legislature,LD0024,NON,Kirk Tesar,51
+York,Ward 2A,Legislature,LD0024,NON,Kirk Tesar,65
+York,Ward 2B,Legislature,LD0024,NON,Kirk Tesar,64
+York,Ward 3,Legislature,LD0024,NON,Kirk Tesar,67
+York,Ward 4A,Legislature,LD0024,NON,Kirk Tesar,97
+York,Ward 4B,Legislature,LD0024,NON,Kirk Tesar,89
+York,Absentee/Early Vote,Legislature,LD0024,NON,Kirk Tesar,0
+York,Provisional,Legislature,LD0024,NON,Kirk Tesar,0

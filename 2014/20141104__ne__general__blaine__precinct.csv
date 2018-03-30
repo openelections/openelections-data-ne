@@ -1,0 +1,91 @@
+county,precinct,office,district,party,candidate,votes
+Blaine,Countywide,U.S. Senate,3,DEM,Dave Domina,0
+Blaine,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,8
+Blaine,Blaine,U.S. Senate,3,DEM,Dave Domina,16
+Blaine,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,0
+Blaine,Provisional,U.S. Senate,3,DEM,Dave Domina,0
+Blaine,Countywide,U.S. Senate,3,,Jim Jenkins,0
+Blaine,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,10
+Blaine,Blaine,U.S. Senate,3,,Jim Jenkins,21
+Blaine,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,0
+Blaine,Provisional,U.S. Senate,3,,Jim Jenkins,0
+Blaine,Countywide,U.S. Senate,3,REP,Ben Sasse,0
+Blaine,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,40
+Blaine,Blaine,U.S. Senate,3,REP,Ben Sasse,107
+Blaine,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,0
+Blaine,Provisional,U.S. Senate,3,REP,Ben Sasse,0
+Blaine,Countywide,U.S. Senate,3,,Todd F. Watson,0
+Blaine,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,1
+Blaine,Blaine,U.S. Senate,3,,Todd F. Watson,0
+Blaine,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,0
+Blaine,Provisional,U.S. Senate,3,,Todd F. Watson,0
+Blaine,Countywide,U.S. House,3,REP,Adrian Smith,0
+Blaine,Absentee/Early Vote,U.S. House,3,REP,Adrian Smith,49
+Blaine,Blaine,U.S. House,3,REP,Adrian Smith,129
+Blaine,Absentee/Early Vote,U.S. House,3,REP,Adrian Smith,0
+Blaine,Provisional,U.S. House,3,REP,Adrian Smith,0
+Blaine,Countywide,U.S. House,3,DEM,Mark Sullivan,0
+Blaine,Absentee/Early Vote,U.S. House,3,DEM,Mark Sullivan,10
+Blaine,Blaine,U.S. House,3,DEM,Mark Sullivan,17
+Blaine,Absentee/Early Vote,U.S. House,3,DEM,Mark Sullivan,0
+Blaine,Provisional,U.S. House,3,DEM,Mark Sullivan,0
+Blaine,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Blaine,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,15
+Blaine,Blaine,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,23
+Blaine,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Blaine,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Blaine,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Blaine,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,43
+Blaine,Blaine,Governor,3,REP,Pete Ricketts and Mike Foley,114
+Blaine,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Blaine,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Blaine,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Blaine,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,1
+Blaine,Blaine,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,5
+Blaine,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Blaine,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Blaine,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Blaine,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,4
+Blaine,Blaine,Secretary of State,3,LIB,Ben Backus,11
+Blaine,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Blaine,Provisional,Secretary of State,3,LIB,Ben Backus,0
+Blaine,Countywide,Secretary of State,3,REP,John A. Gale,0
+Blaine,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,52
+Blaine,Blaine,Secretary of State,3,REP,John A. Gale,125
+Blaine,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Blaine,Provisional,Secretary of State,3,REP,John A. Gale,0
+Blaine,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Blaine,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Blaine,Blaine,State Treasurer,3,LIB,Michael Knebel,3
+Blaine,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Blaine,Provisional,State Treasurer,3,LIB,Michael Knebel,0
+Blaine,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Blaine,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,4
+Blaine,Blaine,State Treasurer,3,DEM,Michael J. O'Hara,13
+Blaine,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Blaine,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,0
+Blaine,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Blaine,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,53
+Blaine,Blaine,State Treasurer,3,REP,Don Stenberg,124
+Blaine,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Blaine,Provisional,State Treasurer,3,REP,Don Stenberg,0
+Blaine,Countywide,Attorney General,3,REP,Doug Peterson,0
+Blaine,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,50
+Blaine,Blaine,Attorney General,3,REP,Doug Peterson,113
+Blaine,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Blaine,Provisional,Attorney General,3,REP,Doug Peterson,0
+Blaine,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Blaine,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,5
+Blaine,Blaine,Attorney General,3,DEM,Janet Stewart,20
+Blaine,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Blaine,Provisional,Attorney General,3,DEM,Janet Stewart,0
+Blaine,Countywide,Auditor,3,REP,Charlie Janssen,0
+Blaine,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,45
+Blaine,Blaine,Auditor,3,REP,Charlie Janssen,103
+Blaine,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Blaine,Provisional,Auditor,3,REP,Charlie Janssen,0
+Blaine,Countywide,Auditor,3,DEM,Amanda McGill,0
+Blaine,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,7
+Blaine,Blaine,Auditor,3,DEM,Amanda McGill,21
+Blaine,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Blaine,Provisional,Auditor,3,DEM,Amanda McGill,0

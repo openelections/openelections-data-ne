@@ -1,0 +1,286 @@
+county,precinct,office,district,party,candidate,votes
+Hamilton,Countywide,U.S. Senate,3,DEM,Dave Domina,0
+Hamilton,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,75
+Hamilton,Precinct 1,U.S. Senate,3,DEM,Dave Domina,21
+Hamilton,Precinct 2,U.S. Senate,3,DEM,Dave Domina,59
+Hamilton,Precinct 3,U.S. Senate,3,DEM,Dave Domina,55
+Hamilton,Precinct 4,U.S. Senate,3,DEM,Dave Domina,18
+Hamilton,Precinct 5,U.S. Senate,3,DEM,Dave Domina,67
+Hamilton,Precinct 6,U.S. Senate,3,DEM,Dave Domina,23
+Hamilton,Precinct 7,U.S. Senate,3,DEM,Dave Domina,31
+Hamilton,Precinct 8,U.S. Senate,3,DEM,Dave Domina,45
+Hamilton,Ward 1,U.S. Senate,3,DEM,Dave Domina,85
+Hamilton,Ward 2,U.S. Senate,3,DEM,Dave Domina,69
+Hamilton,Ward 3,U.S. Senate,3,DEM,Dave Domina,74
+Hamilton,Absentee/Early Vote,U.S. Senate,3,DEM,Dave Domina,0
+Hamilton,Provisional,U.S. Senate,3,DEM,Dave Domina,0
+Hamilton,Countywide,U.S. Senate,3,,Jim Jenkins,0
+Hamilton,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,8
+Hamilton,Precinct 1,U.S. Senate,3,,Jim Jenkins,5
+Hamilton,Precinct 2,U.S. Senate,3,,Jim Jenkins,10
+Hamilton,Precinct 3,U.S. Senate,3,,Jim Jenkins,16
+Hamilton,Precinct 4,U.S. Senate,3,,Jim Jenkins,1
+Hamilton,Precinct 5,U.S. Senate,3,,Jim Jenkins,7
+Hamilton,Precinct 6,U.S. Senate,3,,Jim Jenkins,14
+Hamilton,Precinct 7,U.S. Senate,3,,Jim Jenkins,7
+Hamilton,Precinct 8,U.S. Senate,3,,Jim Jenkins,8
+Hamilton,Ward 1,U.S. Senate,3,,Jim Jenkins,17
+Hamilton,Ward 2,U.S. Senate,3,,Jim Jenkins,6
+Hamilton,Ward 3,U.S. Senate,3,,Jim Jenkins,12
+Hamilton,Absentee/Early Vote,U.S. Senate,3,,Jim Jenkins,0
+Hamilton,Provisional,U.S. Senate,3,,Jim Jenkins,0
+Hamilton,Countywide,U.S. Senate,3,REP,Ben Sasse,0
+Hamilton,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,242
+Hamilton,Precinct 1,U.S. Senate,3,REP,Ben Sasse,149
+Hamilton,Precinct 2,U.S. Senate,3,REP,Ben Sasse,243
+Hamilton,Precinct 3,U.S. Senate,3,REP,Ben Sasse,312
+Hamilton,Precinct 4,U.S. Senate,3,REP,Ben Sasse,119
+Hamilton,Precinct 5,U.S. Senate,3,REP,Ben Sasse,299
+Hamilton,Precinct 6,U.S. Senate,3,REP,Ben Sasse,178
+Hamilton,Precinct 7,U.S. Senate,3,REP,Ben Sasse,164
+Hamilton,Precinct 8,U.S. Senate,3,REP,Ben Sasse,158
+Hamilton,Ward 1,U.S. Senate,3,REP,Ben Sasse,385
+Hamilton,Ward 2,U.S. Senate,3,REP,Ben Sasse,277
+Hamilton,Ward 3,U.S. Senate,3,REP,Ben Sasse,315
+Hamilton,Absentee/Early Vote,U.S. Senate,3,REP,Ben Sasse,0
+Hamilton,Provisional,U.S. Senate,3,REP,Ben Sasse,6
+Hamilton,Countywide,U.S. Senate,3,,Todd F. Watson,0
+Hamilton,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,6
+Hamilton,Precinct 1,U.S. Senate,3,,Todd F. Watson,3
+Hamilton,Precinct 2,U.S. Senate,3,,Todd F. Watson,12
+Hamilton,Precinct 3,U.S. Senate,3,,Todd F. Watson,5
+Hamilton,Precinct 4,U.S. Senate,3,,Todd F. Watson,4
+Hamilton,Precinct 5,U.S. Senate,3,,Todd F. Watson,5
+Hamilton,Precinct 6,U.S. Senate,3,,Todd F. Watson,2
+Hamilton,Precinct 7,U.S. Senate,3,,Todd F. Watson,1
+Hamilton,Precinct 8,U.S. Senate,3,,Todd F. Watson,4
+Hamilton,Ward 1,U.S. Senate,3,,Todd F. Watson,5
+Hamilton,Ward 2,U.S. Senate,3,,Todd F. Watson,8
+Hamilton,Ward 3,U.S. Senate,3,,Todd F. Watson,4
+Hamilton,Absentee/Early Vote,U.S. Senate,3,,Todd F. Watson,0
+Hamilton,Provisional,U.S. Senate,3,,Todd F. Watson,1
+Hamilton,Countywide,U.S. House,3,REP,Adrian Smith,0
+Hamilton,Absentee/Early Vote,U.S. House,3,REP,Adrian Smith,242
+Hamilton,Precinct 1,U.S. House,3,REP,Adrian Smith,149
+Hamilton,Precinct 2,U.S. House,3,REP,Adrian Smith,201
+Hamilton,Precinct 3,U.S. House,3,REP,Adrian Smith,318
+Hamilton,Precinct 4,U.S. House,3,REP,Adrian Smith,119
+Hamilton,Precinct 5,U.S. House,3,REP,Adrian Smith,260
+Hamilton,Precinct 6,U.S. House,3,REP,Adrian Smith,173
+Hamilton,Precinct 7,U.S. House,3,REP,Adrian Smith,161
+Hamilton,Precinct 8,U.S. House,3,REP,Adrian Smith,157
+Hamilton,Ward 1,U.S. House,3,REP,Adrian Smith,372
+Hamilton,Ward 2,U.S. House,3,REP,Adrian Smith,265
+Hamilton,Ward 3,U.S. House,3,REP,Adrian Smith,307
+Hamilton,Absentee/Early Vote,U.S. House,3,REP,Adrian Smith,0
+Hamilton,Provisional,U.S. House,3,REP,Adrian Smith,6
+Hamilton,Countywide,U.S. House,3,DEM,Mark Sullivan,0
+Hamilton,Absentee/Early Vote,U.S. House,3,DEM,Mark Sullivan,89
+Hamilton,Precinct 1,U.S. House,3,DEM,Mark Sullivan,26
+Hamilton,Precinct 2,U.S. House,3,DEM,Mark Sullivan,128
+Hamilton,Precinct 3,U.S. House,3,DEM,Mark Sullivan,69
+Hamilton,Precinct 4,U.S. House,3,DEM,Mark Sullivan,28
+Hamilton,Precinct 5,U.S. House,3,DEM,Mark Sullivan,122
+Hamilton,Precinct 6,U.S. House,3,DEM,Mark Sullivan,45
+Hamilton,Precinct 7,U.S. House,3,DEM,Mark Sullivan,43
+Hamilton,Precinct 8,U.S. House,3,DEM,Mark Sullivan,54
+Hamilton,Ward 1,U.S. House,3,DEM,Mark Sullivan,115
+Hamilton,Ward 2,U.S. House,3,DEM,Mark Sullivan,95
+Hamilton,Ward 3,U.S. House,3,DEM,Mark Sullivan,94
+Hamilton,Absentee/Early Vote,U.S. House,3,DEM,Mark Sullivan,0
+Hamilton,Provisional,U.S. House,3,DEM,Mark Sullivan,1
+Hamilton,Countywide,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Hamilton,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,114
+Hamilton,Precinct 1,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,29
+Hamilton,Precinct 2,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,111
+Hamilton,Precinct 3,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,93
+Hamilton,Precinct 4,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,26
+Hamilton,Precinct 5,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,124
+Hamilton,Precinct 6,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,43
+Hamilton,Precinct 7,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,61
+Hamilton,Precinct 8,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,63
+Hamilton,Ward 1,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,146
+Hamilton,Ward 2,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,130
+Hamilton,Ward 3,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,135
+Hamilton,Absentee/Early Vote,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,0
+Hamilton,Provisional,Governor,3,DEM,Chuck Hassebrook and Jane Raybould,2
+Hamilton,Countywide,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Hamilton,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,201
+Hamilton,Precinct 1,Governor,3,REP,Pete Ricketts and Mike Foley,138
+Hamilton,Precinct 2,Governor,3,REP,Pete Ricketts and Mike Foley,206
+Hamilton,Precinct 3,Governor,3,REP,Pete Ricketts and Mike Foley,268
+Hamilton,Precinct 4,Governor,3,REP,Pete Ricketts and Mike Foley,113
+Hamilton,Precinct 5,Governor,3,REP,Pete Ricketts and Mike Foley,242
+Hamilton,Precinct 6,Governor,3,REP,Pete Ricketts and Mike Foley,158
+Hamilton,Precinct 7,Governor,3,REP,Pete Ricketts and Mike Foley,138
+Hamilton,Precinct 8,Governor,3,REP,Pete Ricketts and Mike Foley,138
+Hamilton,Ward 1,Governor,3,REP,Pete Ricketts and Mike Foley,318
+Hamilton,Ward 2,Governor,3,REP,Pete Ricketts and Mike Foley,216
+Hamilton,Ward 3,Governor,3,REP,Pete Ricketts and Mike Foley,252
+Hamilton,Absentee/Early Vote,Governor,3,REP,Pete Ricketts and Mike Foley,0
+Hamilton,Provisional,Governor,3,REP,Pete Ricketts and Mike Foley,5
+Hamilton,Countywide,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Hamilton,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Hamilton,Precinct 1,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,11
+Hamilton,Precinct 2,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,10
+Hamilton,Precinct 3,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,25
+Hamilton,Precinct 4,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,1
+Hamilton,Precinct 5,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,17
+Hamilton,Precinct 6,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,18
+Hamilton,Precinct 7,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,4
+Hamilton,Precinct 8,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,12
+Hamilton,Ward 1,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,25
+Hamilton,Ward 2,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,17
+Hamilton,Ward 3,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,16
+Hamilton,Absentee/Early Vote,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Hamilton,Provisional,Governor,3,LIB,Mark G. Elworth Jr. and Scott Zimmerman,0
+Hamilton,Countywide,Secretary of State,3,LIB,Ben Backus,0
+Hamilton,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,51
+Hamilton,Precinct 1,Secretary of State,3,LIB,Ben Backus,20
+Hamilton,Precinct 2,Secretary of State,3,LIB,Ben Backus,59
+Hamilton,Precinct 3,Secretary of State,3,LIB,Ben Backus,49
+Hamilton,Precinct 4,Secretary of State,3,LIB,Ben Backus,11
+Hamilton,Precinct 5,Secretary of State,3,LIB,Ben Backus,64
+Hamilton,Precinct 6,Secretary of State,3,LIB,Ben Backus,35
+Hamilton,Precinct 7,Secretary of State,3,LIB,Ben Backus,22
+Hamilton,Precinct 8,Secretary of State,3,LIB,Ben Backus,35
+Hamilton,Ward 1,Secretary of State,3,LIB,Ben Backus,50
+Hamilton,Ward 2,Secretary of State,3,LIB,Ben Backus,60
+Hamilton,Ward 3,Secretary of State,3,LIB,Ben Backus,61
+Hamilton,Absentee/Early Vote,Secretary of State,3,LIB,Ben Backus,0
+Hamilton,Provisional,Secretary of State,3,LIB,Ben Backus,2
+Hamilton,Countywide,Secretary of State,3,REP,John A. Gale,0
+Hamilton,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,262
+Hamilton,Precinct 1,Secretary of State,3,REP,John A. Gale,144
+Hamilton,Precinct 2,Secretary of State,3,REP,John A. Gale,245
+Hamilton,Precinct 3,Secretary of State,3,REP,John A. Gale,317
+Hamilton,Precinct 4,Secretary of State,3,REP,John A. Gale,127
+Hamilton,Precinct 5,Secretary of State,3,REP,John A. Gale,294
+Hamilton,Precinct 6,Secretary of State,3,REP,John A. Gale,168
+Hamilton,Precinct 7,Secretary of State,3,REP,John A. Gale,170
+Hamilton,Precinct 8,Secretary of State,3,REP,John A. Gale,166
+Hamilton,Ward 1,Secretary of State,3,REP,John A. Gale,401
+Hamilton,Ward 2,Secretary of State,3,REP,John A. Gale,279
+Hamilton,Ward 3,Secretary of State,3,REP,John A. Gale,313
+Hamilton,Absentee/Early Vote,Secretary of State,3,REP,John A. Gale,0
+Hamilton,Provisional,Secretary of State,3,REP,John A. Gale,4
+Hamilton,Countywide,State Treasurer,3,LIB,Michael Knebel,0
+Hamilton,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,10
+Hamilton,Precinct 1,State Treasurer,3,LIB,Michael Knebel,5
+Hamilton,Precinct 2,State Treasurer,3,LIB,Michael Knebel,11
+Hamilton,Precinct 3,State Treasurer,3,LIB,Michael Knebel,22
+Hamilton,Precinct 4,State Treasurer,3,LIB,Michael Knebel,2
+Hamilton,Precinct 5,State Treasurer,3,LIB,Michael Knebel,16
+Hamilton,Precinct 6,State Treasurer,3,LIB,Michael Knebel,20
+Hamilton,Precinct 7,State Treasurer,3,LIB,Michael Knebel,7
+Hamilton,Precinct 8,State Treasurer,3,LIB,Michael Knebel,12
+Hamilton,Ward 1,State Treasurer,3,LIB,Michael Knebel,26
+Hamilton,Ward 2,State Treasurer,3,LIB,Michael Knebel,17
+Hamilton,Ward 3,State Treasurer,3,LIB,Michael Knebel,23
+Hamilton,Absentee/Early Vote,State Treasurer,3,LIB,Michael Knebel,0
+Hamilton,Provisional,State Treasurer,3,LIB,Michael Knebel,2
+Hamilton,Countywide,State Treasurer,3,DEM,Michael J. O'Hara,0
+Hamilton,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,63
+Hamilton,Precinct 1,State Treasurer,3,DEM,Michael J. O'Hara,12
+Hamilton,Precinct 2,State Treasurer,3,DEM,Michael J. O'Hara,60
+Hamilton,Precinct 3,State Treasurer,3,DEM,Michael J. O'Hara,44
+Hamilton,Precinct 4,State Treasurer,3,DEM,Michael J. O'Hara,12
+Hamilton,Precinct 5,State Treasurer,3,DEM,Michael J. O'Hara,55
+Hamilton,Precinct 6,State Treasurer,3,DEM,Michael J. O'Hara,20
+Hamilton,Precinct 7,State Treasurer,3,DEM,Michael J. O'Hara,27
+Hamilton,Precinct 8,State Treasurer,3,DEM,Michael J. O'Hara,30
+Hamilton,Ward 1,State Treasurer,3,DEM,Michael J. O'Hara,71
+Hamilton,Ward 2,State Treasurer,3,DEM,Michael J. O'Hara,68
+Hamilton,Ward 3,State Treasurer,3,DEM,Michael J. O'Hara,59
+Hamilton,Absentee/Early Vote,State Treasurer,3,DEM,Michael J. O'Hara,0
+Hamilton,Provisional,State Treasurer,3,DEM,Michael J. O'Hara,1
+Hamilton,Countywide,State Treasurer,3,REP,Don Stenberg,0
+Hamilton,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,256
+Hamilton,Precinct 1,State Treasurer,3,REP,Don Stenberg,152
+Hamilton,Precinct 2,State Treasurer,3,REP,Don Stenberg,243
+Hamilton,Precinct 3,State Treasurer,3,REP,Don Stenberg,313
+Hamilton,Precinct 4,State Treasurer,3,REP,Don Stenberg,125
+Hamilton,Precinct 5,State Treasurer,3,REP,Don Stenberg,299
+Hamilton,Precinct 6,State Treasurer,3,REP,Don Stenberg,166
+Hamilton,Precinct 7,State Treasurer,3,REP,Don Stenberg,168
+Hamilton,Precinct 8,State Treasurer,3,REP,Don Stenberg,166
+Hamilton,Ward 1,State Treasurer,3,REP,Don Stenberg,386
+Hamilton,Ward 2,State Treasurer,3,REP,Don Stenberg,268
+Hamilton,Ward 3,State Treasurer,3,REP,Don Stenberg,305
+Hamilton,Absentee/Early Vote,State Treasurer,3,REP,Don Stenberg,0
+Hamilton,Provisional,State Treasurer,3,REP,Don Stenberg,3
+Hamilton,Countywide,Attorney General,3,REP,Doug Peterson,0
+Hamilton,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,234
+Hamilton,Precinct 1,Attorney General,3,REP,Doug Peterson,141
+Hamilton,Precinct 2,Attorney General,3,REP,Doug Peterson,227
+Hamilton,Precinct 3,Attorney General,3,REP,Doug Peterson,300
+Hamilton,Precinct 4,Attorney General,3,REP,Doug Peterson,115
+Hamilton,Precinct 5,Attorney General,3,REP,Doug Peterson,281
+Hamilton,Precinct 6,Attorney General,3,REP,Doug Peterson,163
+Hamilton,Precinct 7,Attorney General,3,REP,Doug Peterson,163
+Hamilton,Precinct 8,Attorney General,3,REP,Doug Peterson,161
+Hamilton,Ward 1,Attorney General,3,REP,Doug Peterson,374
+Hamilton,Ward 2,Attorney General,3,REP,Doug Peterson,268
+Hamilton,Ward 3,Attorney General,3,REP,Doug Peterson,300
+Hamilton,Absentee/Early Vote,Attorney General,3,REP,Doug Peterson,0
+Hamilton,Provisional,Attorney General,3,REP,Doug Peterson,5
+Hamilton,Countywide,Attorney General,3,DEM,Janet Stewart,0
+Hamilton,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,85
+Hamilton,Precinct 1,Attorney General,3,DEM,Janet Stewart,18
+Hamilton,Precinct 2,Attorney General,3,DEM,Janet Stewart,78
+Hamilton,Precinct 3,Attorney General,3,DEM,Janet Stewart,60
+Hamilton,Precinct 4,Attorney General,3,DEM,Janet Stewart,21
+Hamilton,Precinct 5,Attorney General,3,DEM,Janet Stewart,77
+Hamilton,Precinct 6,Attorney General,3,DEM,Janet Stewart,35
+Hamilton,Precinct 7,Attorney General,3,DEM,Janet Stewart,35
+Hamilton,Precinct 8,Attorney General,3,DEM,Janet Stewart,41
+Hamilton,Ward 1,Attorney General,3,DEM,Janet Stewart,98
+Hamilton,Ward 2,Attorney General,3,DEM,Janet Stewart,79
+Hamilton,Ward 3,Attorney General,3,DEM,Janet Stewart,85
+Hamilton,Absentee/Early Vote,Attorney General,3,DEM,Janet Stewart,0
+Hamilton,Provisional,Attorney General,3,DEM,Janet Stewart,1
+Hamilton,Countywide,Auditor,3,REP,Charlie Janssen,0
+Hamilton,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,217
+Hamilton,Precinct 1,Auditor,3,REP,Charlie Janssen,130
+Hamilton,Precinct 2,Auditor,3,REP,Charlie Janssen,210
+Hamilton,Precinct 3,Auditor,3,REP,Charlie Janssen,273
+Hamilton,Precinct 4,Auditor,3,REP,Charlie Janssen,107
+Hamilton,Precinct 5,Auditor,3,REP,Charlie Janssen,245
+Hamilton,Precinct 6,Auditor,3,REP,Charlie Janssen,155
+Hamilton,Precinct 7,Auditor,3,REP,Charlie Janssen,135
+Hamilton,Precinct 8,Auditor,3,REP,Charlie Janssen,143
+Hamilton,Ward 1,Auditor,3,REP,Charlie Janssen,331
+Hamilton,Ward 2,Auditor,3,REP,Charlie Janssen,239
+Hamilton,Ward 3,Auditor,3,REP,Charlie Janssen,272
+Hamilton,Absentee/Early Vote,Auditor,3,REP,Charlie Janssen,0
+Hamilton,Provisional,Auditor,3,REP,Charlie Janssen,5
+Hamilton,Countywide,Auditor,3,DEM,Amanda McGill,0
+Hamilton,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,100
+Hamilton,Precinct 1,Auditor,3,DEM,Amanda McGill,28
+Hamilton,Precinct 2,Auditor,3,DEM,Amanda McGill,84
+Hamilton,Precinct 3,Auditor,3,DEM,Amanda McGill,80
+Hamilton,Precinct 4,Auditor,3,DEM,Amanda McGill,29
+Hamilton,Precinct 5,Auditor,3,DEM,Amanda McGill,106
+Hamilton,Precinct 6,Auditor,3,DEM,Amanda McGill,41
+Hamilton,Precinct 7,Auditor,3,DEM,Amanda McGill,54
+Hamilton,Precinct 8,Auditor,3,DEM,Amanda McGill,54
+Hamilton,Ward 1,Auditor,3,DEM,Amanda McGill,118
+Hamilton,Ward 2,Auditor,3,DEM,Amanda McGill,96
+Hamilton,Ward 3,Auditor,3,DEM,Amanda McGill,94
+Hamilton,Absentee/Early Vote,Auditor,3,DEM,Amanda McGill,0
+Hamilton,Provisional,Auditor,3,DEM,Amanda McGill,1
+Hamilton,Countywide,Legislature,LD0034,NON,Curt Friesen,0
+Hamilton,Absentee/Early Vote,Legislature,LD0034,NON,Curt Friesen,254
+Hamilton,Precinct 1,Legislature,LD0034,NON,Curt Friesen,145
+Hamilton,Precinct 2,Legislature,LD0034,NON,Curt Friesen,249
+Hamilton,Precinct 3,Legislature,LD0034,NON,Curt Friesen,325
+Hamilton,Precinct 4,Legislature,LD0034,NON,Curt Friesen,113
+Hamilton,Precinct 5,Legislature,LD0034,NON,Curt Friesen,280
+Hamilton,Precinct 6,Legislature,LD0034,NON,Curt Friesen,172
+Hamilton,Precinct 7,Legislature,LD0034,NON,Curt Friesen,161
+Hamilton,Precinct 8,Legislature,LD0034,NON,Curt Friesen,168
+Hamilton,Ward 1,Legislature,LD0034,NON,Curt Friesen,390
+Hamilton,Ward 2,Legislature,LD0034,NON,Curt Friesen,297
+Hamilton,Ward 3,Legislature,LD0034,NON,Curt Friesen,334
+Hamilton,Absentee/Early Vote,Legislature,LD0034,NON,Curt Friesen,0
+Hamilton,Provisional,Legislature,LD0034,NON,Curt Friesen,4

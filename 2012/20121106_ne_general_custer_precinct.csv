@@ -1,0 +1,353 @@
+county,precinct,office,district,party,candidate,votes
+Custer,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,18
+Custer,Algernon,President,3,LIB,Gary Johnson and James P. Gray,2
+Custer,Arnold Village,President,3,LIB,Gary Johnson and James P. Gray,3
+Custer,Arnold Rural,President,3,LIB,Gary Johnson and James P. Gray,1
+Custer,Hayes II,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Ansley,President,3,LIB,Gary Johnson and James P. Gray,4
+Custer,Broken Bow North,President,3,LIB,Gary Johnson and James P. Gray,1
+Custer,Broken Bow North Rural,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Broken Bow South,President,3,LIB,Gary Johnson and James P. Gray,8
+Custer,Broken Bow Southwest,President,3,LIB,Gary Johnson and James P. Gray,3
+Custer,Berwyn,President,3,LIB,Gary Johnson and James P. Gray,2
+Custer,Custer,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,East Custer,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Cliff,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Comstock,President,3,LIB,Gary Johnson and James P. Gray,1
+Custer,Douglas Grove,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Spring Creek,President,3,LIB,Gary Johnson and James P. Gray,1
+Custer,Delight,President,3,LIB,Gary Johnson and James P. Gray,6
+Custer,Elk Creek,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Elim,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Triumph,President,3,LIB,Gary Johnson and James P. Gray,3
+Custer,Garfield,President,3,LIB,Gary Johnson and James P. Gray,2
+Custer,Grant,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Hayes l,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Kilfoil,President,3,LIB,Gary Johnson and James P. Gray,2
+Custer,Loup,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Lillian,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Milburn,President,3,LIB,Gary Johnson and James P. Gray,1
+Custer,Corner,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Sargent Rural,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,West Union,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Sargent Village,President,3,LIB,Gary Johnson and James P. Gray,4
+Custer,Myrtle,President,3,LIB,Gary Johnson and James P. Gray,1
+Custer,Westerville,President,3,LIB,Gary Johnson and James P. Gray,2
+Custer,Ryno,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Victoria,President,3,LIB,Gary Johnson and James P. Gray,2
+Custer,Woodriver,President,3,LIB,Gary Johnson and James P. Gray,4
+Custer,Wayne,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Broken Bow Northwest,President,3,LIB,Gary Johnson and James P. Gray,6
+Custer,Broken Bow South Rural,President,3,LIB,Gary Johnson and James P. Gray,2
+Custer,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Custer,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Custer,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",276
+Custer,Algernon,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",18
+Custer,Arnold Village,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",42
+Custer,Arnold Rural,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",12
+Custer,Hayes II,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Custer,Ansley,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",55
+Custer,Broken Bow North,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",38
+Custer,Broken Bow North Rural,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",21
+Custer,Broken Bow South,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",111
+Custer,Broken Bow Southwest,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",56
+Custer,Berwyn,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",15
+Custer,Custer,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",6
+Custer,East Custer,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",1
+Custer,Cliff,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",3
+Custer,Comstock,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",19
+Custer,Douglas Grove,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",13
+Custer,Spring Creek,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",3
+Custer,Delight,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",60
+Custer,Elk Creek,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",10
+Custer,Elim,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",3
+Custer,Triumph,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",5
+Custer,Garfield,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",2
+Custer,Grant,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",1
+Custer,Hayes l,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",2
+Custer,Kilfoil,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",40
+Custer,Loup,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",6
+Custer,Lillian,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",3
+Custer,Milburn,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",5
+Custer,Corner,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",2
+Custer,Sargent Rural,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",19
+Custer,West Union,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",2
+Custer,Sargent Village,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",53
+Custer,Myrtle,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",7
+Custer,Westerville,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",5
+Custer,Ryno,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",2
+Custer,Victoria,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",33
+Custer,Woodriver,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",16
+Custer,Wayne,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",1
+Custer,Broken Bow Northwest,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",87
+Custer,Broken Bow South Rural,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",30
+Custer,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Custer,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Custer,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Custer,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Custer,Algernon,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Arnold Village,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Custer,Arnold Rural,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Hayes II,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Ansley,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Custer,Broken Bow North,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Custer,Broken Bow North Rural,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Broken Bow South,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Custer,Broken Bow Southwest,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Custer,Berwyn,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Custer,Custer,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,East Custer,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Cliff,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Comstock,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Douglas Grove,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Spring Creek,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Delight,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Custer,Elk Creek,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Elim,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Triumph,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Custer,Garfield,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Grant,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Hayes l,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Kilfoil,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Loup,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Lillian,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Milburn,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Corner,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Sargent Rural,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,West Union,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Sargent Village,President,3,ZZZ,Randall A. Terry and Marjorie Smith,3
+Custer,Myrtle,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Westerville,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Ryno,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Victoria,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Custer,Woodriver,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Wayne,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Broken Bow Northwest,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Custer,Broken Bow South Rural,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Custer,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Custer,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Custer,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,756
+Custer,Algernon,President,3,REP,Mitt Romney and Paul Ryan,104
+Custer,Arnold Village,President,3,REP,Mitt Romney and Paul Ryan,242
+Custer,Arnold Rural,President,3,REP,Mitt Romney and Paul Ryan,80
+Custer,Hayes II,President,3,REP,Mitt Romney and Paul Ryan,3
+Custer,Ansley,President,3,REP,Mitt Romney and Paul Ryan,192
+Custer,Broken Bow North,President,3,REP,Mitt Romney and Paul Ryan,93
+Custer,Broken Bow North Rural,President,3,REP,Mitt Romney and Paul Ryan,164
+Custer,Broken Bow South,President,3,REP,Mitt Romney and Paul Ryan,342
+Custer,Broken Bow Southwest,President,3,REP,Mitt Romney and Paul Ryan,162
+Custer,Berwyn,President,3,REP,Mitt Romney and Paul Ryan,80
+Custer,Custer,President,3,REP,Mitt Romney and Paul Ryan,37
+Custer,East Custer,President,3,REP,Mitt Romney and Paul Ryan,18
+Custer,Cliff,President,3,REP,Mitt Romney and Paul Ryan,57
+Custer,Comstock,President,3,REP,Mitt Romney and Paul Ryan,36
+Custer,Douglas Grove,President,3,REP,Mitt Romney and Paul Ryan,27
+Custer,Spring Creek,President,3,REP,Mitt Romney and Paul Ryan,4
+Custer,Delight,President,3,REP,Mitt Romney and Paul Ryan,253
+Custer,Elk Creek,President,3,REP,Mitt Romney and Paul Ryan,46
+Custer,Elim,President,3,REP,Mitt Romney and Paul Ryan,56
+Custer,Triumph,President,3,REP,Mitt Romney and Paul Ryan,47
+Custer,Garfield,President,3,REP,Mitt Romney and Paul Ryan,49
+Custer,Grant,President,3,REP,Mitt Romney and Paul Ryan,14
+Custer,Hayes l,President,3,REP,Mitt Romney and Paul Ryan,1
+Custer,Kilfoil,President,3,REP,Mitt Romney and Paul Ryan,235
+Custer,Loup,President,3,REP,Mitt Romney and Paul Ryan,47
+Custer,Lillian,President,3,REP,Mitt Romney and Paul Ryan,45
+Custer,Milburn,President,3,REP,Mitt Romney and Paul Ryan,15
+Custer,Corner,President,3,REP,Mitt Romney and Paul Ryan,9
+Custer,Sargent Rural,President,3,REP,Mitt Romney and Paul Ryan,62
+Custer,West Union,President,3,REP,Mitt Romney and Paul Ryan,32
+Custer,Sargent Village,President,3,REP,Mitt Romney and Paul Ryan,143
+Custer,Myrtle,President,3,REP,Mitt Romney and Paul Ryan,38
+Custer,Westerville,President,3,REP,Mitt Romney and Paul Ryan,51
+Custer,Ryno,President,3,REP,Mitt Romney and Paul Ryan,38
+Custer,Victoria,President,3,REP,Mitt Romney and Paul Ryan,136
+Custer,Woodriver,President,3,REP,Mitt Romney and Paul Ryan,106
+Custer,Wayne,President,3,REP,Mitt Romney and Paul Ryan,41
+Custer,Broken Bow Northwest,President,3,REP,Mitt Romney and Paul Ryan,288
+Custer,Broken Bow South Rural,President,3,REP,Mitt Romney and Paul Ryan,147
+Custer,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Custer,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Custer,Provisional,President,3,REP,Mitt Romney and Paul Ryan,0
+Custer,Countywide,Senator,3,REP,Deb Fischer,0
+Custer,EV/AB,Senator,3,REP,Deb Fischer,783
+Custer,Algernon,Senator,3,REP,Deb Fischer,109
+Custer,Arnold Village,Senator,3,REP,Deb Fischer,245
+Custer,Arnold Rural,Senator,3,REP,Deb Fischer,84
+Custer,Hayes II,Senator,3,REP,Deb Fischer,3
+Custer,Ansley,Senator,3,REP,Deb Fischer,195
+Custer,Broken Bow North,Senator,3,REP,Deb Fischer,96
+Custer,Broken Bow North Rural,Senator,3,REP,Deb Fischer,165
+Custer,Broken Bow South,Senator,3,REP,Deb Fischer,357
+Custer,Broken Bow Southwest,Senator,3,REP,Deb Fischer,158
+Custer,Berwyn,Senator,3,REP,Deb Fischer,89
+Custer,Custer,Senator,3,REP,Deb Fischer,37
+Custer,East Custer,Senator,3,REP,Deb Fischer,14
+Custer,Cliff,Senator,3,REP,Deb Fischer,59
+Custer,Comstock,Senator,3,REP,Deb Fischer,39
+Custer,Douglas Grove,Senator,3,REP,Deb Fischer,28
+Custer,Spring Creek,Senator,3,REP,Deb Fischer,3
+Custer,Delight,Senator,3,REP,Deb Fischer,270
+Custer,Elk Creek,Senator,3,REP,Deb Fischer,54
+Custer,Elim,Senator,3,REP,Deb Fischer,58
+Custer,Triumph,Senator,3,REP,Deb Fischer,49
+Custer,Garfield,Senator,3,REP,Deb Fischer,51
+Custer,Grant,Senator,3,REP,Deb Fischer,14
+Custer,Hayes l,Senator,3,REP,Deb Fischer,1
+Custer,Kilfoil,Senator,3,REP,Deb Fischer,242
+Custer,Loup,Senator,3,REP,Deb Fischer,50
+Custer,Lillian,Senator,3,REP,Deb Fischer,45
+Custer,Milburn,Senator,3,REP,Deb Fischer,15
+Custer,Corner,Senator,3,REP,Deb Fischer,9
+Custer,Sargent Rural,Senator,3,REP,Deb Fischer,63
+Custer,West Union,Senator,3,REP,Deb Fischer,31
+Custer,Sargent Village,Senator,3,REP,Deb Fischer,152
+Custer,Myrtle,Senator,3,REP,Deb Fischer,41
+Custer,Westerville,Senator,3,REP,Deb Fischer,55
+Custer,Ryno,Senator,3,REP,Deb Fischer,39
+Custer,Victoria,Senator,3,REP,Deb Fischer,142
+Custer,Woodriver,Senator,3,REP,Deb Fischer,106
+Custer,Wayne,Senator,3,REP,Deb Fischer,41
+Custer,Broken Bow Northwest,Senator,3,REP,Deb Fischer,304
+Custer,Broken Bow South Rural,Senator,3,REP,Deb Fischer,143
+Custer,EV/AB,Senator,3,REP,Deb Fischer,0
+Custer,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Custer,Provisional,Senator,3,REP,Deb Fischer,0
+Custer,Countywide,Senator,3,DEM,Bob Kerrey,0
+Custer,EV/AB,Senator,3,DEM,Bob Kerrey,265
+Custer,Algernon,Senator,3,DEM,Bob Kerrey,16
+Custer,Arnold Village,Senator,3,DEM,Bob Kerrey,46
+Custer,Arnold Rural,Senator,3,DEM,Bob Kerrey,10
+Custer,Hayes II,Senator,3,DEM,Bob Kerrey,0
+Custer,Ansley,Senator,3,DEM,Bob Kerrey,59
+Custer,Broken Bow North,Senator,3,DEM,Bob Kerrey,37
+Custer,Broken Bow North Rural,Senator,3,DEM,Bob Kerrey,23
+Custer,Broken Bow South,Senator,3,DEM,Bob Kerrey,112
+Custer,Broken Bow Southwest,Senator,3,DEM,Bob Kerrey,67
+Custer,Berwyn,Senator,3,DEM,Bob Kerrey,10
+Custer,Custer,Senator,3,DEM,Bob Kerrey,6
+Custer,East Custer,Senator,3,DEM,Bob Kerrey,5
+Custer,Cliff,Senator,3,DEM,Bob Kerrey,1
+Custer,Comstock,Senator,3,DEM,Bob Kerrey,17
+Custer,Douglas Grove,Senator,3,DEM,Bob Kerrey,11
+Custer,Spring Creek,Senator,3,DEM,Bob Kerrey,5
+Custer,Delight,Senator,3,DEM,Bob Kerrey,55
+Custer,Elk Creek,Senator,3,DEM,Bob Kerrey,4
+Custer,Elim,Senator,3,DEM,Bob Kerrey,1
+Custer,Triumph,Senator,3,DEM,Bob Kerrey,7
+Custer,Garfield,Senator,3,DEM,Bob Kerrey,1
+Custer,Grant,Senator,3,DEM,Bob Kerrey,1
+Custer,Hayes l,Senator,3,DEM,Bob Kerrey,2
+Custer,Kilfoil,Senator,3,DEM,Bob Kerrey,36
+Custer,Loup,Senator,3,DEM,Bob Kerrey,3
+Custer,Lillian,Senator,3,DEM,Bob Kerrey,5
+Custer,Milburn,Senator,3,DEM,Bob Kerrey,6
+Custer,Corner,Senator,3,DEM,Bob Kerrey,2
+Custer,Sargent Rural,Senator,3,DEM,Bob Kerrey,18
+Custer,West Union,Senator,3,DEM,Bob Kerrey,4
+Custer,Sargent Village,Senator,3,DEM,Bob Kerrey,53
+Custer,Myrtle,Senator,3,DEM,Bob Kerrey,6
+Custer,Westerville,Senator,3,DEM,Bob Kerrey,1
+Custer,Ryno,Senator,3,DEM,Bob Kerrey,1
+Custer,Victoria,Senator,3,DEM,Bob Kerrey,35
+Custer,Woodriver,Senator,3,DEM,Bob Kerrey,19
+Custer,Wayne,Senator,3,DEM,Bob Kerrey,2
+Custer,Broken Bow Northwest,Senator,3,DEM,Bob Kerrey,73
+Custer,Broken Bow South Rural,Senator,3,DEM,Bob Kerrey,31
+Custer,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Custer,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Custer,Provisional,Senator,3,DEM,Bob Kerrey,0
+Custer,Countywide,Representative,3,REP,Adrian Smith,0
+Custer,EV/AB,Representative,3,REP,Adrian Smith,795
+Custer,Algernon,Representative,3,REP,Adrian Smith,101
+Custer,Arnold Village,Representative,3,REP,Adrian Smith,245
+Custer,Arnold Rural,Representative,3,REP,Adrian Smith,76
+Custer,Hayes II,Representative,3,REP,Adrian Smith,3
+Custer,Ansley,Representative,3,REP,Adrian Smith,200
+Custer,Broken Bow North,Representative,3,REP,Adrian Smith,101
+Custer,Broken Bow North Rural,Representative,3,REP,Adrian Smith,160
+Custer,Broken Bow South,Representative,3,REP,Adrian Smith,364
+Custer,Broken Bow Southwest,Representative,3,REP,Adrian Smith,179
+Custer,Berwyn,Representative,3,REP,Adrian Smith,85
+Custer,Custer,Representative,3,REP,Adrian Smith,35
+Custer,East Custer,Representative,3,REP,Adrian Smith,18
+Custer,Cliff,Representative,3,REP,Adrian Smith,57
+Custer,Comstock,Representative,3,REP,Adrian Smith,36
+Custer,Douglas Grove,Representative,3,REP,Adrian Smith,30
+Custer,Spring Creek,Representative,3,REP,Adrian Smith,5
+Custer,Delight,Representative,3,REP,Adrian Smith,261
+Custer,Elk Creek,Representative,3,REP,Adrian Smith,53
+Custer,Elim,Representative,3,REP,Adrian Smith,58
+Custer,Triumph,Representative,3,REP,Adrian Smith,52
+Custer,Garfield,Representative,3,REP,Adrian Smith,47
+Custer,Grant,Representative,3,REP,Adrian Smith,14
+Custer,Hayes l,Representative,3,REP,Adrian Smith,1
+Custer,Kilfoil,Representative,3,REP,Adrian Smith,245
+Custer,Loup,Representative,3,REP,Adrian Smith,48
+Custer,Lillian,Representative,3,REP,Adrian Smith,42
+Custer,Milburn,Representative,3,REP,Adrian Smith,15
+Custer,Corner,Representative,3,REP,Adrian Smith,8
+Custer,Sargent Rural,Representative,3,REP,Adrian Smith,59
+Custer,West Union,Representative,3,REP,Adrian Smith,29
+Custer,Sargent Village,Representative,3,REP,Adrian Smith,150
+Custer,Myrtle,Representative,3,REP,Adrian Smith,38
+Custer,Westerville,Representative,3,REP,Adrian Smith,50
+Custer,Ryno,Representative,3,REP,Adrian Smith,37
+Custer,Victoria,Representative,3,REP,Adrian Smith,136
+Custer,Woodriver,Representative,3,REP,Adrian Smith,108
+Custer,Wayne,Representative,3,REP,Adrian Smith,41
+Custer,Broken Bow Northwest,Representative,3,REP,Adrian Smith,311
+Custer,Broken Bow South Rural,Representative,3,REP,Adrian Smith,150
+Custer,EV/AB,Representative,3,REP,Adrian Smith,0
+Custer,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Custer,Provisional,Representative,3,REP,Adrian Smith,0
+Custer,Countywide,Representative,3,DEM,Mark Sullivan,0
+Custer,EV/AB,Representative,3,DEM,Mark Sullivan,231
+Custer,Algernon,Representative,3,DEM,Mark Sullivan,19
+Custer,Arnold Village,Representative,3,DEM,Mark Sullivan,42
+Custer,Arnold Rural,Representative,3,DEM,Mark Sullivan,15
+Custer,Hayes II,Representative,3,DEM,Mark Sullivan,0
+Custer,Ansley,Representative,3,DEM,Mark Sullivan,53
+Custer,Broken Bow North,Representative,3,DEM,Mark Sullivan,30
+Custer,Broken Bow North Rural,Representative,3,DEM,Mark Sullivan,24
+Custer,Broken Bow South,Representative,3,DEM,Mark Sullivan,99
+Custer,Broken Bow Southwest,Representative,3,DEM,Mark Sullivan,48
+Custer,Berwyn,Representative,3,DEM,Mark Sullivan,14
+Custer,Custer,Representative,3,DEM,Mark Sullivan,6
+Custer,East Custer,Representative,3,DEM,Mark Sullivan,1
+Custer,Cliff,Representative,3,DEM,Mark Sullivan,3
+Custer,Comstock,Representative,3,DEM,Mark Sullivan,19
+Custer,Douglas Grove,Representative,3,DEM,Mark Sullivan,9
+Custer,Spring Creek,Representative,3,DEM,Mark Sullivan,3
+Custer,Delight,Representative,3,DEM,Mark Sullivan,62
+Custer,Elk Creek,Representative,3,DEM,Mark Sullivan,5
+Custer,Elim,Representative,3,DEM,Mark Sullivan,1
+Custer,Triumph,Representative,3,DEM,Mark Sullivan,4
+Custer,Garfield,Representative,3,DEM,Mark Sullivan,5
+Custer,Grant,Representative,3,DEM,Mark Sullivan,1
+Custer,Hayes l,Representative,3,DEM,Mark Sullivan,2
+Custer,Kilfoil,Representative,3,DEM,Mark Sullivan,35
+Custer,Loup,Representative,3,DEM,Mark Sullivan,4
+Custer,Lillian,Representative,3,DEM,Mark Sullivan,5
+Custer,Milburn,Representative,3,DEM,Mark Sullivan,4
+Custer,Corner,Representative,3,DEM,Mark Sullivan,2
+Custer,Sargent Rural,Representative,3,DEM,Mark Sullivan,19
+Custer,West Union,Representative,3,DEM,Mark Sullivan,6
+Custer,Sargent Village,Representative,3,DEM,Mark Sullivan,51
+Custer,Myrtle,Representative,3,DEM,Mark Sullivan,6
+Custer,Westerville,Representative,3,DEM,Mark Sullivan,7
+Custer,Ryno,Representative,3,DEM,Mark Sullivan,2
+Custer,Victoria,Representative,3,DEM,Mark Sullivan,39
+Custer,Woodriver,Representative,3,DEM,Mark Sullivan,17
+Custer,Wayne,Representative,3,DEM,Mark Sullivan,1
+Custer,Broken Bow Northwest,Representative,3,DEM,Mark Sullivan,70
+Custer,Broken Bow South Rural,Representative,3,DEM,Mark Sullivan,27
+Custer,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Custer,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Custer,Provisional,Representative,3,DEM,Mark Sullivan,0

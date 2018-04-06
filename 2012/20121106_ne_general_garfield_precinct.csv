@@ -1,0 +1,81 @@
+county,precinct,office,district,party,candidate,votes
+Garfield,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Garfield,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Garfield,Ward I,President,3,LIB,Gary Johnson and James P. Gray,5
+Garfield,Ward II,President,3,LIB,Gary Johnson and James P. Gray,6
+Garfield,Rural 1,President,3,LIB,Gary Johnson and James P. Gray,2
+Garfield,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Garfield,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Garfield,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Garfield,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Garfield,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Garfield,Ward I,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",57
+Garfield,Ward II,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",46
+Garfield,Rural 1,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",44
+Garfield,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Garfield,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Garfield,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",2
+Garfield,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Garfield,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Garfield,Ward I,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Garfield,Ward II,President,3,ZZZ,Randall A. Terry and Marjorie Smith,3
+Garfield,Rural 1,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Garfield,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Garfield,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Garfield,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Garfield,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Garfield,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Garfield,Ward I,President,3,REP,Mitt Romney and Paul Ryan,243
+Garfield,Ward II,President,3,REP,Mitt Romney and Paul Ryan,192
+Garfield,Rural 1,President,3,REP,Mitt Romney and Paul Ryan,327
+Garfield,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Garfield,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Garfield,Provisional,President,3,REP,Mitt Romney and Paul Ryan,7
+Garfield,Countywide,Senator,3,REP,Deb Fischer,0
+Garfield,EV/AB,Senator,3,REP,Deb Fischer,0
+Garfield,Ward I,Senator,3,REP,Deb Fischer,251
+Garfield,Ward II,Senator,3,REP,Deb Fischer,194
+Garfield,Rural 1,Senator,3,REP,Deb Fischer,323
+Garfield,EV/AB,Senator,3,REP,Deb Fischer,0
+Garfield,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Garfield,Provisional,Senator,3,REP,Deb Fischer,6
+Garfield,Countywide,Senator,3,DEM,Bob Kerrey,0
+Garfield,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Garfield,Ward I,Senator,3,DEM,Bob Kerrey,60
+Garfield,Ward II,Senator,3,DEM,Bob Kerrey,57
+Garfield,Rural 1,Senator,3,DEM,Bob Kerrey,50
+Garfield,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Garfield,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Garfield,Provisional,Senator,3,DEM,Bob Kerrey,3
+Garfield,Countywide,Representative,3,REP,Adrian Smith,0
+Garfield,EV/AB,Representative,3,REP,Adrian Smith,0
+Garfield,Ward I,Representative,3,REP,Adrian Smith,235
+Garfield,Ward II,Representative,3,REP,Adrian Smith,192
+Garfield,Rural 1,Representative,3,REP,Adrian Smith,311
+Garfield,EV/AB,Representative,3,REP,Adrian Smith,0
+Garfield,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Garfield,Provisional,Representative,3,REP,Adrian Smith,8
+Garfield,Countywide,Representative,3,DEM,Mark Sullivan,0
+Garfield,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Garfield,Ward I,Representative,3,DEM,Mark Sullivan,62
+Garfield,Ward II,Representative,3,DEM,Mark Sullivan,47
+Garfield,Rural 1,Representative,3,DEM,Mark Sullivan,60
+Garfield,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Garfield,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Garfield,Provisional,Representative,3,DEM,Mark Sullivan,1
+Garfield,Countywide,Legislature,LD0041,NON,Brook Curtiss,0
+Garfield,EV/AB,Legislature,LD0041,NON,Brook Curtiss,0
+Garfield,Ward I,Legislature,LD0041,NON,Brook Curtiss,38
+Garfield,Ward II,Legislature,LD0041,NON,Brook Curtiss,33
+Garfield,Rural 1,Legislature,LD0041,NON,Brook Curtiss,68
+Garfield,EV/AB,Legislature,LD0041,NON,Brook Curtiss,0
+Garfield,New/Former Resident,Legislature,LD0041,NON,Brook Curtiss,0
+Garfield,Provisional,Legislature,LD0041,NON,Brook Curtiss,1
+Garfield,Countywide,Legislature,LD0041,NON,Kate Sullivan,0
+Garfield,EV/AB,Legislature,LD0041,NON,Kate Sullivan,0
+Garfield,Ward I,Legislature,LD0041,NON,Kate Sullivan,248
+Garfield,Ward II,Legislature,LD0041,NON,Kate Sullivan,199
+Garfield,Rural 1,Legislature,LD0041,NON,Kate Sullivan,288
+Garfield,EV/AB,Legislature,LD0041,NON,Kate Sullivan,0
+Garfield,New/Former Resident,Legislature,LD0041,NON,Kate Sullivan,0
+Garfield,Provisional,Legislature,LD0041,NON,Kate Sullivan,6

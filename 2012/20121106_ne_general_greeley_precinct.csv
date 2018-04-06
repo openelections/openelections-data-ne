@@ -1,0 +1,91 @@
+county,precinct,office,district,party,candidate,votes
+Greeley,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Greeley,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Greeley,1.01,President,3,LIB,Gary Johnson and James P. Gray,2
+Greeley,2.01,President,3,LIB,Gary Johnson and James P. Gray,1
+Greeley,3.01,President,3,LIB,Gary Johnson and James P. Gray,2
+Greeley,4.01,President,3,LIB,Gary Johnson and James P. Gray,7
+Greeley,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Greeley,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Greeley,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Greeley,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Greeley,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Greeley,1.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",81
+Greeley,2.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",97
+Greeley,3.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",40
+Greeley,4.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",122
+Greeley,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Greeley,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Greeley,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Greeley,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Greeley,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Greeley,1.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Greeley,2.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,4
+Greeley,3.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Greeley,4.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Greeley,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Greeley,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Greeley,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Greeley,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Greeley,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Greeley,1.01,President,3,REP,Mitt Romney and Paul Ryan,161
+Greeley,2.01,President,3,REP,Mitt Romney and Paul Ryan,336
+Greeley,3.01,President,3,REP,Mitt Romney and Paul Ryan,122
+Greeley,4.01,President,3,REP,Mitt Romney and Paul Ryan,201
+Greeley,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Greeley,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Greeley,Provisional,President,3,REP,Mitt Romney and Paul Ryan,0
+Greeley,Countywide,Senator,3,REP,Deb Fischer,0
+Greeley,EV/AB,Senator,3,REP,Deb Fischer,0
+Greeley,1.01,Senator,3,REP,Deb Fischer,153
+Greeley,2.01,Senator,3,REP,Deb Fischer,338
+Greeley,3.01,Senator,3,REP,Deb Fischer,133
+Greeley,4.01,Senator,3,REP,Deb Fischer,203
+Greeley,EV/AB,Senator,3,REP,Deb Fischer,0
+Greeley,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Greeley,Provisional,Senator,3,REP,Deb Fischer,0
+Greeley,Countywide,Senator,3,DEM,Bob Kerrey,0
+Greeley,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Greeley,1.01,Senator,3,DEM,Bob Kerrey,88
+Greeley,2.01,Senator,3,DEM,Bob Kerrey,110
+Greeley,3.01,Senator,3,DEM,Bob Kerrey,32
+Greeley,4.01,Senator,3,DEM,Bob Kerrey,131
+Greeley,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Greeley,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Greeley,Provisional,Senator,3,DEM,Bob Kerrey,0
+Greeley,Countywide,Representative,3,REP,Adrian Smith,0
+Greeley,EV/AB,Representative,3,REP,Adrian Smith,0
+Greeley,1.01,Representative,3,REP,Adrian Smith,150
+Greeley,2.01,Representative,3,REP,Adrian Smith,293
+Greeley,3.01,Representative,3,REP,Adrian Smith,116
+Greeley,4.01,Representative,3,REP,Adrian Smith,194
+Greeley,EV/AB,Representative,3,REP,Adrian Smith,0
+Greeley,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Greeley,Provisional,Representative,3,REP,Adrian Smith,0
+Greeley,Countywide,Representative,3,DEM,Mark Sullivan,0
+Greeley,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Greeley,1.01,Representative,3,DEM,Mark Sullivan,89
+Greeley,2.01,Representative,3,DEM,Mark Sullivan,123
+Greeley,3.01,Representative,3,DEM,Mark Sullivan,45
+Greeley,4.01,Representative,3,DEM,Mark Sullivan,127
+Greeley,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Greeley,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Greeley,Provisional,Representative,3,DEM,Mark Sullivan,0
+Greeley,Countywide,Legislature,LD0041,NON,Brook Curtiss,0
+Greeley,EV/AB,Legislature,LD0041,NON,Brook Curtiss,0
+Greeley,1.01,Legislature,LD0041,NON,Brook Curtiss,22
+Greeley,2.01,Legislature,LD0041,NON,Brook Curtiss,19
+Greeley,3.01,Legislature,LD0041,NON,Brook Curtiss,23
+Greeley,4.01,Legislature,LD0041,NON,Brook Curtiss,33
+Greeley,EV/AB,Legislature,LD0041,NON,Brook Curtiss,0
+Greeley,New/Former Resident,Legislature,LD0041,NON,Brook Curtiss,0
+Greeley,Provisional,Legislature,LD0041,NON,Brook Curtiss,0
+Greeley,Countywide,Legislature,LD0041,NON,Kate Sullivan,0
+Greeley,EV/AB,Legislature,LD0041,NON,Kate Sullivan,0
+Greeley,1.01,Legislature,LD0041,NON,Kate Sullivan,210
+Greeley,2.01,Legislature,LD0041,NON,Kate Sullivan,412
+Greeley,3.01,Legislature,LD0041,NON,Kate Sullivan,131
+Greeley,4.01,Legislature,LD0041,NON,Kate Sullivan,285
+Greeley,EV/AB,Legislature,LD0041,NON,Kate Sullivan,0
+Greeley,New/Former Resident,Legislature,LD0041,NON,Kate Sullivan,0
+Greeley,Provisional,Legislature,LD0041,NON,Kate Sullivan,0

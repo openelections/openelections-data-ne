@@ -1,0 +1,81 @@
+county,precinct,office,district,party,candidate,votes
+Brown,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Brown,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Brown,City of Ainsworth,President,3,LIB,Gary Johnson and James P. Gray,5
+Brown,Ainsworth Precinct,President,3,LIB,Gary Johnson and James P. Gray,3
+Brown,The Pines Precinct,President,3,LIB,Gary Johnson and James P. Gray,2
+Brown,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,7
+Brown,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Brown,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Brown,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Brown,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Brown,City of Ainsworth,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",92
+Brown,Ainsworth Precinct,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",36
+Brown,The Pines Precinct,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",24
+Brown,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",71
+Brown,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Brown,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",1
+Brown,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Brown,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Brown,City of Ainsworth,President,3,ZZZ,Randall A. Terry and Marjorie Smith,3
+Brown,Ainsworth Precinct,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Brown,The Pines Precinct,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Brown,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Brown,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Brown,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Brown,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Brown,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Brown,City of Ainsworth,President,3,REP,Mitt Romney and Paul Ryan,504
+Brown,Ainsworth Precinct,President,3,REP,Mitt Romney and Paul Ryan,343
+Brown,The Pines Precinct,President,3,REP,Mitt Romney and Paul Ryan,181
+Brown,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,270
+Brown,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Brown,Provisional,President,3,REP,Mitt Romney and Paul Ryan,4
+Brown,Countywide,Senator,3,REP,Deb Fischer,0
+Brown,EV/AB,Senator,3,REP,Deb Fischer,0
+Brown,City of Ainsworth,Senator,3,REP,Deb Fischer,519
+Brown,Ainsworth Precinct,Senator,3,REP,Deb Fischer,347
+Brown,The Pines Precinct,Senator,3,REP,Deb Fischer,189
+Brown,EV/AB,Senator,3,REP,Deb Fischer,284
+Brown,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Brown,Provisional,Senator,3,REP,Deb Fischer,3
+Brown,Countywide,Senator,3,DEM,Bob Kerrey,0
+Brown,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Brown,City of Ainsworth,Senator,3,DEM,Bob Kerrey,85
+Brown,Ainsworth Precinct,Senator,3,DEM,Bob Kerrey,32
+Brown,The Pines Precinct,Senator,3,DEM,Bob Kerrey,20
+Brown,EV/AB,Senator,3,DEM,Bob Kerrey,65
+Brown,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Brown,Provisional,Senator,3,DEM,Bob Kerrey,2
+Brown,Countywide,Representative,3,REP,Adrian Smith,0
+Brown,EV/AB,Representative,3,REP,Adrian Smith,0
+Brown,City of Ainsworth,Representative,3,REP,Adrian Smith,516
+Brown,Ainsworth Precinct,Representative,3,REP,Adrian Smith,333
+Brown,The Pines Precinct,Representative,3,REP,Adrian Smith,183
+Brown,EV/AB,Representative,3,REP,Adrian Smith,272
+Brown,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Brown,Provisional,Representative,3,REP,Adrian Smith,3
+Brown,Countywide,Representative,3,DEM,Mark Sullivan,0
+Brown,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Brown,City of Ainsworth,Representative,3,DEM,Mark Sullivan,74
+Brown,Ainsworth Precinct,Representative,3,DEM,Mark Sullivan,32
+Brown,The Pines Precinct,Representative,3,DEM,Mark Sullivan,20
+Brown,EV/AB,Representative,3,DEM,Mark Sullivan,59
+Brown,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Brown,Provisional,Representative,3,DEM,Mark Sullivan,2
+Brown,Countywide,Legislature,LD0043,NON,Al Davis,0
+Brown,EV/AB,Legislature,LD0043,NON,Al Davis,0
+Brown,City of Ainsworth,Legislature,LD0043,NON,Al Davis,297
+Brown,Ainsworth Precinct,Legislature,LD0043,NON,Al Davis,138
+Brown,The Pines Precinct,Legislature,LD0043,NON,Al Davis,91
+Brown,EV/AB,Legislature,LD0043,NON,Al Davis,140
+Brown,New/Former Resident,Legislature,LD0043,NON,Al Davis,0
+Brown,Provisional,Legislature,LD0043,NON,Al Davis,1
+Brown,Countywide,Legislature,LD0043,NON,John W. Ravenscroft,0
+Brown,EV/AB,Legislature,LD0043,NON,John W. Ravenscroft,0
+Brown,City of Ainsworth,Legislature,LD0043,NON,John W. Ravenscroft,298
+Brown,Ainsworth Precinct,Legislature,LD0043,NON,John W. Ravenscroft,228
+Brown,The Pines Precinct,Legislature,LD0043,NON,John W. Ravenscroft,113
+Brown,EV/AB,Legislature,LD0043,NON,John W. Ravenscroft,190
+Brown,New/Former Resident,Legislature,LD0043,NON,John W. Ravenscroft,0
+Brown,Provisional,Legislature,LD0043,NON,John W. Ravenscroft,3

@@ -1,0 +1,141 @@
+county,precinct,office,district,party,candidate,votes
+Howard,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Howard,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Howard,St. Paul Ward 1,President,3,LIB,Gary Johnson and James P. Gray,5
+Howard,St. Paul Ward 2,President,3,LIB,Gary Johnson and James P. Gray,4
+Howard,Spring Creek,President,3,LIB,Gary Johnson and James P. Gray,0
+Howard,Elba,President,3,LIB,Gary Johnson and James P. Gray,1
+Howard,Posen,President,3,LIB,Gary Johnson and James P. Gray,3
+Howard,Dannebrog,President,3,LIB,Gary Johnson and James P. Gray,6
+Howard,Loup Fork,President,3,LIB,Gary Johnson and James P. Gray,1
+Howard,St. Libory,President,3,LIB,Gary Johnson and James P. Gray,6
+Howard,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Howard,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,7
+Howard,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Howard,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Howard,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Howard,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Howard,St. Paul Ward 1,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",159
+Howard,St. Paul Ward 2,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",153
+Howard,Spring Creek,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",15
+Howard,Elba,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",63
+Howard,Posen,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",74
+Howard,Dannebrog,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",114
+Howard,Loup Fork,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",49
+Howard,St. Libory,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",70
+Howard,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Howard,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",217
+Howard,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Howard,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Howard,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Howard,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Howard,St. Paul Ward 1,President,3,ZZZ,Randall A. Terry and Marjorie Smith,3
+Howard,St. Paul Ward 2,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Howard,Spring Creek,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Howard,Elba,President,3,ZZZ,Randall A. Terry and Marjorie Smith,5
+Howard,Posen,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Howard,Dannebrog,President,3,ZZZ,Randall A. Terry and Marjorie Smith,3
+Howard,Loup Fork,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Howard,St. Libory,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Howard,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Howard,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,3
+Howard,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Howard,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Howard,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Howard,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Howard,St. Paul Ward 1,President,3,REP,Mitt Romney and Paul Ryan,303
+Howard,St. Paul Ward 2,President,3,REP,Mitt Romney and Paul Ryan,368
+Howard,Spring Creek,President,3,REP,Mitt Romney and Paul Ryan,93
+Howard,Elba,President,3,REP,Mitt Romney and Paul Ryan,129
+Howard,Posen,President,3,REP,Mitt Romney and Paul Ryan,116
+Howard,Dannebrog,President,3,REP,Mitt Romney and Paul Ryan,204
+Howard,Loup Fork,President,3,REP,Mitt Romney and Paul Ryan,136
+Howard,St. Libory,President,3,REP,Mitt Romney and Paul Ryan,211
+Howard,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Howard,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,329
+Howard,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,1
+Howard,Provisional,President,3,REP,Mitt Romney and Paul Ryan,0
+Howard,Countywide,Senator,3,REP,Deb Fischer,0
+Howard,EV/AB,Senator,3,REP,Deb Fischer,0
+Howard,St. Paul Ward 1,Senator,3,REP,Deb Fischer,305
+Howard,St. Paul Ward 2,Senator,3,REP,Deb Fischer,373
+Howard,Spring Creek,Senator,3,REP,Deb Fischer,97
+Howard,Elba,Senator,3,REP,Deb Fischer,133
+Howard,Posen,Senator,3,REP,Deb Fischer,125
+Howard,Dannebrog,Senator,3,REP,Deb Fischer,220
+Howard,Loup Fork,Senator,3,REP,Deb Fischer,140
+Howard,St. Libory,Senator,3,REP,Deb Fischer,218
+Howard,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Howard,EV/AB,Senator,3,REP,Deb Fischer,329
+Howard,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Howard,Provisional,Senator,3,REP,Deb Fischer,0
+Howard,Countywide,Senator,3,DEM,Bob Kerrey,0
+Howard,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Howard,St. Paul Ward 1,Senator,3,DEM,Bob Kerrey,166
+Howard,St. Paul Ward 2,Senator,3,DEM,Bob Kerrey,154
+Howard,Spring Creek,Senator,3,DEM,Bob Kerrey,15
+Howard,Elba,Senator,3,DEM,Bob Kerrey,56
+Howard,Posen,Senator,3,DEM,Bob Kerrey,79
+Howard,Dannebrog,Senator,3,DEM,Bob Kerrey,109
+Howard,Loup Fork,Senator,3,DEM,Bob Kerrey,51
+Howard,St. Libory,Senator,3,DEM,Bob Kerrey,67
+Howard,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Howard,EV/AB,Senator,3,DEM,Bob Kerrey,229
+Howard,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Howard,Provisional,Senator,3,DEM,Bob Kerrey,0
+Howard,Countywide,Representative,3,REP,Adrian Smith,0
+Howard,EV/AB,Representative,3,REP,Adrian Smith,0
+Howard,St. Paul Ward 1,Representative,3,REP,Adrian Smith,307
+Howard,St. Paul Ward 2,Representative,3,REP,Adrian Smith,351
+Howard,Spring Creek,Representative,3,REP,Adrian Smith,77
+Howard,Elba,Representative,3,REP,Adrian Smith,145
+Howard,Posen,Representative,3,REP,Adrian Smith,119
+Howard,Dannebrog,Representative,3,REP,Adrian Smith,205
+Howard,Loup Fork,Representative,3,REP,Adrian Smith,123
+Howard,St. Libory,Representative,3,REP,Adrian Smith,204
+Howard,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Howard,EV/AB,Representative,3,REP,Adrian Smith,322
+Howard,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Howard,Provisional,Representative,3,REP,Adrian Smith,0
+Howard,Countywide,Representative,3,DEM,Mark Sullivan,0
+Howard,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Howard,St. Paul Ward 1,Representative,3,DEM,Mark Sullivan,153
+Howard,St. Paul Ward 2,Representative,3,DEM,Mark Sullivan,167
+Howard,Spring Creek,Representative,3,DEM,Mark Sullivan,32
+Howard,Elba,Representative,3,DEM,Mark Sullivan,51
+Howard,Posen,Representative,3,DEM,Mark Sullivan,79
+Howard,Dannebrog,Representative,3,DEM,Mark Sullivan,117
+Howard,Loup Fork,Representative,3,DEM,Mark Sullivan,64
+Howard,St. Libory,Representative,3,DEM,Mark Sullivan,80
+Howard,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Howard,EV/AB,Representative,3,DEM,Mark Sullivan,225
+Howard,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Howard,Provisional,Representative,3,DEM,Mark Sullivan,0
+Howard,Countywide,Legislature,LD0041,NON,Brook Curtiss,0
+Howard,EV/AB,Legislature,LD0041,NON,Brook Curtiss,0
+Howard,St. Paul Ward 1,Legislature,LD0041,NON,Brook Curtiss,44
+Howard,St. Paul Ward 2,Legislature,LD0041,NON,Brook Curtiss,74
+Howard,Spring Creek,Legislature,LD0041,NON,Brook Curtiss,8
+Howard,Elba,Legislature,LD0041,NON,Brook Curtiss,20
+Howard,Posen,Legislature,LD0041,NON,Brook Curtiss,29
+Howard,Dannebrog,Legislature,LD0041,NON,Brook Curtiss,35
+Howard,Loup Fork,Legislature,LD0041,NON,Brook Curtiss,21
+Howard,St. Libory,Legislature,LD0041,NON,Brook Curtiss,43
+Howard,New/Former Resident,Legislature,LD0041,NON,Brook Curtiss,0
+Howard,EV/AB,Legislature,LD0041,NON,Brook Curtiss,64
+Howard,New/Former Resident,Legislature,LD0041,NON,Brook Curtiss,0
+Howard,Provisional,Legislature,LD0041,NON,Brook Curtiss,0
+Howard,Countywide,Legislature,LD0041,NON,Kate Sullivan,0
+Howard,EV/AB,Legislature,LD0041,NON,Kate Sullivan,0
+Howard,St. Paul Ward 1,Legislature,LD0041,NON,Kate Sullivan,395
+Howard,St. Paul Ward 2,Legislature,LD0041,NON,Kate Sullivan,410
+Howard,Spring Creek,Legislature,LD0041,NON,Kate Sullivan,98
+Howard,Elba,Legislature,LD0041,NON,Kate Sullivan,162
+Howard,Posen,Legislature,LD0041,NON,Kate Sullivan,149
+Howard,Dannebrog,Legislature,LD0041,NON,Kate Sullivan,256
+Howard,Loup Fork,Legislature,LD0041,NON,Kate Sullivan,149
+Howard,St. Libory,Legislature,LD0041,NON,Kate Sullivan,197
+Howard,New/Former Resident,Legislature,LD0041,NON,Kate Sullivan,0
+Howard,EV/AB,Legislature,LD0041,NON,Kate Sullivan,417
+Howard,New/Former Resident,Legislature,LD0041,NON,Kate Sullivan,0
+Howard,Provisional,Legislature,LD0041,NON,Kate Sullivan,0

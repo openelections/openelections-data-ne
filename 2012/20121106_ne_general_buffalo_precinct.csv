@@ -1,0 +1,381 @@
+county,precinct,office,district,party,candidate,votes
+Buffalo,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Buffalo,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Buffalo,1.01,President,3,LIB,Gary Johnson and James P. Gray,15
+Buffalo,2.01,President,3,LIB,Gary Johnson and James P. Gray,11
+Buffalo,3.01,President,3,LIB,Gary Johnson and James P. Gray,19
+Buffalo,4.01,President,3,LIB,Gary Johnson and James P. Gray,10
+Buffalo,5.01,President,3,LIB,Gary Johnson and James P. Gray,10
+Buffalo,6.01,President,3,LIB,Gary Johnson and James P. Gray,18
+Buffalo,7.01,President,3,LIB,Gary Johnson and James P. Gray,20
+Buffalo,8.01,President,3,LIB,Gary Johnson and James P. Gray,13
+Buffalo,9.01,President,3,LIB,Gary Johnson and James P. Gray,21
+Buffalo,10.01,President,3,LIB,Gary Johnson and James P. Gray,12
+Buffalo,11.01,President,3,LIB,Gary Johnson and James P. Gray,10
+Buffalo,12.01,President,3,LIB,Gary Johnson and James P. Gray,16
+Buffalo,13.01,President,3,LIB,Gary Johnson and James P. Gray,9
+Buffalo,14.01,President,3,LIB,Gary Johnson and James P. Gray,10
+Buffalo,15.01,President,3,LIB,Gary Johnson and James P. Gray,10
+Buffalo,16.01,President,3,LIB,Gary Johnson and James P. Gray,11
+Buffalo,17.01,President,3,LIB,Gary Johnson and James P. Gray,5
+Buffalo,18.01,President,3,LIB,Gary Johnson and James P. Gray,10
+Buffalo,19.01,President,3,LIB,Gary Johnson and James P. Gray,13
+Buffalo,20.01,President,3,LIB,Gary Johnson and James P. Gray,11
+Buffalo,21.01,President,3,LIB,Gary Johnson and James P. Gray,0
+Buffalo,22.01,President,3,LIB,Gary Johnson and James P. Gray,6
+Buffalo,23.01,President,3,LIB,Gary Johnson and James P. Gray,7
+Buffalo,24.01,President,3,LIB,Gary Johnson and James P. Gray,4
+Buffalo,25.01,President,3,LIB,Gary Johnson and James P. Gray,10
+Buffalo,26.01,President,3,LIB,Gary Johnson and James P. Gray,2
+Buffalo,27.01,President,3,LIB,Gary Johnson and James P. Gray,6
+Buffalo,28.01,President,3,LIB,Gary Johnson and James P. Gray,2
+Buffalo,30.01,President,3,LIB,Gary Johnson and James P. Gray,5
+Buffalo,31.01,President,3,LIB,Gary Johnson and James P. Gray,14
+Buffalo,33.01,President,3,LIB,Gary Johnson and James P. Gray,20
+Buffalo,34.01,President,3,LIB,Gary Johnson and James P. Gray,14
+Buffalo,35.01,President,3,LIB,Gary Johnson and James P. Gray,12
+Buffalo,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Buffalo,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Buffalo,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Buffalo,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Buffalo,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Buffalo,1.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",208
+Buffalo,2.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",138
+Buffalo,3.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",357
+Buffalo,4.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",160
+Buffalo,5.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",123
+Buffalo,6.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",131
+Buffalo,7.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",273
+Buffalo,8.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",169
+Buffalo,9.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",212
+Buffalo,10.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",278
+Buffalo,11.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",283
+Buffalo,12.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",146
+Buffalo,13.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",165
+Buffalo,14.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",445
+Buffalo,15.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",167
+Buffalo,16.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",139
+Buffalo,17.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",125
+Buffalo,18.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",64
+Buffalo,19.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",202
+Buffalo,20.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",150
+Buffalo,21.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",62
+Buffalo,22.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",74
+Buffalo,23.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",49
+Buffalo,24.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",32
+Buffalo,25.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",123
+Buffalo,26.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",84
+Buffalo,27.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",56
+Buffalo,28.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",51
+Buffalo,30.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",83
+Buffalo,31.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",186
+Buffalo,33.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",241
+Buffalo,34.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",183
+Buffalo,35.01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",205
+Buffalo,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Buffalo,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",1
+Buffalo,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Buffalo,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Buffalo,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Buffalo,1.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Buffalo,2.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Buffalo,3.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,4
+Buffalo,4.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,4
+Buffalo,5.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Buffalo,6.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Buffalo,7.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,3
+Buffalo,8.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Buffalo,9.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,6
+Buffalo,10.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Buffalo,11.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Buffalo,12.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Buffalo,13.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Buffalo,14.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,3
+Buffalo,15.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Buffalo,16.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Buffalo,17.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Buffalo,18.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Buffalo,19.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,3
+Buffalo,20.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Buffalo,21.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,4
+Buffalo,22.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,6
+Buffalo,23.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Buffalo,24.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,4
+Buffalo,25.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,4
+Buffalo,26.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Buffalo,27.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Buffalo,28.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Buffalo,30.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Buffalo,31.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Buffalo,33.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Buffalo,34.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Buffalo,35.01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Buffalo,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Buffalo,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Buffalo,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Buffalo,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Buffalo,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Buffalo,1.01,President,3,REP,Mitt Romney and Paul Ryan,347
+Buffalo,2.01,President,3,REP,Mitt Romney and Paul Ryan,278
+Buffalo,3.01,President,3,REP,Mitt Romney and Paul Ryan,865
+Buffalo,4.01,President,3,REP,Mitt Romney and Paul Ryan,257
+Buffalo,5.01,President,3,REP,Mitt Romney and Paul Ryan,185
+Buffalo,6.01,President,3,REP,Mitt Romney and Paul Ryan,198
+Buffalo,7.01,President,3,REP,Mitt Romney and Paul Ryan,508
+Buffalo,8.01,President,3,REP,Mitt Romney and Paul Ryan,395
+Buffalo,9.01,President,3,REP,Mitt Romney and Paul Ryan,314
+Buffalo,10.01,President,3,REP,Mitt Romney and Paul Ryan,880
+Buffalo,11.01,President,3,REP,Mitt Romney and Paul Ryan,680
+Buffalo,12.01,President,3,REP,Mitt Romney and Paul Ryan,356
+Buffalo,13.01,President,3,REP,Mitt Romney and Paul Ryan,339
+Buffalo,14.01,President,3,REP,Mitt Romney and Paul Ryan,1061
+Buffalo,15.01,President,3,REP,Mitt Romney and Paul Ryan,392
+Buffalo,16.01,President,3,REP,Mitt Romney and Paul Ryan,253
+Buffalo,17.01,President,3,REP,Mitt Romney and Paul Ryan,405
+Buffalo,18.01,President,3,REP,Mitt Romney and Paul Ryan,347
+Buffalo,19.01,President,3,REP,Mitt Romney and Paul Ryan,591
+Buffalo,20.01,President,3,REP,Mitt Romney and Paul Ryan,375
+Buffalo,21.01,President,3,REP,Mitt Romney and Paul Ryan,224
+Buffalo,22.01,President,3,REP,Mitt Romney and Paul Ryan,241
+Buffalo,23.01,President,3,REP,Mitt Romney and Paul Ryan,199
+Buffalo,24.01,President,3,REP,Mitt Romney and Paul Ryan,182
+Buffalo,25.01,President,3,REP,Mitt Romney and Paul Ryan,449
+Buffalo,26.01,President,3,REP,Mitt Romney and Paul Ryan,207
+Buffalo,27.01,President,3,REP,Mitt Romney and Paul Ryan,261
+Buffalo,28.01,President,3,REP,Mitt Romney and Paul Ryan,258
+Buffalo,30.01,President,3,REP,Mitt Romney and Paul Ryan,343
+Buffalo,31.01,President,3,REP,Mitt Romney and Paul Ryan,346
+Buffalo,33.01,President,3,REP,Mitt Romney and Paul Ryan,961
+Buffalo,34.01,President,3,REP,Mitt Romney and Paul Ryan,399
+Buffalo,35.01,President,3,REP,Mitt Romney and Paul Ryan,472
+Buffalo,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Buffalo,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,2
+Buffalo,Provisional,President,3,REP,Mitt Romney and Paul Ryan,0
+Buffalo,Countywide,Senator,3,REP,Deb Fischer,0
+Buffalo,EV/AB,Senator,3,REP,Deb Fischer,0
+Buffalo,1.01,Senator,3,REP,Deb Fischer,349
+Buffalo,2.01,Senator,3,REP,Deb Fischer,275
+Buffalo,3.01,Senator,3,REP,Deb Fischer,846
+Buffalo,4.01,Senator,3,REP,Deb Fischer,259
+Buffalo,5.01,Senator,3,REP,Deb Fischer,177
+Buffalo,6.01,Senator,3,REP,Deb Fischer,198
+Buffalo,7.01,Senator,3,REP,Deb Fischer,520
+Buffalo,8.01,Senator,3,REP,Deb Fischer,391
+Buffalo,9.01,Senator,3,REP,Deb Fischer,319
+Buffalo,10.01,Senator,3,REP,Deb Fischer,852
+Buffalo,11.01,Senator,3,REP,Deb Fischer,684
+Buffalo,12.01,Senator,3,REP,Deb Fischer,350
+Buffalo,13.01,Senator,3,REP,Deb Fischer,331
+Buffalo,14.01,Senator,3,REP,Deb Fischer,1031
+Buffalo,15.01,Senator,3,REP,Deb Fischer,392
+Buffalo,16.01,Senator,3,REP,Deb Fischer,255
+Buffalo,17.01,Senator,3,REP,Deb Fischer,391
+Buffalo,18.01,Senator,3,REP,Deb Fischer,339
+Buffalo,19.01,Senator,3,REP,Deb Fischer,577
+Buffalo,20.01,Senator,3,REP,Deb Fischer,383
+Buffalo,21.01,Senator,3,REP,Deb Fischer,223
+Buffalo,22.01,Senator,3,REP,Deb Fischer,237
+Buffalo,23.01,Senator,3,REP,Deb Fischer,194
+Buffalo,24.01,Senator,3,REP,Deb Fischer,187
+Buffalo,25.01,Senator,3,REP,Deb Fischer,466
+Buffalo,26.01,Senator,3,REP,Deb Fischer,227
+Buffalo,27.01,Senator,3,REP,Deb Fischer,260
+Buffalo,28.01,Senator,3,REP,Deb Fischer,259
+Buffalo,30.01,Senator,3,REP,Deb Fischer,336
+Buffalo,31.01,Senator,3,REP,Deb Fischer,345
+Buffalo,33.01,Senator,3,REP,Deb Fischer,959
+Buffalo,34.01,Senator,3,REP,Deb Fischer,405
+Buffalo,35.01,Senator,3,REP,Deb Fischer,474
+Buffalo,EV/AB,Senator,3,REP,Deb Fischer,0
+Buffalo,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Buffalo,Provisional,Senator,3,REP,Deb Fischer,0
+Buffalo,Countywide,Senator,3,DEM,Bob Kerrey,0
+Buffalo,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Buffalo,1.01,Senator,3,DEM,Bob Kerrey,212
+Buffalo,2.01,Senator,3,DEM,Bob Kerrey,151
+Buffalo,3.01,Senator,3,DEM,Bob Kerrey,392
+Buffalo,4.01,Senator,3,DEM,Bob Kerrey,167
+Buffalo,5.01,Senator,3,DEM,Bob Kerrey,136
+Buffalo,6.01,Senator,3,DEM,Bob Kerrey,148
+Buffalo,7.01,Senator,3,DEM,Bob Kerrey,284
+Buffalo,8.01,Senator,3,DEM,Bob Kerrey,188
+Buffalo,9.01,Senator,3,DEM,Bob Kerrey,227
+Buffalo,10.01,Senator,3,DEM,Bob Kerrey,305
+Buffalo,11.01,Senator,3,DEM,Bob Kerrey,293
+Buffalo,12.01,Senator,3,DEM,Bob Kerrey,166
+Buffalo,13.01,Senator,3,DEM,Bob Kerrey,189
+Buffalo,14.01,Senator,3,DEM,Bob Kerrey,492
+Buffalo,15.01,Senator,3,DEM,Bob Kerrey,165
+Buffalo,16.01,Senator,3,DEM,Bob Kerrey,147
+Buffalo,17.01,Senator,3,DEM,Bob Kerrey,139
+Buffalo,18.01,Senator,3,DEM,Bob Kerrey,80
+Buffalo,19.01,Senator,3,DEM,Bob Kerrey,231
+Buffalo,20.01,Senator,3,DEM,Bob Kerrey,147
+Buffalo,21.01,Senator,3,DEM,Bob Kerrey,68
+Buffalo,22.01,Senator,3,DEM,Bob Kerrey,95
+Buffalo,23.01,Senator,3,DEM,Bob Kerrey,59
+Buffalo,24.01,Senator,3,DEM,Bob Kerrey,39
+Buffalo,25.01,Senator,3,DEM,Bob Kerrey,119
+Buffalo,26.01,Senator,3,DEM,Bob Kerrey,65
+Buffalo,27.01,Senator,3,DEM,Bob Kerrey,63
+Buffalo,28.01,Senator,3,DEM,Bob Kerrey,52
+Buffalo,30.01,Senator,3,DEM,Bob Kerrey,95
+Buffalo,31.01,Senator,3,DEM,Bob Kerrey,194
+Buffalo,33.01,Senator,3,DEM,Bob Kerrey,266
+Buffalo,34.01,Senator,3,DEM,Bob Kerrey,193
+Buffalo,35.01,Senator,3,DEM,Bob Kerrey,212
+Buffalo,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Buffalo,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Buffalo,Provisional,Senator,3,DEM,Bob Kerrey,0
+Buffalo,Countywide,Representative,3,REP,Adrian Smith,0
+Buffalo,EV/AB,Representative,3,REP,Adrian Smith,0
+Buffalo,1.01,Representative,3,REP,Adrian Smith,407
+Buffalo,2.01,Representative,3,REP,Adrian Smith,311
+Buffalo,3.01,Representative,3,REP,Adrian Smith,910
+Buffalo,4.01,Representative,3,REP,Adrian Smith,293
+Buffalo,5.01,Representative,3,REP,Adrian Smith,207
+Buffalo,6.01,Representative,3,REP,Adrian Smith,232
+Buffalo,7.01,Representative,3,REP,Adrian Smith,578
+Buffalo,8.01,Representative,3,REP,Adrian Smith,425
+Buffalo,9.01,Representative,3,REP,Adrian Smith,367
+Buffalo,10.01,Representative,3,REP,Adrian Smith,934
+Buffalo,11.01,Representative,3,REP,Adrian Smith,736
+Buffalo,12.01,Representative,3,REP,Adrian Smith,395
+Buffalo,13.01,Representative,3,REP,Adrian Smith,355
+Buffalo,14.01,Representative,3,REP,Adrian Smith,1158
+Buffalo,15.01,Representative,3,REP,Adrian Smith,417
+Buffalo,16.01,Representative,3,REP,Adrian Smith,282
+Buffalo,17.01,Representative,3,REP,Adrian Smith,406
+Buffalo,18.01,Representative,3,REP,Adrian Smith,356
+Buffalo,19.01,Representative,3,REP,Adrian Smith,629
+Buffalo,20.01,Representative,3,REP,Adrian Smith,409
+Buffalo,21.01,Representative,3,REP,Adrian Smith,233
+Buffalo,22.01,Representative,3,REP,Adrian Smith,255
+Buffalo,23.01,Representative,3,REP,Adrian Smith,210
+Buffalo,24.01,Representative,3,REP,Adrian Smith,196
+Buffalo,25.01,Representative,3,REP,Adrian Smith,480
+Buffalo,26.01,Representative,3,REP,Adrian Smith,214
+Buffalo,27.01,Representative,3,REP,Adrian Smith,262
+Buffalo,28.01,Representative,3,REP,Adrian Smith,267
+Buffalo,30.01,Representative,3,REP,Adrian Smith,349
+Buffalo,31.01,Representative,3,REP,Adrian Smith,374
+Buffalo,33.01,Representative,3,REP,Adrian Smith,1010
+Buffalo,34.01,Representative,3,REP,Adrian Smith,422
+Buffalo,35.01,Representative,3,REP,Adrian Smith,503
+Buffalo,EV/AB,Representative,3,REP,Adrian Smith,0
+Buffalo,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Buffalo,Provisional,Representative,3,REP,Adrian Smith,0
+Buffalo,Countywide,Representative,3,DEM,Mark Sullivan,0
+Buffalo,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Buffalo,1.01,Representative,3,DEM,Mark Sullivan,151
+Buffalo,2.01,Representative,3,DEM,Mark Sullivan,119
+Buffalo,3.01,Representative,3,DEM,Mark Sullivan,308
+Buffalo,4.01,Representative,3,DEM,Mark Sullivan,124
+Buffalo,5.01,Representative,3,DEM,Mark Sullivan,103
+Buffalo,6.01,Representative,3,DEM,Mark Sullivan,111
+Buffalo,7.01,Representative,3,DEM,Mark Sullivan,211
+Buffalo,8.01,Representative,3,DEM,Mark Sullivan,146
+Buffalo,9.01,Representative,3,DEM,Mark Sullivan,177
+Buffalo,10.01,Representative,3,DEM,Mark Sullivan,201
+Buffalo,11.01,Representative,3,DEM,Mark Sullivan,212
+Buffalo,12.01,Representative,3,DEM,Mark Sullivan,117
+Buffalo,13.01,Representative,3,DEM,Mark Sullivan,154
+Buffalo,14.01,Representative,3,DEM,Mark Sullivan,339
+Buffalo,15.01,Representative,3,DEM,Mark Sullivan,135
+Buffalo,16.01,Representative,3,DEM,Mark Sullivan,108
+Buffalo,17.01,Representative,3,DEM,Mark Sullivan,107
+Buffalo,18.01,Representative,3,DEM,Mark Sullivan,57
+Buffalo,19.01,Representative,3,DEM,Mark Sullivan,167
+Buffalo,20.01,Representative,3,DEM,Mark Sullivan,116
+Buffalo,21.01,Representative,3,DEM,Mark Sullivan,55
+Buffalo,22.01,Representative,3,DEM,Mark Sullivan,64
+Buffalo,23.01,Representative,3,DEM,Mark Sullivan,44
+Buffalo,24.01,Representative,3,DEM,Mark Sullivan,27
+Buffalo,25.01,Representative,3,DEM,Mark Sullivan,100
+Buffalo,26.01,Representative,3,DEM,Mark Sullivan,80
+Buffalo,27.01,Representative,3,DEM,Mark Sullivan,55
+Buffalo,28.01,Representative,3,DEM,Mark Sullivan,39
+Buffalo,30.01,Representative,3,DEM,Mark Sullivan,77
+Buffalo,31.01,Representative,3,DEM,Mark Sullivan,163
+Buffalo,33.01,Representative,3,DEM,Mark Sullivan,206
+Buffalo,34.01,Representative,3,DEM,Mark Sullivan,172
+Buffalo,35.01,Representative,3,DEM,Mark Sullivan,176
+Buffalo,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Buffalo,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Buffalo,Provisional,Representative,3,DEM,Mark Sullivan,0
+Buffalo,Countywide,Legislature,LD0037,NON,Galen Hadley,0
+Buffalo,EV/AB,Legislature,LD0037,NON,Galen Hadley,0
+Buffalo,1.01,Legislature,LD0037,NON,Galen Hadley,236
+Buffalo,2.01,Legislature,LD0037,NON,Galen Hadley,189
+Buffalo,3.01,Legislature,LD0037,NON,Galen Hadley,572
+Buffalo,4.01,Legislature,LD0037,NON,Galen Hadley,199
+Buffalo,5.01,Legislature,LD0037,NON,Galen Hadley,154
+Buffalo,6.01,Legislature,LD0037,NON,Galen Hadley,172
+Buffalo,7.01,Legislature,LD0037,NON,Galen Hadley,326
+Buffalo,8.01,Legislature,LD0037,NON,Galen Hadley,253
+Buffalo,9.01,Legislature,LD0037,NON,Galen Hadley,242
+Buffalo,10.01,Legislature,LD0037,NON,Galen Hadley,583
+Buffalo,11.01,Legislature,LD0037,NON,Galen Hadley,529
+Buffalo,12.01,Legislature,LD0037,NON,Galen Hadley,256
+Buffalo,13.01,Legislature,LD0037,NON,Galen Hadley,263
+Buffalo,14.01,Legislature,LD0037,NON,Galen Hadley,825
+Buffalo,15.01,Legislature,LD0037,NON,Galen Hadley,277
+Buffalo,16.01,Legislature,LD0037,NON,Galen Hadley,196
+Buffalo,17.01,Legislature,LD0037,NON,Galen Hadley,332
+Buffalo,18.01,Legislature,LD0037,NON,Galen Hadley,174
+Buffalo,19.01,Legislature,LD0037,NON,Galen Hadley,209
+Buffalo,20.01,Legislature,LD0037,NON,Galen Hadley,0
+Buffalo,21.01,Legislature,LD0037,NON,Galen Hadley,128
+Buffalo,22.01,Legislature,LD0037,NON,Galen Hadley,184
+Buffalo,23.01,Legislature,LD0037,NON,Galen Hadley,0
+Buffalo,24.01,Legislature,LD0037,NON,Galen Hadley,0
+Buffalo,25.01,Legislature,LD0037,NON,Galen Hadley,21
+Buffalo,26.01,Legislature,LD0037,NON,Galen Hadley,15
+Buffalo,27.01,Legislature,LD0037,NON,Galen Hadley,0
+Buffalo,28.01,Legislature,LD0037,NON,Galen Hadley,40
+Buffalo,30.01,Legislature,LD0037,NON,Galen Hadley,146
+Buffalo,31.01,Legislature,LD0037,NON,Galen Hadley,0
+Buffalo,33.01,Legislature,LD0037,NON,Galen Hadley,312
+Buffalo,34.01,Legislature,LD0037,NON,Galen Hadley,243
+Buffalo,35.01,Legislature,LD0037,NON,Galen Hadley,300
+Buffalo,EV/AB,Legislature,LD0037,NON,Galen Hadley,0
+Buffalo,New/Former Resident,Legislature,LD0037,NON,Galen Hadley,0
+Buffalo,Provisional,Legislature,LD0037,NON,Galen Hadley,0
+Buffalo,Countywide,Legislature,LD0037,NON,Josiah H. Woodward,0
+Buffalo,EV/AB,Legislature,LD0037,NON,Josiah H. Woodward,0
+Buffalo,1.01,Legislature,LD0037,NON,Josiah H. Woodward,273
+Buffalo,2.01,Legislature,LD0037,NON,Josiah H. Woodward,209
+Buffalo,3.01,Legislature,LD0037,NON,Josiah H. Woodward,536
+Buffalo,4.01,Legislature,LD0037,NON,Josiah H. Woodward,170
+Buffalo,5.01,Legislature,LD0037,NON,Josiah H. Woodward,123
+Buffalo,6.01,Legislature,LD0037,NON,Josiah H. Woodward,143
+Buffalo,7.01,Legislature,LD0037,NON,Josiah H. Woodward,393
+Buffalo,8.01,Legislature,LD0037,NON,Josiah H. Woodward,277
+Buffalo,9.01,Legislature,LD0037,NON,Josiah H. Woodward,261
+Buffalo,10.01,Legislature,LD0037,NON,Josiah H. Woodward,457
+Buffalo,11.01,Legislature,LD0037,NON,Josiah H. Woodward,385
+Buffalo,12.01,Legislature,LD0037,NON,Josiah H. Woodward,215
+Buffalo,13.01,Legislature,LD0037,NON,Josiah H. Woodward,208
+Buffalo,14.01,Legislature,LD0037,NON,Josiah H. Woodward,544
+Buffalo,15.01,Legislature,LD0037,NON,Josiah H. Woodward,247
+Buffalo,16.01,Legislature,LD0037,NON,Josiah H. Woodward,158
+Buffalo,17.01,Legislature,LD0037,NON,Josiah H. Woodward,167
+Buffalo,18.01,Legislature,LD0037,NON,Josiah H. Woodward,215
+Buffalo,19.01,Legislature,LD0037,NON,Josiah H. Woodward,193
+Buffalo,20.01,Legislature,LD0037,NON,Josiah H. Woodward,0
+Buffalo,21.01,Legislature,LD0037,NON,Josiah H. Woodward,137
+Buffalo,22.01,Legislature,LD0037,NON,Josiah H. Woodward,127
+Buffalo,23.01,Legislature,LD0037,NON,Josiah H. Woodward,0
+Buffalo,24.01,Legislature,LD0037,NON,Josiah H. Woodward,0
+Buffalo,25.01,Legislature,LD0037,NON,Josiah H. Woodward,44
+Buffalo,26.01,Legislature,LD0037,NON,Josiah H. Woodward,30
+Buffalo,27.01,Legislature,LD0037,NON,Josiah H. Woodward,0
+Buffalo,28.01,Legislature,LD0037,NON,Josiah H. Woodward,78
+Buffalo,30.01,Legislature,LD0037,NON,Josiah H. Woodward,218
+Buffalo,31.01,Legislature,LD0037,NON,Josiah H. Woodward,0
+Buffalo,33.01,Legislature,LD0037,NON,Josiah H. Woodward,361
+Buffalo,34.01,Legislature,LD0037,NON,Josiah H. Woodward,289
+Buffalo,35.01,Legislature,LD0037,NON,Josiah H. Woodward,314
+Buffalo,EV/AB,Legislature,LD0037,NON,Josiah H. Woodward,0
+Buffalo,New/Former Resident,Legislature,LD0037,NON,Josiah H. Woodward,0
+Buffalo,Provisional,Legislature,LD0037,NON,Josiah H. Woodward,0

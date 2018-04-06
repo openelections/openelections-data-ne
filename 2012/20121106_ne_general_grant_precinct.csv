@@ -1,0 +1,71 @@
+county,precinct,office,district,party,candidate,votes
+Grant,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Grant,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Grant,Grant County,President,3,LIB,Gary Johnson and James P. Gray,7
+Grant,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Grant,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Grant,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Grant,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Grant,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Grant,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Grant,Grant County,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",30
+Grant,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Grant,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Grant,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Grant,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Grant,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Grant,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Grant,Grant County,President,3,ZZZ,Randall A. Terry and Marjorie Smith,4
+Grant,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Grant,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Grant,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Grant,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Grant,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Grant,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Grant,Grant County,President,3,REP,Mitt Romney and Paul Ryan,322
+Grant,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Grant,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Grant,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Grant,Provisional,President,3,REP,Mitt Romney and Paul Ryan,0
+Grant,Countywide,Senator,3,REP,Deb Fischer,0
+Grant,EV/AB,Senator,3,REP,Deb Fischer,0
+Grant,Grant County,Senator,3,REP,Deb Fischer,299
+Grant,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Grant,EV/AB,Senator,3,REP,Deb Fischer,0
+Grant,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Grant,Provisional,Senator,3,REP,Deb Fischer,0
+Grant,Countywide,Senator,3,DEM,Bob Kerrey,0
+Grant,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Grant,Grant County,Senator,3,DEM,Bob Kerrey,59
+Grant,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Grant,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Grant,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Grant,Provisional,Senator,3,DEM,Bob Kerrey,0
+Grant,Countywide,Representative,3,REP,Adrian Smith,0
+Grant,EV/AB,Representative,3,REP,Adrian Smith,0
+Grant,Grant County,Representative,3,REP,Adrian Smith,336
+Grant,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Grant,EV/AB,Representative,3,REP,Adrian Smith,0
+Grant,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Grant,Provisional,Representative,3,REP,Adrian Smith,0
+Grant,Countywide,Representative,3,DEM,Mark Sullivan,0
+Grant,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Grant,Grant County,Representative,3,DEM,Mark Sullivan,19
+Grant,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Grant,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Grant,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Grant,Provisional,Representative,3,DEM,Mark Sullivan,0
+Grant,Countywide,Legislature,LD0043,NON,Al Davis,0
+Grant,EV/AB,Legislature,LD0043,NON,Al Davis,0
+Grant,Grant County,Legislature,LD0043,NON,Al Davis,205
+Grant,New/Former Resident,Legislature,LD0043,NON,Al Davis,0
+Grant,EV/AB,Legislature,LD0043,NON,Al Davis,0
+Grant,New/Former Resident,Legislature,LD0043,NON,Al Davis,0
+Grant,Provisional,Legislature,LD0043,NON,Al Davis,0
+Grant,Countywide,Legislature,LD0043,NON,John W. Ravenscroft,0
+Grant,EV/AB,Legislature,LD0043,NON,John W. Ravenscroft,0
+Grant,Grant County,Legislature,LD0043,NON,John W. Ravenscroft,158
+Grant,New/Former Resident,Legislature,LD0043,NON,John W. Ravenscroft,0
+Grant,EV/AB,Legislature,LD0043,NON,John W. Ravenscroft,0
+Grant,New/Former Resident,Legislature,LD0043,NON,John W. Ravenscroft,0
+Grant,Provisional,Legislature,LD0043,NON,John W. Ravenscroft,0

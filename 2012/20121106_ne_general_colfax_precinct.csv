@@ -1,0 +1,121 @@
+county,precinct,office,district,party,candidate,votes
+Colfax,Countywide,President,1,LIB,Gary Johnson and James P. Gray,0
+Colfax,EV/AB,President,1,LIB,Gary Johnson and James P. Gray,0
+Colfax,Schuyler 1,President,1,LIB,Gary Johnson and James P. Gray,8
+Colfax,Schuyler 2,President,1,LIB,Gary Johnson and James P. Gray,14
+Colfax,Schuyler 3,President,1,LIB,Gary Johnson and James P. Gray,1
+Colfax,Clarkson 4,President,1,LIB,Gary Johnson and James P. Gray,3
+Colfax,Howells 5,President,1,LIB,Gary Johnson and James P. Gray,5
+Colfax,Cuming County PPD,President,1,LIB,Gary Johnson and James P. Gray,0
+Colfax,Stanton County PPD,President,1,LIB,Gary Johnson and James P. Gray,0
+Colfax,EV/AB,President,1,LIB,Gary Johnson and James P. Gray,0
+Colfax,New/Former Resident,President,1,LIB,Gary Johnson and James P. Gray,0
+Colfax,Provisional,President,1,LIB,Gary Johnson and James P. Gray,0
+Colfax,Countywide,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Colfax,EV/AB,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Colfax,Schuyler 1,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",199
+Colfax,Schuyler 2,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",271
+Colfax,Schuyler 3,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",228
+Colfax,Clarkson 4,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",162
+Colfax,Howells 5,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",108
+Colfax,Cuming County PPD,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Colfax,Stanton County PPD,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Colfax,EV/AB,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Colfax,New/Former Resident,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",1
+Colfax,Provisional,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Colfax,Countywide,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Colfax,EV/AB,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Colfax,Schuyler 1,President,1,ZZZ,Randall A. Terry and Marjorie Smith,4
+Colfax,Schuyler 2,President,1,ZZZ,Randall A. Terry and Marjorie Smith,1
+Colfax,Schuyler 3,President,1,ZZZ,Randall A. Terry and Marjorie Smith,1
+Colfax,Clarkson 4,President,1,ZZZ,Randall A. Terry and Marjorie Smith,4
+Colfax,Howells 5,President,1,ZZZ,Randall A. Terry and Marjorie Smith,2
+Colfax,Cuming County PPD,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Colfax,Stanton County PPD,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Colfax,EV/AB,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Colfax,New/Former Resident,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Colfax,Provisional,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Colfax,Countywide,President,1,REP,Mitt Romney and Paul Ryan,0
+Colfax,EV/AB,President,1,REP,Mitt Romney and Paul Ryan,0
+Colfax,Schuyler 1,President,1,REP,Mitt Romney and Paul Ryan,297
+Colfax,Schuyler 2,President,1,REP,Mitt Romney and Paul Ryan,504
+Colfax,Schuyler 3,President,1,REP,Mitt Romney and Paul Ryan,399
+Colfax,Clarkson 4,President,1,REP,Mitt Romney and Paul Ryan,492
+Colfax,Howells 5,President,1,REP,Mitt Romney and Paul Ryan,359
+Colfax,Cuming County PPD,President,1,REP,Mitt Romney and Paul Ryan,0
+Colfax,Stanton County PPD,President,1,REP,Mitt Romney and Paul Ryan,0
+Colfax,EV/AB,President,1,REP,Mitt Romney and Paul Ryan,0
+Colfax,New/Former Resident,President,1,REP,Mitt Romney and Paul Ryan,0
+Colfax,Provisional,President,1,REP,Mitt Romney and Paul Ryan,0
+Colfax,Countywide,Senator,1,REP,Deb Fischer,0
+Colfax,EV/AB,Senator,1,REP,Deb Fischer,0
+Colfax,Schuyler 1,Senator,1,REP,Deb Fischer,307
+Colfax,Schuyler 2,Senator,1,REP,Deb Fischer,498
+Colfax,Schuyler 3,Senator,1,REP,Deb Fischer,377
+Colfax,Clarkson 4,Senator,1,REP,Deb Fischer,475
+Colfax,Howells 5,Senator,1,REP,Deb Fischer,335
+Colfax,Cuming County PPD,Senator,1,REP,Deb Fischer,0
+Colfax,Stanton County PPD,Senator,1,REP,Deb Fischer,0
+Colfax,EV/AB,Senator,1,REP,Deb Fischer,0
+Colfax,New/Former Resident,Senator,1,REP,Deb Fischer,0
+Colfax,Provisional,Senator,1,REP,Deb Fischer,0
+Colfax,Countywide,Senator,1,DEM,Bob Kerrey,0
+Colfax,EV/AB,Senator,1,DEM,Bob Kerrey,0
+Colfax,Schuyler 1,Senator,1,DEM,Bob Kerrey,197
+Colfax,Schuyler 2,Senator,1,DEM,Bob Kerrey,287
+Colfax,Schuyler 3,Senator,1,DEM,Bob Kerrey,250
+Colfax,Clarkson 4,Senator,1,DEM,Bob Kerrey,192
+Colfax,Howells 5,Senator,1,DEM,Bob Kerrey,136
+Colfax,Cuming County PPD,Senator,1,DEM,Bob Kerrey,0
+Colfax,Stanton County PPD,Senator,1,DEM,Bob Kerrey,0
+Colfax,EV/AB,Senator,1,DEM,Bob Kerrey,0
+Colfax,New/Former Resident,Senator,1,DEM,Bob Kerrey,0
+Colfax,Provisional,Senator,1,DEM,Bob Kerrey,0
+Colfax,Countywide,Representative,1,REP,Jeff Fortenberry,0
+Colfax,EV/AB,Representative,1,REP,Jeff Fortenberry,0
+Colfax,Schuyler 1,Representative,1,REP,Jeff Fortenberry,356
+Colfax,Schuyler 2,Representative,1,REP,Jeff Fortenberry,576
+Colfax,Schuyler 3,Representative,1,REP,Jeff Fortenberry,448
+Colfax,Clarkson 4,Representative,1,REP,Jeff Fortenberry,549
+Colfax,Howells 5,Representative,1,REP,Jeff Fortenberry,379
+Colfax,Cuming County PPD,Representative,1,REP,Jeff Fortenberry,0
+Colfax,Stanton County PPD,Representative,1,REP,Jeff Fortenberry,0
+Colfax,EV/AB,Representative,1,REP,Jeff Fortenberry,0
+Colfax,New/Former Resident,Representative,1,REP,Jeff Fortenberry,0
+Colfax,Provisional,Representative,1,REP,Jeff Fortenberry,0
+Colfax,Countywide,Representative,1,DEM,Korey L. Reiman,0
+Colfax,EV/AB,Representative,1,DEM,Korey L. Reiman,0
+Colfax,Schuyler 1,Representative,1,DEM,Korey L. Reiman,136
+Colfax,Schuyler 2,Representative,1,DEM,Korey L. Reiman,183
+Colfax,Schuyler 3,Representative,1,DEM,Korey L. Reiman,159
+Colfax,Clarkson 4,Representative,1,DEM,Korey L. Reiman,98
+Colfax,Howells 5,Representative,1,DEM,Korey L. Reiman,66
+Colfax,Cuming County PPD,Representative,1,DEM,Korey L. Reiman,0
+Colfax,Stanton County PPD,Representative,1,DEM,Korey L. Reiman,0
+Colfax,EV/AB,Representative,1,DEM,Korey L. Reiman,0
+Colfax,New/Former Resident,Representative,1,DEM,Korey L. Reiman,0
+Colfax,Provisional,Representative,1,DEM,Korey L. Reiman,0
+Colfax,Countywide,Legislature,LD0023,NON,Vern Barrett,0
+Colfax,EV/AB,Legislature,LD0023,NON,Vern Barrett,0
+Colfax,Schuyler 1,Legislature,LD0023,NON,Vern Barrett,254
+Colfax,Schuyler 2,Legislature,LD0023,NON,Vern Barrett,320
+Colfax,Schuyler 3,Legislature,LD0023,NON,Vern Barrett,298
+Colfax,Clarkson 4,Legislature,LD0023,NON,Vern Barrett,0
+Colfax,Howells 5,Legislature,LD0023,NON,Vern Barrett,234
+Colfax,Cuming County PPD,Legislature,LD0023,NON,Vern Barrett,0
+Colfax,Stanton County PPD,Legislature,LD0023,NON,Vern Barrett,0
+Colfax,EV/AB,Legislature,LD0023,NON,Vern Barrett,0
+Colfax,New/Former Resident,Legislature,LD0023,NON,Vern Barrett,0
+Colfax,Provisional,Legislature,LD0023,NON,Vern Barrett,0
+Colfax,Countywide,Legislature,LD0023,NON,Jerry Johnson,0
+Colfax,EV/AB,Legislature,LD0023,NON,Jerry Johnson,0
+Colfax,Schuyler 1,Legislature,LD0023,NON,Jerry Johnson,207
+Colfax,Schuyler 2,Legislature,LD0023,NON,Jerry Johnson,376
+Colfax,Schuyler 3,Legislature,LD0023,NON,Jerry Johnson,286
+Colfax,Clarkson 4,Legislature,LD0023,NON,Jerry Johnson,0
+Colfax,Howells 5,Legislature,LD0023,NON,Jerry Johnson,170
+Colfax,Cuming County PPD,Legislature,LD0023,NON,Jerry Johnson,0
+Colfax,Stanton County PPD,Legislature,LD0023,NON,Jerry Johnson,0
+Colfax,EV/AB,Legislature,LD0023,NON,Jerry Johnson,0
+Colfax,New/Former Resident,Legislature,LD0023,NON,Jerry Johnson,0
+Colfax,Provisional,Legislature,LD0023,NON,Jerry Johnson,0

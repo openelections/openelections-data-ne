@@ -1,0 +1,101 @@
+county,precinct,office,district,party,candidate,votes
+Pierce,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Pierce,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,8
+Pierce,Osmond,President,3,LIB,Gary Johnson and James P. Gray,4
+Pierce,Plainview,President,3,LIB,Gary Johnson and James P. Gray,12
+Pierce,Pierce,President,3,LIB,Gary Johnson and James P. Gray,7
+Pierce,South Branch,President,3,LIB,Gary Johnson and James P. Gray,14
+Pierce,Pierce City,President,3,LIB,Gary Johnson and James P. Gray,12
+Pierce,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Pierce,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Pierce,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Pierce,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Pierce,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",145
+Pierce,Osmond,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",93
+Pierce,Plainview,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",139
+Pierce,Pierce,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",74
+Pierce,South Branch,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",39
+Pierce,Pierce City,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",147
+Pierce,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Pierce,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Pierce,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Pierce,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Pierce,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Pierce,Osmond,President,3,ZZZ,Randall A. Terry and Marjorie Smith,3
+Pierce,Plainview,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Pierce,Pierce,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Pierce,South Branch,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Pierce,Pierce City,President,3,ZZZ,Randall A. Terry and Marjorie Smith,4
+Pierce,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Pierce,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Pierce,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Pierce,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Pierce,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,510
+Pierce,Osmond,President,3,REP,Mitt Romney and Paul Ryan,555
+Pierce,Plainview,President,3,REP,Mitt Romney and Paul Ryan,454
+Pierce,Pierce,President,3,REP,Mitt Romney and Paul Ryan,496
+Pierce,South Branch,President,3,REP,Mitt Romney and Paul Ryan,248
+Pierce,Pierce City,President,3,REP,Mitt Romney and Paul Ryan,444
+Pierce,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Pierce,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Pierce,Provisional,President,3,REP,Mitt Romney and Paul Ryan,0
+Pierce,Countywide,Senator,3,REP,Deb Fischer,0
+Pierce,EV/AB,Senator,3,REP,Deb Fischer,513
+Pierce,Osmond,Senator,3,REP,Deb Fischer,541
+Pierce,Plainview,Senator,3,REP,Deb Fischer,448
+Pierce,Pierce,Senator,3,REP,Deb Fischer,495
+Pierce,South Branch,Senator,3,REP,Deb Fischer,260
+Pierce,Pierce City,Senator,3,REP,Deb Fischer,459
+Pierce,EV/AB,Senator,3,REP,Deb Fischer,0
+Pierce,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Pierce,Provisional,Senator,3,REP,Deb Fischer,0
+Pierce,Countywide,Senator,3,DEM,Bob Kerrey,0
+Pierce,EV/AB,Senator,3,DEM,Bob Kerrey,148
+Pierce,Osmond,Senator,3,DEM,Bob Kerrey,109
+Pierce,Plainview,Senator,3,DEM,Bob Kerrey,164
+Pierce,Pierce,Senator,3,DEM,Bob Kerrey,84
+Pierce,South Branch,Senator,3,DEM,Bob Kerrey,45
+Pierce,Pierce City,Senator,3,DEM,Bob Kerrey,148
+Pierce,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Pierce,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Pierce,Provisional,Senator,3,DEM,Bob Kerrey,0
+Pierce,Countywide,Representative,3,REP,Adrian Smith,0
+Pierce,EV/AB,Representative,3,REP,Adrian Smith,505
+Pierce,Osmond,Representative,3,REP,Adrian Smith,517
+Pierce,Plainview,Representative,3,REP,Adrian Smith,465
+Pierce,Pierce,Representative,3,REP,Adrian Smith,478
+Pierce,South Branch,Representative,3,REP,Adrian Smith,250
+Pierce,Pierce City,Representative,3,REP,Adrian Smith,476
+Pierce,EV/AB,Representative,3,REP,Adrian Smith,0
+Pierce,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Pierce,Provisional,Representative,3,REP,Adrian Smith,0
+Pierce,Countywide,Representative,3,DEM,Mark Sullivan,0
+Pierce,EV/AB,Representative,3,DEM,Mark Sullivan,131
+Pierce,Osmond,Representative,3,DEM,Mark Sullivan,95
+Pierce,Plainview,Representative,3,DEM,Mark Sullivan,125
+Pierce,Pierce,Representative,3,DEM,Mark Sullivan,67
+Pierce,South Branch,Representative,3,DEM,Mark Sullivan,36
+Pierce,Pierce City,Representative,3,DEM,Mark Sullivan,106
+Pierce,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Pierce,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Pierce,Provisional,Representative,3,DEM,Mark Sullivan,0
+Pierce,Countywide,Legislature,LD0041,NON,Brook Curtiss,0
+Pierce,EV/AB,Legislature,LD0041,NON,Brook Curtiss,184
+Pierce,Osmond,Legislature,LD0041,NON,Brook Curtiss,197
+Pierce,Plainview,Legislature,LD0041,NON,Brook Curtiss,262
+Pierce,Pierce,Legislature,LD0041,NON,Brook Curtiss,119
+Pierce,South Branch,Legislature,LD0041,NON,Brook Curtiss,69
+Pierce,Pierce City,Legislature,LD0041,NON,Brook Curtiss,119
+Pierce,EV/AB,Legislature,LD0041,NON,Brook Curtiss,0
+Pierce,New/Former Resident,Legislature,LD0041,NON,Brook Curtiss,0
+Pierce,Provisional,Legislature,LD0041,NON,Brook Curtiss,0
+Pierce,Countywide,Legislature,LD0041,NON,Kate Sullivan,0
+Pierce,EV/AB,Legislature,LD0041,NON,Kate Sullivan,397
+Pierce,Osmond,Legislature,LD0041,NON,Kate Sullivan,380
+Pierce,Plainview,Legislature,LD0041,NON,Kate Sullivan,340
+Pierce,Pierce,Legislature,LD0041,NON,Kate Sullivan,375
+Pierce,South Branch,Legislature,LD0041,NON,Kate Sullivan,183
+Pierce,Pierce City,Legislature,LD0041,NON,Kate Sullivan,418
+Pierce,EV/AB,Legislature,LD0041,NON,Kate Sullivan,0
+Pierce,New/Former Resident,Legislature,LD0041,NON,Kate Sullivan,0
+Pierce,Provisional,Legislature,LD0041,NON,Kate Sullivan,0

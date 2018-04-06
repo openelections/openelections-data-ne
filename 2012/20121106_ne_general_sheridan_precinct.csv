@@ -1,0 +1,131 @@
+county,precinct,office,district,party,candidate,votes
+Sheridan,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Sheridan,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,10
+Sheridan,East Gordon,President,3,LIB,Gary Johnson and James P. Gray,7
+Sheridan,West Gordon,President,3,LIB,Gary Johnson and James P. Gray,6
+Sheridan,North Rushville,President,3,LIB,Gary Johnson and James P. Gray,5
+Sheridan,South Rushville,President,3,LIB,Gary Johnson and James P. Gray,0
+Sheridan,Hay Springs,President,3,LIB,Gary Johnson and James P. Gray,7
+Sheridan,Mirage,President,3,LIB,Gary Johnson and James P. Gray,2
+Sheridan,South Sheridan,President,3,LIB,Gary Johnson and James P. Gray,4
+Sheridan,Wounded Knee,President,3,LIB,Gary Johnson and James P. Gray,3
+Sheridan,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Sheridan,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Sheridan,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Sheridan,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Sheridan,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",71
+Sheridan,East Gordon,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",74
+Sheridan,West Gordon,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",46
+Sheridan,North Rushville,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",51
+Sheridan,South Rushville,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",52
+Sheridan,Hay Springs,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",61
+Sheridan,Mirage,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",14
+Sheridan,South Sheridan,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",12
+Sheridan,Wounded Knee,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",8
+Sheridan,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Sheridan,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Sheridan,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",1
+Sheridan,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Sheridan,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Sheridan,East Gordon,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Sheridan,West Gordon,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Sheridan,North Rushville,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Sheridan,South Rushville,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Sheridan,Hay Springs,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Sheridan,Mirage,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Sheridan,South Sheridan,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Sheridan,Wounded Knee,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Sheridan,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Sheridan,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Sheridan,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Sheridan,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Sheridan,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,345
+Sheridan,East Gordon,President,3,REP,Mitt Romney and Paul Ryan,270
+Sheridan,West Gordon,President,3,REP,Mitt Romney and Paul Ryan,279
+Sheridan,North Rushville,President,3,REP,Mitt Romney and Paul Ryan,251
+Sheridan,South Rushville,President,3,REP,Mitt Romney and Paul Ryan,171
+Sheridan,Hay Springs,President,3,REP,Mitt Romney and Paul Ryan,322
+Sheridan,Mirage,President,3,REP,Mitt Romney and Paul Ryan,125
+Sheridan,South Sheridan,President,3,REP,Mitt Romney and Paul Ryan,134
+Sheridan,Wounded Knee,President,3,REP,Mitt Romney and Paul Ryan,113
+Sheridan,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Sheridan,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Sheridan,Provisional,President,3,REP,Mitt Romney and Paul Ryan,11
+Sheridan,Countywide,Senator,3,REP,Deb Fischer,0
+Sheridan,EV/AB,Senator,3,REP,Deb Fischer,347
+Sheridan,East Gordon,Senator,3,REP,Deb Fischer,256
+Sheridan,West Gordon,Senator,3,REP,Deb Fischer,277
+Sheridan,North Rushville,Senator,3,REP,Deb Fischer,243
+Sheridan,South Rushville,Senator,3,REP,Deb Fischer,167
+Sheridan,Hay Springs,Senator,3,REP,Deb Fischer,316
+Sheridan,Mirage,Senator,3,REP,Deb Fischer,118
+Sheridan,South Sheridan,Senator,3,REP,Deb Fischer,140
+Sheridan,Wounded Knee,Senator,3,REP,Deb Fischer,112
+Sheridan,EV/AB,Senator,3,REP,Deb Fischer,0
+Sheridan,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Sheridan,Provisional,Senator,3,REP,Deb Fischer,10
+Sheridan,Countywide,Senator,3,DEM,Bob Kerrey,0
+Sheridan,EV/AB,Senator,3,DEM,Bob Kerrey,81
+Sheridan,East Gordon,Senator,3,DEM,Bob Kerrey,100
+Sheridan,West Gordon,Senator,3,DEM,Bob Kerrey,58
+Sheridan,North Rushville,Senator,3,DEM,Bob Kerrey,66
+Sheridan,South Rushville,Senator,3,DEM,Bob Kerrey,57
+Sheridan,Hay Springs,Senator,3,DEM,Bob Kerrey,73
+Sheridan,Mirage,Senator,3,DEM,Bob Kerrey,26
+Sheridan,South Sheridan,Senator,3,DEM,Bob Kerrey,15
+Sheridan,Wounded Knee,Senator,3,DEM,Bob Kerrey,11
+Sheridan,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Sheridan,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Sheridan,Provisional,Senator,3,DEM,Bob Kerrey,2
+Sheridan,Countywide,Representative,3,REP,Adrian Smith,0
+Sheridan,EV/AB,Representative,3,REP,Adrian Smith,350
+Sheridan,East Gordon,Representative,3,REP,Adrian Smith,278
+Sheridan,West Gordon,Representative,3,REP,Adrian Smith,289
+Sheridan,North Rushville,Representative,3,REP,Adrian Smith,263
+Sheridan,South Rushville,Representative,3,REP,Adrian Smith,179
+Sheridan,Hay Springs,Representative,3,REP,Adrian Smith,321
+Sheridan,Mirage,Representative,3,REP,Adrian Smith,130
+Sheridan,South Sheridan,Representative,3,REP,Adrian Smith,148
+Sheridan,Wounded Knee,Representative,3,REP,Adrian Smith,113
+Sheridan,EV/AB,Representative,3,REP,Adrian Smith,0
+Sheridan,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Sheridan,Provisional,Representative,3,REP,Adrian Smith,10
+Sheridan,Countywide,Representative,3,DEM,Mark Sullivan,0
+Sheridan,EV/AB,Representative,3,DEM,Mark Sullivan,68
+Sheridan,East Gordon,Representative,3,DEM,Mark Sullivan,63
+Sheridan,West Gordon,Representative,3,DEM,Mark Sullivan,38
+Sheridan,North Rushville,Representative,3,DEM,Mark Sullivan,42
+Sheridan,South Rushville,Representative,3,DEM,Mark Sullivan,38
+Sheridan,Hay Springs,Representative,3,DEM,Mark Sullivan,56
+Sheridan,Mirage,Representative,3,DEM,Mark Sullivan,15
+Sheridan,South Sheridan,Representative,3,DEM,Mark Sullivan,6
+Sheridan,Wounded Knee,Representative,3,DEM,Mark Sullivan,4
+Sheridan,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Sheridan,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Sheridan,Provisional,Representative,3,DEM,Mark Sullivan,2
+Sheridan,Countywide,Legislature,LD0043,NON,Al Davis,0
+Sheridan,EV/AB,Legislature,LD0043,NON,Al Davis,225
+Sheridan,East Gordon,Legislature,LD0043,NON,Al Davis,200
+Sheridan,West Gordon,Legislature,LD0043,NON,Al Davis,193
+Sheridan,North Rushville,Legislature,LD0043,NON,Al Davis,186
+Sheridan,South Rushville,Legislature,LD0043,NON,Al Davis,120
+Sheridan,Hay Springs,Legislature,LD0043,NON,Al Davis,208
+Sheridan,Mirage,Legislature,LD0043,NON,Al Davis,82
+Sheridan,South Sheridan,Legislature,LD0043,NON,Al Davis,69
+Sheridan,Wounded Knee,Legislature,LD0043,NON,Al Davis,58
+Sheridan,EV/AB,Legislature,LD0043,NON,Al Davis,0
+Sheridan,New/Former Resident,Legislature,LD0043,NON,Al Davis,0
+Sheridan,Provisional,Legislature,LD0043,NON,Al Davis,6
+Sheridan,Countywide,Legislature,LD0043,NON,John W. Ravenscroft,0
+Sheridan,EV/AB,Legislature,LD0043,NON,John W. Ravenscroft,177
+Sheridan,East Gordon,Legislature,LD0043,NON,John W. Ravenscroft,151
+Sheridan,West Gordon,Legislature,LD0043,NON,John W. Ravenscroft,135
+Sheridan,North Rushville,Legislature,LD0043,NON,John W. Ravenscroft,121
+Sheridan,South Rushville,Legislature,LD0043,NON,John W. Ravenscroft,99
+Sheridan,Hay Springs,Legislature,LD0043,NON,John W. Ravenscroft,169
+Sheridan,Mirage,Legislature,LD0043,NON,John W. Ravenscroft,59
+Sheridan,South Sheridan,Legislature,LD0043,NON,John W. Ravenscroft,85
+Sheridan,Wounded Knee,Legislature,LD0043,NON,John W. Ravenscroft,62
+Sheridan,EV/AB,Legislature,LD0043,NON,John W. Ravenscroft,0
+Sheridan,New/Former Resident,Legislature,LD0043,NON,John W. Ravenscroft,0
+Sheridan,Provisional,Legislature,LD0043,NON,John W. Ravenscroft,6

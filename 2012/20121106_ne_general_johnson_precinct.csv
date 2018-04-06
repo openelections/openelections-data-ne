@@ -1,0 +1,121 @@
+county,precinct,office,district,party,candidate,votes
+Johnson,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Johnson,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,5
+Johnson,Nemaha I,President,3,LIB,Gary Johnson and James P. Gray,2
+Johnson,Nemaha II,President,3,LIB,Gary Johnson and James P. Gray,14
+Johnson,Sterling,President,3,LIB,Gary Johnson and James P. Gray,6
+Johnson,Spring Creek,President,3,LIB,Gary Johnson and James P. Gray,6
+Johnson,Todd Creek,President,3,LIB,Gary Johnson and James P. Gray,3
+Johnson,Western,President,3,LIB,Gary Johnson and James P. Gray,0
+Johnson,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Johnson,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Johnson,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Johnson,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Johnson,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Johnson,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",191
+Johnson,Nemaha I,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",100
+Johnson,Nemaha II,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",179
+Johnson,Sterling,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",171
+Johnson,Spring Creek,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",76
+Johnson,Todd Creek,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",39
+Johnson,Western,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",34
+Johnson,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Johnson,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Johnson,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Johnson,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Johnson,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Johnson,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Johnson,Nemaha I,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Johnson,Nemaha II,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Johnson,Sterling,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Johnson,Spring Creek,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Johnson,Todd Creek,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Johnson,Western,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Johnson,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Johnson,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Johnson,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Johnson,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Johnson,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Johnson,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,202
+Johnson,Nemaha I,President,3,REP,Mitt Romney and Paul Ryan,138
+Johnson,Nemaha II,President,3,REP,Mitt Romney and Paul Ryan,308
+Johnson,Sterling,President,3,REP,Mitt Romney and Paul Ryan,284
+Johnson,Spring Creek,President,3,REP,Mitt Romney and Paul Ryan,151
+Johnson,Todd Creek,President,3,REP,Mitt Romney and Paul Ryan,89
+Johnson,Western,President,3,REP,Mitt Romney and Paul Ryan,53
+Johnson,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Johnson,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Johnson,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Johnson,Provisional,President,3,REP,Mitt Romney and Paul Ryan,0
+Johnson,Countywide,Senator,3,REP,Deb Fischer,0
+Johnson,EV/AB,Senator,3,REP,Deb Fischer,181
+Johnson,Nemaha I,Senator,3,REP,Deb Fischer,136
+Johnson,Nemaha II,Senator,3,REP,Deb Fischer,287
+Johnson,Sterling,Senator,3,REP,Deb Fischer,237
+Johnson,Spring Creek,Senator,3,REP,Deb Fischer,148
+Johnson,Todd Creek,Senator,3,REP,Deb Fischer,98
+Johnson,Western,Senator,3,REP,Deb Fischer,60
+Johnson,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Johnson,EV/AB,Senator,3,REP,Deb Fischer,0
+Johnson,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Johnson,Provisional,Senator,3,REP,Deb Fischer,0
+Johnson,Countywide,Senator,3,DEM,Bob Kerrey,0
+Johnson,EV/AB,Senator,3,DEM,Bob Kerrey,226
+Johnson,Nemaha I,Senator,3,DEM,Bob Kerrey,108
+Johnson,Nemaha II,Senator,3,DEM,Bob Kerrey,215
+Johnson,Sterling,Senator,3,DEM,Bob Kerrey,219
+Johnson,Spring Creek,Senator,3,DEM,Bob Kerrey,81
+Johnson,Todd Creek,Senator,3,DEM,Bob Kerrey,32
+Johnson,Western,Senator,3,DEM,Bob Kerrey,29
+Johnson,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Johnson,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Johnson,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Johnson,Provisional,Senator,3,DEM,Bob Kerrey,0
+Johnson,Countywide,Representative,3,REP,Adrian Smith,0
+Johnson,EV/AB,Representative,3,REP,Adrian Smith,203
+Johnson,Nemaha I,Representative,3,REP,Adrian Smith,145
+Johnson,Nemaha II,Representative,3,REP,Adrian Smith,308
+Johnson,Sterling,Representative,3,REP,Adrian Smith,282
+Johnson,Spring Creek,Representative,3,REP,Adrian Smith,156
+Johnson,Todd Creek,Representative,3,REP,Adrian Smith,93
+Johnson,Western,Representative,3,REP,Adrian Smith,59
+Johnson,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Johnson,EV/AB,Representative,3,REP,Adrian Smith,0
+Johnson,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Johnson,Provisional,Representative,3,REP,Adrian Smith,0
+Johnson,Countywide,Representative,3,DEM,Mark Sullivan,0
+Johnson,EV/AB,Representative,3,DEM,Mark Sullivan,173
+Johnson,Nemaha I,Representative,3,DEM,Mark Sullivan,75
+Johnson,Nemaha II,Representative,3,DEM,Mark Sullivan,151
+Johnson,Sterling,Representative,3,DEM,Mark Sullivan,138
+Johnson,Spring Creek,Representative,3,DEM,Mark Sullivan,54
+Johnson,Todd Creek,Representative,3,DEM,Mark Sullivan,25
+Johnson,Western,Representative,3,DEM,Mark Sullivan,25
+Johnson,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Johnson,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Johnson,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Johnson,Provisional,Representative,3,DEM,Mark Sullivan,0
+Johnson,Countywide,Legislature,LD0001,NON,Jerry Joy,0
+Johnson,EV/AB,Legislature,LD0001,NON,Jerry Joy,174
+Johnson,Nemaha I,Legislature,LD0001,NON,Jerry Joy,97
+Johnson,Nemaha II,Legislature,LD0001,NON,Jerry Joy,181
+Johnson,Sterling,Legislature,LD0001,NON,Jerry Joy,165
+Johnson,Spring Creek,Legislature,LD0001,NON,Jerry Joy,83
+Johnson,Todd Creek,Legislature,LD0001,NON,Jerry Joy,28
+Johnson,Western,Legislature,LD0001,NON,Jerry Joy,40
+Johnson,New/Former Resident,Legislature,LD0001,NON,Jerry Joy,0
+Johnson,EV/AB,Legislature,LD0001,NON,Jerry Joy,0
+Johnson,New/Former Resident,Legislature,LD0001,NON,Jerry Joy,0
+Johnson,Provisional,Legislature,LD0001,NON,Jerry Joy,0
+Johnson,Countywide,Legislature,LD0001,NON,Dan Watermeier,0
+Johnson,EV/AB,Legislature,LD0001,NON,Dan Watermeier,213
+Johnson,Nemaha I,Legislature,LD0001,NON,Dan Watermeier,143
+Johnson,Nemaha II,Legislature,LD0001,NON,Dan Watermeier,299
+Johnson,Sterling,Legislature,LD0001,NON,Dan Watermeier,286
+Johnson,Spring Creek,Legislature,LD0001,NON,Dan Watermeier,147
+Johnson,Todd Creek,Legislature,LD0001,NON,Dan Watermeier,101
+Johnson,Western,Legislature,LD0001,NON,Dan Watermeier,42
+Johnson,New/Former Resident,Legislature,LD0001,NON,Dan Watermeier,0
+Johnson,EV/AB,Legislature,LD0001,NON,Dan Watermeier,0
+Johnson,New/Former Resident,Legislature,LD0001,NON,Dan Watermeier,0
+Johnson,Provisional,Legislature,LD0001,NON,Dan Watermeier,0

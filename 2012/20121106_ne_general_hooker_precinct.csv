@@ -1,0 +1,51 @@
+county,precinct,office,district,party,candidate,votes
+Hooker,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Hooker,Precinct 1,President,3,LIB,Gary Johnson and James P. Gray,2
+Hooker,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Hooker,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Hooker,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Hooker,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Hooker,Precinct 1,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",50
+Hooker,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",9
+Hooker,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Hooker,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Hooker,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Hooker,Precinct 1,President,3,ZZZ,Randall A. Terry and Marjorie Smith,3
+Hooker,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Hooker,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Hooker,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Hooker,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Hooker,Precinct 1,President,3,REP,Mitt Romney and Paul Ryan,274
+Hooker,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,55
+Hooker,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,1
+Hooker,Provisional,President,3,REP,Mitt Romney and Paul Ryan,0
+Hooker,Countywide,Senator,3,REP,Deb Fischer,0
+Hooker,Precinct 1,Senator,3,REP,Deb Fischer,283
+Hooker,EV/AB,Senator,3,REP,Deb Fischer,50
+Hooker,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Hooker,Provisional,Senator,3,REP,Deb Fischer,0
+Hooker,Countywide,Senator,3,DEM,Bob Kerrey,0
+Hooker,Precinct 1,Senator,3,DEM,Bob Kerrey,53
+Hooker,EV/AB,Senator,3,DEM,Bob Kerrey,16
+Hooker,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Hooker,Provisional,Senator,3,DEM,Bob Kerrey,0
+Hooker,Countywide,Representative,3,REP,Adrian Smith,0
+Hooker,Precinct 1,Representative,3,REP,Adrian Smith,294
+Hooker,EV/AB,Representative,3,REP,Adrian Smith,57
+Hooker,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Hooker,Provisional,Representative,3,REP,Adrian Smith,0
+Hooker,Countywide,Representative,3,DEM,Mark Sullivan,0
+Hooker,Precinct 1,Representative,3,DEM,Mark Sullivan,31
+Hooker,EV/AB,Representative,3,DEM,Mark Sullivan,8
+Hooker,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Hooker,Provisional,Representative,3,DEM,Mark Sullivan,0
+Hooker,Countywide,Legislature,LD0043,NON,Al Davis,0
+Hooker,Precinct 1,Legislature,LD0043,NON,Al Davis,148
+Hooker,EV/AB,Legislature,LD0043,NON,Al Davis,19
+Hooker,New/Former Resident,Legislature,LD0043,NON,Al Davis,0
+Hooker,Provisional,Legislature,LD0043,NON,Al Davis,0
+Hooker,Countywide,Legislature,LD0043,NON,John W. Ravenscroft,0
+Hooker,Precinct 1,Legislature,LD0043,NON,John W. Ravenscroft,174
+Hooker,EV/AB,Legislature,LD0043,NON,John W. Ravenscroft,41
+Hooker,New/Former Resident,Legislature,LD0043,NON,John W. Ravenscroft,0
+Hooker,Provisional,Legislature,LD0043,NON,John W. Ravenscroft,0

@@ -1,0 +1,105 @@
+county,precinct,office,district,party,candidate,votes
+Harlan,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Harlan,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Harlan,Republican City,President,3,LIB,Gary Johnson and James P. Gray,0
+Harlan,Huntley-Ragan,President,3,LIB,Gary Johnson and James P. Gray,6
+Harlan,East Alma,President,3,LIB,Gary Johnson and James P. Gray,3
+Harlan,Central Alma,President,3,LIB,Gary Johnson and James P. Gray,2
+Harlan,West Alma,President,3,LIB,Gary Johnson and James P. Gray,1
+Harlan,Orleans,President,3,LIB,Gary Johnson and James P. Gray,3
+Harlan,Stamford,President,3,LIB,Gary Johnson and James P. Gray,3
+Harlan,Oxford,President,3,LIB,Gary Johnson and James P. Gray,2
+Harlan,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Harlan,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Harlan,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Harlan,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Harlan,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Harlan,Republican City,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",42
+Harlan,Huntley-Ragan,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",42
+Harlan,East Alma,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",38
+Harlan,Central Alma,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",52
+Harlan,West Alma,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",55
+Harlan,Orleans,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",68
+Harlan,Stamford,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",31
+Harlan,Oxford,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",26
+Harlan,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Harlan,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Harlan,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Harlan,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Harlan,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Harlan,Republican City,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Harlan,Huntley-Ragan,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Harlan,East Alma,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Harlan,Central Alma,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Harlan,West Alma,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Harlan,Orleans,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Harlan,Stamford,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Harlan,Oxford,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Harlan,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Harlan,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Harlan,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Harlan,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Harlan,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Harlan,Republican City,President,3,REP,Mitt Romney and Paul Ryan,179
+Harlan,Huntley-Ragan,President,3,REP,Mitt Romney and Paul Ryan,149
+Harlan,East Alma,President,3,REP,Mitt Romney and Paul Ryan,176
+Harlan,Central Alma,President,3,REP,Mitt Romney and Paul Ryan,187
+Harlan,West Alma,President,3,REP,Mitt Romney and Paul Ryan,176
+Harlan,Orleans,President,3,REP,Mitt Romney and Paul Ryan,214
+Harlan,Stamford,President,3,REP,Mitt Romney and Paul Ryan,133
+Harlan,Oxford,President,3,REP,Mitt Romney and Paul Ryan,181
+Harlan,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Harlan,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Harlan,Provisional,President,3,REP,Mitt Romney and Paul Ryan,0
+Harlan,Countywide,Senator,3,REP,Deb Fischer,0
+Harlan,EV/AB,Senator,3,REP,Deb Fischer,0
+Harlan,Republican City,Senator,3,REP,Deb Fischer,174
+Harlan,Huntley-Ragan,Senator,3,REP,Deb Fischer,151
+Harlan,East Alma,Senator,3,REP,Deb Fischer,167
+Harlan,Central Alma,Senator,3,REP,Deb Fischer,168
+Harlan,West Alma,Senator,3,REP,Deb Fischer,172
+Harlan,Orleans,Senator,3,REP,Deb Fischer,197
+Harlan,Stamford,Senator,3,REP,Deb Fischer,129
+Harlan,Oxford,Senator,3,REP,Deb Fischer,171
+Harlan,EV/AB,Senator,3,REP,Deb Fischer,0
+Harlan,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Harlan,Provisional,Senator,3,REP,Deb Fischer,0
+Harlan,Countywide,Senator,3,DEM,Bob Kerrey,0
+Harlan,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Harlan,Republican City,Senator,3,DEM,Bob Kerrey,47
+Harlan,Huntley-Ragan,Senator,3,DEM,Bob Kerrey,45
+Harlan,East Alma,Senator,3,DEM,Bob Kerrey,45
+Harlan,Central Alma,Senator,3,DEM,Bob Kerrey,70
+Harlan,West Alma,Senator,3,DEM,Bob Kerrey,61
+Harlan,Orleans,Senator,3,DEM,Bob Kerrey,83
+Harlan,Stamford,Senator,3,DEM,Bob Kerrey,39
+Harlan,Oxford,Senator,3,DEM,Bob Kerrey,38
+Harlan,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Harlan,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Harlan,Provisional,Senator,3,DEM,Bob Kerrey,0
+Harlan,Countywide,Representative,3,REP,Adrian Smith,0
+Harlan,EV/AB,Representative,3,REP,Adrian Smith,0
+Harlan,Republican City,Representative,3,REP,Adrian Smith,184
+Harlan,Huntley-Ragan,Representative,3,REP,Adrian Smith,152
+Harlan,East Alma,Representative,3,REP,Adrian Smith,178
+Harlan,Central Alma,Representative,3,REP,Adrian Smith,196
+Harlan,West Alma,Representative,3,REP,Adrian Smith,186
+Harlan,Orleans,Representative,3,REP,Adrian Smith,215
+Harlan,Stamford,Representative,3,REP,Adrian Smith,143
+Harlan,Oxford,Representative,3,REP,Adrian Smith,174
+Harlan,EV/AB,Representative,3,REP,Adrian Smith,0
+Harlan,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Harlan,Provisional,Representative,3,REP,Adrian Smith,0
+Harlan,Countywide,Representative,3,DEM,Mark Sullivan,0
+Harlan,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Harlan,Republican City,Representative,3,DEM,Mark Sullivan,38
+Harlan,Huntley-Ragan,Representative,3,DEM,Mark Sullivan,44
+Harlan,East Alma,Representative,3,DEM,Mark Sullivan,31
+Harlan,Central Alma,Representative,3,DEM,Mark Sullivan,39
+Harlan,West Alma,Representative,3,DEM,Mark Sullivan,39
+Harlan,Orleans,Representative,3,DEM,Mark Sullivan,67
+Harlan,Stamford,Representative,3,DEM,Mark Sullivan,22
+Harlan,Oxford,Representative,3,DEM,Mark Sullivan,35
+Harlan,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Harlan,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Harlan,Provisional,Representative,3,DEM,Mark Sullivan,0

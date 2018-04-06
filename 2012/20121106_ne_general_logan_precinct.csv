@@ -1,0 +1,61 @@
+county,precinct,office,district,party,candidate,votes
+Logan,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Logan,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Logan,Logan County,President,3,LIB,Gary Johnson and James P. Gray,3
+Logan,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,2
+Logan,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Logan,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Logan,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Logan,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Logan,Logan County,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",49
+Logan,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",19
+Logan,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Logan,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Logan,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Logan,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Logan,Logan County,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Logan,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Logan,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Logan,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Logan,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Logan,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Logan,Logan County,President,3,REP,Mitt Romney and Paul Ryan,286
+Logan,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,70
+Logan,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Logan,Provisional,President,3,REP,Mitt Romney and Paul Ryan,0
+Logan,Countywide,Senator,3,REP,Deb Fischer,0
+Logan,EV/AB,Senator,3,REP,Deb Fischer,0
+Logan,Logan County,Senator,3,REP,Deb Fischer,283
+Logan,EV/AB,Senator,3,REP,Deb Fischer,74
+Logan,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Logan,Provisional,Senator,3,REP,Deb Fischer,0
+Logan,Countywide,Senator,3,DEM,Bob Kerrey,0
+Logan,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Logan,Logan County,Senator,3,DEM,Bob Kerrey,59
+Logan,EV/AB,Senator,3,DEM,Bob Kerrey,17
+Logan,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Logan,Provisional,Senator,3,DEM,Bob Kerrey,0
+Logan,Countywide,Representative,3,REP,Adrian Smith,0
+Logan,EV/AB,Representative,3,REP,Adrian Smith,0
+Logan,Logan County,Representative,3,REP,Adrian Smith,286
+Logan,EV/AB,Representative,3,REP,Adrian Smith,73
+Logan,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Logan,Provisional,Representative,3,REP,Adrian Smith,0
+Logan,Countywide,Representative,3,DEM,Mark Sullivan,0
+Logan,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Logan,Logan County,Representative,3,DEM,Mark Sullivan,50
+Logan,EV/AB,Representative,3,DEM,Mark Sullivan,18
+Logan,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Logan,Provisional,Representative,3,DEM,Mark Sullivan,0
+Logan,Countywide,Legislature,LD0043,NON,Al Davis,0
+Logan,EV/AB,Legislature,LD0043,NON,Al Davis,0
+Logan,Logan County,Legislature,LD0043,NON,Al Davis,130
+Logan,EV/AB,Legislature,LD0043,NON,Al Davis,24
+Logan,New/Former Resident,Legislature,LD0043,NON,Al Davis,0
+Logan,Provisional,Legislature,LD0043,NON,Al Davis,0
+Logan,Countywide,Legislature,LD0043,NON,John W. Ravenscroft,0
+Logan,EV/AB,Legislature,LD0043,NON,John W. Ravenscroft,0
+Logan,Logan County,Legislature,LD0043,NON,John W. Ravenscroft,190
+Logan,EV/AB,Legislature,LD0043,NON,John W. Ravenscroft,55
+Logan,New/Former Resident,Legislature,LD0043,NON,John W. Ravenscroft,0
+Logan,Provisional,Legislature,LD0043,NON,John W. Ravenscroft,0

@@ -1,0 +1,411 @@
+county,precinct,office,district,party,candidate,votes
+Dodge,Countywide,President,1,LIB,Gary Johnson and James P. Gray,0
+Dodge,EV/AB,President,1,LIB,Gary Johnson and James P. Gray,21
+Dodge,Fremont - 1A,President,1,LIB,Gary Johnson and James P. Gray,6
+Dodge,Fremont - 1B,President,1,LIB,Gary Johnson and James P. Gray,8
+Dodge,Fremont - 1C,President,1,LIB,Gary Johnson and James P. Gray,1
+Dodge,Fremont - 1D,President,1,LIB,Gary Johnson and James P. Gray,3
+Dodge,Fremont - 1E,President,1,LIB,Gary Johnson and James P. Gray,4
+Dodge,Fremont - 2A,President,1,LIB,Gary Johnson and James P. Gray,5
+Dodge,Fremont - 2B,President,1,LIB,Gary Johnson and James P. Gray,2
+Dodge,Fremont - 2C,President,1,LIB,Gary Johnson and James P. Gray,5
+Dodge,Fremont - 2D,President,1,LIB,Gary Johnson and James P. Gray,2
+Dodge,Fremont - 2E,President,1,LIB,Gary Johnson and James P. Gray,5
+Dodge,Fremont - 3A,President,1,LIB,Gary Johnson and James P. Gray,8
+Dodge,Fremont - 3B,President,1,LIB,Gary Johnson and James P. Gray,1
+Dodge,Fremont - 3C,President,1,LIB,Gary Johnson and James P. Gray,6
+Dodge,Fremont - 3D,President,1,LIB,Gary Johnson and James P. Gray,5
+Dodge,Fremont - 3E,President,1,LIB,Gary Johnson and James P. Gray,10
+Dodge,Fremont - 4A,President,1,LIB,Gary Johnson and James P. Gray,12
+Dodge,Fremont - 4B,President,1,LIB,Gary Johnson and James P. Gray,7
+Dodge,Fremont - 4C,President,1,LIB,Gary Johnson and James P. Gray,11
+Dodge,Fremont - 4D,President,1,LIB,Gary Johnson and James P. Gray,7
+Dodge,Fremont - 4E,President,1,LIB,Gary Johnson and James P. Gray,5
+Dodge,City of North Bend,President,1,LIB,Gary Johnson and James P. Gray,3
+Dodge,City of Scribner,President,1,LIB,Gary Johnson and James P. Gray,5
+Dodge,CU/EV,President,1,LIB,Gary Johnson and James P. Gray,3
+Dodge,Webster Township,President,1,LIB,Gary Johnson and James P. Gray,3
+Dodge,Pebble Township,President,1,LIB,Gary Johnson and James P. Gray,3
+Dodge,Platte East,President,1,LIB,Gary Johnson and James P. Gray,2
+Dodge,Platte West,President,1,LIB,Gary Johnson and James P. Gray,10
+Dodge,Nickerson Township,President,1,LIB,Gary Johnson and James P. Gray,6
+Dodge,City of Hooper,President,1,LIB,Gary Johnson and James P. Gray,8
+Dodge,H/W/LG,President,1,LIB,Gary Johnson and James P. Gray,4
+Dodge,Elkhorn Township,President,1,LIB,Gary Johnson and James P. Gray,1
+Dodge,Maple Township,President,1,LIB,Gary Johnson and James P. Gray,0
+Dodge,CT/UN,President,1,LIB,Gary Johnson and James P. Gray,5
+Dodge,800 - CUMING PPD,President,1,LIB,Gary Johnson and James P. Gray,0
+Dodge,801 - BURT PPD,President,1,LIB,Gary Johnson and James P. Gray,0
+Dodge,New/Former Resident,President,1,LIB,Gary Johnson and James P. Gray,0
+Dodge,EV/AB,President,1,LIB,Gary Johnson and James P. Gray,0
+Dodge,New/Former Resident,President,1,LIB,Gary Johnson and James P. Gray,0
+Dodge,Provisional,President,1,LIB,Gary Johnson and James P. Gray,0
+Dodge,Countywide,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Dodge,EV/AB,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",1110
+Dodge,Fremont - 1A,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",228
+Dodge,Fremont - 1B,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",187
+Dodge,Fremont - 1C,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",191
+Dodge,Fremont - 1D,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",127
+Dodge,Fremont - 1E,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",188
+Dodge,Fremont - 2A,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",184
+Dodge,Fremont - 2B,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",143
+Dodge,Fremont - 2C,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",260
+Dodge,Fremont - 2D,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",109
+Dodge,Fremont - 2E,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",160
+Dodge,Fremont - 3A,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",114
+Dodge,Fremont - 3B,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",83
+Dodge,Fremont - 3C,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",151
+Dodge,Fremont - 3D,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",184
+Dodge,Fremont - 3E,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",145
+Dodge,Fremont - 4A,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",184
+Dodge,Fremont - 4B,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",151
+Dodge,Fremont - 4C,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",248
+Dodge,Fremont - 4D,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",202
+Dodge,Fremont - 4E,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",127
+Dodge,City of North Bend,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",169
+Dodge,City of Scribner,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",84
+Dodge,CU/EV,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",70
+Dodge,Webster Township,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",101
+Dodge,Pebble Township,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",43
+Dodge,Platte East,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",92
+Dodge,Platte West,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",152
+Dodge,Nickerson Township,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",106
+Dodge,City of Hooper,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",114
+Dodge,H/W/LG,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",61
+Dodge,Elkhorn Township,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",53
+Dodge,Maple Township,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",35
+Dodge,CT/UN,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",117
+Dodge,800 - CUMING PPD,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Dodge,801 - BURT PPD,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Dodge,New/Former Resident,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Dodge,EV/AB,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Dodge,New/Former Resident,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Dodge,Provisional,President,1,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Dodge,Countywide,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,EV/AB,President,1,ZZZ,Randall A. Terry and Marjorie Smith,9
+Dodge,Fremont - 1A,President,1,ZZZ,Randall A. Terry and Marjorie Smith,4
+Dodge,Fremont - 1B,President,1,ZZZ,Randall A. Terry and Marjorie Smith,1
+Dodge,Fremont - 1C,President,1,ZZZ,Randall A. Terry and Marjorie Smith,1
+Dodge,Fremont - 1D,President,1,ZZZ,Randall A. Terry and Marjorie Smith,1
+Dodge,Fremont - 1E,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,Fremont - 2A,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,Fremont - 2B,President,1,ZZZ,Randall A. Terry and Marjorie Smith,1
+Dodge,Fremont - 2C,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,Fremont - 2D,President,1,ZZZ,Randall A. Terry and Marjorie Smith,3
+Dodge,Fremont - 2E,President,1,ZZZ,Randall A. Terry and Marjorie Smith,1
+Dodge,Fremont - 3A,President,1,ZZZ,Randall A. Terry and Marjorie Smith,2
+Dodge,Fremont - 3B,President,1,ZZZ,Randall A. Terry and Marjorie Smith,3
+Dodge,Fremont - 3C,President,1,ZZZ,Randall A. Terry and Marjorie Smith,1
+Dodge,Fremont - 3D,President,1,ZZZ,Randall A. Terry and Marjorie Smith,3
+Dodge,Fremont - 3E,President,1,ZZZ,Randall A. Terry and Marjorie Smith,1
+Dodge,Fremont - 4A,President,1,ZZZ,Randall A. Terry and Marjorie Smith,2
+Dodge,Fremont - 4B,President,1,ZZZ,Randall A. Terry and Marjorie Smith,1
+Dodge,Fremont - 4C,President,1,ZZZ,Randall A. Terry and Marjorie Smith,3
+Dodge,Fremont - 4D,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,Fremont - 4E,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,City of North Bend,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,City of Scribner,President,1,ZZZ,Randall A. Terry and Marjorie Smith,2
+Dodge,CU/EV,President,1,ZZZ,Randall A. Terry and Marjorie Smith,1
+Dodge,Webster Township,President,1,ZZZ,Randall A. Terry and Marjorie Smith,2
+Dodge,Pebble Township,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,Platte East,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,Platte West,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,Nickerson Township,President,1,ZZZ,Randall A. Terry and Marjorie Smith,1
+Dodge,City of Hooper,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,H/W/LG,President,1,ZZZ,Randall A. Terry and Marjorie Smith,1
+Dodge,Elkhorn Township,President,1,ZZZ,Randall A. Terry and Marjorie Smith,2
+Dodge,Maple Township,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,CT/UN,President,1,ZZZ,Randall A. Terry and Marjorie Smith,2
+Dodge,800 - CUMING PPD,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,801 - BURT PPD,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,New/Former Resident,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,EV/AB,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,New/Former Resident,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,Provisional,President,1,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dodge,Countywide,President,1,REP,Mitt Romney and Paul Ryan,0
+Dodge,EV/AB,President,1,REP,Mitt Romney and Paul Ryan,1309
+Dodge,Fremont - 1A,President,1,REP,Mitt Romney and Paul Ryan,328
+Dodge,Fremont - 1B,President,1,REP,Mitt Romney and Paul Ryan,281
+Dodge,Fremont - 1C,President,1,REP,Mitt Romney and Paul Ryan,500
+Dodge,Fremont - 1D,President,1,REP,Mitt Romney and Paul Ryan,160
+Dodge,Fremont - 1E,President,1,REP,Mitt Romney and Paul Ryan,302
+Dodge,Fremont - 2A,President,1,REP,Mitt Romney and Paul Ryan,205
+Dodge,Fremont - 2B,President,1,REP,Mitt Romney and Paul Ryan,196
+Dodge,Fremont - 2C,President,1,REP,Mitt Romney and Paul Ryan,433
+Dodge,Fremont - 2D,President,1,REP,Mitt Romney and Paul Ryan,159
+Dodge,Fremont - 2E,President,1,REP,Mitt Romney and Paul Ryan,302
+Dodge,Fremont - 3A,President,1,REP,Mitt Romney and Paul Ryan,144
+Dodge,Fremont - 3B,President,1,REP,Mitt Romney and Paul Ryan,75
+Dodge,Fremont - 3C,President,1,REP,Mitt Romney and Paul Ryan,135
+Dodge,Fremont - 3D,President,1,REP,Mitt Romney and Paul Ryan,226
+Dodge,Fremont - 3E,President,1,REP,Mitt Romney and Paul Ryan,211
+Dodge,Fremont - 4A,President,1,REP,Mitt Romney and Paul Ryan,250
+Dodge,Fremont - 4B,President,1,REP,Mitt Romney and Paul Ryan,173
+Dodge,Fremont - 4C,President,1,REP,Mitt Romney and Paul Ryan,368
+Dodge,Fremont - 4D,President,1,REP,Mitt Romney and Paul Ryan,450
+Dodge,Fremont - 4E,President,1,REP,Mitt Romney and Paul Ryan,138
+Dodge,City of North Bend,President,1,REP,Mitt Romney and Paul Ryan,260
+Dodge,City of Scribner,President,1,REP,Mitt Romney and Paul Ryan,249
+Dodge,CU/EV,President,1,REP,Mitt Romney and Paul Ryan,153
+Dodge,Webster Township,President,1,REP,Mitt Romney and Paul Ryan,265
+Dodge,Pebble Township,President,1,REP,Mitt Romney and Paul Ryan,149
+Dodge,Platte East,President,1,REP,Mitt Romney and Paul Ryan,132
+Dodge,Platte West,President,1,REP,Mitt Romney and Paul Ryan,351
+Dodge,Nickerson Township,President,1,REP,Mitt Romney and Paul Ryan,150
+Dodge,City of Hooper,President,1,REP,Mitt Romney and Paul Ryan,204
+Dodge,H/W/LG,President,1,REP,Mitt Romney and Paul Ryan,284
+Dodge,Elkhorn Township,President,1,REP,Mitt Romney and Paul Ryan,91
+Dodge,Maple Township,President,1,REP,Mitt Romney and Paul Ryan,89
+Dodge,CT/UN,President,1,REP,Mitt Romney and Paul Ryan,273
+Dodge,800 - CUMING PPD,President,1,REP,Mitt Romney and Paul Ryan,0
+Dodge,801 - BURT PPD,President,1,REP,Mitt Romney and Paul Ryan,0
+Dodge,New/Former Resident,President,1,REP,Mitt Romney and Paul Ryan,0
+Dodge,EV/AB,President,1,REP,Mitt Romney and Paul Ryan,0
+Dodge,New/Former Resident,President,1,REP,Mitt Romney and Paul Ryan,0
+Dodge,Provisional,President,1,REP,Mitt Romney and Paul Ryan,0
+Dodge,Countywide,Senator,1,REP,Deb Fischer,0
+Dodge,EV/AB,Senator,1,REP,Deb Fischer,1246
+Dodge,Fremont - 1A,Senator,1,REP,Deb Fischer,309
+Dodge,Fremont - 1B,Senator,1,REP,Deb Fischer,288
+Dodge,Fremont - 1C,Senator,1,REP,Deb Fischer,483
+Dodge,Fremont - 1D,Senator,1,REP,Deb Fischer,165
+Dodge,Fremont - 1E,Senator,1,REP,Deb Fischer,302
+Dodge,Fremont - 2A,Senator,1,REP,Deb Fischer,206
+Dodge,Fremont - 2B,Senator,1,REP,Deb Fischer,191
+Dodge,Fremont - 2C,Senator,1,REP,Deb Fischer,418
+Dodge,Fremont - 2D,Senator,1,REP,Deb Fischer,147
+Dodge,Fremont - 2E,Senator,1,REP,Deb Fischer,289
+Dodge,Fremont - 3A,Senator,1,REP,Deb Fischer,140
+Dodge,Fremont - 3B,Senator,1,REP,Deb Fischer,81
+Dodge,Fremont - 3C,Senator,1,REP,Deb Fischer,142
+Dodge,Fremont - 3D,Senator,1,REP,Deb Fischer,224
+Dodge,Fremont - 3E,Senator,1,REP,Deb Fischer,201
+Dodge,Fremont - 4A,Senator,1,REP,Deb Fischer,253
+Dodge,Fremont - 4B,Senator,1,REP,Deb Fischer,181
+Dodge,Fremont - 4C,Senator,1,REP,Deb Fischer,355
+Dodge,Fremont - 4D,Senator,1,REP,Deb Fischer,438
+Dodge,Fremont - 4E,Senator,1,REP,Deb Fischer,146
+Dodge,City of North Bend,Senator,1,REP,Deb Fischer,254
+Dodge,City of Scribner,Senator,1,REP,Deb Fischer,231
+Dodge,CU/EV,Senator,1,REP,Deb Fischer,165
+Dodge,Webster Township,Senator,1,REP,Deb Fischer,258
+Dodge,Pebble Township,Senator,1,REP,Deb Fischer,147
+Dodge,Platte East,Senator,1,REP,Deb Fischer,123
+Dodge,Platte West,Senator,1,REP,Deb Fischer,349
+Dodge,Nickerson Township,Senator,1,REP,Deb Fischer,147
+Dodge,City of Hooper,Senator,1,REP,Deb Fischer,202
+Dodge,H/W/LG,Senator,1,REP,Deb Fischer,280
+Dodge,Elkhorn Township,Senator,1,REP,Deb Fischer,99
+Dodge,Maple Township,Senator,1,REP,Deb Fischer,87
+Dodge,CT/UN,Senator,1,REP,Deb Fischer,276
+Dodge,800 - CUMING PPD,Senator,1,REP,Deb Fischer,0
+Dodge,801 - BURT PPD,Senator,1,REP,Deb Fischer,0
+Dodge,New/Former Resident,Senator,1,REP,Deb Fischer,0
+Dodge,EV/AB,Senator,1,REP,Deb Fischer,0
+Dodge,New/Former Resident,Senator,1,REP,Deb Fischer,0
+Dodge,Provisional,Senator,1,REP,Deb Fischer,0
+Dodge,Countywide,Senator,1,DEM,Bob Kerrey,0
+Dodge,EV/AB,Senator,1,DEM,Bob Kerrey,1183
+Dodge,Fremont - 1A,Senator,1,DEM,Bob Kerrey,256
+Dodge,Fremont - 1B,Senator,1,DEM,Bob Kerrey,185
+Dodge,Fremont - 1C,Senator,1,DEM,Bob Kerrey,212
+Dodge,Fremont - 1D,Senator,1,DEM,Bob Kerrey,125
+Dodge,Fremont - 1E,Senator,1,DEM,Bob Kerrey,186
+Dodge,Fremont - 2A,Senator,1,DEM,Bob Kerrey,191
+Dodge,Fremont - 2B,Senator,1,DEM,Bob Kerrey,154
+Dodge,Fremont - 2C,Senator,1,DEM,Bob Kerrey,279
+Dodge,Fremont - 2D,Senator,1,DEM,Bob Kerrey,125
+Dodge,Fremont - 2E,Senator,1,DEM,Bob Kerrey,183
+Dodge,Fremont - 3A,Senator,1,DEM,Bob Kerrey,129
+Dodge,Fremont - 3B,Senator,1,DEM,Bob Kerrey,81
+Dodge,Fremont - 3C,Senator,1,DEM,Bob Kerrey,152
+Dodge,Fremont - 3D,Senator,1,DEM,Bob Kerrey,196
+Dodge,Fremont - 3E,Senator,1,DEM,Bob Kerrey,164
+Dodge,Fremont - 4A,Senator,1,DEM,Bob Kerrey,187
+Dodge,Fremont - 4B,Senator,1,DEM,Bob Kerrey,153
+Dodge,Fremont - 4C,Senator,1,DEM,Bob Kerrey,276
+Dodge,Fremont - 4D,Senator,1,DEM,Bob Kerrey,220
+Dodge,Fremont - 4E,Senator,1,DEM,Bob Kerrey,125
+Dodge,City of North Bend,Senator,1,DEM,Bob Kerrey,185
+Dodge,City of Scribner,Senator,1,DEM,Bob Kerrey,111
+Dodge,CU/EV,Senator,1,DEM,Bob Kerrey,61
+Dodge,Webster Township,Senator,1,DEM,Bob Kerrey,111
+Dodge,Pebble Township,Senator,1,DEM,Bob Kerrey,50
+Dodge,Platte East,Senator,1,DEM,Bob Kerrey,97
+Dodge,Platte West,Senator,1,DEM,Bob Kerrey,164
+Dodge,Nickerson Township,Senator,1,DEM,Bob Kerrey,115
+Dodge,City of Hooper,Senator,1,DEM,Bob Kerrey,125
+Dodge,H/W/LG,Senator,1,DEM,Bob Kerrey,72
+Dodge,Elkhorn Township,Senator,1,DEM,Bob Kerrey,48
+Dodge,Maple Township,Senator,1,DEM,Bob Kerrey,35
+Dodge,CT/UN,Senator,1,DEM,Bob Kerrey,120
+Dodge,800 - CUMING PPD,Senator,1,DEM,Bob Kerrey,0
+Dodge,801 - BURT PPD,Senator,1,DEM,Bob Kerrey,0
+Dodge,New/Former Resident,Senator,1,DEM,Bob Kerrey,0
+Dodge,EV/AB,Senator,1,DEM,Bob Kerrey,0
+Dodge,New/Former Resident,Senator,1,DEM,Bob Kerrey,0
+Dodge,Provisional,Senator,1,DEM,Bob Kerrey,0
+Dodge,Countywide,Representative,1,REP,Jeff Fortenberry,0
+Dodge,EV/AB,Representative,1,REP,Jeff Fortenberry,1454
+Dodge,Fremont - 1A,Representative,1,REP,Jeff Fortenberry,401
+Dodge,Fremont - 1B,Representative,1,REP,Jeff Fortenberry,336
+Dodge,Fremont - 1C,Representative,1,REP,Jeff Fortenberry,544
+Dodge,Fremont - 1D,Representative,1,REP,Jeff Fortenberry,194
+Dodge,Fremont - 1E,Representative,1,REP,Jeff Fortenberry,363
+Dodge,Fremont - 2A,Representative,1,REP,Jeff Fortenberry,268
+Dodge,Fremont - 2B,Representative,1,REP,Jeff Fortenberry,251
+Dodge,Fremont - 2C,Representative,1,REP,Jeff Fortenberry,516
+Dodge,Fremont - 2D,Representative,1,REP,Jeff Fortenberry,181
+Dodge,Fremont - 2E,Representative,1,REP,Jeff Fortenberry,348
+Dodge,Fremont - 3A,Representative,1,REP,Jeff Fortenberry,175
+Dodge,Fremont - 3B,Representative,1,REP,Jeff Fortenberry,101
+Dodge,Fremont - 3C,Representative,1,REP,Jeff Fortenberry,174
+Dodge,Fremont - 3D,Representative,1,REP,Jeff Fortenberry,300
+Dodge,Fremont - 3E,Representative,1,REP,Jeff Fortenberry,262
+Dodge,Fremont - 4A,Representative,1,REP,Jeff Fortenberry,313
+Dodge,Fremont - 4B,Representative,1,REP,Jeff Fortenberry,227
+Dodge,Fremont - 4C,Representative,1,REP,Jeff Fortenberry,468
+Dodge,Fremont - 4D,Representative,1,REP,Jeff Fortenberry,504
+Dodge,Fremont - 4E,Representative,1,REP,Jeff Fortenberry,186
+Dodge,City of North Bend,Representative,1,REP,Jeff Fortenberry,315
+Dodge,City of Scribner,Representative,1,REP,Jeff Fortenberry,275
+Dodge,CU/EV,Representative,1,REP,Jeff Fortenberry,173
+Dodge,Webster Township,Representative,1,REP,Jeff Fortenberry,280
+Dodge,Pebble Township,Representative,1,REP,Jeff Fortenberry,168
+Dodge,Platte East,Representative,1,REP,Jeff Fortenberry,155
+Dodge,Platte West,Representative,1,REP,Jeff Fortenberry,387
+Dodge,Nickerson Township,Representative,1,REP,Jeff Fortenberry,192
+Dodge,City of Hooper,Representative,1,REP,Jeff Fortenberry,235
+Dodge,H/W/LG,Representative,1,REP,Jeff Fortenberry,294
+Dodge,Elkhorn Township,Representative,1,REP,Jeff Fortenberry,105
+Dodge,Maple Township,Representative,1,REP,Jeff Fortenberry,97
+Dodge,CT/UN,Representative,1,REP,Jeff Fortenberry,314
+Dodge,800 - CUMING PPD,Representative,1,REP,Jeff Fortenberry,0
+Dodge,801 - BURT PPD,Representative,1,REP,Jeff Fortenberry,0
+Dodge,New/Former Resident,Representative,1,REP,Jeff Fortenberry,0
+Dodge,EV/AB,Representative,1,REP,Jeff Fortenberry,0
+Dodge,New/Former Resident,Representative,1,REP,Jeff Fortenberry,0
+Dodge,Provisional,Representative,1,REP,Jeff Fortenberry,0
+Dodge,Countywide,Representative,1,DEM,Korey L. Reiman,0
+Dodge,EV/AB,Representative,1,DEM,Korey L. Reiman,902
+Dodge,Fremont - 1A,Representative,1,DEM,Korey L. Reiman,153
+Dodge,Fremont - 1B,Representative,1,DEM,Korey L. Reiman,126
+Dodge,Fremont - 1C,Representative,1,DEM,Korey L. Reiman,127
+Dodge,Fremont - 1D,Representative,1,DEM,Korey L. Reiman,86
+Dodge,Fremont - 1E,Representative,1,DEM,Korey L. Reiman,112
+Dodge,Fremont - 2A,Representative,1,DEM,Korey L. Reiman,119
+Dodge,Fremont - 2B,Representative,1,DEM,Korey L. Reiman,89
+Dodge,Fremont - 2C,Representative,1,DEM,Korey L. Reiman,158
+Dodge,Fremont - 2D,Representative,1,DEM,Korey L. Reiman,78
+Dodge,Fremont - 2E,Representative,1,DEM,Korey L. Reiman,111
+Dodge,Fremont - 3A,Representative,1,DEM,Korey L. Reiman,80
+Dodge,Fremont - 3B,Representative,1,DEM,Korey L. Reiman,59
+Dodge,Fremont - 3C,Representative,1,DEM,Korey L. Reiman,104
+Dodge,Fremont - 3D,Representative,1,DEM,Korey L. Reiman,110
+Dodge,Fremont - 3E,Representative,1,DEM,Korey L. Reiman,96
+Dodge,Fremont - 4A,Representative,1,DEM,Korey L. Reiman,121
+Dodge,Fremont - 4B,Representative,1,DEM,Korey L. Reiman,100
+Dodge,Fremont - 4C,Representative,1,DEM,Korey L. Reiman,153
+Dodge,Fremont - 4D,Representative,1,DEM,Korey L. Reiman,126
+Dodge,Fremont - 4E,Representative,1,DEM,Korey L. Reiman,80
+Dodge,City of North Bend,Representative,1,DEM,Korey L. Reiman,104
+Dodge,City of Scribner,Representative,1,DEM,Korey L. Reiman,59
+Dodge,CU/EV,Representative,1,DEM,Korey L. Reiman,47
+Dodge,Webster Township,Representative,1,DEM,Korey L. Reiman,76
+Dodge,Pebble Township,Representative,1,DEM,Korey L. Reiman,27
+Dodge,Platte East,Representative,1,DEM,Korey L. Reiman,65
+Dodge,Platte West,Representative,1,DEM,Korey L. Reiman,116
+Dodge,Nickerson Township,Representative,1,DEM,Korey L. Reiman,67
+Dodge,City of Hooper,Representative,1,DEM,Korey L. Reiman,80
+Dodge,H/W/LG,Representative,1,DEM,Korey L. Reiman,43
+Dodge,Elkhorn Township,Representative,1,DEM,Korey L. Reiman,39
+Dodge,Maple Township,Representative,1,DEM,Korey L. Reiman,25
+Dodge,CT/UN,Representative,1,DEM,Korey L. Reiman,58
+Dodge,800 - CUMING PPD,Representative,1,DEM,Korey L. Reiman,0
+Dodge,801 - BURT PPD,Representative,1,DEM,Korey L. Reiman,0
+Dodge,New/Former Resident,Representative,1,DEM,Korey L. Reiman,0
+Dodge,EV/AB,Representative,1,DEM,Korey L. Reiman,0
+Dodge,New/Former Resident,Representative,1,DEM,Korey L. Reiman,0
+Dodge,Provisional,Representative,1,DEM,Korey L. Reiman,0
+Dodge,Countywide,Legislature,LD0015,NON,Charlie Janssen,0
+Dodge,EV/AB,Legislature,LD0015,NON,Charlie Janssen,1387
+Dodge,Fremont - 1A,Legislature,LD0015,NON,Charlie Janssen,395
+Dodge,Fremont - 1B,Legislature,LD0015,NON,Charlie Janssen,290
+Dodge,Fremont - 1C,Legislature,LD0015,NON,Charlie Janssen,441
+Dodge,Fremont - 1D,Legislature,LD0015,NON,Charlie Janssen,175
+Dodge,Fremont - 1E,Legislature,LD0015,NON,Charlie Janssen,331
+Dodge,Fremont - 2A,Legislature,LD0015,NON,Charlie Janssen,233
+Dodge,Fremont - 2B,Legislature,LD0015,NON,Charlie Janssen,212
+Dodge,Fremont - 2C,Legislature,LD0015,NON,Charlie Janssen,444
+Dodge,Fremont - 2D,Legislature,LD0015,NON,Charlie Janssen,160
+Dodge,Fremont - 2E,Legislature,LD0015,NON,Charlie Janssen,308
+Dodge,Fremont - 3A,Legislature,LD0015,NON,Charlie Janssen,159
+Dodge,Fremont - 3B,Legislature,LD0015,NON,Charlie Janssen,94
+Dodge,Fremont - 3C,Legislature,LD0015,NON,Charlie Janssen,166
+Dodge,Fremont - 3D,Legislature,LD0015,NON,Charlie Janssen,255
+Dodge,Fremont - 3E,Legislature,LD0015,NON,Charlie Janssen,210
+Dodge,Fremont - 4A,Legislature,LD0015,NON,Charlie Janssen,297
+Dodge,Fremont - 4B,Legislature,LD0015,NON,Charlie Janssen,231
+Dodge,Fremont - 4C,Legislature,LD0015,NON,Charlie Janssen,400
+Dodge,Fremont - 4D,Legislature,LD0015,NON,Charlie Janssen,427
+Dodge,Fremont - 4E,Legislature,LD0015,NON,Charlie Janssen,149
+Dodge,City of North Bend,Legislature,LD0015,NON,Charlie Janssen,307
+Dodge,City of Scribner,Legislature,LD0015,NON,Charlie Janssen,233
+Dodge,CU/EV,Legislature,LD0015,NON,Charlie Janssen,129
+Dodge,Webster Township,Legislature,LD0015,NON,Charlie Janssen,222
+Dodge,Pebble Township,Legislature,LD0015,NON,Charlie Janssen,138
+Dodge,Platte East,Legislature,LD0015,NON,Charlie Janssen,143
+Dodge,Platte West,Legislature,LD0015,NON,Charlie Janssen,347
+Dodge,Nickerson Township,Legislature,LD0015,NON,Charlie Janssen,179
+Dodge,City of Hooper,Legislature,LD0015,NON,Charlie Janssen,208
+Dodge,H/W/LG,Legislature,LD0015,NON,Charlie Janssen,234
+Dodge,Elkhorn Township,Legislature,LD0015,NON,Charlie Janssen,103
+Dodge,Maple Township,Legislature,LD0015,NON,Charlie Janssen,77
+Dodge,CT/UN,Legislature,LD0015,NON,Charlie Janssen,274
+Dodge,800 - CUMING PPD,Legislature,LD0015,NON,Charlie Janssen,0
+Dodge,801 - BURT PPD,Legislature,LD0015,NON,Charlie Janssen,0
+Dodge,New/Former Resident,Legislature,LD0015,NON,Charlie Janssen,0
+Dodge,EV/AB,Legislature,LD0015,NON,Charlie Janssen,0
+Dodge,New/Former Resident,Legislature,LD0015,NON,Charlie Janssen,0
+Dodge,Provisional,Legislature,LD0015,NON,Charlie Janssen,0
+Dodge,Countywide,Legislature,LD0015,NON,Mike Petersen,0
+Dodge,EV/AB,Legislature,LD0015,NON,Mike Petersen,867
+Dodge,Fremont - 1A,Legislature,LD0015,NON,Mike Petersen,151
+Dodge,Fremont - 1B,Legislature,LD0015,NON,Mike Petersen,157
+Dodge,Fremont - 1C,Legislature,LD0015,NON,Mike Petersen,225
+Dodge,Fremont - 1D,Legislature,LD0015,NON,Mike Petersen,101
+Dodge,Fremont - 1E,Legislature,LD0015,NON,Mike Petersen,129
+Dodge,Fremont - 2A,Legislature,LD0015,NON,Mike Petersen,136
+Dodge,Fremont - 2B,Legislature,LD0015,NON,Mike Petersen,117
+Dodge,Fremont - 2C,Legislature,LD0015,NON,Mike Petersen,215
+Dodge,Fremont - 2D,Legislature,LD0015,NON,Mike Petersen,89
+Dodge,Fremont - 2E,Legislature,LD0015,NON,Mike Petersen,132
+Dodge,Fremont - 3A,Legislature,LD0015,NON,Mike Petersen,84
+Dodge,Fremont - 3B,Legislature,LD0015,NON,Mike Petersen,52
+Dodge,Fremont - 3C,Legislature,LD0015,NON,Mike Petersen,104
+Dodge,Fremont - 3D,Legislature,LD0015,NON,Mike Petersen,138
+Dodge,Fremont - 3E,Legislature,LD0015,NON,Mike Petersen,139
+Dodge,Fremont - 4A,Legislature,LD0015,NON,Mike Petersen,128
+Dodge,Fremont - 4B,Legislature,LD0015,NON,Mike Petersen,87
+Dodge,Fremont - 4C,Legislature,LD0015,NON,Mike Petersen,201
+Dodge,Fremont - 4D,Legislature,LD0015,NON,Mike Petersen,195
+Dodge,Fremont - 4E,Legislature,LD0015,NON,Mike Petersen,108
+Dodge,City of North Bend,Legislature,LD0015,NON,Mike Petersen,112
+Dodge,City of Scribner,Legislature,LD0015,NON,Mike Petersen,94
+Dodge,CU/EV,Legislature,LD0015,NON,Mike Petersen,79
+Dodge,Webster Township,Legislature,LD0015,NON,Mike Petersen,93
+Dodge,Pebble Township,Legislature,LD0015,NON,Mike Petersen,46
+Dodge,Platte East,Legislature,LD0015,NON,Mike Petersen,78
+Dodge,Platte West,Legislature,LD0015,NON,Mike Petersen,135
+Dodge,Nickerson Township,Legislature,LD0015,NON,Mike Petersen,78
+Dodge,City of Hooper,Legislature,LD0015,NON,Mike Petersen,114
+Dodge,H/W/LG,Legislature,LD0015,NON,Mike Petersen,101
+Dodge,Elkhorn Township,Legislature,LD0015,NON,Mike Petersen,36
+Dodge,Maple Township,Legislature,LD0015,NON,Mike Petersen,42
+Dodge,CT/UN,Legislature,LD0015,NON,Mike Petersen,91
+Dodge,800 - CUMING PPD,Legislature,LD0015,NON,Mike Petersen,0
+Dodge,801 - BURT PPD,Legislature,LD0015,NON,Mike Petersen,0
+Dodge,New/Former Resident,Legislature,LD0015,NON,Mike Petersen,0
+Dodge,EV/AB,Legislature,LD0015,NON,Mike Petersen,0
+Dodge,New/Former Resident,Legislature,LD0015,NON,Mike Petersen,0
+Dodge,Provisional,Legislature,LD0015,NON,Mike Petersen,0

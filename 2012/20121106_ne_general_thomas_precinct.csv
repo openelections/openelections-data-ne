@@ -1,0 +1,61 @@
+county,precinct,office,district,party,candidate,votes
+Thomas,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Thomas,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Thomas,Thomas,President,3,LIB,Gary Johnson and James P. Gray,1
+Thomas,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Thomas,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Thomas,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Thomas,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Thomas,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",15
+Thomas,Thomas,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",27
+Thomas,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Thomas,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Thomas,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Thomas,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Thomas,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Thomas,Thomas,President,3,ZZZ,Randall A. Terry and Marjorie Smith,4
+Thomas,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Thomas,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Thomas,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Thomas,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Thomas,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,125
+Thomas,Thomas,President,3,REP,Mitt Romney and Paul Ryan,235
+Thomas,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Thomas,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Thomas,Provisional,President,3,REP,Mitt Romney and Paul Ryan,0
+Thomas,Countywide,Senator,3,REP,Deb Fischer,0
+Thomas,EV/AB,Senator,3,REP,Deb Fischer,125
+Thomas,Thomas,Senator,3,REP,Deb Fischer,227
+Thomas,EV/AB,Senator,3,REP,Deb Fischer,0
+Thomas,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Thomas,Provisional,Senator,3,REP,Deb Fischer,0
+Thomas,Countywide,Senator,3,DEM,Bob Kerrey,0
+Thomas,EV/AB,Senator,3,DEM,Bob Kerrey,22
+Thomas,Thomas,Senator,3,DEM,Bob Kerrey,39
+Thomas,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Thomas,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Thomas,Provisional,Senator,3,DEM,Bob Kerrey,0
+Thomas,Countywide,Representative,3,REP,Adrian Smith,0
+Thomas,EV/AB,Representative,3,REP,Adrian Smith,125
+Thomas,Thomas,Representative,3,REP,Adrian Smith,230
+Thomas,EV/AB,Representative,3,REP,Adrian Smith,0
+Thomas,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Thomas,Provisional,Representative,3,REP,Adrian Smith,0
+Thomas,Countywide,Representative,3,DEM,Mark Sullivan,0
+Thomas,EV/AB,Representative,3,DEM,Mark Sullivan,17
+Thomas,Thomas,Representative,3,DEM,Mark Sullivan,35
+Thomas,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Thomas,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Thomas,Provisional,Representative,3,DEM,Mark Sullivan,0
+Thomas,Countywide,Legislature,LD0043,NON,Al Davis,0
+Thomas,EV/AB,Legislature,LD0043,NON,Al Davis,36
+Thomas,Thomas,Legislature,LD0043,NON,Al Davis,105
+Thomas,EV/AB,Legislature,LD0043,NON,Al Davis,0
+Thomas,New/Former Resident,Legislature,LD0043,NON,Al Davis,0
+Thomas,Provisional,Legislature,LD0043,NON,Al Davis,0
+Thomas,Countywide,Legislature,LD0043,NON,John W. Ravenscroft,0
+Thomas,EV/AB,Legislature,LD0043,NON,John W. Ravenscroft,93
+Thomas,Thomas,Legislature,LD0043,NON,John W. Ravenscroft,154
+Thomas,EV/AB,Legislature,LD0043,NON,John W. Ravenscroft,0
+Thomas,New/Former Resident,Legislature,LD0043,NON,John W. Ravenscroft,0
+Thomas,Provisional,Legislature,LD0043,NON,John W. Ravenscroft,0

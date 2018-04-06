@@ -1,0 +1,127 @@
+county,precinct,office,district,party,candidate,votes
+Morrill,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Morrill,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,6
+Morrill,BROADWATER,President,3,LIB,Gary Johnson and James P. Gray,4
+Morrill,EAST BAYARD,President,3,LIB,Gary Johnson and James P. Gray,3
+Morrill,WEST BAYARD,President,3,LIB,Gary Johnson and James P. Gray,3
+Morrill,NORTH CAMP CLARKE,President,3,LIB,Gary Johnson and James P. Gray,5
+Morrill,EAST CAMP CLARKE,President,3,LIB,Gary Johnson and James P. Gray,3
+Morrill,WEST CAMP CLARKE,President,3,LIB,Gary Johnson and James P. Gray,5
+Morrill,GILCHRIST,President,3,LIB,Gary Johnson and James P. Gray,0
+Morrill,HAYNES,President,3,LIB,Gary Johnson and James P. Gray,3
+Morrill,REDINGTON,President,3,LIB,Gary Johnson and James P. Gray,0
+Morrill,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Morrill,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Morrill,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Morrill,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Morrill,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",86
+Morrill,BROADWATER,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",37
+Morrill,EAST BAYARD,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",91
+Morrill,WEST BAYARD,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",69
+Morrill,NORTH CAMP CLARKE,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",36
+Morrill,EAST CAMP CLARKE,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",65
+Morrill,WEST CAMP CLARKE,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",54
+Morrill,GILCHRIST,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",3
+Morrill,HAYNES,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",2
+Morrill,REDINGTON,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",9
+Morrill,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Morrill,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",3
+Morrill,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Morrill,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Morrill,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,3
+Morrill,BROADWATER,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Morrill,EAST BAYARD,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Morrill,WEST BAYARD,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Morrill,NORTH CAMP CLARKE,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Morrill,EAST CAMP CLARKE,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Morrill,WEST CAMP CLARKE,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Morrill,GILCHRIST,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Morrill,HAYNES,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Morrill,REDINGTON,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Morrill,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Morrill,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Morrill,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Morrill,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Morrill,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,214
+Morrill,BROADWATER,President,3,REP,Mitt Romney and Paul Ryan,129
+Morrill,EAST BAYARD,President,3,REP,Mitt Romney and Paul Ryan,324
+Morrill,WEST BAYARD,President,3,REP,Mitt Romney and Paul Ryan,227
+Morrill,NORTH CAMP CLARKE,President,3,REP,Mitt Romney and Paul Ryan,168
+Morrill,EAST CAMP CLARKE,President,3,REP,Mitt Romney and Paul Ryan,279
+Morrill,WEST CAMP CLARKE,President,3,REP,Mitt Romney and Paul Ryan,212
+Morrill,GILCHRIST,President,3,REP,Mitt Romney and Paul Ryan,27
+Morrill,HAYNES,President,3,REP,Mitt Romney and Paul Ryan,55
+Morrill,REDINGTON,President,3,REP,Mitt Romney and Paul Ryan,45
+Morrill,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Morrill,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,1
+Morrill,Provisional,President,3,REP,Mitt Romney and Paul Ryan,0
+Morrill,Countywide,Senator,3,REP,Deb Fischer,0
+Morrill,EV/AB,Senator,3,REP,Deb Fischer,204
+Morrill,BROADWATER,Senator,3,REP,Deb Fischer,141
+Morrill,EAST BAYARD,Senator,3,REP,Deb Fischer,316
+Morrill,WEST BAYARD,Senator,3,REP,Deb Fischer,215
+Morrill,NORTH CAMP CLARKE,Senator,3,REP,Deb Fischer,174
+Morrill,EAST CAMP CLARKE,Senator,3,REP,Deb Fischer,280
+Morrill,WEST CAMP CLARKE,Senator,3,REP,Deb Fischer,213
+Morrill,GILCHRIST,Senator,3,REP,Deb Fischer,26
+Morrill,HAYNES,Senator,3,REP,Deb Fischer,59
+Morrill,REDINGTON,Senator,3,REP,Deb Fischer,47
+Morrill,EV/AB,Senator,3,REP,Deb Fischer,0
+Morrill,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Morrill,Provisional,Senator,3,REP,Deb Fischer,0
+Morrill,Countywide,Senator,3,DEM,Bob Kerrey,0
+Morrill,EV/AB,Senator,3,DEM,Bob Kerrey,111
+Morrill,BROADWATER,Senator,3,DEM,Bob Kerrey,38
+Morrill,EAST BAYARD,Senator,3,DEM,Bob Kerrey,105
+Morrill,WEST BAYARD,Senator,3,DEM,Bob Kerrey,85
+Morrill,NORTH CAMP CLARKE,Senator,3,DEM,Bob Kerrey,41
+Morrill,EAST CAMP CLARKE,Senator,3,DEM,Bob Kerrey,70
+Morrill,WEST CAMP CLARKE,Senator,3,DEM,Bob Kerrey,58
+Morrill,GILCHRIST,Senator,3,DEM,Bob Kerrey,3
+Morrill,HAYNES,Senator,3,DEM,Bob Kerrey,3
+Morrill,REDINGTON,Senator,3,DEM,Bob Kerrey,8
+Morrill,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Morrill,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Morrill,Provisional,Senator,3,DEM,Bob Kerrey,0
+Morrill,Countywide,Representative,3,REP,Adrian Smith,0
+Morrill,EV/AB,Representative,3,REP,Adrian Smith,226
+Morrill,BROADWATER,Representative,3,REP,Adrian Smith,145
+Morrill,EAST BAYARD,Representative,3,REP,Adrian Smith,338
+Morrill,WEST BAYARD,Representative,3,REP,Adrian Smith,242
+Morrill,NORTH CAMP CLARKE,Representative,3,REP,Adrian Smith,179
+Morrill,EAST CAMP CLARKE,Representative,3,REP,Adrian Smith,289
+Morrill,WEST CAMP CLARKE,Representative,3,REP,Adrian Smith,220
+Morrill,GILCHRIST,Representative,3,REP,Adrian Smith,29
+Morrill,HAYNES,Representative,3,REP,Adrian Smith,56
+Morrill,REDINGTON,Representative,3,REP,Adrian Smith,51
+Morrill,EV/AB,Representative,3,REP,Adrian Smith,0
+Morrill,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Morrill,Provisional,Representative,3,REP,Adrian Smith,0
+Morrill,Countywide,Representative,3,DEM,Mark Sullivan,0
+Morrill,EV/AB,Representative,3,DEM,Mark Sullivan,82
+Morrill,BROADWATER,Representative,3,DEM,Mark Sullivan,31
+Morrill,EAST BAYARD,Representative,3,DEM,Mark Sullivan,76
+Morrill,WEST BAYARD,Representative,3,DEM,Mark Sullivan,59
+Morrill,NORTH CAMP CLARKE,Representative,3,DEM,Mark Sullivan,33
+Morrill,EAST CAMP CLARKE,Representative,3,DEM,Mark Sullivan,53
+Morrill,WEST CAMP CLARKE,Representative,3,DEM,Mark Sullivan,50
+Morrill,GILCHRIST,Representative,3,DEM,Mark Sullivan,2
+Morrill,HAYNES,Representative,3,DEM,Mark Sullivan,4
+Morrill,REDINGTON,Representative,3,DEM,Mark Sullivan,4
+Morrill,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Morrill,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Morrill,Provisional,Representative,3,DEM,Mark Sullivan,0
+Morrill,Countywide,Legislature,LD0047,NON,Ken Schilz,0
+Morrill,EV/AB,Legislature,LD0047,NON,Ken Schilz,237
+Morrill,BROADWATER,Legislature,LD0047,NON,Ken Schilz,146
+Morrill,EAST BAYARD,Legislature,LD0047,NON,Ken Schilz,340
+Morrill,WEST BAYARD,Legislature,LD0047,NON,Ken Schilz,248
+Morrill,NORTH CAMP CLARKE,Legislature,LD0047,NON,Ken Schilz,150
+Morrill,EAST CAMP CLARKE,Legislature,LD0047,NON,Ken Schilz,266
+Morrill,WEST CAMP CLARKE,Legislature,LD0047,NON,Ken Schilz,187
+Morrill,GILCHRIST,Legislature,LD0047,NON,Ken Schilz,18
+Morrill,HAYNES,Legislature,LD0047,NON,Ken Schilz,46
+Morrill,REDINGTON,Legislature,LD0047,NON,Ken Schilz,38
+Morrill,EV/AB,Legislature,LD0047,NON,Ken Schilz,0
+Morrill,New/Former Resident,Legislature,LD0047,NON,Ken Schilz,0
+Morrill,Provisional,Legislature,LD0047,NON,Ken Schilz,0

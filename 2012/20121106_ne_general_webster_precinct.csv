@@ -1,0 +1,81 @@
+county,precinct,office,district,party,candidate,votes
+Webster,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Webster,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Webster,Bladen,President,3,LIB,Gary Johnson and James P. Gray,3
+Webster,Blue Hill,President,3,LIB,Gary Johnson and James P. Gray,9
+Webster,Guide Rock,President,3,LIB,Gary Johnson and James P. Gray,3
+Webster,Red Cloud 1st,President,3,LIB,Gary Johnson and James P. Gray,1
+Webster,Red Cloud 2nd,President,3,LIB,Gary Johnson and James P. Gray,6
+Webster,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,7
+Webster,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Webster,Provisional,President,3,LIB,Gary Johnson and James P. Gray,2
+Webster,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Webster,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Webster,Bladen,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",43
+Webster,Blue Hill,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",112
+Webster,Guide Rock,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",35
+Webster,Red Cloud 1st,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",61
+Webster,Red Cloud 2nd,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",90
+Webster,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",99
+Webster,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Webster,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",2
+Webster,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Webster,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Webster,Bladen,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Webster,Blue Hill,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Webster,Guide Rock,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Webster,Red Cloud 1st,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Webster,Red Cloud 2nd,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Webster,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Webster,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Webster,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Webster,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Webster,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Webster,Bladen,President,3,REP,Mitt Romney and Paul Ryan,136
+Webster,Blue Hill,President,3,REP,Mitt Romney and Paul Ryan,328
+Webster,Guide Rock,President,3,REP,Mitt Romney and Paul Ryan,164
+Webster,Red Cloud 1st,President,3,REP,Mitt Romney and Paul Ryan,205
+Webster,Red Cloud 2nd,President,3,REP,Mitt Romney and Paul Ryan,235
+Webster,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,187
+Webster,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Webster,Provisional,President,3,REP,Mitt Romney and Paul Ryan,3
+Webster,Countywide,Senator,3,REP,Deb Fischer,0
+Webster,EV/AB,Senator,3,REP,Deb Fischer,0
+Webster,Bladen,Senator,3,REP,Deb Fischer,133
+Webster,Blue Hill,Senator,3,REP,Deb Fischer,319
+Webster,Guide Rock,Senator,3,REP,Deb Fischer,148
+Webster,Red Cloud 1st,Senator,3,REP,Deb Fischer,186
+Webster,Red Cloud 2nd,Senator,3,REP,Deb Fischer,239
+Webster,EV/AB,Senator,3,REP,Deb Fischer,176
+Webster,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Webster,Provisional,Senator,3,REP,Deb Fischer,2
+Webster,Countywide,Senator,3,DEM,Bob Kerrey,0
+Webster,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Webster,Bladen,Senator,3,DEM,Bob Kerrey,51
+Webster,Blue Hill,Senator,3,DEM,Bob Kerrey,130
+Webster,Guide Rock,Senator,3,DEM,Bob Kerrey,51
+Webster,Red Cloud 1st,Senator,3,DEM,Bob Kerrey,77
+Webster,Red Cloud 2nd,Senator,3,DEM,Bob Kerrey,94
+Webster,EV/AB,Senator,3,DEM,Bob Kerrey,116
+Webster,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Webster,Provisional,Senator,3,DEM,Bob Kerrey,5
+Webster,Countywide,Representative,3,REP,Adrian Smith,0
+Webster,EV/AB,Representative,3,REP,Adrian Smith,0
+Webster,Bladen,Representative,3,REP,Adrian Smith,140
+Webster,Blue Hill,Representative,3,REP,Adrian Smith,332
+Webster,Guide Rock,Representative,3,REP,Adrian Smith,147
+Webster,Red Cloud 1st,Representative,3,REP,Adrian Smith,198
+Webster,Red Cloud 2nd,Representative,3,REP,Adrian Smith,253
+Webster,EV/AB,Representative,3,REP,Adrian Smith,184
+Webster,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Webster,Provisional,Representative,3,REP,Adrian Smith,2
+Webster,Countywide,Representative,3,DEM,Mark Sullivan,0
+Webster,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Webster,Bladen,Representative,3,DEM,Mark Sullivan,42
+Webster,Blue Hill,Representative,3,DEM,Mark Sullivan,112
+Webster,Guide Rock,Representative,3,DEM,Mark Sullivan,52
+Webster,Red Cloud 1st,Representative,3,DEM,Mark Sullivan,63
+Webster,Red Cloud 2nd,Representative,3,DEM,Mark Sullivan,73
+Webster,EV/AB,Representative,3,DEM,Mark Sullivan,98
+Webster,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Webster,Provisional,Representative,3,DEM,Mark Sullivan,4

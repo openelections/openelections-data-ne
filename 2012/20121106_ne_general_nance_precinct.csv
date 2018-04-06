@@ -1,0 +1,89 @@
+county,precinct,office,district,party,candidate,votes
+Nance,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Nance,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Nance,BGCP,President,3,LIB,Gary Johnson and James P. Gray,5
+Nance,CLFWE,President,3,LIB,Gary Johnson and James P. Gray,0
+Nance,CTS,President,3,LIB,Gary Johnson and James P. Gray,2
+Nance,FULLERTON,President,3,LIB,Gary Johnson and James P. Gray,6
+Nance,GENOA I,President,3,LIB,Gary Johnson and James P. Gray,5
+Nance,GENOA II,President,3,LIB,Gary Johnson and James P. Gray,0
+Nance,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Nance,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Nance,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Nance,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Nance,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Nance,BGCP,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",61
+Nance,CLFWE,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",61
+Nance,CTS,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",57
+Nance,FULLERTON,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",186
+Nance,GENOA I,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",64
+Nance,GENOA II,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",52
+Nance,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Nance,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Nance,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Nance,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Nance,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Nance,BGCP,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Nance,CLFWE,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Nance,CTS,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Nance,FULLERTON,President,3,ZZZ,Randall A. Terry and Marjorie Smith,4
+Nance,GENOA I,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Nance,GENOA II,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Nance,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Nance,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Nance,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Nance,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Nance,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Nance,BGCP,President,3,REP,Mitt Romney and Paul Ryan,221
+Nance,CLFWE,President,3,REP,Mitt Romney and Paul Ryan,186
+Nance,CTS,President,3,REP,Mitt Romney and Paul Ryan,99
+Nance,FULLERTON,President,3,REP,Mitt Romney and Paul Ryan,351
+Nance,GENOA I,President,3,REP,Mitt Romney and Paul Ryan,105
+Nance,GENOA II,President,3,REP,Mitt Romney and Paul Ryan,144
+Nance,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Nance,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Nance,Provisional,President,3,REP,Mitt Romney and Paul Ryan,0
+Nance,Countywide,Senator,3,REP,Deb Fischer,0
+Nance,EV/AB,Senator,3,REP,Deb Fischer,0
+Nance,BGCP,Senator,3,REP,Deb Fischer,219
+Nance,CLFWE,Senator,3,REP,Deb Fischer,183
+Nance,CTS,Senator,3,REP,Deb Fischer,99
+Nance,FULLERTON,Senator,3,REP,Deb Fischer,327
+Nance,GENOA I,Senator,3,REP,Deb Fischer,105
+Nance,GENOA II,Senator,3,REP,Deb Fischer,135
+Nance,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Nance,EV/AB,Senator,3,REP,Deb Fischer,0
+Nance,Provisional,Senator,3,REP,Deb Fischer,0
+Nance,Countywide,Senator,3,DEM,Bob Kerrey,0
+Nance,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Nance,BGCP,Senator,3,DEM,Bob Kerrey,70
+Nance,CLFWE,Senator,3,DEM,Bob Kerrey,70
+Nance,CTS,Senator,3,DEM,Bob Kerrey,58
+Nance,FULLERTON,Senator,3,DEM,Bob Kerrey,220
+Nance,GENOA I,Senator,3,DEM,Bob Kerrey,64
+Nance,GENOA II,Senator,3,DEM,Bob Kerrey,58
+Nance,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Nance,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Nance,Provisional,Senator,3,DEM,Bob Kerrey,0
+Nance,Countywide,Representative,3,REP,Adrian Smith,0
+Nance,EV/AB,Representative,3,REP,Adrian Smith,0
+Nance,BGCP,Representative,3,REP,Adrian Smith,212
+Nance,CLFWE,Representative,3,REP,Adrian Smith,158
+Nance,CTS,Representative,3,REP,Adrian Smith,103
+Nance,FULLERTON,Representative,3,REP,Adrian Smith,331
+Nance,GENOA I,Representative,3,REP,Adrian Smith,115
+Nance,GENOA II,Representative,3,REP,Adrian Smith,147
+Nance,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Nance,EV/AB,Representative,3,REP,Adrian Smith,0
+Nance,Provisional,Representative,3,REP,Adrian Smith,0
+Nance,Countywide,Representative,3,DEM,Mark Sullivan,0
+Nance,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Nance,BGCP,Representative,3,DEM,Mark Sullivan,54
+Nance,CLFWE,Representative,3,DEM,Mark Sullivan,77
+Nance,CTS,Representative,3,DEM,Mark Sullivan,53
+Nance,FULLERTON,Representative,3,DEM,Mark Sullivan,182
+Nance,GENOA I,Representative,3,DEM,Mark Sullivan,53
+Nance,GENOA II,Representative,3,DEM,Mark Sullivan,40
+Nance,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Nance,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Nance,Provisional,Representative,3,DEM,Mark Sullivan,0

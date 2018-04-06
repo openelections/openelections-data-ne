@@ -1,0 +1,161 @@
+county,precinct,office,district,party,candidate,votes
+Dawes,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Dawes,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,8
+Dawes,Precinct 1,President,3,LIB,Gary Johnson and James P. Gray,5
+Dawes,Precinct 2,President,3,LIB,Gary Johnson and James P. Gray,15
+Dawes,Precinct 3,President,3,LIB,Gary Johnson and James P. Gray,6
+Dawes,Precinct 4,President,3,LIB,Gary Johnson and James P. Gray,4
+Dawes,Precinct 5,President,3,LIB,Gary Johnson and James P. Gray,8
+Dawes,Precinct 6,President,3,LIB,Gary Johnson and James P. Gray,2
+Dawes,Precinct 7,President,3,LIB,Gary Johnson and James P. Gray,4
+Dawes,Precinct 8,President,3,LIB,Gary Johnson and James P. Gray,6
+Dawes,Precinct 9,President,3,LIB,Gary Johnson and James P. Gray,2
+Dawes,Precinct 10,President,3,LIB,Gary Johnson and James P. Gray,5
+Dawes,Precinct 11,President,3,LIB,Gary Johnson and James P. Gray,3
+Dawes,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Dawes,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Dawes,Provisional,President,3,LIB,Gary Johnson and James P. Gray,3
+Dawes,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Dawes,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",280
+Dawes,Precinct 1,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",52
+Dawes,Precinct 2,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",139
+Dawes,Precinct 3,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",136
+Dawes,Precinct 4,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",84
+Dawes,Precinct 5,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",81
+Dawes,Precinct 6,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",56
+Dawes,Precinct 7,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",54
+Dawes,Precinct 8,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",63
+Dawes,Precinct 9,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",22
+Dawes,Precinct 10,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",74
+Dawes,Precinct 11,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",61
+Dawes,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Dawes,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Dawes,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",30
+Dawes,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dawes,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,3
+Dawes,Precinct 1,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Dawes,Precinct 2,President,3,ZZZ,Randall A. Terry and Marjorie Smith,7
+Dawes,Precinct 3,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Dawes,Precinct 4,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Dawes,Precinct 5,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Dawes,Precinct 6,President,3,ZZZ,Randall A. Terry and Marjorie Smith,4
+Dawes,Precinct 7,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Dawes,Precinct 8,President,3,ZZZ,Randall A. Terry and Marjorie Smith,3
+Dawes,Precinct 9,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dawes,Precinct 10,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Dawes,Precinct 11,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Dawes,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dawes,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Dawes,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Dawes,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Dawes,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,469
+Dawes,Precinct 1,President,3,REP,Mitt Romney and Paul Ryan,91
+Dawes,Precinct 2,President,3,REP,Mitt Romney and Paul Ryan,243
+Dawes,Precinct 3,President,3,REP,Mitt Romney and Paul Ryan,197
+Dawes,Precinct 4,President,3,REP,Mitt Romney and Paul Ryan,201
+Dawes,Precinct 5,President,3,REP,Mitt Romney and Paul Ryan,152
+Dawes,Precinct 6,President,3,REP,Mitt Romney and Paul Ryan,241
+Dawes,Precinct 7,President,3,REP,Mitt Romney and Paul Ryan,172
+Dawes,Precinct 8,President,3,REP,Mitt Romney and Paul Ryan,166
+Dawes,Precinct 9,President,3,REP,Mitt Romney and Paul Ryan,70
+Dawes,Precinct 10,President,3,REP,Mitt Romney and Paul Ryan,270
+Dawes,Precinct 11,President,3,REP,Mitt Romney and Paul Ryan,163
+Dawes,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Dawes,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Dawes,Provisional,President,3,REP,Mitt Romney and Paul Ryan,43
+Dawes,Countywide,Senator,3,REP,Deb Fischer,0
+Dawes,EV/AB,Senator,3,REP,Deb Fischer,459
+Dawes,Precinct 1,Senator,3,REP,Deb Fischer,74
+Dawes,Precinct 2,Senator,3,REP,Deb Fischer,247
+Dawes,Precinct 3,Senator,3,REP,Deb Fischer,189
+Dawes,Precinct 4,Senator,3,REP,Deb Fischer,205
+Dawes,Precinct 5,Senator,3,REP,Deb Fischer,147
+Dawes,Precinct 6,Senator,3,REP,Deb Fischer,230
+Dawes,Precinct 7,Senator,3,REP,Deb Fischer,166
+Dawes,Precinct 8,Senator,3,REP,Deb Fischer,160
+Dawes,Precinct 9,Senator,3,REP,Deb Fischer,66
+Dawes,Precinct 10,Senator,3,REP,Deb Fischer,262
+Dawes,Precinct 11,Senator,3,REP,Deb Fischer,161
+Dawes,EV/AB,Senator,3,REP,Deb Fischer,0
+Dawes,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Dawes,Provisional,Senator,3,REP,Deb Fischer,39
+Dawes,Countywide,Senator,3,DEM,Bob Kerrey,0
+Dawes,EV/AB,Senator,3,DEM,Bob Kerrey,301
+Dawes,Precinct 1,Senator,3,DEM,Bob Kerrey,76
+Dawes,Precinct 2,Senator,3,DEM,Bob Kerrey,160
+Dawes,Precinct 3,Senator,3,DEM,Bob Kerrey,153
+Dawes,Precinct 4,Senator,3,DEM,Bob Kerrey,82
+Dawes,Precinct 5,Senator,3,DEM,Bob Kerrey,95
+Dawes,Precinct 6,Senator,3,DEM,Bob Kerrey,75
+Dawes,Precinct 7,Senator,3,DEM,Bob Kerrey,62
+Dawes,Precinct 8,Senator,3,DEM,Bob Kerrey,79
+Dawes,Precinct 9,Senator,3,DEM,Bob Kerrey,28
+Dawes,Precinct 10,Senator,3,DEM,Bob Kerrey,88
+Dawes,Precinct 11,Senator,3,DEM,Bob Kerrey,67
+Dawes,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Dawes,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Dawes,Provisional,Senator,3,DEM,Bob Kerrey,37
+Dawes,Countywide,Representative,3,REP,Adrian Smith,0
+Dawes,EV/AB,Representative,3,REP,Adrian Smith,506
+Dawes,Precinct 1,Representative,3,REP,Adrian Smith,103
+Dawes,Precinct 2,Representative,3,REP,Adrian Smith,296
+Dawes,Precinct 3,Representative,3,REP,Adrian Smith,232
+Dawes,Precinct 4,Representative,3,REP,Adrian Smith,228
+Dawes,Precinct 5,Representative,3,REP,Adrian Smith,170
+Dawes,Precinct 6,Representative,3,REP,Adrian Smith,253
+Dawes,Precinct 7,Representative,3,REP,Adrian Smith,169
+Dawes,Precinct 8,Representative,3,REP,Adrian Smith,186
+Dawes,Precinct 9,Representative,3,REP,Adrian Smith,74
+Dawes,Precinct 10,Representative,3,REP,Adrian Smith,286
+Dawes,Precinct 11,Representative,3,REP,Adrian Smith,181
+Dawes,EV/AB,Representative,3,REP,Adrian Smith,0
+Dawes,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Dawes,Provisional,Representative,3,REP,Adrian Smith,49
+Dawes,Countywide,Representative,3,DEM,Mark Sullivan,0
+Dawes,EV/AB,Representative,3,DEM,Mark Sullivan,238
+Dawes,Precinct 1,Representative,3,DEM,Mark Sullivan,45
+Dawes,Precinct 2,Representative,3,DEM,Mark Sullivan,104
+Dawes,Precinct 3,Representative,3,DEM,Mark Sullivan,100
+Dawes,Precinct 4,Representative,3,DEM,Mark Sullivan,54
+Dawes,Precinct 5,Representative,3,DEM,Mark Sullivan,68
+Dawes,Precinct 6,Representative,3,DEM,Mark Sullivan,44
+Dawes,Precinct 7,Representative,3,DEM,Mark Sullivan,60
+Dawes,Precinct 8,Representative,3,DEM,Mark Sullivan,51
+Dawes,Precinct 9,Representative,3,DEM,Mark Sullivan,18
+Dawes,Precinct 10,Representative,3,DEM,Mark Sullivan,61
+Dawes,Precinct 11,Representative,3,DEM,Mark Sullivan,48
+Dawes,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Dawes,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Dawes,Provisional,Representative,3,DEM,Mark Sullivan,22
+Dawes,Countywide,Legislature,LD0043,NON,Al Davis,0
+Dawes,EV/AB,Legislature,LD0043,NON,Al Davis,400
+Dawes,Precinct 1,Legislature,LD0043,NON,Al Davis,91
+Dawes,Precinct 2,Legislature,LD0043,NON,Al Davis,236
+Dawes,Precinct 3,Legislature,LD0043,NON,Al Davis,200
+Dawes,Precinct 4,Legislature,LD0043,NON,Al Davis,172
+Dawes,Precinct 5,Legislature,LD0043,NON,Al Davis,128
+Dawes,Precinct 6,Legislature,LD0043,NON,Al Davis,143
+Dawes,Precinct 7,Legislature,LD0043,NON,Al Davis,110
+Dawes,Precinct 8,Legislature,LD0043,NON,Al Davis,130
+Dawes,Precinct 9,Legislature,LD0043,NON,Al Davis,54
+Dawes,Precinct 10,Legislature,LD0043,NON,Al Davis,184
+Dawes,Precinct 11,Legislature,LD0043,NON,Al Davis,134
+Dawes,EV/AB,Legislature,LD0043,NON,Al Davis,0
+Dawes,New/Former Resident,Legislature,LD0043,NON,Al Davis,0
+Dawes,Provisional,Legislature,LD0043,NON,Al Davis,39
+Dawes,Countywide,Legislature,LD0043,NON,John W. Ravenscroft,0
+Dawes,EV/AB,Legislature,LD0043,NON,John W. Ravenscroft,302
+Dawes,Precinct 1,Legislature,LD0043,NON,John W. Ravenscroft,55
+Dawes,Precinct 2,Legislature,LD0043,NON,John W. Ravenscroft,146
+Dawes,Precinct 3,Legislature,LD0043,NON,John W. Ravenscroft,128
+Dawes,Precinct 4,Legislature,LD0043,NON,John W. Ravenscroft,102
+Dawes,Precinct 5,Legislature,LD0043,NON,John W. Ravenscroft,100
+Dawes,Precinct 6,Legislature,LD0043,NON,John W. Ravenscroft,152
+Dawes,Precinct 7,Legislature,LD0043,NON,John W. Ravenscroft,103
+Dawes,Precinct 8,Legislature,LD0043,NON,John W. Ravenscroft,102
+Dawes,Precinct 9,Legislature,LD0043,NON,John W. Ravenscroft,36
+Dawes,Precinct 10,Legislature,LD0043,NON,John W. Ravenscroft,152
+Dawes,Precinct 11,Legislature,LD0043,NON,John W. Ravenscroft,88
+Dawes,EV/AB,Legislature,LD0043,NON,John W. Ravenscroft,0
+Dawes,New/Former Resident,Legislature,LD0043,NON,John W. Ravenscroft,0
+Dawes,Provisional,Legislature,LD0043,NON,John W. Ravenscroft,28

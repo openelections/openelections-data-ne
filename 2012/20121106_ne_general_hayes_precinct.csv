@@ -1,0 +1,65 @@
+county,precinct,office,district,party,candidate,votes
+Hayes,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Hayes,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Hayes,Precinct 1,President,3,LIB,Gary Johnson and James P. Gray,1
+Hayes,Precinct 2,President,3,LIB,Gary Johnson and James P. Gray,6
+Hayes,Precinct 3,President,3,LIB,Gary Johnson and James P. Gray,4
+Hayes,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Hayes,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Hayes,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Hayes,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Hayes,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Hayes,Precinct 1,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",14
+Hayes,Precinct 2,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",21
+Hayes,Precinct 3,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",15
+Hayes,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Hayes,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Hayes,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",1
+Hayes,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Hayes,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Hayes,Precinct 1,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Hayes,Precinct 2,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Hayes,Precinct 3,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Hayes,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Hayes,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Hayes,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Hayes,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Hayes,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Hayes,Precinct 1,President,3,REP,Mitt Romney and Paul Ryan,163
+Hayes,Precinct 2,President,3,REP,Mitt Romney and Paul Ryan,163
+Hayes,Precinct 3,President,3,REP,Mitt Romney and Paul Ryan,147
+Hayes,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Hayes,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Hayes,Provisional,President,3,REP,Mitt Romney and Paul Ryan,3
+Hayes,Countywide,Senator,3,REP,Deb Fischer,0
+Hayes,EV/AB,Senator,3,REP,Deb Fischer,0
+Hayes,Precinct 1,Senator,3,REP,Deb Fischer,153
+Hayes,Precinct 2,Senator,3,REP,Deb Fischer,148
+Hayes,Precinct 3,Senator,3,REP,Deb Fischer,142
+Hayes,EV/AB,Senator,3,REP,Deb Fischer,0
+Hayes,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Hayes,Provisional,Senator,3,REP,Deb Fischer,2
+Hayes,Countywide,Senator,3,DEM,Bob Kerrey,0
+Hayes,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Hayes,Precinct 1,Senator,3,DEM,Bob Kerrey,25
+Hayes,Precinct 2,Senator,3,DEM,Bob Kerrey,40
+Hayes,Precinct 3,Senator,3,DEM,Bob Kerrey,22
+Hayes,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Hayes,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Hayes,Provisional,Senator,3,DEM,Bob Kerrey,1
+Hayes,Countywide,Representative,3,REP,Adrian Smith,0
+Hayes,EV/AB,Representative,3,REP,Adrian Smith,0
+Hayes,Precinct 1,Representative,3,REP,Adrian Smith,158
+Hayes,Precinct 2,Representative,3,REP,Adrian Smith,163
+Hayes,Precinct 3,Representative,3,REP,Adrian Smith,142
+Hayes,EV/AB,Representative,3,REP,Adrian Smith,0
+Hayes,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Hayes,Provisional,Representative,3,REP,Adrian Smith,2
+Hayes,Countywide,Representative,3,DEM,Mark Sullivan,0
+Hayes,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Hayes,Precinct 1,Representative,3,DEM,Mark Sullivan,20
+Hayes,Precinct 2,Representative,3,DEM,Mark Sullivan,25
+Hayes,Precinct 3,Representative,3,DEM,Mark Sullivan,19
+Hayes,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Hayes,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Hayes,Provisional,Representative,3,DEM,Mark Sullivan,1

@@ -1,0 +1,41 @@
+county,precinct,office,district,party,candidate,votes
+Rock,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Rock,Rock,President,3,LIB,Gary Johnson and James P. Gray,4
+Rock,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,4
+Rock,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Rock,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Rock,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Rock,Rock,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",68
+Rock,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",35
+Rock,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Rock,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Rock,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Rock,Rock,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Rock,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Rock,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Rock,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Rock,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Rock,Rock,President,3,REP,Mitt Romney and Paul Ryan,478
+Rock,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,191
+Rock,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Rock,Provisional,President,3,REP,Mitt Romney and Paul Ryan,3
+Rock,Countywide,Senator,3,REP,Deb Fischer,0
+Rock,Rock,Senator,3,REP,Deb Fischer,475
+Rock,EV/AB,Senator,3,REP,Deb Fischer,205
+Rock,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Rock,Provisional,Senator,3,REP,Deb Fischer,3
+Rock,Countywide,Senator,3,DEM,Bob Kerrey,0
+Rock,Rock,Senator,3,DEM,Bob Kerrey,73
+Rock,EV/AB,Senator,3,DEM,Bob Kerrey,30
+Rock,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Rock,Provisional,Senator,3,DEM,Bob Kerrey,0
+Rock,Countywide,Representative,3,REP,Adrian Smith,0
+Rock,Rock,Representative,3,REP,Adrian Smith,475
+Rock,EV/AB,Representative,3,REP,Adrian Smith,199
+Rock,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Rock,Provisional,Representative,3,REP,Adrian Smith,3
+Rock,Countywide,Representative,3,DEM,Mark Sullivan,0
+Rock,Rock,Representative,3,DEM,Mark Sullivan,60
+Rock,EV/AB,Representative,3,DEM,Mark Sullivan,26
+Rock,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Rock,Provisional,Representative,3,DEM,Mark Sullivan,0

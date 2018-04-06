@@ -1,0 +1,73 @@
+county,precinct,office,district,party,candidate,votes
+Gosper,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Gosper,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Gosper,1,President,3,LIB,Gary Johnson and James P. Gray,2
+Gosper,2,President,3,LIB,Gary Johnson and James P. Gray,5
+Gosper,3,President,3,LIB,Gary Johnson and James P. Gray,2
+Gosper,4,President,3,LIB,Gary Johnson and James P. Gray,0
+Gosper,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Gosper,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Gosper,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Gosper,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Gosper,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Gosper,1,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",83
+Gosper,2,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",78
+Gosper,3,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",46
+Gosper,4,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",23
+Gosper,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Gosper,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Gosper,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Gosper,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Gosper,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Gosper,1,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Gosper,2,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Gosper,3,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Gosper,4,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Gosper,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Gosper,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Gosper,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Gosper,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Gosper,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Gosper,1,President,3,REP,Mitt Romney and Paul Ryan,276
+Gosper,2,President,3,REP,Mitt Romney and Paul Ryan,249
+Gosper,3,President,3,REP,Mitt Romney and Paul Ryan,149
+Gosper,4,President,3,REP,Mitt Romney and Paul Ryan,58
+Gosper,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Gosper,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Gosper,Provisional,President,3,REP,Mitt Romney and Paul Ryan,2
+Gosper,Countywide,Senator,3,REP,Deb Fischer,0
+Gosper,EV/AB,Senator,3,REP,Deb Fischer,0
+Gosper,1,Senator,3,REP,Deb Fischer,271
+Gosper,2,Senator,3,REP,Deb Fischer,250
+Gosper,3,Senator,3,REP,Deb Fischer,151
+Gosper,4,Senator,3,REP,Deb Fischer,65
+Gosper,EV/AB,Senator,3,REP,Deb Fischer,0
+Gosper,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Gosper,Provisional,Senator,3,REP,Deb Fischer,1
+Gosper,Countywide,Senator,3,DEM,Bob Kerrey,0
+Gosper,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Gosper,1,Senator,3,DEM,Bob Kerrey,96
+Gosper,2,Senator,3,DEM,Bob Kerrey,82
+Gosper,3,Senator,3,DEM,Bob Kerrey,47
+Gosper,4,Senator,3,DEM,Bob Kerrey,16
+Gosper,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Gosper,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Gosper,Provisional,Senator,3,DEM,Bob Kerrey,1
+Gosper,Countywide,Representative,3,REP,Adrian Smith,0
+Gosper,EV/AB,Representative,3,REP,Adrian Smith,0
+Gosper,1,Representative,3,REP,Adrian Smith,302
+Gosper,2,Representative,3,REP,Adrian Smith,265
+Gosper,3,Representative,3,REP,Adrian Smith,162
+Gosper,4,Representative,3,REP,Adrian Smith,67
+Gosper,EV/AB,Representative,3,REP,Adrian Smith,0
+Gosper,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Gosper,Provisional,Representative,3,REP,Adrian Smith,2
+Gosper,Countywide,Representative,3,DEM,Mark Sullivan,0
+Gosper,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Gosper,1,Representative,3,DEM,Mark Sullivan,66
+Gosper,2,Representative,3,DEM,Mark Sullivan,62
+Gosper,3,Representative,3,DEM,Mark Sullivan,32
+Gosper,4,Representative,3,DEM,Mark Sullivan,13
+Gosper,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Gosper,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Gosper,Provisional,Representative,3,DEM,Mark Sullivan,0

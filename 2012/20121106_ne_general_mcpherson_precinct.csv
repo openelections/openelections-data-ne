@@ -1,0 +1,51 @@
+county,precinct,office,district,party,candidate,votes
+McPherson,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+McPherson,Tryon 01,President,3,LIB,Gary Johnson and James P. Gray,6
+McPherson,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+McPherson,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+McPherson,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+McPherson,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+McPherson,Tryon 01,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",32
+McPherson,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",9
+McPherson,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+McPherson,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+McPherson,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+McPherson,Tryon 01,President,3,ZZZ,Randall A. Terry and Marjorie Smith,4
+McPherson,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+McPherson,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+McPherson,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+McPherson,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+McPherson,Tryon 01,President,3,REP,Mitt Romney and Paul Ryan,167
+McPherson,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,70
+McPherson,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+McPherson,Provisional,President,3,REP,Mitt Romney and Paul Ryan,0
+McPherson,Countywide,Senator,3,REP,Deb Fischer,0
+McPherson,Tryon 01,Senator,3,REP,Deb Fischer,176
+McPherson,EV/AB,Senator,3,REP,Deb Fischer,77
+McPherson,New/Former Resident,Senator,3,REP,Deb Fischer,0
+McPherson,Provisional,Senator,3,REP,Deb Fischer,0
+McPherson,Countywide,Senator,3,DEM,Bob Kerrey,0
+McPherson,Tryon 01,Senator,3,DEM,Bob Kerrey,35
+McPherson,EV/AB,Senator,3,DEM,Bob Kerrey,5
+McPherson,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+McPherson,Provisional,Senator,3,DEM,Bob Kerrey,0
+McPherson,Countywide,Representative,3,REP,Adrian Smith,0
+McPherson,Tryon 01,Representative,3,REP,Adrian Smith,170
+McPherson,EV/AB,Representative,3,REP,Adrian Smith,71
+McPherson,New/Former Resident,Representative,3,REP,Adrian Smith,0
+McPherson,Provisional,Representative,3,REP,Adrian Smith,0
+McPherson,Countywide,Representative,3,DEM,Mark Sullivan,0
+McPherson,Tryon 01,Representative,3,DEM,Mark Sullivan,36
+McPherson,EV/AB,Representative,3,DEM,Mark Sullivan,8
+McPherson,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+McPherson,Provisional,Representative,3,DEM,Mark Sullivan,0
+McPherson,Countywide,Legislature,LD0043,NON,Al Davis,0
+McPherson,Tryon 01,Legislature,LD0043,NON,Al Davis,84
+McPherson,EV/AB,Legislature,LD0043,NON,Al Davis,36
+McPherson,New/Former Resident,Legislature,LD0043,NON,Al Davis,0
+McPherson,Provisional,Legislature,LD0043,NON,Al Davis,0
+McPherson,Countywide,Legislature,LD0043,NON,John W. Ravenscroft,0
+McPherson,Tryon 01,Legislature,LD0043,NON,John W. Ravenscroft,117
+McPherson,EV/AB,Legislature,LD0043,NON,John W. Ravenscroft,40
+McPherson,New/Former Resident,Legislature,LD0043,NON,John W. Ravenscroft,0
+McPherson,Provisional,Legislature,LD0043,NON,John W. Ravenscroft,0

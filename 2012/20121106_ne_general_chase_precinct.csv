@@ -1,0 +1,81 @@
+county,precinct,office,district,party,candidate,votes
+Chase,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Chase,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Chase,Champion/Lamar,President,3,LIB,Gary Johnson and James P. Gray,6
+Chase,Imperial East,President,3,LIB,Gary Johnson and James P. Gray,2
+Chase,Imperial West,President,3,LIB,Gary Johnson and James P. Gray,7
+Chase,Imperial Rural,President,3,LIB,Gary Johnson and James P. Gray,2
+Chase,Wauneta,President,3,LIB,Gary Johnson and James P. Gray,0
+Chase,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,0
+Chase,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Chase,Provisional,President,3,LIB,Gary Johnson and James P. Gray,0
+Chase,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Chase,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Chase,Champion/Lamar,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",29
+Chase,Imperial East,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",63
+Chase,Imperial West,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",85
+Chase,Imperial Rural,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",32
+Chase,Wauneta,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",45
+Chase,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Chase,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Chase,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Chase,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Chase,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Chase,Champion/Lamar,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Chase,Imperial East,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Chase,Imperial West,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Chase,Imperial Rural,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Chase,Wauneta,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Chase,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Chase,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Chase,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Chase,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Chase,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Chase,Champion/Lamar,President,3,REP,Mitt Romney and Paul Ryan,238
+Chase,Imperial East,President,3,REP,Mitt Romney and Paul Ryan,249
+Chase,Imperial West,President,3,REP,Mitt Romney and Paul Ryan,487
+Chase,Imperial Rural,President,3,REP,Mitt Romney and Paul Ryan,288
+Chase,Wauneta,President,3,REP,Mitt Romney and Paul Ryan,322
+Chase,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,0
+Chase,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Chase,Provisional,President,3,REP,Mitt Romney and Paul Ryan,0
+Chase,Countywide,Senator,3,REP,Deb Fischer,0
+Chase,EV/AB,Senator,3,REP,Deb Fischer,0
+Chase,Champion/Lamar,Senator,3,REP,Deb Fischer,227
+Chase,Imperial East,Senator,3,REP,Deb Fischer,251
+Chase,Imperial West,Senator,3,REP,Deb Fischer,483
+Chase,Imperial Rural,Senator,3,REP,Deb Fischer,277
+Chase,Wauneta,Senator,3,REP,Deb Fischer,308
+Chase,EV/AB,Senator,3,REP,Deb Fischer,0
+Chase,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Chase,Provisional,Senator,3,REP,Deb Fischer,0
+Chase,Countywide,Senator,3,DEM,Bob Kerrey,0
+Chase,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Chase,Champion/Lamar,Senator,3,DEM,Bob Kerrey,44
+Chase,Imperial East,Senator,3,DEM,Bob Kerrey,62
+Chase,Imperial West,Senator,3,DEM,Bob Kerrey,95
+Chase,Imperial Rural,Senator,3,DEM,Bob Kerrey,42
+Chase,Wauneta,Senator,3,DEM,Bob Kerrey,61
+Chase,EV/AB,Senator,3,DEM,Bob Kerrey,0
+Chase,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Chase,Provisional,Senator,3,DEM,Bob Kerrey,0
+Chase,Countywide,Representative,3,REP,Adrian Smith,0
+Chase,EV/AB,Representative,3,REP,Adrian Smith,0
+Chase,Champion/Lamar,Representative,3,REP,Adrian Smith,229
+Chase,Imperial East,Representative,3,REP,Adrian Smith,256
+Chase,Imperial West,Representative,3,REP,Adrian Smith,495
+Chase,Imperial Rural,Representative,3,REP,Adrian Smith,284
+Chase,Wauneta,Representative,3,REP,Adrian Smith,321
+Chase,EV/AB,Representative,3,REP,Adrian Smith,0
+Chase,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Chase,Provisional,Representative,3,REP,Adrian Smith,0
+Chase,Countywide,Representative,3,DEM,Mark Sullivan,0
+Chase,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Chase,Champion/Lamar,Representative,3,DEM,Mark Sullivan,39
+Chase,Imperial East,Representative,3,DEM,Mark Sullivan,52
+Chase,Imperial West,Representative,3,DEM,Mark Sullivan,73
+Chase,Imperial Rural,Representative,3,DEM,Mark Sullivan,33
+Chase,Wauneta,Representative,3,DEM,Mark Sullivan,38
+Chase,EV/AB,Representative,3,DEM,Mark Sullivan,0
+Chase,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Chase,Provisional,Representative,3,DEM,Mark Sullivan,0

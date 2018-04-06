@@ -1,0 +1,153 @@
+county,precinct,office,district,party,candidate,votes
+Holt,Countywide,President,3,LIB,Gary Johnson and James P. Gray,0
+Holt,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,11
+Holt,"01 Antelope, Iowa & Verdigris",President,3,LIB,Gary Johnson and James P. Gray,0
+Holt,02 Atkinson & Surrounding Twps,President,3,LIB,Gary Johnson and James P. Gray,5
+Holt,03 Chambers & Surrounding Twps,President,3,LIB,Gary Johnson and James P. Gray,2
+Holt,04 Emmet & Northeast Twps,President,3,LIB,Gary Johnson and James P. Gray,1
+Holt,"05 Ewing, Golden & Deloit",President,3,LIB,Gary Johnson and James P. Gray,2
+Holt,06 Inman Twp,President,3,LIB,Gary Johnson and James P. Gray,7
+Holt,07 Stuart & Cleveland Twps,President,3,LIB,Gary Johnson and James P. Gray,7
+Holt,08 Grattan & Shields Twps,President,3,LIB,Gary Johnson and James P. Gray,4
+Holt,09 Atkinson Ward I,President,3,LIB,Gary Johnson and James P. Gray,10
+Holt,10 O'Neill Ward I,President,3,LIB,Gary Johnson and James P. Gray,5
+Holt,11 O'Neill Ward II,President,3,LIB,Gary Johnson and James P. Gray,3
+Holt,12 O'Neill Ward III,President,3,LIB,Gary Johnson and James P. Gray,3
+Holt,13 O'Neill Ward IV,President,3,LIB,Gary Johnson and James P. Gray,2
+Holt,15 New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Holt,EV/AB,President,3,LIB,Gary Johnson and James P. Gray,4
+Holt,New/Former Resident,President,3,LIB,Gary Johnson and James P. Gray,0
+Holt,Provisional,President,3,LIB,Gary Johnson and James P. Gray,3
+Holt,Countywide,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Holt,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",245
+Holt,"01 Antelope, Iowa & Verdigris",President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",29
+Holt,02 Atkinson & Surrounding Twps,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",69
+Holt,03 Chambers & Surrounding Twps,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",36
+Holt,04 Emmet & Northeast Twps,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",16
+Holt,"05 Ewing, Golden & Deloit",President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",30
+Holt,06 Inman Twp,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",24
+Holt,07 Stuart & Cleveland Twps,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",70
+Holt,08 Grattan & Shields Twps,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",48
+Holt,09 Atkinson Ward I,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",94
+Holt,10 O'Neill Ward I,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",85
+Holt,11 O'Neill Ward II,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",37
+Holt,12 O'Neill Ward III,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",36
+Holt,13 O'Neill Ward IV,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",43
+Holt,15 New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Holt,EV/AB,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",7
+Holt,New/Former Resident,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",0
+Holt,Provisional,President,3,DEM,"Barack Obama and Joseph R. Biden, Jr.",13
+Holt,Countywide,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Holt,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,5
+Holt,"01 Antelope, Iowa & Verdigris",President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Holt,02 Atkinson & Surrounding Twps,President,3,ZZZ,Randall A. Terry and Marjorie Smith,3
+Holt,03 Chambers & Surrounding Twps,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Holt,04 Emmet & Northeast Twps,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Holt,"05 Ewing, Golden & Deloit",President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Holt,06 Inman Twp,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Holt,07 Stuart & Cleveland Twps,President,3,ZZZ,Randall A. Terry and Marjorie Smith,4
+Holt,08 Grattan & Shields Twps,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Holt,09 Atkinson Ward I,President,3,ZZZ,Randall A. Terry and Marjorie Smith,8
+Holt,10 O'Neill Ward I,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Holt,11 O'Neill Ward II,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Holt,12 O'Neill Ward III,President,3,ZZZ,Randall A. Terry and Marjorie Smith,2
+Holt,13 O'Neill Ward IV,President,3,ZZZ,Randall A. Terry and Marjorie Smith,4
+Holt,15 New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Holt,EV/AB,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Holt,New/Former Resident,President,3,ZZZ,Randall A. Terry and Marjorie Smith,0
+Holt,Provisional,President,3,ZZZ,Randall A. Terry and Marjorie Smith,1
+Holt,Countywide,President,3,REP,Mitt Romney and Paul Ryan,0
+Holt,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,785
+Holt,"01 Antelope, Iowa & Verdigris",President,3,REP,Mitt Romney and Paul Ryan,137
+Holt,02 Atkinson & Surrounding Twps,President,3,REP,Mitt Romney and Paul Ryan,333
+Holt,03 Chambers & Surrounding Twps,President,3,REP,Mitt Romney and Paul Ryan,338
+Holt,04 Emmet & Northeast Twps,President,3,REP,Mitt Romney and Paul Ryan,115
+Holt,"05 Ewing, Golden & Deloit",President,3,REP,Mitt Romney and Paul Ryan,210
+Holt,06 Inman Twp,President,3,REP,Mitt Romney and Paul Ryan,101
+Holt,07 Stuart & Cleveland Twps,President,3,REP,Mitt Romney and Paul Ryan,263
+Holt,08 Grattan & Shields Twps,President,3,REP,Mitt Romney and Paul Ryan,310
+Holt,09 Atkinson Ward I,President,3,REP,Mitt Romney and Paul Ryan,343
+Holt,10 O'Neill Ward I,President,3,REP,Mitt Romney and Paul Ryan,290
+Holt,11 O'Neill Ward II,President,3,REP,Mitt Romney and Paul Ryan,266
+Holt,12 O'Neill Ward III,President,3,REP,Mitt Romney and Paul Ryan,155
+Holt,13 O'Neill Ward IV,President,3,REP,Mitt Romney and Paul Ryan,143
+Holt,15 New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Holt,EV/AB,President,3,REP,Mitt Romney and Paul Ryan,75
+Holt,New/Former Resident,President,3,REP,Mitt Romney and Paul Ryan,0
+Holt,Provisional,President,3,REP,Mitt Romney and Paul Ryan,58
+Holt,Countywide,Senator,3,REP,Deb Fischer,0
+Holt,EV/AB,Senator,3,REP,Deb Fischer,801
+Holt,"01 Antelope, Iowa & Verdigris",Senator,3,REP,Deb Fischer,142
+Holt,02 Atkinson & Surrounding Twps,Senator,3,REP,Deb Fischer,320
+Holt,03 Chambers & Surrounding Twps,Senator,3,REP,Deb Fischer,338
+Holt,04 Emmet & Northeast Twps,Senator,3,REP,Deb Fischer,111
+Holt,"05 Ewing, Golden & Deloit",Senator,3,REP,Deb Fischer,207
+Holt,06 Inman Twp,Senator,3,REP,Deb Fischer,108
+Holt,07 Stuart & Cleveland Twps,Senator,3,REP,Deb Fischer,250
+Holt,08 Grattan & Shields Twps,Senator,3,REP,Deb Fischer,305
+Holt,09 Atkinson Ward I,Senator,3,REP,Deb Fischer,339
+Holt,10 O'Neill Ward I,Senator,3,REP,Deb Fischer,275
+Holt,11 O'Neill Ward II,Senator,3,REP,Deb Fischer,253
+Holt,12 O'Neill Ward III,Senator,3,REP,Deb Fischer,170
+Holt,13 O'Neill Ward IV,Senator,3,REP,Deb Fischer,151
+Holt,15 New/Former Resident,Senator,3,REP,Deb Fischer,0
+Holt,EV/AB,Senator,3,REP,Deb Fischer,71
+Holt,New/Former Resident,Senator,3,REP,Deb Fischer,0
+Holt,Provisional,Senator,3,REP,Deb Fischer,55
+Holt,Countywide,Senator,3,DEM,Bob Kerrey,0
+Holt,EV/AB,Senator,3,DEM,Bob Kerrey,253
+Holt,"01 Antelope, Iowa & Verdigris",Senator,3,DEM,Bob Kerrey,26
+Holt,02 Atkinson & Surrounding Twps,Senator,3,DEM,Bob Kerrey,84
+Holt,03 Chambers & Surrounding Twps,Senator,3,DEM,Bob Kerrey,36
+Holt,04 Emmet & Northeast Twps,Senator,3,DEM,Bob Kerrey,24
+Holt,"05 Ewing, Golden & Deloit",Senator,3,DEM,Bob Kerrey,38
+Holt,06 Inman Twp,Senator,3,DEM,Bob Kerrey,30
+Holt,07 Stuart & Cleveland Twps,Senator,3,DEM,Bob Kerrey,97
+Holt,08 Grattan & Shields Twps,Senator,3,DEM,Bob Kerrey,55
+Holt,09 Atkinson Ward I,Senator,3,DEM,Bob Kerrey,114
+Holt,10 O'Neill Ward I,Senator,3,DEM,Bob Kerrey,107
+Holt,11 O'Neill Ward II,Senator,3,DEM,Bob Kerrey,53
+Holt,12 O'Neill Ward III,Senator,3,DEM,Bob Kerrey,33
+Holt,13 O'Neill Ward IV,Senator,3,DEM,Bob Kerrey,43
+Holt,15 New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Holt,EV/AB,Senator,3,DEM,Bob Kerrey,13
+Holt,New/Former Resident,Senator,3,DEM,Bob Kerrey,0
+Holt,Provisional,Senator,3,DEM,Bob Kerrey,19
+Holt,Countywide,Representative,3,REP,Adrian Smith,0
+Holt,EV/AB,Representative,3,REP,Adrian Smith,826
+Holt,"01 Antelope, Iowa & Verdigris",Representative,3,REP,Adrian Smith,138
+Holt,02 Atkinson & Surrounding Twps,Representative,3,REP,Adrian Smith,346
+Holt,03 Chambers & Surrounding Twps,Representative,3,REP,Adrian Smith,322
+Holt,04 Emmet & Northeast Twps,Representative,3,REP,Adrian Smith,110
+Holt,"05 Ewing, Golden & Deloit",Representative,3,REP,Adrian Smith,196
+Holt,06 Inman Twp,Representative,3,REP,Adrian Smith,112
+Holt,07 Stuart & Cleveland Twps,Representative,3,REP,Adrian Smith,274
+Holt,08 Grattan & Shields Twps,Representative,3,REP,Adrian Smith,309
+Holt,09 Atkinson Ward I,Representative,3,REP,Adrian Smith,365
+Holt,10 O'Neill Ward I,Representative,3,REP,Adrian Smith,302
+Holt,11 O'Neill Ward II,Representative,3,REP,Adrian Smith,263
+Holt,12 O'Neill Ward III,Representative,3,REP,Adrian Smith,164
+Holt,13 O'Neill Ward IV,Representative,3,REP,Adrian Smith,159
+Holt,15 New/Former Resident,Representative,3,REP,Adrian Smith,0
+Holt,EV/AB,Representative,3,REP,Adrian Smith,71
+Holt,New/Former Resident,Representative,3,REP,Adrian Smith,0
+Holt,Provisional,Representative,3,REP,Adrian Smith,60
+Holt,Countywide,Representative,3,DEM,Mark Sullivan,0
+Holt,EV/AB,Representative,3,DEM,Mark Sullivan,207
+Holt,"01 Antelope, Iowa & Verdigris",Representative,3,DEM,Mark Sullivan,24
+Holt,02 Atkinson & Surrounding Twps,Representative,3,DEM,Mark Sullivan,57
+Holt,03 Chambers & Surrounding Twps,Representative,3,DEM,Mark Sullivan,36
+Holt,04 Emmet & Northeast Twps,Representative,3,DEM,Mark Sullivan,21
+Holt,"05 Ewing, Golden & Deloit",Representative,3,DEM,Mark Sullivan,30
+Holt,06 Inman Twp,Representative,3,DEM,Mark Sullivan,25
+Holt,07 Stuart & Cleveland Twps,Representative,3,DEM,Mark Sullivan,61
+Holt,08 Grattan & Shields Twps,Representative,3,DEM,Mark Sullivan,39
+Holt,09 Atkinson Ward I,Representative,3,DEM,Mark Sullivan,85
+Holt,10 O'Neill Ward I,Representative,3,DEM,Mark Sullivan,76
+Holt,11 O'Neill Ward II,Representative,3,DEM,Mark Sullivan,40
+Holt,12 O'Neill Ward III,Representative,3,DEM,Mark Sullivan,38
+Holt,13 O'Neill Ward IV,Representative,3,DEM,Mark Sullivan,36
+Holt,15 New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Holt,EV/AB,Representative,3,DEM,Mark Sullivan,10
+Holt,New/Former Resident,Representative,3,DEM,Mark Sullivan,0
+Holt,Provisional,Representative,3,DEM,Mark Sullivan,14

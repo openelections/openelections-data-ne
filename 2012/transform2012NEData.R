@@ -204,6 +204,6 @@
 	   countyPrecinctResults$votes <- as.numeric(countyPrecinctResults$votes)
        }   
        lcCounty <- tolower(gsub(" ", "_", county))
-       csvName <- paste0("20121106_ne_general_", lcCounty, "_precinct.csv")
+       csvName <- paste0("20121106__ne__general__", lcCounty, "_precinct.csv")
        write_csv(countyPrecinctResults, csvName)
     }

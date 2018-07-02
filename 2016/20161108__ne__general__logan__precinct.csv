@@ -1,29 +1,29 @@
-county,precinct,office,district,party,candidate,votes
-Logan,Absentee/Early Vote,President,,Democratic,Hillary Clinton,8
-Logan,Countywide,President,,Democratic,Hillary Clinton,0
-Logan,Logan County,President,,Democratic,Hillary Clinton,24
-Logan,New/Former Resident,President,,Democratic,Hillary Clinton,0
-Logan,Absentee/Early Vote,President,,Libertarian,Gary Johnson,3
-Logan,Countywide,President,,Libertarian,Gary Johnson,0
-Logan,Logan County,President,,Libertarian,Gary Johnson,15
-Logan,New/Former Resident,President,,Libertarian,Gary Johnson,0
-Logan,Absentee/Early Vote,President,,,Jill Stein,1
-Logan,Countywide,President,,,Jill Stein,0
-Logan,Logan County,President,,,Jill Stein,0
-Logan,New/Former Resident,President,,,Jill Stein,0
-Logan,Absentee/Early Vote,President,,Republican,Donald J. Trump,67
-Logan,Countywide,President,,Republican,Donald J. Trump,0
-Logan,Logan County,President,,Republican,Donald J. Trump,333
-Logan,New/Former Resident,President,,Republican,Donald J. Trump,0
-Logan,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,73
-Logan,Countywide,U.S. House,3,Republican,Adrian Smith,0
-Logan,Logan County,U.S. House,3,Republican,Adrian Smith,328
-Logan,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
-Logan,Absentee/Early Vote,State Legislature,43,,Al Davis,42
-Logan,Countywide,State Legislature,43,,Al Davis,0
-Logan,Logan County,State Legislature,43,,Al Davis,137
-Logan,New/Former Resident,State Legislature,43,,Al Davis,0
-Logan,Absentee/Early Vote,State Legislature,43,,Tom Brewer,29
-Logan,Countywide,State Legislature,43,,Tom Brewer,0
-Logan,Logan County,State Legislature,43,,Tom Brewer,212
-Logan,New/Former Resident,State Legislature,43,,Tom Brewer,0
+"","county","precinct","district","office","party","candidate","votes"
+"1","Logan","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",8
+"2","Logan","Countywide",NA,"President","DEM","Hillary Clinton",0
+"3","Logan","Logan County",NA,"President","DEM","Hillary Clinton",24
+"4","Logan","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
+"5","Logan","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",3
+"6","Logan","Countywide",NA,"President","LIB","Gary Johnson",0
+"7","Logan","Logan County",NA,"President","LIB","Gary Johnson",15
+"8","Logan","New/Former Resident",NA,"President","LIB","Gary Johnson",0
+"9","Logan","Absentee/Early Vote",NA,"President","","Jill Stein",1
+"10","Logan","Countywide",NA,"President","","Jill Stein",0
+"11","Logan","Logan County",NA,"President","","Jill Stein",0
+"12","Logan","New/Former Resident",NA,"President","","Jill Stein",0
+"13","Logan","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",67
+"14","Logan","Countywide",NA,"President","REP","Donald J. Trump",0
+"15","Logan","Logan County",NA,"President","REP","Donald J. Trump",333
+"16","Logan","New/Former Resident",NA,"President","REP","Donald J. Trump",0
+"17","Logan","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",73
+"18","Logan","Countywide",3,"U.S. House","REP","Adrian Smith",0
+"19","Logan","Logan County",3,"U.S. House","REP","Adrian Smith",328
+"20","Logan","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
+"21","Logan","Absentee/Early Vote",43,"State Legislature","","Al Davis",42
+"22","Logan","Countywide",43,"State Legislature","","Al Davis",0
+"23","Logan","Logan County",43,"State Legislature","","Al Davis",137
+"24","Logan","New/Former Resident",43,"State Legislature","","Al Davis",0
+"25","Logan","Absentee/Early Vote",43,"State Legislature","","Tom Brewer",29
+"26","Logan","Countywide",43,"State Legislature","","Tom Brewer",0
+"27","Logan","Logan County",43,"State Legislature","","Tom Brewer",212
+"28","Logan","New/Former Resident",43,"State Legislature","","Tom Brewer",0

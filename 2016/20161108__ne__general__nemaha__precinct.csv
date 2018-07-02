@@ -1,100 +1,100 @@
-county,precinct,office,district,party,candidate,votes
-Nemaha,Total,President,,Republican,Donald J. Trump,2116
-Nemaha,Absentee,President,,Republican,Donald J. Trump,376
-Nemaha,Brownville,President,,Republican,Donald J. Trump,127
-Nemaha,1st Douglas,President,,Republican,Donald J. Trump,194
-Nemaha,2nd Douglas,President,,Republican,Donald J. Trump,229
-Nemaha,3rd Douglas,President,,Republican,Donald J. Trump,271
-Nemaha,4th Douglas,President,,Republican,Donald J. Trump,273
-Nemaha,Lafayette,President,,Republican,Donald J. Trump,75
-Nemaha,Nemaha,President,,Republican,Donald J. Trump,97
-Nemaha,Peru,President,,Republican,Donald J. Trump,169
-Nemaha,Washington-Benton,President,,Republican,Donald J. Trump,305
-Nemaha,Total,President,,Democratic,Hillary Clinton,785
-Nemaha,Absentee,President,,Democratic,Hillary Clinton,209
-Nemaha,Brownville,President,,Democratic,Hillary Clinton,54
-Nemaha,1st Douglas,President,,Democratic,Hillary Clinton,86
-Nemaha,2nd Douglas,President,,Democratic,Hillary Clinton,94
-Nemaha,3rd Douglas,President,,Democratic,Hillary Clinton,79
-Nemaha,4th Douglas,President,,Democratic,Hillary Clinton,83
-Nemaha,Lafayette,President,,Democratic,Hillary Clinton,26
-Nemaha,Nemaha,President,,Democratic,Hillary Clinton,19
-Nemaha,Peru,President,,Democratic,Hillary Clinton,60
-Nemaha,Washington-Benton,President,,Democratic,Hillary Clinton,75
-Nemaha,Total,President,,Libertarian,Gary Johnson,180
-Nemaha,Absentee,President,,Libertarian,Gary Johnson,27
-Nemaha,Brownville,President,,Libertarian,Gary Johnson,10
-Nemaha,1st Douglas,President,,Libertarian,Gary Johnson,15
-Nemaha,2nd Douglas,President,,Libertarian,Gary Johnson,27
-Nemaha,3rd Douglas,President,,Libertarian,Gary Johnson,29
-Nemaha,4th Douglas,President,,Libertarian,Gary Johnson,24
-Nemaha,Lafayette,President,,Libertarian,Gary Johnson,5
-Nemaha,Nemaha,President,,Libertarian,Gary Johnson,2
-Nemaha,Peru,President,,Libertarian,Gary Johnson,13
-Nemaha,Washington-Benton,President,,Libertarian,Gary Johnson,28
-Nemaha,Total,President,,,Jill Stein,27
-Nemaha,Absentee,President,,,Jill Stein,9
-Nemaha,Brownville,President,,,Jill Stein,1
-Nemaha,1st Douglas,President,,,Jill Stein,0
-Nemaha,2nd Douglas,President,,,Jill Stein,1
-Nemaha,3rd Douglas,President,,,Jill Stein,3
-Nemaha,4th Douglas,President,,,Jill Stein,4
-Nemaha,Lafayette,President,,,Jill Stein,1
-Nemaha,Nemaha,President,,,Jill Stein,3
-Nemaha,Peru,President,,,Jill Stein,1
-Nemaha,Washington-Benton,President,,,Jill Stein,4
-Nemaha,Total,President,,,Write-ins,53
-Nemaha,Absentee,President,,,Write-ins,10
-Nemaha,Brownville,President,,,Write-ins,0
-Nemaha,1st Douglas,President,,,Write-ins,9
-Nemaha,2nd Douglas,President,,,Write-ins,7
-Nemaha,3rd Douglas,President,,,Write-ins,7
-Nemaha,4th Douglas,President,,,Write-ins,8
-Nemaha,Lafayette,President,,,Write-ins,2
-Nemaha,Nemaha,President,,,Write-ins,0
-Nemaha,Peru,President,,,Write-ins,3
-Nemaha,Washington-Benton,President,,,Write-ins,7
-Nemaha,Total,U.S. House,3,Republican,Adrian Smith,2622
-Nemaha,Absentee,U.S. House,3,Republican,Adrian Smith,497
-Nemaha,Brownville,U.S. House,3,Republican,Adrian Smith,156
-Nemaha,1st Douglas,U.S. House,3,Republican,Adrian Smith,256
-Nemaha,2nd Douglas,U.S. House,3,Republican,Adrian Smith,303
-Nemaha,3rd Douglas,U.S. House,3,Republican,Adrian Smith,322
-Nemaha,4th Douglas,U.S. House,3,Republican,Adrian Smith,334
-Nemaha,Lafayette,U.S. House,3,Republican,Adrian Smith,101
-Nemaha,Nemaha,U.S. House,3,Republican,Adrian Smith,102
-Nemaha,Peru,U.S. House,3,Republican,Adrian Smith,189
-Nemaha,Washington-Benton,U.S. House,3,Republican,Adrian Smith,362
-Nemaha,Total,U.S. House,3,,Write-ins,50
-Nemaha,Absentee,U.S. House,3,,Write-ins,19
-Nemaha,Brownville,U.S. House,3,,Write-ins,2
-Nemaha,1st Douglas,U.S. House,3,,Write-ins,3
-Nemaha,2nd Douglas,U.S. House,3,,Write-ins,3
-Nemaha,3rd Douglas,U.S. House,3,,Write-ins,4
-Nemaha,4th Douglas,U.S. House,3,,Write-ins,2
-Nemaha,Lafayette,U.S. House,3,,Write-ins,4
-Nemaha,Nemaha,U.S. House,3,,Write-ins,1
-Nemaha,Peru,U.S. House,3,,Write-ins,9
-Nemaha,Washington-Benton,U.S. House,3,,Write-ins,3
-Nemaha,Total,State Legislature,1,,Dan Watermeier,2658
-Nemaha,Absentee,State Legislature,1,,Dan Watermeier,521
-Nemaha,Brownville,State Legislature,1,,Dan Watermeier,157
-Nemaha,1st Douglas,State Legislature,1,,Dan Watermeier,260
-Nemaha,2nd Douglas,State Legislature,1,,Dan Watermeier,302
-Nemaha,3rd Douglas,State Legislature,1,,Dan Watermeier,311
-Nemaha,4th Douglas,State Legislature,1,,Dan Watermeier,337
-Nemaha,Lafayette,State Legislature,1,,Dan Watermeier,101
-Nemaha,Nemaha,State Legislature,1,,Dan Watermeier,99
-Nemaha,Peru,State Legislature,1,,Dan Watermeier,197
-Nemaha,Washington-Benton,State Legislature,1,,Dan Watermeier,373
-Nemaha,Total,State Legislature,1,,Write-ins,28
-Nemaha,Absentee,State Legislature,1,,Write-ins,9
-Nemaha,Brownville,State Legislature,1,,Write-ins,1
-Nemaha,1st Douglas,State Legislature,1,,Write-ins,2
-Nemaha,2nd Douglas,State Legislature,1,,Write-ins,2
-Nemaha,3rd Douglas,State Legislature,1,,Write-ins,4
-Nemaha,4th Douglas,State Legislature,1,,Write-ins,1
-Nemaha,Lafayette,State Legislature,1,,Write-ins,2
-Nemaha,Nemaha,State Legislature,1,,Write-ins,1
-Nemaha,Peru,State Legislature,1,,Write-ins,4
-Nemaha,Washington-Benton,State Legislature,1,,Write-ins,2
+"","county","precinct","district","office","party","candidate","votes"
+"1","Nemaha","Total",NA,"President","REP","Donald J. Trump",2116
+"2","Nemaha","Absentee",NA,"President","REP","Donald J. Trump",376
+"3","Nemaha","Brownville",NA,"President","REP","Donald J. Trump",127
+"4","Nemaha","1st Douglas",NA,"President","REP","Donald J. Trump",194
+"5","Nemaha","2nd Douglas",NA,"President","REP","Donald J. Trump",229
+"6","Nemaha","3rd Douglas",NA,"President","REP","Donald J. Trump",271
+"7","Nemaha","4th Douglas",NA,"President","REP","Donald J. Trump",273
+"8","Nemaha","Lafayette",NA,"President","REP","Donald J. Trump",75
+"9","Nemaha","Nemaha",NA,"President","REP","Donald J. Trump",97
+"10","Nemaha","Peru",NA,"President","REP","Donald J. Trump",169
+"11","Nemaha","Washington-Benton",NA,"President","REP","Donald J. Trump",305
+"12","Nemaha","Total",NA,"President","DEM","Hillary Clinton",785
+"13","Nemaha","Absentee",NA,"President","DEM","Hillary Clinton",209
+"14","Nemaha","Brownville",NA,"President","DEM","Hillary Clinton",54
+"15","Nemaha","1st Douglas",NA,"President","DEM","Hillary Clinton",86
+"16","Nemaha","2nd Douglas",NA,"President","DEM","Hillary Clinton",94
+"17","Nemaha","3rd Douglas",NA,"President","DEM","Hillary Clinton",79
+"18","Nemaha","4th Douglas",NA,"President","DEM","Hillary Clinton",83
+"19","Nemaha","Lafayette",NA,"President","DEM","Hillary Clinton",26
+"20","Nemaha","Nemaha",NA,"President","DEM","Hillary Clinton",19
+"21","Nemaha","Peru",NA,"President","DEM","Hillary Clinton",60
+"22","Nemaha","Washington-Benton",NA,"President","DEM","Hillary Clinton",75
+"23","Nemaha","Total",NA,"President","LIB","Gary Johnson",180
+"24","Nemaha","Absentee",NA,"President","LIB","Gary Johnson",27
+"25","Nemaha","Brownville",NA,"President","LIB","Gary Johnson",10
+"26","Nemaha","1st Douglas",NA,"President","LIB","Gary Johnson",15
+"27","Nemaha","2nd Douglas",NA,"President","LIB","Gary Johnson",27
+"28","Nemaha","3rd Douglas",NA,"President","LIB","Gary Johnson",29
+"29","Nemaha","4th Douglas",NA,"President","LIB","Gary Johnson",24
+"30","Nemaha","Lafayette",NA,"President","LIB","Gary Johnson",5
+"31","Nemaha","Nemaha",NA,"President","LIB","Gary Johnson",2
+"32","Nemaha","Peru",NA,"President","LIB","Gary Johnson",13
+"33","Nemaha","Washington-Benton",NA,"President","LIB","Gary Johnson",28
+"34","Nemaha","Total",NA,"President","","Jill Stein",27
+"35","Nemaha","Absentee",NA,"President","","Jill Stein",9
+"36","Nemaha","Brownville",NA,"President","","Jill Stein",1
+"37","Nemaha","1st Douglas",NA,"President","","Jill Stein",0
+"38","Nemaha","2nd Douglas",NA,"President","","Jill Stein",1
+"39","Nemaha","3rd Douglas",NA,"President","","Jill Stein",3
+"40","Nemaha","4th Douglas",NA,"President","","Jill Stein",4
+"41","Nemaha","Lafayette",NA,"President","","Jill Stein",1
+"42","Nemaha","Nemaha",NA,"President","","Jill Stein",3
+"43","Nemaha","Peru",NA,"President","","Jill Stein",1
+"44","Nemaha","Washington-Benton",NA,"President","","Jill Stein",4
+"45","Nemaha","Total",NA,"President","","Write-ins",53
+"46","Nemaha","Absentee",NA,"President","","Write-ins",10
+"47","Nemaha","Brownville",NA,"President","","Write-ins",0
+"48","Nemaha","1st Douglas",NA,"President","","Write-ins",9
+"49","Nemaha","2nd Douglas",NA,"President","","Write-ins",7
+"50","Nemaha","3rd Douglas",NA,"President","","Write-ins",7
+"51","Nemaha","4th Douglas",NA,"President","","Write-ins",8
+"52","Nemaha","Lafayette",NA,"President","","Write-ins",2
+"53","Nemaha","Nemaha",NA,"President","","Write-ins",0
+"54","Nemaha","Peru",NA,"President","","Write-ins",3
+"55","Nemaha","Washington-Benton",NA,"President","","Write-ins",7
+"56","Nemaha","Total",3,"U.S. House","REP","Adrian Smith",2622
+"57","Nemaha","Absentee",3,"U.S. House","REP","Adrian Smith",497
+"58","Nemaha","Brownville",3,"U.S. House","REP","Adrian Smith",156
+"59","Nemaha","1st Douglas",3,"U.S. House","REP","Adrian Smith",256
+"60","Nemaha","2nd Douglas",3,"U.S. House","REP","Adrian Smith",303
+"61","Nemaha","3rd Douglas",3,"U.S. House","REP","Adrian Smith",322
+"62","Nemaha","4th Douglas",3,"U.S. House","REP","Adrian Smith",334
+"63","Nemaha","Lafayette",3,"U.S. House","REP","Adrian Smith",101
+"64","Nemaha","Nemaha",3,"U.S. House","REP","Adrian Smith",102
+"65","Nemaha","Peru",3,"U.S. House","REP","Adrian Smith",189
+"66","Nemaha","Washington-Benton",3,"U.S. House","REP","Adrian Smith",362
+"67","Nemaha","Total",3,"U.S. House","","Write-ins",50
+"68","Nemaha","Absentee",3,"U.S. House","","Write-ins",19
+"69","Nemaha","Brownville",3,"U.S. House","","Write-ins",2
+"70","Nemaha","1st Douglas",3,"U.S. House","","Write-ins",3
+"71","Nemaha","2nd Douglas",3,"U.S. House","","Write-ins",3
+"72","Nemaha","3rd Douglas",3,"U.S. House","","Write-ins",4
+"73","Nemaha","4th Douglas",3,"U.S. House","","Write-ins",2
+"74","Nemaha","Lafayette",3,"U.S. House","","Write-ins",4
+"75","Nemaha","Nemaha",3,"U.S. House","","Write-ins",1
+"76","Nemaha","Peru",3,"U.S. House","","Write-ins",9
+"77","Nemaha","Washington-Benton",3,"U.S. House","","Write-ins",3
+"78","Nemaha","Total",1,"State Legislature","","Dan Watermeier",2658
+"79","Nemaha","Absentee",1,"State Legislature","","Dan Watermeier",521
+"80","Nemaha","Brownville",1,"State Legislature","","Dan Watermeier",157
+"81","Nemaha","1st Douglas",1,"State Legislature","","Dan Watermeier",260
+"82","Nemaha","2nd Douglas",1,"State Legislature","","Dan Watermeier",302
+"83","Nemaha","3rd Douglas",1,"State Legislature","","Dan Watermeier",311
+"84","Nemaha","4th Douglas",1,"State Legislature","","Dan Watermeier",337
+"85","Nemaha","Lafayette",1,"State Legislature","","Dan Watermeier",101
+"86","Nemaha","Nemaha",1,"State Legislature","","Dan Watermeier",99
+"87","Nemaha","Peru",1,"State Legislature","","Dan Watermeier",197
+"88","Nemaha","Washington-Benton",1,"State Legislature","","Dan Watermeier",373
+"89","Nemaha","Total",1,"State Legislature","","Write-ins",28
+"90","Nemaha","Absentee",1,"State Legislature","","Write-ins",9
+"91","Nemaha","Brownville",1,"State Legislature","","Write-ins",1
+"92","Nemaha","1st Douglas",1,"State Legislature","","Write-ins",2
+"93","Nemaha","2nd Douglas",1,"State Legislature","","Write-ins",2
+"94","Nemaha","3rd Douglas",1,"State Legislature","","Write-ins",4
+"95","Nemaha","4th Douglas",1,"State Legislature","","Write-ins",1
+"96","Nemaha","Lafayette",1,"State Legislature","","Write-ins",2
+"97","Nemaha","Nemaha",1,"State Legislature","","Write-ins",1
+"98","Nemaha","Peru",1,"State Legislature","","Write-ins",4
+"99","Nemaha","Washington-Benton",1,"State Legislature","","Write-ins",2

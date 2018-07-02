@@ -1,8 +1,8 @@
-county,precinct,office,district,party,candidate,election_day,early_voting,provisional,votes,,
-Blaine,Blaine,President,,     Republican,Donald J. Trump/Pence,160,113,3,276,,
-Blaine,Blaine,President,,     Democratic,Hillary Clinton/Kaine,20,10,,30,,
-Blaine,Blaine,President,,     Libertarian,Gary Johnson/Weld,4,6,,10,,
-Blaine,Blaine,President,,,Jill Stein/Baraka,0,0,,0,,
-Blaine,Blaine,U.S. House,3,Republican,Adrian Smith,162,111,3,276,,
-Blaine,Blaine,State Legislature,43,,Al Davis,67,60,3,130,,
-Blaine,Blaine,State Legislature,43,,Tom Brewer,118,61,,179,,
+"","county","precinct","district","office","party","candidate","votes"
+"1","Blaine","Blaine",NA,"President","REP","Donald J. Trump",276
+"2","Blaine","Blaine",NA,"President","DEM","Hillary Clinton",30
+"3","Blaine","Blaine",NA,"President","LIB","Gary Johnson/Weld",10
+"4","Blaine","Blaine",NA,"President","","Jill Stein",0
+"5","Blaine","Blaine",3,"U.S. House","REP","Adrian Smith",276
+"6","Blaine","Blaine",43,"State Legislature","","Al Davis",130
+"7","Blaine","Blaine",43,"State Legislature","","Tom Brewer",179

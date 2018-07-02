@@ -1,104 +1,104 @@
-county,precinct,office,district,party,candidate,votes,provisional,provisional_counted
-Johnson,Total,Registered Voters,,,,2794,,
-Johnson,Nemaha I,Registered Voters,,,,443,,
-Johnson,Nemaha II,Registered Voters,,,,905,,
-Johnson,Sterling,Registered Voters,,,,759,,
-Johnson,Spring Creek,Registered Voters,,,,344,,
-Johnson,Todd Creek,Registered Voters,,,,212,,
-Johnson,Western,Registered Voters,,,,131,,
-Johnson,Total,Ballots Cast,,,,2115,15,11
-Johnson,Early,Ballots Cast,,,,269,,
-Johnson,Nemaha I,Ballots Cast,,,,266,4,3
-Johnson,Nemaha II,Ballots Cast,,,,574,5,5
-Johnson,Sterling,Ballots Cast,,,,528,4,1
-Johnson,Spring Creek,Ballots Cast,,,,244,2,2
-Johnson,Todd Creek,Ballots Cast,,,,148,0,0
-Johnson,Western,Ballots Cast,,,,86,0,0
-Johnson,Total,President,,Republican,Donald J. Trump,1355,,
-Johnson,Early,President,,Republican,Donald J. Trump,149,,
-Johnson,Nemaha I,President,,Republican,Donald J. Trump,174,,
-Johnson,Nemaha II,President,,Republican,Donald J. Trump,351,,
-Johnson,Sterling,President,,Republican,Donald J. Trump,340,,
-Johnson,Spring Creek,President,,Republican,Donald J. Trump,167,,
-Johnson,Todd Creek,President,,Republican,Donald J. Trump,112,,
-Johnson,Western,President,,Republican,Donald J. Trump,62,,
-Johnson,Total,President,,Democratic,Hillary Clinton,563,,
-Johnson,Early,President,,Democratic,Hillary Clinton,95,,
-Johnson,Nemaha I,President,,Democratic,Hillary Clinton,68,,
-Johnson,Nemaha II,President,,Democratic,Hillary Clinton,167,,
-Johnson,Sterling,President,,Democratic,Hillary Clinton,129,,
-Johnson,Spring Creek,President,,Democratic,Hillary Clinton,51,,
-Johnson,Todd Creek,President,,Democratic,Hillary Clinton,33,,
-Johnson,Western,President,,Democratic,Hillary Clinton,20,,
-Johnson,Total,President,,Libertarian,Gary Johnson,122,,
-Johnson,Early,President,,Libertarian,Gary Johnson,19,,
-Johnson,Nemaha I,President,,Libertarian,Gary Johnson,13,,
-Johnson,Nemaha II,President,,Libertarian,Gary Johnson,25,,
-Johnson,Sterling,President,,Libertarian,Gary Johnson,38,,
-Johnson,Spring Creek,President,,Libertarian,Gary Johnson,23,,
-Johnson,Todd Creek,President,,Libertarian,Gary Johnson,2,,
-Johnson,Western,President,,Libertarian,Gary Johnson,2,,
-Johnson,Total,President,,,Jill Stein,22,,
-Johnson,Early,President,,,Jill Stein,3,,
-Johnson,Nemaha I,President,,,Jill Stein,4,,
-Johnson,Nemaha II,President,,,Jill Stein,7,,
-Johnson,Sterling,President,,,Jill Stein,6,,
-Johnson,Spring Creek,President,,,Jill Stein,1,,
-Johnson,Todd Creek,President,,,Jill Stein,0,,
-Johnson,Western,President,,,Jill Stein,1,,
-Johnson,Total,President,,,Write-ins,27,,
-Johnson,Early,President,,,Write-ins,6,,
-Johnson,Nemaha I,President,,,Write-ins,2,,
-Johnson,Nemaha II,President,,,Write-ins,10,,
-Johnson,Sterling,President,,,Write-ins,6,,
-Johnson,Spring Creek,President,,,Write-ins,2,,
-Johnson,Todd Creek,President,,,Write-ins,0,,
-Johnson,Western,President,,,Write-ins,1,,
-Johnson,Total,President,,,Over Votes,3,,
-Johnson,Early,President,,,Over Votes,1,,
-Johnson,Nemaha I,President,,,Over Votes,1,,
-Johnson,Nemaha II,President,,,Over Votes,1,,
-Johnson,Sterling,President,,,Over Votes,0,,
-Johnson,Spring Creek,President,,,Over Votes,0,,
-Johnson,Todd Creek,President,,,Over Votes,0,,
-Johnson,Western,President,,,Over Votes,0,,
-Johnson,Total,President,,,Under Votes,34,,
-Johnson,Early,President,,,Under Votes,7,,
-Johnson,Nemaha I,President,,,Under Votes,4,,
-Johnson,Nemaha II,President,,,Under Votes,13,,
-Johnson,Sterling,President,,,Under Votes,9,,
-Johnson,Spring Creek,President,,,Under Votes,0,,
-Johnson,Todd Creek,President,,,Under Votes,1,,
-Johnson,Western,President,,,Under Votes,0,,
-Johnson,Total,U.S. House,3,Republican,Adrian Smith,1627,,
-Johnson,Early,U.S. House,3,Republican,Adrian Smith,184,,
-Johnson,Nemaha I,U.S. House,3,Republican,Adrian Smith,194,,
-Johnson,Nemaha II,U.S. House,3,Republican,Adrian Smith,456,,
-Johnson,Sterling,U.S. House,3,Republican,Adrian Smith,407,,
-Johnson,Spring Creek,U.S. House,3,Republican,Adrian Smith,198,,
-Johnson,Todd Creek,U.S. House,3,Republican,Adrian Smith,122,,
-Johnson,Western,U.S. House,3,Republican,Adrian Smith,66,,
-Johnson,Total,U.S. House,3,,Write-ins,38,,
-Johnson,Early,U.S. House,3,,Write-ins,11,,
-Johnson,Nemaha I,U.S. House,3,,Write-ins,5,,
-Johnson,Nemaha II,U.S. House,3,,Write-ins,11,,
-Johnson,Sterling,U.S. House,3,,Write-ins,6,,
-Johnson,Spring Creek,U.S. House,3,,Write-ins,4,,
-Johnson,Todd Creek,U.S. House,3,,Write-ins,1,,
-Johnson,Western,U.S. House,3,,Write-ins,0,,
-Johnson,Total,U.S. House,3,,Over Votes,0,,
-Johnson,Early,U.S. House,3,,Over Votes,0,,
-Johnson,Nemaha I,U.S. House,3,,Over Votes,0,,
-Johnson,Nemaha II,U.S. House,3,,Over Votes,0,,
-Johnson,Sterling,U.S. House,3,,Over Votes,0,,
-Johnson,Spring Creek,U.S. House,3,,Over Votes,0,,
-Johnson,Todd Creek,U.S. House,3,,Over Votes,0,,
-Johnson,Western,U.S. House,3,,Over Votes,0,,
-Johnson,Total,U.S. House,3,,Under Votes,461,,
-Johnson,Early,U.S. House,3,,Under Votes,85,,
-Johnson,Nemaha I,U.S. House,3,,Under Votes,67,,
-Johnson,Nemaha II,U.S. House,3,,Under Votes,107,,
-Johnson,Sterling,U.S. House,3,,Under Votes,115,,
-Johnson,Spring Creek,U.S. House,3,,Under Votes,42,,
-Johnson,Todd Creek,U.S. House,3,,Under Votes,25,,
-Johnson,Western,U.S. House,3,,Under Votes,20,,
+"","county","precinct","district","office","party","candidate","votes"
+"1","Johnson","Total",NA,"Registered Voters","","",2794
+"2","Johnson","Nemaha I",NA,"Registered Voters","","",443
+"3","Johnson","Nemaha II",NA,"Registered Voters","","",905
+"4","Johnson","Sterling",NA,"Registered Voters","","",759
+"5","Johnson","Spring Creek",NA,"Registered Voters","","",344
+"6","Johnson","Todd Creek",NA,"Registered Voters","","",212
+"7","Johnson","Western",NA,"Registered Voters","","",131
+"8","Johnson","Total",NA,"Ballots Cast","","",2115
+"9","Johnson","Early",NA,"Ballots Cast","","",269
+"10","Johnson","Nemaha I",NA,"Ballots Cast","","",266
+"11","Johnson","Nemaha II",NA,"Ballots Cast","","",574
+"12","Johnson","Sterling",NA,"Ballots Cast","","",528
+"13","Johnson","Spring Creek",NA,"Ballots Cast","","",244
+"14","Johnson","Todd Creek",NA,"Ballots Cast","","",148
+"15","Johnson","Western",NA,"Ballots Cast","","",86
+"16","Johnson","Total",NA,"President","REP","Donald J. Trump",1355
+"17","Johnson","Early",NA,"President","REP","Donald J. Trump",149
+"18","Johnson","Nemaha I",NA,"President","REP","Donald J. Trump",174
+"19","Johnson","Nemaha II",NA,"President","REP","Donald J. Trump",351
+"20","Johnson","Sterling",NA,"President","REP","Donald J. Trump",340
+"21","Johnson","Spring Creek",NA,"President","REP","Donald J. Trump",167
+"22","Johnson","Todd Creek",NA,"President","REP","Donald J. Trump",112
+"23","Johnson","Western",NA,"President","REP","Donald J. Trump",62
+"24","Johnson","Total",NA,"President","DEM","Hillary Clinton",563
+"25","Johnson","Early",NA,"President","DEM","Hillary Clinton",95
+"26","Johnson","Nemaha I",NA,"President","DEM","Hillary Clinton",68
+"27","Johnson","Nemaha II",NA,"President","DEM","Hillary Clinton",167
+"28","Johnson","Sterling",NA,"President","DEM","Hillary Clinton",129
+"29","Johnson","Spring Creek",NA,"President","DEM","Hillary Clinton",51
+"30","Johnson","Todd Creek",NA,"President","DEM","Hillary Clinton",33
+"31","Johnson","Western",NA,"President","DEM","Hillary Clinton",20
+"32","Johnson","Total",NA,"President","LIB","Gary Johnson",122
+"33","Johnson","Early",NA,"President","LIB","Gary Johnson",19
+"34","Johnson","Nemaha I",NA,"President","LIB","Gary Johnson",13
+"35","Johnson","Nemaha II",NA,"President","LIB","Gary Johnson",25
+"36","Johnson","Sterling",NA,"President","LIB","Gary Johnson",38
+"37","Johnson","Spring Creek",NA,"President","LIB","Gary Johnson",23
+"38","Johnson","Todd Creek",NA,"President","LIB","Gary Johnson",2
+"39","Johnson","Western",NA,"President","LIB","Gary Johnson",2
+"40","Johnson","Total",NA,"President","","Jill Stein",22
+"41","Johnson","Early",NA,"President","","Jill Stein",3
+"42","Johnson","Nemaha I",NA,"President","","Jill Stein",4
+"43","Johnson","Nemaha II",NA,"President","","Jill Stein",7
+"44","Johnson","Sterling",NA,"President","","Jill Stein",6
+"45","Johnson","Spring Creek",NA,"President","","Jill Stein",1
+"46","Johnson","Todd Creek",NA,"President","","Jill Stein",0
+"47","Johnson","Western",NA,"President","","Jill Stein",1
+"48","Johnson","Total",NA,"President","","Write-ins",27
+"49","Johnson","Early",NA,"President","","Write-ins",6
+"50","Johnson","Nemaha I",NA,"President","","Write-ins",2
+"51","Johnson","Nemaha II",NA,"President","","Write-ins",10
+"52","Johnson","Sterling",NA,"President","","Write-ins",6
+"53","Johnson","Spring Creek",NA,"President","","Write-ins",2
+"54","Johnson","Todd Creek",NA,"President","","Write-ins",0
+"55","Johnson","Western",NA,"President","","Write-ins",1
+"56","Johnson","Total",NA,"President","","Over Votes",3
+"57","Johnson","Early",NA,"President","","Over Votes",1
+"58","Johnson","Nemaha I",NA,"President","","Over Votes",1
+"59","Johnson","Nemaha II",NA,"President","","Over Votes",1
+"60","Johnson","Sterling",NA,"President","","Over Votes",0
+"61","Johnson","Spring Creek",NA,"President","","Over Votes",0
+"62","Johnson","Todd Creek",NA,"President","","Over Votes",0
+"63","Johnson","Western",NA,"President","","Over Votes",0
+"64","Johnson","Total",NA,"President","","Under Votes",34
+"65","Johnson","Early",NA,"President","","Under Votes",7
+"66","Johnson","Nemaha I",NA,"President","","Under Votes",4
+"67","Johnson","Nemaha II",NA,"President","","Under Votes",13
+"68","Johnson","Sterling",NA,"President","","Under Votes",9
+"69","Johnson","Spring Creek",NA,"President","","Under Votes",0
+"70","Johnson","Todd Creek",NA,"President","","Under Votes",1
+"71","Johnson","Western",NA,"President","","Under Votes",0
+"72","Johnson","Total",3,"U.S. House","REP","Adrian Smith",1627
+"73","Johnson","Early",3,"U.S. House","REP","Adrian Smith",184
+"74","Johnson","Nemaha I",3,"U.S. House","REP","Adrian Smith",194
+"75","Johnson","Nemaha II",3,"U.S. House","REP","Adrian Smith",456
+"76","Johnson","Sterling",3,"U.S. House","REP","Adrian Smith",407
+"77","Johnson","Spring Creek",3,"U.S. House","REP","Adrian Smith",198
+"78","Johnson","Todd Creek",3,"U.S. House","REP","Adrian Smith",122
+"79","Johnson","Western",3,"U.S. House","REP","Adrian Smith",66
+"80","Johnson","Total",3,"U.S. House","","Write-ins",38
+"81","Johnson","Early",3,"U.S. House","","Write-ins",11
+"82","Johnson","Nemaha I",3,"U.S. House","","Write-ins",5
+"83","Johnson","Nemaha II",3,"U.S. House","","Write-ins",11
+"84","Johnson","Sterling",3,"U.S. House","","Write-ins",6
+"85","Johnson","Spring Creek",3,"U.S. House","","Write-ins",4
+"86","Johnson","Todd Creek",3,"U.S. House","","Write-ins",1
+"87","Johnson","Western",3,"U.S. House","","Write-ins",0
+"88","Johnson","Total",3,"U.S. House","","Over Votes",0
+"89","Johnson","Early",3,"U.S. House","","Over Votes",0
+"90","Johnson","Nemaha I",3,"U.S. House","","Over Votes",0
+"91","Johnson","Nemaha II",3,"U.S. House","","Over Votes",0
+"92","Johnson","Sterling",3,"U.S. House","","Over Votes",0
+"93","Johnson","Spring Creek",3,"U.S. House","","Over Votes",0
+"94","Johnson","Todd Creek",3,"U.S. House","","Over Votes",0
+"95","Johnson","Western",3,"U.S. House","","Over Votes",0
+"96","Johnson","Total",3,"U.S. House","","Under Votes",461
+"97","Johnson","Early",3,"U.S. House","","Under Votes",85
+"98","Johnson","Nemaha I",3,"U.S. House","","Under Votes",67
+"99","Johnson","Nemaha II",3,"U.S. House","","Under Votes",107
+"100","Johnson","Sterling",3,"U.S. House","","Under Votes",115
+"101","Johnson","Spring Creek",3,"U.S. House","","Under Votes",42
+"102","Johnson","Todd Creek",3,"U.S. House","","Under Votes",25
+"103","Johnson","Western",3,"U.S. House","","Under Votes",20

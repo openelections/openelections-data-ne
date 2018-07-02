@@ -1,25 +1,25 @@
-county,precinct,office,district,party,candidate,election_day,early_voting,provisional,votes
-Boyd,Butte,Ballots Cast,,,,318,165,0,483
-Boyd,Lynch,Ballots Cast,,,,219,33,0,252
-Boyd,Spencer,Ballots Cast,,,,378,74,0,452
-Boyd,Butte,President,,REP,Donald J. Trump,275,130,0,405
-Boyd,Lynch,President,,REP,Donald J. Trump,186,21,0,207
-Boyd,Spencer,President,,REP,Donald J. Trump,319,52,0,371
-Boyd,Butte,President,,DEM,Hillary Clinton,23,17,0,40
-Boyd,Lynch,President,,DEM,Hillary Clinton,24,9,0,33
-Boyd,Spencer,President,,DEM,Hillary Clinton,39,16,0,55
-Boyd,Butte,President,,LIB,Gary Johnson,5,6,0,11
-Boyd,Lynch,President,,LIB,Gary Johnson,1,3,0,4
-Boyd,Spencer,President,,LIB,Gary Johnson,7,1,0,8
-Boyd,Butte,President,,,Jill Stein,2,4,0,6
-Boyd,Lynch,President,,,Jill Stein,3,0,0,3
-Boyd,Spencer,President,,,Jill Stein,4,0,0,4
-Boyd,Butte,President,,,Write-ins,5,0,0,5
-Boyd,Lynch,President,,,Write-ins,2,0,0,2
-Boyd,Spencer,President,,,Write-ins,1,1,0,2
-Boyd,Butte,U.S. House,3,REP,Adrian Smith,243,123,0,366
-Boyd,Lynch,U.S. House,3,REP,Adrian Smith,187,25,0,212
-Boyd,Spencer,U.S. House,3,REP,Adrian Smith,314,56,0,370
-Boyd,Butte,U.S. House,3,,Write-ins,1,0,0,1
-Boyd,Lynch,U.S. House,3,,Write-ins,1,1,0,2
-Boyd,Spencer,U.S. House,3,,Write-ins,0,1,0,1
+"","county","precinct","district","office","party","candidate","votes"
+"1","Boyd","Butte",NA,"Ballots Cast","","",483
+"2","Boyd","Lynch",NA,"Ballots Cast","","",252
+"3","Boyd","Spencer",NA,"Ballots Cast","","",452
+"4","Boyd","Butte",NA,"President","REP","Donald J. Trump",405
+"5","Boyd","Lynch",NA,"President","REP","Donald J. Trump",207
+"6","Boyd","Spencer",NA,"President","REP","Donald J. Trump",371
+"7","Boyd","Butte",NA,"President","DEM","Hillary Clinton",40
+"8","Boyd","Lynch",NA,"President","DEM","Hillary Clinton",33
+"9","Boyd","Spencer",NA,"President","DEM","Hillary Clinton",55
+"10","Boyd","Butte",NA,"President","LIB","Gary Johnson",11
+"11","Boyd","Lynch",NA,"President","LIB","Gary Johnson",4
+"12","Boyd","Spencer",NA,"President","LIB","Gary Johnson",8
+"13","Boyd","Butte",NA,"President","","Jill Stein",6
+"14","Boyd","Lynch",NA,"President","","Jill Stein",3
+"15","Boyd","Spencer",NA,"President","","Jill Stein",4
+"16","Boyd","Butte",NA,"President","","Write-ins",5
+"17","Boyd","Lynch",NA,"President","","Write-ins",2
+"18","Boyd","Spencer",NA,"President","","Write-ins",2
+"19","Boyd","Butte",3,"U.S. House","REP","Adrian Smith",366
+"20","Boyd","Lynch",3,"U.S. House","REP","Adrian Smith",212
+"21","Boyd","Spencer",3,"U.S. House","REP","Adrian Smith",370
+"22","Boyd","Butte",3,"U.S. House","","Write-ins",1
+"23","Boyd","Lynch",3,"U.S. House","","Write-ins",2
+"24","Boyd","Spencer",3,"U.S. House","","Write-ins",1

@@ -1,82 +1,82 @@
-county,precinct,office,district,party,candidate,election_day,early_voting,votes
-Thomas,Thomas,President/Vice President,,REP,Trump/Pence,231,113,344
-Thomas,Thomas,President/Vice President,,DEM,Clinton/Kaine,21,9,30
-Thomas,Thomas,President/Vice President,,LIB,Johnson/Weld,4,6,10
-Thomas,Thomas,President/Vice President,,PET,Stein/Baraka,3,0,3
-Thomas,Thomas,President/Vice President,,NON,Scattering,6,0,6
-Thomas,Thomas,U.S. House,3,REP,Adrian Smith,232,108,340
-Thomas,Thomas,U.S. House,3,NON,Scattering,0,0,0
-Thomas,Thomas,Public Service Commissioner,,REP,Mary Ridder,205,99,304
-Thomas,Thomas,Public Service Commissioner,,NON,Scattering,2,1,3
-Thomas,Thomas,County Commissioner,At-large,REP,Pam Moody,222,103,325
-Thomas,Thomas,County Commissioner,At-large,NON,Scattering,7,2,9
-Thomas,Thomas,Legislature,43,NON,Al Davis,99,54,153
-Thomas,Thomas,Legislature,43,NON,Tom Brewer,164,67,231
-Thomas,Thomas,Legislature,43,NON,Scattering,1,0,1
-Thomas,Thomas,University Board of Regents,7,NON,Bob Phares,179,88,267
-Thomas,Thomas,University Board of Regents,7,NON,Scattering,3,0,3
-Thomas,Thomas,Retain Chief Justice of the Supreme Court Michael Heavican,,NON,Yes,144,61,205
-Thomas,Thomas,Retain Chief Justice of the Supreme Court Michael Heavican,,NON,No,51,25,76
-Thomas,Thomas,Retain Supreme Court Judge John F. Wright,6,NON,Yes,133,58,191
-Thomas,Thomas,Retain Supreme Court Judge John F. Wright,6,NON,No,53,24,77
-Thomas,Thomas,Retain Appeals Court Judge Frankie J. Moore,6,NON,Yes,134,61,195
-Thomas,Thomas,Retain Appeals Court Judge Frankie J. Moore,6,NON,Yes,53,23,76
-Thomas,Thomas,Retain Nebraska Workers' Compensation Court Judge Daniel R. Fridrich,,NON,Yes,132,59,191
-Thomas,Thomas,Retain Nebraska Workers' Compensation Court Judge Daniel R. Fridrich,,NON,No,52,25,77
-Thomas,Thomas,Retain Nebraska Workers' Compensation Court Judge James R. Coe,,NON,Yes,121,57,178
-Thomas,Thomas,Retain Nebraska Workers' Compensation Court Judge James R. Coe,,NON,No,56,23,79
-Thomas,Thomas,Retain Nebraska Workers' Compensation Court Judge John R. Hoffert,,NON,Yes,125,59,184
-Thomas,Thomas,Retain Nebraska Workers' Compensation Court Judge John R. Hoffert,,NON,No,54,21,75
-Thomas,Thomas,Retain District Court Judge David W. Urbom,11,NON,Yes,127,57,184
-Thomas,Thomas,Retain District Court Judge David W. Urbom,11,NON,No,50,25,75
-Thomas,Thomas,"Retain District Court Judge James E. Doyle, IV",11,NON,Yes,131,61,192
-Thomas,Thomas,"Retain District Court Judge James E. Doyle, IV",11,NON,No,51,21,72
-Thomas,Thomas,Retain County Court Judge Anne M. Paine,11,NON,Yes,127,58,185
-Thomas,Thomas,Retain County Court Judge Anne M. Paine,11,NON,No,51,21,72
-Thomas,Thomas,Retain County Court Judge Jeffrey Wightman,11,NON,Yes,130,55,185
-Thomas,Thomas,Retain County Court Judge Jeffrey Wightman,11,NON,No,50,24,74
-Thomas,Thomas,Mid-Plains Community College Board,At-large,NON,"Ted A. Klug, Jr.",190,85,275
-Thomas,Thomas,Mid-Plains Community College Board,At-large,NON,Scattering,2,0,2
-Thomas,Thomas,Mid-Plains Community College Board,3,NON,Louis Stithem,195,89,284
-Thomas,Thomas,Mid-Plains Community College Board,3,NON,Scattering,2,0,2
-Thomas,Thomas,Upper Loup NRD Board of Directors,3,NON,Gary D. Reisner,52,29,81
-Thomas,Thomas,Upper Loup NRD Board of Directors,3,NON,Miles Maseberg,206,87,293
-Thomas,Thomas,Upper Loup NRD Board of Directors,3,NON,Scattering,0,0,0
-Thomas,Thomas,Custer Public Power District,At-large,NON,Greg J. Smith,166,66,232
-Thomas,Thomas,Custer Public Power District,At-large,NON,Brad Howard,167,79,246
-Thomas,Thomas,Custer Public Power District,At-large,NON,Scattering,5,0,5
-Thomas,Thomas,ESU No. 16 Board,4,NON,Robert L. Jones,155,59,214
-Thomas,Thomas,ESU No. 16 Board,4,NON,Scattering,4,1,5
-Thomas,Thomas,Airport Authority,,NON,Herb Hall,232,107,339
-Thomas,Thomas,Airport Authority,,NON,Scattering,37,18,55
-Thomas,Thomas,Thedford Public School Board,,NON,Bridget Licking,185,66,251
-,,Thedford Public School Board,,NON,Bridget Licking,,,300
-Thomas,Thomas,Thedford Public School Board,,NON,Jay Jones,121,50,171
-,,Thedford Public School Board,,NON,Jay Jones,,,205
-Thomas,Thomas,Thedford Public School Board,,NON,Jim Mills,126,47,173
-,,Thedford Public School Board,,NON,Jim Mills,,,193
-Thomas,Thomas,Thedford Public School Board,,NON,Matt D. Blackford,133,54,187
-,,Thedford Public School Board,,NON,Matt D. Blackford,,,225
-Thomas,Thomas,Thedford Public School Board,,NON,Scattering,6,0,6
-Thomas,Thomas,Mullen Public School Board,,NON,Barbara Svoboda,13,8,21
-Thomas,Thomas,Mullen Public School Board,,NON,Denise Vinton,19,12,31
-Thomas,Thomas,Mullen Public School Board,,NON,Jeff Forsen,6,9,15
-Thomas,Thomas,Mullen Public School Board,,NON,Travis Hampton,14,7,21
-Thomas,Thomas,Mullen Public School Board,,NON,Scattering,0,0,0
-Thomas,Thomas,Sandhills Public School Board,,NON,Tyson Cox,32,22,54
-Thomas,Thomas,Sandhills Public School Board,,NON,Michelle Milleson,24,22,46
-Thomas,Thomas,Sandhills Public School Board,,NON,Tedd N. Teahon,31,24,55
-Thomas,Thomas,Sandhills Public School Board,,NON,Scattering,2,7,9
-Thomas,Thomas,Village of Thedford,,NON,Jerry Linn,80,21,101
-Thomas,Thomas,Village of Thedford,,NON,Daniel Wadas,76,19,95
-Thomas,Thomas,Village of Thedford,,NON,Scattering,1,0,1
-,,Thedford Public School Board,,NON,Scattering,,,7
-Thomas,Thomas,Village of Halsey,,NON,Kris Ganoung,10,14,24
-,,Village of Halsey,,NON,Kris Ganoung,,,27
-Thomas,Thomas,Village of Halsey,,NON,Cole Seeley,12,16,28
-,,Village of Halsey,,NON,Cole Seeley,,,31
-Thomas,Thomas,Village of Halsey,,NON,Linda Cowdin,9,18,27
-,,Village of Halsey,,NON,Linda Cowdin,,,30
-Thomas,Thomas,Village of Halsey,,NON,Scattering,1,0,1
-Thomas,Thomas,Referendum 426,,NON,Retain,57,17,74
-Thomas,Thomas,Referendum 426,,NON,Repeal,202,104,306
+"","county","precinct","district","office","party","candidate","votes"
+"1","Thomas","Thomas","","President","REP","Donald J. Trump",344
+"2","Thomas","Thomas","","President","DEM","Hillary Clinton",30
+"3","Thomas","Thomas","","President","LIB","Johnson/Weld",10
+"4","Thomas","Thomas","","President","PET","Jill Stein",3
+"5","Thomas","Thomas","","President","NON","Scattering",6
+"6","Thomas","Thomas","3","U.S. House","REP","Adrian Smith",340
+"7","Thomas","Thomas","3","U.S. House","NON","Scattering",0
+"8","Thomas","Thomas","","Public Service Commissioner","REP","Mary Ridder",304
+"9","Thomas","Thomas","","Public Service Commissioner","NON","Scattering",3
+"10","Thomas","Thomas","At-large","County Commissioner","REP","Pam Moody",325
+"11","Thomas","Thomas","At-large","County Commissioner","NON","Scattering",9
+"12","Thomas","Thomas","43","Legislature","NON","Al Davis",153
+"13","Thomas","Thomas","43","Legislature","NON","Tom Brewer",231
+"14","Thomas","Thomas","43","Legislature","NON","Scattering",1
+"15","Thomas","Thomas","7","University Board of Regents","NON","Bob Phares",267
+"16","Thomas","Thomas","7","University Board of Regents","NON","Scattering",3
+"17","Thomas","Thomas","","Retain Chief Justice of the Supreme Court Michael Heavican","NON","Yes",205
+"18","Thomas","Thomas","","Retain Chief Justice of the Supreme Court Michael Heavican","NON","No",76
+"19","Thomas","Thomas","6","Retain Supreme Court Judge John F. Wright","NON","Yes",191
+"20","Thomas","Thomas","6","Retain Supreme Court Judge John F. Wright","NON","No",77
+"21","Thomas","Thomas","6","Retain Appeals Court Judge Frankie J. Moore","NON","Yes",195
+"22","Thomas","Thomas","6","Retain Appeals Court Judge Frankie J. Moore","NON","Yes",76
+"23","Thomas","Thomas","","Retain Nebraska Workers' Compensation Court Judge Daniel R. Fridrich","NON","Yes",191
+"24","Thomas","Thomas","","Retain Nebraska Workers' Compensation Court Judge Daniel R. Fridrich","NON","No",77
+"25","Thomas","Thomas","","Retain Nebraska Workers' Compensation Court Judge James R. Coe","NON","Yes",178
+"26","Thomas","Thomas","","Retain Nebraska Workers' Compensation Court Judge James R. Coe","NON","No",79
+"27","Thomas","Thomas","","Retain Nebraska Workers' Compensation Court Judge John R. Hoffert","NON","Yes",184
+"28","Thomas","Thomas","","Retain Nebraska Workers' Compensation Court Judge John R. Hoffert","NON","No",75
+"29","Thomas","Thomas","11","Retain District Court Judge David W. Urbom","NON","Yes",184
+"30","Thomas","Thomas","11","Retain District Court Judge David W. Urbom","NON","No",75
+"31","Thomas","Thomas","11","Retain District Court Judge James E. Doyle, IV","NON","Yes",192
+"32","Thomas","Thomas","11","Retain District Court Judge James E. Doyle, IV","NON","No",72
+"33","Thomas","Thomas","11","Retain County Court Judge Anne M. Paine","NON","Yes",185
+"34","Thomas","Thomas","11","Retain County Court Judge Anne M. Paine","NON","No",72
+"35","Thomas","Thomas","11","Retain County Court Judge Jeffrey Wightman","NON","Yes",185
+"36","Thomas","Thomas","11","Retain County Court Judge Jeffrey Wightman","NON","No",74
+"37","Thomas","Thomas","At-large","Mid-Plains Community College Board","NON","Ted A. Klug, Jr.",275
+"38","Thomas","Thomas","At-large","Mid-Plains Community College Board","NON","Scattering",2
+"39","Thomas","Thomas","3","Mid-Plains Community College Board","NON","Louis Stithem",284
+"40","Thomas","Thomas","3","Mid-Plains Community College Board","NON","Scattering",2
+"41","Thomas","Thomas","3","Upper Loup NRD Board of Directors","NON","Gary D. Reisner",81
+"42","Thomas","Thomas","3","Upper Loup NRD Board of Directors","NON","Miles Maseberg",293
+"43","Thomas","Thomas","3","Upper Loup NRD Board of Directors","NON","Scattering",0
+"44","Thomas","Thomas","At-large","Custer Public Power District","NON","Greg J. Smith",232
+"45","Thomas","Thomas","At-large","Custer Public Power District","NON","Brad Howard",246
+"46","Thomas","Thomas","At-large","Custer Public Power District","NON","Scattering",5
+"47","Thomas","Thomas","4","ESU No. 16 Board","NON","Robert L. Jones",214
+"48","Thomas","Thomas","4","ESU No. 16 Board","NON","Scattering",5
+"49","Thomas","Thomas","","Airport Authority","NON","Herb Hall",339
+"50","Thomas","Thomas","","Airport Authority","NON","Scattering",55
+"51","Thomas","Thomas","","Thedford Public School Board","NON","Bridget Licking",251
+"52","","","","Thedford Public School Board","NON","Bridget Licking",300
+"53","Thomas","Thomas","","Thedford Public School Board","NON","Jay Jones",171
+"54","","","","Thedford Public School Board","NON","Jay Jones",205
+"55","Thomas","Thomas","","Thedford Public School Board","NON","Jim Mills",173
+"56","","","","Thedford Public School Board","NON","Jim Mills",193
+"57","Thomas","Thomas","","Thedford Public School Board","NON","Matt D. Blackford",187
+"58","","","","Thedford Public School Board","NON","Matt D. Blackford",225
+"59","Thomas","Thomas","","Thedford Public School Board","NON","Scattering",6
+"60","Thomas","Thomas","","Mullen Public School Board","NON","Barbara Svoboda",21
+"61","Thomas","Thomas","","Mullen Public School Board","NON","Denise Vinton",31
+"62","Thomas","Thomas","","Mullen Public School Board","NON","Jeff Forsen",15
+"63","Thomas","Thomas","","Mullen Public School Board","NON","Travis Hampton",21
+"64","Thomas","Thomas","","Mullen Public School Board","NON","Scattering",0
+"65","Thomas","Thomas","","Sandhills Public School Board","NON","Tyson Cox",54
+"66","Thomas","Thomas","","Sandhills Public School Board","NON","Michelle Milleson",46
+"67","Thomas","Thomas","","Sandhills Public School Board","NON","Tedd N. Teahon",55
+"68","Thomas","Thomas","","Sandhills Public School Board","NON","Scattering",9
+"69","Thomas","Thomas","","Village of Thedford","NON","Jerry Linn",101
+"70","Thomas","Thomas","","Village of Thedford","NON","Daniel Wadas",95
+"71","Thomas","Thomas","","Village of Thedford","NON","Scattering",1
+"72","","","","Thedford Public School Board","NON","Scattering",7
+"73","Thomas","Thomas","","Village of Halsey","NON","Kris Ganoung",24
+"74","","","","Village of Halsey","NON","Kris Ganoung",27
+"75","Thomas","Thomas","","Village of Halsey","NON","Cole Seeley",28
+"76","","","","Village of Halsey","NON","Cole Seeley",31
+"77","Thomas","Thomas","","Village of Halsey","NON","Linda Cowdin",27
+"78","","","","Village of Halsey","NON","Linda Cowdin",30
+"79","Thomas","Thomas","","Village of Halsey","NON","Scattering",1
+"80","Thomas","Thomas","","Referendum 426","NON","Retain",74
+"81","Thomas","Thomas","","Referendum 426","NON","Repeal",306

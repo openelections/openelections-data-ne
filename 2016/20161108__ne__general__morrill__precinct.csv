@@ -1,121 +1,121 @@
-county,precinct,office,district,party,candidate,votes
-Morrill,Broadwater,President,,Republican,Donald Trump,128
-Morrill,East Bayard,President,,Republican,Donald Trump,342
-Morrill,West Bayard,President,,Republican,Donald Trump,251
-Morrill,North Camp Clarke,President,,Republican,Donald Trump,184
-Morrill,East Camp Clarke,President,,Republican,Donald Trump,305
-Morrill,West Camp Clarke,President,,Republican,Donald Trump,244
-Morrill,Gilchrist,President,,Republican,Donald Trump,35
-Morrill,Haynes,President,,Republican,Donald Trump,63
-Morrill,Redington,President,,Republican,Donald Trump,43
-Morrill,Provisional,President,,Republican,Donald Trump,14
-Morrill,Absentee,President,,Republican,Donald Trump,193
-Morrill,Total,President,,Republican,Donald Trump,1802
-Morrill,Broadwater,President,,Libertarian,Gary Johnson,8
-Morrill,East Bayard,President,,Libertarian,Gary Johnson,13
-Morrill,West Bayard,President,,Libertarian,Gary Johnson,12
-Morrill,North Camp Clarke,President,,Libertarian,Gary Johnson,5
-Morrill,East Camp Clarke,President,,Libertarian,Gary Johnson,14
-Morrill,West Camp Clarke,President,,Libertarian,Gary Johnson,12
-Morrill,Gilchrist,President,,Libertarian,Gary Johnson,0
-Morrill,Haynes,President,,Libertarian,Gary Johnson,1
-Morrill,Redington,President,,Libertarian,Gary Johnson,4
-Morrill,Provisional,President,,Libertarian,Gary Johnson,2
-Morrill,Absentee,President,,Libertarian,Gary Johnson,13
-Morrill,Total,President,,Libertarian,Gary Johnson,84
-Morrill,Broadwater,President,,Democrat,Hillary Clinton,10
-Morrill,East Bayard,President,,Democrat,Hillary Clinton,46
-Morrill,West Bayard,President,,Democrat,Hillary Clinton,44
-Morrill,North Camp Clarke,President,,Democrat,Hillary Clinton,24
-Morrill,East Camp Clarke,President,,Democrat,Hillary Clinton,54
-Morrill,West Camp Clarke,President,,Democrat,Hillary Clinton,42
-Morrill,Gilchrist,President,,Democrat,Hillary Clinton,0
-Morrill,Haynes,President,,Democrat,Hillary Clinton,3
-Morrill,Redington,President,,Democrat,Hillary Clinton,11
-Morrill,Provisional,President,,Democrat,Hillary Clinton,2
-Morrill,Absentee,President,,Democrat,Hillary Clinton,48
-Morrill,Total,President,,Democrat,Hillary Clinton,284
-Morrill,Broadwater,President,,Green,Jill Stein,2
-Morrill,East Bayard,President,,Green,Jill Stein,3
-Morrill,West Bayard,President,,Green,Jill Stein,1
-Morrill,North Camp Clarke,President,,Green,Jill Stein,0
-Morrill,East Camp Clarke,President,,Green,Jill Stein,2
-Morrill,West Camp Clarke,President,,Green,Jill Stein,2
-Morrill,Gilchrist,President,,Green,Jill Stein,0
-Morrill,Haynes,President,,Green,Jill Stein,0
-Morrill,Redington,President,,Green,Jill Stein,0
-Morrill,Provisional,President,,Green,Jill Stein,0
-Morrill,Absentee,President,,Green,Jill Stein,4
-Morrill,Total,President,,Green,Jill Stein,14
-Morrill,Broadwater,President,,,Write-In,3
-Morrill,East Bayard,President,,,Write-In,3
-Morrill,West Bayard,President,,,Write-In,6
-Morrill,North Camp Clarke,President,,,Write-In,0
-Morrill,East Camp Clarke,President,,,Write-In,3
-Morrill,West Camp Clarke,President,,,Write-In,3
-Morrill,Gilchrist,President,,,Write-In,0
-Morrill,Haynes,President,,,Write-In,0
-Morrill,Redington,President,,,Write-In,0
-Morrill,Provisional,President,,,Write-In,2
-Morrill,Absentee,President,,,Write-In,7
-Morrill,Total,President,,,Write-In,27
-Morrill,Broadwater,State Legislature,47,,Karl Elmschaeuer,50
-Morrill,East Bayard,State Legislature,47,,Karl Elmschaeuer,161
-Morrill,West Bayard,State Legislature,47,,Karl Elmschaeuer,116
-Morrill,North Camp Clarke,State Legislature,47,,Karl Elmschaeuer,96
-Morrill,East Camp Clarke,State Legislature,47,,Karl Elmschaeuer,146
-Morrill,West Camp Clarke,State Legislature,47,,Karl Elmschaeuer,129
-Morrill,Gilchrist,State Legislature,47,,Karl Elmschaeuer,7
-Morrill,Haynes,State Legislature,47,,Karl Elmschaeuer,8
-Morrill,Redington,State Legislature,47,,Karl Elmschaeuer,21
-Morrill,Provisional,State Legislature,47,,Karl Elmschaeuer,8
-Morrill,Absentee,State Legislature,47,,Karl Elmschaeuer,91
-Morrill,Total,State Legislature,47,,Karl Elmschaeuer,833
-Morrill,Broadwater,State Legislature,47,,Steve Erdman,101
-Morrill,East Bayard,State Legislature,47,,Steve Erdman,243
-Morrill,West Bayard,State Legislature,47,,Steve Erdman,189
-Morrill,North Camp Clarke,State Legislature,47,,Steve Erdman,116
-Morrill,East Camp Clarke,State Legislature,47,,Steve Erdman,211
-Morrill,West Camp Clarke,State Legislature,47,,Steve Erdman,155
-Morrill,Gilchrist,State Legislature,47,,Steve Erdman,26
-Morrill,Haynes,State Legislature,47,,Steve Erdman,57
-Morrill,Redington,State Legislature,47,,Steve Erdman,31
-Morrill,Provisional,State Legislature,47,,Steve Erdman,10
-Morrill,Absentee,State Legislature,47,,Steve Erdman,166
-Morrill,Total,State Legislature,47,,Steve Erdman,1305
-Morrill,Broadwater,State Legislature,47,,Write-Ins,0
-Morrill,East Bayard,State Legislature,47,,Write-Ins,2
-Morrill,West Bayard,State Legislature,47,,Write-Ins,2
-Morrill,North Camp Clarke,State Legislature,47,,Write-Ins,1
-Morrill,East Camp Clarke,State Legislature,47,,Write-Ins,0
-Morrill,West Camp Clarke,State Legislature,47,,Write-Ins,0
-Morrill,Gilchrist,State Legislature,47,,Write-Ins,0
-Morrill,Haynes,State Legislature,47,,Write-Ins,0
-Morrill,Redington,State Legislature,47,,Write-Ins,0
-Morrill,Provisional,State Legislature,47,,Write-Ins,0
-Morrill,Absentee,State Legislature,47,,Write-Ins,1
-Morrill,Total,State Legislature,47,,Write-Ins,6
-Morrill,Broadwater,U.S. House,3,Republican,Adrian Smith,128
-Morrill,East Bayard,U.S. House,3,Republican,Adrian Smith,358
-Morrill,West Bayard,U.S. House,3,Republican,Adrian Smith,266
-Morrill,North Camp Clarke,U.S. House,3,Republican,Adrian Smith,185
-Morrill,East Camp Clarke,U.S. House,3,Republican,Adrian Smith,325
-Morrill,West Camp Clarke,U.S. House,3,Republican,Adrian Smith,257
-Morrill,Gilchrist,U.S. House,3,Republican,Adrian Smith,34
-Morrill,Haynes,U.S. House,3,Republican,Adrian Smith,52
-Morrill,Redington,U.S. House,3,Republican,Adrian Smith,43
-Morrill,Provisional,U.S. House,3,Republican,Adrian Smith,17
-Morrill,Absentee,U.S. House,3,Republican,Adrian Smith,234
-Morrill,Total,U.S. House,3,Republican,Adrian Smith,1899
-Morrill,Broadwater,U.S. House,3,,Write-In,2
-Morrill,East Bayard,U.S. House,3,,Write-In,3
-Morrill,West Bayard,U.S. House,3,,Write-In,11
-Morrill,North Camp Clarke,U.S. House,3,,Write-In,3
-Morrill,East Camp Clarke,U.S. House,3,,Write-In,7
-Morrill,West Camp Clarke,U.S. House,3,,Write-In,6
-Morrill,Gilchrist,U.S. House,3,,Write-In,0
-Morrill,Haynes,U.S. House,3,,Write-In,2
-Morrill,Redington,U.S. House,3,,Write-In,2
-Morrill,Provisional,U.S. House,3,,Write-In,0
-Morrill,Absentee,U.S. House,3,,Write-In,5
-Morrill,Total,U.S. House,3,,Write-In,41
+"","county","precinct","district","office","party","candidate","votes"
+"1","Morrill","Broadwater",NA,"President","REP","Donald J. Trump",128
+"2","Morrill","East Bayard",NA,"President","REP","Donald J. Trump",342
+"3","Morrill","West Bayard",NA,"President","REP","Donald J. Trump",251
+"4","Morrill","North Camp Clarke",NA,"President","REP","Donald J. Trump",184
+"5","Morrill","East Camp Clarke",NA,"President","REP","Donald J. Trump",305
+"6","Morrill","West Camp Clarke",NA,"President","REP","Donald J. Trump",244
+"7","Morrill","Gilchrist",NA,"President","REP","Donald J. Trump",35
+"8","Morrill","Haynes",NA,"President","REP","Donald J. Trump",63
+"9","Morrill","Redington",NA,"President","REP","Donald J. Trump",43
+"10","Morrill","Provisional",NA,"President","REP","Donald J. Trump",14
+"11","Morrill","Absentee",NA,"President","REP","Donald J. Trump",193
+"12","Morrill","Total",NA,"President","REP","Donald J. Trump",1802
+"13","Morrill","Broadwater",NA,"President","LIB","Gary Johnson",8
+"14","Morrill","East Bayard",NA,"President","LIB","Gary Johnson",13
+"15","Morrill","West Bayard",NA,"President","LIB","Gary Johnson",12
+"16","Morrill","North Camp Clarke",NA,"President","LIB","Gary Johnson",5
+"17","Morrill","East Camp Clarke",NA,"President","LIB","Gary Johnson",14
+"18","Morrill","West Camp Clarke",NA,"President","LIB","Gary Johnson",12
+"19","Morrill","Gilchrist",NA,"President","LIB","Gary Johnson",0
+"20","Morrill","Haynes",NA,"President","LIB","Gary Johnson",1
+"21","Morrill","Redington",NA,"President","LIB","Gary Johnson",4
+"22","Morrill","Provisional",NA,"President","LIB","Gary Johnson",2
+"23","Morrill","Absentee",NA,"President","LIB","Gary Johnson",13
+"24","Morrill","Total",NA,"President","LIB","Gary Johnson",84
+"25","Morrill","Broadwater",NA,"President","DEM","Hillary Clinton",10
+"26","Morrill","East Bayard",NA,"President","DEM","Hillary Clinton",46
+"27","Morrill","West Bayard",NA,"President","DEM","Hillary Clinton",44
+"28","Morrill","North Camp Clarke",NA,"President","DEM","Hillary Clinton",24
+"29","Morrill","East Camp Clarke",NA,"President","DEM","Hillary Clinton",54
+"30","Morrill","West Camp Clarke",NA,"President","DEM","Hillary Clinton",42
+"31","Morrill","Gilchrist",NA,"President","DEM","Hillary Clinton",0
+"32","Morrill","Haynes",NA,"President","DEM","Hillary Clinton",3
+"33","Morrill","Redington",NA,"President","DEM","Hillary Clinton",11
+"34","Morrill","Provisional",NA,"President","DEM","Hillary Clinton",2
+"35","Morrill","Absentee",NA,"President","DEM","Hillary Clinton",48
+"36","Morrill","Total",NA,"President","DEM","Hillary Clinton",284
+"37","Morrill","Broadwater",NA,"President","GRE","Jill Stein",2
+"38","Morrill","East Bayard",NA,"President","GRE","Jill Stein",3
+"39","Morrill","West Bayard",NA,"President","GRE","Jill Stein",1
+"40","Morrill","North Camp Clarke",NA,"President","GRE","Jill Stein",0
+"41","Morrill","East Camp Clarke",NA,"President","GRE","Jill Stein",2
+"42","Morrill","West Camp Clarke",NA,"President","GRE","Jill Stein",2
+"43","Morrill","Gilchrist",NA,"President","GRE","Jill Stein",0
+"44","Morrill","Haynes",NA,"President","GRE","Jill Stein",0
+"45","Morrill","Redington",NA,"President","GRE","Jill Stein",0
+"46","Morrill","Provisional",NA,"President","GRE","Jill Stein",0
+"47","Morrill","Absentee",NA,"President","GRE","Jill Stein",4
+"48","Morrill","Total",NA,"President","GRE","Jill Stein",14
+"49","Morrill","Broadwater",NA,"President","","Write-ins",3
+"50","Morrill","East Bayard",NA,"President","","Write-ins",3
+"51","Morrill","West Bayard",NA,"President","","Write-ins",6
+"52","Morrill","North Camp Clarke",NA,"President","","Write-ins",0
+"53","Morrill","East Camp Clarke",NA,"President","","Write-ins",3
+"54","Morrill","West Camp Clarke",NA,"President","","Write-ins",3
+"55","Morrill","Gilchrist",NA,"President","","Write-ins",0
+"56","Morrill","Haynes",NA,"President","","Write-ins",0
+"57","Morrill","Redington",NA,"President","","Write-ins",0
+"58","Morrill","Provisional",NA,"President","","Write-ins",2
+"59","Morrill","Absentee",NA,"President","","Write-ins",7
+"60","Morrill","Total",NA,"President","","Write-ins",27
+"61","Morrill","Broadwater",47,"State Legislature","","Karl Elmschaeuer",50
+"62","Morrill","East Bayard",47,"State Legislature","","Karl Elmschaeuer",161
+"63","Morrill","West Bayard",47,"State Legislature","","Karl Elmschaeuer",116
+"64","Morrill","North Camp Clarke",47,"State Legislature","","Karl Elmschaeuer",96
+"65","Morrill","East Camp Clarke",47,"State Legislature","","Karl Elmschaeuer",146
+"66","Morrill","West Camp Clarke",47,"State Legislature","","Karl Elmschaeuer",129
+"67","Morrill","Gilchrist",47,"State Legislature","","Karl Elmschaeuer",7
+"68","Morrill","Haynes",47,"State Legislature","","Karl Elmschaeuer",8
+"69","Morrill","Redington",47,"State Legislature","","Karl Elmschaeuer",21
+"70","Morrill","Provisional",47,"State Legislature","","Karl Elmschaeuer",8
+"71","Morrill","Absentee",47,"State Legislature","","Karl Elmschaeuer",91
+"72","Morrill","Total",47,"State Legislature","","Karl Elmschaeuer",833
+"73","Morrill","Broadwater",47,"State Legislature","","Steve Erdman",101
+"74","Morrill","East Bayard",47,"State Legislature","","Steve Erdman",243
+"75","Morrill","West Bayard",47,"State Legislature","","Steve Erdman",189
+"76","Morrill","North Camp Clarke",47,"State Legislature","","Steve Erdman",116
+"77","Morrill","East Camp Clarke",47,"State Legislature","","Steve Erdman",211
+"78","Morrill","West Camp Clarke",47,"State Legislature","","Steve Erdman",155
+"79","Morrill","Gilchrist",47,"State Legislature","","Steve Erdman",26
+"80","Morrill","Haynes",47,"State Legislature","","Steve Erdman",57
+"81","Morrill","Redington",47,"State Legislature","","Steve Erdman",31
+"82","Morrill","Provisional",47,"State Legislature","","Steve Erdman",10
+"83","Morrill","Absentee",47,"State Legislature","","Steve Erdman",166
+"84","Morrill","Total",47,"State Legislature","","Steve Erdman",1305
+"85","Morrill","Broadwater",47,"State Legislature","","Write-ins",0
+"86","Morrill","East Bayard",47,"State Legislature","","Write-ins",2
+"87","Morrill","West Bayard",47,"State Legislature","","Write-ins",2
+"88","Morrill","North Camp Clarke",47,"State Legislature","","Write-ins",1
+"89","Morrill","East Camp Clarke",47,"State Legislature","","Write-ins",0
+"90","Morrill","West Camp Clarke",47,"State Legislature","","Write-ins",0
+"91","Morrill","Gilchrist",47,"State Legislature","","Write-ins",0
+"92","Morrill","Haynes",47,"State Legislature","","Write-ins",0
+"93","Morrill","Redington",47,"State Legislature","","Write-ins",0
+"94","Morrill","Provisional",47,"State Legislature","","Write-ins",0
+"95","Morrill","Absentee",47,"State Legislature","","Write-ins",1
+"96","Morrill","Total",47,"State Legislature","","Write-ins",6
+"97","Morrill","Broadwater",3,"U.S. House","REP","Adrian Smith",128
+"98","Morrill","East Bayard",3,"U.S. House","REP","Adrian Smith",358
+"99","Morrill","West Bayard",3,"U.S. House","REP","Adrian Smith",266
+"100","Morrill","North Camp Clarke",3,"U.S. House","REP","Adrian Smith",185
+"101","Morrill","East Camp Clarke",3,"U.S. House","REP","Adrian Smith",325
+"102","Morrill","West Camp Clarke",3,"U.S. House","REP","Adrian Smith",257
+"103","Morrill","Gilchrist",3,"U.S. House","REP","Adrian Smith",34
+"104","Morrill","Haynes",3,"U.S. House","REP","Adrian Smith",52
+"105","Morrill","Redington",3,"U.S. House","REP","Adrian Smith",43
+"106","Morrill","Provisional",3,"U.S. House","REP","Adrian Smith",17
+"107","Morrill","Absentee",3,"U.S. House","REP","Adrian Smith",234
+"108","Morrill","Total",3,"U.S. House","REP","Adrian Smith",1899
+"109","Morrill","Broadwater",3,"U.S. House","","Write-ins",2
+"110","Morrill","East Bayard",3,"U.S. House","","Write-ins",3
+"111","Morrill","West Bayard",3,"U.S. House","","Write-ins",11
+"112","Morrill","North Camp Clarke",3,"U.S. House","","Write-ins",3
+"113","Morrill","East Camp Clarke",3,"U.S. House","","Write-ins",7
+"114","Morrill","West Camp Clarke",3,"U.S. House","","Write-ins",6
+"115","Morrill","Gilchrist",3,"U.S. House","","Write-ins",0
+"116","Morrill","Haynes",3,"U.S. House","","Write-ins",2
+"117","Morrill","Redington",3,"U.S. House","","Write-ins",2
+"118","Morrill","Provisional",3,"U.S. House","","Write-ins",0
+"119","Morrill","Absentee",3,"U.S. House","","Write-ins",5
+"120","Morrill","Total",3,"U.S. House","","Write-ins",41

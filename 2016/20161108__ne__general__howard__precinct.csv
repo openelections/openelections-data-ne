@@ -1,62 +1,62 @@
-county,precinct,office,district,party,candidate,votes
-Howard,Ward 1,President,,Republican,Donald J. Trump,390
-Howard,Ward 2,President,,Republican,Donald J. Trump,449
-Howard,Spring Creek,President,,Republican,Donald J. Trump,98
-Howard,Elba,President,,Republican,Donald J. Trump,189
-Howard,Posen,President,,Republican,Donald J. Trump,175
-Howard,Dannebrog,President,,Republican,Donald J. Trump,254
-Howard,Loup Fork,President,,Republican,Donald J. Trump,137
-Howard,St. Libory,President,,Republican,Donald J. Trump,268
-Howard,Early,President,,Republican,Donald J. Trump,324
-Howard,Total,President,,Republican,Donald J. Trump,2284
-Howard,Ward 1,President,,Democratic,Hillary Clinton,84
-Howard,Ward 2,President,,Democratic,Hillary Clinton,110
-Howard,Spring Creek,President,,Democratic,Hillary Clinton,12
-Howard,Elba,President,,Democratic,Hillary Clinton,33
-Howard,Posen,President,,Democratic,Hillary Clinton,40
-Howard,Dannebrog,President,,Democratic,Hillary Clinton,75
-Howard,Loup Fork,President,,Democratic,Hillary Clinton,36
-Howard,St. Libory,President,,Democratic,Hillary Clinton,48
-Howard,Early,President,,Democratic,Hillary Clinton,106
-Howard,Total,President,,Democratic,Hillary Clinton,544
-Howard,Ward 1,President,,Libertarian,Gary Johnson,17
-Howard,Ward 2,President,,Libertarian,Gary Johnson,22
-Howard,Spring Creek,President,,Libertarian,Gary Johnson,2
-Howard,Elba,President,,Libertarian,Gary Johnson,6
-Howard,Posen,President,,Libertarian,Gary Johnson,6
-Howard,Dannebrog,President,,Libertarian,Gary Johnson,17
-Howard,Loup Fork,President,,Libertarian,Gary Johnson,5
-Howard,St. Libory,President,,Libertarian,Gary Johnson,15
-Howard,Early,President,,Libertarian,Gary Johnson,18
-Howard,Total,President,,Libertarian,Gary Johnson,108
-Howard,Ward 1,President,,,Jill Stein,4
-Howard,Ward 2,President,,,Jill Stein,5
-Howard,Spring Creek,President,,,Jill Stein,0
-Howard,Elba,President,,,Jill Stein,3
-Howard,Posen,President,,,Jill Stein,0
-Howard,Dannebrog,President,,,Jill Stein,5
-Howard,Loup Fork,President,,,Jill Stein,3
-Howard,St. Libory,President,,,Jill Stein,2
-Howard,Early,President,,,Jill Stein,0
-Howard,Total,President,,,Jill Stein,22
-Howard,Ward 1,U.S. House,3,Republican,Adrian Smith,433
-Howard,Ward 2,U.S. House,3,Republican,Adrian Smith,486
-Howard,Spring Creek,U.S. House,3,Republican,Adrian Smith,94
-Howard,Elba,U.S. House,3,Republican,Adrian Smith,196
-Howard,Posen,U.S. House,3,Republican,Adrian Smith,183
-Howard,Dannebrog,U.S. House,3,Republican,Adrian Smith,300
-Howard,Loup Fork,U.S. House,3,Republican,Adrian Smith,154
-Howard,St. Libory,U.S. House,3,Republican,Adrian Smith,293
-Howard,Early,U.S. House,3,Republican,Adrian Smith,344
-Howard,Total,U.S. House,3,Republican,Adrian Smith,2483
-Howard,Ward 1,State Legislature,41,,Tom Briese,378
-Howard,Ward 2,State Legislature,41,,Tom Briese,414
-Howard,Spring Creek,State Legislature,41,,Tom Briese,78
-Howard,Elba,State Legislature,41,,Tom Briese,158
-Howard,Posen,State Legislature,41,,Tom Briese,147
-Howard,Dannebrog,State Legislature,41,,Tom Briese,274
-Howard,Loup Fork,State Legislature,41,,Tom Briese,141
-Howard,St. Libory,State Legislature,41,,Tom Briese,238
-Howard,Early,State Legislature,41,,Tom Briese,271
-Howard,Total,State Legislature,41,,Tom Briese,2099
-,,,,,,
+"","county","precinct","district","office","party","candidate","votes"
+"1","Howard","Ward 1",NA,"President","REP","Donald J. Trump",390
+"2","Howard","Ward 2",NA,"President","REP","Donald J. Trump",449
+"3","Howard","Spring Creek",NA,"President","REP","Donald J. Trump",98
+"4","Howard","Elba",NA,"President","REP","Donald J. Trump",189
+"5","Howard","Posen",NA,"President","REP","Donald J. Trump",175
+"6","Howard","Dannebrog",NA,"President","REP","Donald J. Trump",254
+"7","Howard","Loup Fork",NA,"President","REP","Donald J. Trump",137
+"8","Howard","St. Libory",NA,"President","REP","Donald J. Trump",268
+"9","Howard","Early",NA,"President","REP","Donald J. Trump",324
+"10","Howard","Total",NA,"President","REP","Donald J. Trump",2284
+"11","Howard","Ward 1",NA,"President","DEM","Hillary Clinton",84
+"12","Howard","Ward 2",NA,"President","DEM","Hillary Clinton",110
+"13","Howard","Spring Creek",NA,"President","DEM","Hillary Clinton",12
+"14","Howard","Elba",NA,"President","DEM","Hillary Clinton",33
+"15","Howard","Posen",NA,"President","DEM","Hillary Clinton",40
+"16","Howard","Dannebrog",NA,"President","DEM","Hillary Clinton",75
+"17","Howard","Loup Fork",NA,"President","DEM","Hillary Clinton",36
+"18","Howard","St. Libory",NA,"President","DEM","Hillary Clinton",48
+"19","Howard","Early",NA,"President","DEM","Hillary Clinton",106
+"20","Howard","Total",NA,"President","DEM","Hillary Clinton",544
+"21","Howard","Ward 1",NA,"President","LIB","Gary Johnson",17
+"22","Howard","Ward 2",NA,"President","LIB","Gary Johnson",22
+"23","Howard","Spring Creek",NA,"President","LIB","Gary Johnson",2
+"24","Howard","Elba",NA,"President","LIB","Gary Johnson",6
+"25","Howard","Posen",NA,"President","LIB","Gary Johnson",6
+"26","Howard","Dannebrog",NA,"President","LIB","Gary Johnson",17
+"27","Howard","Loup Fork",NA,"President","LIB","Gary Johnson",5
+"28","Howard","St. Libory",NA,"President","LIB","Gary Johnson",15
+"29","Howard","Early",NA,"President","LIB","Gary Johnson",18
+"30","Howard","Total",NA,"President","LIB","Gary Johnson",108
+"31","Howard","Ward 1",NA,"President","","Jill Stein",4
+"32","Howard","Ward 2",NA,"President","","Jill Stein",5
+"33","Howard","Spring Creek",NA,"President","","Jill Stein",0
+"34","Howard","Elba",NA,"President","","Jill Stein",3
+"35","Howard","Posen",NA,"President","","Jill Stein",0
+"36","Howard","Dannebrog",NA,"President","","Jill Stein",5
+"37","Howard","Loup Fork",NA,"President","","Jill Stein",3
+"38","Howard","St. Libory",NA,"President","","Jill Stein",2
+"39","Howard","Early",NA,"President","","Jill Stein",0
+"40","Howard","Total",NA,"President","","Jill Stein",22
+"41","Howard","Ward 1",3,"U.S. House","REP","Adrian Smith",433
+"42","Howard","Ward 2",3,"U.S. House","REP","Adrian Smith",486
+"43","Howard","Spring Creek",3,"U.S. House","REP","Adrian Smith",94
+"44","Howard","Elba",3,"U.S. House","REP","Adrian Smith",196
+"45","Howard","Posen",3,"U.S. House","REP","Adrian Smith",183
+"46","Howard","Dannebrog",3,"U.S. House","REP","Adrian Smith",300
+"47","Howard","Loup Fork",3,"U.S. House","REP","Adrian Smith",154
+"48","Howard","St. Libory",3,"U.S. House","REP","Adrian Smith",293
+"49","Howard","Early",3,"U.S. House","REP","Adrian Smith",344
+"50","Howard","Total",3,"U.S. House","REP","Adrian Smith",2483
+"51","Howard","Ward 1",41,"State Legislature","","Tom Briese",378
+"52","Howard","Ward 2",41,"State Legislature","","Tom Briese",414
+"53","Howard","Spring Creek",41,"State Legislature","","Tom Briese",78
+"54","Howard","Elba",41,"State Legislature","","Tom Briese",158
+"55","Howard","Posen",41,"State Legislature","","Tom Briese",147
+"56","Howard","Dannebrog",41,"State Legislature","","Tom Briese",274
+"57","Howard","Loup Fork",41,"State Legislature","","Tom Briese",141
+"58","Howard","St. Libory",41,"State Legislature","","Tom Briese",238
+"59","Howard","Early",41,"State Legislature","","Tom Briese",271
+"60","Howard","Total",41,"State Legislature","","Tom Briese",2099
+"61","","",NA,"","","",NA

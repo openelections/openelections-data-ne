@@ -1,71 +1,71 @@
-county,precinct,office,district,party,candidate,votes
-Kimball,Early,President,,Rep,Donald J. Trump,277
-Kimball,1st Ward,President,,Rep,Donald J. Trump,364
-Kimball,2nd Ward,President,,Rep,Donald J. Trump,233
-Kimball,Antelope,President,,Rep,Donald J. Trump,207
-Kimball,Bushnell,President,,Rep,Donald J. Trump,100
-Kimball,Dix,President,,Rep,Donald J. Trump,149
-Kimball,Total,President,,Rep,Donald J. Trump,1330
-Kimball,Early,President,,Dem,Hillary Clinton,74
-Kimball,1st Ward,President,,Dem,Hillary Clinton,72
-Kimball,2nd Ward,President,,Dem,Hillary Clinton,33
-Kimball,Antelope,President,,Dem,Hillary Clinton,19
-Kimball,Bushnell,President,,Dem,Hillary Clinton,15
-Kimball,Dix,President,,Dem,Hillary Clinton,17
-Kimball,Total,President,,Dem,Hillary Clinton,230
-Kimball,Early,President,,Lib,Gary Johnson,21
-Kimball,1st Ward,President,,Lib,Gary Johnson,24
-Kimball,2nd Ward,President,,Lib,Gary Johnson,12
-Kimball,Antelope,President,,Lib,Gary Johnson,9
-Kimball,Bushnell,President,,Lib,Gary Johnson,8
-Kimball,Dix,President,,Lib,Gary Johnson,4
-Kimball,Total,President,,Lib,Gary Johnson,78
-Kimball,Early,President,,,Jill Stein,3
-Kimball,1st Ward,President,,,Jill Stein,7
-Kimball,2nd Ward,President,,,Jill Stein,3
-Kimball,Antelope,President,,,Jill Stein,3
-Kimball,Bushnell,President,,,Jill Stein,0
-Kimball,Dix,President,,,Jill Stein,2
-Kimball,Total,President,,,Jill Stein,18
-Kimball,Early,President,,,Write-ins,6
-Kimball,1st Ward,President,,,Write-ins,7
-Kimball,2nd Ward,President,,,Write-ins,6
-Kimball,Antelope,President,,,Write-ins,2
-Kimball,Bushnell,President,,,Write-ins,0
-Kimball,Dix,President,,,Write-ins,0
-Kimball,Total,President,,,Write-ins,21
-Kimball,Early,U.S. House,3,Rep,Adrian Smith,317
-Kimball,1st Ward,U.S. House,3,Rep,Adrian Smith,421
-Kimball,2nd Ward,U.S. House,3,Rep,Adrian Smith,259
-Kimball,Antelope,U.S. House,3,Rep,Adrian Smith,221
-Kimball,Bushnell,U.S. House,3,Rep,Adrian Smith,112
-Kimball,Dix,U.S. House,3,Rep,Adrian Smith,161
-Kimball,Total,U.S. House,3,Rep,Adrian Smith,1491
-Kimball,Early,U.S. House,3,,Write-ins,3
-Kimball,1st Ward,U.S. House,3,,Write-ins,5
-Kimball,2nd Ward,U.S. House,3,,Write-ins,5
-Kimball,Antelope,U.S. House,3,,Write-ins,5
-Kimball,Bushnell,U.S. House,3,,Write-ins,0
-Kimball,Dix,U.S. House,3,,Write-ins,0
-Kimball,Total,U.S. House,3,,Write-ins,18
-Kimball,Early,State Legislature,47,,Karl Elmshaeuser,88
-Kimball,1st Ward,State Legislature,47,,Karl Elmshaeuser,145
-Kimball,2nd Ward,State Legislature,47,,Karl Elmshaeuser,68
-Kimball,Antelope,State Legislature,47,,Karl Elmshaeuser,49
-Kimball,Bushnell,State Legislature,47,,Karl Elmshaeuser,22
-Kimball,Dix,State Legislature,47,,Karl Elmshaeuser,30
-Kimball,Total,State Legislature,47,,Karl Elmshaeuser,402
-Kimball,Early,State Legislature,47,,Steve Erdman,258
-Kimball,1st Ward,State Legislature,47,,Steve Erdman,289
-Kimball,2nd Ward,State Legislature,47,,Steve Erdman,200
-Kimball,Antelope,State Legislature,47,,Steve Erdman,174
-Kimball,Bushnell,State Legislature,47,,Steve Erdman,93
-Kimball,Dix,State Legislature,47,,Steve Erdman,130
-Kimball,Total,State Legislature,47,,Steve Erdman,1144
-Kimball,Early,State Legislature,47,,Write-ins,2
-Kimball,1st Ward,State Legislature,47,,Write-ins,0
-Kimball,2nd Ward,State Legislature,47,,Write-ins,2
-Kimball,Antelope,State Legislature,47,,Write-ins,1
-Kimball,Bushnell,State Legislature,47,,Write-ins,1
-Kimball,Dix,State Legislature,47,,Write-ins,0
-Kimball,Total,State Legislature,47,,Write-ins,6
+"","county","precinct","district","office","party","candidate","votes"
+"1","Kimball","Early",NA,"President","REP","Donald J. Trump",277
+"2","Kimball","1st Ward",NA,"President","REP","Donald J. Trump",364
+"3","Kimball","2nd Ward",NA,"President","REP","Donald J. Trump",233
+"4","Kimball","Antelope",NA,"President","REP","Donald J. Trump",207
+"5","Kimball","Bushnell",NA,"President","REP","Donald J. Trump",100
+"6","Kimball","Dix",NA,"President","REP","Donald J. Trump",149
+"7","Kimball","Total",NA,"President","REP","Donald J. Trump",1330
+"8","Kimball","Early",NA,"President","DEM","Hillary Clinton",74
+"9","Kimball","1st Ward",NA,"President","DEM","Hillary Clinton",72
+"10","Kimball","2nd Ward",NA,"President","DEM","Hillary Clinton",33
+"11","Kimball","Antelope",NA,"President","DEM","Hillary Clinton",19
+"12","Kimball","Bushnell",NA,"President","DEM","Hillary Clinton",15
+"13","Kimball","Dix",NA,"President","DEM","Hillary Clinton",17
+"14","Kimball","Total",NA,"President","DEM","Hillary Clinton",230
+"15","Kimball","Early",NA,"President","LIB","Gary Johnson",21
+"16","Kimball","1st Ward",NA,"President","LIB","Gary Johnson",24
+"17","Kimball","2nd Ward",NA,"President","LIB","Gary Johnson",12
+"18","Kimball","Antelope",NA,"President","LIB","Gary Johnson",9
+"19","Kimball","Bushnell",NA,"President","LIB","Gary Johnson",8
+"20","Kimball","Dix",NA,"President","LIB","Gary Johnson",4
+"21","Kimball","Total",NA,"President","LIB","Gary Johnson",78
+"22","Kimball","Early",NA,"President","","Jill Stein",3
+"23","Kimball","1st Ward",NA,"President","","Jill Stein",7
+"24","Kimball","2nd Ward",NA,"President","","Jill Stein",3
+"25","Kimball","Antelope",NA,"President","","Jill Stein",3
+"26","Kimball","Bushnell",NA,"President","","Jill Stein",0
+"27","Kimball","Dix",NA,"President","","Jill Stein",2
+"28","Kimball","Total",NA,"President","","Jill Stein",18
+"29","Kimball","Early",NA,"President","","Write-ins",6
+"30","Kimball","1st Ward",NA,"President","","Write-ins",7
+"31","Kimball","2nd Ward",NA,"President","","Write-ins",6
+"32","Kimball","Antelope",NA,"President","","Write-ins",2
+"33","Kimball","Bushnell",NA,"President","","Write-ins",0
+"34","Kimball","Dix",NA,"President","","Write-ins",0
+"35","Kimball","Total",NA,"President","","Write-ins",21
+"36","Kimball","Early",3,"U.S. House","REP","Adrian Smith",317
+"37","Kimball","1st Ward",3,"U.S. House","REP","Adrian Smith",421
+"38","Kimball","2nd Ward",3,"U.S. House","REP","Adrian Smith",259
+"39","Kimball","Antelope",3,"U.S. House","REP","Adrian Smith",221
+"40","Kimball","Bushnell",3,"U.S. House","REP","Adrian Smith",112
+"41","Kimball","Dix",3,"U.S. House","REP","Adrian Smith",161
+"42","Kimball","Total",3,"U.S. House","REP","Adrian Smith",1491
+"43","Kimball","Early",3,"U.S. House","","Write-ins",3
+"44","Kimball","1st Ward",3,"U.S. House","","Write-ins",5
+"45","Kimball","2nd Ward",3,"U.S. House","","Write-ins",5
+"46","Kimball","Antelope",3,"U.S. House","","Write-ins",5
+"47","Kimball","Bushnell",3,"U.S. House","","Write-ins",0
+"48","Kimball","Dix",3,"U.S. House","","Write-ins",0
+"49","Kimball","Total",3,"U.S. House","","Write-ins",18
+"50","Kimball","Early",47,"State Legislature","","Karl Elmshaeuser",88
+"51","Kimball","1st Ward",47,"State Legislature","","Karl Elmshaeuser",145
+"52","Kimball","2nd Ward",47,"State Legislature","","Karl Elmshaeuser",68
+"53","Kimball","Antelope",47,"State Legislature","","Karl Elmshaeuser",49
+"54","Kimball","Bushnell",47,"State Legislature","","Karl Elmshaeuser",22
+"55","Kimball","Dix",47,"State Legislature","","Karl Elmshaeuser",30
+"56","Kimball","Total",47,"State Legislature","","Karl Elmshaeuser",402
+"57","Kimball","Early",47,"State Legislature","","Steve Erdman",258
+"58","Kimball","1st Ward",47,"State Legislature","","Steve Erdman",289
+"59","Kimball","2nd Ward",47,"State Legislature","","Steve Erdman",200
+"60","Kimball","Antelope",47,"State Legislature","","Steve Erdman",174
+"61","Kimball","Bushnell",47,"State Legislature","","Steve Erdman",93
+"62","Kimball","Dix",47,"State Legislature","","Steve Erdman",130
+"63","Kimball","Total",47,"State Legislature","","Steve Erdman",1144
+"64","Kimball","Early",47,"State Legislature","","Write-ins",2
+"65","Kimball","1st Ward",47,"State Legislature","","Write-ins",0
+"66","Kimball","2nd Ward",47,"State Legislature","","Write-ins",2
+"67","Kimball","Antelope",47,"State Legislature","","Write-ins",1
+"68","Kimball","Bushnell",47,"State Legislature","","Write-ins",1
+"69","Kimball","Dix",47,"State Legislature","","Write-ins",0
+"70","Kimball","Total",47,"State Legislature","","Write-ins",6

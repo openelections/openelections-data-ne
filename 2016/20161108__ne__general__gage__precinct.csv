@@ -1,55 +1,55 @@
-county,precinct,office,district,party,candidate,votes,early_voting,election_day,provisional
-Gage,Adams Area,Registered Voters,,,,1288,,,
-Gage,Adams Area,Ballots Cast,,,,969,242,727,0
-Gage,Adams Area,President,,REP,Donald J. Trump,670,164,506,0
-Gage,Adams Area,President,,DEM,Hillary Clinton,214,58,156,0
-Gage,Adams Area,President,,LIB,Gary Johnson,43,10,33,0
-Gage,Adams Area,President,,,Jill Stein,8,1,7,0
-Gage,Adams Area,President,,,Write-ins,15,4,11,0
-Gage,Adams Area,U.S. House,3,REP,Adrian Smith,754,179,575,0
-Gage,Adams Area,U.S. House,3,,Write-ins,16,3,13,0
-Gage,Odell Area,Registered Voters,,,,701,,,
-Gage,Odell Area,Ballots Cast,,,,529,142,387,0
-Gage,Odell Area,President,,REP,Donald J. Trump,349,76,273,0
-Gage,Odell Area,President,,DEM,Hillary Clinton,138,51,87,0
-Gage,Odell Area,President,,LIB,Gary Johnson,23,7,16,0
-Gage,Odell Area,President,,,Jill Stein,1,1,0,0
-Gage,Odell Area,President,,,Write-ins,3,2,1,0
-Gage,Odell Area,U.S. House,3,REP,Adrian Smith,410,101,309,0
-Gage,Odell Area,U.S. House,3,,Write-ins,12,5,7,0
-Gage,Filley/Virginia Area,Registered Voters,,,,723,,,
-Gage,Filley/Virginia Area,Ballots Cast,,,,562,224,338,0
-Gage,Filley/Virginia Area,President,,REP,Donald J. Trump,385,133,252,0
-Gage,Filley/Virginia Area,President,,DEM,Hillary Clinton,134,67,67,0
-Gage,Filley/Virginia Area,President,,LIB,Gary Johnson,28,16,12,0
-Gage,Filley/Virginia Area,President,,,Jill Stein,2,2,0,0
-Gage,Filley/Virginia Area,President,,,Write-ins,5,1,4,0
-Gage,Filley/Virginia Area,U.S. House,3,REP,Adrian Smith,449,169,280,0
-Gage,Filley/Virginia Area,U.S. House,3,,Write-ins,8,5,3,0
-Gage,NW Quad Area,Registered Voters,,,,1426,,,
-Gage,NW Quad Area,Ballots Cast,,,,1122,417,705,0
-Gage,NW Quad Area,President,,REP,Donald J. Trump,725,243,482,0
-Gage,NW Quad Area,President,,DEM,Hillary Clinton,298,129,169,0
-Gage,NW Quad Area,President,,LIB,Gary Johnson,59,28,31,0
-Gage,NW Quad Area,President,,,Jill Stein,9,7,2,0
-Gage,NW Quad Area,President,,,Write-ins,16,7,9,0
-Gage,NW Quad Area,U.S. House,3,REP,Adrian Smith,869,309,560,0
-Gage,NW Quad Area,U.S. House,3,,Write-ins,20,10,10,0
-Gage,Homestead Area,Registered Voters,,,,987,,,
-Gage,Homestead Area,Ballots Cast,,,,780,316,464,0
-Gage,Homestead Area,President,,REP,Donald J. Trump,511,192,319,0
-Gage,Homestead Area,President,,DEM,Hillary Clinton,200,97,103,0
-Gage,Homestead Area,President,,LIB,Gary Johnson,36,14,22,0
-Gage,Homestead Area,President,,,Jill Stein,8,4,4,0
-Gage,Homestead Area,President,,,Write-ins,11,3,8,0
-Gage,Homestead Area,U.S. House,3,REP,Adrian Smith,614,238,376,0
-Gage,Homestead Area,U.S. House,3,,Write-ins,12,6,6,0
-Gage,Wymore Area,Registered Voters,,,,1503,,,
-Gage,Wymore Area,Ballots Cast,,,,996,277,719,0
-Gage,Wymore Area,President,,REP,Donald J. Trump,625,155,470,0
-Gage,Wymore Area,President,,DEM,Hillary Clinton,282,93,189,0
-Gage,Wymore Area,President,,LIB,Gary Johnson,41,14,27,0
-Gage,Wymore Area,President,,,Jill Stein,12,5,7,0
-Gage,Wymore Area,President,,,Write-ins,7,2,5,0
-Gage,Wymore Area,U.S. House,3,REP,Adrian Smith,751,200,551,0
-Gage,Wymore Area,U.S. House,3,,Write-ins,11,3,8,0
+"","county","precinct","district","office","party","candidate","votes"
+"1","Gage","Adams Area",NA,"Registered Voters","","",1288
+"2","Gage","Adams Area",NA,"Ballots Cast","","",969
+"3","Gage","Adams Area",NA,"President","REP","Donald J. Trump",670
+"4","Gage","Adams Area",NA,"President","DEM","Hillary Clinton",214
+"5","Gage","Adams Area",NA,"President","LIB","Gary Johnson",43
+"6","Gage","Adams Area",NA,"President","","Jill Stein",8
+"7","Gage","Adams Area",NA,"President","","Write-ins",15
+"8","Gage","Adams Area",3,"U.S. House","REP","Adrian Smith",754
+"9","Gage","Adams Area",3,"U.S. House","","Write-ins",16
+"10","Gage","Odell Area",NA,"Registered Voters","","",701
+"11","Gage","Odell Area",NA,"Ballots Cast","","",529
+"12","Gage","Odell Area",NA,"President","REP","Donald J. Trump",349
+"13","Gage","Odell Area",NA,"President","DEM","Hillary Clinton",138
+"14","Gage","Odell Area",NA,"President","LIB","Gary Johnson",23
+"15","Gage","Odell Area",NA,"President","","Jill Stein",1
+"16","Gage","Odell Area",NA,"President","","Write-ins",3
+"17","Gage","Odell Area",3,"U.S. House","REP","Adrian Smith",410
+"18","Gage","Odell Area",3,"U.S. House","","Write-ins",12
+"19","Gage","Filley/Virginia Area",NA,"Registered Voters","","",723
+"20","Gage","Filley/Virginia Area",NA,"Ballots Cast","","",562
+"21","Gage","Filley/Virginia Area",NA,"President","REP","Donald J. Trump",385
+"22","Gage","Filley/Virginia Area",NA,"President","DEM","Hillary Clinton",134
+"23","Gage","Filley/Virginia Area",NA,"President","LIB","Gary Johnson",28
+"24","Gage","Filley/Virginia Area",NA,"President","","Jill Stein",2
+"25","Gage","Filley/Virginia Area",NA,"President","","Write-ins",5
+"26","Gage","Filley/Virginia Area",3,"U.S. House","REP","Adrian Smith",449
+"27","Gage","Filley/Virginia Area",3,"U.S. House","","Write-ins",8
+"28","Gage","NW Quad Area",NA,"Registered Voters","","",1426
+"29","Gage","NW Quad Area",NA,"Ballots Cast","","",1122
+"30","Gage","NW Quad Area",NA,"President","REP","Donald J. Trump",725
+"31","Gage","NW Quad Area",NA,"President","DEM","Hillary Clinton",298
+"32","Gage","NW Quad Area",NA,"President","LIB","Gary Johnson",59
+"33","Gage","NW Quad Area",NA,"President","","Jill Stein",9
+"34","Gage","NW Quad Area",NA,"President","","Write-ins",16
+"35","Gage","NW Quad Area",3,"U.S. House","REP","Adrian Smith",869
+"36","Gage","NW Quad Area",3,"U.S. House","","Write-ins",20
+"37","Gage","Homestead Area",NA,"Registered Voters","","",987
+"38","Gage","Homestead Area",NA,"Ballots Cast","","",780
+"39","Gage","Homestead Area",NA,"President","REP","Donald J. Trump",511
+"40","Gage","Homestead Area",NA,"President","DEM","Hillary Clinton",200
+"41","Gage","Homestead Area",NA,"President","LIB","Gary Johnson",36
+"42","Gage","Homestead Area",NA,"President","","Jill Stein",8
+"43","Gage","Homestead Area",NA,"President","","Write-ins",11
+"44","Gage","Homestead Area",3,"U.S. House","REP","Adrian Smith",614
+"45","Gage","Homestead Area",3,"U.S. House","","Write-ins",12
+"46","Gage","Wymore Area",NA,"Registered Voters","","",1503
+"47","Gage","Wymore Area",NA,"Ballots Cast","","",996
+"48","Gage","Wymore Area",NA,"President","REP","Donald J. Trump",625
+"49","Gage","Wymore Area",NA,"President","DEM","Hillary Clinton",282
+"50","Gage","Wymore Area",NA,"President","LIB","Gary Johnson",41
+"51","Gage","Wymore Area",NA,"President","","Jill Stein",12
+"52","Gage","Wymore Area",NA,"President","","Write-ins",7
+"53","Gage","Wymore Area",3,"U.S. House","REP","Adrian Smith",751
+"54","Gage","Wymore Area",3,"U.S. House","","Write-ins",11

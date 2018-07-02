@@ -1,78 +1,78 @@
-county,precinct,office,district,party,candidate,votes
-Nuckolls,Total,President,,REP,Donald J. Trump,1726
-Nuckolls,Provisional,President,,REP,Donald J. Trump,11
-Nuckolls,Early,President,,REP,Donald J. Trump,172
-Nuckolls,Beaver 1,President,,REP,Donald J. Trump,254
-Nuckolls,Beaver 2,President,,REP,Donald J. Trump,222
-Nuckolls,Beaver 3,President,,REP,Donald J. Trump,212
-Nuckolls,Elk,President,,REP,Donald J. Trump,123
-Nuckolls,Hardy,President,,REP,Donald J. Trump,117
-Nuckolls,Spring Creek,President,,REP,Donald J. Trump,75
-Nuckolls,Nelson,President,,REP,Donald J. Trump,350
-Nuckolls,Victor,President,,REP,Donald J. Trump,190
-Nuckolls,Total,President,,DEM,Hillary Clinton,353
-Nuckolls,Provisional,President,,DEM,Hillary Clinton,3
-Nuckolls,Early,President,,DEM,Hillary Clinton,43
-Nuckolls,Beaver 1,President,,DEM,Hillary Clinton,64
-Nuckolls,Beaver 2,President,,DEM,Hillary Clinton,53
-Nuckolls,Beaver 3,President,,DEM,Hillary Clinton,46
-Nuckolls,Elk,President,,DEM,Hillary Clinton,23
-Nuckolls,Hardy,President,,DEM,Hillary Clinton,16
-Nuckolls,Spring Creek,President,,DEM,Hillary Clinton,12
-Nuckolls,Nelson,President,,DEM,Hillary Clinton,54
-Nuckolls,Victor,President,,DEM,Hillary Clinton,39
-Nuckolls,Total,President,,LIB,Gary Johnson,78
-Nuckolls,Provisional,President,,LIB,Gary Johnson,1
-Nuckolls,Early,President,,LIB,Gary Johnson,7
-Nuckolls,Beaver 1,President,,LIB,Gary Johnson,17
-Nuckolls,Beaver 2,President,,LIB,Gary Johnson,6
-Nuckolls,Beaver 3,President,,LIB,Gary Johnson,10
-Nuckolls,Elk,President,,LIB,Gary Johnson,6
-Nuckolls,Hardy,President,,LIB,Gary Johnson,3
-Nuckolls,Spring Creek,President,,LIB,Gary Johnson,7
-Nuckolls,Nelson,President,,LIB,Gary Johnson,10
-Nuckolls,Victor,President,,LIB,Gary Johnson,11
-Nuckolls,Total,President,,,Jill Stein,20
-Nuckolls,Provisional,President,,,Jill Stein,1
-Nuckolls,Early,President,,,Jill Stein,1
-Nuckolls,Beaver 1,President,,,Jill Stein,4
-Nuckolls,Beaver 2,President,,,Jill Stein,3
-Nuckolls,Beaver 3,President,,,Jill Stein,4
-Nuckolls,Elk,President,,,Jill Stein,0
-Nuckolls,Hardy,President,,,Jill Stein,1
-Nuckolls,Spring Creek,President,,,Jill Stein,2
-Nuckolls,Nelson,President,,,Jill Stein,3
-Nuckolls,Victor,President,,,Jill Stein,1
-Nuckolls,Total,President,,,Write-ins,18
-Nuckolls,Provisional,President,,,Write-ins,3
-Nuckolls,Early,President,,,Write-ins,0
-Nuckolls,Beaver 1,President,,,Write-ins,4
-Nuckolls,Beaver 2,President,,,Write-ins,2
-Nuckolls,Beaver 3,President,,,Write-ins,3
-Nuckolls,Elk,President,,,Write-ins,0
-Nuckolls,Hardy,President,,,Write-ins,0
-Nuckolls,Spring Creek,President,,,Write-ins,0
-Nuckolls,Nelson,President,,,Write-ins,1
-Nuckolls,Victor,President,,,Write-ins,5
-Nuckolls,Total,U.S. House,3,REP,Adrian Smith,1909
-Nuckolls,Provisional,U.S. House,3,REP,Adrian Smith,12
-Nuckolls,Early,U.S. House,3,REP,Adrian Smith,175
-Nuckolls,Beaver 1,U.S. House,3,REP,Adrian Smith,301
-Nuckolls,Beaver 2,U.S. House,3,REP,Adrian Smith,259
-Nuckolls,Beaver 3,U.S. House,3,REP,Adrian Smith,257
-Nuckolls,Elk,U.S. House,3,REP,Adrian Smith,136
-Nuckolls,Hardy,U.S. House,3,REP,Adrian Smith,122
-Nuckolls,Spring Creek,U.S. House,3,REP,Adrian Smith,80
-Nuckolls,Nelson,U.S. House,3,REP,Adrian Smith,347
-Nuckolls,Victor,U.S. House,3,REP,Adrian Smith,220
-Nuckolls,Total,U.S. House,3,,Write-ins,22
-Nuckolls,Provisional,U.S. House,3,,Write-ins,0
-Nuckolls,Early,U.S. House,3,,Write-ins,4
-Nuckolls,Beaver 1,U.S. House,3,,Write-ins,5
-Nuckolls,Beaver 2,U.S. House,3,,Write-ins,1
-Nuckolls,Beaver 3,U.S. House,3,,Write-ins,4
-Nuckolls,Elk,U.S. House,3,,Write-ins,1
-Nuckolls,Hardy,U.S. House,3,,Write-ins,0
-Nuckolls,Spring Creek,U.S. House,3,,Write-ins,3
-Nuckolls,Nelson,U.S. House,3,,Write-ins,4
-Nuckolls,Victor,U.S. House,3,,Write-ins,0
+"","county","precinct","district","office","party","candidate","votes"
+"1","Nuckolls","Total",NA,"President","REP","Donald J. Trump",1726
+"2","Nuckolls","Provisional",NA,"President","REP","Donald J. Trump",11
+"3","Nuckolls","Early",NA,"President","REP","Donald J. Trump",172
+"4","Nuckolls","Beaver 1",NA,"President","REP","Donald J. Trump",254
+"5","Nuckolls","Beaver 2",NA,"President","REP","Donald J. Trump",222
+"6","Nuckolls","Beaver 3",NA,"President","REP","Donald J. Trump",212
+"7","Nuckolls","Elk",NA,"President","REP","Donald J. Trump",123
+"8","Nuckolls","Hardy",NA,"President","REP","Donald J. Trump",117
+"9","Nuckolls","Spring Creek",NA,"President","REP","Donald J. Trump",75
+"10","Nuckolls","Nelson",NA,"President","REP","Donald J. Trump",350
+"11","Nuckolls","Victor",NA,"President","REP","Donald J. Trump",190
+"12","Nuckolls","Total",NA,"President","DEM","Hillary Clinton",353
+"13","Nuckolls","Provisional",NA,"President","DEM","Hillary Clinton",3
+"14","Nuckolls","Early",NA,"President","DEM","Hillary Clinton",43
+"15","Nuckolls","Beaver 1",NA,"President","DEM","Hillary Clinton",64
+"16","Nuckolls","Beaver 2",NA,"President","DEM","Hillary Clinton",53
+"17","Nuckolls","Beaver 3",NA,"President","DEM","Hillary Clinton",46
+"18","Nuckolls","Elk",NA,"President","DEM","Hillary Clinton",23
+"19","Nuckolls","Hardy",NA,"President","DEM","Hillary Clinton",16
+"20","Nuckolls","Spring Creek",NA,"President","DEM","Hillary Clinton",12
+"21","Nuckolls","Nelson",NA,"President","DEM","Hillary Clinton",54
+"22","Nuckolls","Victor",NA,"President","DEM","Hillary Clinton",39
+"23","Nuckolls","Total",NA,"President","LIB","Gary Johnson",78
+"24","Nuckolls","Provisional",NA,"President","LIB","Gary Johnson",1
+"25","Nuckolls","Early",NA,"President","LIB","Gary Johnson",7
+"26","Nuckolls","Beaver 1",NA,"President","LIB","Gary Johnson",17
+"27","Nuckolls","Beaver 2",NA,"President","LIB","Gary Johnson",6
+"28","Nuckolls","Beaver 3",NA,"President","LIB","Gary Johnson",10
+"29","Nuckolls","Elk",NA,"President","LIB","Gary Johnson",6
+"30","Nuckolls","Hardy",NA,"President","LIB","Gary Johnson",3
+"31","Nuckolls","Spring Creek",NA,"President","LIB","Gary Johnson",7
+"32","Nuckolls","Nelson",NA,"President","LIB","Gary Johnson",10
+"33","Nuckolls","Victor",NA,"President","LIB","Gary Johnson",11
+"34","Nuckolls","Total",NA,"President","","Jill Stein",20
+"35","Nuckolls","Provisional",NA,"President","","Jill Stein",1
+"36","Nuckolls","Early",NA,"President","","Jill Stein",1
+"37","Nuckolls","Beaver 1",NA,"President","","Jill Stein",4
+"38","Nuckolls","Beaver 2",NA,"President","","Jill Stein",3
+"39","Nuckolls","Beaver 3",NA,"President","","Jill Stein",4
+"40","Nuckolls","Elk",NA,"President","","Jill Stein",0
+"41","Nuckolls","Hardy",NA,"President","","Jill Stein",1
+"42","Nuckolls","Spring Creek",NA,"President","","Jill Stein",2
+"43","Nuckolls","Nelson",NA,"President","","Jill Stein",3
+"44","Nuckolls","Victor",NA,"President","","Jill Stein",1
+"45","Nuckolls","Total",NA,"President","","Write-ins",18
+"46","Nuckolls","Provisional",NA,"President","","Write-ins",3
+"47","Nuckolls","Early",NA,"President","","Write-ins",0
+"48","Nuckolls","Beaver 1",NA,"President","","Write-ins",4
+"49","Nuckolls","Beaver 2",NA,"President","","Write-ins",2
+"50","Nuckolls","Beaver 3",NA,"President","","Write-ins",3
+"51","Nuckolls","Elk",NA,"President","","Write-ins",0
+"52","Nuckolls","Hardy",NA,"President","","Write-ins",0
+"53","Nuckolls","Spring Creek",NA,"President","","Write-ins",0
+"54","Nuckolls","Nelson",NA,"President","","Write-ins",1
+"55","Nuckolls","Victor",NA,"President","","Write-ins",5
+"56","Nuckolls","Total",3,"U.S. House","REP","Adrian Smith",1909
+"57","Nuckolls","Provisional",3,"U.S. House","REP","Adrian Smith",12
+"58","Nuckolls","Early",3,"U.S. House","REP","Adrian Smith",175
+"59","Nuckolls","Beaver 1",3,"U.S. House","REP","Adrian Smith",301
+"60","Nuckolls","Beaver 2",3,"U.S. House","REP","Adrian Smith",259
+"61","Nuckolls","Beaver 3",3,"U.S. House","REP","Adrian Smith",257
+"62","Nuckolls","Elk",3,"U.S. House","REP","Adrian Smith",136
+"63","Nuckolls","Hardy",3,"U.S. House","REP","Adrian Smith",122
+"64","Nuckolls","Spring Creek",3,"U.S. House","REP","Adrian Smith",80
+"65","Nuckolls","Nelson",3,"U.S. House","REP","Adrian Smith",347
+"66","Nuckolls","Victor",3,"U.S. House","REP","Adrian Smith",220
+"67","Nuckolls","Total",3,"U.S. House","","Write-ins",22
+"68","Nuckolls","Provisional",3,"U.S. House","","Write-ins",0
+"69","Nuckolls","Early",3,"U.S. House","","Write-ins",4
+"70","Nuckolls","Beaver 1",3,"U.S. House","","Write-ins",5
+"71","Nuckolls","Beaver 2",3,"U.S. House","","Write-ins",1
+"72","Nuckolls","Beaver 3",3,"U.S. House","","Write-ins",4
+"73","Nuckolls","Elk",3,"U.S. House","","Write-ins",1
+"74","Nuckolls","Hardy",3,"U.S. House","","Write-ins",0
+"75","Nuckolls","Spring Creek",3,"U.S. House","","Write-ins",3
+"76","Nuckolls","Nelson",3,"U.S. House","","Write-ins",4
+"77","Nuckolls","Victor",3,"U.S. House","","Write-ins",0

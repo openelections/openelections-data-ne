@@ -1,55 +1,55 @@
-county,precinct,office,district,party,candidate,votes
-Sherman,Absentee/Early Vote,President,,Democratic,Hillary Clinton,0
-Sherman,Ashton,President,,Democratic,Hillary Clinton,35
-Sherman,Central LC,President,,Democratic,Hillary Clinton,48
-Sherman,Countywide,President,,Democratic,Hillary Clinton,0
-Sherman,Harrison,President,,Democratic,Hillary Clinton,44
-Sherman,New/Former Resident,President,,Democratic,Hillary Clinton,0
-Sherman,North LC,President,,Democratic,Hillary Clinton,106
-Sherman,Rockville,President,,Democratic,Hillary Clinton,46
-Sherman,South LC,President,,Democratic,Hillary Clinton,61
-Sherman,Absentee/Early Vote,President,,Libertarian,Gary Johnson,0
-Sherman,Ashton,President,,Libertarian,Gary Johnson,12
-Sherman,Central LC,President,,Libertarian,Gary Johnson,6
-Sherman,Countywide,President,,Libertarian,Gary Johnson,0
-Sherman,Harrison,President,,Libertarian,Gary Johnson,17
-Sherman,New/Former Resident,President,,Libertarian,Gary Johnson,0
-Sherman,North LC,President,,Libertarian,Gary Johnson,9
-Sherman,Rockville,President,,Libertarian,Gary Johnson,8
-Sherman,South LC,President,,Libertarian,Gary Johnson,7
-Sherman,Absentee/Early Vote,President,,,Jill Stein,0
-Sherman,Ashton,President,,,Jill Stein,3
-Sherman,Central LC,President,,,Jill Stein,2
-Sherman,Countywide,President,,,Jill Stein,0
-Sherman,Harrison,President,,,Jill Stein,2
-Sherman,New/Former Resident,President,,,Jill Stein,0
-Sherman,North LC,President,,,Jill Stein,4
-Sherman,Rockville,President,,,Jill Stein,1
-Sherman,South LC,President,,,Jill Stein,1
-Sherman,Absentee/Early Vote,President,,Republican,Donald J. Trump,0
-Sherman,Ashton,President,,Republican,Donald J. Trump,177
-Sherman,Central LC,President,,Republican,Donald J. Trump,128
-Sherman,Countywide,President,,Republican,Donald J. Trump,0
-Sherman,Harrison,President,,Republican,Donald J. Trump,275
-Sherman,New/Former Resident,President,,Republican,Donald J. Trump,0
-Sherman,North LC,President,,Republican,Donald J. Trump,200
-Sherman,Rockville,President,,Republican,Donald J. Trump,171
-Sherman,South LC,President,,Republican,Donald J. Trump,199
-Sherman,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,0
-Sherman,Ashton,U.S. House,3,Republican,Adrian Smith,173
-Sherman,Central LC,U.S. House,3,Republican,Adrian Smith,152
-Sherman,Countywide,U.S. House,3,Republican,Adrian Smith,0
-Sherman,Harrison,U.S. House,3,Republican,Adrian Smith,291
-Sherman,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
-Sherman,North LC,U.S. House,3,Republican,Adrian Smith,253
-Sherman,Rockville,U.S. House,3,Republican,Adrian Smith,205
-Sherman,South LC,U.S. House,3,Republican,Adrian Smith,227
-Sherman,Absentee/Early Vote,State Legislature,41,,Tom Briese,0
-Sherman,Ashton,State Legislature,41,,Tom Briese,143
-Sherman,Central LC,State Legislature,41,,Tom Briese,130
-Sherman,Countywide,State Legislature,41,,Tom Briese,0
-Sherman,Harrison,State Legislature,41,,Tom Briese,234
-Sherman,New/Former Resident,State Legislature,41,,Tom Briese,0
-Sherman,North LC,State Legislature,41,,Tom Briese,220
-Sherman,Rockville,State Legislature,41,,Tom Briese,176
-Sherman,South LC,State Legislature,41,,Tom Briese,189
+"","county","precinct","district","office","party","candidate","votes"
+"1","Sherman","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",0
+"2","Sherman","Ashton",NA,"President","DEM","Hillary Clinton",35
+"3","Sherman","Central LC",NA,"President","DEM","Hillary Clinton",48
+"4","Sherman","Countywide",NA,"President","DEM","Hillary Clinton",0
+"5","Sherman","Harrison",NA,"President","DEM","Hillary Clinton",44
+"6","Sherman","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
+"7","Sherman","North LC",NA,"President","DEM","Hillary Clinton",106
+"8","Sherman","Rockville",NA,"President","DEM","Hillary Clinton",46
+"9","Sherman","South LC",NA,"President","DEM","Hillary Clinton",61
+"10","Sherman","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",0
+"11","Sherman","Ashton",NA,"President","LIB","Gary Johnson",12
+"12","Sherman","Central LC",NA,"President","LIB","Gary Johnson",6
+"13","Sherman","Countywide",NA,"President","LIB","Gary Johnson",0
+"14","Sherman","Harrison",NA,"President","LIB","Gary Johnson",17
+"15","Sherman","New/Former Resident",NA,"President","LIB","Gary Johnson",0
+"16","Sherman","North LC",NA,"President","LIB","Gary Johnson",9
+"17","Sherman","Rockville",NA,"President","LIB","Gary Johnson",8
+"18","Sherman","South LC",NA,"President","LIB","Gary Johnson",7
+"19","Sherman","Absentee/Early Vote",NA,"President","","Jill Stein",0
+"20","Sherman","Ashton",NA,"President","","Jill Stein",3
+"21","Sherman","Central LC",NA,"President","","Jill Stein",2
+"22","Sherman","Countywide",NA,"President","","Jill Stein",0
+"23","Sherman","Harrison",NA,"President","","Jill Stein",2
+"24","Sherman","New/Former Resident",NA,"President","","Jill Stein",0
+"25","Sherman","North LC",NA,"President","","Jill Stein",4
+"26","Sherman","Rockville",NA,"President","","Jill Stein",1
+"27","Sherman","South LC",NA,"President","","Jill Stein",1
+"28","Sherman","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",0
+"29","Sherman","Ashton",NA,"President","REP","Donald J. Trump",177
+"30","Sherman","Central LC",NA,"President","REP","Donald J. Trump",128
+"31","Sherman","Countywide",NA,"President","REP","Donald J. Trump",0
+"32","Sherman","Harrison",NA,"President","REP","Donald J. Trump",275
+"33","Sherman","New/Former Resident",NA,"President","REP","Donald J. Trump",0
+"34","Sherman","North LC",NA,"President","REP","Donald J. Trump",200
+"35","Sherman","Rockville",NA,"President","REP","Donald J. Trump",171
+"36","Sherman","South LC",NA,"President","REP","Donald J. Trump",199
+"37","Sherman","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",0
+"38","Sherman","Ashton",3,"U.S. House","REP","Adrian Smith",173
+"39","Sherman","Central LC",3,"U.S. House","REP","Adrian Smith",152
+"40","Sherman","Countywide",3,"U.S. House","REP","Adrian Smith",0
+"41","Sherman","Harrison",3,"U.S. House","REP","Adrian Smith",291
+"42","Sherman","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
+"43","Sherman","North LC",3,"U.S. House","REP","Adrian Smith",253
+"44","Sherman","Rockville",3,"U.S. House","REP","Adrian Smith",205
+"45","Sherman","South LC",3,"U.S. House","REP","Adrian Smith",227
+"46","Sherman","Absentee/Early Vote",41,"State Legislature","","Tom Briese",0
+"47","Sherman","Ashton",41,"State Legislature","","Tom Briese",143
+"48","Sherman","Central LC",41,"State Legislature","","Tom Briese",130
+"49","Sherman","Countywide",41,"State Legislature","","Tom Briese",0
+"50","Sherman","Harrison",41,"State Legislature","","Tom Briese",234
+"51","Sherman","New/Former Resident",41,"State Legislature","","Tom Briese",0
+"52","Sherman","North LC",41,"State Legislature","","Tom Briese",220
+"53","Sherman","Rockville",41,"State Legislature","","Tom Briese",176
+"54","Sherman","South LC",41,"State Legislature","","Tom Briese",189

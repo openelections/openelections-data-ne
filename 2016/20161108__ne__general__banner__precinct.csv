@@ -1,11 +1,11 @@
-county,precinct,office,district,party,candidate,early_voting,election_day,provisional,votes
-Banner,Long Springs,President,,Republican,Donald J. Trump,86,270,1,357
-Banner,Long Springs,President,,Democratic,Hillary Clinton,6,13,,19
-Banner,Long Springs,President,,Libertarian,Gary Johnson,3,11,,14
-Banner,Long Springs,President,,,Jill Stein,1,2,,3
-Banner,Long Springs,President,,,Write-ins,0,9,,9
-Banner,Long Springs,U.S. House,3,Republican,Adrian Smith,80,263,1,344
-Banner,Long Springs,U.S. House,3,,Write-ins,1,6,,7
-Banner,Long Springs,State Legislature,47,,Karl Elmshaueser,28,62,,90
-Banner,Long Springs,State Legislature,47,,Steve Erdman,51,225,1,277
-Banner,Long Springs,State Legislature,47,,Write-ins,1,1,,2
+"","county","precinct","district","office","party","candidate","votes"
+"1","Banner","Long Springs",NA,"President","REP","Donald J. Trump",357
+"2","Banner","Long Springs",NA,"President","DEM","Hillary Clinton",19
+"3","Banner","Long Springs",NA,"President","LIB","Gary Johnson",14
+"4","Banner","Long Springs",NA,"President","","Jill Stein",3
+"5","Banner","Long Springs",NA,"President","","Write-ins",9
+"6","Banner","Long Springs",3,"U.S. House","REP","Adrian Smith",344
+"7","Banner","Long Springs",3,"U.S. House","","Write-ins",7
+"8","Banner","Long Springs",47,"State Legislature","","Karl Elmshaueser",90
+"9","Banner","Long Springs",47,"State Legislature","","Steve Erdman",277
+"10","Banner","Long Springs",47,"State Legislature","","Write-ins",2

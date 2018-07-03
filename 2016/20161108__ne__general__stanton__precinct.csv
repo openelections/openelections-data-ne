@@ -1,150 +1,150 @@
-county,precinct,office,district,party,candidate,votes
-Stanton,Butterfly,Registered Voters,,,,93
-Stanton,Dewey,Registered Voters,,,,137
-Stanton,Dimick,Registered Voters,,,,68
-Stanton,Elkhorn,Registered Voters,,,,176
-Stanton,Haymow,Registered Voters,,,,96
-Stanton,Kingsburg,Registered Voters,,,,66
-Stanton,Maple Creek,Registered Voters,,,,98
-Stanton,Pilger,Registered Voters,,,,335
-Stanton,Ramshorn,Registered Voters,,,,111
-Stanton,Spring Branch,Registered Voters,,,,1116
-Stanton,Spring Branch II,Registered Voters,,,,293
-Stanton,Stanton A,Registered Voters,,,,517
-Stanton,Stanton B,Registered Voters,,,,594
-Stanton,Stanton C,Registered Voters,,,,68
-Stanton,Union Creek,Registered Voters,,,,74
-Stanton,Absentee,Registered Voters,,,,
-Stanton,Provisional,Registered Voters,,,,
-Stanton,Total,Registered Voters,,,,3842
-Stanton,Butterfly,Ballots Cast,,,,73
-Stanton,Dewey,Ballots Cast,,,,109
-Stanton,Dimick,Ballots Cast,,,,55
-Stanton,Elkhorn,Ballots Cast,,,,147
-Stanton,Haymow,Ballots Cast,,,,80
-Stanton,Kingsburg,Ballots Cast,,,,53
-Stanton,Maple Creek,Ballots Cast,,,,80
-Stanton,Pilger,Ballots Cast,,,,262
-Stanton,Ramshorn,Ballots Cast,,,,100
-Stanton,Spring Branch,Ballots Cast,,,,670
-Stanton,Spring Branch II,Ballots Cast,,,,172
-Stanton,Stanton A,Ballots Cast,,,,299
-Stanton,Stanton B,Ballots Cast,,,,347
-Stanton,Stanton C,Ballots Cast,,,,43
-Stanton,Union Creek,Ballots Cast,,,,68
-Stanton,Absentee,Ballots Cast,,,,286
-Stanton,Provisional,Ballots Cast,,,,14
-Stanton,Total,Ballots Cast,,,,2858
-Stanton,Butterfly,President,,Republican,Donald J. Trump,54
-Stanton,Dewey,President,,Republican,Donald J. Trump,83
-Stanton,Dimick,President,,Republican,Donald J. Trump,46
-Stanton,Elkhorn,President,,Republican,Donald J. Trump,115
-Stanton,Haymow,President,,Republican,Donald J. Trump,66
-Stanton,Kingsburg,President,,Republican,Donald J. Trump,39
-Stanton,Maple Creek,President,,Republican,Donald J. Trump,58
-Stanton,Pilger,President,,Republican,Donald J. Trump,193
-Stanton,Ramshorn,President,,Republican,Donald J. Trump,90
-Stanton,Spring Branch,President,,Republican,Donald J. Trump,503
-Stanton,Spring Branch II,President,,Republican,Donald J. Trump,117
-Stanton,Stanton A,President,,Republican,Donald J. Trump,237
-Stanton,Stanton B,President,,Republican,Donald J. Trump,262
-Stanton,Stanton C,President,,Republican,Donald J. Trump,37
-Stanton,Union Creek,President,,Republican,Donald J. Trump,53
-Stanton,Absentee,President,,Republican,Donald J. Trump,220
-Stanton,Provisional,President,,Republican,Donald J. Trump,14
-Stanton,Total,President,,Republican,Donald J. Trump,2187
-Stanton,Butterfly,President,,Democratic,Hillary Clinton,14
-Stanton,Dewey,President,,Democratic,Hillary Clinton,15
-Stanton,Dimick,President,,Democratic,Hillary Clinton,6
-Stanton,Elkhorn,President,,Democratic,Hillary Clinton,21
-Stanton,Haymow,President,,Democratic,Hillary Clinton,9
-Stanton,Kingsburg,President,,Democratic,Hillary Clinton,7
-Stanton,Maple Creek,President,,Democratic,Hillary Clinton,15
-Stanton,Pilger,President,,Democratic,Hillary Clinton,33
-Stanton,Ramshorn,President,,Democratic,Hillary Clinton,7
-Stanton,Spring Branch,President,,Democratic,Hillary Clinton,104
-Stanton,Spring Branch II,President,,Democratic,Hillary Clinton,34
-Stanton,Stanton A,President,,Democratic,Hillary Clinton,45
-Stanton,Stanton B,President,,Democratic,Hillary Clinton,51
-Stanton,Stanton C,President,,Democratic,Hillary Clinton,2
-Stanton,Union Creek,President,,Democratic,Hillary Clinton,8
-Stanton,Absentee,President,,Democratic,Hillary Clinton,46
-Stanton,Provisional,President,,Democratic,Hillary Clinton,0
-Stanton,Total,President,,Democratic,Hillary Clinton,417
-Stanton,Butterfly,President,,Libertarian,Gary Johnson,2
-Stanton,Dewey,President,,Libertarian,Gary Johnson,7
-Stanton,Dimick,President,,Libertarian,Gary Johnson,1
-Stanton,Elkhorn,President,,Libertarian,Gary Johnson,10
-Stanton,Haymow,President,,Libertarian,Gary Johnson,2
-Stanton,Kingsburg,President,,Libertarian,Gary Johnson,7
-Stanton,Maple Creek,President,,Libertarian,Gary Johnson,5
-Stanton,Pilger,President,,Libertarian,Gary Johnson,21
-Stanton,Ramshorn,President,,Libertarian,Gary Johnson,2
-Stanton,Spring Branch,President,,Libertarian,Gary Johnson,34
-Stanton,Spring Branch II,President,,Libertarian,Gary Johnson,14
-Stanton,Stanton A,President,,Libertarian,Gary Johnson,9
-Stanton,Stanton B,President,,Libertarian,Gary Johnson,15
-Stanton,Stanton C,President,,Libertarian,Gary Johnson,1
-Stanton,Union Creek,President,,Libertarian,Gary Johnson,5
-Stanton,Absentee,President,,Libertarian,Gary Johnson,9
-Stanton,Provisional,President,,Libertarian,Gary Johnson,0
-Stanton,Total,President,,Libertarian,Gary Johnson,144
-Stanton,Butterfly,President,,,Jill Stein,0
-Stanton,Dewey,President,,,Jill Stein,0
-Stanton,Dimick,President,,,Jill Stein,0
-Stanton,Elkhorn,President,,,Jill Stein,0
-Stanton,Haymow,President,,,Jill Stein,0
-Stanton,Kingsburg,President,,,Jill Stein,0
-Stanton,Maple Creek,President,,,Jill Stein,0
-Stanton,Pilger,President,,,Jill Stein,3
-Stanton,Ramshorn,President,,,Jill Stein,0
-Stanton,Spring Branch,President,,,Jill Stein,7
-Stanton,Spring Branch II,President,,,Jill Stein,2
-Stanton,Stanton A,President,,,Jill Stein,1
-Stanton,Stanton B,President,,,Jill Stein,1
-Stanton,Stanton C,President,,,Jill Stein,0
-Stanton,Union Creek,President,,,Jill Stein,0
-Stanton,Absentee,President,,,Jill Stein,0
-Stanton,Provisional,President,,,Jill Stein,0
-Stanton,Total,President,,,Jill Stein,14
-Stanton,Butterfly,U.S. House,1,Republican,Jeff Fortenberry,58
-Stanton,Dewey,U.S. House,1,Republican,Jeff Fortenberry,90
-Stanton,Dimick,U.S. House,1,Republican,Jeff Fortenberry,49
-Stanton,Elkhorn,U.S. House,1,Republican,Jeff Fortenberry,113
-Stanton,Haymow,U.S. House,1,Republican,Jeff Fortenberry,66
-Stanton,Kingsburg,U.S. House,1,Republican,Jeff Fortenberry,43
-Stanton,Maple Creek,U.S. House,1,Republican,Jeff Fortenberry,70
-Stanton,Pilger,U.S. House,1,Republican,Jeff Fortenberry,210
-Stanton,Ramshorn,U.S. House,1,Republican,Jeff Fortenberry,87
-Stanton,Spring Branch,U.S. House,1,Republican,Jeff Fortenberry,537
-Stanton,Spring Branch II,U.S. House,1,Republican,Jeff Fortenberry,143
-Stanton,Stanton A,U.S. House,1,Republican,Jeff Fortenberry,253
-Stanton,Stanton B,U.S. House,1,Republican,Jeff Fortenberry,281
-Stanton,Stanton C,U.S. House,1,Republican,Jeff Fortenberry,41
-Stanton,Union Creek,U.S. House,1,Republican,Jeff Fortenberry,57
-Stanton,Absentee,U.S. House,1,Republican,Jeff Fortenberry,231
-Stanton,Provisional,U.S. House,1,Republican,Jeff Fortenberry,12
-Stanton,Total,U.S. House,1,Republican,Jeff Fortenberry,2341
-Stanton,Butterfly,U.S. House,1,Democratic,Daniel M. Wik,12
-Stanton,Dewey,U.S. House,1,Democratic,Daniel M. Wik,16
-Stanton,Dimick,U.S. House,1,Democratic,Daniel M. Wik,3
-Stanton,Elkhorn,U.S. House,1,Democratic,Daniel M. Wik,27
-Stanton,Haymow,U.S. House,1,Democratic,Daniel M. Wik,10
-Stanton,Kingsburg,U.S. House,1,Democratic,Daniel M. Wik,10
-Stanton,Maple Creek,U.S. House,1,Democratic,Daniel M. Wik,8
-Stanton,Pilger,U.S. House,1,Democratic,Daniel M. Wik,41
-Stanton,Ramshorn,U.S. House,1,Democratic,Daniel M. Wik,7
-Stanton,Spring Branch,U.S. House,1,Democratic,Daniel M. Wik,115
-Stanton,Spring Branch II,U.S. House,1,Democratic,Daniel M. Wik,22
-Stanton,Stanton A,U.S. House,1,Democratic,Daniel M. Wik,40
-Stanton,Stanton B,U.S. House,1,Democratic,Daniel M. Wik,60
-Stanton,Stanton C,U.S. House,1,Democratic,Daniel M. Wik,0
-Stanton,Union Creek,U.S. House,1,Democratic,Daniel M. Wik,10
-Stanton,Absentee,U.S. House,1,Democratic,Daniel M. Wik,43
-Stanton,Provisional,U.S. House,1,Democratic,Daniel M. Wik,2
-Stanton,Total,U.S. House,1,Democratic,Daniel M. Wik,426
-Stanton,Spring Branch,State Legislature,19,,Jim Scheer,587
-Stanton,Spring Branch II,State Legislature,19,,Jim Scheer,152
-Stanton,Absentee,State Legislature,19,,Jim Scheer,120
-Stanton,Provisional,State Legislature,19,,Jim Scheer,9
-Stanton,Total,State Legislature,19,,Jim Scheer,868
+"","county","precinct","district","office","party","candidate","votes"
+"1","Stanton","Butterfly",NA,"Registered Voters","","",93
+"2","Stanton","Dewey",NA,"Registered Voters","","",137
+"3","Stanton","Dimick",NA,"Registered Voters","","",68
+"4","Stanton","Elkhorn",NA,"Registered Voters","","",176
+"5","Stanton","Haymow",NA,"Registered Voters","","",96
+"6","Stanton","Kingsburg",NA,"Registered Voters","","",66
+"7","Stanton","Maple Creek",NA,"Registered Voters","","",98
+"8","Stanton","Pilger",NA,"Registered Voters","","",335
+"9","Stanton","Ramshorn",NA,"Registered Voters","","",111
+"10","Stanton","Spring Branch",NA,"Registered Voters","","",1116
+"11","Stanton","Spring Branch II",NA,"Registered Voters","","",293
+"12","Stanton","Stanton A",NA,"Registered Voters","","",517
+"13","Stanton","Stanton B",NA,"Registered Voters","","",594
+"14","Stanton","Stanton C",NA,"Registered Voters","","",68
+"15","Stanton","Union Creek",NA,"Registered Voters","","",74
+"16","Stanton","Absentee",NA,"Registered Voters","","",NA
+"17","Stanton","Provisional",NA,"Registered Voters","","",NA
+"18","Stanton","Total",NA,"Registered Voters","","",3842
+"19","Stanton","Butterfly",NA,"Ballots Cast","","",73
+"20","Stanton","Dewey",NA,"Ballots Cast","","",109
+"21","Stanton","Dimick",NA,"Ballots Cast","","",55
+"22","Stanton","Elkhorn",NA,"Ballots Cast","","",147
+"23","Stanton","Haymow",NA,"Ballots Cast","","",80
+"24","Stanton","Kingsburg",NA,"Ballots Cast","","",53
+"25","Stanton","Maple Creek",NA,"Ballots Cast","","",80
+"26","Stanton","Pilger",NA,"Ballots Cast","","",262
+"27","Stanton","Ramshorn",NA,"Ballots Cast","","",100
+"28","Stanton","Spring Branch",NA,"Ballots Cast","","",670
+"29","Stanton","Spring Branch II",NA,"Ballots Cast","","",172
+"30","Stanton","Stanton A",NA,"Ballots Cast","","",299
+"31","Stanton","Stanton B",NA,"Ballots Cast","","",347
+"32","Stanton","Stanton C",NA,"Ballots Cast","","",43
+"33","Stanton","Union Creek",NA,"Ballots Cast","","",68
+"34","Stanton","Absentee",NA,"Ballots Cast","","",286
+"35","Stanton","Provisional",NA,"Ballots Cast","","",14
+"36","Stanton","Total",NA,"Ballots Cast","","",2858
+"37","Stanton","Butterfly",NA,"President","REP","Donald J. Trump",54
+"38","Stanton","Dewey",NA,"President","REP","Donald J. Trump",83
+"39","Stanton","Dimick",NA,"President","REP","Donald J. Trump",46
+"40","Stanton","Elkhorn",NA,"President","REP","Donald J. Trump",115
+"41","Stanton","Haymow",NA,"President","REP","Donald J. Trump",66
+"42","Stanton","Kingsburg",NA,"President","REP","Donald J. Trump",39
+"43","Stanton","Maple Creek",NA,"President","REP","Donald J. Trump",58
+"44","Stanton","Pilger",NA,"President","REP","Donald J. Trump",193
+"45","Stanton","Ramshorn",NA,"President","REP","Donald J. Trump",90
+"46","Stanton","Spring Branch",NA,"President","REP","Donald J. Trump",503
+"47","Stanton","Spring Branch II",NA,"President","REP","Donald J. Trump",117
+"48","Stanton","Stanton A",NA,"President","REP","Donald J. Trump",237
+"49","Stanton","Stanton B",NA,"President","REP","Donald J. Trump",262
+"50","Stanton","Stanton C",NA,"President","REP","Donald J. Trump",37
+"51","Stanton","Union Creek",NA,"President","REP","Donald J. Trump",53
+"52","Stanton","Absentee",NA,"President","REP","Donald J. Trump",220
+"53","Stanton","Provisional",NA,"President","REP","Donald J. Trump",14
+"54","Stanton","Total",NA,"President","REP","Donald J. Trump",2187
+"55","Stanton","Butterfly",NA,"President","DEM","Hillary Clinton",14
+"56","Stanton","Dewey",NA,"President","DEM","Hillary Clinton",15
+"57","Stanton","Dimick",NA,"President","DEM","Hillary Clinton",6
+"58","Stanton","Elkhorn",NA,"President","DEM","Hillary Clinton",21
+"59","Stanton","Haymow",NA,"President","DEM","Hillary Clinton",9
+"60","Stanton","Kingsburg",NA,"President","DEM","Hillary Clinton",7
+"61","Stanton","Maple Creek",NA,"President","DEM","Hillary Clinton",15
+"62","Stanton","Pilger",NA,"President","DEM","Hillary Clinton",33
+"63","Stanton","Ramshorn",NA,"President","DEM","Hillary Clinton",7
+"64","Stanton","Spring Branch",NA,"President","DEM","Hillary Clinton",104
+"65","Stanton","Spring Branch II",NA,"President","DEM","Hillary Clinton",34
+"66","Stanton","Stanton A",NA,"President","DEM","Hillary Clinton",45
+"67","Stanton","Stanton B",NA,"President","DEM","Hillary Clinton",51
+"68","Stanton","Stanton C",NA,"President","DEM","Hillary Clinton",2
+"69","Stanton","Union Creek",NA,"President","DEM","Hillary Clinton",8
+"70","Stanton","Absentee",NA,"President","DEM","Hillary Clinton",46
+"71","Stanton","Provisional",NA,"President","DEM","Hillary Clinton",0
+"72","Stanton","Total",NA,"President","DEM","Hillary Clinton",417
+"73","Stanton","Butterfly",NA,"President","LIB","Gary Johnson",2
+"74","Stanton","Dewey",NA,"President","LIB","Gary Johnson",7
+"75","Stanton","Dimick",NA,"President","LIB","Gary Johnson",1
+"76","Stanton","Elkhorn",NA,"President","LIB","Gary Johnson",10
+"77","Stanton","Haymow",NA,"President","LIB","Gary Johnson",2
+"78","Stanton","Kingsburg",NA,"President","LIB","Gary Johnson",7
+"79","Stanton","Maple Creek",NA,"President","LIB","Gary Johnson",5
+"80","Stanton","Pilger",NA,"President","LIB","Gary Johnson",21
+"81","Stanton","Ramshorn",NA,"President","LIB","Gary Johnson",2
+"82","Stanton","Spring Branch",NA,"President","LIB","Gary Johnson",34
+"83","Stanton","Spring Branch II",NA,"President","LIB","Gary Johnson",14
+"84","Stanton","Stanton A",NA,"President","LIB","Gary Johnson",9
+"85","Stanton","Stanton B",NA,"President","LIB","Gary Johnson",15
+"86","Stanton","Stanton C",NA,"President","LIB","Gary Johnson",1
+"87","Stanton","Union Creek",NA,"President","LIB","Gary Johnson",5
+"88","Stanton","Absentee",NA,"President","LIB","Gary Johnson",9
+"89","Stanton","Provisional",NA,"President","LIB","Gary Johnson",0
+"90","Stanton","Total",NA,"President","LIB","Gary Johnson",144
+"91","Stanton","Butterfly",NA,"President","","Jill Stein",0
+"92","Stanton","Dewey",NA,"President","","Jill Stein",0
+"93","Stanton","Dimick",NA,"President","","Jill Stein",0
+"94","Stanton","Elkhorn",NA,"President","","Jill Stein",0
+"95","Stanton","Haymow",NA,"President","","Jill Stein",0
+"96","Stanton","Kingsburg",NA,"President","","Jill Stein",0
+"97","Stanton","Maple Creek",NA,"President","","Jill Stein",0
+"98","Stanton","Pilger",NA,"President","","Jill Stein",3
+"99","Stanton","Ramshorn",NA,"President","","Jill Stein",0
+"100","Stanton","Spring Branch",NA,"President","","Jill Stein",7
+"101","Stanton","Spring Branch II",NA,"President","","Jill Stein",2
+"102","Stanton","Stanton A",NA,"President","","Jill Stein",1
+"103","Stanton","Stanton B",NA,"President","","Jill Stein",1
+"104","Stanton","Stanton C",NA,"President","","Jill Stein",0
+"105","Stanton","Union Creek",NA,"President","","Jill Stein",0
+"106","Stanton","Absentee",NA,"President","","Jill Stein",0
+"107","Stanton","Provisional",NA,"President","","Jill Stein",0
+"108","Stanton","Total",NA,"President","","Jill Stein",14
+"109","Stanton","Butterfly",1,"U.S. House","REP","Jeff Fortenberry",58
+"110","Stanton","Dewey",1,"U.S. House","REP","Jeff Fortenberry",90
+"111","Stanton","Dimick",1,"U.S. House","REP","Jeff Fortenberry",49
+"112","Stanton","Elkhorn",1,"U.S. House","REP","Jeff Fortenberry",113
+"113","Stanton","Haymow",1,"U.S. House","REP","Jeff Fortenberry",66
+"114","Stanton","Kingsburg",1,"U.S. House","REP","Jeff Fortenberry",43
+"115","Stanton","Maple Creek",1,"U.S. House","REP","Jeff Fortenberry",70
+"116","Stanton","Pilger",1,"U.S. House","REP","Jeff Fortenberry",210
+"117","Stanton","Ramshorn",1,"U.S. House","REP","Jeff Fortenberry",87
+"118","Stanton","Spring Branch",1,"U.S. House","REP","Jeff Fortenberry",537
+"119","Stanton","Spring Branch II",1,"U.S. House","REP","Jeff Fortenberry",143
+"120","Stanton","Stanton A",1,"U.S. House","REP","Jeff Fortenberry",253
+"121","Stanton","Stanton B",1,"U.S. House","REP","Jeff Fortenberry",281
+"122","Stanton","Stanton C",1,"U.S. House","REP","Jeff Fortenberry",41
+"123","Stanton","Union Creek",1,"U.S. House","REP","Jeff Fortenberry",57
+"124","Stanton","Absentee",1,"U.S. House","REP","Jeff Fortenberry",231
+"125","Stanton","Provisional",1,"U.S. House","REP","Jeff Fortenberry",12
+"126","Stanton","Total",1,"U.S. House","REP","Jeff Fortenberry",2341
+"127","Stanton","Butterfly",1,"U.S. House","DEM","Daniel M. Wik",12
+"128","Stanton","Dewey",1,"U.S. House","DEM","Daniel M. Wik",16
+"129","Stanton","Dimick",1,"U.S. House","DEM","Daniel M. Wik",3
+"130","Stanton","Elkhorn",1,"U.S. House","DEM","Daniel M. Wik",27
+"131","Stanton","Haymow",1,"U.S. House","DEM","Daniel M. Wik",10
+"132","Stanton","Kingsburg",1,"U.S. House","DEM","Daniel M. Wik",10
+"133","Stanton","Maple Creek",1,"U.S. House","DEM","Daniel M. Wik",8
+"134","Stanton","Pilger",1,"U.S. House","DEM","Daniel M. Wik",41
+"135","Stanton","Ramshorn",1,"U.S. House","DEM","Daniel M. Wik",7
+"136","Stanton","Spring Branch",1,"U.S. House","DEM","Daniel M. Wik",115
+"137","Stanton","Spring Branch II",1,"U.S. House","DEM","Daniel M. Wik",22
+"138","Stanton","Stanton A",1,"U.S. House","DEM","Daniel M. Wik",40
+"139","Stanton","Stanton B",1,"U.S. House","DEM","Daniel M. Wik",60
+"140","Stanton","Stanton C",1,"U.S. House","DEM","Daniel M. Wik",0
+"141","Stanton","Union Creek",1,"U.S. House","DEM","Daniel M. Wik",10
+"142","Stanton","Absentee",1,"U.S. House","DEM","Daniel M. Wik",43
+"143","Stanton","Provisional",1,"U.S. House","DEM","Daniel M. Wik",2
+"144","Stanton","Total",1,"U.S. House","DEM","Daniel M. Wik",426
+"145","Stanton","Spring Branch",19,"State Legislature","","Jim Scheer",587
+"146","Stanton","Spring Branch II",19,"State Legislature","","Jim Scheer",152
+"147","Stanton","Absentee",19,"State Legislature","","Jim Scheer",120
+"148","Stanton","Provisional",19,"State Legislature","","Jim Scheer",9
+"149","Stanton","Total",19,"State Legislature","","Jim Scheer",868

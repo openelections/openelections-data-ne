@@ -1,76 +1,76 @@
-county,precinct,office,district,party,candidate,votes
-York,Absentee/Early Vote,President,,Democratic,Hillary Clinton,333
-York,Brown Hend,President,,Democratic,Hillary Clinton,105
-York,Countywide,President,,Democratic,Hillary Clinton,0
-York,Hays McFadden,President,,Democratic,Hillary Clinton,45
-York,LeRoy Baker,President,,Democratic,Hillary Clinton,35
-York,MABL,President,,Democratic,Hillary Clinton,63
-York,New/Former Resident,President,,Democratic,Hillary Clinton,0
-York,Ny Waco Beav WB,President,,Democratic,Hillary Clinton,65
-York,Stewart Thayer,President,,Democratic,Hillary Clinton,41
-York,Ward 1,President,,Democratic,Hillary Clinton,59
-York,Ward 2A,President,,Democratic,Hillary Clinton,78
-York,Ward 2B,President,,Democratic,Hillary Clinton,83
-York,Ward 3,President,,Democratic,Hillary Clinton,65
-York,Ward 4A,President,,Democratic,Hillary Clinton,109
-York,Ward 4B,President,,Democratic,Hillary Clinton,105
-York,Absentee/Early Vote,President,,Libertarian,Gary Johnson,73
-York,Brown Hend,President,,Libertarian,Gary Johnson,22
-York,Countywide,President,,Libertarian,Gary Johnson,0
-York,Hays McFadden,President,,Libertarian,Gary Johnson,21
-York,LeRoy Baker,President,,Libertarian,Gary Johnson,9
-York,MABL,President,,Libertarian,Gary Johnson,14
-York,New/Former Resident,President,,Libertarian,Gary Johnson,0
-York,Ny Waco Beav WB,President,,Libertarian,Gary Johnson,17
-York,Stewart Thayer,President,,Libertarian,Gary Johnson,15
-York,Ward 1,President,,Libertarian,Gary Johnson,26
-York,Ward 2A,President,,Libertarian,Gary Johnson,25
-York,Ward 2B,President,,Libertarian,Gary Johnson,40
-York,Ward 3,President,,Libertarian,Gary Johnson,21
-York,Ward 4A,President,,Libertarian,Gary Johnson,33
-York,Ward 4B,President,,Libertarian,Gary Johnson,29
-York,Absentee/Early Vote,President,,,Jill Stein,11
-York,Brown Hend,President,,,Jill Stein,3
-York,Countywide,President,,,Jill Stein,0
-York,Hays McFadden,President,,,Jill Stein,0
-York,LeRoy Baker,President,,,Jill Stein,4
-York,MABL,President,,,Jill Stein,1
-York,New/Former Resident,President,,,Jill Stein,0
-York,Ny Waco Beav WB,President,,,Jill Stein,5
-York,Stewart Thayer,President,,,Jill Stein,2
-York,Ward 1,President,,,Jill Stein,0
-York,Ward 2A,President,,,Jill Stein,6
-York,Ward 2B,President,,,Jill Stein,0
-York,Ward 3,President,,,Jill Stein,5
-York,Ward 4A,President,,,Jill Stein,10
-York,Ward 4B,President,,,Jill Stein,5
-York,Absentee/Early Vote,President,,Republican,Donald J. Trump,856
-York,Brown Hend,President,,Republican,Donald J. Trump,565
-York,Countywide,President,,Republican,Donald J. Trump,0
-York,Hays McFadden,President,,Republican,Donald J. Trump,294
-York,LeRoy Baker,President,,Republican,Donald J. Trump,171
-York,MABL,President,,Republican,Donald J. Trump,374
-York,New/Former Resident,President,,Republican,Donald J. Trump,0
-York,Ny Waco Beav WB,President,,Republican,Donald J. Trump,358
-York,Stewart Thayer,President,,Republican,Donald J. Trump,205
-York,Ward 1,President,,Republican,Donald J. Trump,289
-York,Ward 2A,President,,Republican,Donald J. Trump,288
-York,Ward 2B,President,,Republican,Donald J. Trump,282
-York,Ward 3,President,,Republican,Donald J. Trump,230
-York,Ward 4A,President,,Republican,Donald J. Trump,426
-York,Ward 4B,President,,Republican,Donald J. Trump,362
-York,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,1048
-York,Brown Hend,U.S. House,3,Republican,Adrian Smith,630
-York,Countywide,U.S. House,3,Republican,Adrian Smith,0
-York,Hays McFadden,U.S. House,3,Republican,Adrian Smith,307
-York,LeRoy Baker,U.S. House,3,Republican,Adrian Smith,189
-York,MABL,U.S. House,3,Republican,Adrian Smith,411
-York,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
-York,Ny Waco Beav WB,U.S. House,3,Republican,Adrian Smith,410
-York,Stewart Thayer,U.S. House,3,Republican,Adrian Smith,235
-York,Ward 1,U.S. House,3,Republican,Adrian Smith,345
-York,Ward 2A,U.S. House,3,Republican,Adrian Smith,360
-York,Ward 2B,U.S. House,3,Republican,Adrian Smith,350
-York,Ward 3,U.S. House,3,Republican,Adrian Smith,289
-York,Ward 4A,U.S. House,3,Republican,Adrian Smith,519
-York,Ward 4B,U.S. House,3,Republican,Adrian Smith,451
+"","county","precinct","district","office","party","candidate","votes"
+"1","York","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",333
+"2","York","Brown Hend",NA,"President","DEM","Hillary Clinton",105
+"3","York","Countywide",NA,"President","DEM","Hillary Clinton",0
+"4","York","Hays McFadden",NA,"President","DEM","Hillary Clinton",45
+"5","York","LeRoy Baker",NA,"President","DEM","Hillary Clinton",35
+"6","York","MABL",NA,"President","DEM","Hillary Clinton",63
+"7","York","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
+"8","York","Ny Waco Beav WB",NA,"President","DEM","Hillary Clinton",65
+"9","York","Stewart Thayer",NA,"President","DEM","Hillary Clinton",41
+"10","York","Ward 1",NA,"President","DEM","Hillary Clinton",59
+"11","York","Ward 2A",NA,"President","DEM","Hillary Clinton",78
+"12","York","Ward 2B",NA,"President","DEM","Hillary Clinton",83
+"13","York","Ward 3",NA,"President","DEM","Hillary Clinton",65
+"14","York","Ward 4A",NA,"President","DEM","Hillary Clinton",109
+"15","York","Ward 4B",NA,"President","DEM","Hillary Clinton",105
+"16","York","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",73
+"17","York","Brown Hend",NA,"President","LIB","Gary Johnson",22
+"18","York","Countywide",NA,"President","LIB","Gary Johnson",0
+"19","York","Hays McFadden",NA,"President","LIB","Gary Johnson",21
+"20","York","LeRoy Baker",NA,"President","LIB","Gary Johnson",9
+"21","York","MABL",NA,"President","LIB","Gary Johnson",14
+"22","York","New/Former Resident",NA,"President","LIB","Gary Johnson",0
+"23","York","Ny Waco Beav WB",NA,"President","LIB","Gary Johnson",17
+"24","York","Stewart Thayer",NA,"President","LIB","Gary Johnson",15
+"25","York","Ward 1",NA,"President","LIB","Gary Johnson",26
+"26","York","Ward 2A",NA,"President","LIB","Gary Johnson",25
+"27","York","Ward 2B",NA,"President","LIB","Gary Johnson",40
+"28","York","Ward 3",NA,"President","LIB","Gary Johnson",21
+"29","York","Ward 4A",NA,"President","LIB","Gary Johnson",33
+"30","York","Ward 4B",NA,"President","LIB","Gary Johnson",29
+"31","York","Absentee/Early Vote",NA,"President","","Jill Stein",11
+"32","York","Brown Hend",NA,"President","","Jill Stein",3
+"33","York","Countywide",NA,"President","","Jill Stein",0
+"34","York","Hays McFadden",NA,"President","","Jill Stein",0
+"35","York","LeRoy Baker",NA,"President","","Jill Stein",4
+"36","York","MABL",NA,"President","","Jill Stein",1
+"37","York","New/Former Resident",NA,"President","","Jill Stein",0
+"38","York","Ny Waco Beav WB",NA,"President","","Jill Stein",5
+"39","York","Stewart Thayer",NA,"President","","Jill Stein",2
+"40","York","Ward 1",NA,"President","","Jill Stein",0
+"41","York","Ward 2A",NA,"President","","Jill Stein",6
+"42","York","Ward 2B",NA,"President","","Jill Stein",0
+"43","York","Ward 3",NA,"President","","Jill Stein",5
+"44","York","Ward 4A",NA,"President","","Jill Stein",10
+"45","York","Ward 4B",NA,"President","","Jill Stein",5
+"46","York","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",856
+"47","York","Brown Hend",NA,"President","REP","Donald J. Trump",565
+"48","York","Countywide",NA,"President","REP","Donald J. Trump",0
+"49","York","Hays McFadden",NA,"President","REP","Donald J. Trump",294
+"50","York","LeRoy Baker",NA,"President","REP","Donald J. Trump",171
+"51","York","MABL",NA,"President","REP","Donald J. Trump",374
+"52","York","New/Former Resident",NA,"President","REP","Donald J. Trump",0
+"53","York","Ny Waco Beav WB",NA,"President","REP","Donald J. Trump",358
+"54","York","Stewart Thayer",NA,"President","REP","Donald J. Trump",205
+"55","York","Ward 1",NA,"President","REP","Donald J. Trump",289
+"56","York","Ward 2A",NA,"President","REP","Donald J. Trump",288
+"57","York","Ward 2B",NA,"President","REP","Donald J. Trump",282
+"58","York","Ward 3",NA,"President","REP","Donald J. Trump",230
+"59","York","Ward 4A",NA,"President","REP","Donald J. Trump",426
+"60","York","Ward 4B",NA,"President","REP","Donald J. Trump",362
+"61","York","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",1048
+"62","York","Brown Hend",3,"U.S. House","REP","Adrian Smith",630
+"63","York","Countywide",3,"U.S. House","REP","Adrian Smith",0
+"64","York","Hays McFadden",3,"U.S. House","REP","Adrian Smith",307
+"65","York","LeRoy Baker",3,"U.S. House","REP","Adrian Smith",189
+"66","York","MABL",3,"U.S. House","REP","Adrian Smith",411
+"67","York","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
+"68","York","Ny Waco Beav WB",3,"U.S. House","REP","Adrian Smith",410
+"69","York","Stewart Thayer",3,"U.S. House","REP","Adrian Smith",235
+"70","York","Ward 1",3,"U.S. House","REP","Adrian Smith",345
+"71","York","Ward 2A",3,"U.S. House","REP","Adrian Smith",360
+"72","York","Ward 2B",3,"U.S. House","REP","Adrian Smith",350
+"73","York","Ward 3",3,"U.S. House","REP","Adrian Smith",289
+"74","York","Ward 4A",3,"U.S. House","REP","Adrian Smith",519
+"75","York","Ward 4B",3,"U.S. House","REP","Adrian Smith",451

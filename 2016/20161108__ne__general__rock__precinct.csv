@@ -1,21 +1,21 @@
-county,precinct,office,district,party,candidate,voters
-Rock,Absentee/Early Vote,President,,Democratic,Hillary Clinton,23
-Rock,Countywide,President,,Democratic,Hillary Clinton,47
-Rock,New/Former Resident,President,,Democratic,Hillary Clinton,0
-Rock,Rock,President,,Democratic,Hillary Clinton,0
-Rock,Absentee/Early Vote,President,,Libertarian,Gary Johnson,12
-Rock,Countywide,President,,Libertarian,Gary Johnson,21
-Rock,New/Former Resident,President,,Libertarian,Gary Johnson,0
-Rock,Rock,President,,Libertarian,Gary Johnson,0
-Rock,Absentee/Early Vote,President,,,Jill Stein,1
-Rock,Countywide,President,,,Jill Stein,3
-Rock,New/Former Resident,President,,,Jill Stein,0
-Rock,Rock,President,,,Jill Stein,0
-Rock,Absentee/Early Vote,President,,Republican,Donald J. Trump,185
-Rock,Countywide,President,,Republican,Donald J. Trump,502
-Rock,New/Former Resident,President,,Republican,Donald J. Trump,0
-Rock,Rock,President,,Republican,Donald J. Trump,0
-Rock,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,195
-Rock,Countywide,U.S. House,3,Republican,Adrian Smith,498
-Rock,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
-Rock,Rock,U.S. House,3,Republican,Adrian Smith,0
+"","county","precinct","district","office","party","candidate","votes"
+"1","Rock","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",23
+"2","Rock","Countywide",NA,"President","DEM","Hillary Clinton",47
+"3","Rock","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
+"4","Rock","Rock",NA,"President","DEM","Hillary Clinton",0
+"5","Rock","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",12
+"6","Rock","Countywide",NA,"President","LIB","Gary Johnson",21
+"7","Rock","New/Former Resident",NA,"President","LIB","Gary Johnson",0
+"8","Rock","Rock",NA,"President","LIB","Gary Johnson",0
+"9","Rock","Absentee/Early Vote",NA,"President","","Jill Stein",1
+"10","Rock","Countywide",NA,"President","","Jill Stein",3
+"11","Rock","New/Former Resident",NA,"President","","Jill Stein",0
+"12","Rock","Rock",NA,"President","","Jill Stein",0
+"13","Rock","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",185
+"14","Rock","Countywide",NA,"President","REP","Donald J. Trump",502
+"15","Rock","New/Former Resident",NA,"President","REP","Donald J. Trump",0
+"16","Rock","Rock",NA,"President","REP","Donald J. Trump",0
+"17","Rock","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",195
+"18","Rock","Countywide",3,"U.S. House","REP","Adrian Smith",498
+"19","Rock","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
+"20","Rock","Rock",3,"U.S. House","REP","Adrian Smith",0

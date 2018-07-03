@@ -1,43 +1,43 @@
-county,precinct,office,district,party,candidate,election_day,early_voting,votes
-Nance,BGCP,President,,Republican,Donald J. Trump,220,41,261
-Nance,CLFWE,President,,Republican,Donald J. Trump,143,56,199
-Nance,CTS,President,,Republican,Donald J. Trump,106,16,122
-Nance,Fullerton,President,,Republican,Donald J. Trump,300,76,376
-Nance,Genoa I,President,,Republican,Donald J. Trump,134,12,146
-Nance,Genoa II,President,,Republican,Donald J. Trump,133,23,156
-Nance,BGCP,President,,Democratic,Hillary Clinton,38,8,46
-Nance,CLFWE,President,,Democratic,Hillary Clinton,21,14,35
-Nance,CTS,President,,Democratic,Hillary Clinton,20,3,23
-Nance,Fullerton,President,,Democratic,Hillary Clinton,74,35,109
-Nance,Genoa I,President,,Democratic,Hillary Clinton,35,3,38
-Nance,Genoa II,President,,Democratic,Hillary Clinton,25,4,29
-Nance,BGCP,President,,Libertarian,Gary Johnson,4,5,9
-Nance,CLFWE,President,,Libertarian,Gary Johnson,1,0,1
-Nance,CTS,President,,Libertarian,Gary Johnson,5,0,5
-Nance,Fullerton,President,,Libertarian,Gary Johnson,11,5,16
-Nance,Genoa I,President,,Libertarian,Gary Johnson,9,0,9
-Nance,Genoa II,President,,Libertarian,Gary Johnson,5,2,7
-Nance,BGCP,President,,,Jill Stein,0,0,0
-Nance,CLFWE,President,,,Jill Stein,0,0,0
-Nance,CTS,President,,,Jill Stein,8,0,8
-Nance,Fullerton,President,,,Jill Stein,4,0,4
-Nance,Genoa I,President,,,Jill Stein,1,0,1
-Nance,Genoa II,President,,,Jill Stein,1,0,1
-Nance,BGCP,President,,,Write-ins,2,1,3
-Nance,CLFWE,President,,,Write-ins,1,1,2
-Nance,CTS,President,,,Write-ins,2,1,3
-Nance,Fullerton,President,,,Write-ins,8,0,8
-Nance,Genoa I,President,,,Write-ins,1,0,1
-Nance,Genoa II,President,,,Write-ins,0,0,0
-Nance,BGCP,U.S. House,3,Republican,Adrian Smith,216,41,257
-Nance,CLFWE,U.S. House,3,Republican,Adrian Smith,123,49,172
-Nance,CTS,U.S. House,3,Republican,Adrian Smith,111,16,127
-Nance,Fullerton,U.S. House,3,Republican,Adrian Smith,315,88,403
-Nance,Genoa I,U.S. House,3,Republican,Adrian Smith,149,12,161
-Nance,Genoa II,U.S. House,3,Republican,Adrian Smith,135,21,156
-Nance,BGCP,U.S. House,3,,Write-ins,0,1,1
-Nance,CLFWE,U.S. House,3,,Write-ins,2,0,2
-Nance,CTS,U.S. House,3,,Write-ins,0,0,0
-Nance,Fullerton,U.S. House,3,,Write-ins,2,0,2
-Nance,Genoa I,U.S. House,3,,Write-ins,3,2,5
-Nance,Genoa II,U.S. House,3,,Write-ins,4,1,5
+"","county","precinct","district","office","party","candidate","votes"
+"1","Nance","BGCP",NA,"President","REP","Donald J. Trump",261
+"2","Nance","CLFWE",NA,"President","REP","Donald J. Trump",199
+"3","Nance","CTS",NA,"President","REP","Donald J. Trump",122
+"4","Nance","Fullerton",NA,"President","REP","Donald J. Trump",376
+"5","Nance","Genoa I",NA,"President","REP","Donald J. Trump",146
+"6","Nance","Genoa II",NA,"President","REP","Donald J. Trump",156
+"7","Nance","BGCP",NA,"President","DEM","Hillary Clinton",46
+"8","Nance","CLFWE",NA,"President","DEM","Hillary Clinton",35
+"9","Nance","CTS",NA,"President","DEM","Hillary Clinton",23
+"10","Nance","Fullerton",NA,"President","DEM","Hillary Clinton",109
+"11","Nance","Genoa I",NA,"President","DEM","Hillary Clinton",38
+"12","Nance","Genoa II",NA,"President","DEM","Hillary Clinton",29
+"13","Nance","BGCP",NA,"President","LIB","Gary Johnson",9
+"14","Nance","CLFWE",NA,"President","LIB","Gary Johnson",1
+"15","Nance","CTS",NA,"President","LIB","Gary Johnson",5
+"16","Nance","Fullerton",NA,"President","LIB","Gary Johnson",16
+"17","Nance","Genoa I",NA,"President","LIB","Gary Johnson",9
+"18","Nance","Genoa II",NA,"President","LIB","Gary Johnson",7
+"19","Nance","BGCP",NA,"President","","Jill Stein",0
+"20","Nance","CLFWE",NA,"President","","Jill Stein",0
+"21","Nance","CTS",NA,"President","","Jill Stein",8
+"22","Nance","Fullerton",NA,"President","","Jill Stein",4
+"23","Nance","Genoa I",NA,"President","","Jill Stein",1
+"24","Nance","Genoa II",NA,"President","","Jill Stein",1
+"25","Nance","BGCP",NA,"President","","Write-ins",3
+"26","Nance","CLFWE",NA,"President","","Write-ins",2
+"27","Nance","CTS",NA,"President","","Write-ins",3
+"28","Nance","Fullerton",NA,"President","","Write-ins",8
+"29","Nance","Genoa I",NA,"President","","Write-ins",1
+"30","Nance","Genoa II",NA,"President","","Write-ins",0
+"31","Nance","BGCP",3,"U.S. House","REP","Adrian Smith",257
+"32","Nance","CLFWE",3,"U.S. House","REP","Adrian Smith",172
+"33","Nance","CTS",3,"U.S. House","REP","Adrian Smith",127
+"34","Nance","Fullerton",3,"U.S. House","REP","Adrian Smith",403
+"35","Nance","Genoa I",3,"U.S. House","REP","Adrian Smith",161
+"36","Nance","Genoa II",3,"U.S. House","REP","Adrian Smith",156
+"37","Nance","BGCP",3,"U.S. House","","Write-ins",1
+"38","Nance","CLFWE",3,"U.S. House","","Write-ins",2
+"39","Nance","CTS",3,"U.S. House","","Write-ins",0
+"40","Nance","Fullerton",3,"U.S. House","","Write-ins",2
+"41","Nance","Genoa I",3,"U.S. House","","Write-ins",5
+"42","Nance","Genoa II",3,"U.S. House","","Write-ins",5

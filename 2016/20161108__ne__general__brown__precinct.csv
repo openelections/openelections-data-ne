@@ -1,35 +1,35 @@
-county,precinct,office,district,party,candidate,votes,election_day,absentee
-Brown,Ainsworth,Registered Voters,,,,607,,
-Brown,Ainsworth,Ballots Cast,,,,487,396,91
-Brown,Ainsworth,President,,REP,Donald J. Trump,432,359,73
-Brown,Ainsworth,President,,DEM,Hillary Clinton,38,25,13
-Brown,Ainsworth,President,,LIB,Gary Johnson,6,5,1
-Brown,Ainsworth,President,,,Jill Stein,2,2,0
-Brown,Ainsworth,President,,,Write-ins,4,1,3
-Brown,Ainsworth,U.S. House,3,,Adrian Smith,410,334,76
-Brown,Ainsworth,U.S. House,3,,Write-ins,5,5,0
-Brown,Ainsworth,State Legislature,43,,Al Davis,192,152,40
-Brown,Ainsworth,State Legislature,43,,Tom Brewer,285,234,51
-Brown,City of Ainsworth,Registered Voters,,,,1084,,
-Brown,City of Ainsworth,Ballots Cast,,,,803,684,119
-Brown,City of Ainsworth,President,,REP,Donald J. Trump,668,572,96
-Brown,City of Ainsworth,President,,DEM,Hillary Clinton,83,71,12
-Brown,City of Ainsworth,President,,LIB,Gary Johnson,22,20,2
-Brown,City of Ainsworth,President,,,Jill Stein,4,3,1
-Brown,City of Ainsworth,President,,,Write-ins,13,8,5
-Brown,City of Ainsworth,U.S. House,3,,Adrian Smith,687,593,94
-Brown,City of Ainsworth,U.S. House,3,,Write-ins,8,3,5
-Brown,City of Ainsworth,State Legislature,43,,Al Davis,442,390,52
-Brown,City of Ainsworth,State Legislature,43,,Tom Brewer,330,277,53
-Brown,The Pines,Registered Voters,,,,438,,
-Brown,The Pines,Ballots Cast,,,,326,241,85
-Brown,The Pines,President,,REP,Donald J. Trump,278,208,70
-Brown,The Pines,President,,DEM,Hillary Clinton,32,20,12
-Brown,The Pines,President,,LIB,Gary Johnson,11,10,1
-Brown,The Pines,President,,,Jill Stein,1,0,1
-Brown,The Pines,President,,,Write-ins,0,0,0
-Brown,The Pines,U.S. House,3,,Adrian Smith,279,209,70
-Brown,The Pines,U.S. House,3,,Write-ins,3,2,1
-Brown,The Pines,State Legislature,43,,Al Davis,150,107,43
-Brown,The Pines,State Legislature,43,,Tom Brewer,164,128,36
-Brown,The Pines,State Legislature,43,,Write-ins,1,1,0
+"","county","precinct","district","office","party","candidate","votes"
+"1","Brown","Ainsworth",NA,"Registered Voters","","",607
+"2","Brown","Ainsworth",NA,"Ballots Cast","","",487
+"3","Brown","Ainsworth",NA,"President","REP","Donald J. Trump",432
+"4","Brown","Ainsworth",NA,"President","DEM","Hillary Clinton",38
+"5","Brown","Ainsworth",NA,"President","LIB","Gary Johnson",6
+"6","Brown","Ainsworth",NA,"President","","Jill Stein",2
+"7","Brown","Ainsworth",NA,"President","","Write-ins",4
+"8","Brown","Ainsworth",3,"U.S. House","","Adrian Smith",410
+"9","Brown","Ainsworth",3,"U.S. House","","Write-ins",5
+"10","Brown","Ainsworth",43,"State Legislature","","Al Davis",192
+"11","Brown","Ainsworth",43,"State Legislature","","Tom Brewer",285
+"12","Brown","City of Ainsworth",NA,"Registered Voters","","",1084
+"13","Brown","City of Ainsworth",NA,"Ballots Cast","","",803
+"14","Brown","City of Ainsworth",NA,"President","REP","Donald J. Trump",668
+"15","Brown","City of Ainsworth",NA,"President","DEM","Hillary Clinton",83
+"16","Brown","City of Ainsworth",NA,"President","LIB","Gary Johnson",22
+"17","Brown","City of Ainsworth",NA,"President","","Jill Stein",4
+"18","Brown","City of Ainsworth",NA,"President","","Write-ins",13
+"19","Brown","City of Ainsworth",3,"U.S. House","","Adrian Smith",687
+"20","Brown","City of Ainsworth",3,"U.S. House","","Write-ins",8
+"21","Brown","City of Ainsworth",43,"State Legislature","","Al Davis",442
+"22","Brown","City of Ainsworth",43,"State Legislature","","Tom Brewer",330
+"23","Brown","The Pines",NA,"Registered Voters","","",438
+"24","Brown","The Pines",NA,"Ballots Cast","","",326
+"25","Brown","The Pines",NA,"President","REP","Donald J. Trump",278
+"26","Brown","The Pines",NA,"President","DEM","Hillary Clinton",32
+"27","Brown","The Pines",NA,"President","LIB","Gary Johnson",11
+"28","Brown","The Pines",NA,"President","","Jill Stein",1
+"29","Brown","The Pines",NA,"President","","Write-ins",0
+"30","Brown","The Pines",3,"U.S. House","","Adrian Smith",279
+"31","Brown","The Pines",3,"U.S. House","","Write-ins",3
+"32","Brown","The Pines",43,"State Legislature","","Al Davis",150
+"33","Brown","The Pines",43,"State Legislature","","Tom Brewer",164
+"34","Brown","The Pines",43,"State Legislature","","Write-ins",1

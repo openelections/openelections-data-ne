@@ -1,66 +1,66 @@
-county,precinct,office,district,party,candidate,votes
-Kearney,1,President,,Republican,Donald Trump,77
-Kearney,1,President,,Libertarian,Gary Johnson,10
-Kearney,1,President,,Democrat,Hillary Clinton,4
-Kearney,1,President,,Green,Jill Stein,0
-Kearney,2,President,,Republican,Donald Trump,295
-Kearney,2,President,,Libertarian,Gary Johnson,61
-Kearney,2,President,,Democrat,Hillary Clinton,12
-Kearney,2,President,,Green,Jill Stein,2
-Kearney,4,President,,Republican,Donald Trump,200
-Kearney,4,President,,Libertarian,Gary Johnson,12
-Kearney,4,President,,Democrat,Hillary Clinton,2
-Kearney,4,President,,Green,Jill Stein,2
-Kearney,5,President,,Republican,Donald Trump,170
-Kearney,5,President,,Libertarian,Gary Johnson,27
-Kearney,5,President,,Democrat,Hillary Clinton,12
-Kearney,5,President,,Green,Jill Stein,2
-Kearney,6,President,,Republican,Donald Trump,58
-Kearney,6,President,,Libertarian,Gary Johnson,7
-Kearney,6,President,,Democrat,Hillary Clinton,8
-Kearney,6,President,,Green,Jill Stein,2
-Kearney,7,President,,Republican,Donald Trump,341
-Kearney,7,President,,Libertarian,Gary Johnson,60
-Kearney,7,President,,Democrat,Hillary Clinton,19
-Kearney,7,President,,Green,Jill Stein,5
-Kearney,8,President,,Republican,Donald Trump,169
-Kearney,8,President,,Libertarian,Gary Johnson,19
-Kearney,8,President,,Democrat,Hillary Clinton,5
-Kearney,8,President,,Green,Jill Stein,1
-Kearney,9,President,,Republican,Donald Trump,63
-Kearney,9,President,,Libertarian,Gary Johnson,9
-Kearney,9,President,,Democrat,Hillary Clinton,4
-Kearney,9,President,,Green,Jill Stein,0
-Kearney,10,President,,Republican,Donald Trump,245
-Kearney,10,President,,Libertarian,Gary Johnson,81
-Kearney,10,President,,Democrat,Hillary Clinton,14
-Kearney,10,President,,Green,Jill Stein,3
-Kearney,11,President,,Republican,Donald Trump,355
-Kearney,11,President,,Libertarian,Gary Johnson,84
-Kearney,11,President,,Democrat,Hillary Clinton,21
-Kearney,11,President,,Green,Jill Stein,3
-Kearney,12,President,,Republican,Donald Trump,283
-Kearney,12,President,,Libertarian,Gary Johnson,82
-Kearney,12,President,,Democrat,Hillary Clinton,23
-Kearney,12,President,,Green,Jill Stein,4
-Kearney,Early Vote,President,,Republican,Donald Trump,275
-Kearney,Early Vote,President,,Libertarian,Gary Johnson,98
-Kearney,Early Vote,President,,Democrat,Hillary Clinton,24
-Kearney,Early Vote,President,,Green,Jill Stein,2
-Kearney,Total,President,,Republican,Donald Trump,2531
-Kearney,Total,President,,Libertarian,Gary Johnson,550
-Kearney,Total,President,,Democrat,Hillary Clinton,148
-Kearney,Total,President,,Green,Jill Stein,26
-Kearney,1,U.S. House,3,Republican,Adrian Smith,79
-Kearney,2,U.S. House,3,Republican,Adrian Smith,311
-Kearney,4,U.S. House,3,Republican,Adrian Smith,197
-Kearney,5,U.S. House,3,Republican,Adrian Smith,186
-Kearney,6,U.S. House,3,Republican,Adrian Smith,70
-Kearney,7,U.S. House,3,Republican,Adrian Smith,396
-Kearney,8,U.S. House,3,Republican,Adrian Smith,180
-Kearney,9,U.S. House,3,Republican,Adrian Smith,69
-Kearney,10,U.S. House,3,Republican,Adrian Smith,305
-Kearney,11,U.S. House,3,Republican,Adrian Smith,430
-Kearney,12,U.S. House,3,Republican,Adrian Smith,356
-Kearney,Early Vote,U.S. House,3,Republican,Adrian Smith,337
-Kearney,Total,U.S. House,3,Republican,Adrian Smith,2916
+"","county","precinct","district","office","party","candidate","votes"
+"1","Kearney","1",NA,"President","REP","Donald J. Trump",77
+"2","Kearney","1",NA,"President","LIB","Gary Johnson",10
+"3","Kearney","1",NA,"President","DEM","Hillary Clinton",4
+"4","Kearney","1",NA,"President","GRE","Jill Stein",0
+"5","Kearney","2",NA,"President","REP","Donald J. Trump",295
+"6","Kearney","2",NA,"President","LIB","Gary Johnson",61
+"7","Kearney","2",NA,"President","DEM","Hillary Clinton",12
+"8","Kearney","2",NA,"President","GRE","Jill Stein",2
+"9","Kearney","4",NA,"President","REP","Donald J. Trump",200
+"10","Kearney","4",NA,"President","LIB","Gary Johnson",12
+"11","Kearney","4",NA,"President","DEM","Hillary Clinton",2
+"12","Kearney","4",NA,"President","GRE","Jill Stein",2
+"13","Kearney","5",NA,"President","REP","Donald J. Trump",170
+"14","Kearney","5",NA,"President","LIB","Gary Johnson",27
+"15","Kearney","5",NA,"President","DEM","Hillary Clinton",12
+"16","Kearney","5",NA,"President","GRE","Jill Stein",2
+"17","Kearney","6",NA,"President","REP","Donald J. Trump",58
+"18","Kearney","6",NA,"President","LIB","Gary Johnson",7
+"19","Kearney","6",NA,"President","DEM","Hillary Clinton",8
+"20","Kearney","6",NA,"President","GRE","Jill Stein",2
+"21","Kearney","7",NA,"President","REP","Donald J. Trump",341
+"22","Kearney","7",NA,"President","LIB","Gary Johnson",60
+"23","Kearney","7",NA,"President","DEM","Hillary Clinton",19
+"24","Kearney","7",NA,"President","GRE","Jill Stein",5
+"25","Kearney","8",NA,"President","REP","Donald J. Trump",169
+"26","Kearney","8",NA,"President","LIB","Gary Johnson",19
+"27","Kearney","8",NA,"President","DEM","Hillary Clinton",5
+"28","Kearney","8",NA,"President","GRE","Jill Stein",1
+"29","Kearney","9",NA,"President","REP","Donald J. Trump",63
+"30","Kearney","9",NA,"President","LIB","Gary Johnson",9
+"31","Kearney","9",NA,"President","DEM","Hillary Clinton",4
+"32","Kearney","9",NA,"President","GRE","Jill Stein",0
+"33","Kearney","10",NA,"President","REP","Donald J. Trump",245
+"34","Kearney","10",NA,"President","LIB","Gary Johnson",81
+"35","Kearney","10",NA,"President","DEM","Hillary Clinton",14
+"36","Kearney","10",NA,"President","GRE","Jill Stein",3
+"37","Kearney","11",NA,"President","REP","Donald J. Trump",355
+"38","Kearney","11",NA,"President","LIB","Gary Johnson",84
+"39","Kearney","11",NA,"President","DEM","Hillary Clinton",21
+"40","Kearney","11",NA,"President","GRE","Jill Stein",3
+"41","Kearney","12",NA,"President","REP","Donald J. Trump",283
+"42","Kearney","12",NA,"President","LIB","Gary Johnson",82
+"43","Kearney","12",NA,"President","DEM","Hillary Clinton",23
+"44","Kearney","12",NA,"President","GRE","Jill Stein",4
+"45","Kearney","Early Vote",NA,"President","REP","Donald J. Trump",275
+"46","Kearney","Early Vote",NA,"President","LIB","Gary Johnson",98
+"47","Kearney","Early Vote",NA,"President","DEM","Hillary Clinton",24
+"48","Kearney","Early Vote",NA,"President","GRE","Jill Stein",2
+"49","Kearney","Total",NA,"President","REP","Donald J. Trump",2531
+"50","Kearney","Total",NA,"President","LIB","Gary Johnson",550
+"51","Kearney","Total",NA,"President","DEM","Hillary Clinton",148
+"52","Kearney","Total",NA,"President","GRE","Jill Stein",26
+"53","Kearney","1",3,"U.S. House","REP","Adrian Smith",79
+"54","Kearney","2",3,"U.S. House","REP","Adrian Smith",311
+"55","Kearney","4",3,"U.S. House","REP","Adrian Smith",197
+"56","Kearney","5",3,"U.S. House","REP","Adrian Smith",186
+"57","Kearney","6",3,"U.S. House","REP","Adrian Smith",70
+"58","Kearney","7",3,"U.S. House","REP","Adrian Smith",396
+"59","Kearney","8",3,"U.S. House","REP","Adrian Smith",180
+"60","Kearney","9",3,"U.S. House","REP","Adrian Smith",69
+"61","Kearney","10",3,"U.S. House","REP","Adrian Smith",305
+"62","Kearney","11",3,"U.S. House","REP","Adrian Smith",430
+"63","Kearney","12",3,"U.S. House","REP","Adrian Smith",356
+"64","Kearney","Early Vote",3,"U.S. House","REP","Adrian Smith",337
+"65","Kearney","Total",3,"U.S. House","REP","Adrian Smith",2916

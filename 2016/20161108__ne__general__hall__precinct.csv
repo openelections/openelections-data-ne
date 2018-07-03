@@ -1,188 +1,188 @@
-county,precinct,office,district,party,candidate,votes
-Hall,1,United States Representative,3,REP,Adrian Smith,765
-Hall,2,United States Representative,3,REP,Adrian Smith,314
-Hall,3,United States Representative,3,REP,Adrian Smith,660
-Hall,4,United States Representative,3,REP,Adrian Smith,556
-Hall,5,United States Representative,3,REP,Adrian Smith,878
-Hall,6,United States Representative,3,REP,Adrian Smith,835
-Hall,7,United States Representative,3,REP,Adrian Smith,719
-Hall,8,United States Representative,3,REP,Adrian Smith,808
-Hall,9,United States Representative,3,REP,Adrian Smith,985
-Hall,10,United States Representative,3,REP,Adrian Smith,781
-Hall,11,United States Representative,3,REP,Adrian Smith,780
-Hall,12,United States Representative,3,REP,Adrian Smith,560
-Hall,13,United States Representative,3,REP,Adrian Smith,1068
-Hall,14,United States Representative,3,REP,Adrian Smith,1282
-Hall,15,United States Representative,3,REP,Adrian Smith,1060
-Hall,16,United States Representative,3,REP,Adrian Smith,834
-Hall,17,United States Representative,3,REP,Adrian Smith,611
-Hall,18,United States Representative,3,REP,Adrian Smith,475
-Hall,19,United States Representative,3,REP,Adrian Smith,437
-Hall,20,United States Representative,3,REP,Adrian Smith,294
-Hall,21,United States Representative,3,REP,Adrian Smith,560
-Hall,22,United States Representative,3,REP,Adrian Smith,383
-Hall,23,United States Representative,3,REP,Adrian Smith,403
-Hall,24,United States Representative,3,REP,Adrian Smith,434
-Hall,25,United States Representative,3,REP,Adrian Smith,463
-Hall,26,United States Representative,3,REP,Adrian Smith,383
-Hall,1,United States Representative,3,NON,Write-in,42
-Hall,2,United States Representative,3,NON,Write-in,23
-Hall,3,United States Representative,3,NON,Write-in,43
-Hall,4,United States Representative,3,NON,Write-in,19
-Hall,5,United States Representative,3,NON,Write-in,31
-Hall,6,United States Representative,3,NON,Write-in,28
-Hall,7,United States Representative,3,NON,Write-in,27
-Hall,8,United States Representative,3,NON,Write-in,45
-Hall,9,United States Representative,3,NON,Write-in,31
-Hall,10,United States Representative,3,NON,Write-in,31
-Hall,11,United States Representative,3,NON,Write-in,27
-Hall,12,United States Representative,3,NON,Write-in,38
-Hall,13,United States Representative,3,NON,Write-in,29
-Hall,14,United States Representative,3,NON,Write-in,31
-Hall,15,United States Representative,3,NON,Write-in,33
-Hall,16,United States Representative,3,NON,Write-in,17
-Hall,17,United States Representative,3,NON,Write-in,23
-Hall,18,United States Representative,3,NON,Write-in,26
-Hall,19,United States Representative,3,NON,Write-in,14
-Hall,20,United States Representative,3,NON,Write-in,7
-Hall,21,United States Representative,3,NON,Write-in,5
-Hall,22,United States Representative,3,NON,Write-in,6
-Hall,23,United States Representative,3,NON,Write-in,10
-Hall,24,United States Representative,3,NON,Write-in,6
-Hall,25,United States Representative,3,NON,Write-in,11
-Hall,26,United States Representative,3,NON,Write-in,7
-Hall,1,President/Vice President,,REP,Trump/Pence,540
-Hall,2,President/Vice President,,REP,Trump/Pence,197
-Hall,3,President/Vice President,,REP,Trump/Pence,502
-Hall,4,President/Vice President,,REP,Trump/Pence,475
-Hall,5,President/Vice President,,REP,Trump/Pence,776
-Hall,6,President/Vice President,,REP,Trump/Pence,699
-Hall,7,President/Vice President,,REP,Trump/Pence,542
-Hall,8,President/Vice President,,REP,Trump/Pence,625
-Hall,9,President/Vice President,,REP,Trump/Pence,830
-Hall,10,President/Vice President,,REP,Trump/Pence,586
-Hall,11,President/Vice President,,REP,Trump/Pence,635
-Hall,12,President/Vice President,,REP,Trump/Pence,377
-Hall,13,President/Vice President,,REP,Trump/Pence,931
-Hall,14,President/Vice President,,REP,Trump/Pence,1125
-Hall,15,President/Vice President,,REP,Trump/Pence,897
-Hall,16,President/Vice President,,REP,Trump/Pence,747
-Hall,17,President/Vice President,,REP,Trump/Pence,503
-Hall,18,President/Vice President,,REP,Trump/Pence,340
-Hall,19,President/Vice President,,REP,Trump/Pence,384
-Hall,20,President/Vice President,,REP,Trump/Pence,291
-Hall,21,President/Vice President,,REP,Trump/Pence,514
-Hall,22,President/Vice President,,REP,Trump/Pence,290
-Hall,23,President/Vice President,,REP,Trump/Pence,366
-Hall,24,President/Vice President,,REP,Trump/Pence,425
-Hall,25,President/Vice President,,REP,Trump/Pence,428
-Hall,26,President/Vice President,,REP,Trump/Pence,380
-Hall,27,President/Vice President,,REP,Trump/Pence,3
-Hall,1,President/Vice President,,DEM,Clinton/Kaine,396
-Hall,2,President/Vice President,,DEM,Clinton/Kaine,212
-Hall,3,President/Vice President,,DEM,Clinton/Kaine,327
-Hall,4,President/Vice President,,DEM,Clinton/Kaine,229
-Hall,5,President/Vice President,,DEM,Clinton/Kaine,288
-Hall,6,President/Vice President,,DEM,Clinton/Kaine,291
-Hall,7,President/Vice President,,DEM,Clinton/Kaine,312
-Hall,8,President/Vice President,,DEM,Clinton/Kaine,391
-Hall,9,President/Vice President,,DEM,Clinton/Kaine,349
-Hall,10,President/Vice President,,DEM,Clinton/Kaine,354
-Hall,11,President/Vice President,,DEM,Clinton/Kaine,326
-Hall,12,President/Vice President,,DEM,Clinton/Kaine,307
-Hall,13,President/Vice President,,DEM,Clinton/Kaine,330
-Hall,14,President/Vice President,,DEM,Clinton/Kaine,310
-Hall,15,President/Vice President,,DEM,Clinton/Kaine,339
-Hall,16,President/Vice President,,DEM,Clinton/Kaine,225
-Hall,17,President/Vice President,,DEM,Clinton/Kaine,232
-Hall,18,President/Vice President,,DEM,Clinton/Kaine,250
-Hall,19,President/Vice President,,DEM,Clinton/Kaine,136
-Hall,20,President/Vice President,,DEM,Clinton/Kaine,53
-Hall,21,President/Vice President,,DEM,Clinton/Kaine,110
-Hall,22,President/Vice President,,DEM,Clinton/Kaine,146
-Hall,23,President/Vice President,,DEM,Clinton/Kaine,84
-Hall,24,President/Vice President,,DEM,Clinton/Kaine,86
-Hall,25,President/Vice President,,DEM,Clinton/Kaine,105
-Hall,26,President/Vice President,,DEM,Clinton/Kaine,94
-Hall,27,President/Vice President,,DEM,Clinton/Kaine,0
-Hall,1,President/Vice President,,LIB,Johnson/Weld,40
-Hall,2,President/Vice President,,LIB,Johnson/Weld,19
-Hall,3,President/Vice President,,LIB,Johnson/Weld,46
-Hall,4,President/Vice President,,LIB,Johnson/Weld,17
-Hall,5,President/Vice President,,LIB,Johnson/Weld,37
-Hall,6,President/Vice President,,LIB,Johnson/Weld,40
-Hall,7,President/Vice President,,LIB,Johnson/Weld,48
-Hall,8,President/Vice President,,LIB,Johnson/Weld,64
-Hall,9,President/Vice President,,LIB,Johnson/Weld,57
-Hall,10,President/Vice President,,LIB,Johnson/Weld,55
-Hall,11,President/Vice President,,LIB,Johnson/Weld,47
-Hall,12,President/Vice President,,LIB,Johnson/Weld,39
-Hall,13,President/Vice President,,LIB,Johnson/Weld,46
-Hall,14,President/Vice President,,LIB,Johnson/Weld,49
-Hall,15,President/Vice President,,LIB,Johnson/Weld,44
-Hall,16,President/Vice President,,LIB,Johnson/Weld,37
-Hall,17,President/Vice President,,LIB,Johnson/Weld,37
-Hall,18,President/Vice President,,LIB,Johnson/Weld,30
-Hall,19,President/Vice President,,LIB,Johnson/Weld,17
-Hall,20,President/Vice President,,LIB,Johnson/Weld,12
-Hall,21,President/Vice President,,LIB,Johnson/Weld,22
-Hall,22,President/Vice President,,LIB,Johnson/Weld,25
-Hall,23,President/Vice President,,LIB,Johnson/Weld,16
-Hall,24,President/Vice President,,LIB,Johnson/Weld,18
-Hall,25,President/Vice President,,LIB,Johnson/Weld,18
-Hall,26,President/Vice President,,LIB,Johnson/Weld,14
-Hall,27,President/Vice President,,LIB,Johnson/Weld,1
-Hall,1,President/Vice President,,PET,Stein/Baraka,7
-Hall,2,President/Vice President,,PET,Stein/Baraka,5
-Hall,3,President/Vice President,,PET,Stein/Baraka,8
-Hall,4,President/Vice President,,PET,Stein/Baraka,6
-Hall,5,President/Vice President,,PET,Stein/Baraka,7
-Hall,6,President/Vice President,,PET,Stein/Baraka,8
-Hall,7,President/Vice President,,PET,Stein/Baraka,13
-Hall,8,President/Vice President,,PET,Stein/Baraka,13
-Hall,9,President/Vice President,,PET,Stein/Baraka,13
-Hall,10,President/Vice President,,PET,Stein/Baraka,11
-Hall,11,President/Vice President,,PET,Stein/Baraka,15
-Hall,12,President/Vice President,,PET,Stein/Baraka,15
-Hall,13,President/Vice President,,PET,Stein/Baraka,2
-Hall,14,President/Vice President,,PET,Stein/Baraka,8
-Hall,15,President/Vice President,,PET,Stein/Baraka,7
-Hall,16,President/Vice President,,PET,Stein/Baraka,9
-Hall,17,President/Vice President,,PET,Stein/Baraka,3
-Hall,18,President/Vice President,,PET,Stein/Baraka,3
-Hall,19,President/Vice President,,PET,Stein/Baraka,2
-Hall,20,President/Vice President,,PET,Stein/Baraka,1
-Hall,21,President/Vice President,,PET,Stein/Baraka,8
-Hall,22,President/Vice President,,PET,Stein/Baraka,4
-Hall,23,President/Vice President,,PET,Stein/Baraka,7
-Hall,24,President/Vice President,,PET,Stein/Baraka,8
-Hall,25,President/Vice President,,PET,Stein/Baraka,7
-Hall,26,President/Vice President,,PET,Stein/Baraka,2
-Hall,27,President/Vice President,,PET,Stein/Baraka,0
-Hall,1,President/Vice President,,NON,Write-in,16
-Hall,2,President/Vice President,,NON,Write-in,7
-Hall,3,President/Vice President,,NON,Write-in,14
-Hall,4,President/Vice President,,NON,Write-in,6
-Hall,5,President/Vice President,,NON,Write-in,10
-Hall,6,President/Vice President,,NON,Write-in,21
-Hall,7,President/Vice President,,NON,Write-in,22
-Hall,8,President/Vice President,,NON,Write-in,15
-Hall,9,President/Vice President,,NON,Write-in,12
-Hall,10,President/Vice President,,NON,Write-in,15
-Hall,11,President/Vice President,,NON,Write-in,10
-Hall,12,President/Vice President,,NON,Write-in,9
-Hall,13,President/Vice President,,NON,Write-in,17
-Hall,14,President/Vice President,,NON,Write-in,32
-Hall,15,President/Vice President,,NON,Write-in,16
-Hall,16,President/Vice President,,NON,Write-in,12
-Hall,17,President/Vice President,,NON,Write-in,10
-Hall,18,President/Vice President,,NON,Write-in,0
-Hall,19,President/Vice President,,NON,Write-in,8
-Hall,20,President/Vice President,,NON,Write-in,0
-Hall,21,President/Vice President,,NON,Write-in,2
-Hall,22,President/Vice President,,NON,Write-in,6
-Hall,23,President/Vice President,,NON,Write-in,3
-Hall,24,President/Vice President,,NON,Write-in,6
-Hall,25,President/Vice President,,NON,Write-in,9
-Hall,26,President/Vice President,,NON,Write-in,5
-Hall,27,President/Vice President,,NON,Write-in,0
+"","county","precinct","district","office","party","candidate","votes"
+"1","Hall",1,3,"U.S. House","REP","Adrian Smith",765
+"2","Hall",2,3,"U.S. House","REP","Adrian Smith",314
+"3","Hall",3,3,"U.S. House","REP","Adrian Smith",660
+"4","Hall",4,3,"U.S. House","REP","Adrian Smith",556
+"5","Hall",5,3,"U.S. House","REP","Adrian Smith",878
+"6","Hall",6,3,"U.S. House","REP","Adrian Smith",835
+"7","Hall",7,3,"U.S. House","REP","Adrian Smith",719
+"8","Hall",8,3,"U.S. House","REP","Adrian Smith",808
+"9","Hall",9,3,"U.S. House","REP","Adrian Smith",985
+"10","Hall",10,3,"U.S. House","REP","Adrian Smith",781
+"11","Hall",11,3,"U.S. House","REP","Adrian Smith",780
+"12","Hall",12,3,"U.S. House","REP","Adrian Smith",560
+"13","Hall",13,3,"U.S. House","REP","Adrian Smith",1068
+"14","Hall",14,3,"U.S. House","REP","Adrian Smith",1282
+"15","Hall",15,3,"U.S. House","REP","Adrian Smith",1060
+"16","Hall",16,3,"U.S. House","REP","Adrian Smith",834
+"17","Hall",17,3,"U.S. House","REP","Adrian Smith",611
+"18","Hall",18,3,"U.S. House","REP","Adrian Smith",475
+"19","Hall",19,3,"U.S. House","REP","Adrian Smith",437
+"20","Hall",20,3,"U.S. House","REP","Adrian Smith",294
+"21","Hall",21,3,"U.S. House","REP","Adrian Smith",560
+"22","Hall",22,3,"U.S. House","REP","Adrian Smith",383
+"23","Hall",23,3,"U.S. House","REP","Adrian Smith",403
+"24","Hall",24,3,"U.S. House","REP","Adrian Smith",434
+"25","Hall",25,3,"U.S. House","REP","Adrian Smith",463
+"26","Hall",26,3,"U.S. House","REP","Adrian Smith",383
+"27","Hall",1,3,"U.S. House","NON","Write-ins",42
+"28","Hall",2,3,"U.S. House","NON","Write-ins",23
+"29","Hall",3,3,"U.S. House","NON","Write-ins",43
+"30","Hall",4,3,"U.S. House","NON","Write-ins",19
+"31","Hall",5,3,"U.S. House","NON","Write-ins",31
+"32","Hall",6,3,"U.S. House","NON","Write-ins",28
+"33","Hall",7,3,"U.S. House","NON","Write-ins",27
+"34","Hall",8,3,"U.S. House","NON","Write-ins",45
+"35","Hall",9,3,"U.S. House","NON","Write-ins",31
+"36","Hall",10,3,"U.S. House","NON","Write-ins",31
+"37","Hall",11,3,"U.S. House","NON","Write-ins",27
+"38","Hall",12,3,"U.S. House","NON","Write-ins",38
+"39","Hall",13,3,"U.S. House","NON","Write-ins",29
+"40","Hall",14,3,"U.S. House","NON","Write-ins",31
+"41","Hall",15,3,"U.S. House","NON","Write-ins",33
+"42","Hall",16,3,"U.S. House","NON","Write-ins",17
+"43","Hall",17,3,"U.S. House","NON","Write-ins",23
+"44","Hall",18,3,"U.S. House","NON","Write-ins",26
+"45","Hall",19,3,"U.S. House","NON","Write-ins",14
+"46","Hall",20,3,"U.S. House","NON","Write-ins",7
+"47","Hall",21,3,"U.S. House","NON","Write-ins",5
+"48","Hall",22,3,"U.S. House","NON","Write-ins",6
+"49","Hall",23,3,"U.S. House","NON","Write-ins",10
+"50","Hall",24,3,"U.S. House","NON","Write-ins",6
+"51","Hall",25,3,"U.S. House","NON","Write-ins",11
+"52","Hall",26,3,"U.S. House","NON","Write-ins",7
+"53","Hall",1,NA,"President","REP","Donald J. Trump",540
+"54","Hall",2,NA,"President","REP","Donald J. Trump",197
+"55","Hall",3,NA,"President","REP","Donald J. Trump",502
+"56","Hall",4,NA,"President","REP","Donald J. Trump",475
+"57","Hall",5,NA,"President","REP","Donald J. Trump",776
+"58","Hall",6,NA,"President","REP","Donald J. Trump",699
+"59","Hall",7,NA,"President","REP","Donald J. Trump",542
+"60","Hall",8,NA,"President","REP","Donald J. Trump",625
+"61","Hall",9,NA,"President","REP","Donald J. Trump",830
+"62","Hall",10,NA,"President","REP","Donald J. Trump",586
+"63","Hall",11,NA,"President","REP","Donald J. Trump",635
+"64","Hall",12,NA,"President","REP","Donald J. Trump",377
+"65","Hall",13,NA,"President","REP","Donald J. Trump",931
+"66","Hall",14,NA,"President","REP","Donald J. Trump",1125
+"67","Hall",15,NA,"President","REP","Donald J. Trump",897
+"68","Hall",16,NA,"President","REP","Donald J. Trump",747
+"69","Hall",17,NA,"President","REP","Donald J. Trump",503
+"70","Hall",18,NA,"President","REP","Donald J. Trump",340
+"71","Hall",19,NA,"President","REP","Donald J. Trump",384
+"72","Hall",20,NA,"President","REP","Donald J. Trump",291
+"73","Hall",21,NA,"President","REP","Donald J. Trump",514
+"74","Hall",22,NA,"President","REP","Donald J. Trump",290
+"75","Hall",23,NA,"President","REP","Donald J. Trump",366
+"76","Hall",24,NA,"President","REP","Donald J. Trump",425
+"77","Hall",25,NA,"President","REP","Donald J. Trump",428
+"78","Hall",26,NA,"President","REP","Donald J. Trump",380
+"79","Hall",27,NA,"President","REP","Donald J. Trump",3
+"80","Hall",1,NA,"President","DEM","Hillary Clinton",396
+"81","Hall",2,NA,"President","DEM","Hillary Clinton",212
+"82","Hall",3,NA,"President","DEM","Hillary Clinton",327
+"83","Hall",4,NA,"President","DEM","Hillary Clinton",229
+"84","Hall",5,NA,"President","DEM","Hillary Clinton",288
+"85","Hall",6,NA,"President","DEM","Hillary Clinton",291
+"86","Hall",7,NA,"President","DEM","Hillary Clinton",312
+"87","Hall",8,NA,"President","DEM","Hillary Clinton",391
+"88","Hall",9,NA,"President","DEM","Hillary Clinton",349
+"89","Hall",10,NA,"President","DEM","Hillary Clinton",354
+"90","Hall",11,NA,"President","DEM","Hillary Clinton",326
+"91","Hall",12,NA,"President","DEM","Hillary Clinton",307
+"92","Hall",13,NA,"President","DEM","Hillary Clinton",330
+"93","Hall",14,NA,"President","DEM","Hillary Clinton",310
+"94","Hall",15,NA,"President","DEM","Hillary Clinton",339
+"95","Hall",16,NA,"President","DEM","Hillary Clinton",225
+"96","Hall",17,NA,"President","DEM","Hillary Clinton",232
+"97","Hall",18,NA,"President","DEM","Hillary Clinton",250
+"98","Hall",19,NA,"President","DEM","Hillary Clinton",136
+"99","Hall",20,NA,"President","DEM","Hillary Clinton",53
+"100","Hall",21,NA,"President","DEM","Hillary Clinton",110
+"101","Hall",22,NA,"President","DEM","Hillary Clinton",146
+"102","Hall",23,NA,"President","DEM","Hillary Clinton",84
+"103","Hall",24,NA,"President","DEM","Hillary Clinton",86
+"104","Hall",25,NA,"President","DEM","Hillary Clinton",105
+"105","Hall",26,NA,"President","DEM","Hillary Clinton",94
+"106","Hall",27,NA,"President","DEM","Hillary Clinton",0
+"107","Hall",1,NA,"President","LIB","Johnson/Weld",40
+"108","Hall",2,NA,"President","LIB","Johnson/Weld",19
+"109","Hall",3,NA,"President","LIB","Johnson/Weld",46
+"110","Hall",4,NA,"President","LIB","Johnson/Weld",17
+"111","Hall",5,NA,"President","LIB","Johnson/Weld",37
+"112","Hall",6,NA,"President","LIB","Johnson/Weld",40
+"113","Hall",7,NA,"President","LIB","Johnson/Weld",48
+"114","Hall",8,NA,"President","LIB","Johnson/Weld",64
+"115","Hall",9,NA,"President","LIB","Johnson/Weld",57
+"116","Hall",10,NA,"President","LIB","Johnson/Weld",55
+"117","Hall",11,NA,"President","LIB","Johnson/Weld",47
+"118","Hall",12,NA,"President","LIB","Johnson/Weld",39
+"119","Hall",13,NA,"President","LIB","Johnson/Weld",46
+"120","Hall",14,NA,"President","LIB","Johnson/Weld",49
+"121","Hall",15,NA,"President","LIB","Johnson/Weld",44
+"122","Hall",16,NA,"President","LIB","Johnson/Weld",37
+"123","Hall",17,NA,"President","LIB","Johnson/Weld",37
+"124","Hall",18,NA,"President","LIB","Johnson/Weld",30
+"125","Hall",19,NA,"President","LIB","Johnson/Weld",17
+"126","Hall",20,NA,"President","LIB","Johnson/Weld",12
+"127","Hall",21,NA,"President","LIB","Johnson/Weld",22
+"128","Hall",22,NA,"President","LIB","Johnson/Weld",25
+"129","Hall",23,NA,"President","LIB","Johnson/Weld",16
+"130","Hall",24,NA,"President","LIB","Johnson/Weld",18
+"131","Hall",25,NA,"President","LIB","Johnson/Weld",18
+"132","Hall",26,NA,"President","LIB","Johnson/Weld",14
+"133","Hall",27,NA,"President","LIB","Johnson/Weld",1
+"134","Hall",1,NA,"President","PET","Jill Stein",7
+"135","Hall",2,NA,"President","PET","Jill Stein",5
+"136","Hall",3,NA,"President","PET","Jill Stein",8
+"137","Hall",4,NA,"President","PET","Jill Stein",6
+"138","Hall",5,NA,"President","PET","Jill Stein",7
+"139","Hall",6,NA,"President","PET","Jill Stein",8
+"140","Hall",7,NA,"President","PET","Jill Stein",13
+"141","Hall",8,NA,"President","PET","Jill Stein",13
+"142","Hall",9,NA,"President","PET","Jill Stein",13
+"143","Hall",10,NA,"President","PET","Jill Stein",11
+"144","Hall",11,NA,"President","PET","Jill Stein",15
+"145","Hall",12,NA,"President","PET","Jill Stein",15
+"146","Hall",13,NA,"President","PET","Jill Stein",2
+"147","Hall",14,NA,"President","PET","Jill Stein",8
+"148","Hall",15,NA,"President","PET","Jill Stein",7
+"149","Hall",16,NA,"President","PET","Jill Stein",9
+"150","Hall",17,NA,"President","PET","Jill Stein",3
+"151","Hall",18,NA,"President","PET","Jill Stein",3
+"152","Hall",19,NA,"President","PET","Jill Stein",2
+"153","Hall",20,NA,"President","PET","Jill Stein",1
+"154","Hall",21,NA,"President","PET","Jill Stein",8
+"155","Hall",22,NA,"President","PET","Jill Stein",4
+"156","Hall",23,NA,"President","PET","Jill Stein",7
+"157","Hall",24,NA,"President","PET","Jill Stein",8
+"158","Hall",25,NA,"President","PET","Jill Stein",7
+"159","Hall",26,NA,"President","PET","Jill Stein",2
+"160","Hall",27,NA,"President","PET","Jill Stein",0
+"161","Hall",1,NA,"President","NON","Write-ins",16
+"162","Hall",2,NA,"President","NON","Write-ins",7
+"163","Hall",3,NA,"President","NON","Write-ins",14
+"164","Hall",4,NA,"President","NON","Write-ins",6
+"165","Hall",5,NA,"President","NON","Write-ins",10
+"166","Hall",6,NA,"President","NON","Write-ins",21
+"167","Hall",7,NA,"President","NON","Write-ins",22
+"168","Hall",8,NA,"President","NON","Write-ins",15
+"169","Hall",9,NA,"President","NON","Write-ins",12
+"170","Hall",10,NA,"President","NON","Write-ins",15
+"171","Hall",11,NA,"President","NON","Write-ins",10
+"172","Hall",12,NA,"President","NON","Write-ins",9
+"173","Hall",13,NA,"President","NON","Write-ins",17
+"174","Hall",14,NA,"President","NON","Write-ins",32
+"175","Hall",15,NA,"President","NON","Write-ins",16
+"176","Hall",16,NA,"President","NON","Write-ins",12
+"177","Hall",17,NA,"President","NON","Write-ins",10
+"178","Hall",18,NA,"President","NON","Write-ins",0
+"179","Hall",19,NA,"President","NON","Write-ins",8
+"180","Hall",20,NA,"President","NON","Write-ins",0
+"181","Hall",21,NA,"President","NON","Write-ins",2
+"182","Hall",22,NA,"President","NON","Write-ins",6
+"183","Hall",23,NA,"President","NON","Write-ins",3
+"184","Hall",24,NA,"President","NON","Write-ins",6
+"185","Hall",25,NA,"President","NON","Write-ins",9
+"186","Hall",26,NA,"President","NON","Write-ins",5
+"187","Hall",27,NA,"President","NON","Write-ins",0

@@ -1,71 +1,71 @@
-county,precinct,office,district,party,candidate,votes
-Clay,Harvard Cons.,President,,Republican,Donald J. Trump,239
-Clay,Inland/Leicester,President,,Republican,Donald J. Trump,155
-Clay,Sutton 1st Ward,President,,Republican,Donald J. Trump,269
-Clay,Sutton 2nd Ward,President,,Republican,Donald J. Trump,268
-Clay,Sutton Twps.,President,,Republican,Donald J. Trump,181
-Clay,Glenvil,President,,Republican,Donald J. Trump,143
-Clay,Spring Ranch Fairfield 2nd,President,,Republican,Donald J. Trump,152
-Clay,Fairfield First,President,,Republican,Donald J. Trump,137
-Clay,Edgar,President,,Republican,Donald J. Trump,215
-Clay,Clay Center,President,,Republican,Donald J. Trump,236
-Clay,LLLM Cons.,President,,Republican,Donald J. Trump,157
-Clay,Absentee,President,,Republican,Donald J. Trump,221
-Clay,Provisional,President,,Republican,Donald J. Trump,49
-Clay,Total,President,,Republican,Donald J. Trump,2422
-Clay,Harvard Cons.,President,,Democratic,Hillary Clinton,63
-Clay,Inland/Leicester,President,,Democratic,Hillary Clinton,22
-Clay,Sutton 1st Ward,President,,Democratic,Hillary Clinton,51
-Clay,Sutton 2nd Ward,President,,Democratic,Hillary Clinton,38
-Clay,Sutton Twps.,President,,Democratic,Hillary Clinton,26
-Clay,Glenvil,President,,Democratic,Hillary Clinton,20
-Clay,Spring Ranch Fairfield 2nd,President,,Democratic,Hillary Clinton,14
-Clay,Fairfield First,President,,Democratic,Hillary Clinton,26
-Clay,Edgar,President,,Democratic,Hillary Clinton,46
-Clay,Clay Center,President,,Democratic,Hillary Clinton,58
-Clay,LLLM Cons.,President,,Democratic,Hillary Clinton,29
-Clay,Absentee,President,,Democratic,Hillary Clinton,77
-Clay,Provisional,President,,Democratic,Hillary Clinton,7
-Clay,Total,President,,Democratic,Hillary Clinton,477
-Clay,Harvard Cons.,President,,Libertarian,Gary Johnson,19
-Clay,Inland/Leicester,President,,Libertarian,Gary Johnson,14
-Clay,Sutton 1st Ward,President,,Libertarian,Gary Johnson,7
-Clay,Sutton 2nd Ward,President,,Libertarian,Gary Johnson,12
-Clay,Sutton Twps.,President,,Libertarian,Gary Johnson,6
-Clay,Glenvil,President,,Libertarian,Gary Johnson,7
-Clay,Spring Ranch Fairfield 2nd,President,,Libertarian,Gary Johnson,3
-Clay,Fairfield First,President,,Libertarian,Gary Johnson,9
-Clay,Edgar,President,,Libertarian,Gary Johnson,11
-Clay,Clay Center,President,,Libertarian,Gary Johnson,13
-Clay,LLLM Cons.,President,,Libertarian,Gary Johnson,4
-Clay,Absentee,President,,Libertarian,Gary Johnson,10
-Clay,Provisional,President,,Libertarian,Gary Johnson,1
-Clay,Total,President,,Libertarian,Gary Johnson,116
-Clay,Harvard Cons.,President,,,Jill Stein,6
-Clay,Inland/Leicester,President,,,Jill Stein,0
-Clay,Sutton 1st Ward,President,,,Jill Stein,2
-Clay,Sutton 2nd Ward,President,,,Jill Stein,0
-Clay,Sutton Twps.,President,,,Jill Stein,0
-Clay,Glenvil,President,,,Jill Stein,0
-Clay,Spring Ranch Fairfield 2nd,President,,,Jill Stein,0
-Clay,Fairfield First,President,,,Jill Stein,1
-Clay,Edgar,President,,,Jill Stein,1
-Clay,Clay Center,President,,,Jill Stein,1
-Clay,LLLM Cons.,President,,,Jill Stein,2
-Clay,Absentee,President,,,Jill Stein,2
-Clay,Provisional,President,,,Jill Stein,0
-Clay,Total,President,,,Jill Stein,15
-Clay,Harvard Cons.,U.S. House,3,Republican,Adrian Smith,294
-Clay,Inland/Leicester,U.S. House,3,Republican,Adrian Smith,176
-Clay,Sutton 1st Ward,U.S. House,3,Republican,Adrian Smith,300
-Clay,Sutton 2nd Ward,U.S. House,3,Republican,Adrian Smith,284
-Clay,Sutton Twps.,U.S. House,3,Republican,Adrian Smith,191
-Clay,Glenvil,U.S. House,3,Republican,Adrian Smith,149
-Clay,Spring Ranch Fairfield 2nd,U.S. House,3,Republican,Adrian Smith,155
-Clay,Fairfield First,U.S. House,3,Republican,Adrian Smith,141
-Clay,Edgar,U.S. House,3,Republican,Adrian Smith,242
-Clay,Clay Center,U.S. House,3,Republican,Adrian Smith,268
-Clay,LLLM Cons.,U.S. House,3,Republican,Adrian Smith,175
-Clay,Absentee,U.S. House,3,Republican,Adrian Smith,258
-Clay,Provisional,U.S. House,3,Republican,Adrian Smith,52
-Clay,Total,U.S. House,3,Republican,Adrian Smith,2685
+"","county","precinct","district","office","party","candidate","votes"
+"1","Clay","Harvard Cons.",NA,"President","REP","Donald J. Trump",239
+"2","Clay","Inland/Leicester",NA,"President","REP","Donald J. Trump",155
+"3","Clay","Sutton 1st Ward",NA,"President","REP","Donald J. Trump",269
+"4","Clay","Sutton 2nd Ward",NA,"President","REP","Donald J. Trump",268
+"5","Clay","Sutton Twps.",NA,"President","REP","Donald J. Trump",181
+"6","Clay","Glenvil",NA,"President","REP","Donald J. Trump",143
+"7","Clay","Spring Ranch Fairfield 2nd",NA,"President","REP","Donald J. Trump",152
+"8","Clay","Fairfield First",NA,"President","REP","Donald J. Trump",137
+"9","Clay","Edgar",NA,"President","REP","Donald J. Trump",215
+"10","Clay","Clay Center",NA,"President","REP","Donald J. Trump",236
+"11","Clay","LLLM Cons.",NA,"President","REP","Donald J. Trump",157
+"12","Clay","Absentee",NA,"President","REP","Donald J. Trump",221
+"13","Clay","Provisional",NA,"President","REP","Donald J. Trump",49
+"14","Clay","Total",NA,"President","REP","Donald J. Trump",2422
+"15","Clay","Harvard Cons.",NA,"President","DEM","Hillary Clinton",63
+"16","Clay","Inland/Leicester",NA,"President","DEM","Hillary Clinton",22
+"17","Clay","Sutton 1st Ward",NA,"President","DEM","Hillary Clinton",51
+"18","Clay","Sutton 2nd Ward",NA,"President","DEM","Hillary Clinton",38
+"19","Clay","Sutton Twps.",NA,"President","DEM","Hillary Clinton",26
+"20","Clay","Glenvil",NA,"President","DEM","Hillary Clinton",20
+"21","Clay","Spring Ranch Fairfield 2nd",NA,"President","DEM","Hillary Clinton",14
+"22","Clay","Fairfield First",NA,"President","DEM","Hillary Clinton",26
+"23","Clay","Edgar",NA,"President","DEM","Hillary Clinton",46
+"24","Clay","Clay Center",NA,"President","DEM","Hillary Clinton",58
+"25","Clay","LLLM Cons.",NA,"President","DEM","Hillary Clinton",29
+"26","Clay","Absentee",NA,"President","DEM","Hillary Clinton",77
+"27","Clay","Provisional",NA,"President","DEM","Hillary Clinton",7
+"28","Clay","Total",NA,"President","DEM","Hillary Clinton",477
+"29","Clay","Harvard Cons.",NA,"President","LIB","Gary Johnson",19
+"30","Clay","Inland/Leicester",NA,"President","LIB","Gary Johnson",14
+"31","Clay","Sutton 1st Ward",NA,"President","LIB","Gary Johnson",7
+"32","Clay","Sutton 2nd Ward",NA,"President","LIB","Gary Johnson",12
+"33","Clay","Sutton Twps.",NA,"President","LIB","Gary Johnson",6
+"34","Clay","Glenvil",NA,"President","LIB","Gary Johnson",7
+"35","Clay","Spring Ranch Fairfield 2nd",NA,"President","LIB","Gary Johnson",3
+"36","Clay","Fairfield First",NA,"President","LIB","Gary Johnson",9
+"37","Clay","Edgar",NA,"President","LIB","Gary Johnson",11
+"38","Clay","Clay Center",NA,"President","LIB","Gary Johnson",13
+"39","Clay","LLLM Cons.",NA,"President","LIB","Gary Johnson",4
+"40","Clay","Absentee",NA,"President","LIB","Gary Johnson",10
+"41","Clay","Provisional",NA,"President","LIB","Gary Johnson",1
+"42","Clay","Total",NA,"President","LIB","Gary Johnson",116
+"43","Clay","Harvard Cons.",NA,"President","","Jill Stein",6
+"44","Clay","Inland/Leicester",NA,"President","","Jill Stein",0
+"45","Clay","Sutton 1st Ward",NA,"President","","Jill Stein",2
+"46","Clay","Sutton 2nd Ward",NA,"President","","Jill Stein",0
+"47","Clay","Sutton Twps.",NA,"President","","Jill Stein",0
+"48","Clay","Glenvil",NA,"President","","Jill Stein",0
+"49","Clay","Spring Ranch Fairfield 2nd",NA,"President","","Jill Stein",0
+"50","Clay","Fairfield First",NA,"President","","Jill Stein",1
+"51","Clay","Edgar",NA,"President","","Jill Stein",1
+"52","Clay","Clay Center",NA,"President","","Jill Stein",1
+"53","Clay","LLLM Cons.",NA,"President","","Jill Stein",2
+"54","Clay","Absentee",NA,"President","","Jill Stein",2
+"55","Clay","Provisional",NA,"President","","Jill Stein",0
+"56","Clay","Total",NA,"President","","Jill Stein",15
+"57","Clay","Harvard Cons.",3,"U.S. House","REP","Adrian Smith",294
+"58","Clay","Inland/Leicester",3,"U.S. House","REP","Adrian Smith",176
+"59","Clay","Sutton 1st Ward",3,"U.S. House","REP","Adrian Smith",300
+"60","Clay","Sutton 2nd Ward",3,"U.S. House","REP","Adrian Smith",284
+"61","Clay","Sutton Twps.",3,"U.S. House","REP","Adrian Smith",191
+"62","Clay","Glenvil",3,"U.S. House","REP","Adrian Smith",149
+"63","Clay","Spring Ranch Fairfield 2nd",3,"U.S. House","REP","Adrian Smith",155
+"64","Clay","Fairfield First",3,"U.S. House","REP","Adrian Smith",141
+"65","Clay","Edgar",3,"U.S. House","REP","Adrian Smith",242
+"66","Clay","Clay Center",3,"U.S. House","REP","Adrian Smith",268
+"67","Clay","LLLM Cons.",3,"U.S. House","REP","Adrian Smith",175
+"68","Clay","Absentee",3,"U.S. House","REP","Adrian Smith",258
+"69","Clay","Provisional",3,"U.S. House","REP","Adrian Smith",52
+"70","Clay","Total",3,"U.S. House","REP","Adrian Smith",2685

@@ -1,67 +1,67 @@
-county,precinct,office,district,party,candidate,votes
-Webster,Bladen,President,NA,Republican,Donald J. Trump / Michael Pence,156
-Webster,Bladen,President,NA,Democrat,Hillary Clinton / Tim Kaine,44
-Webster,Bladen,President,NA,Libertarian,Gary Johnson / Bill Weld,3
-Webster,Bladen,President,NA,By Petition,Jill Stein / Ajamu Baraka,NA
-Webster,Bladen,President,NA,NA,Write In,NA
-Webster,Bladen,President,NA,NA,Over Votes,NA
-Webster,Bladen,President,NA,NA,Under Votes,2
-Webster,Bladen,U.S. House,3,Republican,Adrian Smith,182
-Webster,Bladen,U.S. House,3,Republican,Write In,2
-Webster,Bladen,U.S. House,3,Republican,Over Votes,NA
-Webster,Bladen,U.S. House,3,Republican,Under Votes,21
-Webster,Blue Hill,President,NA,Republican,Donald J. Trump / Michael Pence,338
-Webster,Blue Hill,President,NA,Democrat,Hillary Clinton / Tim Kaine,77
-Webster,Blue Hill,President,NA,Libertarian,Gary Johnson / Bill Weld,12
-Webster,Blue Hill,President,NA,By Petition,Jill Stein / Ajamu Baraka,4
-Webster,Blue Hill,President,NA,NA,Write In,7
-Webster,Blue Hill,President,NA,NA,Over Votes,4
-Webster,Blue Hill,President,NA,NA,Under Votes,4
-Webster,Blue Hill,U.S. House,3,Republican,Adrian Smith,367
-Webster,Blue Hill,U.S. House,3,Republican,Write In,4
-Webster,Blue Hill,U.S. House,3,Republican,Over Votes,1
-Webster,Blue Hill,U.S. House,3,Republican,Under Votes,73
-Webster,Guide Rock,President,NA,Republican,Donald J. Trump / Michael Pence,175
-Webster,Guide Rock,President,NA,Democrat,Hillary Clinton / Tim Kaine,15
-Webster,Guide Rock,President,NA,Libertarian,Gary Johnson / Bill Weld,5
-Webster,Guide Rock,President,NA,By Petition,Jill Stein / Ajamu Baraka,1
-Webster,Guide Rock,President,NA,NA,Write In,1
-Webster,Guide Rock,President,NA,NA,Over Votes,1
-Webster,Guide Rock,President,NA,NA,Under Votes,1
-Webster,Guide Rock,U.S. House,3,Republican,Adrian Smith,170
-Webster,Guide Rock,U.S. House,3,Republican,Write In,NA
-Webster,Guide Rock,U.S. House,3,Republican,Over Votes,NA
-Webster,Guide Rock,U.S. House,3,Republican,Under Votes,29
-Webster,RC 1st,President,NA,Republican,Donald J. Trump / Michael Pence,219
-Webster,RC 1st,President,NA,Democrat,Hillary Clinton / Tim Kaine,43
-Webster,RC 1st,President,NA,Libertarian,Gary Johnson / Bill Weld,10
-Webster,RC 1st,President,NA,By Petition,Jill Stein / Ajamu Baraka,2
-Webster,RC 1st,President,NA,NA,Write In,NA
-Webster,RC 1st,President,NA,NA,Over Votes,NA
-Webster,RC 1st,President,NA,NA,Under Votes,4
-Webster,RC 1st,U.S. House,3,Republican,Adrian Smith,247
-Webster,RC 1st,U.S. House,3,Republican,Write In,NA
-Webster,RC 1st,U.S. House,3,Republican,Over Votes,NA
-Webster,RC 1st,U.S. House,3,Republican,Under Votes,31
-Webster,RC 2nd,President,NA,Republican,Donald J. Trump / Michael Pence,279
-Webster,RC 2nd,President,NA,Democrat,Hillary Clinton / Tim Kaine,62
-Webster,RC 2nd,President,NA,Libertarian,Gary Johnson / Bill Weld,9
-Webster,RC 2nd,President,NA,By Petition,Jill Stein / Ajamu Baraka,2
-Webster,RC 2nd,President,NA,NA,Write In,3
-Webster,RC 2nd,President,NA,NA,Over Votes,NA
-Webster,RC 2nd,President,NA,NA,Under Votes,4
-Webster,RC 2nd,U.S. House,3,Republican,Adrian Smith,300
-Webster,RC 2nd,U.S. House,3,Republican,Write In,7
-Webster,RC 2nd,U.S. House,3,Republican,Over Votes,NA
-Webster,RC 2nd,U.S. House,3,Republican,Under Votes,52
-Webster,Absentee,President,NA,Republican,Donald J. Trump / Michael Pence,163
-Webster,Absentee,President,NA,Democrat,Hillary Clinton / Tim Kaine,65
-Webster,Absentee,President,NA,Libertarian,Gary Johnson / Bill Weld,12
-Webster,Absentee,President,NA,By Petition,Jill Stein / Ajamu Baraka,1
-Webster,Absentee,President,NA,NA,Write In,NA
-Webster,Absentee,President,NA,NA,Over Votes,NA
-Webster,Absentee,President,NA,NA,Under Votes,3
-Webster,Absentee,U.S. House,3,Republican,Adrian Smith,182
-Webster,Absentee,U.S. House,3,Republican,Write In,7
-Webster,Absentee,U.S. House,3,Republican,Over Votes,NA
-Webster,Absentee,U.S. House,3,Republican,Under Votes,55
+"","county","precinct","district","office","party","candidate","votes"
+"1","Webster","Bladen",NA,"President","REP","Donald J. Trump",156
+"2","Webster","Bladen",NA,"President","DEM","Hillary Clinton",44
+"3","Webster","Bladen",NA,"President","LIB","Gary Johnson / Bill Weld",3
+"4","Webster","Bladen",NA,"President","PET","Jill Stein",NA
+"5","Webster","Bladen",NA,"President",NA,"Write-ins",NA
+"6","Webster","Bladen",NA,"President",NA,"Over Votes",NA
+"7","Webster","Bladen",NA,"President",NA,"Under Votes",2
+"8","Webster","Bladen",3,"U.S. House","REP","Adrian Smith",182
+"9","Webster","Bladen",3,"U.S. House","REP","Write-ins",2
+"10","Webster","Bladen",3,"U.S. House","REP","Over Votes",NA
+"11","Webster","Bladen",3,"U.S. House","REP","Under Votes",21
+"12","Webster","Blue Hill",NA,"President","REP","Donald J. Trump",338
+"13","Webster","Blue Hill",NA,"President","DEM","Hillary Clinton",77
+"14","Webster","Blue Hill",NA,"President","LIB","Gary Johnson / Bill Weld",12
+"15","Webster","Blue Hill",NA,"President","PET","Jill Stein",4
+"16","Webster","Blue Hill",NA,"President",NA,"Write-ins",7
+"17","Webster","Blue Hill",NA,"President",NA,"Over Votes",4
+"18","Webster","Blue Hill",NA,"President",NA,"Under Votes",4
+"19","Webster","Blue Hill",3,"U.S. House","REP","Adrian Smith",367
+"20","Webster","Blue Hill",3,"U.S. House","REP","Write-ins",4
+"21","Webster","Blue Hill",3,"U.S. House","REP","Over Votes",1
+"22","Webster","Blue Hill",3,"U.S. House","REP","Under Votes",73
+"23","Webster","Guide Rock",NA,"President","REP","Donald J. Trump",175
+"24","Webster","Guide Rock",NA,"President","DEM","Hillary Clinton",15
+"25","Webster","Guide Rock",NA,"President","LIB","Gary Johnson / Bill Weld",5
+"26","Webster","Guide Rock",NA,"President","PET","Jill Stein",1
+"27","Webster","Guide Rock",NA,"President",NA,"Write-ins",1
+"28","Webster","Guide Rock",NA,"President",NA,"Over Votes",1
+"29","Webster","Guide Rock",NA,"President",NA,"Under Votes",1
+"30","Webster","Guide Rock",3,"U.S. House","REP","Adrian Smith",170
+"31","Webster","Guide Rock",3,"U.S. House","REP","Write-ins",NA
+"32","Webster","Guide Rock",3,"U.S. House","REP","Over Votes",NA
+"33","Webster","Guide Rock",3,"U.S. House","REP","Under Votes",29
+"34","Webster","RC 1st",NA,"President","REP","Donald J. Trump",219
+"35","Webster","RC 1st",NA,"President","DEM","Hillary Clinton",43
+"36","Webster","RC 1st",NA,"President","LIB","Gary Johnson / Bill Weld",10
+"37","Webster","RC 1st",NA,"President","PET","Jill Stein",2
+"38","Webster","RC 1st",NA,"President",NA,"Write-ins",NA
+"39","Webster","RC 1st",NA,"President",NA,"Over Votes",NA
+"40","Webster","RC 1st",NA,"President",NA,"Under Votes",4
+"41","Webster","RC 1st",3,"U.S. House","REP","Adrian Smith",247
+"42","Webster","RC 1st",3,"U.S. House","REP","Write-ins",NA
+"43","Webster","RC 1st",3,"U.S. House","REP","Over Votes",NA
+"44","Webster","RC 1st",3,"U.S. House","REP","Under Votes",31
+"45","Webster","RC 2nd",NA,"President","REP","Donald J. Trump",279
+"46","Webster","RC 2nd",NA,"President","DEM","Hillary Clinton",62
+"47","Webster","RC 2nd",NA,"President","LIB","Gary Johnson / Bill Weld",9
+"48","Webster","RC 2nd",NA,"President","PET","Jill Stein",2
+"49","Webster","RC 2nd",NA,"President",NA,"Write-ins",3
+"50","Webster","RC 2nd",NA,"President",NA,"Over Votes",NA
+"51","Webster","RC 2nd",NA,"President",NA,"Under Votes",4
+"52","Webster","RC 2nd",3,"U.S. House","REP","Adrian Smith",300
+"53","Webster","RC 2nd",3,"U.S. House","REP","Write-ins",7
+"54","Webster","RC 2nd",3,"U.S. House","REP","Over Votes",NA
+"55","Webster","RC 2nd",3,"U.S. House","REP","Under Votes",52
+"56","Webster","Absentee",NA,"President","REP","Donald J. Trump",163
+"57","Webster","Absentee",NA,"President","DEM","Hillary Clinton",65
+"58","Webster","Absentee",NA,"President","LIB","Gary Johnson / Bill Weld",12
+"59","Webster","Absentee",NA,"President","PET","Jill Stein",1
+"60","Webster","Absentee",NA,"President",NA,"Write-ins",NA
+"61","Webster","Absentee",NA,"President",NA,"Over Votes",NA
+"62","Webster","Absentee",NA,"President",NA,"Under Votes",3
+"63","Webster","Absentee",3,"U.S. House","REP","Adrian Smith",182
+"64","Webster","Absentee",3,"U.S. House","REP","Write-ins",7
+"65","Webster","Absentee",3,"U.S. House","REP","Over Votes",NA
+"66","Webster","Absentee",3,"U.S. House","REP","Under Votes",55

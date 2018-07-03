@@ -1,31 +1,31 @@
-county,precinct,office,district,party,candidate,votes
-Dundy,Haigler,President,,Republican,Donald J. Trump,88
-Dundy,Benkelman I & Ough,President,,Republican,Donald J. Trump,229
-Dundy,Benkelman II,President,,Republican,Donald J. Trump,246
-Dundy,Benkelman III,President,,Republican,Donald J. Trump,113
-Dundy,Absentee,President,,Republican,Donald J. Trump,148
-Dundy,Total,President,,Republican,Donald J. Trump,823
-Dundy,Haigler,President,,Democratic,Hillary Clinton,14
-Dundy,Benkelman I & Ough,President,,Democratic,Hillary Clinton,23
-Dundy,Benkelman II,President,,Democratic,Hillary Clinton,18
-Dundy,Benkelman III,President,,Democratic,Hillary Clinton,11
-Dundy,Absentee,President,,Democratic,Hillary Clinton,23
-Dundy,Total,President,,Democratic,Hillary Clinton,89
-Dundy,Haigler,President,,Libertarian,Gary Johnson,5
-Dundy,Benkelman I & Ough,President,,Libertarian,Gary Johnson,7
-Dundy,Benkelman II,President,,Libertarian,Gary Johnson,9
-Dundy,Benkelman III,President,,Libertarian,Gary Johnson,3
-Dundy,Absentee,President,,Libertarian,Gary Johnson,7
-Dundy,Total,President,,Libertarian,Gary Johnson,31
-Dundy,Haigler,President,,,Jill Stein,3
-Dundy,Benkelman I & Ough,President,,,Jill Stein,2
-Dundy,Benkelman II,President,,,Jill Stein,0
-Dundy,Benkelman III,President,,,Jill Stein,0
-Dundy,Absentee,President,,,Jill Stein,1
-Dundy,Total,President,,,Jill Stein,6
-Dundy,Haigler,U.S. House,3,Republican,Adrian Smith,98
-Dundy,Benkelman I & Ough,U.S. House,3,Republican,Adrian Smith,236
-Dundy,Benkelman II,U.S. House,3,Republican,Adrian Smith,248
-Dundy,Benkelman III,U.S. House,3,Republican,Adrian Smith,112
-Dundy,Absentee,U.S. House,3,Republican,Adrian Smith,147
-Dundy,Total,U.S. House,3,Republican,Adrian Smith,841
+"","county","precinct","district","office","party","candidate","votes"
+"1","Dundy","Haigler",NA,"President","REP","Donald J. Trump",88
+"2","Dundy","Benkelman I & Ough",NA,"President","REP","Donald J. Trump",229
+"3","Dundy","Benkelman II",NA,"President","REP","Donald J. Trump",246
+"4","Dundy","Benkelman III",NA,"President","REP","Donald J. Trump",113
+"5","Dundy","Absentee",NA,"President","REP","Donald J. Trump",148
+"6","Dundy","Total",NA,"President","REP","Donald J. Trump",823
+"7","Dundy","Haigler",NA,"President","DEM","Hillary Clinton",14
+"8","Dundy","Benkelman I & Ough",NA,"President","DEM","Hillary Clinton",23
+"9","Dundy","Benkelman II",NA,"President","DEM","Hillary Clinton",18
+"10","Dundy","Benkelman III",NA,"President","DEM","Hillary Clinton",11
+"11","Dundy","Absentee",NA,"President","DEM","Hillary Clinton",23
+"12","Dundy","Total",NA,"President","DEM","Hillary Clinton",89
+"13","Dundy","Haigler",NA,"President","LIB","Gary Johnson",5
+"14","Dundy","Benkelman I & Ough",NA,"President","LIB","Gary Johnson",7
+"15","Dundy","Benkelman II",NA,"President","LIB","Gary Johnson",9
+"16","Dundy","Benkelman III",NA,"President","LIB","Gary Johnson",3
+"17","Dundy","Absentee",NA,"President","LIB","Gary Johnson",7
+"18","Dundy","Total",NA,"President","LIB","Gary Johnson",31
+"19","Dundy","Haigler",NA,"President","","Jill Stein",3
+"20","Dundy","Benkelman I & Ough",NA,"President","","Jill Stein",2
+"21","Dundy","Benkelman II",NA,"President","","Jill Stein",0
+"22","Dundy","Benkelman III",NA,"President","","Jill Stein",0
+"23","Dundy","Absentee",NA,"President","","Jill Stein",1
+"24","Dundy","Total",NA,"President","","Jill Stein",6
+"25","Dundy","Haigler",3,"U.S. House","REP","Adrian Smith",98
+"26","Dundy","Benkelman I & Ough",3,"U.S. House","REP","Adrian Smith",236
+"27","Dundy","Benkelman II",3,"U.S. House","REP","Adrian Smith",248
+"28","Dundy","Benkelman III",3,"U.S. House","REP","Adrian Smith",112
+"29","Dundy","Absentee",3,"U.S. House","REP","Adrian Smith",147
+"30","Dundy","Total",3,"U.S. House","REP","Adrian Smith",841

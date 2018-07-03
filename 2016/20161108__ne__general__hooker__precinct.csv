@@ -1,29 +1,29 @@
-county,precinct,office,district,party,candidate,votes
-Hooker,Absentee/Early Vote,President,,Democratic,Hillary Clinton,5
-Hooker,Countywide,President,,Democratic,Hillary Clinton,0
-Hooker,New/Former Resident,President,,Democratic,Hillary Clinton,0
-Hooker,Precinct 1,President,,Democratic,Hillary Clinton,35
-Hooker,Absentee/Early Vote,President,,Libertarian,Gary Johnson,3
-Hooker,Countywide,President,,Libertarian,Gary Johnson,0
-Hooker,New/Former Resident,President,,Libertarian,Gary Johnson,0
-Hooker,Precinct 1,President,,Libertarian,Gary Johnson,13
-Hooker,Absentee/Early Vote,President,,,Jill Stein,1
-Hooker,Countywide,President,,,Jill Stein,0
-Hooker,New/Former Resident,President,,,Jill Stein,0
-Hooker,Precinct 1,President,,,Jill Stein,2
-Hooker,Absentee/Early Vote,President,,Republican,Donald J. Trump,53
-Hooker,Countywide,President,,Republican,Donald J. Trump,0
-Hooker,New/Former Resident,President,,Republican,Donald J. Trump,0
-Hooker,Precinct 1,President,,Republican,Donald J. Trump,302
-Hooker,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,52
-Hooker,Countywide,U.S. House,3,Republican,Adrian Smith,0
-Hooker,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
-Hooker,Precinct 1,U.S. House,3,Republican,Adrian Smith,316
-Hooker,Absentee/Early Vote,State Legislature,43,,Al Davis,32
-Hooker,Countywide,State Legislature,43,,Al Davis,0
-Hooker,New/Former Resident,State Legislature,43,,Al Davis,0
-Hooker,Precinct 1,State Legislature,43,,Al Davis,167
-Hooker,Absentee/Early Vote,State Legislature,43,,Tom Brewer,23
-Hooker,Countywide,State Legislature,43,,Tom Brewer,0
-Hooker,New/Former Resident,State Legislature,43,,Tom Brewer,0
-Hooker,Precinct 1,State Legislature,43,,Tom Brewer,181
+"","county","precinct","district","office","party","candidate","votes"
+"1","Hooker","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",5
+"2","Hooker","Countywide",NA,"President","DEM","Hillary Clinton",0
+"3","Hooker","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
+"4","Hooker","Precinct 1",NA,"President","DEM","Hillary Clinton",35
+"5","Hooker","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",3
+"6","Hooker","Countywide",NA,"President","LIB","Gary Johnson",0
+"7","Hooker","New/Former Resident",NA,"President","LIB","Gary Johnson",0
+"8","Hooker","Precinct 1",NA,"President","LIB","Gary Johnson",13
+"9","Hooker","Absentee/Early Vote",NA,"President","","Jill Stein",1
+"10","Hooker","Countywide",NA,"President","","Jill Stein",0
+"11","Hooker","New/Former Resident",NA,"President","","Jill Stein",0
+"12","Hooker","Precinct 1",NA,"President","","Jill Stein",2
+"13","Hooker","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",53
+"14","Hooker","Countywide",NA,"President","REP","Donald J. Trump",0
+"15","Hooker","New/Former Resident",NA,"President","REP","Donald J. Trump",0
+"16","Hooker","Precinct 1",NA,"President","REP","Donald J. Trump",302
+"17","Hooker","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",52
+"18","Hooker","Countywide",3,"U.S. House","REP","Adrian Smith",0
+"19","Hooker","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
+"20","Hooker","Precinct 1",3,"U.S. House","REP","Adrian Smith",316
+"21","Hooker","Absentee/Early Vote",43,"State Legislature","","Al Davis",32
+"22","Hooker","Countywide",43,"State Legislature","","Al Davis",0
+"23","Hooker","New/Former Resident",43,"State Legislature","","Al Davis",0
+"24","Hooker","Precinct 1",43,"State Legislature","","Al Davis",167
+"25","Hooker","Absentee/Early Vote",43,"State Legislature","","Tom Brewer",23
+"26","Hooker","Countywide",43,"State Legislature","","Tom Brewer",0
+"27","Hooker","New/Former Resident",43,"State Legislature","","Tom Brewer",0
+"28","Hooker","Precinct 1",43,"State Legislature","","Tom Brewer",181

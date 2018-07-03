@@ -1,36 +1,36 @@
-county,precinct,office,district,party,candidate,votes
-Franklin,Hildreth,President,,R,Donald J. Trump,296
-Franklin,Campbell,President,,R,Donald J. Trump,190
-Franklin,W. Franklin,President,,R,Donald J. Trump,363
-Franklin,E. Franklin,President,,R,Donald J. Trump,219
-Franklin,Early,President,,R,Donald J. Trump,277
-Franklin,Provisional,President,,R,Donald J. Trump,2
-Franklin,Total,President,,R,Donald J. Trump,1347
-Franklin,Hildreth,President,,D,Hillary Clinton,45
-Franklin,Campbell,President,,D,Hillary Clinton,30
-Franklin,W. Franklin,President,,D,Hillary Clinton,45
-Franklin,E. Franklin,President,,D,Hillary Clinton,37
-Franklin,Early,President,,D,Hillary Clinton,93
-Franklin,Provisional,President,,D,Hillary Clinton,0
-Franklin,Total,President,,D,Hillary Clinton,250
-Franklin,Hildreth,President,,L,Gary Johnson,12
-Franklin,Campbell,President,,L,Gary Johnson,4
-Franklin,W. Franklin,President,,L,Gary Johnson,12
-Franklin,E. Franklin,President,,L,Gary Johnson,13
-Franklin,Early,President,,L,Gary Johnson,13
-Franklin,Provisional,President,,L,Gary Johnson,0
-Franklin,Total,President,,L,Gary Johnson,54
-Franklin,Hildreth,President,,,Jill Stein,1
-Franklin,Campbell,President,,,Jill Stein,0
-Franklin,W. Franklin,President,,,Jill Stein,1
-Franklin,E. Franklin,President,,,Jill Stein,3
-Franklin,Early,President,,,Jill Stein,2
-Franklin,Provisional,President,,,Jill Stein,0
-Franklin,Total,President,,,Jill Stein,7
-Franklin,Hildreth,U.S. House,3,R,Adrian Smith,320
-Franklin,Campbell,U.S. House,3,R,Adrian Smith,197
-Franklin,W. Franklin,U.S. House,3,R,Adrian Smith,374
-Franklin,E. Franklin,U.S. House,3,R,Adrian Smith,249
-Franklin,Early,U.S. House,3,R,Adrian Smith,310
-Franklin,Provisional,U.S. House,3,R,Adrian Smith,1
-Franklin,Total,U.S. House,3,R,Adrian Smith,1451
+"","county","precinct","district","office","party","candidate","votes"
+"1","Franklin","Hildreth",NA,"President","REP","Donald J. Trump",296
+"2","Franklin","Campbell",NA,"President","REP","Donald J. Trump",190
+"3","Franklin","W. Franklin",NA,"President","REP","Donald J. Trump",363
+"4","Franklin","E. Franklin",NA,"President","REP","Donald J. Trump",219
+"5","Franklin","Early",NA,"President","REP","Donald J. Trump",277
+"6","Franklin","Provisional",NA,"President","REP","Donald J. Trump",2
+"7","Franklin","Total",NA,"President","REP","Donald J. Trump",1347
+"8","Franklin","Hildreth",NA,"President","DEM","Hillary Clinton",45
+"9","Franklin","Campbell",NA,"President","DEM","Hillary Clinton",30
+"10","Franklin","W. Franklin",NA,"President","DEM","Hillary Clinton",45
+"11","Franklin","E. Franklin",NA,"President","DEM","Hillary Clinton",37
+"12","Franklin","Early",NA,"President","DEM","Hillary Clinton",93
+"13","Franklin","Provisional",NA,"President","DEM","Hillary Clinton",0
+"14","Franklin","Total",NA,"President","DEM","Hillary Clinton",250
+"15","Franklin","Hildreth",NA,"President","LIB","Gary Johnson",12
+"16","Franklin","Campbell",NA,"President","LIB","Gary Johnson",4
+"17","Franklin","W. Franklin",NA,"President","LIB","Gary Johnson",12
+"18","Franklin","E. Franklin",NA,"President","LIB","Gary Johnson",13
+"19","Franklin","Early",NA,"President","LIB","Gary Johnson",13
+"20","Franklin","Provisional",NA,"President","LIB","Gary Johnson",0
+"21","Franklin","Total",NA,"President","LIB","Gary Johnson",54
+"22","Franklin","Hildreth",NA,"President","","Jill Stein",1
+"23","Franklin","Campbell",NA,"President","","Jill Stein",0
+"24","Franklin","W. Franklin",NA,"President","","Jill Stein",1
+"25","Franklin","E. Franklin",NA,"President","","Jill Stein",3
+"26","Franklin","Early",NA,"President","","Jill Stein",2
+"27","Franklin","Provisional",NA,"President","","Jill Stein",0
+"28","Franklin","Total",NA,"President","","Jill Stein",7
+"29","Franklin","Hildreth",3,"U.S. House","REP","Adrian Smith",320
+"30","Franklin","Campbell",3,"U.S. House","REP","Adrian Smith",197
+"31","Franklin","W. Franklin",3,"U.S. House","REP","Adrian Smith",374
+"32","Franklin","E. Franklin",3,"U.S. House","REP","Adrian Smith",249
+"33","Franklin","Early",3,"U.S. House","REP","Adrian Smith",310
+"34","Franklin","Provisional",3,"U.S. House","REP","Adrian Smith",1
+"35","Franklin","Total",3,"U.S. House","REP","Adrian Smith",1451

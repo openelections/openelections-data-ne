@@ -1,91 +1,91 @@
-county,precinct,office,district,party,candidate,votes
-Merrick,Absentee/Early Vote,President,,Democratic,Hillary Clinton,80
-Merrick,CENTRAL,President,,Democratic,Hillary Clinton,5
-Merrick,CHAPMAN,President,,Democratic,Hillary Clinton,27
-Merrick,CLARKSVILLE EAST,President,,Democratic,Hillary Clinton,25
-Merrick,CLARKSVILLE WEST,President,,Democratic,Hillary Clinton,14
-Merrick,Countywide,President,,Democratic,Hillary Clinton,0
-Merrick,LONE TREE NORTH,President,,Democratic,Hillary Clinton,29
-Merrick,LONE TREE SOUTH,President,,Democratic,Hillary Clinton,13
-Merrick,LOUP,President,,Democratic,Hillary Clinton,52
-Merrick,MEAD,President,,Democratic,Hillary Clinton,11
-Merrick,MIDLAND,President,,Democratic,Hillary Clinton,17
-Merrick,New/Former Resident,President,,Democratic,Hillary Clinton,0
-Merrick,PRAIRIE CREEK,President,,Democratic,Hillary Clinton,18
-Merrick,PRAIRIE ISLAND,President,,Democratic,Hillary Clinton,13
-Merrick,SILVER CREEK,President,,Democratic,Hillary Clinton,19
-Merrick,VIEREGG,President,,Democratic,Hillary Clinton,89
-Merrick,WARD 1,President,,Democratic,Hillary Clinton,101
-Merrick,WARD 2,President,,Democratic,Hillary Clinton,89
-Merrick,Absentee/Early Vote,President,,Libertarian,Gary Johnson,18
-Merrick,CENTRAL,President,,Libertarian,Gary Johnson,3
-Merrick,CHAPMAN,President,,Libertarian,Gary Johnson,7
-Merrick,CLARKSVILLE EAST,President,,Libertarian,Gary Johnson,5
-Merrick,CLARKSVILLE WEST,President,,Libertarian,Gary Johnson,8
-Merrick,Countywide,President,,Libertarian,Gary Johnson,0
-Merrick,LONE TREE NORTH,President,,Libertarian,Gary Johnson,6
-Merrick,LONE TREE SOUTH,President,,Libertarian,Gary Johnson,4
-Merrick,LOUP,President,,Libertarian,Gary Johnson,16
-Merrick,MEAD,President,,Libertarian,Gary Johnson,3
-Merrick,MIDLAND,President,,Libertarian,Gary Johnson,5
-Merrick,New/Former Resident,President,,Libertarian,Gary Johnson,0
-Merrick,PRAIRIE CREEK,President,,Libertarian,Gary Johnson,6
-Merrick,PRAIRIE ISLAND,President,,Libertarian,Gary Johnson,5
-Merrick,SILVER CREEK,President,,Libertarian,Gary Johnson,16
-Merrick,VIEREGG,President,,Libertarian,Gary Johnson,7
-Merrick,WARD 1,President,,Libertarian,Gary Johnson,32
-Merrick,WARD 2,President,,Libertarian,Gary Johnson,24
-Merrick,Absentee/Early Vote,President,,,Jill Stein,3
-Merrick,CENTRAL,President,,,Jill Stein,1
-Merrick,CHAPMAN,President,,,Jill Stein,1
-Merrick,CLARKSVILLE EAST,President,,,Jill Stein,0
-Merrick,CLARKSVILLE WEST,President,,,Jill Stein,0
-Merrick,Countywide,President,,,Jill Stein,0
-Merrick,LONE TREE NORTH,President,,,Jill Stein,1
-Merrick,LONE TREE SOUTH,President,,,Jill Stein,1
-Merrick,LOUP,President,,,Jill Stein,1
-Merrick,MEAD,President,,,Jill Stein,1
-Merrick,MIDLAND,President,,,Jill Stein,0
-Merrick,New/Former Resident,President,,,Jill Stein,0
-Merrick,PRAIRIE CREEK,President,,,Jill Stein,0
-Merrick,PRAIRIE ISLAND,President,,,Jill Stein,0
-Merrick,SILVER CREEK,President,,,Jill Stein,5
-Merrick,VIEREGG,President,,,Jill Stein,5
-Merrick,WARD 1,President,,,Jill Stein,6
-Merrick,WARD 2,President,,,Jill Stein,4
-Merrick,Absentee/Early Vote,President,,Republican,Donald J. Trump,285
-Merrick,CENTRAL,President,,Republican,Donald J. Trump,34
-Merrick,CHAPMAN,President,,Republican,Donald J. Trump,185
-Merrick,CLARKSVILLE EAST,President,,Republican,Donald J. Trump,125
-Merrick,CLARKSVILLE WEST,President,,Republican,Donald J. Trump,96
-Merrick,Countywide,President,,Republican,Donald J. Trump,0
-Merrick,LONE TREE NORTH,President,,Republican,Donald J. Trump,170
-Merrick,LONE TREE SOUTH,President,,Republican,Donald J. Trump,85
-Merrick,LOUP,President,,Republican,Donald J. Trump,208
-Merrick,MEAD,President,,Republican,Donald J. Trump,69
-Merrick,MIDLAND,President,,Republican,Donald J. Trump,89
-Merrick,New/Former Resident,President,,Republican,Donald J. Trump,0
-Merrick,PRAIRIE CREEK,President,,Republican,Donald J. Trump,169
-Merrick,PRAIRIE ISLAND,President,,Republican,Donald J. Trump,75
-Merrick,SILVER CREEK,President,,Republican,Donald J. Trump,210
-Merrick,VIEREGG,President,,Republican,Donald J. Trump,275
-Merrick,WARD 1,President,,Republican,Donald J. Trump,426
-Merrick,WARD 2,President,,Republican,Donald J. Trump,425
-Merrick,Absentee/Early Vote,U.S. House,3,Republican,Adrian Smith,332
-Merrick,CENTRAL,U.S. House,3,Republican,Adrian Smith,32
-Merrick,CHAPMAN,U.S. House,3,Republican,Adrian Smith,199
-Merrick,CLARKSVILLE EAST,U.S. House,3,Republican,Adrian Smith,126
-Merrick,CLARKSVILLE WEST,U.S. House,3,Republican,Adrian Smith,102
-Merrick,Countywide,U.S. House,3,Republican,Adrian Smith,0
-Merrick,LONE TREE NORTH,U.S. House,3,Republican,Adrian Smith,185
-Merrick,LONE TREE SOUTH,U.S. House,3,Republican,Adrian Smith,80
-Merrick,LOUP,U.S. House,3,Republican,Adrian Smith,235
-Merrick,MEAD,U.S. House,3,Republican,Adrian Smith,75
-Merrick,MIDLAND,U.S. House,3,Republican,Adrian Smith,86
-Merrick,New/Former Resident,U.S. House,3,Republican,Adrian Smith,0
-Merrick,PRAIRIE CREEK,U.S. House,3,Republican,Adrian Smith,173
-Merrick,PRAIRIE ISLAND,U.S. House,3,Republican,Adrian Smith,75
-Merrick,SILVER CREEK,U.S. House,3,Republican,Adrian Smith,216
-Merrick,VIEREGG,U.S. House,3,Republican,Adrian Smith,273
-Merrick,WARD 1,U.S. House,3,Republican,Adrian Smith,498
-Merrick,WARD 2,U.S. House,3,Republican,Adrian Smith,492
+"","county","precinct","district","office","party","candidate","votes"
+"1","Merrick","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",80
+"2","Merrick","CENTRAL",NA,"President","DEM","Hillary Clinton",5
+"3","Merrick","CHAPMAN",NA,"President","DEM","Hillary Clinton",27
+"4","Merrick","CLARKSVILLE EAST",NA,"President","DEM","Hillary Clinton",25
+"5","Merrick","CLARKSVILLE WEST",NA,"President","DEM","Hillary Clinton",14
+"6","Merrick","Countywide",NA,"President","DEM","Hillary Clinton",0
+"7","Merrick","LONE TREE NORTH",NA,"President","DEM","Hillary Clinton",29
+"8","Merrick","LONE TREE SOUTH",NA,"President","DEM","Hillary Clinton",13
+"9","Merrick","LOUP",NA,"President","DEM","Hillary Clinton",52
+"10","Merrick","MEAD",NA,"President","DEM","Hillary Clinton",11
+"11","Merrick","MIDLAND",NA,"President","DEM","Hillary Clinton",17
+"12","Merrick","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
+"13","Merrick","PRAIRIE CREEK",NA,"President","DEM","Hillary Clinton",18
+"14","Merrick","PRAIRIE ISLAND",NA,"President","DEM","Hillary Clinton",13
+"15","Merrick","SILVER CREEK",NA,"President","DEM","Hillary Clinton",19
+"16","Merrick","VIEREGG",NA,"President","DEM","Hillary Clinton",89
+"17","Merrick","WARD 1",NA,"President","DEM","Hillary Clinton",101
+"18","Merrick","WARD 2",NA,"President","DEM","Hillary Clinton",89
+"19","Merrick","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",18
+"20","Merrick","CENTRAL",NA,"President","LIB","Gary Johnson",3
+"21","Merrick","CHAPMAN",NA,"President","LIB","Gary Johnson",7
+"22","Merrick","CLARKSVILLE EAST",NA,"President","LIB","Gary Johnson",5
+"23","Merrick","CLARKSVILLE WEST",NA,"President","LIB","Gary Johnson",8
+"24","Merrick","Countywide",NA,"President","LIB","Gary Johnson",0
+"25","Merrick","LONE TREE NORTH",NA,"President","LIB","Gary Johnson",6
+"26","Merrick","LONE TREE SOUTH",NA,"President","LIB","Gary Johnson",4
+"27","Merrick","LOUP",NA,"President","LIB","Gary Johnson",16
+"28","Merrick","MEAD",NA,"President","LIB","Gary Johnson",3
+"29","Merrick","MIDLAND",NA,"President","LIB","Gary Johnson",5
+"30","Merrick","New/Former Resident",NA,"President","LIB","Gary Johnson",0
+"31","Merrick","PRAIRIE CREEK",NA,"President","LIB","Gary Johnson",6
+"32","Merrick","PRAIRIE ISLAND",NA,"President","LIB","Gary Johnson",5
+"33","Merrick","SILVER CREEK",NA,"President","LIB","Gary Johnson",16
+"34","Merrick","VIEREGG",NA,"President","LIB","Gary Johnson",7
+"35","Merrick","WARD 1",NA,"President","LIB","Gary Johnson",32
+"36","Merrick","WARD 2",NA,"President","LIB","Gary Johnson",24
+"37","Merrick","Absentee/Early Vote",NA,"President","","Jill Stein",3
+"38","Merrick","CENTRAL",NA,"President","","Jill Stein",1
+"39","Merrick","CHAPMAN",NA,"President","","Jill Stein",1
+"40","Merrick","CLARKSVILLE EAST",NA,"President","","Jill Stein",0
+"41","Merrick","CLARKSVILLE WEST",NA,"President","","Jill Stein",0
+"42","Merrick","Countywide",NA,"President","","Jill Stein",0
+"43","Merrick","LONE TREE NORTH",NA,"President","","Jill Stein",1
+"44","Merrick","LONE TREE SOUTH",NA,"President","","Jill Stein",1
+"45","Merrick","LOUP",NA,"President","","Jill Stein",1
+"46","Merrick","MEAD",NA,"President","","Jill Stein",1
+"47","Merrick","MIDLAND",NA,"President","","Jill Stein",0
+"48","Merrick","New/Former Resident",NA,"President","","Jill Stein",0
+"49","Merrick","PRAIRIE CREEK",NA,"President","","Jill Stein",0
+"50","Merrick","PRAIRIE ISLAND",NA,"President","","Jill Stein",0
+"51","Merrick","SILVER CREEK",NA,"President","","Jill Stein",5
+"52","Merrick","VIEREGG",NA,"President","","Jill Stein",5
+"53","Merrick","WARD 1",NA,"President","","Jill Stein",6
+"54","Merrick","WARD 2",NA,"President","","Jill Stein",4
+"55","Merrick","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",285
+"56","Merrick","CENTRAL",NA,"President","REP","Donald J. Trump",34
+"57","Merrick","CHAPMAN",NA,"President","REP","Donald J. Trump",185
+"58","Merrick","CLARKSVILLE EAST",NA,"President","REP","Donald J. Trump",125
+"59","Merrick","CLARKSVILLE WEST",NA,"President","REP","Donald J. Trump",96
+"60","Merrick","Countywide",NA,"President","REP","Donald J. Trump",0
+"61","Merrick","LONE TREE NORTH",NA,"President","REP","Donald J. Trump",170
+"62","Merrick","LONE TREE SOUTH",NA,"President","REP","Donald J. Trump",85
+"63","Merrick","LOUP",NA,"President","REP","Donald J. Trump",208
+"64","Merrick","MEAD",NA,"President","REP","Donald J. Trump",69
+"65","Merrick","MIDLAND",NA,"President","REP","Donald J. Trump",89
+"66","Merrick","New/Former Resident",NA,"President","REP","Donald J. Trump",0
+"67","Merrick","PRAIRIE CREEK",NA,"President","REP","Donald J. Trump",169
+"68","Merrick","PRAIRIE ISLAND",NA,"President","REP","Donald J. Trump",75
+"69","Merrick","SILVER CREEK",NA,"President","REP","Donald J. Trump",210
+"70","Merrick","VIEREGG",NA,"President","REP","Donald J. Trump",275
+"71","Merrick","WARD 1",NA,"President","REP","Donald J. Trump",426
+"72","Merrick","WARD 2",NA,"President","REP","Donald J. Trump",425
+"73","Merrick","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",332
+"74","Merrick","CENTRAL",3,"U.S. House","REP","Adrian Smith",32
+"75","Merrick","CHAPMAN",3,"U.S. House","REP","Adrian Smith",199
+"76","Merrick","CLARKSVILLE EAST",3,"U.S. House","REP","Adrian Smith",126
+"77","Merrick","CLARKSVILLE WEST",3,"U.S. House","REP","Adrian Smith",102
+"78","Merrick","Countywide",3,"U.S. House","REP","Adrian Smith",0
+"79","Merrick","LONE TREE NORTH",3,"U.S. House","REP","Adrian Smith",185
+"80","Merrick","LONE TREE SOUTH",3,"U.S. House","REP","Adrian Smith",80
+"81","Merrick","LOUP",3,"U.S. House","REP","Adrian Smith",235
+"82","Merrick","MEAD",3,"U.S. House","REP","Adrian Smith",75
+"83","Merrick","MIDLAND",3,"U.S. House","REP","Adrian Smith",86
+"84","Merrick","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
+"85","Merrick","PRAIRIE CREEK",3,"U.S. House","REP","Adrian Smith",173
+"86","Merrick","PRAIRIE ISLAND",3,"U.S. House","REP","Adrian Smith",75
+"87","Merrick","SILVER CREEK",3,"U.S. House","REP","Adrian Smith",216
+"88","Merrick","VIEREGG",3,"U.S. House","REP","Adrian Smith",273
+"89","Merrick","WARD 1",3,"U.S. House","REP","Adrian Smith",498
+"90","Merrick","WARD 2",3,"U.S. House","REP","Adrian Smith",492

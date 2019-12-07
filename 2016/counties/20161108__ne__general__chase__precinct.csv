@@ -1,97 +1,97 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Chase","Champion/Lamar",NA,"President","REP","Donald J. Trump",180
-"2","Chase","Imperial East",NA,"President","REP","Donald J. Trump",225
-"3","Chase","Imperial West",NA,"President","REP","Donald J. Trump",436
-"4","Chase","Imperial Rural",NA,"President","REP","Donald J. Trump",243
-"5","Chase","Wauneta",NA,"President","REP","Donald J. Trump",296
-"6","Chase","Early",NA,"President","REP","Donald J. Trump",247
-"7","Chase","Provisional",NA,"President","REP","Donald J. Trump",27
-"8","Chase","Total",NA,"President","REP","Donald J. Trump",1648
-"9","Chase","Champion/Lamar",NA,"President","DEM","Hillary Clinton",14
-"10","Chase","Imperial East",NA,"President","DEM","Hillary Clinton",27
-"11","Chase","Imperial West",NA,"President","DEM","Hillary Clinton",39
-"12","Chase","Imperial Rural",NA,"President","DEM","Hillary Clinton",18
-"13","Chase","Wauneta",NA,"President","DEM","Hillary Clinton",26
-"14","Chase","Early",NA,"President","DEM","Hillary Clinton",47
-"15","Chase","Provisional",NA,"President","DEM","Hillary Clinton",0
-"16","Chase","Total",NA,"President","DEM","Hillary Clinton",171
-"17","Chase","Champion/Lamar",NA,"President","LIB","Gary Johnson",4
-"18","Chase","Imperial East",NA,"President","LIB","Gary Johnson",7
-"19","Chase","Imperial West",NA,"President","LIB","Gary Johnson",18
-"20","Chase","Imperial Rural",NA,"President","LIB","Gary Johnson",5
-"21","Chase","Wauneta",NA,"President","LIB","Gary Johnson",10
-"22","Chase","Early",NA,"President","LIB","Gary Johnson",9
-"23","Chase","Provisional",NA,"President","LIB","Gary Johnson",1
-"24","Chase","Total",NA,"President","LIB","Gary Johnson",54
-"25","Chase","Champion/Lamar",NA,"President","","Jill Stein",0
-"26","Chase","Imperial East",NA,"President","","Jill Stein",2
-"27","Chase","Imperial West",NA,"President","","Jill Stein",2
-"28","Chase","Imperial Rural",NA,"President","","Jill Stein",0
-"29","Chase","Wauneta",NA,"President","","Jill Stein",1
-"30","Chase","Early",NA,"President","","Jill Stein",7
-"31","Chase","Provisional",NA,"President","","Jill Stein",0
-"32","Chase","Total",NA,"President","","Jill Stein",6
-"33","Chase","Champion/Lamar",NA,"President","","Under Votes",2
-"34","Chase","Imperial East",NA,"President","","Under Votes",1
-"35","Chase","Imperial West",NA,"President","","Under Votes",3
-"36","Chase","Imperial Rural",NA,"President","","Under Votes",2
-"37","Chase","Wauneta",NA,"President","","Under Votes",5
-"38","Chase","Early",NA,"President","","Under Votes",1
-"39","Chase","Provisional",NA,"President","","Under Votes",0
-"40","Chase","Total",NA,"President","","Under Votes",15
-"41","Chase","Champion/Lamar",NA,"President","","Over Votes",0
-"42","Chase","Imperial East",NA,"President","","Over Votes",0
-"43","Chase","Imperial West",NA,"President","","Over Votes",7
-"44","Chase","Imperial Rural",NA,"President","","Over Votes",0
-"45","Chase","Wauneta",NA,"President","","Over Votes",1
-"46","Chase","Early",NA,"President","","Over Votes",0
-"47","Chase","Provisional",NA,"President","","Over Votes",0
-"48","Chase","Total",NA,"President","","Over Votes",2
-"49","Chase","Champion/Lamar",NA,"President","","Write-ins",1
-"50","Chase","Imperial East",NA,"President","","Write-ins",5
-"51","Chase","Imperial West",NA,"President","","Write-ins",4
-"52","Chase","Imperial Rural",NA,"President","","Write-ins",4
-"53","Chase","Wauneta",NA,"President","","Write-ins",3
-"54","Chase","Early",NA,"President","","Write-ins",1
-"55","Chase","Provisional",NA,"President","","Write-ins",0
-"56","Chase","Total",NA,"President","","Write-ins",19
-"57","Chase","Champion/Lamar",NA,"President","","",201
-"58","Chase","Imperial East",NA,"President","","",268
-"59","Chase","Imperial West",NA,"President","","",503
-"60","Chase","Imperial Rural",NA,"President","","",272
-"61","Chase","Wauneta",NA,"President","","",343
-"62","Chase","Early",NA,"President","","",300
-"63","Chase","Provisional",NA,"President","","",28
-"64","Chase","Total",NA,"President","","",1915
-"65","Chase","Champion/Lamar",3,"U.S. House","REP","Adrian Smith",777
-"66","Chase","Imperial East",3,"U.S. House","REP","Adrian Smith",235
-"67","Chase","Imperial West",3,"U.S. House","REP","Adrian Smith",449
-"68","Chase","Imperial Rural",3,"U.S. House","REP","Adrian Smith",249
-"69","Chase","Wauneta",3,"U.S. House","REP","Adrian Smith",309
-"70","Chase","Early",3,"U.S. House","REP","Adrian Smith",253
-"71","Chase","Provisional",3,"U.S. House","REP","Adrian Smith",25
-"72","Chase","Total",3,"U.S. House","REP","Adrian Smith",1697
-"73","Chase","Champion/Lamar",3,"U.S. House","","Under Votes",24
-"74","Chase","Imperial East",3,"U.S. House","","Under Votes",32
-"75","Chase","Imperial West",3,"U.S. House","","Under Votes",50
-"76","Chase","Imperial Rural",3,"U.S. House","","Under Votes",21
-"77","Chase","Wauneta",3,"U.S. House","","Under Votes",32
-"78","Chase","Early",3,"U.S. House","","Under Votes",43
-"79","Chase","Provisional",3,"U.S. House","","Under Votes",0
-"80","Chase","Total",3,"U.S. House","","Under Votes",202
-"81","Chase","Champion/Lamar",3,"U.S. House","","Over Votes",0
-"82","Chase","Imperial East",3,"U.S. House","","Over Votes",0
-"83","Chase","Imperial West",3,"U.S. House","","Over Votes",1
-"84","Chase","Imperial Rural",3,"U.S. House","","Over Votes",0
-"85","Chase","Wauneta",3,"U.S. House","","Over Votes",0
-"86","Chase","Early",3,"U.S. House","","Over Votes",0
-"87","Chase","Provisional",3,"U.S. House","","Over Votes",0
-"88","Chase","Total",3,"U.S. House","","Over Votes",1
-"89","Chase","Champion/Lamar",3,"U.S. House","","Write-ins",0
-"90","Chase","Imperial East",3,"U.S. House","","Write-ins",1
-"91","Chase","Imperial West",3,"U.S. House","","Write-ins",3
-"92","Chase","Imperial Rural",3,"U.S. House","","Write-ins",2
-"93","Chase","Wauneta",3,"U.S. House","","Write-ins",2
-"94","Chase","Early",3,"U.S. House","","Write-ins",4
-"95","Chase","Provisional",3,"U.S. House","","Write-ins",0
-"96","Chase","Total",3,"U.S. House","","Write-ins",12
+,county,precinct,district,office,party,candidate,votes
+1,Chase,Champion/Lamar,NA,President,REP,Donald J. Trump,180
+2,Chase,Imperial East,NA,President,REP,Donald J. Trump,225
+3,Chase,Imperial West,NA,President,REP,Donald J. Trump,436
+4,Chase,Imperial Rural,NA,President,REP,Donald J. Trump,243
+5,Chase,Wauneta,NA,President,REP,Donald J. Trump,296
+6,Chase,Early,NA,President,REP,Donald J. Trump,241
+7,Chase,Provisional,NA,President,REP,Donald J. Trump,27
+8,Chase,Total,NA,President,REP,Donald J. Trump,1648
+9,Chase,Champion/Lamar,NA,President,DEM,Hillary Clinton,14
+10,Chase,Imperial East,NA,President,DEM,Hillary Clinton,27
+11,Chase,Imperial West,NA,President,DEM,Hillary Clinton,39
+12,Chase,Imperial Rural,NA,President,DEM,Hillary Clinton,18
+13,Chase,Wauneta,NA,President,DEM,Hillary Clinton,26
+14,Chase,Early,NA,President,DEM,Hillary Clinton,47
+15,Chase,Provisional,NA,President,DEM,Hillary Clinton,0
+16,Chase,Total,NA,President,DEM,Hillary Clinton,171
+17,Chase,Champion/Lamar,NA,President,LIB,Gary Johnson,4
+18,Chase,Imperial East,NA,President,LIB,Gary Johnson,7
+19,Chase,Imperial West,NA,President,LIB,Gary Johnson,18
+20,Chase,Imperial Rural,NA,President,LIB,Gary Johnson,5
+21,Chase,Wauneta,NA,President,LIB,Gary Johnson,10
+22,Chase,Early,NA,President,LIB,Gary Johnson,9
+23,Chase,Provisional,NA,President,LIB,Gary Johnson,1
+24,Chase,Total,NA,President,LIB,Gary Johnson,54
+25,Chase,Champion/Lamar,NA,President,,Jill Stein,0
+26,Chase,Imperial East,NA,President,,Jill Stein,2
+27,Chase,Imperial West,NA,President,,Jill Stein,2
+28,Chase,Imperial Rural,NA,President,,Jill Stein,0
+29,Chase,Wauneta,NA,President,,Jill Stein,1
+30,Chase,Early,NA,President,,Jill Stein,1
+31,Chase,Provisional,NA,President,,Jill Stein,0
+32,Chase,Total,NA,President,,Jill Stein,6
+33,Chase,Champion/Lamar,NA,President,,Under Votes,2
+34,Chase,Imperial East,NA,President,,Under Votes,1
+35,Chase,Imperial West,NA,President,,Under Votes,3
+36,Chase,Imperial Rural,NA,President,,Under Votes,2
+37,Chase,Wauneta,NA,President,,Under Votes,5
+38,Chase,Early,NA,President,,Under Votes,1
+39,Chase,Provisional,NA,President,,Under Votes,0
+40,Chase,Total,NA,President,,Under Votes,15
+41,Chase,Champion/Lamar,NA,President,,Over Votes,0
+42,Chase,Imperial East,NA,President,,Over Votes,0
+43,Chase,Imperial West,NA,President,,Over Votes,7
+44,Chase,Imperial Rural,NA,President,,Over Votes,0
+45,Chase,Wauneta,NA,President,,Over Votes,1
+46,Chase,Early,NA,President,,Over Votes,0
+47,Chase,Provisional,NA,President,,Over Votes,0
+48,Chase,Total,NA,President,,Over Votes,2
+49,Chase,Champion/Lamar,NA,President,,Write-ins,1
+50,Chase,Imperial East,NA,President,,Write-ins,5
+51,Chase,Imperial West,NA,President,,Write-ins,4
+52,Chase,Imperial Rural,NA,President,,Write-ins,4
+53,Chase,Wauneta,NA,President,,Write-ins,3
+54,Chase,Early,NA,President,,Write-ins,1
+55,Chase,Provisional,NA,President,,Write-ins,0
+56,Chase,Total,NA,President,,Write-ins,19
+57,Chase,Champion/Lamar,NA,President,,,201
+58,Chase,Imperial East,NA,President,,,268
+59,Chase,Imperial West,NA,President,,,503
+60,Chase,Imperial Rural,NA,President,,,272
+61,Chase,Wauneta,NA,President,,,343
+62,Chase,Early,NA,President,,,300
+63,Chase,Provisional,NA,President,,,28
+64,Chase,Total,NA,President,,,1915
+65,Chase,Champion/Lamar,3,U.S. House,REP,Adrian Smith,777
+66,Chase,Imperial East,3,U.S. House,REP,Adrian Smith,235
+67,Chase,Imperial West,3,U.S. House,REP,Adrian Smith,449
+68,Chase,Imperial Rural,3,U.S. House,REP,Adrian Smith,249
+69,Chase,Wauneta,3,U.S. House,REP,Adrian Smith,309
+70,Chase,Early,3,U.S. House,REP,Adrian Smith,253
+71,Chase,Provisional,3,U.S. House,REP,Adrian Smith,25
+72,Chase,Total,3,U.S. House,REP,Adrian Smith,1697
+73,Chase,Champion/Lamar,3,U.S. House,,Under Votes,24
+74,Chase,Imperial East,3,U.S. House,,Under Votes,32
+75,Chase,Imperial West,3,U.S. House,,Under Votes,50
+76,Chase,Imperial Rural,3,U.S. House,,Under Votes,21
+77,Chase,Wauneta,3,U.S. House,,Under Votes,32
+78,Chase,Early,3,U.S. House,,Under Votes,43
+79,Chase,Provisional,3,U.S. House,,Under Votes,0
+80,Chase,Total,3,U.S. House,,Under Votes,202
+81,Chase,Champion/Lamar,3,U.S. House,,Over Votes,0
+82,Chase,Imperial East,3,U.S. House,,Over Votes,0
+83,Chase,Imperial West,3,U.S. House,,Over Votes,1
+84,Chase,Imperial Rural,3,U.S. House,,Over Votes,0
+85,Chase,Wauneta,3,U.S. House,,Over Votes,0
+86,Chase,Early,3,U.S. House,,Over Votes,0
+87,Chase,Provisional,3,U.S. House,,Over Votes,0
+88,Chase,Total,3,U.S. House,,Over Votes,1
+89,Chase,Champion/Lamar,3,U.S. House,,Write-ins,0
+90,Chase,Imperial East,3,U.S. House,,Write-ins,1
+91,Chase,Imperial West,3,U.S. House,,Write-ins,3
+92,Chase,Imperial Rural,3,U.S. House,,Write-ins,2
+93,Chase,Wauneta,3,U.S. House,,Write-ins,2
+94,Chase,Early,3,U.S. House,,Write-ins,4
+95,Chase,Provisional,3,U.S. House,,Write-ins,0
+96,Chase,Total,3,U.S. House,,Write-ins,12

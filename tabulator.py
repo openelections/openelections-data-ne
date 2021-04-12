@@ -14,7 +14,7 @@ def cell_finder(some_str, some_sheet):
 header_row = ["county", "precinct", "office",
              "district", "party", "candidate", "votes"]
 
-with open("20181106__ne__general__precinct.csv", "w") as csv_file:
+with open("20201103__ne__general__precinct.csv", "w") as csv_file:
     writer = csv.writer(csv_file, quoting=csv.QUOTE_NONNUMERIC)
     writer.writerow(header_row)
 

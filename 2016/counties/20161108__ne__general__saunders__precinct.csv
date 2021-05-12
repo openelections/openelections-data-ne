@@ -1,153 +1,153 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Saunders","Early voters ",NA,"President","REP","Donald J. Trump",974
-"2","Saunders","Valparaiso 1",NA,"President","REP","Donald J. Trump",441
-"3","Saunders","Weston 2",NA,"President","REP","Donald J. Trump",280
-"4","Saunders","Prague 3",NA,"President","REP","Donald J. Trump",311
-"5","Saunders","Malmo 4",NA,"President","REP","Donald J. Trump",200
-"6","Saunders","Ceresco 5",NA,"President","REP","Donald J. Trump",507
-"7","Saunders","Wahoo rural 6",NA,"President","REP","Donald J. Trump",304
-"8","Saunders","Wahoo ward 1 7",NA,"President","REP","Donald J. Trump",430
-"9","Saunders","Wahoo ward 2 8",NA,"President","REP","Donald J. Trump",369
-"10","Saunders","Wahoo ward 3 9",NA,"President","REP","Donald J. Trump",365
-"11","Saunders","Center 10",NA,"President","REP","Donald J. Trump",205
-"12","Saunders","Cedar Bluffs 11",NA,"President","REP","Donald J. Trump",439
-"13","Saunders","Marietta 12",NA,"President","REP","Donald J. Trump",264
-"14","Saunders","District 4 13",NA,"President","REP","Donald J. Trump",654
-"15","Saunders","Ashland ward 1 14",NA,"President","REP","Donald J. Trump",275
-"16","Saunders","Ashland ward 2 15",NA,"President","REP","Donald J. Trump",305
-"17","Saunders","Ashland rural 16",NA,"President","REP","Donald J. Trump",425
-"18","Saunders","Yutan 17",NA,"President","REP","Donald J. Trump",740
-"19","Saunders","Provisional ballots ",NA,"President","REP","Donald J. Trump",67
-"20","Saunders","Early voters ",NA,"President","DEM","Hillary Clinton",493
-"21","Saunders","Valparaiso 1",NA,"President","DEM","Hillary Clinton",144
-"22","Saunders","Weston 2",NA,"President","DEM","Hillary Clinton",60
-"23","Saunders","Prague 3",NA,"President","DEM","Hillary Clinton",67
-"24","Saunders","Malmo 4",NA,"President","DEM","Hillary Clinton",48
-"25","Saunders","Ceresco 5",NA,"President","DEM","Hillary Clinton",181
-"26","Saunders","Wahoo rural 6",NA,"President","DEM","Hillary Clinton",49
-"27","Saunders","Wahoo ward 1 7",NA,"President","DEM","Hillary Clinton",180
-"28","Saunders","Wahoo ward 2 8",NA,"President","DEM","Hillary Clinton",106
-"29","Saunders","Wahoo ward 3 9",NA,"President","DEM","Hillary Clinton",135
-"30","Saunders","Center 10",NA,"President","DEM","Hillary Clinton",51
-"31","Saunders","Cedar Bluffs 11",NA,"President","DEM","Hillary Clinton",130
-"32","Saunders","Marietta 12",NA,"President","DEM","Hillary Clinton",74
-"33","Saunders","District 4 13",NA,"President","DEM","Hillary Clinton",201
-"34","Saunders","Ashland ward 1 14",NA,"President","DEM","Hillary Clinton",141
-"35","Saunders","Ashland ward 2 15",NA,"President","DEM","Hillary Clinton",127
-"36","Saunders","Ashland rural 16",NA,"President","DEM","Hillary Clinton",147
-"37","Saunders","Yutan 17",NA,"President","DEM","Hillary Clinton",175
-"38","Saunders","Provisional ballots ",NA,"President","DEM","Hillary Clinton",14
-"39","Saunders","Early voters ",NA,"President","LIB","Johnson/Weld",68
-"40","Saunders","Valparaiso 1",NA,"President","LIB","Johnson/Weld",16
-"41","Saunders","Weston 2",NA,"President","LIB","Johnson/Weld",20
-"42","Saunders","Prague 3",NA,"President","LIB","Johnson/Weld",17
-"43","Saunders","Malmo 4",NA,"President","LIB","Johnson/Weld",14
-"44","Saunders","Ceresco 5",NA,"President","LIB","Johnson/Weld",41
-"45","Saunders","Wahoo rural 6",NA,"President","LIB","Johnson/Weld",23
-"46","Saunders","Wahoo ward 1 7",NA,"President","LIB","Johnson/Weld",32
-"47","Saunders","Wahoo ward 2 8",NA,"President","LIB","Johnson/Weld",24
-"48","Saunders","Wahoo ward 3 9",NA,"President","LIB","Johnson/Weld",23
-"49","Saunders","Center 10",NA,"President","LIB","Johnson/Weld",21
-"50","Saunders","Cedar Bluffs 11",NA,"President","LIB","Johnson/Weld",29
-"51","Saunders","Marietta 12",NA,"President","LIB","Johnson/Weld",18
-"52","Saunders","District 4 13",NA,"President","LIB","Johnson/Weld",19
-"53","Saunders","Ashland ward 1 14",NA,"President","LIB","Johnson/Weld",34
-"54","Saunders","Ashland ward 2 15",NA,"President","LIB","Johnson/Weld",30
-"55","Saunders","Ashland rural 16",NA,"President","LIB","Johnson/Weld",29
-"56","Saunders","Yutan 17",NA,"President","LIB","Johnson/Weld",50
-"57","Saunders","Provisional ballots ",NA,"President","LIB","Johnson/Weld",7
-"58","Saunders","Early voters ",NA,"President","PET","Jill Stein",14
-"59","Saunders","Valparaiso 1",NA,"President","PET","Jill Stein",7
-"60","Saunders","Weston 2",NA,"President","PET","Jill Stein",3
-"61","Saunders","Prague 3",NA,"President","PET","Jill Stein",4
-"62","Saunders","Malmo 4",NA,"President","PET","Jill Stein",0
-"63","Saunders","Ceresco 5",NA,"President","PET","Jill Stein",8
-"64","Saunders","Wahoo rural 6",NA,"President","PET","Jill Stein",4
-"65","Saunders","Wahoo ward 1 7",NA,"President","PET","Jill Stein",9
-"66","Saunders","Wahoo ward 2 8",NA,"President","PET","Jill Stein",2
-"67","Saunders","Wahoo ward 3 9",NA,"President","PET","Jill Stein",4
-"68","Saunders","Center 10",NA,"President","PET","Jill Stein",2
-"69","Saunders","Cedar Bluffs 11",NA,"President","PET","Jill Stein",9
-"70","Saunders","Marietta 12",NA,"President","PET","Jill Stein",3
-"71","Saunders","District 4 13",NA,"President","PET","Jill Stein",1
-"72","Saunders","Ashland ward 1 14",NA,"President","PET","Jill Stein",3
-"73","Saunders","Ashland ward 2 15",NA,"President","PET","Jill Stein",6
-"74","Saunders","Ashland rural 16",NA,"President","PET","Jill Stein",6
-"75","Saunders","Yutan 17",NA,"President","PET","Jill Stein",10
-"76","Saunders","Provisional ballots ",NA,"President","PET","Jill Stein",2
-"77","Saunders","Early voters ",NA,"President","NON","Write-ins",29
-"78","Saunders","Valparaiso 1",NA,"President","NON","Write-ins",6
-"79","Saunders","Weston 2",NA,"President","NON","Write-ins",7
-"80","Saunders","Prague 3",NA,"President","NON","Write-ins",7
-"81","Saunders","Malmo 4",NA,"President","NON","Write-ins",4
-"82","Saunders","Ceresco 5",NA,"President","NON","Write-ins",12
-"83","Saunders","Wahoo rural 6",NA,"President","NON","Write-ins",5
-"84","Saunders","Wahoo ward 1 7",NA,"President","NON","Write-ins",10
-"85","Saunders","Wahoo ward 2 8",NA,"President","NON","Write-ins",11
-"86","Saunders","Wahoo ward 3 9",NA,"President","NON","Write-ins",17
-"87","Saunders","Center 10",NA,"President","NON","Write-ins",5
-"88","Saunders","Cedar Bluffs 11",NA,"President","NON","Write-ins",6
-"89","Saunders","Marietta 12",NA,"President","NON","Write-ins",2
-"90","Saunders","District 4 13",NA,"President","NON","Write-ins",12
-"91","Saunders","Ashland ward 1 14",NA,"President","NON","Write-ins",4
-"92","Saunders","Ashland ward 2 15",NA,"President","NON","Write-ins",10
-"93","Saunders","Ashland rural 16",NA,"President","NON","Write-ins",12
-"94","Saunders","Yutan 17",NA,"President","NON","Write-ins",11
-"95","Saunders","Provisional ballots ",NA,"President","NON","Write-ins",3
-"96","Saunders","Early voters ",1,"U.S. House","REP","Jeff Fortenberry",1090
-"97","Saunders","Valparaiso 1",1,"U.S. House","REP","Jeff Fortenberry",465
-"98","Saunders","Weston 2",1,"U.S. House","REP","Jeff Fortenberry",293
-"99","Saunders","Prague 3",1,"U.S. House","REP","Jeff Fortenberry",330
-"100","Saunders","Malmo 4",1,"U.S. House","REP","Jeff Fortenberry",219
-"101","Saunders","Ceresco 5",1,"U.S. House","REP","Jeff Fortenberry",572
-"102","Saunders","Wahoo rural 6",1,"U.S. House","REP","Jeff Fortenberry",321
-"103","Saunders","Wahoo ward 1 7",1,"U.S. House","REP","Jeff Fortenberry",505
-"104","Saunders","Wahoo ward 2 8",1,"U.S. House","REP","Jeff Fortenberry",407
-"105","Saunders","Wahoo ward 3 9",1,"U.S. House","REP","Jeff Fortenberry",406
-"106","Saunders","Center 10",1,"U.S. House","REP","Jeff Fortenberry",223
-"107","Saunders","Cedar Bluffs 11",1,"U.S. House","REP","Jeff Fortenberry",471
-"108","Saunders","Marietta 12",1,"U.S. House","REP","Jeff Fortenberry",289
-"109","Saunders","District 4 13",1,"U.S. House","REP","Jeff Fortenberry",709
-"110","Saunders","Ashland ward 1 14",1,"U.S. House","REP","Jeff Fortenberry",311
-"111","Saunders","Ashland ward 2 15",1,"U.S. House","REP","Jeff Fortenberry",353
-"112","Saunders","Ashland rural 16",1,"U.S. House","REP","Jeff Fortenberry",476
-"113","Saunders","Yutan 17",1,"U.S. House","REP","Jeff Fortenberry",776
-"114","Saunders","Provisional ballots ",1,"U.S. House","REP","Jeff Fortenberry",71
-"115","Saunders","Early voters ",1,"U.S. House","DEM","Daniel M. Wik",429
-"116","Saunders","Valparaiso 1",1,"U.S. House","DEM","Daniel M. Wik",141
-"117","Saunders","Weston 2",1,"U.S. House","DEM","Daniel M. Wik",70
-"118","Saunders","Prague 3",1,"U.S. House","DEM","Daniel M. Wik",66
-"119","Saunders","Malmo 4",1,"U.S. House","DEM","Daniel M. Wik",41
-"120","Saunders","Ceresco 5",1,"U.S. House","DEM","Daniel M. Wik",156
-"121","Saunders","Wahoo rural 6",1,"U.S. House","DEM","Daniel M. Wik",46
-"122","Saunders","Wahoo ward 1 7",1,"U.S. House","DEM","Daniel M. Wik",146
-"123","Saunders","Wahoo ward 2 8",1,"U.S. House","DEM","Daniel M. Wik",94
-"124","Saunders","Wahoo ward 3 9",1,"U.S. House","DEM","Daniel M. Wik",114
-"125","Saunders","Center 10",1,"U.S. House","DEM","Daniel M. Wik",47
-"126","Saunders","Cedar Bluffs 11",1,"U.S. House","DEM","Daniel M. Wik",119
-"127","Saunders","Marietta 12",1,"U.S. House","DEM","Daniel M. Wik",59
-"128","Saunders","District 4 13",1,"U.S. House","DEM","Daniel M. Wik",143
-"129","Saunders","Ashland ward 1 14",1,"U.S. House","DEM","Daniel M. Wik",121
-"130","Saunders","Ashland ward 2 15",1,"U.S. House","DEM","Daniel M. Wik",105
-"131","Saunders","Ashland rural 16",1,"U.S. House","DEM","Daniel M. Wik",128
-"132","Saunders","Yutan 17",1,"U.S. House","DEM","Daniel M. Wik",163
-"133","Saunders","Provisional ballots ",1,"U.S. House","DEM","Daniel M. Wik",15
-"134","Saunders","Early voters ",1,"U.S. House","NON","Write-ins",3
-"135","Saunders","Valparaiso 1",1,"U.S. House","NON","Write-ins",1
-"136","Saunders","Weston 2",1,"U.S. House","NON","Write-ins",2
-"137","Saunders","Prague 3",1,"U.S. House","NON","Write-ins",0
-"138","Saunders","Malmo 4",1,"U.S. House","NON","Write-ins",1
-"139","Saunders","Ceresco 5",1,"U.S. House","NON","Write-ins",1
-"140","Saunders","Wahoo rural 6",1,"U.S. House","NON","Write-ins",2
-"141","Saunders","Wahoo ward 1 7",1,"U.S. House","NON","Write-ins",0
-"142","Saunders","Wahoo ward 2 8",1,"U.S. House","NON","Write-ins",0
-"143","Saunders","Wahoo ward 3 9",1,"U.S. House","NON","Write-ins",2
-"144","Saunders","Center 10",1,"U.S. House","NON","Write-ins",2
-"145","Saunders","Cedar Bluffs 11",1,"U.S. House","NON","Write-ins",0
-"146","Saunders","Marietta 12",1,"U.S. House","NON","Write-ins",0
-"147","Saunders","District 4 13",1,"U.S. House","NON","Write-ins",3
-"148","Saunders","Ashland ward 1 14",1,"U.S. House","NON","Write-ins",3
-"149","Saunders","Ashland ward 2 15",1,"U.S. House","NON","Write-ins",3
-"150","Saunders","Ashland rural 16",1,"U.S. House","NON","Write-ins",1
-"151","Saunders","Yutan 17",1,"U.S. House","NON","Write-ins",4
-"152","Saunders","Provisional ballots ",1,"U.S. House","NON","Write-ins",0
+,county,precinct,district,office,party,candidate,votes
+1,Saunders,Early voters,NA,President,REP,Donald J. Trump,974
+2,Saunders,Valparaiso 1,NA,President,REP,Donald J. Trump,441
+3,Saunders,Weston 2,NA,President,REP,Donald J. Trump,280
+4,Saunders,Prague 3,NA,President,REP,Donald J. Trump,311
+5,Saunders,Malmo 4,NA,President,REP,Donald J. Trump,200
+6,Saunders,Ceresco 5,NA,President,REP,Donald J. Trump,507
+7,Saunders,Wahoo rural 6,NA,President,REP,Donald J. Trump,304
+8,Saunders,Wahoo ward 1 7,NA,President,REP,Donald J. Trump,430
+9,Saunders,Wahoo ward 2 8,NA,President,REP,Donald J. Trump,369
+10,Saunders,Wahoo ward 3 9,NA,President,REP,Donald J. Trump,365
+11,Saunders,Center 10,NA,President,REP,Donald J. Trump,205
+12,Saunders,Cedar Bluffs 11,NA,President,REP,Donald J. Trump,439
+13,Saunders,Marietta 12,NA,President,REP,Donald J. Trump,264
+14,Saunders,District 4 13,NA,President,REP,Donald J. Trump,654
+15,Saunders,Ashland ward 1 14,NA,President,REP,Donald J. Trump,275
+16,Saunders,Ashland ward 2 15,NA,President,REP,Donald J. Trump,305
+17,Saunders,Ashland rural 16,NA,President,REP,Donald J. Trump,425
+18,Saunders,Yutan 17,NA,President,REP,Donald J. Trump,740
+19,Saunders,Provisional ballots,NA,President,REP,Donald J. Trump,67
+20,Saunders,Early voters,NA,President,DEM,Hillary Clinton,493
+21,Saunders,Valparaiso 1,NA,President,DEM,Hillary Clinton,144
+22,Saunders,Weston 2,NA,President,DEM,Hillary Clinton,60
+23,Saunders,Prague 3,NA,President,DEM,Hillary Clinton,67
+24,Saunders,Malmo 4,NA,President,DEM,Hillary Clinton,48
+25,Saunders,Ceresco 5,NA,President,DEM,Hillary Clinton,181
+26,Saunders,Wahoo rural 6,NA,President,DEM,Hillary Clinton,49
+27,Saunders,Wahoo ward 1 7,NA,President,DEM,Hillary Clinton,180
+28,Saunders,Wahoo ward 2 8,NA,President,DEM,Hillary Clinton,106
+29,Saunders,Wahoo ward 3 9,NA,President,DEM,Hillary Clinton,135
+30,Saunders,Center 10,NA,President,DEM,Hillary Clinton,51
+31,Saunders,Cedar Bluffs 11,NA,President,DEM,Hillary Clinton,130
+32,Saunders,Marietta 12,NA,President,DEM,Hillary Clinton,74
+33,Saunders,District 4 13,NA,President,DEM,Hillary Clinton,201
+34,Saunders,Ashland ward 1 14,NA,President,DEM,Hillary Clinton,141
+35,Saunders,Ashland ward 2 15,NA,President,DEM,Hillary Clinton,127
+36,Saunders,Ashland rural 16,NA,President,DEM,Hillary Clinton,147
+37,Saunders,Yutan 17,NA,President,DEM,Hillary Clinton,175
+38,Saunders,Provisional ballots,NA,President,DEM,Hillary Clinton,14
+39,Saunders,Early voters,NA,President,LIB,Johnson/Weld,68
+40,Saunders,Valparaiso 1,NA,President,LIB,Johnson/Weld,16
+41,Saunders,Weston 2,NA,President,LIB,Johnson/Weld,20
+42,Saunders,Prague 3,NA,President,LIB,Johnson/Weld,17
+43,Saunders,Malmo 4,NA,President,LIB,Johnson/Weld,14
+44,Saunders,Ceresco 5,NA,President,LIB,Johnson/Weld,41
+45,Saunders,Wahoo rural 6,NA,President,LIB,Johnson/Weld,23
+46,Saunders,Wahoo ward 1 7,NA,President,LIB,Johnson/Weld,32
+47,Saunders,Wahoo ward 2 8,NA,President,LIB,Johnson/Weld,24
+48,Saunders,Wahoo ward 3 9,NA,President,LIB,Johnson/Weld,23
+49,Saunders,Center 10,NA,President,LIB,Johnson/Weld,21
+50,Saunders,Cedar Bluffs 11,NA,President,LIB,Johnson/Weld,29
+51,Saunders,Marietta 12,NA,President,LIB,Johnson/Weld,18
+52,Saunders,District 4 13,NA,President,LIB,Johnson/Weld,19
+53,Saunders,Ashland ward 1 14,NA,President,LIB,Johnson/Weld,34
+54,Saunders,Ashland ward 2 15,NA,President,LIB,Johnson/Weld,30
+55,Saunders,Ashland rural 16,NA,President,LIB,Johnson/Weld,29
+56,Saunders,Yutan 17,NA,President,LIB,Johnson/Weld,50
+57,Saunders,Provisional ballots,NA,President,LIB,Johnson/Weld,7
+58,Saunders,Early voters,NA,President,PET,Jill Stein,14
+59,Saunders,Valparaiso 1,NA,President,PET,Jill Stein,7
+60,Saunders,Weston 2,NA,President,PET,Jill Stein,3
+61,Saunders,Prague 3,NA,President,PET,Jill Stein,4
+62,Saunders,Malmo 4,NA,President,PET,Jill Stein,0
+63,Saunders,Ceresco 5,NA,President,PET,Jill Stein,8
+64,Saunders,Wahoo rural 6,NA,President,PET,Jill Stein,4
+65,Saunders,Wahoo ward 1 7,NA,President,PET,Jill Stein,9
+66,Saunders,Wahoo ward 2 8,NA,President,PET,Jill Stein,2
+67,Saunders,Wahoo ward 3 9,NA,President,PET,Jill Stein,4
+68,Saunders,Center 10,NA,President,PET,Jill Stein,2
+69,Saunders,Cedar Bluffs 11,NA,President,PET,Jill Stein,9
+70,Saunders,Marietta 12,NA,President,PET,Jill Stein,3
+71,Saunders,District 4 13,NA,President,PET,Jill Stein,1
+72,Saunders,Ashland ward 1 14,NA,President,PET,Jill Stein,3
+73,Saunders,Ashland ward 2 15,NA,President,PET,Jill Stein,6
+74,Saunders,Ashland rural 16,NA,President,PET,Jill Stein,6
+75,Saunders,Yutan 17,NA,President,PET,Jill Stein,10
+76,Saunders,Provisional ballots,NA,President,PET,Jill Stein,2
+77,Saunders,Early voters,NA,President,NON,Write-ins,29
+78,Saunders,Valparaiso 1,NA,President,NON,Write-ins,6
+79,Saunders,Weston 2,NA,President,NON,Write-ins,7
+80,Saunders,Prague 3,NA,President,NON,Write-ins,7
+81,Saunders,Malmo 4,NA,President,NON,Write-ins,4
+82,Saunders,Ceresco 5,NA,President,NON,Write-ins,12
+83,Saunders,Wahoo rural 6,NA,President,NON,Write-ins,5
+84,Saunders,Wahoo ward 1 7,NA,President,NON,Write-ins,10
+85,Saunders,Wahoo ward 2 8,NA,President,NON,Write-ins,11
+86,Saunders,Wahoo ward 3 9,NA,President,NON,Write-ins,17
+87,Saunders,Center 10,NA,President,NON,Write-ins,5
+88,Saunders,Cedar Bluffs 11,NA,President,NON,Write-ins,6
+89,Saunders,Marietta 12,NA,President,NON,Write-ins,2
+90,Saunders,District 4 13,NA,President,NON,Write-ins,12
+91,Saunders,Ashland ward 1 14,NA,President,NON,Write-ins,4
+92,Saunders,Ashland ward 2 15,NA,President,NON,Write-ins,10
+93,Saunders,Ashland rural 16,NA,President,NON,Write-ins,12
+94,Saunders,Yutan 17,NA,President,NON,Write-ins,11
+95,Saunders,Provisional ballots,NA,President,NON,Write-ins,3
+96,Saunders,Early voters,1,U.S. House,REP,Jeff Fortenberry,1090
+97,Saunders,Valparaiso 1,1,U.S. House,REP,Jeff Fortenberry,465
+98,Saunders,Weston 2,1,U.S. House,REP,Jeff Fortenberry,293
+99,Saunders,Prague 3,1,U.S. House,REP,Jeff Fortenberry,330
+100,Saunders,Malmo 4,1,U.S. House,REP,Jeff Fortenberry,219
+101,Saunders,Ceresco 5,1,U.S. House,REP,Jeff Fortenberry,572
+102,Saunders,Wahoo rural 6,1,U.S. House,REP,Jeff Fortenberry,321
+103,Saunders,Wahoo ward 1 7,1,U.S. House,REP,Jeff Fortenberry,505
+104,Saunders,Wahoo ward 2 8,1,U.S. House,REP,Jeff Fortenberry,407
+105,Saunders,Wahoo ward 3 9,1,U.S. House,REP,Jeff Fortenberry,406
+106,Saunders,Center 10,1,U.S. House,REP,Jeff Fortenberry,223
+107,Saunders,Cedar Bluffs 11,1,U.S. House,REP,Jeff Fortenberry,471
+108,Saunders,Marietta 12,1,U.S. House,REP,Jeff Fortenberry,289
+109,Saunders,District 4 13,1,U.S. House,REP,Jeff Fortenberry,709
+110,Saunders,Ashland ward 1 14,1,U.S. House,REP,Jeff Fortenberry,311
+111,Saunders,Ashland ward 2 15,1,U.S. House,REP,Jeff Fortenberry,353
+112,Saunders,Ashland rural 16,1,U.S. House,REP,Jeff Fortenberry,476
+113,Saunders,Yutan 17,1,U.S. House,REP,Jeff Fortenberry,776
+114,Saunders,Provisional ballots,1,U.S. House,REP,Jeff Fortenberry,71
+115,Saunders,Early voters,1,U.S. House,DEM,Daniel M. Wik,429
+116,Saunders,Valparaiso 1,1,U.S. House,DEM,Daniel M. Wik,141
+117,Saunders,Weston 2,1,U.S. House,DEM,Daniel M. Wik,70
+118,Saunders,Prague 3,1,U.S. House,DEM,Daniel M. Wik,66
+119,Saunders,Malmo 4,1,U.S. House,DEM,Daniel M. Wik,41
+120,Saunders,Ceresco 5,1,U.S. House,DEM,Daniel M. Wik,156
+121,Saunders,Wahoo rural 6,1,U.S. House,DEM,Daniel M. Wik,46
+122,Saunders,Wahoo ward 1 7,1,U.S. House,DEM,Daniel M. Wik,146
+123,Saunders,Wahoo ward 2 8,1,U.S. House,DEM,Daniel M. Wik,94
+124,Saunders,Wahoo ward 3 9,1,U.S. House,DEM,Daniel M. Wik,114
+125,Saunders,Center 10,1,U.S. House,DEM,Daniel M. Wik,47
+126,Saunders,Cedar Bluffs 11,1,U.S. House,DEM,Daniel M. Wik,119
+127,Saunders,Marietta 12,1,U.S. House,DEM,Daniel M. Wik,59
+128,Saunders,District 4 13,1,U.S. House,DEM,Daniel M. Wik,143
+129,Saunders,Ashland ward 1 14,1,U.S. House,DEM,Daniel M. Wik,121
+130,Saunders,Ashland ward 2 15,1,U.S. House,DEM,Daniel M. Wik,105
+131,Saunders,Ashland rural 16,1,U.S. House,DEM,Daniel M. Wik,128
+132,Saunders,Yutan 17,1,U.S. House,DEM,Daniel M. Wik,163
+133,Saunders,Provisional ballots,1,U.S. House,DEM,Daniel M. Wik,15
+134,Saunders,Early voters,1,U.S. House,NON,Write-ins,3
+135,Saunders,Valparaiso 1,1,U.S. House,NON,Write-ins,1
+136,Saunders,Weston 2,1,U.S. House,NON,Write-ins,2
+137,Saunders,Prague 3,1,U.S. House,NON,Write-ins,0
+138,Saunders,Malmo 4,1,U.S. House,NON,Write-ins,1
+139,Saunders,Ceresco 5,1,U.S. House,NON,Write-ins,1
+140,Saunders,Wahoo rural 6,1,U.S. House,NON,Write-ins,2
+141,Saunders,Wahoo ward 1 7,1,U.S. House,NON,Write-ins,0
+142,Saunders,Wahoo ward 2 8,1,U.S. House,NON,Write-ins,0
+143,Saunders,Wahoo ward 3 9,1,U.S. House,NON,Write-ins,2
+144,Saunders,Center 10,1,U.S. House,NON,Write-ins,2
+145,Saunders,Cedar Bluffs 11,1,U.S. House,NON,Write-ins,0
+146,Saunders,Marietta 12,1,U.S. House,NON,Write-ins,0
+147,Saunders,District 4 13,1,U.S. House,NON,Write-ins,3
+148,Saunders,Ashland ward 1 14,1,U.S. House,NON,Write-ins,3
+149,Saunders,Ashland ward 2 15,1,U.S. House,NON,Write-ins,3
+150,Saunders,Ashland rural 16,1,U.S. House,NON,Write-ins,1
+151,Saunders,Yutan 17,1,U.S. House,NON,Write-ins,4
+152,Saunders,Provisional ballots,1,U.S. House,NON,Write-ins,0

@@ -1,161 +1,161 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Custer","Mason City",NA,"President","REP","Donald J. Trump",165
-"2","Custer","Arnold",NA,"President","REP","Donald J. Trump",358
-"3","Custer","Broken Bow North",NA,"President","REP","Donald J. Trump",108
-"4","Custer","Broken Bow North Rural",NA,"President","REP","Donald J. Trump",173
-"5","Custer","Broken Bow South",NA,"President","REP","Donald J. Trump",395
-"6","Custer","Broken Bow Southwest",NA,"President","REP","Donald J. Trump",176
-"7","Custer","Berwyn",NA,"President","REP","Donald J. Trump",81
-"8","Custer","Custer",NA,"President","REP","Donald J. Trump",39
-"9","Custer","East Custer",NA,"President","REP","Donald J. Trump",21
-"10","Custer","Cliff",NA,"President","REP","Donald J. Trump",65
-"11","Custer","Comstock",NA,"President","REP","Donald J. Trump",50
-"12","Custer","Douglas Grove",NA,"President","REP","Donald J. Trump",36
-"13","Custer","Spring Creek",NA,"President","REP","Donald J. Trump",7
-"14","Custer","Delight",NA,"President","REP","Donald J. Trump",310
-"15","Custer","Elim",NA,"President","REP","Donald J. Trump",60
-"16","Custer","Triumph",NA,"President","REP","Donald J. Trump",54
-"17","Custer","Garfield",NA,"President","REP","Donald J. Trump",47
-"18","Custer","Grant",NA,"President","REP","Donald J. Trump",17
-"19","Custer","Kilfoil",NA,"President","REP","Donald J. Trump",260
-"20","Custer","Loup",NA,"President","REP","Donald J. Trump",51
-"21","Custer","Lillian/Milburn",NA,"President","REP","Donald J. Trump",74
-"22","Custer","Corner/Sargent Rural",NA,"President","REP","Donald J. Trump",66
-"23","Custer","West Union",NA,"President","REP","Donald J. Trump",26
-"24","Custer","Sargent Village",NA,"President","REP","Donald J. Trump",172
-"25","Custer","Ryno",NA,"President","REP","Donald J. Trump",43
-"26","Custer","Anselmo",NA,"President","REP","Donald J. Trump",169
-"27","Custer","Woodriver",NA,"President","REP","Donald J. Trump",121
-"28","Custer","Wayne",NA,"President","REP","Donald J. Trump",49
-"29","Custer","Broken Bow Northwest",NA,"President","REP","Donald J. Trump",334
-"30","Custer","Broken Bow South Rural",NA,"President","REP","Donald J. Trump",158
-"31","Custer","Absentee",NA,"President","REP","Donald J. Trump",708
-"32","Custer","Total",NA,"President","REP","Donald J. Trump",4695
-"33","Custer","Mason City",NA,"President","DEM","Hillary Clinton",19
-"34","Custer","Arnold",NA,"President","DEM","Hillary Clinton",29
-"35","Custer","Broken Bow North",NA,"President","DEM","Hillary Clinton",33
-"36","Custer","Broken Bow North Rural",NA,"President","DEM","Hillary Clinton",9
-"37","Custer","Broken Bow South",NA,"President","DEM","Hillary Clinton",69
-"38","Custer","Broken Bow Southwest",NA,"President","DEM","Hillary Clinton",35
-"39","Custer","Berwyn",NA,"President","DEM","Hillary Clinton",10
-"40","Custer","Custer",NA,"President","DEM","Hillary Clinton",6
-"41","Custer","East Custer",NA,"President","DEM","Hillary Clinton",0
-"42","Custer","Cliff",NA,"President","DEM","Hillary Clinton",3
-"43","Custer","Comstock",NA,"President","DEM","Hillary Clinton",14
-"44","Custer","Douglas Grove",NA,"President","DEM","Hillary Clinton",5
-"45","Custer","Spring Creek",NA,"President","DEM","Hillary Clinton",1
-"46","Custer","Delight",NA,"President","DEM","Hillary Clinton",28
-"47","Custer","Elim",NA,"President","DEM","Hillary Clinton",1
-"48","Custer","Triumph",NA,"President","DEM","Hillary Clinton",0
-"49","Custer","Garfield",NA,"President","DEM","Hillary Clinton",3
-"50","Custer","Grant",NA,"President","DEM","Hillary Clinton",3
-"51","Custer","Kilfoil",NA,"President","DEM","Hillary Clinton",20
-"52","Custer","Loup",NA,"President","DEM","Hillary Clinton",2
-"53","Custer","Lillian/Milburn",NA,"President","DEM","Hillary Clinton",3
-"54","Custer","Corner/Sargent Rural",NA,"President","DEM","Hillary Clinton",8
-"55","Custer","West Union",NA,"President","DEM","Hillary Clinton",1
-"56","Custer","Sargent Village",NA,"President","DEM","Hillary Clinton",28
-"57","Custer","Ryno",NA,"President","DEM","Hillary Clinton",2
-"58","Custer","Anselmo",NA,"President","DEM","Hillary Clinton",19
-"59","Custer","Woodriver",NA,"President","DEM","Hillary Clinton",11
-"60","Custer","Wayne",NA,"President","DEM","Hillary Clinton",3
-"61","Custer","Broken Bow Northwest",NA,"President","DEM","Hillary Clinton",49
-"62","Custer","Broken Bow South Rural",NA,"President","DEM","Hillary Clinton",13
-"63","Custer","Absentee",NA,"President","DEM","Hillary Clinton",176
-"64","Custer","Total",NA,"President","DEM","Hillary Clinton",603
-"65","Custer","Mason City",NA,"President","LIB","Gary Johnson",8
-"66","Custer","Arnold",NA,"President","LIB","Gary Johnson",8
-"67","Custer","Broken Bow North",NA,"President","LIB","Gary Johnson",5
-"68","Custer","Broken Bow North Rural",NA,"President","LIB","Gary Johnson",3
-"69","Custer","Broken Bow South",NA,"President","LIB","Gary Johnson",15
-"70","Custer","Broken Bow Southwest",NA,"President","LIB","Gary Johnson",5
-"71","Custer","Berwyn",NA,"President","LIB","Gary Johnson",4
-"72","Custer","Custer",NA,"President","LIB","Gary Johnson",4
-"73","Custer","East Custer",NA,"President","LIB","Gary Johnson",2
-"74","Custer","Cliff",NA,"President","LIB","Gary Johnson",0
-"75","Custer","Comstock",NA,"President","LIB","Gary Johnson",1
-"76","Custer","Douglas Grove",NA,"President","LIB","Gary Johnson",3
-"77","Custer","Spring Creek",NA,"President","LIB","Gary Johnson",1
-"78","Custer","Delight",NA,"President","LIB","Gary Johnson",15
-"79","Custer","Elim",NA,"President","LIB","Gary Johnson",0
-"80","Custer","Triumph",NA,"President","LIB","Gary Johnson",3
-"81","Custer","Garfield",NA,"President","LIB","Gary Johnson",1
-"82","Custer","Grant",NA,"President","LIB","Gary Johnson",0
-"83","Custer","Kilfoil",NA,"President","LIB","Gary Johnson",9
-"84","Custer","Loup",NA,"President","LIB","Gary Johnson",1
-"85","Custer","Lillian/Milburn",NA,"President","LIB","Gary Johnson",3
-"86","Custer","Corner/Sargent Rural",NA,"President","LIB","Gary Johnson",2
-"87","Custer","West Union",NA,"President","LIB","Gary Johnson",0
-"88","Custer","Sargent Village",NA,"President","LIB","Gary Johnson",10
-"89","Custer","Ryno",NA,"President","LIB","Gary Johnson",0
-"90","Custer","Anselmo",NA,"President","LIB","Gary Johnson",7
-"91","Custer","Woodriver",NA,"President","LIB","Gary Johnson",5
-"92","Custer","Wayne",NA,"President","LIB","Gary Johnson",0
-"93","Custer","Broken Bow Northwest",NA,"President","LIB","Gary Johnson",24
-"94","Custer","Broken Bow South Rural",NA,"President","LIB","Gary Johnson",2
-"95","Custer","Absentee",NA,"President","LIB","Gary Johnson",50
-"96","Custer","Total",NA,"President","LIB","Gary Johnson",191
-"97","Custer","Mason City",NA,"President","","Jill Stein",0
-"98","Custer","Arnold",NA,"President","","Jill Stein",5
-"99","Custer","Broken Bow North",NA,"President","","Jill Stein",3
-"100","Custer","Broken Bow North Rural",NA,"President","","Jill Stein",0
-"101","Custer","Broken Bow South",NA,"President","","Jill Stein",4
-"102","Custer","Broken Bow Southwest",NA,"President","","Jill Stein",1
-"103","Custer","Berwyn",NA,"President","","Jill Stein",0
-"104","Custer","Custer",NA,"President","","Jill Stein",1
-"105","Custer","East Custer",NA,"President","","Jill Stein",0
-"106","Custer","Cliff",NA,"President","","Jill Stein",0
-"107","Custer","Comstock",NA,"President","","Jill Stein",0
-"108","Custer","Douglas Grove",NA,"President","","Jill Stein",0
-"109","Custer","Spring Creek",NA,"President","","Jill Stein",0
-"110","Custer","Delight",NA,"President","","Jill Stein",2
-"111","Custer","Elim",NA,"President","","Jill Stein",0
-"112","Custer","Triumph",NA,"President","","Jill Stein",0
-"113","Custer","Garfield",NA,"President","","Jill Stein",0
-"114","Custer","Grant",NA,"President","","Jill Stein",0
-"115","Custer","Kilfoil",NA,"President","","Jill Stein",1
-"116","Custer","Loup",NA,"President","","Jill Stein",0
-"117","Custer","Lillian/Milburn",NA,"President","","Jill Stein",0
-"118","Custer","Corner/Sargent Rural",NA,"President","","Jill Stein",0
-"119","Custer","West Union",NA,"President","","Jill Stein",0
-"120","Custer","Sargent Village",NA,"President","","Jill Stein",3
-"121","Custer","Ryno",NA,"President","","Jill Stein",0
-"122","Custer","Anselmo",NA,"President","","Jill Stein",1
-"123","Custer","Woodriver",NA,"President","","Jill Stein",3
-"124","Custer","Wayne",NA,"President","","Jill Stein",0
-"125","Custer","Broken Bow Northwest",NA,"President","","Jill Stein",1
-"126","Custer","Broken Bow South Rural",NA,"President","","Jill Stein",0
-"127","Custer","Absentee",NA,"President","","Jill Stein",8
-"128","Custer","Total",NA,"President","","Jill Stein",33
-"129","Custer","Mason City",3,"U.S. House","REP","Adrian Smith",186
-"130","Custer","Arnold",3,"U.S. House","REP","Adrian Smith",370
-"131","Custer","Broken Bow North",3,"U.S. House","REP","Adrian Smith",122
-"132","Custer","Broken Bow North Rural",3,"U.S. House","REP","Adrian Smith",171
-"133","Custer","Broken Bow South",3,"U.S. House","REP","Adrian Smith",428
-"134","Custer","Broken Bow Southwest",3,"U.S. House","REP","Adrian Smith",198
-"135","Custer","Berwyn",3,"U.S. House","REP","Adrian Smith",86
-"136","Custer","Custer",3,"U.S. House","REP","Adrian Smith",46
-"137","Custer","East Custer",3,"U.S. House","REP","Adrian Smith",20
-"138","Custer","Cliff",3,"U.S. House","REP","Adrian Smith",59
-"139","Custer","Comstock",3,"U.S. House","REP","Adrian Smith",48
-"140","Custer","Douglas Grove",3,"U.S. House","REP","Adrian Smith",39
-"141","Custer","Spring Creek",3,"U.S. House","REP","Adrian Smith",8
-"142","Custer","Delight",3,"U.S. House","REP","Adrian Smith",317
-"143","Custer","Elim",3,"U.S. House","REP","Adrian Smith",59
-"144","Custer","Triumph",3,"U.S. House","REP","Adrian Smith",49
-"145","Custer","Garfield",3,"U.S. House","REP","Adrian Smith",44
-"146","Custer","Grant",3,"U.S. House","REP","Adrian Smith",15
-"147","Custer","Kilfoil",3,"U.S. House","REP","Adrian Smith",262
-"148","Custer","Loup",3,"U.S. House","REP","Adrian Smith",51
-"149","Custer","Lillian/Milburn",3,"U.S. House","REP","Adrian Smith",70
-"150","Custer","Corner/Sargent Rural",3,"U.S. House","REP","Adrian Smith",72
-"151","Custer","West Union",3,"U.S. House","REP","Adrian Smith",27
-"152","Custer","Sargent Village",3,"U.S. House","REP","Adrian Smith",188
-"153","Custer","Ryno",3,"U.S. House","REP","Adrian Smith",37
-"154","Custer","Anselmo",3,"U.S. House","REP","Adrian Smith",164
-"155","Custer","Woodriver",3,"U.S. House","REP","Adrian Smith",127
-"156","Custer","Wayne",3,"U.S. House","REP","Adrian Smith",50
-"157","Custer","Broken Bow Northwest",3,"U.S. House","REP","Adrian Smith",367
-"158","Custer","Broken Bow South Rural",3,"U.S. House","REP","Adrian Smith",152
-"159","Custer","Absentee",3,"U.S. House","REP","Adrian Smith",804
-"160","Custer","Total",3,"U.S. House","REP","Adrian Smith",4636
+"county","precinct","district","office","party","candidate","votes"
+"Custer","Mason City",NA,"President","REP","Donald J. Trump",165
+"Custer","Arnold",NA,"President","REP","Donald J. Trump",358
+"Custer","Broken Bow North",NA,"President","REP","Donald J. Trump",108
+"Custer","Broken Bow North Rural",NA,"President","REP","Donald J. Trump",173
+"Custer","Broken Bow South",NA,"President","REP","Donald J. Trump",395
+"Custer","Broken Bow Southwest",NA,"President","REP","Donald J. Trump",176
+"Custer","Berwyn",NA,"President","REP","Donald J. Trump",81
+"Custer","Custer",NA,"President","REP","Donald J. Trump",39
+"Custer","East Custer",NA,"President","REP","Donald J. Trump",21
+"Custer","Cliff",NA,"President","REP","Donald J. Trump",65
+"Custer","Comstock",NA,"President","REP","Donald J. Trump",50
+"Custer","Douglas Grove",NA,"President","REP","Donald J. Trump",36
+"Custer","Spring Creek",NA,"President","REP","Donald J. Trump",7
+"Custer","Delight",NA,"President","REP","Donald J. Trump",310
+"Custer","Elim",NA,"President","REP","Donald J. Trump",60
+"Custer","Triumph",NA,"President","REP","Donald J. Trump",54
+"Custer","Garfield",NA,"President","REP","Donald J. Trump",47
+"Custer","Grant",NA,"President","REP","Donald J. Trump",17
+"Custer","Kilfoil",NA,"President","REP","Donald J. Trump",260
+"Custer","Loup",NA,"President","REP","Donald J. Trump",51
+"Custer","Lillian/Milburn",NA,"President","REP","Donald J. Trump",74
+"Custer","Corner/Sargent Rural",NA,"President","REP","Donald J. Trump",66
+"Custer","West Union",NA,"President","REP","Donald J. Trump",26
+"Custer","Sargent Village",NA,"President","REP","Donald J. Trump",172
+"Custer","Ryno",NA,"President","REP","Donald J. Trump",43
+"Custer","Anselmo",NA,"President","REP","Donald J. Trump",169
+"Custer","Woodriver",NA,"President","REP","Donald J. Trump",121
+"Custer","Wayne",NA,"President","REP","Donald J. Trump",49
+"Custer","Broken Bow Northwest",NA,"President","REP","Donald J. Trump",334
+"Custer","Broken Bow South Rural",NA,"President","REP","Donald J. Trump",158
+"Custer","Absentee",NA,"President","REP","Donald J. Trump",708
+"Custer","Total",NA,"President","REP","Donald J. Trump",4695
+"Custer","Mason City",NA,"President","DEM","Hillary Clinton",19
+"Custer","Arnold",NA,"President","DEM","Hillary Clinton",29
+"Custer","Broken Bow North",NA,"President","DEM","Hillary Clinton",33
+"Custer","Broken Bow North Rural",NA,"President","DEM","Hillary Clinton",9
+"Custer","Broken Bow South",NA,"President","DEM","Hillary Clinton",69
+"Custer","Broken Bow Southwest",NA,"President","DEM","Hillary Clinton",35
+"Custer","Berwyn",NA,"President","DEM","Hillary Clinton",10
+"Custer","Custer",NA,"President","DEM","Hillary Clinton",6
+"Custer","East Custer",NA,"President","DEM","Hillary Clinton",0
+"Custer","Cliff",NA,"President","DEM","Hillary Clinton",3
+"Custer","Comstock",NA,"President","DEM","Hillary Clinton",14
+"Custer","Douglas Grove",NA,"President","DEM","Hillary Clinton",5
+"Custer","Spring Creek",NA,"President","DEM","Hillary Clinton",1
+"Custer","Delight",NA,"President","DEM","Hillary Clinton",28
+"Custer","Elim",NA,"President","DEM","Hillary Clinton",1
+"Custer","Triumph",NA,"President","DEM","Hillary Clinton",0
+"Custer","Garfield",NA,"President","DEM","Hillary Clinton",3
+"Custer","Grant",NA,"President","DEM","Hillary Clinton",3
+"Custer","Kilfoil",NA,"President","DEM","Hillary Clinton",20
+"Custer","Loup",NA,"President","DEM","Hillary Clinton",2
+"Custer","Lillian/Milburn",NA,"President","DEM","Hillary Clinton",3
+"Custer","Corner/Sargent Rural",NA,"President","DEM","Hillary Clinton",8
+"Custer","West Union",NA,"President","DEM","Hillary Clinton",1
+"Custer","Sargent Village",NA,"President","DEM","Hillary Clinton",28
+"Custer","Ryno",NA,"President","DEM","Hillary Clinton",2
+"Custer","Anselmo",NA,"President","DEM","Hillary Clinton",19
+"Custer","Woodriver",NA,"President","DEM","Hillary Clinton",11
+"Custer","Wayne",NA,"President","DEM","Hillary Clinton",3
+"Custer","Broken Bow Northwest",NA,"President","DEM","Hillary Clinton",49
+"Custer","Broken Bow South Rural",NA,"President","DEM","Hillary Clinton",13
+"Custer","Absentee",NA,"President","DEM","Hillary Clinton",176
+"Custer","Total",NA,"President","DEM","Hillary Clinton",603
+"Custer","Mason City",NA,"President","LIB","Gary Johnson",8
+"Custer","Arnold",NA,"President","LIB","Gary Johnson",8
+"Custer","Broken Bow North",NA,"President","LIB","Gary Johnson",5
+"Custer","Broken Bow North Rural",NA,"President","LIB","Gary Johnson",3
+"Custer","Broken Bow South",NA,"President","LIB","Gary Johnson",15
+"Custer","Broken Bow Southwest",NA,"President","LIB","Gary Johnson",5
+"Custer","Berwyn",NA,"President","LIB","Gary Johnson",4
+"Custer","Custer",NA,"President","LIB","Gary Johnson",4
+"Custer","East Custer",NA,"President","LIB","Gary Johnson",2
+"Custer","Cliff",NA,"President","LIB","Gary Johnson",0
+"Custer","Comstock",NA,"President","LIB","Gary Johnson",1
+"Custer","Douglas Grove",NA,"President","LIB","Gary Johnson",3
+"Custer","Spring Creek",NA,"President","LIB","Gary Johnson",1
+"Custer","Delight",NA,"President","LIB","Gary Johnson",15
+"Custer","Elim",NA,"President","LIB","Gary Johnson",0
+"Custer","Triumph",NA,"President","LIB","Gary Johnson",3
+"Custer","Garfield",NA,"President","LIB","Gary Johnson",1
+"Custer","Grant",NA,"President","LIB","Gary Johnson",0
+"Custer","Kilfoil",NA,"President","LIB","Gary Johnson",9
+"Custer","Loup",NA,"President","LIB","Gary Johnson",1
+"Custer","Lillian/Milburn",NA,"President","LIB","Gary Johnson",3
+"Custer","Corner/Sargent Rural",NA,"President","LIB","Gary Johnson",2
+"Custer","West Union",NA,"President","LIB","Gary Johnson",0
+"Custer","Sargent Village",NA,"President","LIB","Gary Johnson",10
+"Custer","Ryno",NA,"President","LIB","Gary Johnson",0
+"Custer","Anselmo",NA,"President","LIB","Gary Johnson",7
+"Custer","Woodriver",NA,"President","LIB","Gary Johnson",5
+"Custer","Wayne",NA,"President","LIB","Gary Johnson",0
+"Custer","Broken Bow Northwest",NA,"President","LIB","Gary Johnson",24
+"Custer","Broken Bow South Rural",NA,"President","LIB","Gary Johnson",2
+"Custer","Absentee",NA,"President","LIB","Gary Johnson",50
+"Custer","Total",NA,"President","LIB","Gary Johnson",191
+"Custer","Mason City",NA,"President","","Jill Stein",0
+"Custer","Arnold",NA,"President","","Jill Stein",5
+"Custer","Broken Bow North",NA,"President","","Jill Stein",3
+"Custer","Broken Bow North Rural",NA,"President","","Jill Stein",0
+"Custer","Broken Bow South",NA,"President","","Jill Stein",4
+"Custer","Broken Bow Southwest",NA,"President","","Jill Stein",1
+"Custer","Berwyn",NA,"President","","Jill Stein",0
+"Custer","Custer",NA,"President","","Jill Stein",1
+"Custer","East Custer",NA,"President","","Jill Stein",0
+"Custer","Cliff",NA,"President","","Jill Stein",0
+"Custer","Comstock",NA,"President","","Jill Stein",0
+"Custer","Douglas Grove",NA,"President","","Jill Stein",0
+"Custer","Spring Creek",NA,"President","","Jill Stein",0
+"Custer","Delight",NA,"President","","Jill Stein",2
+"Custer","Elim",NA,"President","","Jill Stein",0
+"Custer","Triumph",NA,"President","","Jill Stein",0
+"Custer","Garfield",NA,"President","","Jill Stein",0
+"Custer","Grant",NA,"President","","Jill Stein",0
+"Custer","Kilfoil",NA,"President","","Jill Stein",1
+"Custer","Loup",NA,"President","","Jill Stein",0
+"Custer","Lillian/Milburn",NA,"President","","Jill Stein",0
+"Custer","Corner/Sargent Rural",NA,"President","","Jill Stein",0
+"Custer","West Union",NA,"President","","Jill Stein",0
+"Custer","Sargent Village",NA,"President","","Jill Stein",3
+"Custer","Ryno",NA,"President","","Jill Stein",0
+"Custer","Anselmo",NA,"President","","Jill Stein",1
+"Custer","Woodriver",NA,"President","","Jill Stein",3
+"Custer","Wayne",NA,"President","","Jill Stein",0
+"Custer","Broken Bow Northwest",NA,"President","","Jill Stein",1
+"Custer","Broken Bow South Rural",NA,"President","","Jill Stein",0
+"Custer","Absentee",NA,"President","","Jill Stein",8
+"Custer","Total",NA,"President","","Jill Stein",33
+"Custer","Mason City",3,"U.S. House","REP","Adrian Smith",186
+"Custer","Arnold",3,"U.S. House","REP","Adrian Smith",370
+"Custer","Broken Bow North",3,"U.S. House","REP","Adrian Smith",122
+"Custer","Broken Bow North Rural",3,"U.S. House","REP","Adrian Smith",171
+"Custer","Broken Bow South",3,"U.S. House","REP","Adrian Smith",428
+"Custer","Broken Bow Southwest",3,"U.S. House","REP","Adrian Smith",198
+"Custer","Berwyn",3,"U.S. House","REP","Adrian Smith",86
+"Custer","Custer",3,"U.S. House","REP","Adrian Smith",46
+"Custer","East Custer",3,"U.S. House","REP","Adrian Smith",20
+"Custer","Cliff",3,"U.S. House","REP","Adrian Smith",59
+"Custer","Comstock",3,"U.S. House","REP","Adrian Smith",48
+"Custer","Douglas Grove",3,"U.S. House","REP","Adrian Smith",39
+"Custer","Spring Creek",3,"U.S. House","REP","Adrian Smith",8
+"Custer","Delight",3,"U.S. House","REP","Adrian Smith",317
+"Custer","Elim",3,"U.S. House","REP","Adrian Smith",59
+"Custer","Triumph",3,"U.S. House","REP","Adrian Smith",49
+"Custer","Garfield",3,"U.S. House","REP","Adrian Smith",44
+"Custer","Grant",3,"U.S. House","REP","Adrian Smith",15
+"Custer","Kilfoil",3,"U.S. House","REP","Adrian Smith",262
+"Custer","Loup",3,"U.S. House","REP","Adrian Smith",51
+"Custer","Lillian/Milburn",3,"U.S. House","REP","Adrian Smith",70
+"Custer","Corner/Sargent Rural",3,"U.S. House","REP","Adrian Smith",72
+"Custer","West Union",3,"U.S. House","REP","Adrian Smith",27
+"Custer","Sargent Village",3,"U.S. House","REP","Adrian Smith",188
+"Custer","Ryno",3,"U.S. House","REP","Adrian Smith",37
+"Custer","Anselmo",3,"U.S. House","REP","Adrian Smith",164
+"Custer","Woodriver",3,"U.S. House","REP","Adrian Smith",127
+"Custer","Wayne",3,"U.S. House","REP","Adrian Smith",50
+"Custer","Broken Bow Northwest",3,"U.S. House","REP","Adrian Smith",367
+"Custer","Broken Bow South Rural",3,"U.S. House","REP","Adrian Smith",152
+"Custer","Absentee",3,"U.S. House","REP","Adrian Smith",804
+"Custer","Total",3,"U.S. House","REP","Adrian Smith",4636

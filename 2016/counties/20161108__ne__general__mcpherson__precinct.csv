@@ -1,29 +1,29 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","McPherson","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",2
-"2","McPherson","Countywide",NA,"President","DEM","Hillary Clinton",0
-"3","McPherson","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
-"4","McPherson","Tryon 01",NA,"President","DEM","Hillary Clinton",12
-"5","McPherson","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",3
-"6","McPherson","Countywide",NA,"President","LIB","Gary Johnson",0
-"7","McPherson","New/Former Resident",NA,"President","LIB","Gary Johnson",0
-"8","McPherson","Tryon 01",NA,"President","LIB","Gary Johnson",11
-"9","McPherson","Absentee/Early Vote",NA,"President","","Jill Stein",1
-"10","McPherson","Countywide",NA,"President","","Jill Stein",0
-"11","McPherson","New/Former Resident",NA,"President","","Jill Stein",0
-"12","McPherson","Tryon 01",NA,"President","","Jill Stein",0
-"13","McPherson","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",64
-"14","McPherson","Countywide",NA,"President","REP","Donald J. Trump",0
-"15","McPherson","New/Former Resident",NA,"President","REP","Donald J. Trump",0
-"16","McPherson","Tryon 01",NA,"President","REP","Donald J. Trump",193
-"17","McPherson","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",62
-"18","McPherson","Countywide",3,"U.S. House","REP","Adrian Smith",0
-"19","McPherson","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
-"20","McPherson","Tryon 01",3,"U.S. House","REP","Adrian Smith",194
-"21","McPherson","Absentee/Early Vote",43,"State Legislature","","Al Davis",42
-"22","McPherson","Countywide",43,"State Legislature","","Al Davis",0
-"23","McPherson","New/Former Resident",43,"State Legislature","","Al Davis",0
-"24","McPherson","Tryon 01",43,"State Legislature","","Al Davis",100
-"25","McPherson","Absentee/Early Vote",43,"State Legislature","","Tom Brewer",28
-"26","McPherson","Countywide",43,"State Legislature","","Tom Brewer",0
-"27","McPherson","New/Former Resident",43,"State Legislature","","Tom Brewer",0
-"28","McPherson","Tryon 01",43,"State Legislature","","Tom Brewer",107
+"county","precinct","district","office","party","candidate","votes"
+"McPherson","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",2
+"McPherson","Countywide",NA,"President","DEM","Hillary Clinton",0
+"McPherson","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
+"McPherson","Tryon 01",NA,"President","DEM","Hillary Clinton",12
+"McPherson","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",3
+"McPherson","Countywide",NA,"President","LIB","Gary Johnson",0
+"McPherson","New/Former Resident",NA,"President","LIB","Gary Johnson",0
+"McPherson","Tryon 01",NA,"President","LIB","Gary Johnson",11
+"McPherson","Absentee/Early Vote",NA,"President","","Jill Stein",1
+"McPherson","Countywide",NA,"President","","Jill Stein",0
+"McPherson","New/Former Resident",NA,"President","","Jill Stein",0
+"McPherson","Tryon 01",NA,"President","","Jill Stein",0
+"McPherson","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",64
+"McPherson","Countywide",NA,"President","REP","Donald J. Trump",0
+"McPherson","New/Former Resident",NA,"President","REP","Donald J. Trump",0
+"McPherson","Tryon 01",NA,"President","REP","Donald J. Trump",193
+"McPherson","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",62
+"McPherson","Countywide",3,"U.S. House","REP","Adrian Smith",0
+"McPherson","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
+"McPherson","Tryon 01",3,"U.S. House","REP","Adrian Smith",194
+"McPherson","Absentee/Early Vote",43,"State Legislature","","Al Davis",42
+"McPherson","Countywide",43,"State Legislature","","Al Davis",0
+"McPherson","New/Former Resident",43,"State Legislature","","Al Davis",0
+"McPherson","Tryon 01",43,"State Legislature","","Al Davis",100
+"McPherson","Absentee/Early Vote",43,"State Legislature","","Tom Brewer",28
+"McPherson","Countywide",43,"State Legislature","","Tom Brewer",0
+"McPherson","New/Former Resident",43,"State Legislature","","Tom Brewer",0
+"McPherson","Tryon 01",43,"State Legislature","","Tom Brewer",107

@@ -1,36 +1,36 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Gosper","1",NA,"President","DEM","Hillary Clinton",56
-"2","Gosper","2",NA,"President","DEM","Hillary Clinton",74
-"3","Gosper","3",NA,"President","DEM","Hillary Clinton",26
-"4","Gosper","4",NA,"President","DEM","Hillary Clinton",10
-"5","Gosper","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",0
-"6","Gosper","Countywide",NA,"President","DEM","Hillary Clinton",0
-"7","Gosper","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
-"8","Gosper","1",NA,"President","LIB","Gary Johnson",21
-"9","Gosper","2",NA,"President","LIB","Gary Johnson",11
-"10","Gosper","3",NA,"President","LIB","Gary Johnson",3
-"11","Gosper","4",NA,"President","LIB","Gary Johnson",3
-"12","Gosper","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",0
-"13","Gosper","Countywide",NA,"President","LIB","Gary Johnson",0
-"14","Gosper","New/Former Resident",NA,"President","LIB","Gary Johnson",0
-"15","Gosper","1",NA,"President","","Jill Stein",2
-"16","Gosper","2",NA,"President","","Jill Stein",4
-"17","Gosper","3",NA,"President","","Jill Stein",0
-"18","Gosper","4",NA,"President","","Jill Stein",0
-"19","Gosper","Absentee/Early Vote",NA,"President","","Jill Stein",0
-"20","Gosper","Countywide",NA,"President","","Jill Stein",0
-"21","Gosper","New/Former Resident",NA,"President","","Jill Stein",0
-"22","Gosper","1",NA,"President","REP","Donald J. Trump",304
-"23","Gosper","2",NA,"President","REP","Donald J. Trump",266
-"24","Gosper","3",NA,"President","REP","Donald J. Trump",164
-"25","Gosper","4",NA,"President","REP","Donald J. Trump",60
-"26","Gosper","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",0
-"27","Gosper","Countywide",NA,"President","REP","Donald J. Trump",0
-"28","Gosper","New/Former Resident",NA,"President","REP","Donald J. Trump",0
-"29","Gosper","1",3,"U.S. House","REP","Adrian Smith",344
-"30","Gosper","2",3,"U.S. House","REP","Adrian Smith",302
-"31","Gosper","3",3,"U.S. House","REP","Adrian Smith",176
-"32","Gosper","4",3,"U.S. House","REP","Adrian Smith",68
-"33","Gosper","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",0
-"34","Gosper","Countywide",3,"U.S. House","REP","Adrian Smith",0
-"35","Gosper","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
+"county","precinct","district","office","party","candidate","votes"
+"Gosper","1",NA,"President","DEM","Hillary Clinton",56
+"Gosper","2",NA,"President","DEM","Hillary Clinton",74
+"Gosper","3",NA,"President","DEM","Hillary Clinton",26
+"Gosper","4",NA,"President","DEM","Hillary Clinton",10
+"Gosper","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",0
+"Gosper","Countywide",NA,"President","DEM","Hillary Clinton",0
+"Gosper","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
+"Gosper","1",NA,"President","LIB","Gary Johnson",21
+"Gosper","2",NA,"President","LIB","Gary Johnson",11
+"Gosper","3",NA,"President","LIB","Gary Johnson",3
+"Gosper","4",NA,"President","LIB","Gary Johnson",3
+"Gosper","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",0
+"Gosper","Countywide",NA,"President","LIB","Gary Johnson",0
+"Gosper","New/Former Resident",NA,"President","LIB","Gary Johnson",0
+"Gosper","1",NA,"President","","Jill Stein",2
+"Gosper","2",NA,"President","","Jill Stein",4
+"Gosper","3",NA,"President","","Jill Stein",0
+"Gosper","4",NA,"President","","Jill Stein",0
+"Gosper","Absentee/Early Vote",NA,"President","","Jill Stein",0
+"Gosper","Countywide",NA,"President","","Jill Stein",0
+"Gosper","New/Former Resident",NA,"President","","Jill Stein",0
+"Gosper","1",NA,"President","REP","Donald J. Trump",304
+"Gosper","2",NA,"President","REP","Donald J. Trump",266
+"Gosper","3",NA,"President","REP","Donald J. Trump",164
+"Gosper","4",NA,"President","REP","Donald J. Trump",60
+"Gosper","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",0
+"Gosper","Countywide",NA,"President","REP","Donald J. Trump",0
+"Gosper","New/Former Resident",NA,"President","REP","Donald J. Trump",0
+"Gosper","1",3,"U.S. House","REP","Adrian Smith",344
+"Gosper","2",3,"U.S. House","REP","Adrian Smith",302
+"Gosper","3",3,"U.S. House","REP","Adrian Smith",176
+"Gosper","4",3,"U.S. House","REP","Adrian Smith",68
+"Gosper","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",0
+"Gosper","Countywide",3,"U.S. House","REP","Adrian Smith",0
+"Gosper","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0

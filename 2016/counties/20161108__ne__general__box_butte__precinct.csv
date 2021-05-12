@@ -1,100 +1,100 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Box Butte","Alliance 1",NA,"President","REP","Donald J. Trump",237
-"2","Box Butte","Alliance 2",NA,"President","REP","Donald J. Trump",263
-"3","Box Butte","Alliance 3",NA,"President","REP","Donald J. Trump",223
-"4","Box Butte","Alliance 4",NA,"President","REP","Donald J. Trump",319
-"5","Box Butte","Box 5",NA,"President","REP","Donald J. Trump",359
-"6","Box Butte","Box 6",NA,"President","REP","Donald J. Trump",319
-"7","Box Butte","Box 11",NA,"President","REP","Donald J. Trump",189
-"8","Box Butte","Box 12",NA,"President","REP","Donald J. Trump",209
-"9","Box Butte","Box 15",NA,"President","REP","Donald J. Trump",482
-"10","Box Butte","Early",NA,"President","REP","Donald J. Trump",950
-"11","Box Butte","Handcount",NA,"President","REP","Donald J. Trump",4
-"12","Box Butte","Prov",NA,"President","REP","Donald J. Trump",63
-"13","Box Butte","",NA,"President","REP","Donald J. Trump",3617
-"14","Box Butte","Alliance 1",NA,"President","","",86
-"15","Box Butte","Alliance 2",NA,"President","","",89
-"16","Box Butte","Alliance 3",NA,"President","","",80
-"17","Box Butte","Alliance 4",NA,"President","","",86
-"18","Box Butte","Box 5",NA,"President","","",88
-"19","Box Butte","Box 6",NA,"President","","",99
-"20","Box Butte","Box 11",NA,"President","","",15
-"21","Box Butte","Box 12",NA,"President","","",14
-"22","Box Butte","Box 15",NA,"President","","",71
-"23","Box Butte","Early",NA,"President","","",325
-"24","Box Butte","Handcount",NA,"President","","",0
-"25","Box Butte","Prov",NA,"President","","",12
-"26","Box Butte","",NA,"President","","",965
-"27","Box Butte","Alliance 1",NA,"President","","",27
-"28","Box Butte","Alliance 2",NA,"President","","",26
-"29","Box Butte","Alliance 3",NA,"President","","",25
-"30","Box Butte","Alliance 4",NA,"President","","",16
-"31","Box Butte","Box 5",NA,"President","","",14
-"32","Box Butte","Box 6",NA,"President","","",17
-"33","Box Butte","Box 11",NA,"President","","",7
-"34","Box Butte","Box 12",NA,"President","","",5
-"35","Box Butte","Box 15",NA,"President","","",22
-"36","Box Butte","Early",NA,"President","","",64
-"37","Box Butte","Handcount",NA,"President","","",0
-"38","Box Butte","Prov",NA,"President","","",7
-"39","Box Butte","",NA,"President","","",230
-"40","Box Butte","Alliance 1",NA,"President","","",5
-"41","Box Butte","Alliance 2",NA,"President","","",6
-"42","Box Butte","Alliance 3",NA,"President","","",1
-"43","Box Butte","Alliance 4",NA,"President","","",4
-"44","Box Butte","Box 5",NA,"President","","",5
-"45","Box Butte","Box 6",NA,"President","","",1
-"46","Box Butte","Box 11",NA,"President","","",1
-"47","Box Butte","Box 12",NA,"President","","",2
-"48","Box Butte","Box 15",NA,"President","","",0
-"49","Box Butte","Early",NA,"President","","",10
-"50","Box Butte","Handcount",NA,"President","","",0
-"51","Box Butte","Prov",NA,"President","","",1
-"52","Box Butte","",NA,"President","","",36
-"53","Box Butte","Alliance 1",3,"U.S. House","REP","Adrian Smith",291
-"54","Box Butte","Alliance 2",3,"U.S. House","REP","Adrian Smith",327
-"55","Box Butte","Alliance 3",3,"U.S. House","REP","Adrian Smith",294
-"56","Box Butte","Alliance 4",3,"U.S. House","REP","Adrian Smith",371
-"57","Box Butte","Box 5",3,"U.S. House","REP","Adrian Smith",419
-"58","Box Butte","Box 6",3,"U.S. House","REP","Adrian Smith",380
-"59","Box Butte","Box 11",3,"U.S. House","REP","Adrian Smith",193
-"60","Box Butte","Box 12",3,"U.S. House","REP","Adrian Smith",210
-"61","Box Butte","Box 15",3,"U.S. House","REP","Adrian Smith",515
-"62","Box Butte","Early",3,"U.S. House","REP","Adrian Smith",1123
-"63","Box Butte","Handcount",3,"U.S. House","REP","Adrian Smith",4
-"64","Box Butte","Prov",3,"U.S. House","REP","Adrian Smith",75
-"65","Box Butte","",3,"U.S. House","REP","Adrian Smith",4202
-"66","Box Butte","Alliance 1",43,"State Legislature","","Al Davis",233
-"67","Box Butte","Alliance 2",43,"State Legislature","","Al Davis",240
-"68","Box Butte","Alliance 3",43,"State Legislature","","Al Davis",231
-"69","Box Butte","Alliance 4",43,"State Legislature","","Al Davis",259
-"70","Box Butte","Box 5",43,"State Legislature","","Al Davis",315
-"71","Box Butte","Box 6",43,"State Legislature","","Al Davis",321
-"72","Box Butte","Box 11",43,"State Legislature","","Al Davis",122
-"73","Box Butte","Alliance 1",43,"State Legislature","","Tom Brewer",111
-"74","Box Butte","Alliance 2",43,"State Legislature","","Tom Brewer",139
-"75","Box Butte","Alliance 3",43,"State Legislature","","Tom Brewer",101
-"76","Box Butte","Alliance 4",43,"State Legislature","","Tom Brewer",148
-"77","Box Butte","Box 5",43,"State Legislature","","Tom Brewer",139
-"78","Box Butte","Box 6",43,"State Legislature","","Tom Brewer",114
-"79","Box Butte","Box 11",43,"State Legislature","","Tom Brewer",81
-"80","Box Butte","Early",43,"State Legislature","","Al Davis",707
-"81","Box Butte","Early",43,"State Legislature","","Al Davis",1
-"82","Box Butte","Handcount",43,"State Legislature","","Tom Brewer",358
-"83","Box Butte","Handcount",43,"State Legislature","","Tom Brewer",2
-"84","Box Butte","Prov",43,"State Legislature","","Al Davis",53
-"85","Box Butte","Prov",43,"State Legislature","","Tom Brewer",23
-"86","Box Butte","",43,"State Legislature","","Al Davis",2482
-"87","Box Butte","",43,"State Legislature","","Tom Brewer",1216
-"88","Box Butte","Box 12",47,"State Legislature","","Karl Elmshaeuser",41
-"89","Box Butte","Box 15",47,"State Legislature","","Karl Elmshaeuser",85
-"90","Box Butte","Early",47,"State Legislature","","Karl Elmshaeuser",67
-"91","Box Butte","Handcount",47,"State Legislature","","Karl Elmshaeuser",0
-"92","Box Butte","Prov",47,"State Legislature","","Karl Elmshaeuser",0
-"93","Box Butte","",47,"State Legislature","","Karl Elmshaeuser",193
-"94","Box Butte","Box 12",47,"State Legislature","","Steve Erdman",157
-"95","Box Butte","Box 15",47,"State Legislature","","Steve Erdman",442
-"96","Box Butte","Early",47,"State Legislature","","Steve Erdman",155
-"97","Box Butte","Handcount",47,"State Legislature","","Steve Erdman",0
-"98","Box Butte","Prov",47,"State Legislature","","Steve Erdman",2
-"99","Box Butte","",47,"State Legislature","","Steve Erdman",756
+"county","precinct","district","office","party","candidate","votes"
+"Box Butte","Alliance 1",NA,"President","REP","Donald J. Trump",237
+"Box Butte","Alliance 2",NA,"President","REP","Donald J. Trump",263
+"Box Butte","Alliance 3",NA,"President","REP","Donald J. Trump",223
+"Box Butte","Alliance 4",NA,"President","REP","Donald J. Trump",319
+"Box Butte","Box 5",NA,"President","REP","Donald J. Trump",359
+"Box Butte","Box 6",NA,"President","REP","Donald J. Trump",319
+"Box Butte","Box 11",NA,"President","REP","Donald J. Trump",189
+"Box Butte","Box 12",NA,"President","REP","Donald J. Trump",209
+"Box Butte","Box 15",NA,"President","REP","Donald J. Trump",482
+"Box Butte","Early",NA,"President","REP","Donald J. Trump",950
+"Box Butte","Handcount",NA,"President","REP","Donald J. Trump",4
+"Box Butte","Prov",NA,"President","REP","Donald J. Trump",63
+"Box Butte","",NA,"President","REP","Donald J. Trump",3617
+"Box Butte","Alliance 1",NA,"President","","",86
+"Box Butte","Alliance 2",NA,"President","","",89
+"Box Butte","Alliance 3",NA,"President","","",80
+"Box Butte","Alliance 4",NA,"President","","",86
+"Box Butte","Box 5",NA,"President","","",88
+"Box Butte","Box 6",NA,"President","","",99
+"Box Butte","Box 11",NA,"President","","",15
+"Box Butte","Box 12",NA,"President","","",14
+"Box Butte","Box 15",NA,"President","","",71
+"Box Butte","Early",NA,"President","","",325
+"Box Butte","Handcount",NA,"President","","",0
+"Box Butte","Prov",NA,"President","","",12
+"Box Butte","",NA,"President","","",965
+"Box Butte","Alliance 1",NA,"President","","",27
+"Box Butte","Alliance 2",NA,"President","","",26
+"Box Butte","Alliance 3",NA,"President","","",25
+"Box Butte","Alliance 4",NA,"President","","",16
+"Box Butte","Box 5",NA,"President","","",14
+"Box Butte","Box 6",NA,"President","","",17
+"Box Butte","Box 11",NA,"President","","",7
+"Box Butte","Box 12",NA,"President","","",5
+"Box Butte","Box 15",NA,"President","","",22
+"Box Butte","Early",NA,"President","","",64
+"Box Butte","Handcount",NA,"President","","",0
+"Box Butte","Prov",NA,"President","","",7
+"Box Butte","",NA,"President","","",230
+"Box Butte","Alliance 1",NA,"President","","",5
+"Box Butte","Alliance 2",NA,"President","","",6
+"Box Butte","Alliance 3",NA,"President","","",1
+"Box Butte","Alliance 4",NA,"President","","",4
+"Box Butte","Box 5",NA,"President","","",5
+"Box Butte","Box 6",NA,"President","","",1
+"Box Butte","Box 11",NA,"President","","",1
+"Box Butte","Box 12",NA,"President","","",2
+"Box Butte","Box 15",NA,"President","","",0
+"Box Butte","Early",NA,"President","","",10
+"Box Butte","Handcount",NA,"President","","",0
+"Box Butte","Prov",NA,"President","","",1
+"Box Butte","",NA,"President","","",36
+"Box Butte","Alliance 1",3,"U.S. House","REP","Adrian Smith",291
+"Box Butte","Alliance 2",3,"U.S. House","REP","Adrian Smith",327
+"Box Butte","Alliance 3",3,"U.S. House","REP","Adrian Smith",294
+"Box Butte","Alliance 4",3,"U.S. House","REP","Adrian Smith",371
+"Box Butte","Box 5",3,"U.S. House","REP","Adrian Smith",419
+"Box Butte","Box 6",3,"U.S. House","REP","Adrian Smith",380
+"Box Butte","Box 11",3,"U.S. House","REP","Adrian Smith",193
+"Box Butte","Box 12",3,"U.S. House","REP","Adrian Smith",210
+"Box Butte","Box 15",3,"U.S. House","REP","Adrian Smith",515
+"Box Butte","Early",3,"U.S. House","REP","Adrian Smith",1123
+"Box Butte","Handcount",3,"U.S. House","REP","Adrian Smith",4
+"Box Butte","Prov",3,"U.S. House","REP","Adrian Smith",75
+"Box Butte","",3,"U.S. House","REP","Adrian Smith",4202
+"Box Butte","Alliance 1",43,"State Legislature","","Al Davis",233
+"Box Butte","Alliance 2",43,"State Legislature","","Al Davis",240
+"Box Butte","Alliance 3",43,"State Legislature","","Al Davis",231
+"Box Butte","Alliance 4",43,"State Legislature","","Al Davis",259
+"Box Butte","Box 5",43,"State Legislature","","Al Davis",315
+"Box Butte","Box 6",43,"State Legislature","","Al Davis",321
+"Box Butte","Box 11",43,"State Legislature","","Al Davis",122
+"Box Butte","Alliance 1",43,"State Legislature","","Tom Brewer",111
+"Box Butte","Alliance 2",43,"State Legislature","","Tom Brewer",139
+"Box Butte","Alliance 3",43,"State Legislature","","Tom Brewer",101
+"Box Butte","Alliance 4",43,"State Legislature","","Tom Brewer",148
+"Box Butte","Box 5",43,"State Legislature","","Tom Brewer",139
+"Box Butte","Box 6",43,"State Legislature","","Tom Brewer",114
+"Box Butte","Box 11",43,"State Legislature","","Tom Brewer",81
+"Box Butte","Early",43,"State Legislature","","Al Davis",707
+"Box Butte","Early",43,"State Legislature","","Al Davis",1
+"Box Butte","Handcount",43,"State Legislature","","Tom Brewer",358
+"Box Butte","Handcount",43,"State Legislature","","Tom Brewer",2
+"Box Butte","Prov",43,"State Legislature","","Al Davis",53
+"Box Butte","Prov",43,"State Legislature","","Tom Brewer",23
+"Box Butte","",43,"State Legislature","","Al Davis",2482
+"Box Butte","",43,"State Legislature","","Tom Brewer",1216
+"Box Butte","Box 12",47,"State Legislature","","Karl Elmshaeuser",41
+"Box Butte","Box 15",47,"State Legislature","","Karl Elmshaeuser",85
+"Box Butte","Early",47,"State Legislature","","Karl Elmshaeuser",67
+"Box Butte","Handcount",47,"State Legislature","","Karl Elmshaeuser",0
+"Box Butte","Prov",47,"State Legislature","","Karl Elmshaeuser",0
+"Box Butte","",47,"State Legislature","","Karl Elmshaeuser",193
+"Box Butte","Box 12",47,"State Legislature","","Steve Erdman",157
+"Box Butte","Box 15",47,"State Legislature","","Steve Erdman",442
+"Box Butte","Early",47,"State Legislature","","Steve Erdman",155
+"Box Butte","Handcount",47,"State Legislature","","Steve Erdman",0
+"Box Butte","Prov",47,"State Legislature","","Steve Erdman",2
+"Box Butte","",47,"State Legislature","","Steve Erdman",756

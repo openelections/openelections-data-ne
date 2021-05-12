@@ -1,182 +1,182 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Phelps","Cottonwood-Anderson",NA,"Registered Voters","","",162
-"2","Phelps","Cottonwood-Anderson",NA,"Ballots Cast","","",139
-"3","Phelps","Cottonwood-Anderson",NA,"President","REP","Donald J. Trump",110
-"4","Phelps","Cottonwood-Anderson",NA,"President","DEM","Hillary Clinton",10
-"5","Phelps","Cottonwood-Anderson",NA,"President","LIB","Gary Johnson",14
-"6","Phelps","Cottonwood-Anderson",NA,"President","","Jill Stein",0
-"7","Phelps","Cottonwood-Anderson",NA,"President","","Write-ins",2
-"8","Phelps","Cottonwood-Anderson",NA,"President","","Over Votes",0
-"9","Phelps","Cottonwood-Anderson",NA,"President","","Under Votes",3
-"10","Phelps","Cottonwood-Anderson",3,"U.S. House","","Adrian Smith",117
-"11","Phelps","Cottonwood-Anderson",3,"U.S. House","","Write-ins",2
-"12","Phelps","Cottonwood-Anderson",3,"U.S. House","","Over Votes",0
-"13","Phelps","Cottonwood-Anderson",3,"U.S. House","","Under Votes",20
-"14","Phelps","Williamsburg-Westside",NA,"Registered Voters","","",177
-"15","Phelps","Williamsburg-Westside",NA,"Ballots Cast","","",144
-"16","Phelps","Williamsburg-Westside",NA,"President","REP","Donald J. Trump",111
-"17","Phelps","Williamsburg-Westside",NA,"President","DEM","Hillary Clinton",13
-"18","Phelps","Williamsburg-Westside",NA,"President","LIB","Gary Johnson",12
-"19","Phelps","Williamsburg-Westside",NA,"President","","Jill Stein",0
-"20","Phelps","Williamsburg-Westside",NA,"President","","Write-ins",6
-"21","Phelps","Williamsburg-Westside",NA,"President","","Over Votes",0
-"22","Phelps","Williamsburg-Westside",NA,"President","","Under Votes",2
-"23","Phelps","Williamsburg-Westside",3,"U.S. House","","Adrian Smith",124
-"24","Phelps","Williamsburg-Westside",3,"U.S. House","","Write-ins",2
-"25","Phelps","Williamsburg-Westside",3,"U.S. House","","Over Votes",0
-"26","Phelps","Williamsburg-Westside",3,"U.S. House","","Under Votes",18
-"27","Phelps","Garfield-Union",NA,"Registered Voters","","",175
-"28","Phelps","Garfield-Union",NA,"Ballots Cast","","",124
-"29","Phelps","Garfield-Union",NA,"President","REP","Donald J. Trump",98
-"30","Phelps","Garfield-Union",NA,"President","DEM","Hillary Clinton",19
-"31","Phelps","Garfield-Union",NA,"President","LIB","Gary Johnson",2
-"32","Phelps","Garfield-Union",NA,"President","","Jill Stein",2
-"33","Phelps","Garfield-Union",NA,"President","","Write-ins",1
-"34","Phelps","Garfield-Union",NA,"President","","Over Votes",0
-"35","Phelps","Garfield-Union",NA,"President","","Under Votes",2
-"36","Phelps","Garfield-Union",3,"U.S. House","","Adrian Smith",104
-"37","Phelps","Garfield-Union",3,"U.S. House","","Write-ins",2
-"38","Phelps","Garfield-Union",3,"U.S. House","","Over Votes",0
-"39","Phelps","Garfield-Union",3,"U.S. House","","Under Votes",18
-"40","Phelps","Westmark-Center",NA,"Registered Voters","","",241
-"41","Phelps","Westmark-Center",NA,"Ballots Cast","","",165
-"42","Phelps","Westmark-Center",NA,"President","REP","Donald J. Trump",152
-"43","Phelps","Westmark-Center",NA,"President","DEM","Hillary Clinton",9
-"44","Phelps","Westmark-Center",NA,"President","LIB","Gary Johnson",2
-"45","Phelps","Westmark-Center",NA,"President","","Jill Stein",0
-"46","Phelps","Westmark-Center",NA,"President","","Write-ins",0
-"47","Phelps","Westmark-Center",NA,"President","","Over Votes",0
-"48","Phelps","Westmark-Center",NA,"President","","Under Votes",2
-"49","Phelps","Westmark-Center",3,"U.S. House","","Adrian Smith",149
-"50","Phelps","Westmark-Center",3,"U.S. House","","Write-ins",3
-"51","Phelps","Westmark-Center",3,"U.S. House","","Over Votes",0
-"52","Phelps","Westmark-Center",3,"U.S. House","","Under Votes",13
-"53","Phelps","Divide-Lake",NA,"Registered Voters","","",341
-"54","Phelps","Divide-Lake",NA,"Ballots Cast","","",230
-"55","Phelps","Divide-Lake",NA,"President","REP","Donald J. Trump",210
-"56","Phelps","Divide-Lake",NA,"President","DEM","Hillary Clinton",14
-"57","Phelps","Divide-Lake",NA,"President","LIB","Gary Johnson",3
-"58","Phelps","Divide-Lake",NA,"President","","Jill Stein",1
-"59","Phelps","Divide-Lake",NA,"President","","Write-ins",0
-"60","Phelps","Divide-Lake",NA,"President","","Over Votes",1
-"61","Phelps","Divide-Lake",NA,"President","","Under Votes",1
-"62","Phelps","Divide-Lake",3,"U.S. House","","Adrian Smith",212
-"63","Phelps","Divide-Lake",3,"U.S. House","","Write-ins",0
-"64","Phelps","Divide-Lake",3,"U.S. House","","Over Votes",0
-"65","Phelps","Divide-Lake",3,"U.S. House","","Under Votes",18
-"66","Phelps","Sheridan-Prairie",NA,"Registered Voters","","",416
-"67","Phelps","Sheridan-Prairie",NA,"Ballots Cast","","",223
-"68","Phelps","Sheridan-Prairie",NA,"President","REP","Donald J. Trump",207
-"69","Phelps","Sheridan-Prairie",NA,"President","DEM","Hillary Clinton",6
-"70","Phelps","Sheridan-Prairie",NA,"President","LIB","Gary Johnson",2
-"71","Phelps","Sheridan-Prairie",NA,"President","","Jill Stein",1
-"72","Phelps","Sheridan-Prairie",NA,"President","","Write-ins",6
-"73","Phelps","Sheridan-Prairie",NA,"President","","Over Votes",1
-"74","Phelps","Sheridan-Prairie",NA,"President","","Under Votes",0
-"75","Phelps","Sheridan-Prairie",3,"U.S. House","","Adrian Smith",199
-"76","Phelps","Sheridan-Prairie",3,"U.S. House","","Write-ins",2
-"77","Phelps","Sheridan-Prairie",3,"U.S. House","","Over Votes",0
-"78","Phelps","Sheridan-Prairie",3,"U.S. House","","Under Votes",22
-"79","Phelps","Rockfalls-Industry",NA,"Registered Voters","","",147
-"80","Phelps","Rockfalls-Industry",NA,"Ballots Cast","","",121
-"81","Phelps","Rockfalls-Industry",NA,"President","REP","Donald J. Trump",103
-"82","Phelps","Rockfalls-Industry",NA,"President","DEM","Hillary Clinton",10
-"83","Phelps","Rockfalls-Industry",NA,"President","LIB","Gary Johnson",6
-"84","Phelps","Rockfalls-Industry",NA,"President","","Jill Stein",0
-"85","Phelps","Rockfalls-Industry",NA,"President","","Write-ins",1
-"86","Phelps","Rockfalls-Industry",NA,"President","","Over Votes",0
-"87","Phelps","Rockfalls-Industry",NA,"President","","Under Votes",1
-"88","Phelps","Rockfalls-Industry",3,"U.S. House","","Adrian Smith",111
-"89","Phelps","Rockfalls-Industry",3,"U.S. House","","Write-ins",0
-"90","Phelps","Rockfalls-Industry",3,"U.S. House","","Over Votes",0
-"91","Phelps","Rockfalls-Industry",3,"U.S. House","","Under Votes",10
-"92","Phelps","Laird",NA,"Registered Voters","","",380
-"93","Phelps","Laird",NA,"Ballots Cast","","",251
-"94","Phelps","Laird",NA,"President","REP","Donald J. Trump",227
-"95","Phelps","Laird",NA,"President","DEM","Hillary Clinton",15
-"96","Phelps","Laird",NA,"President","LIB","Gary Johnson",5
-"97","Phelps","Laird",NA,"President","","Jill Stein",0
-"98","Phelps","Laird",NA,"President","","Write-ins",1
-"99","Phelps","Laird",NA,"President","","Over Votes",0
-"100","Phelps","Laird",NA,"President","","Under Votes",3
-"101","Phelps","Laird",3,"U.S. House","","Adrian Smith",222
-"102","Phelps","Laird",3,"U.S. House","","Write-ins",4
-"103","Phelps","Laird",3,"U.S. House","","Over Votes",0
-"104","Phelps","Laird",3,"U.S. House","","Under Votes",25
-"105","Phelps","Bertrand",NA,"Registered Voters","","",483
-"106","Phelps","Bertrand",NA,"Ballots Cast","","",329
-"107","Phelps","Bertrand",NA,"President","REP","Donald J. Trump",265
-"108","Phelps","Bertrand",NA,"President","DEM","Hillary Clinton",50
-"109","Phelps","Bertrand",NA,"President","LIB","Gary Johnson",8
-"110","Phelps","Bertrand",NA,"President","","Jill Stein",0
-"111","Phelps","Bertrand",NA,"President","","Write-ins",3
-"112","Phelps","Bertrand",NA,"President","","Over Votes",1
-"113","Phelps","Bertrand",NA,"President","","Under Votes",2
-"114","Phelps","Bertrand",3,"U.S. House","","Adrian Smith",294
-"115","Phelps","Bertrand",3,"U.S. House","","Write-ins",7
-"116","Phelps","Bertrand",3,"U.S. House","","Over Votes",0
-"117","Phelps","Bertrand",3,"U.S. House","","Under Votes",28
-"118","Phelps","Ward 1",NA,"Registered Voters","","",856
-"119","Phelps","Ward 1",NA,"Ballots Cast","","",451
-"120","Phelps","Ward 1",NA,"President","REP","Donald J. Trump",357
-"121","Phelps","Ward 1",NA,"President","DEM","Hillary Clinton",54
-"122","Phelps","Ward 1",NA,"President","LIB","Gary Johnson",24
-"123","Phelps","Ward 1",NA,"President","","Jill Stein",2
-"124","Phelps","Ward 1",NA,"President","","Write-ins",6
-"125","Phelps","Ward 1",NA,"President","","Over Votes",3
-"126","Phelps","Ward 1",NA,"President","","Under Votes",5
-"127","Phelps","Ward 1",3,"U.S. House","","Adrian Smith",394
-"128","Phelps","Ward 1",3,"U.S. House","","Write-ins",5
-"129","Phelps","Ward 1",3,"U.S. House","","Over Votes",1
-"130","Phelps","Ward 1",3,"U.S. House","","Under Votes",51
-"131","Phelps","Ward 2",NA,"Registered Voters","","",888
-"132","Phelps","Ward 2",NA,"Ballots Cast","","",466
-"133","Phelps","Ward 2",NA,"President","REP","Donald J. Trump",362
-"134","Phelps","Ward 2",NA,"President","DEM","Hillary Clinton",68
-"135","Phelps","Ward 2",NA,"President","LIB","Gary Johnson",25
-"136","Phelps","Ward 2",NA,"President","","Jill Stein",1
-"137","Phelps","Ward 2",NA,"President","","Write-ins",7
-"138","Phelps","Ward 2",NA,"President","","Over Votes",1
-"139","Phelps","Ward 2",NA,"President","","Under Votes",2
-"140","Phelps","Ward 2",3,"U.S. House","","Adrian Smith",403
-"141","Phelps","Ward 2",3,"U.S. House","","Write-ins",8
-"142","Phelps","Ward 2",3,"U.S. House","","Over Votes",0
-"143","Phelps","Ward 2",3,"U.S. House","","Under Votes",55
-"144","Phelps","Ward 3",NA,"Registered Voters","","",934
-"145","Phelps","Ward 3",NA,"Ballots Cast","","",520
-"146","Phelps","Ward 3",NA,"President","REP","Donald J. Trump",405
-"147","Phelps","Ward 3",NA,"President","DEM","Hillary Clinton",71
-"148","Phelps","Ward 3",NA,"President","LIB","Gary Johnson",20
-"149","Phelps","Ward 3",NA,"President","","Jill Stein",3
-"150","Phelps","Ward 3",NA,"President","","Write-ins",13
-"151","Phelps","Ward 3",NA,"President","","Over Votes",3
-"152","Phelps","Ward 3",NA,"President","","Under Votes",5
-"153","Phelps","Ward 3",3,"U.S. House","","Adrian Smith",460
-"154","Phelps","Ward 3",3,"U.S. House","","Write-ins",6
-"155","Phelps","Ward 3",3,"U.S. House","","Over Votes",1
-"156","Phelps","Ward 3",3,"U.S. House","","Under Votes",53
-"157","Phelps","Ward 4",NA,"Registered Voters","","",1087
-"158","Phelps","Ward 4",NA,"Ballots Cast","","",579
-"159","Phelps","Ward 4",NA,"President","REP","Donald J. Trump",479
-"160","Phelps","Ward 4",NA,"President","DEM","Hillary Clinton",60
-"161","Phelps","Ward 4",NA,"President","LIB","Gary Johnson",22
-"162","Phelps","Ward 4",NA,"President","","Jill Stein",5
-"163","Phelps","Ward 4",NA,"President","","Write-ins",8
-"164","Phelps","Ward 4",NA,"President","","Over Votes",2
-"165","Phelps","Ward 4",NA,"President","","Under Votes",3
-"166","Phelps","Ward 4",3,"U.S. House","","Adrian Smith",507
-"167","Phelps","Ward 4",3,"U.S. House","","Write-ins",8
-"168","Phelps","Ward 4",3,"U.S. House","","Over Votes",1
-"169","Phelps","Ward 4",3,"U.S. House","","Under Votes",63
-"170","Phelps","Absentee",NA,"Ballots Cast","","",1008
-"171","Phelps","Absentee",NA,"President","REP","Donald J. Trump",763
-"172","Phelps","Absentee",NA,"President","DEM","Hillary Clinton",173
-"173","Phelps","Absentee",NA,"President","LIB","Gary Johnson",45
-"174","Phelps","Absentee",NA,"President","","Jill Stein",3
-"175","Phelps","Absentee",NA,"President","","Write-ins",12
-"176","Phelps","Absentee",NA,"President","","Over Votes",5
-"177","Phelps","Absentee",NA,"President","","Under Votes",7
-"178","Phelps","Absentee",3,"U.S. House","","Adrian Smith",846
-"179","Phelps","Absentee",3,"U.S. House","","Write-ins",18
-"180","Phelps","Absentee",3,"U.S. House","","Over Votes",0
-"181","Phelps","Absentee",3,"U.S. House","","Under Votes",144
+"county","precinct","district","office","party","candidate","votes"
+"Phelps","Cottonwood-Anderson",NA,"Registered Voters","","",162
+"Phelps","Cottonwood-Anderson",NA,"Ballots Cast","","",139
+"Phelps","Cottonwood-Anderson",NA,"President","REP","Donald J. Trump",110
+"Phelps","Cottonwood-Anderson",NA,"President","DEM","Hillary Clinton",10
+"Phelps","Cottonwood-Anderson",NA,"President","LIB","Gary Johnson",14
+"Phelps","Cottonwood-Anderson",NA,"President","","Jill Stein",0
+"Phelps","Cottonwood-Anderson",NA,"President","","Write-ins",2
+"Phelps","Cottonwood-Anderson",NA,"President","","Over Votes",0
+"Phelps","Cottonwood-Anderson",NA,"President","","Under Votes",3
+"Phelps","Cottonwood-Anderson",3,"U.S. House","","Adrian Smith",117
+"Phelps","Cottonwood-Anderson",3,"U.S. House","","Write-ins",2
+"Phelps","Cottonwood-Anderson",3,"U.S. House","","Over Votes",0
+"Phelps","Cottonwood-Anderson",3,"U.S. House","","Under Votes",20
+"Phelps","Williamsburg-Westside",NA,"Registered Voters","","",177
+"Phelps","Williamsburg-Westside",NA,"Ballots Cast","","",144
+"Phelps","Williamsburg-Westside",NA,"President","REP","Donald J. Trump",111
+"Phelps","Williamsburg-Westside",NA,"President","DEM","Hillary Clinton",13
+"Phelps","Williamsburg-Westside",NA,"President","LIB","Gary Johnson",12
+"Phelps","Williamsburg-Westside",NA,"President","","Jill Stein",0
+"Phelps","Williamsburg-Westside",NA,"President","","Write-ins",6
+"Phelps","Williamsburg-Westside",NA,"President","","Over Votes",0
+"Phelps","Williamsburg-Westside",NA,"President","","Under Votes",2
+"Phelps","Williamsburg-Westside",3,"U.S. House","","Adrian Smith",124
+"Phelps","Williamsburg-Westside",3,"U.S. House","","Write-ins",2
+"Phelps","Williamsburg-Westside",3,"U.S. House","","Over Votes",0
+"Phelps","Williamsburg-Westside",3,"U.S. House","","Under Votes",18
+"Phelps","Garfield-Union",NA,"Registered Voters","","",175
+"Phelps","Garfield-Union",NA,"Ballots Cast","","",124
+"Phelps","Garfield-Union",NA,"President","REP","Donald J. Trump",98
+"Phelps","Garfield-Union",NA,"President","DEM","Hillary Clinton",19
+"Phelps","Garfield-Union",NA,"President","LIB","Gary Johnson",2
+"Phelps","Garfield-Union",NA,"President","","Jill Stein",2
+"Phelps","Garfield-Union",NA,"President","","Write-ins",1
+"Phelps","Garfield-Union",NA,"President","","Over Votes",0
+"Phelps","Garfield-Union",NA,"President","","Under Votes",2
+"Phelps","Garfield-Union",3,"U.S. House","","Adrian Smith",104
+"Phelps","Garfield-Union",3,"U.S. House","","Write-ins",2
+"Phelps","Garfield-Union",3,"U.S. House","","Over Votes",0
+"Phelps","Garfield-Union",3,"U.S. House","","Under Votes",18
+"Phelps","Westmark-Center",NA,"Registered Voters","","",241
+"Phelps","Westmark-Center",NA,"Ballots Cast","","",165
+"Phelps","Westmark-Center",NA,"President","REP","Donald J. Trump",152
+"Phelps","Westmark-Center",NA,"President","DEM","Hillary Clinton",9
+"Phelps","Westmark-Center",NA,"President","LIB","Gary Johnson",2
+"Phelps","Westmark-Center",NA,"President","","Jill Stein",0
+"Phelps","Westmark-Center",NA,"President","","Write-ins",0
+"Phelps","Westmark-Center",NA,"President","","Over Votes",0
+"Phelps","Westmark-Center",NA,"President","","Under Votes",2
+"Phelps","Westmark-Center",3,"U.S. House","","Adrian Smith",149
+"Phelps","Westmark-Center",3,"U.S. House","","Write-ins",3
+"Phelps","Westmark-Center",3,"U.S. House","","Over Votes",0
+"Phelps","Westmark-Center",3,"U.S. House","","Under Votes",13
+"Phelps","Divide-Lake",NA,"Registered Voters","","",341
+"Phelps","Divide-Lake",NA,"Ballots Cast","","",230
+"Phelps","Divide-Lake",NA,"President","REP","Donald J. Trump",210
+"Phelps","Divide-Lake",NA,"President","DEM","Hillary Clinton",14
+"Phelps","Divide-Lake",NA,"President","LIB","Gary Johnson",3
+"Phelps","Divide-Lake",NA,"President","","Jill Stein",1
+"Phelps","Divide-Lake",NA,"President","","Write-ins",0
+"Phelps","Divide-Lake",NA,"President","","Over Votes",1
+"Phelps","Divide-Lake",NA,"President","","Under Votes",1
+"Phelps","Divide-Lake",3,"U.S. House","","Adrian Smith",212
+"Phelps","Divide-Lake",3,"U.S. House","","Write-ins",0
+"Phelps","Divide-Lake",3,"U.S. House","","Over Votes",0
+"Phelps","Divide-Lake",3,"U.S. House","","Under Votes",18
+"Phelps","Sheridan-Prairie",NA,"Registered Voters","","",416
+"Phelps","Sheridan-Prairie",NA,"Ballots Cast","","",223
+"Phelps","Sheridan-Prairie",NA,"President","REP","Donald J. Trump",207
+"Phelps","Sheridan-Prairie",NA,"President","DEM","Hillary Clinton",6
+"Phelps","Sheridan-Prairie",NA,"President","LIB","Gary Johnson",2
+"Phelps","Sheridan-Prairie",NA,"President","","Jill Stein",1
+"Phelps","Sheridan-Prairie",NA,"President","","Write-ins",6
+"Phelps","Sheridan-Prairie",NA,"President","","Over Votes",1
+"Phelps","Sheridan-Prairie",NA,"President","","Under Votes",0
+"Phelps","Sheridan-Prairie",3,"U.S. House","","Adrian Smith",199
+"Phelps","Sheridan-Prairie",3,"U.S. House","","Write-ins",2
+"Phelps","Sheridan-Prairie",3,"U.S. House","","Over Votes",0
+"Phelps","Sheridan-Prairie",3,"U.S. House","","Under Votes",22
+"Phelps","Rockfalls-Industry",NA,"Registered Voters","","",147
+"Phelps","Rockfalls-Industry",NA,"Ballots Cast","","",121
+"Phelps","Rockfalls-Industry",NA,"President","REP","Donald J. Trump",103
+"Phelps","Rockfalls-Industry",NA,"President","DEM","Hillary Clinton",10
+"Phelps","Rockfalls-Industry",NA,"President","LIB","Gary Johnson",6
+"Phelps","Rockfalls-Industry",NA,"President","","Jill Stein",0
+"Phelps","Rockfalls-Industry",NA,"President","","Write-ins",1
+"Phelps","Rockfalls-Industry",NA,"President","","Over Votes",0
+"Phelps","Rockfalls-Industry",NA,"President","","Under Votes",1
+"Phelps","Rockfalls-Industry",3,"U.S. House","","Adrian Smith",111
+"Phelps","Rockfalls-Industry",3,"U.S. House","","Write-ins",0
+"Phelps","Rockfalls-Industry",3,"U.S. House","","Over Votes",0
+"Phelps","Rockfalls-Industry",3,"U.S. House","","Under Votes",10
+"Phelps","Laird",NA,"Registered Voters","","",380
+"Phelps","Laird",NA,"Ballots Cast","","",251
+"Phelps","Laird",NA,"President","REP","Donald J. Trump",227
+"Phelps","Laird",NA,"President","DEM","Hillary Clinton",15
+"Phelps","Laird",NA,"President","LIB","Gary Johnson",5
+"Phelps","Laird",NA,"President","","Jill Stein",0
+"Phelps","Laird",NA,"President","","Write-ins",1
+"Phelps","Laird",NA,"President","","Over Votes",0
+"Phelps","Laird",NA,"President","","Under Votes",3
+"Phelps","Laird",3,"U.S. House","","Adrian Smith",222
+"Phelps","Laird",3,"U.S. House","","Write-ins",4
+"Phelps","Laird",3,"U.S. House","","Over Votes",0
+"Phelps","Laird",3,"U.S. House","","Under Votes",25
+"Phelps","Bertrand",NA,"Registered Voters","","",483
+"Phelps","Bertrand",NA,"Ballots Cast","","",329
+"Phelps","Bertrand",NA,"President","REP","Donald J. Trump",265
+"Phelps","Bertrand",NA,"President","DEM","Hillary Clinton",50
+"Phelps","Bertrand",NA,"President","LIB","Gary Johnson",8
+"Phelps","Bertrand",NA,"President","","Jill Stein",0
+"Phelps","Bertrand",NA,"President","","Write-ins",3
+"Phelps","Bertrand",NA,"President","","Over Votes",1
+"Phelps","Bertrand",NA,"President","","Under Votes",2
+"Phelps","Bertrand",3,"U.S. House","","Adrian Smith",294
+"Phelps","Bertrand",3,"U.S. House","","Write-ins",7
+"Phelps","Bertrand",3,"U.S. House","","Over Votes",0
+"Phelps","Bertrand",3,"U.S. House","","Under Votes",28
+"Phelps","Ward 1",NA,"Registered Voters","","",856
+"Phelps","Ward 1",NA,"Ballots Cast","","",451
+"Phelps","Ward 1",NA,"President","REP","Donald J. Trump",357
+"Phelps","Ward 1",NA,"President","DEM","Hillary Clinton",54
+"Phelps","Ward 1",NA,"President","LIB","Gary Johnson",24
+"Phelps","Ward 1",NA,"President","","Jill Stein",2
+"Phelps","Ward 1",NA,"President","","Write-ins",6
+"Phelps","Ward 1",NA,"President","","Over Votes",3
+"Phelps","Ward 1",NA,"President","","Under Votes",5
+"Phelps","Ward 1",3,"U.S. House","","Adrian Smith",394
+"Phelps","Ward 1",3,"U.S. House","","Write-ins",5
+"Phelps","Ward 1",3,"U.S. House","","Over Votes",1
+"Phelps","Ward 1",3,"U.S. House","","Under Votes",51
+"Phelps","Ward 2",NA,"Registered Voters","","",888
+"Phelps","Ward 2",NA,"Ballots Cast","","",466
+"Phelps","Ward 2",NA,"President","REP","Donald J. Trump",362
+"Phelps","Ward 2",NA,"President","DEM","Hillary Clinton",68
+"Phelps","Ward 2",NA,"President","LIB","Gary Johnson",25
+"Phelps","Ward 2",NA,"President","","Jill Stein",1
+"Phelps","Ward 2",NA,"President","","Write-ins",7
+"Phelps","Ward 2",NA,"President","","Over Votes",1
+"Phelps","Ward 2",NA,"President","","Under Votes",2
+"Phelps","Ward 2",3,"U.S. House","","Adrian Smith",403
+"Phelps","Ward 2",3,"U.S. House","","Write-ins",8
+"Phelps","Ward 2",3,"U.S. House","","Over Votes",0
+"Phelps","Ward 2",3,"U.S. House","","Under Votes",55
+"Phelps","Ward 3",NA,"Registered Voters","","",934
+"Phelps","Ward 3",NA,"Ballots Cast","","",520
+"Phelps","Ward 3",NA,"President","REP","Donald J. Trump",405
+"Phelps","Ward 3",NA,"President","DEM","Hillary Clinton",71
+"Phelps","Ward 3",NA,"President","LIB","Gary Johnson",20
+"Phelps","Ward 3",NA,"President","","Jill Stein",3
+"Phelps","Ward 3",NA,"President","","Write-ins",13
+"Phelps","Ward 3",NA,"President","","Over Votes",3
+"Phelps","Ward 3",NA,"President","","Under Votes",5
+"Phelps","Ward 3",3,"U.S. House","","Adrian Smith",460
+"Phelps","Ward 3",3,"U.S. House","","Write-ins",6
+"Phelps","Ward 3",3,"U.S. House","","Over Votes",1
+"Phelps","Ward 3",3,"U.S. House","","Under Votes",53
+"Phelps","Ward 4",NA,"Registered Voters","","",1087
+"Phelps","Ward 4",NA,"Ballots Cast","","",579
+"Phelps","Ward 4",NA,"President","REP","Donald J. Trump",479
+"Phelps","Ward 4",NA,"President","DEM","Hillary Clinton",60
+"Phelps","Ward 4",NA,"President","LIB","Gary Johnson",22
+"Phelps","Ward 4",NA,"President","","Jill Stein",5
+"Phelps","Ward 4",NA,"President","","Write-ins",8
+"Phelps","Ward 4",NA,"President","","Over Votes",2
+"Phelps","Ward 4",NA,"President","","Under Votes",3
+"Phelps","Ward 4",3,"U.S. House","","Adrian Smith",507
+"Phelps","Ward 4",3,"U.S. House","","Write-ins",8
+"Phelps","Ward 4",3,"U.S. House","","Over Votes",1
+"Phelps","Ward 4",3,"U.S. House","","Under Votes",63
+"Phelps","Absentee",NA,"Ballots Cast","","",1008
+"Phelps","Absentee",NA,"President","REP","Donald J. Trump",763
+"Phelps","Absentee",NA,"President","DEM","Hillary Clinton",173
+"Phelps","Absentee",NA,"President","LIB","Gary Johnson",45
+"Phelps","Absentee",NA,"President","","Jill Stein",3
+"Phelps","Absentee",NA,"President","","Write-ins",12
+"Phelps","Absentee",NA,"President","","Over Votes",5
+"Phelps","Absentee",NA,"President","","Under Votes",7
+"Phelps","Absentee",3,"U.S. House","","Adrian Smith",846
+"Phelps","Absentee",3,"U.S. House","","Write-ins",18
+"Phelps","Absentee",3,"U.S. House","","Over Votes",0
+"Phelps","Absentee",3,"U.S. House","","Under Votes",144

@@ -1,8 +1,8 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Blaine","Blaine",NA,"President","REP","Donald J. Trump",276
-"2","Blaine","Blaine",NA,"President","DEM","Hillary Clinton",30
-"3","Blaine","Blaine",NA,"President","LIB","Gary Johnson/Weld",10
-"4","Blaine","Blaine",NA,"President","","Jill Stein",0
-"5","Blaine","Blaine",3,"U.S. House","REP","Adrian Smith",276
-"6","Blaine","Blaine",43,"State Legislature","","Al Davis",130
-"7","Blaine","Blaine",43,"State Legislature","","Tom Brewer",179
+"county","precinct","district","office","party","candidate","votes"
+"Blaine","Blaine",NA,"President","REP","Donald J. Trump",276
+"Blaine","Blaine",NA,"President","DEM","Hillary Clinton",30
+"Blaine","Blaine",NA,"President","LIB","Gary Johnson/Weld",10
+"Blaine","Blaine",NA,"President","","Jill Stein",0
+"Blaine","Blaine",3,"U.S. House","REP","Adrian Smith",276
+"Blaine","Blaine",43,"State Legislature","","Al Davis",130
+"Blaine","Blaine",43,"State Legislature","","Tom Brewer",179

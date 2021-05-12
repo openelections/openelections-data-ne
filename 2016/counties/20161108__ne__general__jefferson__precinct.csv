@@ -1,84 +1,84 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Jefferson","Plymouth-Gibson",NA,"Registered Voters","","",543
-"2","Jefferson","Eureka-Washington",NA,"Registered Voters","","",266
-"3","Jefferson","Lincoln-Meridian-Fairbury-Rich",NA,"Registered Voters","","",383
-"4","Jefferson","Cub-Rock Creek",NA,"Registered Voters","","",272
-"5","Jefferson","Jefferson-Pleasant-Newton",NA,"Registered Voters","","",573
-"6","Jefferson","Buckley-Antelope-Endicott",NA,"Registered Voters","","",573
-"7","Jefferson","Ward I",NA,"Registered Voters","","",587
-"8","Jefferson","Ward II",NA,"Registered Voters","","",476
-"9","Jefferson","Ward III",NA,"Registered Voters","","",662
-"10","Jefferson","Ward IV",NA,"Registered Voters","","",676
-"11","Jefferson","Total",NA,"Registered Voters","","",5011
-"12","Jefferson","Plymouth-Gibson",NA,"Ballots Cast","","",376
-"13","Jefferson","Eureka-Washington",NA,"Ballots Cast","","",182
-"14","Jefferson","Lincoln-Meridian-Fairbury-Rich",NA,"Ballots Cast","","",271
-"15","Jefferson","Cub-Rock Creek",NA,"Ballots Cast","","",185
-"16","Jefferson","Jefferson-Pleasant-Newton",NA,"Ballots Cast","","",357
-"17","Jefferson","Buckley-Antelope-Endicott",NA,"Ballots Cast","","",330
-"18","Jefferson","Ward I",NA,"Ballots Cast","","",321
-"19","Jefferson","Ward II",NA,"Ballots Cast","","",220
-"20","Jefferson","Ward III",NA,"Ballots Cast","","",386
-"21","Jefferson","Ward IV",NA,"Ballots Cast","","",359
-"22","Jefferson","Absentee",NA,"Ballots Cast","","",560
-"23","Jefferson","Total",NA,"Ballots Cast","","",3547
-"24","Jefferson","Total",NA,"President","REP","Donald J. Trump",2387
-"25","Jefferson","Absentee",NA,"President","REP","Donald J. Trump",342
-"26","Jefferson","Plymouth-Gibson",NA,"President","REP","Donald J. Trump",256
-"27","Jefferson","Eureka-Washington",NA,"President","REP","Donald J. Trump",131
-"28","Jefferson","Lincoln-Meridian-Fairbury-Rich",NA,"President","REP","Donald J. Trump",201
-"29","Jefferson","Cub-Rock Creek",NA,"President","REP","Donald J. Trump",143
-"30","Jefferson","Jefferson-Pleasant-Newton",NA,"President","REP","Donald J. Trump",233
-"31","Jefferson","Buckley-Antelope-Endicott",NA,"President","REP","Donald J. Trump",236
-"32","Jefferson","Ward I",NA,"President","REP","Donald J. Trump",205
-"33","Jefferson","Ward II",NA,"President","REP","Donald J. Trump",145
-"34","Jefferson","Ward III",NA,"President","REP","Donald J. Trump",269
-"35","Jefferson","Ward IV",NA,"President","REP","Donald J. Trump",226
-"36","Jefferson","Total",NA,"President","DEM","Hillary Clinton",831
-"37","Jefferson","Absentee",NA,"President","DEM","Hillary Clinton",167
-"38","Jefferson","Plymouth-Gibson",NA,"President","DEM","Hillary Clinton",74
-"39","Jefferson","Eureka-Washington",NA,"President","DEM","Hillary Clinton",30
-"40","Jefferson","Lincoln-Meridian-Fairbury-Rich",NA,"President","DEM","Hillary Clinton",47
-"41","Jefferson","Cub-Rock Creek",NA,"President","DEM","Hillary Clinton",27
-"42","Jefferson","Jefferson-Pleasant-Newton",NA,"President","DEM","Hillary Clinton",107
-"43","Jefferson","Buckley-Antelope-Endicott",NA,"President","DEM","Hillary Clinton",64
-"44","Jefferson","Ward I",NA,"President","DEM","Hillary Clinton",89
-"45","Jefferson","Ward II",NA,"President","DEM","Hillary Clinton",62
-"46","Jefferson","Ward III",NA,"President","DEM","Hillary Clinton",75
-"47","Jefferson","Ward IV",NA,"President","DEM","Hillary Clinton",89
-"48","Jefferson","Total",NA,"President","LIB","Gary Johnson",182
-"49","Jefferson","Absentee",NA,"President","LIB","Gary Johnson",31
-"50","Jefferson","Plymouth-Gibson",NA,"President","LIB","Gary Johnson",28
-"51","Jefferson","Eureka-Washington",NA,"President","LIB","Gary Johnson",10
-"52","Jefferson","Lincoln-Meridian-Fairbury-Rich",NA,"President","LIB","Gary Johnson",17
-"53","Jefferson","Cub-Rock Creek",NA,"President","LIB","Gary Johnson",7
-"54","Jefferson","Jefferson-Pleasant-Newton",NA,"President","LIB","Gary Johnson",7
-"55","Jefferson","Buckley-Antelope-Endicott",NA,"President","LIB","Gary Johnson",13
-"56","Jefferson","Ward I",NA,"President","LIB","Gary Johnson",18
-"57","Jefferson","Ward II",NA,"President","LIB","Gary Johnson",10
-"58","Jefferson","Ward III",NA,"President","LIB","Gary Johnson",21
-"59","Jefferson","Ward IV",NA,"President","LIB","Gary Johnson",20
-"60","Jefferson","Total",NA,"President","","Jill Stein",30
-"61","Jefferson","Absentee",NA,"President","","Jill Stein",6
-"62","Jefferson","Plymouth-Gibson",NA,"President","","Jill Stein",1
-"63","Jefferson","Eureka-Washington",NA,"President","","Jill Stein",0
-"64","Jefferson","Lincoln-Meridian-Fairbury-Rich",NA,"President","","Jill Stein",2
-"65","Jefferson","Cub-Rock Creek",NA,"President","","Jill Stein",1
-"66","Jefferson","Jefferson-Pleasant-Newton",NA,"President","","Jill Stein",2
-"67","Jefferson","Buckley-Antelope-Endicott",NA,"President","","Jill Stein",3
-"68","Jefferson","Ward I",NA,"President","","Jill Stein",4
-"69","Jefferson","Ward II",NA,"President","","Jill Stein",0
-"70","Jefferson","Ward III",NA,"President","","Jill Stein",4
-"71","Jefferson","Ward IV",NA,"President","","Jill Stein",7
-"72","Jefferson","Total",3,"U.S. House","REP","Adrian Smith",2956
-"73","Jefferson","Absentee",3,"U.S. House","REP","Adrian Smith",438
-"74","Jefferson","Plymouth-Gibson",3,"U.S. House","REP","Adrian Smith",321
-"75","Jefferson","Eureka-Washington",3,"U.S. House","REP","Adrian Smith",160
-"76","Jefferson","Lincoln-Meridian-Fairbury-Rich",3,"U.S. House","REP","Adrian Smith",227
-"77","Jefferson","Cub-Rock Creek",3,"U.S. House","REP","Adrian Smith",155
-"78","Jefferson","Jefferson-Pleasant-Newton",3,"U.S. House","REP","Adrian Smith",293
-"79","Jefferson","Buckley-Antelope-Endicott",3,"U.S. House","REP","Adrian Smith",279
-"80","Jefferson","Ward I",3,"U.S. House","REP","Adrian Smith",272
-"81","Jefferson","Ward II",3,"U.S. House","REP","Adrian Smith",189
-"82","Jefferson","Ward III",3,"U.S. House","REP","Adrian Smith",325
-"83","Jefferson","Ward IV",3,"U.S. House","REP","Adrian Smith",297
+"county","precinct","district","office","party","candidate","votes"
+"Jefferson","Plymouth-Gibson",NA,"Registered Voters","","",543
+"Jefferson","Eureka-Washington",NA,"Registered Voters","","",266
+"Jefferson","Lincoln-Meridian-Fairbury-Rich",NA,"Registered Voters","","",383
+"Jefferson","Cub-Rock Creek",NA,"Registered Voters","","",272
+"Jefferson","Jefferson-Pleasant-Newton",NA,"Registered Voters","","",573
+"Jefferson","Buckley-Antelope-Endicott",NA,"Registered Voters","","",573
+"Jefferson","Ward I",NA,"Registered Voters","","",587
+"Jefferson","Ward II",NA,"Registered Voters","","",476
+"Jefferson","Ward III",NA,"Registered Voters","","",662
+"Jefferson","Ward IV",NA,"Registered Voters","","",676
+"Jefferson","Total",NA,"Registered Voters","","",5011
+"Jefferson","Plymouth-Gibson",NA,"Ballots Cast","","",376
+"Jefferson","Eureka-Washington",NA,"Ballots Cast","","",182
+"Jefferson","Lincoln-Meridian-Fairbury-Rich",NA,"Ballots Cast","","",271
+"Jefferson","Cub-Rock Creek",NA,"Ballots Cast","","",185
+"Jefferson","Jefferson-Pleasant-Newton",NA,"Ballots Cast","","",357
+"Jefferson","Buckley-Antelope-Endicott",NA,"Ballots Cast","","",330
+"Jefferson","Ward I",NA,"Ballots Cast","","",321
+"Jefferson","Ward II",NA,"Ballots Cast","","",220
+"Jefferson","Ward III",NA,"Ballots Cast","","",386
+"Jefferson","Ward IV",NA,"Ballots Cast","","",359
+"Jefferson","Absentee",NA,"Ballots Cast","","",560
+"Jefferson","Total",NA,"Ballots Cast","","",3547
+"Jefferson","Total",NA,"President","REP","Donald J. Trump",2387
+"Jefferson","Absentee",NA,"President","REP","Donald J. Trump",342
+"Jefferson","Plymouth-Gibson",NA,"President","REP","Donald J. Trump",256
+"Jefferson","Eureka-Washington",NA,"President","REP","Donald J. Trump",131
+"Jefferson","Lincoln-Meridian-Fairbury-Rich",NA,"President","REP","Donald J. Trump",201
+"Jefferson","Cub-Rock Creek",NA,"President","REP","Donald J. Trump",143
+"Jefferson","Jefferson-Pleasant-Newton",NA,"President","REP","Donald J. Trump",233
+"Jefferson","Buckley-Antelope-Endicott",NA,"President","REP","Donald J. Trump",236
+"Jefferson","Ward I",NA,"President","REP","Donald J. Trump",205
+"Jefferson","Ward II",NA,"President","REP","Donald J. Trump",145
+"Jefferson","Ward III",NA,"President","REP","Donald J. Trump",269
+"Jefferson","Ward IV",NA,"President","REP","Donald J. Trump",226
+"Jefferson","Total",NA,"President","DEM","Hillary Clinton",831
+"Jefferson","Absentee",NA,"President","DEM","Hillary Clinton",167
+"Jefferson","Plymouth-Gibson",NA,"President","DEM","Hillary Clinton",74
+"Jefferson","Eureka-Washington",NA,"President","DEM","Hillary Clinton",30
+"Jefferson","Lincoln-Meridian-Fairbury-Rich",NA,"President","DEM","Hillary Clinton",47
+"Jefferson","Cub-Rock Creek",NA,"President","DEM","Hillary Clinton",27
+"Jefferson","Jefferson-Pleasant-Newton",NA,"President","DEM","Hillary Clinton",107
+"Jefferson","Buckley-Antelope-Endicott",NA,"President","DEM","Hillary Clinton",64
+"Jefferson","Ward I",NA,"President","DEM","Hillary Clinton",89
+"Jefferson","Ward II",NA,"President","DEM","Hillary Clinton",62
+"Jefferson","Ward III",NA,"President","DEM","Hillary Clinton",75
+"Jefferson","Ward IV",NA,"President","DEM","Hillary Clinton",89
+"Jefferson","Total",NA,"President","LIB","Gary Johnson",182
+"Jefferson","Absentee",NA,"President","LIB","Gary Johnson",31
+"Jefferson","Plymouth-Gibson",NA,"President","LIB","Gary Johnson",28
+"Jefferson","Eureka-Washington",NA,"President","LIB","Gary Johnson",10
+"Jefferson","Lincoln-Meridian-Fairbury-Rich",NA,"President","LIB","Gary Johnson",17
+"Jefferson","Cub-Rock Creek",NA,"President","LIB","Gary Johnson",7
+"Jefferson","Jefferson-Pleasant-Newton",NA,"President","LIB","Gary Johnson",7
+"Jefferson","Buckley-Antelope-Endicott",NA,"President","LIB","Gary Johnson",13
+"Jefferson","Ward I",NA,"President","LIB","Gary Johnson",18
+"Jefferson","Ward II",NA,"President","LIB","Gary Johnson",10
+"Jefferson","Ward III",NA,"President","LIB","Gary Johnson",21
+"Jefferson","Ward IV",NA,"President","LIB","Gary Johnson",20
+"Jefferson","Total",NA,"President","","Jill Stein",30
+"Jefferson","Absentee",NA,"President","","Jill Stein",6
+"Jefferson","Plymouth-Gibson",NA,"President","","Jill Stein",1
+"Jefferson","Eureka-Washington",NA,"President","","Jill Stein",0
+"Jefferson","Lincoln-Meridian-Fairbury-Rich",NA,"President","","Jill Stein",2
+"Jefferson","Cub-Rock Creek",NA,"President","","Jill Stein",1
+"Jefferson","Jefferson-Pleasant-Newton",NA,"President","","Jill Stein",2
+"Jefferson","Buckley-Antelope-Endicott",NA,"President","","Jill Stein",3
+"Jefferson","Ward I",NA,"President","","Jill Stein",4
+"Jefferson","Ward II",NA,"President","","Jill Stein",0
+"Jefferson","Ward III",NA,"President","","Jill Stein",4
+"Jefferson","Ward IV",NA,"President","","Jill Stein",7
+"Jefferson","Total",3,"U.S. House","REP","Adrian Smith",2956
+"Jefferson","Absentee",3,"U.S. House","REP","Adrian Smith",438
+"Jefferson","Plymouth-Gibson",3,"U.S. House","REP","Adrian Smith",321
+"Jefferson","Eureka-Washington",3,"U.S. House","REP","Adrian Smith",160
+"Jefferson","Lincoln-Meridian-Fairbury-Rich",3,"U.S. House","REP","Adrian Smith",227
+"Jefferson","Cub-Rock Creek",3,"U.S. House","REP","Adrian Smith",155
+"Jefferson","Jefferson-Pleasant-Newton",3,"U.S. House","REP","Adrian Smith",293
+"Jefferson","Buckley-Antelope-Endicott",3,"U.S. House","REP","Adrian Smith",279
+"Jefferson","Ward I",3,"U.S. House","REP","Adrian Smith",272
+"Jefferson","Ward II",3,"U.S. House","REP","Adrian Smith",189
+"Jefferson","Ward III",3,"U.S. House","REP","Adrian Smith",325
+"Jefferson","Ward IV",3,"U.S. House","REP","Adrian Smith",297

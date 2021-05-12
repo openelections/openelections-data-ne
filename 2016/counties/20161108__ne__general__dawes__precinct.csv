@@ -1,99 +1,99 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Dawes","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",246
-"2","Dawes","Countywide",NA,"President","DEM","Hillary Clinton",16
-"3","Dawes","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
-"4","Dawes","Precinct 1",NA,"President","DEM","Hillary Clinton",35
-"5","Dawes","Precinct 10",NA,"President","DEM","Hillary Clinton",38
-"6","Dawes","Precinct 11",NA,"President","DEM","Hillary Clinton",30
-"7","Dawes","Precinct 2",NA,"President","DEM","Hillary Clinton",100
-"8","Dawes","Precinct 3",NA,"President","DEM","Hillary Clinton",96
-"9","Dawes","Precinct 4",NA,"President","DEM","Hillary Clinton",80
-"10","Dawes","Precinct 5",NA,"President","DEM","Hillary Clinton",60
-"11","Dawes","Precinct 6",NA,"President","DEM","Hillary Clinton",35
-"12","Dawes","Precinct 7",NA,"President","DEM","Hillary Clinton",31
-"13","Dawes","Precinct 8",NA,"President","DEM","Hillary Clinton",21
-"14","Dawes","Precinct 9",NA,"President","DEM","Hillary Clinton",13
-"15","Dawes","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",31
-"16","Dawes","Countywide",NA,"President","LIB","Gary Johnson",5
-"17","Dawes","New/Former Resident",NA,"President","LIB","Gary Johnson",0
-"18","Dawes","Precinct 1",NA,"President","LIB","Gary Johnson",13
-"19","Dawes","Precinct 10",NA,"President","LIB","Gary Johnson",15
-"20","Dawes","Precinct 11",NA,"President","LIB","Gary Johnson",16
-"21","Dawes","Precinct 2",NA,"President","LIB","Gary Johnson",20
-"22","Dawes","Precinct 3",NA,"President","LIB","Gary Johnson",17
-"23","Dawes","Precinct 4",NA,"President","LIB","Gary Johnson",19
-"24","Dawes","Precinct 5",NA,"President","LIB","Gary Johnson",18
-"25","Dawes","Precinct 6",NA,"President","LIB","Gary Johnson",9
-"26","Dawes","Precinct 7",NA,"President","LIB","Gary Johnson",13
-"27","Dawes","Precinct 8",NA,"President","LIB","Gary Johnson",8
-"28","Dawes","Precinct 9",NA,"President","LIB","Gary Johnson",7
-"29","Dawes","Absentee/Early Vote",NA,"President","","Jill Stein",7
-"30","Dawes","Countywide",NA,"President","","Jill Stein",4
-"31","Dawes","New/Former Resident",NA,"President","","Jill Stein",0
-"32","Dawes","Precinct 1",NA,"President","","Jill Stein",8
-"33","Dawes","Precinct 10",NA,"President","","Jill Stein",0
-"34","Dawes","Precinct 11",NA,"President","","Jill Stein",1
-"35","Dawes","Precinct 2",NA,"President","","Jill Stein",12
-"36","Dawes","Precinct 3",NA,"President","","Jill Stein",9
-"37","Dawes","Precinct 4",NA,"President","","Jill Stein",4
-"38","Dawes","Precinct 5",NA,"President","","Jill Stein",5
-"39","Dawes","Precinct 6",NA,"President","","Jill Stein",0
-"40","Dawes","Precinct 7",NA,"President","","Jill Stein",2
-"41","Dawes","Precinct 8",NA,"President","","Jill Stein",0
-"42","Dawes","Precinct 9",NA,"President","","Jill Stein",0
-"43","Dawes","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",477
-"44","Dawes","Countywide",NA,"President","REP","Donald J. Trump",73
-"45","Dawes","New/Former Resident",NA,"President","REP","Donald J. Trump",0
-"46","Dawes","Precinct 1",NA,"President","REP","Donald J. Trump",111
-"47","Dawes","Precinct 10",NA,"President","REP","Donald J. Trump",295
-"48","Dawes","Precinct 11",NA,"President","REP","Donald J. Trump",185
-"49","Dawes","Precinct 2",NA,"President","REP","Donald J. Trump",273
-"50","Dawes","Precinct 3",NA,"President","REP","Donald J. Trump",225
-"51","Dawes","Precinct 4",NA,"President","REP","Donald J. Trump",191
-"52","Dawes","Precinct 5",NA,"President","REP","Donald J. Trump",125
-"53","Dawes","Precinct 6",NA,"President","REP","Donald J. Trump",230
-"54","Dawes","Precinct 7",NA,"President","REP","Donald J. Trump",193
-"55","Dawes","Precinct 8",NA,"President","REP","Donald J. Trump",168
-"56","Dawes","Precinct 9",NA,"President","REP","Donald J. Trump",86
-"57","Dawes","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",595
-"58","Dawes","Countywide",3,"U.S. House","REP","Adrian Smith",93
-"59","Dawes","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
-"60","Dawes","Precinct 1",3,"U.S. House","REP","Adrian Smith",151
-"61","Dawes","Precinct 10",3,"U.S. House","REP","Adrian Smith",318
-"62","Dawes","Precinct 11",3,"U.S. House","REP","Adrian Smith",213
-"63","Dawes","Precinct 2",3,"U.S. House","REP","Adrian Smith",356
-"64","Dawes","Precinct 3",3,"U.S. House","REP","Adrian Smith",298
-"65","Dawes","Precinct 4",3,"U.S. House","REP","Adrian Smith",257
-"66","Dawes","Precinct 5",3,"U.S. House","REP","Adrian Smith",178
-"67","Dawes","Precinct 6",3,"U.S. House","REP","Adrian Smith",242
-"68","Dawes","Precinct 7",3,"U.S. House","REP","Adrian Smith",193
-"69","Dawes","Precinct 8",3,"U.S. House","REP","Adrian Smith",182
-"70","Dawes","Precinct 9",3,"U.S. House","REP","Adrian Smith",93
-"71","Dawes","Absentee/Early Vote",43,"State Legislature","","Al Davis",461
-"72","Dawes","Countywide",43,"State Legislature","","Al Davis",59
-"73","Dawes","New/Former Resident",43,"State Legislature","","Al Davis",0
-"74","Dawes","Precinct 1",43,"State Legislature","","Al Davis",101
-"75","Dawes","Precinct 10",43,"State Legislature","","Al Davis",204
-"76","Dawes","Precinct 11",43,"State Legislature","","Al Davis",124
-"77","Dawes","Precinct 2",43,"State Legislature","","Al Davis",221
-"78","Dawes","Precinct 3",43,"State Legislature","","Al Davis",217
-"79","Dawes","Precinct 4",43,"State Legislature","","Al Davis",185
-"80","Dawes","Precinct 5",43,"State Legislature","","Al Davis",142
-"81","Dawes","Precinct 6",43,"State Legislature","","Al Davis",113
-"82","Dawes","Precinct 7",43,"State Legislature","","Al Davis",123
-"83","Dawes","Precinct 8",43,"State Legislature","","Al Davis",115
-"84","Dawes","Precinct 9",43,"State Legislature","","Al Davis",48
-"85","Dawes","Absentee/Early Vote",43,"State Legislature","","Tom Brewer",287
-"86","Dawes","Countywide",43,"State Legislature","","Tom Brewer",34
-"87","Dawes","New/Former Resident",43,"State Legislature","","Tom Brewer",0
-"88","Dawes","Precinct 1",43,"State Legislature","","Tom Brewer",68
-"89","Dawes","Precinct 10",43,"State Legislature","","Tom Brewer",138
-"90","Dawes","Precinct 11",43,"State Legislature","","Tom Brewer",103
-"91","Dawes","Precinct 2",43,"State Legislature","","Tom Brewer",184
-"92","Dawes","Precinct 3",43,"State Legislature","","Tom Brewer",126
-"93","Dawes","Precinct 4",43,"State Legislature","","Tom Brewer",105
-"94","Dawes","Precinct 5",43,"State Legislature","","Tom Brewer",70
-"95","Dawes","Precinct 6",43,"State Legislature","","Tom Brewer",168
-"96","Dawes","Precinct 7",43,"State Legislature","","Tom Brewer",103
-"97","Dawes","Precinct 8",43,"State Legislature","","Tom Brewer",82
-"98","Dawes","Precinct 9",43,"State Legislature","","Tom Brewer",58
+"county","precinct","district","office","party","candidate","votes"
+"Dawes","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",246
+"Dawes","Countywide",NA,"President","DEM","Hillary Clinton",16
+"Dawes","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
+"Dawes","Precinct 1",NA,"President","DEM","Hillary Clinton",35
+"Dawes","Precinct 10",NA,"President","DEM","Hillary Clinton",38
+"Dawes","Precinct 11",NA,"President","DEM","Hillary Clinton",30
+"Dawes","Precinct 2",NA,"President","DEM","Hillary Clinton",100
+"Dawes","Precinct 3",NA,"President","DEM","Hillary Clinton",96
+"Dawes","Precinct 4",NA,"President","DEM","Hillary Clinton",80
+"Dawes","Precinct 5",NA,"President","DEM","Hillary Clinton",60
+"Dawes","Precinct 6",NA,"President","DEM","Hillary Clinton",35
+"Dawes","Precinct 7",NA,"President","DEM","Hillary Clinton",31
+"Dawes","Precinct 8",NA,"President","DEM","Hillary Clinton",21
+"Dawes","Precinct 9",NA,"President","DEM","Hillary Clinton",13
+"Dawes","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",31
+"Dawes","Countywide",NA,"President","LIB","Gary Johnson",5
+"Dawes","New/Former Resident",NA,"President","LIB","Gary Johnson",0
+"Dawes","Precinct 1",NA,"President","LIB","Gary Johnson",13
+"Dawes","Precinct 10",NA,"President","LIB","Gary Johnson",15
+"Dawes","Precinct 11",NA,"President","LIB","Gary Johnson",16
+"Dawes","Precinct 2",NA,"President","LIB","Gary Johnson",20
+"Dawes","Precinct 3",NA,"President","LIB","Gary Johnson",17
+"Dawes","Precinct 4",NA,"President","LIB","Gary Johnson",19
+"Dawes","Precinct 5",NA,"President","LIB","Gary Johnson",18
+"Dawes","Precinct 6",NA,"President","LIB","Gary Johnson",9
+"Dawes","Precinct 7",NA,"President","LIB","Gary Johnson",13
+"Dawes","Precinct 8",NA,"President","LIB","Gary Johnson",8
+"Dawes","Precinct 9",NA,"President","LIB","Gary Johnson",7
+"Dawes","Absentee/Early Vote",NA,"President","","Jill Stein",7
+"Dawes","Countywide",NA,"President","","Jill Stein",4
+"Dawes","New/Former Resident",NA,"President","","Jill Stein",0
+"Dawes","Precinct 1",NA,"President","","Jill Stein",8
+"Dawes","Precinct 10",NA,"President","","Jill Stein",0
+"Dawes","Precinct 11",NA,"President","","Jill Stein",1
+"Dawes","Precinct 2",NA,"President","","Jill Stein",12
+"Dawes","Precinct 3",NA,"President","","Jill Stein",9
+"Dawes","Precinct 4",NA,"President","","Jill Stein",4
+"Dawes","Precinct 5",NA,"President","","Jill Stein",5
+"Dawes","Precinct 6",NA,"President","","Jill Stein",0
+"Dawes","Precinct 7",NA,"President","","Jill Stein",2
+"Dawes","Precinct 8",NA,"President","","Jill Stein",0
+"Dawes","Precinct 9",NA,"President","","Jill Stein",0
+"Dawes","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",477
+"Dawes","Countywide",NA,"President","REP","Donald J. Trump",73
+"Dawes","New/Former Resident",NA,"President","REP","Donald J. Trump",0
+"Dawes","Precinct 1",NA,"President","REP","Donald J. Trump",111
+"Dawes","Precinct 10",NA,"President","REP","Donald J. Trump",295
+"Dawes","Precinct 11",NA,"President","REP","Donald J. Trump",185
+"Dawes","Precinct 2",NA,"President","REP","Donald J. Trump",273
+"Dawes","Precinct 3",NA,"President","REP","Donald J. Trump",225
+"Dawes","Precinct 4",NA,"President","REP","Donald J. Trump",191
+"Dawes","Precinct 5",NA,"President","REP","Donald J. Trump",125
+"Dawes","Precinct 6",NA,"President","REP","Donald J. Trump",230
+"Dawes","Precinct 7",NA,"President","REP","Donald J. Trump",193
+"Dawes","Precinct 8",NA,"President","REP","Donald J. Trump",168
+"Dawes","Precinct 9",NA,"President","REP","Donald J. Trump",86
+"Dawes","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",595
+"Dawes","Countywide",3,"U.S. House","REP","Adrian Smith",93
+"Dawes","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
+"Dawes","Precinct 1",3,"U.S. House","REP","Adrian Smith",151
+"Dawes","Precinct 10",3,"U.S. House","REP","Adrian Smith",318
+"Dawes","Precinct 11",3,"U.S. House","REP","Adrian Smith",213
+"Dawes","Precinct 2",3,"U.S. House","REP","Adrian Smith",356
+"Dawes","Precinct 3",3,"U.S. House","REP","Adrian Smith",298
+"Dawes","Precinct 4",3,"U.S. House","REP","Adrian Smith",257
+"Dawes","Precinct 5",3,"U.S. House","REP","Adrian Smith",178
+"Dawes","Precinct 6",3,"U.S. House","REP","Adrian Smith",242
+"Dawes","Precinct 7",3,"U.S. House","REP","Adrian Smith",193
+"Dawes","Precinct 8",3,"U.S. House","REP","Adrian Smith",182
+"Dawes","Precinct 9",3,"U.S. House","REP","Adrian Smith",93
+"Dawes","Absentee/Early Vote",43,"State Legislature","","Al Davis",461
+"Dawes","Countywide",43,"State Legislature","","Al Davis",59
+"Dawes","New/Former Resident",43,"State Legislature","","Al Davis",0
+"Dawes","Precinct 1",43,"State Legislature","","Al Davis",101
+"Dawes","Precinct 10",43,"State Legislature","","Al Davis",204
+"Dawes","Precinct 11",43,"State Legislature","","Al Davis",124
+"Dawes","Precinct 2",43,"State Legislature","","Al Davis",221
+"Dawes","Precinct 3",43,"State Legislature","","Al Davis",217
+"Dawes","Precinct 4",43,"State Legislature","","Al Davis",185
+"Dawes","Precinct 5",43,"State Legislature","","Al Davis",142
+"Dawes","Precinct 6",43,"State Legislature","","Al Davis",113
+"Dawes","Precinct 7",43,"State Legislature","","Al Davis",123
+"Dawes","Precinct 8",43,"State Legislature","","Al Davis",115
+"Dawes","Precinct 9",43,"State Legislature","","Al Davis",48
+"Dawes","Absentee/Early Vote",43,"State Legislature","","Tom Brewer",287
+"Dawes","Countywide",43,"State Legislature","","Tom Brewer",34
+"Dawes","New/Former Resident",43,"State Legislature","","Tom Brewer",0
+"Dawes","Precinct 1",43,"State Legislature","","Tom Brewer",68
+"Dawes","Precinct 10",43,"State Legislature","","Tom Brewer",138
+"Dawes","Precinct 11",43,"State Legislature","","Tom Brewer",103
+"Dawes","Precinct 2",43,"State Legislature","","Tom Brewer",184
+"Dawes","Precinct 3",43,"State Legislature","","Tom Brewer",126
+"Dawes","Precinct 4",43,"State Legislature","","Tom Brewer",105
+"Dawes","Precinct 5",43,"State Legislature","","Tom Brewer",70
+"Dawes","Precinct 6",43,"State Legislature","","Tom Brewer",168
+"Dawes","Precinct 7",43,"State Legislature","","Tom Brewer",103
+"Dawes","Precinct 8",43,"State Legislature","","Tom Brewer",82
+"Dawes","Precinct 9",43,"State Legislature","","Tom Brewer",58

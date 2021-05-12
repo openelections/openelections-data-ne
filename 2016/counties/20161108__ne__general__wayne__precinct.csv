@@ -1,78 +1,78 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Wayne","0001-Hoskins/Garfield",NA,"President","REP","Donald J. Trump",307
-"2","Wayne","0002-Chapin/Hancock/Winside",NA,"President","REP","Donald J. Trump",312
-"3","Wayne","0003-Deer Creek/Sherman",NA,"President","REP","Donald J. Trump",156
-"4","Wayne","0004-Brenna/Plum Creek/Hunter",NA,"President","REP","Donald J. Trump",218
-"5","Wayne","0005-Strahan/Wilbur",NA,"President","REP","Donald J. Trump",185
-"6","Wayne","0006-Logan/Leslie",NA,"President","REP","Donald J. Trump",177
-"7","Wayne","0007-First Ward",NA,"President","REP","Donald J. Trump",223
-"8","Wayne","0008-Second Ward",NA,"President","REP","Donald J. Trump",199
-"9","Wayne","0009-Third Ward",NA,"President","REP","Donald J. Trump",203
-"10","Wayne","0010-Fourth Ward",NA,"President","REP","Donald J. Trump",300
-"11","Wayne","0013-ABSENTEE",NA,"President","REP","Donald J. Trump",395
-"12","Wayne","0001-Hoskins/Garfield",NA,"President","DEM","Hillary Clinton",26
-"13","Wayne","0002-Chapin/Hancock/Winside",NA,"President","DEM","Hillary Clinton",42
-"14","Wayne","0003-Deer Creek/Sherman",NA,"President","DEM","Hillary Clinton",24
-"15","Wayne","0004-Brenna/Plum Creek/Hunter",NA,"President","DEM","Hillary Clinton",40
-"16","Wayne","0005-Strahan/Wilbur",NA,"President","DEM","Hillary Clinton",24
-"17","Wayne","0006-Logan/Leslie",NA,"President","DEM","Hillary Clinton",43
-"18","Wayne","0007-First Ward",NA,"President","DEM","Hillary Clinton",76
-"19","Wayne","0008-Second Ward",NA,"President","DEM","Hillary Clinton",73
-"20","Wayne","0009-Third Ward",NA,"President","DEM","Hillary Clinton",97
-"21","Wayne","0010-Fourth Ward",NA,"President","DEM","Hillary Clinton",145
-"22","Wayne","0013-ABSENTEE",NA,"President","DEM","Hillary Clinton",238
-"23","Wayne","0001-Hoskins/Garfield",NA,"President","LIB","Johnson/Weld",5
-"24","Wayne","0002-Chapin/Hancock/Winside",NA,"President","LIB","Johnson/Weld",13
-"25","Wayne","0003-Deer Creek/Sherman",NA,"President","LIB","Johnson/Weld",16
-"26","Wayne","0004-Brenna/Plum Creek/Hunter",NA,"President","LIB","Johnson/Weld",9
-"27","Wayne","0005-Strahan/Wilbur",NA,"President","LIB","Johnson/Weld",13
-"28","Wayne","0006-Logan/Leslie",NA,"President","LIB","Johnson/Weld",7
-"29","Wayne","0007-First Ward",NA,"President","LIB","Johnson/Weld",16
-"30","Wayne","0008-Second Ward",NA,"President","LIB","Johnson/Weld",16
-"31","Wayne","0009-Third Ward",NA,"President","LIB","Johnson/Weld",32
-"32","Wayne","0010-Fourth Ward",NA,"President","LIB","Johnson/Weld",36
-"33","Wayne","0013-ABSENTEE",NA,"President","LIB","Johnson/Weld",39
-"34","Wayne","0001-Hoskins/Garfield",NA,"President","PET","Jill Stein",1
-"35","Wayne","0002-Chapin/Hancock/Winside",NA,"President","PET","Jill Stein",1
-"36","Wayne","0003-Deer Creek/Sherman",NA,"President","PET","Jill Stein",2
-"37","Wayne","0004-Brenna/Plum Creek/Hunter",NA,"President","PET","Jill Stein",1
-"38","Wayne","0005-Strahan/Wilbur",NA,"President","PET","Jill Stein",0
-"39","Wayne","0006-Logan/Leslie",NA,"President","PET","Jill Stein",1
-"40","Wayne","0007-First Ward",NA,"President","PET","Jill Stein",5
-"41","Wayne","0008-Second Ward",NA,"President","PET","Jill Stein",7
-"42","Wayne","0009-Third Ward",NA,"President","PET","Jill Stein",5
-"43","Wayne","0010-Fourth Ward",NA,"President","PET","Jill Stein",5
-"44","Wayne","0013-ABSENTEE",NA,"President","PET","Jill Stein",7
-"45","Wayne","0001-Hoskins/Garfield",NA,"President",NA,"Write-ins",4
-"46","Wayne","0002-Chapin/Hancock/Winside",NA,"President",NA,"Write-ins",2
-"47","Wayne","0003-Deer Creek/Sherman",NA,"President",NA,"Write-ins",3
-"48","Wayne","0004-Brenna/Plum Creek/Hunter",NA,"President",NA,"Write-ins",7
-"49","Wayne","0005-Strahan/Wilbur",NA,"President",NA,"Write-ins",2
-"50","Wayne","0006-Logan/Leslie",NA,"President",NA,"Write-ins",4
-"51","Wayne","0007-First Ward",NA,"President",NA,"Write-ins",6
-"52","Wayne","0008-Second Ward",NA,"President",NA,"Write-ins",10
-"53","Wayne","0009-Third Ward",NA,"President",NA,"Write-ins",7
-"54","Wayne","0010-Fourth Ward",NA,"President",NA,"Write-ins",9
-"55","Wayne","0013-ABSENTEE",NA,"President",NA,"Write-ins",11
-"56","Wayne","0001-Hoskins/Garfield",3,"U.S. House","REP","Smith",302
-"57","Wayne","0002-Chapin/Hancock/Winside",3,"U.S. House","REP","Smith",321
-"58","Wayne","0003-Deer Creek/Sherman",3,"U.S. House","REP","Smith",183
-"59","Wayne","0004-Brenna/Plum Creek/Hunter",3,"U.S. House","REP","Smith",233
-"60","Wayne","0005-Strahan/Wilbur",3,"U.S. House","REP","Smith",211
-"61","Wayne","0006-Logan/Leslie",3,"U.S. House","REP","Smith",203
-"62","Wayne","0007-First Ward",3,"U.S. House","REP","Smith",272
-"63","Wayne","0008-Second Ward",3,"U.S. House","REP","Smith",244
-"64","Wayne","0009-Third Ward",3,"U.S. House","REP","Smith",296
-"65","Wayne","0010-Fourth Ward",3,"U.S. House","REP","Smith",414
-"66","Wayne","0013-ABSENTEE",3,"U.S. House","REP","Smith",524
-"67","Wayne","0001-Hoskins/Garfield",3,"U.S. House",NA,"Write-ins",0
-"68","Wayne","0002-Chapin/Hancock/Winside",3,"U.S. House",NA,"Write-ins",6
-"69","Wayne","0003-Deer Creek/Sherman",3,"U.S. House",NA,"Write-ins",0
-"70","Wayne","0004-Brenna/Plum Creek/Hunter",3,"U.S. House",NA,"Write-ins",2
-"71","Wayne","0005-Strahan/Wilbur",3,"U.S. House",NA,"Write-ins",0
-"72","Wayne","0006-Logan/Leslie",3,"U.S. House",NA,"Write-ins",3
-"73","Wayne","0007-First Ward",3,"U.S. House",NA,"Write-ins",4
-"74","Wayne","0008-Second Ward",3,"U.S. House",NA,"Write-ins",5
-"75","Wayne","0009-Third Ward",3,"U.S. House",NA,"Write-ins",5
-"76","Wayne","0010-Fourth Ward",3,"U.S. House",NA,"Write-ins",16
-"77","Wayne","0013-ABSENTEE",3,"U.S. House",NA,"Write-ins",20
+"county","precinct","district","office","party","candidate","votes"
+"Wayne","0001-Hoskins/Garfield",NA,"President","REP","Donald J. Trump",307
+"Wayne","0002-Chapin/Hancock/Winside",NA,"President","REP","Donald J. Trump",312
+"Wayne","0003-Deer Creek/Sherman",NA,"President","REP","Donald J. Trump",156
+"Wayne","0004-Brenna/Plum Creek/Hunter",NA,"President","REP","Donald J. Trump",218
+"Wayne","0005-Strahan/Wilbur",NA,"President","REP","Donald J. Trump",185
+"Wayne","0006-Logan/Leslie",NA,"President","REP","Donald J. Trump",177
+"Wayne","0007-First Ward",NA,"President","REP","Donald J. Trump",223
+"Wayne","0008-Second Ward",NA,"President","REP","Donald J. Trump",199
+"Wayne","0009-Third Ward",NA,"President","REP","Donald J. Trump",203
+"Wayne","0010-Fourth Ward",NA,"President","REP","Donald J. Trump",300
+"Wayne","0013-ABSENTEE",NA,"President","REP","Donald J. Trump",395
+"Wayne","0001-Hoskins/Garfield",NA,"President","DEM","Hillary Clinton",26
+"Wayne","0002-Chapin/Hancock/Winside",NA,"President","DEM","Hillary Clinton",42
+"Wayne","0003-Deer Creek/Sherman",NA,"President","DEM","Hillary Clinton",24
+"Wayne","0004-Brenna/Plum Creek/Hunter",NA,"President","DEM","Hillary Clinton",40
+"Wayne","0005-Strahan/Wilbur",NA,"President","DEM","Hillary Clinton",24
+"Wayne","0006-Logan/Leslie",NA,"President","DEM","Hillary Clinton",43
+"Wayne","0007-First Ward",NA,"President","DEM","Hillary Clinton",76
+"Wayne","0008-Second Ward",NA,"President","DEM","Hillary Clinton",73
+"Wayne","0009-Third Ward",NA,"President","DEM","Hillary Clinton",97
+"Wayne","0010-Fourth Ward",NA,"President","DEM","Hillary Clinton",145
+"Wayne","0013-ABSENTEE",NA,"President","DEM","Hillary Clinton",238
+"Wayne","0001-Hoskins/Garfield",NA,"President","LIB","Johnson/Weld",5
+"Wayne","0002-Chapin/Hancock/Winside",NA,"President","LIB","Johnson/Weld",13
+"Wayne","0003-Deer Creek/Sherman",NA,"President","LIB","Johnson/Weld",16
+"Wayne","0004-Brenna/Plum Creek/Hunter",NA,"President","LIB","Johnson/Weld",9
+"Wayne","0005-Strahan/Wilbur",NA,"President","LIB","Johnson/Weld",13
+"Wayne","0006-Logan/Leslie",NA,"President","LIB","Johnson/Weld",7
+"Wayne","0007-First Ward",NA,"President","LIB","Johnson/Weld",16
+"Wayne","0008-Second Ward",NA,"President","LIB","Johnson/Weld",16
+"Wayne","0009-Third Ward",NA,"President","LIB","Johnson/Weld",32
+"Wayne","0010-Fourth Ward",NA,"President","LIB","Johnson/Weld",36
+"Wayne","0013-ABSENTEE",NA,"President","LIB","Johnson/Weld",39
+"Wayne","0001-Hoskins/Garfield",NA,"President","PET","Jill Stein",1
+"Wayne","0002-Chapin/Hancock/Winside",NA,"President","PET","Jill Stein",1
+"Wayne","0003-Deer Creek/Sherman",NA,"President","PET","Jill Stein",2
+"Wayne","0004-Brenna/Plum Creek/Hunter",NA,"President","PET","Jill Stein",1
+"Wayne","0005-Strahan/Wilbur",NA,"President","PET","Jill Stein",0
+"Wayne","0006-Logan/Leslie",NA,"President","PET","Jill Stein",1
+"Wayne","0007-First Ward",NA,"President","PET","Jill Stein",5
+"Wayne","0008-Second Ward",NA,"President","PET","Jill Stein",7
+"Wayne","0009-Third Ward",NA,"President","PET","Jill Stein",5
+"Wayne","0010-Fourth Ward",NA,"President","PET","Jill Stein",5
+"Wayne","0013-ABSENTEE",NA,"President","PET","Jill Stein",7
+"Wayne","0001-Hoskins/Garfield",NA,"President",NA,"Write-ins",4
+"Wayne","0002-Chapin/Hancock/Winside",NA,"President",NA,"Write-ins",2
+"Wayne","0003-Deer Creek/Sherman",NA,"President",NA,"Write-ins",3
+"Wayne","0004-Brenna/Plum Creek/Hunter",NA,"President",NA,"Write-ins",7
+"Wayne","0005-Strahan/Wilbur",NA,"President",NA,"Write-ins",2
+"Wayne","0006-Logan/Leslie",NA,"President",NA,"Write-ins",4
+"Wayne","0007-First Ward",NA,"President",NA,"Write-ins",6
+"Wayne","0008-Second Ward",NA,"President",NA,"Write-ins",10
+"Wayne","0009-Third Ward",NA,"President",NA,"Write-ins",7
+"Wayne","0010-Fourth Ward",NA,"President",NA,"Write-ins",9
+"Wayne","0013-ABSENTEE",NA,"President",NA,"Write-ins",11
+"Wayne","0001-Hoskins/Garfield",3,"U.S. House","REP","Smith",302
+"Wayne","0002-Chapin/Hancock/Winside",3,"U.S. House","REP","Smith",321
+"Wayne","0003-Deer Creek/Sherman",3,"U.S. House","REP","Smith",183
+"Wayne","0004-Brenna/Plum Creek/Hunter",3,"U.S. House","REP","Smith",233
+"Wayne","0005-Strahan/Wilbur",3,"U.S. House","REP","Smith",211
+"Wayne","0006-Logan/Leslie",3,"U.S. House","REP","Smith",203
+"Wayne","0007-First Ward",3,"U.S. House","REP","Smith",272
+"Wayne","0008-Second Ward",3,"U.S. House","REP","Smith",244
+"Wayne","0009-Third Ward",3,"U.S. House","REP","Smith",296
+"Wayne","0010-Fourth Ward",3,"U.S. House","REP","Smith",414
+"Wayne","0013-ABSENTEE",3,"U.S. House","REP","Smith",524
+"Wayne","0001-Hoskins/Garfield",3,"U.S. House",NA,"Write-ins",0
+"Wayne","0002-Chapin/Hancock/Winside",3,"U.S. House",NA,"Write-ins",6
+"Wayne","0003-Deer Creek/Sherman",3,"U.S. House",NA,"Write-ins",0
+"Wayne","0004-Brenna/Plum Creek/Hunter",3,"U.S. House",NA,"Write-ins",2
+"Wayne","0005-Strahan/Wilbur",3,"U.S. House",NA,"Write-ins",0
+"Wayne","0006-Logan/Leslie",3,"U.S. House",NA,"Write-ins",3
+"Wayne","0007-First Ward",3,"U.S. House",NA,"Write-ins",4
+"Wayne","0008-Second Ward",3,"U.S. House",NA,"Write-ins",5
+"Wayne","0009-Third Ward",3,"U.S. House",NA,"Write-ins",5
+"Wayne","0010-Fourth Ward",3,"U.S. House",NA,"Write-ins",16
+"Wayne","0013-ABSENTEE",3,"U.S. House",NA,"Write-ins",20

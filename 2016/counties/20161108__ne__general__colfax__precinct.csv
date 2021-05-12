@@ -1,78 +1,78 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Colfax","Absentee",NA,"President","REP","Donald J. Trump",344
-"2","Colfax","1",NA,"President","REP","Donald J. Trump",243
-"3","Colfax","2",NA,"President","REP","Donald J. Trump",405
-"4","Colfax","3",NA,"President","REP","Donald J. Trump",370
-"5","Colfax","4",NA,"President","REP","Donald J. Trump",487
-"6","Colfax","5",NA,"President","REP","Donald J. Trump",322
-"7","Colfax","Total",NA,"President","REP","Donald J. Trump",2171
-"8","Colfax","Absentee",NA,"President","DEM","Hillary Clinton",214
-"9","Colfax","1",NA,"President","DEM","Hillary Clinton",139
-"10","Colfax","2",NA,"President","DEM","Hillary Clinton",193
-"11","Colfax","3",NA,"President","DEM","Hillary Clinton",181
-"12","Colfax","4",NA,"President","DEM","Hillary Clinton",89
-"13","Colfax","5",NA,"President","DEM","Hillary Clinton",43
-"14","Colfax","Total",NA,"President","DEM","Hillary Clinton",859
-"15","Colfax","Absentee",NA,"President","LIB","Gary Johnson",20
-"16","Colfax","1",NA,"President","LIB","Gary Johnson",16
-"17","Colfax","2",NA,"President","LIB","Gary Johnson",18
-"18","Colfax","3",NA,"President","LIB","Gary Johnson",33
-"19","Colfax","4",NA,"President","LIB","Gary Johnson",13
-"20","Colfax","5",NA,"President","LIB","Gary Johnson",18
-"21","Colfax","Total",NA,"President","LIB","Gary Johnson",118
-"22","Colfax","Absentee",NA,"President","","Jill Stein",4
-"23","Colfax","1",NA,"President","","Jill Stein",6
-"24","Colfax","2",NA,"President","","Jill Stein",4
-"25","Colfax","3",NA,"President","","Jill Stein",5
-"26","Colfax","4",NA,"President","","Jill Stein",4
-"27","Colfax","5",NA,"President","","Jill Stein",3
-"28","Colfax","Total",NA,"President","","Jill Stein",26
-"29","Colfax","Absentee",NA,"President","","Write-ins",7
-"30","Colfax","1",NA,"President","","Write-ins",4
-"31","Colfax","2",NA,"President","","Write-ins",10
-"32","Colfax","3",NA,"President","","Write-ins",6
-"33","Colfax","4",NA,"President","","Write-ins",4
-"34","Colfax","5",NA,"President","","Write-ins",9
-"35","Colfax","Total",NA,"President","","Write-ins",40
-"36","Colfax","Absentee",1,"U.S. House","REP","Jeff Fortenberry",390
-"37","Colfax","1",1,"U.S. House","REP","Jeff Fortenberry",265
-"38","Colfax","2",1,"U.S. House","REP","Jeff Fortenberry",458
-"39","Colfax","3",1,"U.S. House","REP","Jeff Fortenberry",426
-"40","Colfax","4",1,"U.S. House","REP","Jeff Fortenberry",525
-"41","Colfax","5",1,"U.S. House","REP","Jeff Fortenberry",352
-"42","Colfax","Total",1,"U.S. House","REP","Jeff Fortenberry",2416
-"43","Colfax","Absentee",1,"U.S. House","DEM","Daniel M. Wik",173
-"44","Colfax","1",1,"U.S. House","DEM","Daniel M. Wik",133
-"45","Colfax","2",1,"U.S. House","DEM","Daniel M. Wik",175
-"46","Colfax","3",1,"U.S. House","DEM","Daniel M. Wik",156
-"47","Colfax","4",1,"U.S. House","DEM","Daniel M. Wik",60
-"48","Colfax","5",1,"U.S. House","DEM","Daniel M. Wik",40
-"49","Colfax","Total",1,"U.S. House","DEM","Daniel M. Wik",737
-"50","Colfax","Absentee",1,"U.S. House","","Write-ins",0
-"51","Colfax","1",1,"U.S. House","","Write-ins",0
-"52","Colfax","2",1,"U.S. House","","Write-ins",1
-"53","Colfax","3",1,"U.S. House","","Write-ins",2
-"54","Colfax","4",1,"U.S. House","","Write-ins",0
-"55","Colfax","5",1,"U.S. House","","Write-ins",0
-"56","Colfax","Total",1,"U.S. House","","Write-ins",3
-"57","Colfax","Absentee",23,"State Legislature","","Jerry Johnson",202
-"58","Colfax","1",23,"State Legislature","","Jerry Johnson",181
-"59","Colfax","2",23,"State Legislature","","Jerry Johnson",278
-"60","Colfax","3",23,"State Legislature","","Jerry Johnson",269
-"61","Colfax","4",23,"State Legislature","","Jerry Johnson",0
-"62","Colfax","5",23,"State Legislature","","Jerry Johnson",164
-"63","Colfax","Total",23,"State Legislature","","Jerry Johnson",1094
-"64","Colfax","Absentee",23,"State Legislature","","Bruce Bostelman",184
-"65","Colfax","1",23,"State Legislature","","Bruce Bostelman",189
-"66","Colfax","2",23,"State Legislature","","Bruce Bostelman",287
-"67","Colfax","3",23,"State Legislature","","Bruce Bostelman",275
-"68","Colfax","4",23,"State Legislature","","Bruce Bostelman",0
-"69","Colfax","5",23,"State Legislature","","Bruce Bostelman",179
-"70","Colfax","Total",23,"State Legislature","","Bruce Bostelman",1114
-"71","Colfax","Absentee",23,"State Legislature","","Write-ins",2
-"72","Colfax","1",23,"State Legislature","","Write-ins",1
-"73","Colfax","2",23,"State Legislature","","Write-ins",5
-"74","Colfax","3",23,"State Legislature","","Write-ins",4
-"75","Colfax","4",23,"State Legislature","","Write-ins",0
-"76","Colfax","5",23,"State Legislature","","Write-ins",0
-"77","Colfax","Total",23,"State Legislature","","Write-ins",12
+"county","precinct","district","office","party","candidate","votes"
+"Colfax","Absentee",NA,"President","REP","Donald J. Trump",344
+"Colfax","1",NA,"President","REP","Donald J. Trump",243
+"Colfax","2",NA,"President","REP","Donald J. Trump",405
+"Colfax","3",NA,"President","REP","Donald J. Trump",370
+"Colfax","4",NA,"President","REP","Donald J. Trump",487
+"Colfax","5",NA,"President","REP","Donald J. Trump",322
+"Colfax","Total",NA,"President","REP","Donald J. Trump",2171
+"Colfax","Absentee",NA,"President","DEM","Hillary Clinton",214
+"Colfax","1",NA,"President","DEM","Hillary Clinton",139
+"Colfax","2",NA,"President","DEM","Hillary Clinton",193
+"Colfax","3",NA,"President","DEM","Hillary Clinton",181
+"Colfax","4",NA,"President","DEM","Hillary Clinton",89
+"Colfax","5",NA,"President","DEM","Hillary Clinton",43
+"Colfax","Total",NA,"President","DEM","Hillary Clinton",859
+"Colfax","Absentee",NA,"President","LIB","Gary Johnson",20
+"Colfax","1",NA,"President","LIB","Gary Johnson",16
+"Colfax","2",NA,"President","LIB","Gary Johnson",18
+"Colfax","3",NA,"President","LIB","Gary Johnson",33
+"Colfax","4",NA,"President","LIB","Gary Johnson",13
+"Colfax","5",NA,"President","LIB","Gary Johnson",18
+"Colfax","Total",NA,"President","LIB","Gary Johnson",118
+"Colfax","Absentee",NA,"President","","Jill Stein",4
+"Colfax","1",NA,"President","","Jill Stein",6
+"Colfax","2",NA,"President","","Jill Stein",4
+"Colfax","3",NA,"President","","Jill Stein",5
+"Colfax","4",NA,"President","","Jill Stein",4
+"Colfax","5",NA,"President","","Jill Stein",3
+"Colfax","Total",NA,"President","","Jill Stein",26
+"Colfax","Absentee",NA,"President","","Write-ins",7
+"Colfax","1",NA,"President","","Write-ins",4
+"Colfax","2",NA,"President","","Write-ins",10
+"Colfax","3",NA,"President","","Write-ins",6
+"Colfax","4",NA,"President","","Write-ins",4
+"Colfax","5",NA,"President","","Write-ins",9
+"Colfax","Total",NA,"President","","Write-ins",40
+"Colfax","Absentee",1,"U.S. House","REP","Jeff Fortenberry",390
+"Colfax","1",1,"U.S. House","REP","Jeff Fortenberry",265
+"Colfax","2",1,"U.S. House","REP","Jeff Fortenberry",458
+"Colfax","3",1,"U.S. House","REP","Jeff Fortenberry",426
+"Colfax","4",1,"U.S. House","REP","Jeff Fortenberry",525
+"Colfax","5",1,"U.S. House","REP","Jeff Fortenberry",352
+"Colfax","Total",1,"U.S. House","REP","Jeff Fortenberry",2416
+"Colfax","Absentee",1,"U.S. House","DEM","Daniel M. Wik",173
+"Colfax","1",1,"U.S. House","DEM","Daniel M. Wik",133
+"Colfax","2",1,"U.S. House","DEM","Daniel M. Wik",175
+"Colfax","3",1,"U.S. House","DEM","Daniel M. Wik",156
+"Colfax","4",1,"U.S. House","DEM","Daniel M. Wik",60
+"Colfax","5",1,"U.S. House","DEM","Daniel M. Wik",40
+"Colfax","Total",1,"U.S. House","DEM","Daniel M. Wik",737
+"Colfax","Absentee",1,"U.S. House","","Write-ins",0
+"Colfax","1",1,"U.S. House","","Write-ins",0
+"Colfax","2",1,"U.S. House","","Write-ins",1
+"Colfax","3",1,"U.S. House","","Write-ins",2
+"Colfax","4",1,"U.S. House","","Write-ins",0
+"Colfax","5",1,"U.S. House","","Write-ins",0
+"Colfax","Total",1,"U.S. House","","Write-ins",3
+"Colfax","Absentee",23,"State Legislature","","Jerry Johnson",202
+"Colfax","1",23,"State Legislature","","Jerry Johnson",181
+"Colfax","2",23,"State Legislature","","Jerry Johnson",278
+"Colfax","3",23,"State Legislature","","Jerry Johnson",269
+"Colfax","4",23,"State Legislature","","Jerry Johnson",0
+"Colfax","5",23,"State Legislature","","Jerry Johnson",164
+"Colfax","Total",23,"State Legislature","","Jerry Johnson",1094
+"Colfax","Absentee",23,"State Legislature","","Bruce Bostelman",184
+"Colfax","1",23,"State Legislature","","Bruce Bostelman",189
+"Colfax","2",23,"State Legislature","","Bruce Bostelman",287
+"Colfax","3",23,"State Legislature","","Bruce Bostelman",275
+"Colfax","4",23,"State Legislature","","Bruce Bostelman",0
+"Colfax","5",23,"State Legislature","","Bruce Bostelman",179
+"Colfax","Total",23,"State Legislature","","Bruce Bostelman",1114
+"Colfax","Absentee",23,"State Legislature","","Write-ins",2
+"Colfax","1",23,"State Legislature","","Write-ins",1
+"Colfax","2",23,"State Legislature","","Write-ins",5
+"Colfax","3",23,"State Legislature","","Write-ins",4
+"Colfax","4",23,"State Legislature","","Write-ins",0
+"Colfax","5",23,"State Legislature","","Write-ins",0
+"Colfax","Total",23,"State Legislature","","Write-ins",12

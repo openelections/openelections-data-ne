@@ -1,29 +1,29 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Perkins","District 1",NA,"Registered Voters","","",623
-"2","Perkins","District 1",NA,"Ballots Cast","","",469
-"3","Perkins","District 1",NA,"President","REP","Donald J. Trump",392
-"4","Perkins","District 1",NA,"President","DEM","Hillary Clinton",47
-"5","Perkins","District 1",NA,"President","LIB","Gary Johnson",15
-"6","Perkins","District 1",NA,"President","","Jill Stein",3
-"7","Perkins","District 1",NA,"President","","Write-ins",2
-"8","Perkins","District 1",3,"U.S. House","REP","Adrian Smith",408
-"9","Perkins","District 1",3,"U.S. House","","Write-ins",8
-"10","Perkins","District 2",NA,"Registered Voters","","",672
-"11","Perkins","District 2",NA,"Ballots Cast","","",512
-"12","Perkins","District 2",NA,"President","REP","Donald J. Trump",418
-"13","Perkins","District 2",NA,"President","DEM","Hillary Clinton",61
-"14","Perkins","District 2",NA,"President","LIB","Gary Johnson",18
-"15","Perkins","District 2",NA,"President","","Jill Stein",0
-"16","Perkins","District 2",NA,"President","","Write-ins",7
-"17","Perkins","District 2",3,"U.S. House","REP","Adrian Smith",473
-"18","Perkins","District 2",3,"U.S. House","","Write-ins",3
-"19","Perkins","District 3",NA,"Registered Voters","","",705
-"20","Perkins","District 3",NA,"Ballots Cast","","",501
-"21","Perkins","District 3",NA,"President","REP","Donald J. Trump",406
-"22","Perkins","District 3",NA,"President","DEM","Hillary Clinton",53
-"23","Perkins","District 3",NA,"President","LIB","Gary Johnson",21
-"24","Perkins","District 3",NA,"President","","Jill Stein",2
-"25","Perkins","District 3",NA,"President","","Write-ins",9
-"26","Perkins","District 3",3,"U.S. House","REP","Adrian Smith",451
-"27","Perkins","District 3",3,"U.S. House","","Write-ins",1
-"28","Perkins","New/Former Resident",NA,"President","REP","Donald J. Trump",1
+"county","precinct","district","office","party","candidate","votes"
+"Perkins","District 1",NA,"Registered Voters","","",623
+"Perkins","District 1",NA,"Ballots Cast","","",469
+"Perkins","District 1",NA,"President","REP","Donald J. Trump",392
+"Perkins","District 1",NA,"President","DEM","Hillary Clinton",47
+"Perkins","District 1",NA,"President","LIB","Gary Johnson",15
+"Perkins","District 1",NA,"President","","Jill Stein",3
+"Perkins","District 1",NA,"President","","Write-ins",2
+"Perkins","District 1",3,"U.S. House","REP","Adrian Smith",408
+"Perkins","District 1",3,"U.S. House","","Write-ins",8
+"Perkins","District 2",NA,"Registered Voters","","",672
+"Perkins","District 2",NA,"Ballots Cast","","",512
+"Perkins","District 2",NA,"President","REP","Donald J. Trump",418
+"Perkins","District 2",NA,"President","DEM","Hillary Clinton",61
+"Perkins","District 2",NA,"President","LIB","Gary Johnson",18
+"Perkins","District 2",NA,"President","","Jill Stein",0
+"Perkins","District 2",NA,"President","","Write-ins",7
+"Perkins","District 2",3,"U.S. House","REP","Adrian Smith",473
+"Perkins","District 2",3,"U.S. House","","Write-ins",3
+"Perkins","District 3",NA,"Registered Voters","","",705
+"Perkins","District 3",NA,"Ballots Cast","","",501
+"Perkins","District 3",NA,"President","REP","Donald J. Trump",406
+"Perkins","District 3",NA,"President","DEM","Hillary Clinton",53
+"Perkins","District 3",NA,"President","LIB","Gary Johnson",21
+"Perkins","District 3",NA,"President","","Jill Stein",2
+"Perkins","District 3",NA,"President","","Write-ins",9
+"Perkins","District 3",3,"U.S. House","REP","Adrian Smith",451
+"Perkins","District 3",3,"U.S. House","","Write-ins",1
+"Perkins","New/Former Resident",NA,"President","REP","Donald J. Trump",1

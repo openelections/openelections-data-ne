@@ -1,31 +1,31 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Sioux","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",0
-"2","Sioux","Bowen",NA,"President","DEM","Hillary Clinton",56
-"3","Sioux","Countywide",NA,"President","DEM","Hillary Clinton",0
-"4","Sioux","New/Former Resident",NA,"President","DEM","Hillary Clinton",1
-"5","Sioux","Sheep Creek",NA,"President","DEM","Hillary Clinton",24
-"6","Sioux","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",0
-"7","Sioux","Bowen",NA,"President","LIB","Gary Johnson",20
-"8","Sioux","Countywide",NA,"President","LIB","Gary Johnson",0
-"9","Sioux","New/Former Resident",NA,"President","LIB","Gary Johnson",1
-"10","Sioux","Sheep Creek",NA,"President","LIB","Gary Johnson",7
-"11","Sioux","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",0
-"12","Sioux","Bowen",NA,"President","REP","Donald J. Trump",365
-"13","Sioux","Countywide",NA,"President","REP","Donald J. Trump",0
-"14","Sioux","New/Former Resident",NA,"President","REP","Donald J. Trump",6
-"15","Sioux","Sheep Creek",NA,"President","REP","Donald J. Trump",245
-"16","Sioux","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",0
-"17","Sioux","Bowen",3,"U.S. House","REP","Adrian Smith",380
-"18","Sioux","Countywide",3,"U.S. House","REP","Adrian Smith",0
-"19","Sioux","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
-"20","Sioux","Sheep Creek",3,"U.S. House","REP","Adrian Smith",244
-"21","Sioux","Absentee/Early Vote",47,"State Legislature","","Karl Elmshaeuser",0
-"22","Sioux","Bowen",47,"State Legislature","","Karl Elmshaeuser",60
-"23","Sioux","Countywide",47,"State Legislature","","Karl Elmshaeuser",0
-"24","Sioux","New/Former Resident",47,"State Legislature","","Karl Elmshaeuser",0
-"25","Sioux","Sheep Creek",47,"State Legislature","","Karl Elmshaeuser",53
-"26","Sioux","Absentee/Early Vote",47,"State Legislature","","Steve Erdman",0
-"27","Sioux","Bowen",47,"State Legislature","","Steve Erdman",324
-"28","Sioux","Countywide",47,"State Legislature","","Steve Erdman",0
-"29","Sioux","New/Former Resident",47,"State Legislature","","Steve Erdman",0
-"30","Sioux","Sheep Creek",47,"State Legislature","","Steve Erdman",194
+"county","precinct","district","office","party","candidate","votes"
+"Sioux","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",0
+"Sioux","Bowen",NA,"President","DEM","Hillary Clinton",56
+"Sioux","Countywide",NA,"President","DEM","Hillary Clinton",0
+"Sioux","New/Former Resident",NA,"President","DEM","Hillary Clinton",1
+"Sioux","Sheep Creek",NA,"President","DEM","Hillary Clinton",24
+"Sioux","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",0
+"Sioux","Bowen",NA,"President","LIB","Gary Johnson",20
+"Sioux","Countywide",NA,"President","LIB","Gary Johnson",0
+"Sioux","New/Former Resident",NA,"President","LIB","Gary Johnson",1
+"Sioux","Sheep Creek",NA,"President","LIB","Gary Johnson",7
+"Sioux","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",0
+"Sioux","Bowen",NA,"President","REP","Donald J. Trump",365
+"Sioux","Countywide",NA,"President","REP","Donald J. Trump",0
+"Sioux","New/Former Resident",NA,"President","REP","Donald J. Trump",6
+"Sioux","Sheep Creek",NA,"President","REP","Donald J. Trump",245
+"Sioux","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",0
+"Sioux","Bowen",3,"U.S. House","REP","Adrian Smith",380
+"Sioux","Countywide",3,"U.S. House","REP","Adrian Smith",0
+"Sioux","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
+"Sioux","Sheep Creek",3,"U.S. House","REP","Adrian Smith",244
+"Sioux","Absentee/Early Vote",47,"State Legislature","","Karl Elmshaeuser",0
+"Sioux","Bowen",47,"State Legislature","","Karl Elmshaeuser",60
+"Sioux","Countywide",47,"State Legislature","","Karl Elmshaeuser",0
+"Sioux","New/Former Resident",47,"State Legislature","","Karl Elmshaeuser",0
+"Sioux","Sheep Creek",47,"State Legislature","","Karl Elmshaeuser",53
+"Sioux","Absentee/Early Vote",47,"State Legislature","","Steve Erdman",0
+"Sioux","Bowen",47,"State Legislature","","Steve Erdman",324
+"Sioux","Countywide",47,"State Legislature","","Steve Erdman",0
+"Sioux","New/Former Resident",47,"State Legislature","","Steve Erdman",0
+"Sioux","Sheep Creek",47,"State Legislature","","Steve Erdman",194

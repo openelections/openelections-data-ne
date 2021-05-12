@@ -1,136 +1,136 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Dixon","Logan-Wakefield 3",NA,"President","REP","Donald J. Trump",152
-"2","Dixon","Concord-Dixon-Clark",NA,"President","REP","Donald J. Trump",192
-"3","Dixon","Newcastle-Daily-Hooker",NA,"President","REP","Donald J. Trump",317
-"4","Dixon","Wakefield 1st",NA,"President","REP","Donald J. Trump",102
-"5","Dixon","Wakefield 2nd",NA,"President","REP","Donald J. Trump",83
-"6","Dixon","Springbank",NA,"President","REP","Donald J. Trump",202
-"7","Dixon","Galena-Silvercreek",NA,"President","REP","Donald J. Trump",182
-"8","Dixon","Provisional",NA,"President","REP","Donald J. Trump",12
-"9","Dixon","Emerson",NA,"President","REP","Donald J. Trump",114
-"10","Dixon","Ottercreek",NA,"President","REP","Donald J. Trump",99
-"11","Dixon","Ponce Twp-Ponca 3",NA,"President","REP","Donald J. Trump",159
-"12","Dixon","Ponca 1st",NA,"President","REP","Donald J. Trump",129
-"13","Dixon","Ponca 2nd",NA,"President","REP","Donald J. Trump",148
-"14","Dixon","Absentee",NA,"President","REP","Donald J. Trump",150
-"15","Dixon","Total",NA,"President","REP","Donald J. Trump",2041
-"16","Dixon","Logan-Wakefield 3",NA,"President","DEM","Hillary Clinton",31
-"17","Dixon","Concord-Dixon-Clark",NA,"President","DEM","Hillary Clinton",42
-"18","Dixon","Newcastle-Daily-Hooker",NA,"President","DEM","Hillary Clinton",88
-"19","Dixon","Wakefield 1st",NA,"President","DEM","Hillary Clinton",56
-"20","Dixon","Wakefield 2nd",NA,"President","DEM","Hillary Clinton",33
-"21","Dixon","Springbank",NA,"President","DEM","Hillary Clinton",40
-"22","Dixon","Galena-Silvercreek",NA,"President","DEM","Hillary Clinton",19
-"23","Dixon","Provisional",NA,"President","DEM","Hillary Clinton",1
-"24","Dixon","Emerson",NA,"President","DEM","Hillary Clinton",48
-"25","Dixon","Ottercreek",NA,"President","DEM","Hillary Clinton",28
-"26","Dixon","Ponce Twp-Ponca 3",NA,"President","DEM","Hillary Clinton",31
-"27","Dixon","Ponca 1st",NA,"President","DEM","Hillary Clinton",43
-"28","Dixon","Ponca 2nd",NA,"President","DEM","Hillary Clinton",31
-"29","Dixon","Absentee",NA,"President","DEM","Hillary Clinton",65
-"30","Dixon","Total",NA,"President","DEM","Hillary Clinton",556
-"31","Dixon","Logan-Wakefield 3",NA,"President","LIB","Gary Johnson",8
-"32","Dixon","Concord-Dixon-Clark",NA,"President","LIB","Gary Johnson",14
-"33","Dixon","Newcastle-Daily-Hooker",NA,"President","LIB","Gary Johnson",22
-"34","Dixon","Wakefield 1st",NA,"President","LIB","Gary Johnson",11
-"35","Dixon","Wakefield 2nd",NA,"President","LIB","Gary Johnson",6
-"36","Dixon","Springbank",NA,"President","LIB","Gary Johnson",9
-"37","Dixon","Galena-Silvercreek",NA,"President","LIB","Gary Johnson",11
-"38","Dixon","Provisional",NA,"President","LIB","Gary Johnson",1
-"39","Dixon","Emerson",NA,"President","LIB","Gary Johnson",13
-"40","Dixon","Ottercreek",NA,"President","LIB","Gary Johnson",7
-"41","Dixon","Ponce Twp-Ponca 3",NA,"President","LIB","Gary Johnson",3
-"42","Dixon","Ponca 1st",NA,"President","LIB","Gary Johnson",1
-"43","Dixon","Ponca 2nd",NA,"President","LIB","Gary Johnson",5
-"44","Dixon","Absentee",NA,"President","LIB","Gary Johnson",19
-"45","Dixon","Total",NA,"President","LIB","Gary Johnson",130
-"46","Dixon","Logan-Wakefield 3",NA,"President","","Jill Stein",0
-"47","Dixon","Concord-Dixon-Clark",NA,"President","","Jill Stein",0
-"48","Dixon","Newcastle-Daily-Hooker",NA,"President","","Jill Stein",4
-"49","Dixon","Wakefield 1st",NA,"President","","Jill Stein",4
-"50","Dixon","Wakefield 2nd",NA,"President","","Jill Stein",2
-"51","Dixon","Springbank",NA,"President","","Jill Stein",4
-"52","Dixon","Galena-Silvercreek",NA,"President","","Jill Stein",1
-"53","Dixon","Provisional",NA,"President","","Jill Stein",0
-"54","Dixon","Emerson",NA,"President","","Jill Stein",0
-"55","Dixon","Ottercreek",NA,"President","","Jill Stein",1
-"56","Dixon","Ponce Twp-Ponca 3",NA,"President","","Jill Stein",0
-"57","Dixon","Ponca 1st",NA,"President","","Jill Stein",0
-"58","Dixon","Ponca 2nd",NA,"President","","Jill Stein",0
-"59","Dixon","Absentee",NA,"President","","Jill Stein",1
-"60","Dixon","Total",NA,"President","","Jill Stein",17
-"61","Dixon","Logan-Wakefield 3",NA,"President","","Write-ins",5
-"62","Dixon","Concord-Dixon-Clark",NA,"President","","Write-ins",2
-"63","Dixon","Newcastle-Daily-Hooker",NA,"President","","Write-ins",6
-"64","Dixon","Wakefield 1st",NA,"President","","Write-ins",4
-"65","Dixon","Wakefield 2nd",NA,"President","","Write-ins",0
-"66","Dixon","Springbank",NA,"President","","Write-ins",4
-"67","Dixon","Galena-Silvercreek",NA,"President","","Write-ins",3
-"68","Dixon","Provisional",NA,"President","","Write-ins",1
-"69","Dixon","Emerson",NA,"President","","Write-ins",1
-"70","Dixon","Ottercreek",NA,"President","","Write-ins",0
-"71","Dixon","Ponce Twp-Ponca 3",NA,"President","","Write-ins",6
-"72","Dixon","Ponca 1st",NA,"President","","Write-ins",2
-"73","Dixon","Ponca 2nd",NA,"President","","Write-ins",1
-"74","Dixon","Absentee",NA,"President","","Write-ins",3
-"75","Dixon","Total",NA,"President","","Write-ins",38
-"76","Dixon","Logan-Wakefield 3",1,"U.S. House","REP","Jeff Fortenberry",6
-"77","Dixon","Concord-Dixon-Clark",1,"U.S. House","REP","Jeff Fortenberry",NA
-"78","Dixon","Newcastle-Daily-Hooker",1,"U.S. House","REP","Jeff Fortenberry",NA
-"79","Dixon","Wakefield 1st",1,"U.S. House","REP","Jeff Fortenberry",NA
-"80","Dixon","Wakefield 2nd",1,"U.S. House","REP","Jeff Fortenberry",NA
-"81","Dixon","Springbank",1,"U.S. House","REP","Jeff Fortenberry",NA
-"82","Dixon","Galena-Silvercreek",1,"U.S. House","REP","Jeff Fortenberry",NA
-"83","Dixon","Provisional",1,"U.S. House","REP","Jeff Fortenberry",1
-"84","Dixon","Emerson",1,"U.S. House","REP","Jeff Fortenberry",50
-"85","Dixon","Ottercreek",1,"U.S. House","REP","Jeff Fortenberry",NA
-"86","Dixon","Ponce Twp-Ponca 3",1,"U.S. House","REP","Jeff Fortenberry",NA
-"87","Dixon","Ponca 1st",1,"U.S. House","REP","Jeff Fortenberry",NA
-"88","Dixon","Ponca 2nd",1,"U.S. House","REP","Jeff Fortenberry",NA
-"89","Dixon","Absentee",1,"U.S. House","REP","Jeff Fortenberry",7
-"90","Dixon","Total",1,"U.S. House","REP","Jeff Fortenberry",64
-"91","Dixon","Logan-Wakefield 3",1,"U.S. House","DEM","Daniel W. Wik",2
-"92","Dixon","Concord-Dixon-Clark",1,"U.S. House","DEM","Daniel W. Wik",NA
-"93","Dixon","Newcastle-Daily-Hooker",1,"U.S. House","DEM","Daniel W. Wik",NA
-"94","Dixon","Wakefield 1st",1,"U.S. House","DEM","Daniel W. Wik",NA
-"95","Dixon","Wakefield 2nd",1,"U.S. House","DEM","Daniel W. Wik",NA
-"96","Dixon","Springbank",1,"U.S. House","DEM","Daniel W. Wik",NA
-"97","Dixon","Galena-Silvercreek",1,"U.S. House","DEM","Daniel W. Wik",NA
-"98","Dixon","Provisional",1,"U.S. House","DEM","Daniel W. Wik",0
-"99","Dixon","Emerson",1,"U.S. House","DEM","Daniel W. Wik",20
-"100","Dixon","Ottercreek",1,"U.S. House","DEM","Daniel W. Wik",NA
-"101","Dixon","Ponce Twp-Ponca 3",1,"U.S. House","DEM","Daniel W. Wik",NA
-"102","Dixon","Ponca 1st",1,"U.S. House","DEM","Daniel W. Wik",NA
-"103","Dixon","Ponca 2nd",1,"U.S. House","DEM","Daniel W. Wik",NA
-"104","Dixon","Absentee",1,"U.S. House","DEM","Daniel W. Wik",4
-"105","Dixon","Total",1,"U.S. House","DEM","Daniel W. Wik",26
-"106","Dixon","Logan-Wakefield 3",3,"U.S. House","REP","Adrian Smith",152
-"107","Dixon","Concord-Dixon-Clark",3,"U.S. House","REP","Adrian Smith",230
-"108","Dixon","Newcastle-Daily-Hooker",3,"U.S. House","REP","Adrian Smith",335
-"109","Dixon","Wakefield 1st",3,"U.S. House","REP","Adrian Smith",137
-"110","Dixon","Wakefield 2nd",3,"U.S. House","REP","Adrian Smith",104
-"111","Dixon","Springbank",3,"U.S. House","REP","Adrian Smith",234
-"112","Dixon","Galena-Silvercreek",3,"U.S. House","REP","Adrian Smith",182
-"113","Dixon","Provisional",3,"U.S. House","REP","Adrian Smith",12
-"114","Dixon","Emerson",3,"U.S. House","REP","Adrian Smith",85
-"115","Dixon","Ottercreek",3,"U.S. House","REP","Adrian Smith",113
-"116","Dixon","Ponce Twp-Ponca 3",3,"U.S. House","REP","Adrian Smith",170
-"117","Dixon","Ponca 1st",3,"U.S. House","REP","Adrian Smith",147
-"118","Dixon","Ponca 2nd",3,"U.S. House","REP","Adrian Smith",163
-"119","Dixon","Absentee",3,"U.S. House","REP","Adrian Smith",169
-"120","Dixon","Total",3,"U.S. House","REP","Adrian Smith",2233
-"121","Dixon","Logan-Wakefield 3",3,"U.S. House","","Write-ins",1
-"122","Dixon","Concord-Dixon-Clark",3,"U.S. House","","Write-ins",3
-"123","Dixon","Newcastle-Daily-Hooker",3,"U.S. House","","Write-ins",6
-"124","Dixon","Wakefield 1st",3,"U.S. House","","Write-ins",1
-"125","Dixon","Wakefield 2nd",3,"U.S. House","","Write-ins",4
-"126","Dixon","Springbank",3,"U.S. House","","Write-ins",4
-"127","Dixon","Galena-Silvercreek",3,"U.S. House","","Write-ins",1
-"128","Dixon","Provisional",3,"U.S. House","","Write-ins",0
-"129","Dixon","Emerson",3,"U.S. House","","Write-ins",2
-"130","Dixon","Ottercreek",3,"U.S. House","","Write-ins",1
-"131","Dixon","Ponce Twp-Ponca 3",3,"U.S. House","","Write-ins",0
-"132","Dixon","Ponca 1st",3,"U.S. House","","Write-ins",1
-"133","Dixon","Ponca 2nd",3,"U.S. House","","Write-ins",1
-"134","Dixon","Absentee",3,"U.S. House","","Write-ins",5
-"135","Dixon","Total",3,"U.S. House","","Write-ins",30
+"county","precinct","district","office","party","candidate","votes"
+"Dixon","Logan-Wakefield 3",NA,"President","REP","Donald J. Trump",152
+"Dixon","Concord-Dixon-Clark",NA,"President","REP","Donald J. Trump",192
+"Dixon","Newcastle-Daily-Hooker",NA,"President","REP","Donald J. Trump",317
+"Dixon","Wakefield 1st",NA,"President","REP","Donald J. Trump",102
+"Dixon","Wakefield 2nd",NA,"President","REP","Donald J. Trump",83
+"Dixon","Springbank",NA,"President","REP","Donald J. Trump",202
+"Dixon","Galena-Silvercreek",NA,"President","REP","Donald J. Trump",182
+"Dixon","Provisional",NA,"President","REP","Donald J. Trump",12
+"Dixon","Emerson",NA,"President","REP","Donald J. Trump",114
+"Dixon","Ottercreek",NA,"President","REP","Donald J. Trump",99
+"Dixon","Ponce Twp-Ponca 3",NA,"President","REP","Donald J. Trump",159
+"Dixon","Ponca 1st",NA,"President","REP","Donald J. Trump",129
+"Dixon","Ponca 2nd",NA,"President","REP","Donald J. Trump",148
+"Dixon","Absentee",NA,"President","REP","Donald J. Trump",150
+"Dixon","Total",NA,"President","REP","Donald J. Trump",2041
+"Dixon","Logan-Wakefield 3",NA,"President","DEM","Hillary Clinton",31
+"Dixon","Concord-Dixon-Clark",NA,"President","DEM","Hillary Clinton",42
+"Dixon","Newcastle-Daily-Hooker",NA,"President","DEM","Hillary Clinton",88
+"Dixon","Wakefield 1st",NA,"President","DEM","Hillary Clinton",56
+"Dixon","Wakefield 2nd",NA,"President","DEM","Hillary Clinton",33
+"Dixon","Springbank",NA,"President","DEM","Hillary Clinton",40
+"Dixon","Galena-Silvercreek",NA,"President","DEM","Hillary Clinton",19
+"Dixon","Provisional",NA,"President","DEM","Hillary Clinton",1
+"Dixon","Emerson",NA,"President","DEM","Hillary Clinton",48
+"Dixon","Ottercreek",NA,"President","DEM","Hillary Clinton",28
+"Dixon","Ponce Twp-Ponca 3",NA,"President","DEM","Hillary Clinton",31
+"Dixon","Ponca 1st",NA,"President","DEM","Hillary Clinton",43
+"Dixon","Ponca 2nd",NA,"President","DEM","Hillary Clinton",31
+"Dixon","Absentee",NA,"President","DEM","Hillary Clinton",65
+"Dixon","Total",NA,"President","DEM","Hillary Clinton",556
+"Dixon","Logan-Wakefield 3",NA,"President","LIB","Gary Johnson",8
+"Dixon","Concord-Dixon-Clark",NA,"President","LIB","Gary Johnson",14
+"Dixon","Newcastle-Daily-Hooker",NA,"President","LIB","Gary Johnson",22
+"Dixon","Wakefield 1st",NA,"President","LIB","Gary Johnson",11
+"Dixon","Wakefield 2nd",NA,"President","LIB","Gary Johnson",6
+"Dixon","Springbank",NA,"President","LIB","Gary Johnson",9
+"Dixon","Galena-Silvercreek",NA,"President","LIB","Gary Johnson",11
+"Dixon","Provisional",NA,"President","LIB","Gary Johnson",1
+"Dixon","Emerson",NA,"President","LIB","Gary Johnson",13
+"Dixon","Ottercreek",NA,"President","LIB","Gary Johnson",7
+"Dixon","Ponce Twp-Ponca 3",NA,"President","LIB","Gary Johnson",3
+"Dixon","Ponca 1st",NA,"President","LIB","Gary Johnson",1
+"Dixon","Ponca 2nd",NA,"President","LIB","Gary Johnson",5
+"Dixon","Absentee",NA,"President","LIB","Gary Johnson",19
+"Dixon","Total",NA,"President","LIB","Gary Johnson",130
+"Dixon","Logan-Wakefield 3",NA,"President","","Jill Stein",0
+"Dixon","Concord-Dixon-Clark",NA,"President","","Jill Stein",0
+"Dixon","Newcastle-Daily-Hooker",NA,"President","","Jill Stein",4
+"Dixon","Wakefield 1st",NA,"President","","Jill Stein",4
+"Dixon","Wakefield 2nd",NA,"President","","Jill Stein",2
+"Dixon","Springbank",NA,"President","","Jill Stein",4
+"Dixon","Galena-Silvercreek",NA,"President","","Jill Stein",1
+"Dixon","Provisional",NA,"President","","Jill Stein",0
+"Dixon","Emerson",NA,"President","","Jill Stein",0
+"Dixon","Ottercreek",NA,"President","","Jill Stein",1
+"Dixon","Ponce Twp-Ponca 3",NA,"President","","Jill Stein",0
+"Dixon","Ponca 1st",NA,"President","","Jill Stein",0
+"Dixon","Ponca 2nd",NA,"President","","Jill Stein",0
+"Dixon","Absentee",NA,"President","","Jill Stein",1
+"Dixon","Total",NA,"President","","Jill Stein",17
+"Dixon","Logan-Wakefield 3",NA,"President","","Write-ins",5
+"Dixon","Concord-Dixon-Clark",NA,"President","","Write-ins",2
+"Dixon","Newcastle-Daily-Hooker",NA,"President","","Write-ins",6
+"Dixon","Wakefield 1st",NA,"President","","Write-ins",4
+"Dixon","Wakefield 2nd",NA,"President","","Write-ins",0
+"Dixon","Springbank",NA,"President","","Write-ins",4
+"Dixon","Galena-Silvercreek",NA,"President","","Write-ins",3
+"Dixon","Provisional",NA,"President","","Write-ins",1
+"Dixon","Emerson",NA,"President","","Write-ins",1
+"Dixon","Ottercreek",NA,"President","","Write-ins",0
+"Dixon","Ponce Twp-Ponca 3",NA,"President","","Write-ins",6
+"Dixon","Ponca 1st",NA,"President","","Write-ins",2
+"Dixon","Ponca 2nd",NA,"President","","Write-ins",1
+"Dixon","Absentee",NA,"President","","Write-ins",3
+"Dixon","Total",NA,"President","","Write-ins",38
+"Dixon","Logan-Wakefield 3",1,"U.S. House","REP","Jeff Fortenberry",6
+"Dixon","Concord-Dixon-Clark",1,"U.S. House","REP","Jeff Fortenberry",NA
+"Dixon","Newcastle-Daily-Hooker",1,"U.S. House","REP","Jeff Fortenberry",NA
+"Dixon","Wakefield 1st",1,"U.S. House","REP","Jeff Fortenberry",NA
+"Dixon","Wakefield 2nd",1,"U.S. House","REP","Jeff Fortenberry",NA
+"Dixon","Springbank",1,"U.S. House","REP","Jeff Fortenberry",NA
+"Dixon","Galena-Silvercreek",1,"U.S. House","REP","Jeff Fortenberry",NA
+"Dixon","Provisional",1,"U.S. House","REP","Jeff Fortenberry",1
+"Dixon","Emerson",1,"U.S. House","REP","Jeff Fortenberry",50
+"Dixon","Ottercreek",1,"U.S. House","REP","Jeff Fortenberry",NA
+"Dixon","Ponce Twp-Ponca 3",1,"U.S. House","REP","Jeff Fortenberry",NA
+"Dixon","Ponca 1st",1,"U.S. House","REP","Jeff Fortenberry",NA
+"Dixon","Ponca 2nd",1,"U.S. House","REP","Jeff Fortenberry",NA
+"Dixon","Absentee",1,"U.S. House","REP","Jeff Fortenberry",7
+"Dixon","Total",1,"U.S. House","REP","Jeff Fortenberry",64
+"Dixon","Logan-Wakefield 3",1,"U.S. House","DEM","Daniel W. Wik",2
+"Dixon","Concord-Dixon-Clark",1,"U.S. House","DEM","Daniel W. Wik",NA
+"Dixon","Newcastle-Daily-Hooker",1,"U.S. House","DEM","Daniel W. Wik",NA
+"Dixon","Wakefield 1st",1,"U.S. House","DEM","Daniel W. Wik",NA
+"Dixon","Wakefield 2nd",1,"U.S. House","DEM","Daniel W. Wik",NA
+"Dixon","Springbank",1,"U.S. House","DEM","Daniel W. Wik",NA
+"Dixon","Galena-Silvercreek",1,"U.S. House","DEM","Daniel W. Wik",NA
+"Dixon","Provisional",1,"U.S. House","DEM","Daniel W. Wik",0
+"Dixon","Emerson",1,"U.S. House","DEM","Daniel W. Wik",20
+"Dixon","Ottercreek",1,"U.S. House","DEM","Daniel W. Wik",NA
+"Dixon","Ponce Twp-Ponca 3",1,"U.S. House","DEM","Daniel W. Wik",NA
+"Dixon","Ponca 1st",1,"U.S. House","DEM","Daniel W. Wik",NA
+"Dixon","Ponca 2nd",1,"U.S. House","DEM","Daniel W. Wik",NA
+"Dixon","Absentee",1,"U.S. House","DEM","Daniel W. Wik",4
+"Dixon","Total",1,"U.S. House","DEM","Daniel W. Wik",26
+"Dixon","Logan-Wakefield 3",3,"U.S. House","REP","Adrian Smith",152
+"Dixon","Concord-Dixon-Clark",3,"U.S. House","REP","Adrian Smith",230
+"Dixon","Newcastle-Daily-Hooker",3,"U.S. House","REP","Adrian Smith",335
+"Dixon","Wakefield 1st",3,"U.S. House","REP","Adrian Smith",137
+"Dixon","Wakefield 2nd",3,"U.S. House","REP","Adrian Smith",104
+"Dixon","Springbank",3,"U.S. House","REP","Adrian Smith",234
+"Dixon","Galena-Silvercreek",3,"U.S. House","REP","Adrian Smith",182
+"Dixon","Provisional",3,"U.S. House","REP","Adrian Smith",12
+"Dixon","Emerson",3,"U.S. House","REP","Adrian Smith",85
+"Dixon","Ottercreek",3,"U.S. House","REP","Adrian Smith",113
+"Dixon","Ponce Twp-Ponca 3",3,"U.S. House","REP","Adrian Smith",170
+"Dixon","Ponca 1st",3,"U.S. House","REP","Adrian Smith",147
+"Dixon","Ponca 2nd",3,"U.S. House","REP","Adrian Smith",163
+"Dixon","Absentee",3,"U.S. House","REP","Adrian Smith",169
+"Dixon","Total",3,"U.S. House","REP","Adrian Smith",2233
+"Dixon","Logan-Wakefield 3",3,"U.S. House","","Write-ins",1
+"Dixon","Concord-Dixon-Clark",3,"U.S. House","","Write-ins",3
+"Dixon","Newcastle-Daily-Hooker",3,"U.S. House","","Write-ins",6
+"Dixon","Wakefield 1st",3,"U.S. House","","Write-ins",1
+"Dixon","Wakefield 2nd",3,"U.S. House","","Write-ins",4
+"Dixon","Springbank",3,"U.S. House","","Write-ins",4
+"Dixon","Galena-Silvercreek",3,"U.S. House","","Write-ins",1
+"Dixon","Provisional",3,"U.S. House","","Write-ins",0
+"Dixon","Emerson",3,"U.S. House","","Write-ins",2
+"Dixon","Ottercreek",3,"U.S. House","","Write-ins",1
+"Dixon","Ponce Twp-Ponca 3",3,"U.S. House","","Write-ins",0
+"Dixon","Ponca 1st",3,"U.S. House","","Write-ins",1
+"Dixon","Ponca 2nd",3,"U.S. House","","Write-ins",1
+"Dixon","Absentee",3,"U.S. House","","Write-ins",5
+"Dixon","Total",3,"U.S. House","","Write-ins",30

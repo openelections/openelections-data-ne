@@ -1,72 +1,72 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Cheyenne","Sidney 1",NA,"President","REP","Donald J. Trump",318
-"2","Cheyenne","Sidney 2",NA,"President","REP","Donald J. Trump",442
-"3","Cheyenne","Sidney 3",NA,"President","REP","Donald J. Trump",247
-"4","Cheyenne","Sidney 4",NA,"President","REP","Donald J. Trump",317
-"5","Cheyenne","Sidney 5",NA,"President","REP","Donald J. Trump",522
-"6","Cheyenne","Gurley",NA,"President","REP","Donald J. Trump",197
-"7","Cheyenne","Lodgepole",NA,"President","REP","Donald J. Trump",248
-"8","Cheyenne","Potter",NA,"President","REP","Donald J. Trump",238
-"9","Cheyenne","Union Valley",NA,"President","REP","Donald J. Trump",184
-"10","Cheyenne","Early/provisional",NA,"President","REP","Donald J. Trump",951
-"11","Cheyenne","New/former resident",NA,"President","REP","Donald J. Trump",1
-"12","Cheyenne","Sidney 1",NA,"President","DEM","Hillary Clinton",66
-"13","Cheyenne","Sidney 2",NA,"President","DEM","Hillary Clinton",72
-"14","Cheyenne","Sidney 3",NA,"President","DEM","Hillary Clinton",59
-"15","Cheyenne","Sidney 4",NA,"President","DEM","Hillary Clinton",66
-"16","Cheyenne","Sidney 5",NA,"President","DEM","Hillary Clinton",107
-"17","Cheyenne","Gurley",NA,"President","DEM","Hillary Clinton",14
-"18","Cheyenne","Lodgepole",NA,"President","DEM","Hillary Clinton",33
-"19","Cheyenne","Potter",NA,"President","DEM","Hillary Clinton",19
-"20","Cheyenne","Union Valley",NA,"President","DEM","Hillary Clinton",22
-"21","Cheyenne","Early/provisional",NA,"President","DEM","Hillary Clinton",253
-"22","Cheyenne","Sidney 1",NA,"President","LIB","Johnson/Weld",20
-"23","Cheyenne","Sidney 2",NA,"President","LIB","Johnson/Weld",28
-"24","Cheyenne","Sidney 3",NA,"President","LIB","Johnson/Weld",24
-"25","Cheyenne","Sidney 4",NA,"President","LIB","Johnson/Weld",24
-"26","Cheyenne","Sidney 5",NA,"President","LIB","Johnson/Weld",20
-"27","Cheyenne","Gurley",NA,"President","LIB","Johnson/Weld",11
-"28","Cheyenne","Lodgepole",NA,"President","LIB","Johnson/Weld",10
-"29","Cheyenne","Potter",NA,"President","LIB","Johnson/Weld",11
-"30","Cheyenne","Union Valley",NA,"President","LIB","Johnson/Weld",12
-"31","Cheyenne","Early/provisional",NA,"President","LIB","Johnson/Weld",53
-"32","Cheyenne","Sidney 1",NA,"President","PET","Jill Stein",1
-"33","Cheyenne","Sidney 2",NA,"President","PET","Jill Stein",10
-"34","Cheyenne","Sidney 3",NA,"President","PET","Jill Stein",10
-"35","Cheyenne","Sidney 4",NA,"President","PET","Jill Stein",6
-"36","Cheyenne","Sidney 5",NA,"President","PET","Jill Stein",4
-"37","Cheyenne","Gurley",NA,"President","PET","Jill Stein",2
-"38","Cheyenne","Lodgepole",NA,"President","PET","Jill Stein",0
-"39","Cheyenne","Potter",NA,"President","PET","Jill Stein",0
-"40","Cheyenne","Union Valley",NA,"President","PET","Jill Stein",3
-"41","Cheyenne","Early/provisional",NA,"President","PET","Jill Stein",10
-"42","Cheyenne","Sidney 1",NA,"President","NON","Write-ins",14
-"43","Cheyenne","Sidney 2",NA,"President","NON","Write-ins",7
-"44","Cheyenne","Sidney 3",NA,"President","NON","Write-ins",4
-"45","Cheyenne","Sidney 4",NA,"President","NON","Write-ins",4
-"46","Cheyenne","Sidney 5",NA,"President","NON","Write-ins",12
-"47","Cheyenne","Gurley",NA,"President","NON","Write-ins",3
-"48","Cheyenne","Lodgepole",NA,"President","NON","Write-ins",4
-"49","Cheyenne","Potter",NA,"President","NON","Write-ins",7
-"50","Cheyenne","Union Valley",NA,"President","NON","Write-ins",2
-"51","Cheyenne","Early/provisional",NA,"President","NON","Write-ins",22
-"52","Cheyenne","Sidney 1",3,"U.S. House","REP","Adrian Smith",377
-"53","Cheyenne","Sidney 2",3,"U.S. House","REP","Adrian Smith",501
-"54","Cheyenne","Sidney 3",3,"U.S. House","REP","Adrian Smith",300
-"55","Cheyenne","Sidney 4",3,"U.S. House","REP","Adrian Smith",356
-"56","Cheyenne","Sidney 5",3,"U.S. House","REP","Adrian Smith",598
-"57","Cheyenne","Gurley",3,"U.S. House","REP","Adrian Smith",214
-"58","Cheyenne","Lodgepole",3,"U.S. House","REP","Adrian Smith",271
-"59","Cheyenne","Potter",3,"U.S. House","REP","Adrian Smith",255
-"60","Cheyenne","Union Valley",3,"U.S. House","REP","Adrian Smith",208
-"61","Cheyenne","Early/provisional",3,"U.S. House","REP","Adrian Smith",1080
-"62","Cheyenne","Sidney 1",3,"U.S. House","NON","Write-ins",6
-"63","Cheyenne","Sidney 2",3,"U.S. House","NON","Write-ins",5
-"64","Cheyenne","Sidney 3",3,"U.S. House","NON","Write-ins",6
-"65","Cheyenne","Sidney 4",3,"U.S. House","NON","Write-ins",5
-"66","Cheyenne","Sidney 5",3,"U.S. House","NON","Write-ins",13
-"67","Cheyenne","Gurley",3,"U.S. House","NON","Write-ins",1
-"68","Cheyenne","Lodgepole",3,"U.S. House","NON","Write-ins",8
-"69","Cheyenne","Potter",3,"U.S. House","NON","Write-ins",0
-"70","Cheyenne","Union Valley",3,"U.S. House","NON","Write-ins",1
-"71","Cheyenne","Early/provisional",3,"U.S. House","NON","Write-ins",20
+"county","precinct","district","office","party","candidate","votes"
+"Cheyenne","Sidney 1",NA,"President","REP","Donald J. Trump",318
+"Cheyenne","Sidney 2",NA,"President","REP","Donald J. Trump",442
+"Cheyenne","Sidney 3",NA,"President","REP","Donald J. Trump",247
+"Cheyenne","Sidney 4",NA,"President","REP","Donald J. Trump",317
+"Cheyenne","Sidney 5",NA,"President","REP","Donald J. Trump",522
+"Cheyenne","Gurley",NA,"President","REP","Donald J. Trump",197
+"Cheyenne","Lodgepole",NA,"President","REP","Donald J. Trump",248
+"Cheyenne","Potter",NA,"President","REP","Donald J. Trump",238
+"Cheyenne","Union Valley",NA,"President","REP","Donald J. Trump",184
+"Cheyenne","Early/provisional",NA,"President","REP","Donald J. Trump",951
+"Cheyenne","New/former resident",NA,"President","REP","Donald J. Trump",1
+"Cheyenne","Sidney 1",NA,"President","DEM","Hillary Clinton",66
+"Cheyenne","Sidney 2",NA,"President","DEM","Hillary Clinton",72
+"Cheyenne","Sidney 3",NA,"President","DEM","Hillary Clinton",59
+"Cheyenne","Sidney 4",NA,"President","DEM","Hillary Clinton",66
+"Cheyenne","Sidney 5",NA,"President","DEM","Hillary Clinton",107
+"Cheyenne","Gurley",NA,"President","DEM","Hillary Clinton",14
+"Cheyenne","Lodgepole",NA,"President","DEM","Hillary Clinton",33
+"Cheyenne","Potter",NA,"President","DEM","Hillary Clinton",19
+"Cheyenne","Union Valley",NA,"President","DEM","Hillary Clinton",22
+"Cheyenne","Early/provisional",NA,"President","DEM","Hillary Clinton",253
+"Cheyenne","Sidney 1",NA,"President","LIB","Johnson/Weld",20
+"Cheyenne","Sidney 2",NA,"President","LIB","Johnson/Weld",28
+"Cheyenne","Sidney 3",NA,"President","LIB","Johnson/Weld",24
+"Cheyenne","Sidney 4",NA,"President","LIB","Johnson/Weld",24
+"Cheyenne","Sidney 5",NA,"President","LIB","Johnson/Weld",20
+"Cheyenne","Gurley",NA,"President","LIB","Johnson/Weld",11
+"Cheyenne","Lodgepole",NA,"President","LIB","Johnson/Weld",10
+"Cheyenne","Potter",NA,"President","LIB","Johnson/Weld",11
+"Cheyenne","Union Valley",NA,"President","LIB","Johnson/Weld",12
+"Cheyenne","Early/provisional",NA,"President","LIB","Johnson/Weld",53
+"Cheyenne","Sidney 1",NA,"President","PET","Jill Stein",1
+"Cheyenne","Sidney 2",NA,"President","PET","Jill Stein",10
+"Cheyenne","Sidney 3",NA,"President","PET","Jill Stein",10
+"Cheyenne","Sidney 4",NA,"President","PET","Jill Stein",6
+"Cheyenne","Sidney 5",NA,"President","PET","Jill Stein",4
+"Cheyenne","Gurley",NA,"President","PET","Jill Stein",2
+"Cheyenne","Lodgepole",NA,"President","PET","Jill Stein",0
+"Cheyenne","Potter",NA,"President","PET","Jill Stein",0
+"Cheyenne","Union Valley",NA,"President","PET","Jill Stein",3
+"Cheyenne","Early/provisional",NA,"President","PET","Jill Stein",10
+"Cheyenne","Sidney 1",NA,"President","NON","Write-ins",14
+"Cheyenne","Sidney 2",NA,"President","NON","Write-ins",7
+"Cheyenne","Sidney 3",NA,"President","NON","Write-ins",4
+"Cheyenne","Sidney 4",NA,"President","NON","Write-ins",4
+"Cheyenne","Sidney 5",NA,"President","NON","Write-ins",12
+"Cheyenne","Gurley",NA,"President","NON","Write-ins",3
+"Cheyenne","Lodgepole",NA,"President","NON","Write-ins",4
+"Cheyenne","Potter",NA,"President","NON","Write-ins",7
+"Cheyenne","Union Valley",NA,"President","NON","Write-ins",2
+"Cheyenne","Early/provisional",NA,"President","NON","Write-ins",22
+"Cheyenne","Sidney 1",3,"U.S. House","REP","Adrian Smith",377
+"Cheyenne","Sidney 2",3,"U.S. House","REP","Adrian Smith",501
+"Cheyenne","Sidney 3",3,"U.S. House","REP","Adrian Smith",300
+"Cheyenne","Sidney 4",3,"U.S. House","REP","Adrian Smith",356
+"Cheyenne","Sidney 5",3,"U.S. House","REP","Adrian Smith",598
+"Cheyenne","Gurley",3,"U.S. House","REP","Adrian Smith",214
+"Cheyenne","Lodgepole",3,"U.S. House","REP","Adrian Smith",271
+"Cheyenne","Potter",3,"U.S. House","REP","Adrian Smith",255
+"Cheyenne","Union Valley",3,"U.S. House","REP","Adrian Smith",208
+"Cheyenne","Early/provisional",3,"U.S. House","REP","Adrian Smith",1080
+"Cheyenne","Sidney 1",3,"U.S. House","NON","Write-ins",6
+"Cheyenne","Sidney 2",3,"U.S. House","NON","Write-ins",5
+"Cheyenne","Sidney 3",3,"U.S. House","NON","Write-ins",6
+"Cheyenne","Sidney 4",3,"U.S. House","NON","Write-ins",5
+"Cheyenne","Sidney 5",3,"U.S. House","NON","Write-ins",13
+"Cheyenne","Gurley",3,"U.S. House","NON","Write-ins",1
+"Cheyenne","Lodgepole",3,"U.S. House","NON","Write-ins",8
+"Cheyenne","Potter",3,"U.S. House","NON","Write-ins",0
+"Cheyenne","Union Valley",3,"U.S. House","NON","Write-ins",1
+"Cheyenne","Early/provisional",3,"U.S. House","NON","Write-ins",20

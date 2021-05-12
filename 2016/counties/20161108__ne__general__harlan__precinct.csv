@@ -1,73 +1,73 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Harlan","Republican City",NA,"Ballots Cast","","",232
-"2","Harlan","Republican City",NA,"President","REP","Donald J. Trump",193
-"3","Harlan","Republican City",NA,"President","DEM","Hillary Clinton",36
-"4","Harlan","Republican City",NA,"President","LIB","Gary Johnson",2
-"5","Harlan","Republican City",NA,"President","","Jill Stein",0
-"6","Harlan","Republican City",NA,"President","","Write-ins",0
-"7","Harlan","Republican City",3,"U.S. House","REP","Adrian Smith",192
-"8","Harlan","Republican City",3,"U.S. House","","Write-ins",1
-"9","Harlan","Huntley-Ragan",NA,"Ballots Cast","","",212
-"10","Harlan","Huntley-Ragan",NA,"President","REP","Donald J. Trump",169
-"11","Harlan","Huntley-Ragan",NA,"President","DEM","Hillary Clinton",32
-"12","Harlan","Huntley-Ragan",NA,"President","LIB","Gary Johnson",5
-"13","Harlan","Huntley-Ragan",NA,"President","","Jill Stein",0
-"14","Harlan","Huntley-Ragan",NA,"President","","Write-ins",5
-"15","Harlan","Huntley-Ragan",3,"U.S. House","REP","Adrian Smith",185
-"16","Harlan","Huntley-Ragan",3,"U.S. House","","Write-ins",5
-"17","Harlan","East Alma",NA,"Ballots Cast","","",207
-"18","Harlan","East Alma",NA,"President","REP","Donald J. Trump",174
-"19","Harlan","East Alma",NA,"President","DEM","Hillary Clinton",22
-"20","Harlan","East Alma",NA,"President","LIB","Gary Johnson",7
-"21","Harlan","East Alma",NA,"President","","Jill Stein",0
-"22","Harlan","East Alma",NA,"President","","Write-ins",1
-"23","Harlan","East Alma",3,"U.S. House","REP","Adrian Smith",182
-"24","Harlan","East Alma",3,"U.S. House","","Write-ins",4
-"25","Harlan","Central Alma",NA,"Ballots Cast","","",266
-"26","Harlan","Central Alma",NA,"President","REP","Donald J. Trump",198
-"27","Harlan","Central Alma",NA,"President","DEM","Hillary Clinton",43
-"28","Harlan","Central Alma",NA,"President","LIB","Gary Johnson",17
-"29","Harlan","Central Alma",NA,"President","","Jill Stein",3
-"30","Harlan","Central Alma",NA,"President","","Write-ins",3
-"31","Harlan","Central Alma",3,"U.S. House","REP","Adrian Smith",225
-"32","Harlan","Central Alma",3,"U.S. House","","Write-ins",2
-"33","Harlan","West Alma",NA,"Ballots Cast","","",248
-"34","Harlan","West Alma",NA,"President","REP","Donald J. Trump",192
-"35","Harlan","West Alma",NA,"President","DEM","Hillary Clinton",41
-"36","Harlan","West Alma",NA,"President","LIB","Gary Johnson",6
-"37","Harlan","West Alma",NA,"President","","Jill Stein",1
-"38","Harlan","West Alma",NA,"President","","Write-ins",3
-"39","Harlan","West Alma",3,"U.S. House","REP","Adrian Smith",225
-"40","Harlan","West Alma",3,"U.S. House","","Write-ins",1
-"41","Harlan","Orleans",NA,"Ballots Cast","","",285
-"42","Harlan","Orleans",NA,"President","REP","Donald J. Trump",238
-"43","Harlan","Orleans",NA,"President","DEM","Hillary Clinton",35
-"44","Harlan","Orleans",NA,"President","LIB","Gary Johnson",6
-"45","Harlan","Orleans",NA,"President","","Jill Stein",2
-"46","Harlan","Orleans",NA,"President","","Write-ins",1
-"47","Harlan","Orleans",3,"U.S. House","REP","Adrian Smith",250
-"48","Harlan","Orleans",3,"U.S. House","","Write-ins",2
-"49","Harlan","Stamford",NA,"Ballots Cast","","",164
-"50","Harlan","Stamford",NA,"President","REP","Donald J. Trump",138
-"51","Harlan","Stamford",NA,"President","DEM","Hillary Clinton",18
-"52","Harlan","Stamford",NA,"President","LIB","Gary Johnson",3
-"53","Harlan","Stamford",NA,"President","","Jill Stein",0
-"54","Harlan","Stamford",NA,"President","","Write-ins",0
-"55","Harlan","Stamford",3,"U.S. House","REP","Adrian Smith",152
-"56","Harlan","Stamford",3,"U.S. House","","Write-ins",2
-"57","Harlan","Oxford",NA,"Ballots Cast","","",224
-"58","Harlan","Oxford",NA,"President","REP","Donald J. Trump",181
-"59","Harlan","Oxford",NA,"President","DEM","Hillary Clinton",25
-"60","Harlan","Oxford",NA,"President","LIB","Gary Johnson",14
-"61","Harlan","Oxford",NA,"President","","Jill Stein",1
-"62","Harlan","Oxford",NA,"President","","Write-ins",0
-"63","Harlan","Oxford",3,"U.S. House","REP","Adrian Smith",187
-"64","Harlan","Oxford",3,"U.S. House","","Write-ins",6
-"65","","",NA,"","","",NA
-"66","","",NA,"","","",NA
-"67","","",NA,"","","",NA
-"68","","",NA,"","","",NA
-"69","","",NA,"","","",NA
-"70","","",NA,"","","",NA
-"71","","",NA,"","","",NA
-"72","","",NA,"","","",NA
+"county","precinct","district","office","party","candidate","votes"
+"Harlan","Republican City",NA,"Ballots Cast","","",232
+"Harlan","Republican City",NA,"President","REP","Donald J. Trump",193
+"Harlan","Republican City",NA,"President","DEM","Hillary Clinton",36
+"Harlan","Republican City",NA,"President","LIB","Gary Johnson",2
+"Harlan","Republican City",NA,"President","","Jill Stein",0
+"Harlan","Republican City",NA,"President","","Write-ins",0
+"Harlan","Republican City",3,"U.S. House","REP","Adrian Smith",192
+"Harlan","Republican City",3,"U.S. House","","Write-ins",1
+"Harlan","Huntley-Ragan",NA,"Ballots Cast","","",212
+"Harlan","Huntley-Ragan",NA,"President","REP","Donald J. Trump",169
+"Harlan","Huntley-Ragan",NA,"President","DEM","Hillary Clinton",32
+"Harlan","Huntley-Ragan",NA,"President","LIB","Gary Johnson",5
+"Harlan","Huntley-Ragan",NA,"President","","Jill Stein",0
+"Harlan","Huntley-Ragan",NA,"President","","Write-ins",5
+"Harlan","Huntley-Ragan",3,"U.S. House","REP","Adrian Smith",185
+"Harlan","Huntley-Ragan",3,"U.S. House","","Write-ins",5
+"Harlan","East Alma",NA,"Ballots Cast","","",207
+"Harlan","East Alma",NA,"President","REP","Donald J. Trump",174
+"Harlan","East Alma",NA,"President","DEM","Hillary Clinton",22
+"Harlan","East Alma",NA,"President","LIB","Gary Johnson",7
+"Harlan","East Alma",NA,"President","","Jill Stein",0
+"Harlan","East Alma",NA,"President","","Write-ins",1
+"Harlan","East Alma",3,"U.S. House","REP","Adrian Smith",182
+"Harlan","East Alma",3,"U.S. House","","Write-ins",4
+"Harlan","Central Alma",NA,"Ballots Cast","","",266
+"Harlan","Central Alma",NA,"President","REP","Donald J. Trump",198
+"Harlan","Central Alma",NA,"President","DEM","Hillary Clinton",43
+"Harlan","Central Alma",NA,"President","LIB","Gary Johnson",17
+"Harlan","Central Alma",NA,"President","","Jill Stein",3
+"Harlan","Central Alma",NA,"President","","Write-ins",3
+"Harlan","Central Alma",3,"U.S. House","REP","Adrian Smith",225
+"Harlan","Central Alma",3,"U.S. House","","Write-ins",2
+"Harlan","West Alma",NA,"Ballots Cast","","",248
+"Harlan","West Alma",NA,"President","REP","Donald J. Trump",192
+"Harlan","West Alma",NA,"President","DEM","Hillary Clinton",41
+"Harlan","West Alma",NA,"President","LIB","Gary Johnson",6
+"Harlan","West Alma",NA,"President","","Jill Stein",1
+"Harlan","West Alma",NA,"President","","Write-ins",3
+"Harlan","West Alma",3,"U.S. House","REP","Adrian Smith",225
+"Harlan","West Alma",3,"U.S. House","","Write-ins",1
+"Harlan","Orleans",NA,"Ballots Cast","","",285
+"Harlan","Orleans",NA,"President","REP","Donald J. Trump",238
+"Harlan","Orleans",NA,"President","DEM","Hillary Clinton",35
+"Harlan","Orleans",NA,"President","LIB","Gary Johnson",6
+"Harlan","Orleans",NA,"President","","Jill Stein",2
+"Harlan","Orleans",NA,"President","","Write-ins",1
+"Harlan","Orleans",3,"U.S. House","REP","Adrian Smith",250
+"Harlan","Orleans",3,"U.S. House","","Write-ins",2
+"Harlan","Stamford",NA,"Ballots Cast","","",164
+"Harlan","Stamford",NA,"President","REP","Donald J. Trump",138
+"Harlan","Stamford",NA,"President","DEM","Hillary Clinton",18
+"Harlan","Stamford",NA,"President","LIB","Gary Johnson",3
+"Harlan","Stamford",NA,"President","","Jill Stein",0
+"Harlan","Stamford",NA,"President","","Write-ins",0
+"Harlan","Stamford",3,"U.S. House","REP","Adrian Smith",152
+"Harlan","Stamford",3,"U.S. House","","Write-ins",2
+"Harlan","Oxford",NA,"Ballots Cast","","",224
+"Harlan","Oxford",NA,"President","REP","Donald J. Trump",181
+"Harlan","Oxford",NA,"President","DEM","Hillary Clinton",25
+"Harlan","Oxford",NA,"President","LIB","Gary Johnson",14
+"Harlan","Oxford",NA,"President","","Jill Stein",1
+"Harlan","Oxford",NA,"President","","Write-ins",0
+"Harlan","Oxford",3,"U.S. House","REP","Adrian Smith",187
+"Harlan","Oxford",3,"U.S. House","","Write-ins",6
+"","",NA,"","","",NA
+"","",NA,"","","",NA
+"","",NA,"","","",NA
+"","",NA,"","","",NA
+"","",NA,"","","",NA
+"","",NA,"","","",NA
+"","",NA,"","","",NA
+"","",NA,"","","",NA

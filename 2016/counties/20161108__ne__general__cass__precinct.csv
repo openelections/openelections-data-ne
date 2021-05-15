@@ -1,307 +1,307 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Cass","Tipton",NA,"Registered Voters","","",1448
-"2","Cass","McKelverly",NA,"Registered Voters","","",306
-"3","Cass","Salt Creek",NA,"Registered Voters","","",602
-"4","Cass","Stove Creek",NA,"Registered Voters","","",668
-"5","Cass","Murdock",NA,"Registered Voters","","",458
-"6","Cass","South Bend",NA,"Registered Voters","","",645
-"7","Cass","Center",NA,"Registered Voters","","",393
-"8","Cass","East Louisville",NA,"Registered Voters","","",568
-"9","Cass","West Louisville",NA,"Registered Voters","","",770
-"10","Cass","Avoca",NA,"Registered Voters","","",373
-"11","Cass","Mount Pleasant",NA,"Registered Voters","","",172
-"12","Cass","Eight Mile Grove",NA,"Registered Voters","","",714
-"13","Cass","Nehawka",NA,"Registered Voters","","",252
-"14","Cass","Liberty",NA,"Registered Voters","","",440
-"15","Cass","North Rock Bluff",NA,"Registered Voters","","",752
-"16","Cass","South Rock Bluff",NA,"Registered Voters","","",1213
-"17","Cass","West Rock Bluff",NA,"Registered Voters","","",503
-"18","Cass","North Plattsmouth",NA,"Registered Voters","","",1549
-"19","Cass","South Plattsmouth",NA,"Registered Voters","","",925
-"20","Cass","Weeping Water Ward 1",NA,"Registered Voters","","",384
-"21","Cass","Weeping Water Ward 2",NA,"Registered Voters","","",403
-"22","Cass","1st. Ward 1st. Precinct",NA,"Registered Voters","","",548
-"23","Cass","1st. Ward 2nd. Precinct",NA,"Registered Voters","","",492
-"24","Cass","2nd. Ward 1st. Precinct",NA,"Registered Voters","","",503
-"25","Cass","2nd. Ward 2nd. Precinct",NA,"Registered Voters","","",469
-"26","Cass","3rd. Ward 1st. Precinct",NA,"Registered Voters","","",509
-"27","Cass","3rd. Ward 2nd. Precinct",NA,"Registered Voters","","",479
-"28","Cass","4th. Ward 1st. Precinct",NA,"Registered Voters","","",413
-"29","Cass","4th. Ward 2nd. Precinct",NA,"Registered Voters","","",539
-"30","Cass","Total",NA,"Registered Voters","","",17490
-"31","Cass","Tipton",NA,"Ballots Cast","","",1102
-"32","Cass","McKelverly",NA,"Ballots Cast","","",240
-"33","Cass","Salt Creek",NA,"Ballots Cast","","",463
-"34","Cass","Stove Creek",NA,"Ballots Cast","","",501
-"35","Cass","Murdock",NA,"Ballots Cast","","",356
-"36","Cass","South Bend",NA,"Ballots Cast","","",519
-"37","Cass","Center",NA,"Ballots Cast","","",300
-"38","Cass","East Louisville",NA,"Ballots Cast","","",441
-"39","Cass","West Louisville",NA,"Ballots Cast","","",594
-"40","Cass","Avoca",NA,"Ballots Cast","","",258
-"41","Cass","Mount Pleasant",NA,"Ballots Cast","","",129
-"42","Cass","Eight Mile Grove",NA,"Ballots Cast","","",587
-"43","Cass","Nehawka",NA,"Ballots Cast","","",187
-"44","Cass","Liberty",NA,"Ballots Cast","","",323
-"45","Cass","North Rock Bluff",NA,"Ballots Cast","","",584
-"46","Cass","South Rock Bluff",NA,"Ballots Cast","","",937
-"47","Cass","West Rock Bluff",NA,"Ballots Cast","","",399
-"48","Cass","North Plattsmouth",NA,"Ballots Cast","","",1227
-"49","Cass","South Plattsmouth",NA,"Ballots Cast","","",731
-"50","Cass","Weeping Water Ward 1",NA,"Ballots Cast","","",296
-"51","Cass","Weeping Water Ward 2",NA,"Ballots Cast","","",292
-"52","Cass","1st. Ward 1st. Precinct",NA,"Ballots Cast","","",347
-"53","Cass","1st. Ward 2nd. Precinct",NA,"Ballots Cast","","",334
-"54","Cass","2nd. Ward 1st. Precinct",NA,"Ballots Cast","","",365
-"55","Cass","2nd. Ward 2nd. Precinct",NA,"Ballots Cast","","",329
-"56","Cass","3rd. Ward 1st. Precinct",NA,"Ballots Cast","","",341
-"57","Cass","3rd. Ward 2nd. Precinct",NA,"Ballots Cast","","",291
-"58","Cass","4th. Ward 1st. Precinct",NA,"Ballots Cast","","",259
-"59","Cass","4th. Ward 2nd. Precinct",NA,"Ballots Cast","","",361
-"60","Cass","New/Former Resident",NA,"Ballots Cast","","",4
-"61","Cass","Total",NA,"Ballots Cast","","",13097
-"62","Cass","Tipton",NA,"President","REP","Donald J. Trump",714
-"63","Cass","McKelverly",NA,"President","REP","Donald J. Trump",150
-"64","Cass","Salt Creek",NA,"President","REP","Donald J. Trump",292
-"65","Cass","Stove Creek",NA,"President","REP","Donald J. Trump",313
-"66","Cass","Murdock",NA,"President","REP","Donald J. Trump",224
-"67","Cass","South Bend",NA,"President","REP","Donald J. Trump",350
-"68","Cass","Center",NA,"President","REP","Donald J. Trump",199
-"69","Cass","East Louisville",NA,"President","REP","Donald J. Trump",267
-"70","Cass","West Louisville",NA,"President","REP","Donald J. Trump",405
-"71","Cass","Avoca",NA,"President","REP","Donald J. Trump",165
-"72","Cass","Mount Pleasant",NA,"President","REP","Donald J. Trump",87
-"73","Cass","Eight Mile Grove",NA,"President","REP","Donald J. Trump",395
-"74","Cass","Nehawka",NA,"President","REP","Donald J. Trump",125
-"75","Cass","Liberty",NA,"President","REP","Donald J. Trump",232
-"76","Cass","North Rock Bluff",NA,"President","REP","Donald J. Trump",389
-"77","Cass","South Rock Bluff",NA,"President","REP","Donald J. Trump",652
-"78","Cass","West Rock Bluff",NA,"President","REP","Donald J. Trump",258
-"79","Cass","North Plattsmouth",NA,"President","REP","Donald J. Trump",789
-"80","Cass","South Plattsmouth",NA,"President","REP","Donald J. Trump",503
-"81","Cass","Weeping Water Ward 1",NA,"President","REP","Donald J. Trump",169
-"82","Cass","Weeping Water Ward 2",NA,"President","REP","Donald J. Trump",167
-"83","Cass","1st. Ward 1st. Precinct",NA,"President","REP","Donald J. Trump",211
-"84","Cass","1st. Ward 2nd. Precinct",NA,"President","REP","Donald J. Trump",208
-"85","Cass","2nd. Ward 1st. Precinct",NA,"President","REP","Donald J. Trump",227
-"86","Cass","2nd. Ward 2nd. Precinct",NA,"President","REP","Donald J. Trump",198
-"87","Cass","3rd. Ward 1st. Precinct",NA,"President","REP","Donald J. Trump",214
-"88","Cass","3rd. Ward 2nd. Precinct",NA,"President","REP","Donald J. Trump",177
-"89","Cass","4th. Ward 1st. Precinct",NA,"President","REP","Donald J. Trump",149
-"90","Cass","4th. Ward 2nd. Precinct",NA,"President","REP","Donald J. Trump",220
-"91","Cass","New/Former Resident",NA,"President","REP","Donald J. Trump",3
-"92","Cass","Total",NA,"President","REP","Donald J. Trump",8452
-"93","Cass","Tipton",NA,"President","DEM","Hillary Clinton",309
-"94","Cass","McKelverly",NA,"President","DEM","Hillary Clinton",72
-"95","Cass","Salt Creek",NA,"President","DEM","Hillary Clinton",117
-"96","Cass","Stove Creek",NA,"President","DEM","Hillary Clinton",151
-"97","Cass","Murdock",NA,"President","DEM","Hillary Clinton",105
-"98","Cass","South Bend",NA,"President","DEM","Hillary Clinton",131
-"99","Cass","Center",NA,"President","DEM","Hillary Clinton",71
-"100","Cass","East Louisville",NA,"President","DEM","Hillary Clinton",139
-"101","Cass","West Louisville",NA,"President","DEM","Hillary Clinton",142
-"102","Cass","Avoca",NA,"President","DEM","Hillary Clinton",66
-"103","Cass","Mount Pleasant",NA,"President","DEM","Hillary Clinton",25
-"104","Cass","Eight Mile Grove",NA,"President","DEM","Hillary Clinton",139
-"105","Cass","Nehawka",NA,"President","DEM","Hillary Clinton",47
-"106","Cass","Liberty",NA,"President","DEM","Hillary Clinton",72
-"107","Cass","North Rock Bluff",NA,"President","DEM","Hillary Clinton",156
-"108","Cass","South Rock Bluff",NA,"President","DEM","Hillary Clinton",211
-"109","Cass","West Rock Bluff",NA,"President","DEM","Hillary Clinton",104
-"110","Cass","North Plattsmouth",NA,"President","DEM","Hillary Clinton",342
-"111","Cass","South Plattsmouth",NA,"President","DEM","Hillary Clinton",175
-"112","Cass","Weeping Water Ward 1",NA,"President","DEM","Hillary Clinton",96
-"113","Cass","Weeping Water Ward 2",NA,"President","DEM","Hillary Clinton",87
-"114","Cass","1st. Ward 1st. Precinct",NA,"President","DEM","Hillary Clinton",104
-"115","Cass","1st. Ward 2nd. Precinct",NA,"President","DEM","Hillary Clinton",98
-"116","Cass","2nd. Ward 1st. Precinct",NA,"President","DEM","Hillary Clinton",97
-"117","Cass","2nd. Ward 2nd. Precinct",NA,"President","DEM","Hillary Clinton",94
-"118","Cass","3rd. Ward 1st. Precinct",NA,"President","DEM","Hillary Clinton",84
-"119","Cass","3rd. Ward 2nd. Precinct",NA,"President","DEM","Hillary Clinton",77
-"120","Cass","4th. Ward 1st. Precinct",NA,"President","DEM","Hillary Clinton",70
-"121","Cass","4th. Ward 2nd. Precinct",NA,"President","DEM","Hillary Clinton",102
-"122","Cass","New/Former Resident",NA,"President","DEM","Hillary Clinton",1
-"123","Cass","Total",NA,"President","DEM","Hillary Clinton",3484
-"124","Cass","Tipton",NA,"President","LIB","Gary Johnson",49
-"125","Cass","McKelverly",NA,"President","LIB","Gary Johnson",10
-"126","Cass","Salt Creek",NA,"President","LIB","Gary Johnson",39
-"127","Cass","Stove Creek",NA,"President","LIB","Gary Johnson",19
-"128","Cass","Murdock",NA,"President","LIB","Gary Johnson",7
-"129","Cass","South Bend",NA,"President","LIB","Gary Johnson",15
-"130","Cass","Center",NA,"President","LIB","Gary Johnson",18
-"131","Cass","East Louisville",NA,"President","LIB","Gary Johnson",24
-"132","Cass","West Louisville",NA,"President","LIB","Gary Johnson",22
-"133","Cass","Avoca",NA,"President","LIB","Gary Johnson",18
-"134","Cass","Mount Pleasant",NA,"President","LIB","Gary Johnson",8
-"135","Cass","Eight Mile Grove",NA,"President","LIB","Gary Johnson",32
-"136","Cass","Nehawka",NA,"President","LIB","Gary Johnson",8
-"137","Cass","Liberty",NA,"President","LIB","Gary Johnson",10
-"138","Cass","North Rock Bluff",NA,"President","LIB","Gary Johnson",15
-"139","Cass","South Rock Bluff",NA,"President","LIB","Gary Johnson",40
-"140","Cass","West Rock Bluff",NA,"President","LIB","Gary Johnson",15
-"141","Cass","North Plattsmouth",NA,"President","LIB","Gary Johnson",42
-"142","Cass","South Plattsmouth",NA,"President","LIB","Gary Johnson",27
-"143","Cass","Weeping Water Ward 1",NA,"President","LIB","Gary Johnson",16
-"144","Cass","Weeping Water Ward 2",NA,"President","LIB","Gary Johnson",23
-"145","Cass","1st. Ward 1st. Precinct",NA,"President","LIB","Gary Johnson",19
-"146","Cass","1st. Ward 2nd. Precinct",NA,"President","LIB","Gary Johnson",15
-"147","Cass","2nd. Ward 1st. Precinct",NA,"President","LIB","Gary Johnson",23
-"148","Cass","2nd. Ward 2nd. Precinct",NA,"President","LIB","Gary Johnson",18
-"149","Cass","3rd. Ward 1st. Precinct",NA,"President","LIB","Gary Johnson",36
-"150","Cass","3rd. Ward 2nd. Precinct",NA,"President","LIB","Gary Johnson",24
-"151","Cass","4th. Ward 1st. Precinct",NA,"President","LIB","Gary Johnson",24
-"152","Cass","4th. Ward 2nd. Precinct",NA,"President","LIB","Gary Johnson",23
-"153","Cass","New/Former Resident",NA,"President","LIB","Gary Johnson",0
-"154","Cass","Total",NA,"President","LIB","Gary Johnson",639
-"155","Cass","Tipton",NA,"President","GRE","Jill Stein",5
-"156","Cass","McKelverly",NA,"President","GRE","Jill Stein",2
-"157","Cass","Salt Creek",NA,"President","GRE","Jill Stein",1
-"158","Cass","Stove Creek",NA,"President","GRE","Jill Stein",4
-"159","Cass","Murdock",NA,"President","GRE","Jill Stein",5
-"160","Cass","South Bend",NA,"President","GRE","Jill Stein",1
-"161","Cass","Center",NA,"President","GRE","Jill Stein",1
-"162","Cass","East Louisville",NA,"President","GRE","Jill Stein",0
-"163","Cass","West Louisville",NA,"President","GRE","Jill Stein",6
-"164","Cass","Avoca",NA,"President","GRE","Jill Stein",2
-"165","Cass","Mount Pleasant",NA,"President","GRE","Jill Stein",4
-"166","Cass","Eight Mile Grove",NA,"President","GRE","Jill Stein",6
-"167","Cass","Nehawka",NA,"President","GRE","Jill Stein",1
-"168","Cass","Liberty",NA,"President","GRE","Jill Stein",3
-"169","Cass","North Rock Bluff",NA,"President","GRE","Jill Stein",6
-"170","Cass","South Rock Bluff",NA,"President","GRE","Jill Stein",12
-"171","Cass","West Rock Bluff",NA,"President","GRE","Jill Stein",8
-"172","Cass","North Plattsmouth",NA,"President","GRE","Jill Stein",13
-"173","Cass","South Plattsmouth",NA,"President","GRE","Jill Stein",4
-"174","Cass","Weeping Water Ward 1",NA,"President","GRE","Jill Stein",4
-"175","Cass","Weeping Water Ward 2",NA,"President","GRE","Jill Stein",3
-"176","Cass","1st. Ward 1st. Precinct",NA,"President","GRE","Jill Stein",7
-"177","Cass","1st. Ward 2nd. Precinct",NA,"President","GRE","Jill Stein",5
-"178","Cass","2nd. Ward 1st. Precinct",NA,"President","GRE","Jill Stein",4
-"179","Cass","2nd. Ward 2nd. Precinct",NA,"President","GRE","Jill Stein",5
-"180","Cass","3rd. Ward 1st. Precinct",NA,"President","GRE","Jill Stein",2
-"181","Cass","3rd. Ward 2nd. Precinct",NA,"President","GRE","Jill Stein",4
-"182","Cass","4th. Ward 1st. Precinct",NA,"President","GRE","Jill Stein",6
-"183","Cass","4th. Ward 2nd. Precinct",NA,"President","GRE","Jill Stein",8
-"184","Cass","New/Former Resident",NA,"President","GRE","Jill Stein",0
-"185","Cass","Total",NA,"President","GRE","Jill Stein",132
-"186","Cass","Tipton",NA,"President","","Write-ins",19
-"187","Cass","McKelverly",NA,"President","","Write-ins",4
-"188","Cass","Salt Creek",NA,"President","","Write-ins",6
-"189","Cass","Stove Creek",NA,"President","","Write-ins",9
-"190","Cass","Murdock",NA,"President","","Write-ins",10
-"191","Cass","South Bend",NA,"President","","Write-ins",13
-"192","Cass","Center",NA,"President","","Write-ins",4
-"193","Cass","East Louisville",NA,"President","","Write-ins",6
-"194","Cass","West Louisville",NA,"President","","Write-ins",7
-"195","Cass","Avoca",NA,"President","","Write-ins",7
-"196","Cass","Mount Pleasant",NA,"President","","Write-ins",3
-"197","Cass","Eight Mile Grove",NA,"President","","Write-ins",8
-"198","Cass","Nehawka",NA,"President","","Write-ins",0
-"199","Cass","Liberty",NA,"President","","Write-ins",4
-"200","Cass","North Rock Bluff",NA,"President","","Write-ins",13
-"201","Cass","South Rock Bluff",NA,"President","","Write-ins",14
-"202","Cass","West Rock Bluff",NA,"President","","Write-ins",9
-"203","Cass","North Plattsmouth",NA,"President","","Write-ins",22
-"204","Cass","South Plattsmouth",NA,"President","","Write-ins",11
-"205","Cass","Weeping Water Ward 1",NA,"President","","Write-ins",6
-"206","Cass","Weeping Water Ward 2",NA,"President","","Write-ins",3
-"207","Cass","1st. Ward 1st. Precinct",NA,"President","","Write-ins",4
-"208","Cass","1st. Ward 2nd. Precinct",NA,"President","","Write-ins",2
-"209","Cass","2nd. Ward 1st. Precinct",NA,"President","","Write-ins",10
-"210","Cass","2nd. Ward 2nd. Precinct",NA,"President","","Write-ins",10
-"211","Cass","3rd. Ward 1st. Precinct",NA,"President","","Write-ins",4
-"212","Cass","3rd. Ward 2nd. Precinct",NA,"President","","Write-ins",7
-"213","Cass","4th. Ward 1st. Precinct",NA,"President","","Write-ins",7
-"214","Cass","4th. Ward 2nd. Precinct",NA,"President","","Write-ins",4
-"215","Cass","New/Former Resident",NA,"President","","Write-ins",0
-"216","Cass","Total",NA,"President","","Write-ins",226
-"217","Cass","Tipton",1,"U.S. House","REP","Jeff Fortenberry",784
-"218","Cass","McKelverly",1,"U.S. House","REP","Jeff Fortenberry",170
-"219","Cass","Salt Creek",1,"U.S. House","REP","Jeff Fortenberry",318
-"220","Cass","Stove Creek",1,"U.S. House","REP","Jeff Fortenberry",351
-"221","Cass","Murdock",1,"U.S. House","REP","Jeff Fortenberry",257
-"222","Cass","South Bend",1,"U.S. House","REP","Jeff Fortenberry",403
-"223","Cass","Center",1,"U.S. House","REP","Jeff Fortenberry",208
-"224","Cass","East Louisville",1,"U.S. House","REP","Jeff Fortenberry",294
-"225","Cass","West Louisville",1,"U.S. House","REP","Jeff Fortenberry",435
-"226","Cass","Avoca",1,"U.S. House","REP","Jeff Fortenberry",193
-"227","Cass","Mount Pleasant",1,"U.S. House","REP","Jeff Fortenberry",99
-"228","Cass","Eight Mile Grove",1,"U.S. House","REP","Jeff Fortenberry",420
-"229","Cass","Nehawka",1,"U.S. House","REP","Jeff Fortenberry",132
-"230","Cass","Liberty",1,"U.S. House","REP","Jeff Fortenberry",233
-"231","Cass","North Rock Bluff",1,"U.S. House","REP","Jeff Fortenberry",430
-"232","Cass","South Rock Bluff",1,"U.S. House","REP","Jeff Fortenberry",705
-"233","Cass","West Rock Bluff",1,"U.S. House","REP","Jeff Fortenberry",294
-"234","Cass","North Plattsmouth",1,"U.S. House","REP","Jeff Fortenberry",878
-"235","Cass","South Plattsmouth",1,"U.S. House","REP","Jeff Fortenberry",555
-"236","Cass","Weeping Water Ward 1",1,"U.S. House","REP","Jeff Fortenberry",204
-"237","Cass","Weeping Water Ward 2",1,"U.S. House","REP","Jeff Fortenberry",190
-"238","Cass","1st. Ward 1st. Precinct",1,"U.S. House","REP","Jeff Fortenberry",234
-"239","Cass","1st. Ward 2nd. Precinct",1,"U.S. House","REP","Jeff Fortenberry",237
-"240","Cass","2nd. Ward 1st. Precinct",1,"U.S. House","REP","Jeff Fortenberry",247
-"241","Cass","2nd. Ward 2nd. Precinct",1,"U.S. House","REP","Jeff Fortenberry",219
-"242","Cass","3rd. Ward 1st. Precinct",1,"U.S. House","REP","Jeff Fortenberry",242
-"243","Cass","3rd. Ward 2nd. Precinct",1,"U.S. House","REP","Jeff Fortenberry",191
-"244","Cass","4th. Ward 1st. Precinct",1,"U.S. House","REP","Jeff Fortenberry",169
-"245","Cass","4th. Ward 2nd. Precinct",1,"U.S. House","REP","Jeff Fortenberry",231
-"246","Cass","Total",1,"U.S. House","REP","Jeff Fortenberry",9323
-"247","Cass","Tipton",1,"U.S. House","DEM","Daniel M. Wik",253
-"248","Cass","McKelverly",1,"U.S. House","DEM","Daniel M. Wik",62
-"249","Cass","Salt Creek",1,"U.S. House","DEM","Daniel M. Wik",117
-"250","Cass","Stove Creek",1,"U.S. House","DEM","Daniel M. Wik",117
-"251","Cass","Murdock",1,"U.S. House","DEM","Daniel M. Wik",82
-"252","Cass","South Bend",1,"U.S. House","DEM","Daniel M. Wik",85
-"253","Cass","Center",1,"U.S. House","DEM","Daniel M. Wik",69
-"254","Cass","East Louisville",1,"U.S. House","DEM","Daniel M. Wik",111
-"255","Cass","West Louisville",1,"U.S. House","DEM","Daniel M. Wik",118
-"256","Cass","Avoca",1,"U.S. House","DEM","Daniel M. Wik",51
-"257","Cass","Mount Pleasant",1,"U.S. House","DEM","Daniel M. Wik",20
-"258","Cass","Eight Mile Grove",1,"U.S. House","DEM","Daniel M. Wik",129
-"259","Cass","Nehawka",1,"U.S. House","DEM","Daniel M. Wik",35
-"260","Cass","Liberty",1,"U.S. House","DEM","Daniel M. Wik",73
-"261","Cass","North Rock Bluff",1,"U.S. House","DEM","Daniel M. Wik",125
-"262","Cass","South Rock Bluff",1,"U.S. House","DEM","Daniel M. Wik",199
-"263","Cass","West Rock Bluff",1,"U.S. House","DEM","Daniel M. Wik",83
-"264","Cass","North Plattsmouth",1,"U.S. House","DEM","Daniel M. Wik",284
-"265","Cass","South Plattsmouth",1,"U.S. House","DEM","Daniel M. Wik",137
-"266","Cass","Weeping Water Ward 1",1,"U.S. House","DEM","Daniel M. Wik",73
-"267","Cass","Weeping Water Ward 2",1,"U.S. House","DEM","Daniel M. Wik",83
-"268","Cass","1st. Ward 1st. Precinct",1,"U.S. House","DEM","Daniel M. Wik",96
-"269","Cass","1st. Ward 2nd. Precinct",1,"U.S. House","DEM","Daniel M. Wik",78
-"270","Cass","2nd. Ward 1st. Precinct",1,"U.S. House","DEM","Daniel M. Wik",94
-"271","Cass","2nd. Ward 2nd. Precinct",1,"U.S. House","DEM","Daniel M. Wik",90
-"272","Cass","3rd. Ward 1st. Precinct",1,"U.S. House","DEM","Daniel M. Wik",75
-"273","Cass","3rd. Ward 2nd. Precinct",1,"U.S. House","DEM","Daniel M. Wik",79
-"274","Cass","4th. Ward 1st. Precinct",1,"U.S. House","DEM","Daniel M. Wik",65
-"275","Cass","4th. Ward 2nd. Precinct",1,"U.S. House","DEM","Daniel M. Wik",110
-"276","Cass","Total",1,"U.S. House","DEM","Daniel M. Wik",2993
-"277","Cass","Tipton",1,"U.S. House","","Write-ins",1
-"278","Cass","McKelverly",1,"U.S. House","","Write-ins",0
-"279","Cass","Salt Creek",1,"U.S. House","","Write-ins",0
-"280","Cass","Stove Creek",1,"U.S. House","","Write-ins",0
-"281","Cass","Murdock",1,"U.S. House","","Write-ins",0
-"282","Cass","South Bend",1,"U.S. House","","Write-ins",1
-"283","Cass","Center",1,"U.S. House","","Write-ins",2
-"284","Cass","East Louisville",1,"U.S. House","","Write-ins",1
-"285","Cass","West Louisville",1,"U.S. House","","Write-ins",1
-"286","Cass","Avoca",1,"U.S. House","","Write-ins",0
-"287","Cass","Mount Pleasant",1,"U.S. House","","Write-ins",0
-"288","Cass","Eight Mile Grove",1,"U.S. House","","Write-ins",2
-"289","Cass","Nehawka",1,"U.S. House","","Write-ins",0
-"290","Cass","Liberty",1,"U.S. House","","Write-ins",0
-"291","Cass","North Rock Bluff",1,"U.S. House","","Write-ins",0
-"292","Cass","South Rock Bluff",1,"U.S. House","","Write-ins",0
-"293","Cass","West Rock Bluff",1,"U.S. House","","Write-ins",0
-"294","Cass","North Plattsmouth",1,"U.S. House","","Write-ins",4
-"295","Cass","South Plattsmouth",1,"U.S. House","","Write-ins",3
-"296","Cass","Weeping Water Ward 1",1,"U.S. House","","Write-ins",0
-"297","Cass","Weeping Water Ward 2",1,"U.S. House","","Write-ins",2
-"298","Cass","1st. Ward 1st. Precinct",1,"U.S. House","","Write-ins",2
-"299","Cass","1st. Ward 2nd. Precinct",1,"U.S. House","","Write-ins",0
-"300","Cass","2nd. Ward 1st. Precinct",1,"U.S. House","","Write-ins",0
-"301","Cass","2nd. Ward 2nd. Precinct",1,"U.S. House","","Write-ins",0
-"302","Cass","3rd. Ward 1st. Precinct",1,"U.S. House","","Write-ins",1
-"303","Cass","3rd. Ward 2nd. Precinct",1,"U.S. House","","Write-ins",0
-"304","Cass","4th. Ward 1st. Precinct",1,"U.S. House","","Write-ins",1
-"305","Cass","4th. Ward 2nd. Precinct",1,"U.S. House","","Write-ins",0
-"306","Cass","Total",1,"U.S. House","","Write-ins",21
+"county","precinct","district","office","party","candidate","votes"
+"Cass","Tipton",NA,"Registered Voters","","",1448
+"Cass","McKelverly",NA,"Registered Voters","","",306
+"Cass","Salt Creek",NA,"Registered Voters","","",602
+"Cass","Stove Creek",NA,"Registered Voters","","",668
+"Cass","Murdock",NA,"Registered Voters","","",458
+"Cass","South Bend",NA,"Registered Voters","","",645
+"Cass","Center",NA,"Registered Voters","","",393
+"Cass","East Louisville",NA,"Registered Voters","","",568
+"Cass","West Louisville",NA,"Registered Voters","","",770
+"Cass","Avoca",NA,"Registered Voters","","",373
+"Cass","Mount Pleasant",NA,"Registered Voters","","",172
+"Cass","Eight Mile Grove",NA,"Registered Voters","","",714
+"Cass","Nehawka",NA,"Registered Voters","","",252
+"Cass","Liberty",NA,"Registered Voters","","",440
+"Cass","North Rock Bluff",NA,"Registered Voters","","",752
+"Cass","South Rock Bluff",NA,"Registered Voters","","",1213
+"Cass","West Rock Bluff",NA,"Registered Voters","","",503
+"Cass","North Plattsmouth",NA,"Registered Voters","","",1549
+"Cass","South Plattsmouth",NA,"Registered Voters","","",925
+"Cass","Weeping Water Ward 1",NA,"Registered Voters","","",384
+"Cass","Weeping Water Ward 2",NA,"Registered Voters","","",403
+"Cass","1st. Ward 1st. Precinct",NA,"Registered Voters","","",548
+"Cass","1st. Ward 2nd. Precinct",NA,"Registered Voters","","",492
+"Cass","2nd. Ward 1st. Precinct",NA,"Registered Voters","","",503
+"Cass","2nd. Ward 2nd. Precinct",NA,"Registered Voters","","",469
+"Cass","3rd. Ward 1st. Precinct",NA,"Registered Voters","","",509
+"Cass","3rd. Ward 2nd. Precinct",NA,"Registered Voters","","",479
+"Cass","4th. Ward 1st. Precinct",NA,"Registered Voters","","",413
+"Cass","4th. Ward 2nd. Precinct",NA,"Registered Voters","","",539
+"Cass","Total",NA,"Registered Voters","","",17490
+"Cass","Tipton",NA,"Ballots Cast","","",1102
+"Cass","McKelverly",NA,"Ballots Cast","","",240
+"Cass","Salt Creek",NA,"Ballots Cast","","",463
+"Cass","Stove Creek",NA,"Ballots Cast","","",501
+"Cass","Murdock",NA,"Ballots Cast","","",356
+"Cass","South Bend",NA,"Ballots Cast","","",519
+"Cass","Center",NA,"Ballots Cast","","",300
+"Cass","East Louisville",NA,"Ballots Cast","","",441
+"Cass","West Louisville",NA,"Ballots Cast","","",594
+"Cass","Avoca",NA,"Ballots Cast","","",258
+"Cass","Mount Pleasant",NA,"Ballots Cast","","",129
+"Cass","Eight Mile Grove",NA,"Ballots Cast","","",587
+"Cass","Nehawka",NA,"Ballots Cast","","",187
+"Cass","Liberty",NA,"Ballots Cast","","",323
+"Cass","North Rock Bluff",NA,"Ballots Cast","","",584
+"Cass","South Rock Bluff",NA,"Ballots Cast","","",937
+"Cass","West Rock Bluff",NA,"Ballots Cast","","",399
+"Cass","North Plattsmouth",NA,"Ballots Cast","","",1227
+"Cass","South Plattsmouth",NA,"Ballots Cast","","",731
+"Cass","Weeping Water Ward 1",NA,"Ballots Cast","","",296
+"Cass","Weeping Water Ward 2",NA,"Ballots Cast","","",292
+"Cass","1st. Ward 1st. Precinct",NA,"Ballots Cast","","",347
+"Cass","1st. Ward 2nd. Precinct",NA,"Ballots Cast","","",334
+"Cass","2nd. Ward 1st. Precinct",NA,"Ballots Cast","","",365
+"Cass","2nd. Ward 2nd. Precinct",NA,"Ballots Cast","","",329
+"Cass","3rd. Ward 1st. Precinct",NA,"Ballots Cast","","",341
+"Cass","3rd. Ward 2nd. Precinct",NA,"Ballots Cast","","",291
+"Cass","4th. Ward 1st. Precinct",NA,"Ballots Cast","","",259
+"Cass","4th. Ward 2nd. Precinct",NA,"Ballots Cast","","",361
+"Cass","New/Former Resident",NA,"Ballots Cast","","",4
+"Cass","Total",NA,"Ballots Cast","","",13097
+"Cass","Tipton",NA,"President","REP","Donald J. Trump",714
+"Cass","McKelverly",NA,"President","REP","Donald J. Trump",150
+"Cass","Salt Creek",NA,"President","REP","Donald J. Trump",292
+"Cass","Stove Creek",NA,"President","REP","Donald J. Trump",313
+"Cass","Murdock",NA,"President","REP","Donald J. Trump",224
+"Cass","South Bend",NA,"President","REP","Donald J. Trump",350
+"Cass","Center",NA,"President","REP","Donald J. Trump",199
+"Cass","East Louisville",NA,"President","REP","Donald J. Trump",267
+"Cass","West Louisville",NA,"President","REP","Donald J. Trump",405
+"Cass","Avoca",NA,"President","REP","Donald J. Trump",165
+"Cass","Mount Pleasant",NA,"President","REP","Donald J. Trump",87
+"Cass","Eight Mile Grove",NA,"President","REP","Donald J. Trump",395
+"Cass","Nehawka",NA,"President","REP","Donald J. Trump",125
+"Cass","Liberty",NA,"President","REP","Donald J. Trump",232
+"Cass","North Rock Bluff",NA,"President","REP","Donald J. Trump",389
+"Cass","South Rock Bluff",NA,"President","REP","Donald J. Trump",652
+"Cass","West Rock Bluff",NA,"President","REP","Donald J. Trump",258
+"Cass","North Plattsmouth",NA,"President","REP","Donald J. Trump",789
+"Cass","South Plattsmouth",NA,"President","REP","Donald J. Trump",503
+"Cass","Weeping Water Ward 1",NA,"President","REP","Donald J. Trump",169
+"Cass","Weeping Water Ward 2",NA,"President","REP","Donald J. Trump",167
+"Cass","1st. Ward 1st. Precinct",NA,"President","REP","Donald J. Trump",211
+"Cass","1st. Ward 2nd. Precinct",NA,"President","REP","Donald J. Trump",208
+"Cass","2nd. Ward 1st. Precinct",NA,"President","REP","Donald J. Trump",227
+"Cass","2nd. Ward 2nd. Precinct",NA,"President","REP","Donald J. Trump",198
+"Cass","3rd. Ward 1st. Precinct",NA,"President","REP","Donald J. Trump",214
+"Cass","3rd. Ward 2nd. Precinct",NA,"President","REP","Donald J. Trump",177
+"Cass","4th. Ward 1st. Precinct",NA,"President","REP","Donald J. Trump",149
+"Cass","4th. Ward 2nd. Precinct",NA,"President","REP","Donald J. Trump",220
+"Cass","New/Former Resident",NA,"President","REP","Donald J. Trump",3
+"Cass","Total",NA,"President","REP","Donald J. Trump",8452
+"Cass","Tipton",NA,"President","DEM","Hillary Clinton",309
+"Cass","McKelverly",NA,"President","DEM","Hillary Clinton",72
+"Cass","Salt Creek",NA,"President","DEM","Hillary Clinton",117
+"Cass","Stove Creek",NA,"President","DEM","Hillary Clinton",151
+"Cass","Murdock",NA,"President","DEM","Hillary Clinton",105
+"Cass","South Bend",NA,"President","DEM","Hillary Clinton",131
+"Cass","Center",NA,"President","DEM","Hillary Clinton",71
+"Cass","East Louisville",NA,"President","DEM","Hillary Clinton",139
+"Cass","West Louisville",NA,"President","DEM","Hillary Clinton",142
+"Cass","Avoca",NA,"President","DEM","Hillary Clinton",66
+"Cass","Mount Pleasant",NA,"President","DEM","Hillary Clinton",25
+"Cass","Eight Mile Grove",NA,"President","DEM","Hillary Clinton",139
+"Cass","Nehawka",NA,"President","DEM","Hillary Clinton",47
+"Cass","Liberty",NA,"President","DEM","Hillary Clinton",72
+"Cass","North Rock Bluff",NA,"President","DEM","Hillary Clinton",156
+"Cass","South Rock Bluff",NA,"President","DEM","Hillary Clinton",211
+"Cass","West Rock Bluff",NA,"President","DEM","Hillary Clinton",104
+"Cass","North Plattsmouth",NA,"President","DEM","Hillary Clinton",342
+"Cass","South Plattsmouth",NA,"President","DEM","Hillary Clinton",175
+"Cass","Weeping Water Ward 1",NA,"President","DEM","Hillary Clinton",96
+"Cass","Weeping Water Ward 2",NA,"President","DEM","Hillary Clinton",87
+"Cass","1st. Ward 1st. Precinct",NA,"President","DEM","Hillary Clinton",104
+"Cass","1st. Ward 2nd. Precinct",NA,"President","DEM","Hillary Clinton",98
+"Cass","2nd. Ward 1st. Precinct",NA,"President","DEM","Hillary Clinton",97
+"Cass","2nd. Ward 2nd. Precinct",NA,"President","DEM","Hillary Clinton",94
+"Cass","3rd. Ward 1st. Precinct",NA,"President","DEM","Hillary Clinton",84
+"Cass","3rd. Ward 2nd. Precinct",NA,"President","DEM","Hillary Clinton",77
+"Cass","4th. Ward 1st. Precinct",NA,"President","DEM","Hillary Clinton",70
+"Cass","4th. Ward 2nd. Precinct",NA,"President","DEM","Hillary Clinton",102
+"Cass","New/Former Resident",NA,"President","DEM","Hillary Clinton",1
+"Cass","Total",NA,"President","DEM","Hillary Clinton",3484
+"Cass","Tipton",NA,"President","LIB","Gary Johnson",49
+"Cass","McKelverly",NA,"President","LIB","Gary Johnson",10
+"Cass","Salt Creek",NA,"President","LIB","Gary Johnson",39
+"Cass","Stove Creek",NA,"President","LIB","Gary Johnson",19
+"Cass","Murdock",NA,"President","LIB","Gary Johnson",7
+"Cass","South Bend",NA,"President","LIB","Gary Johnson",15
+"Cass","Center",NA,"President","LIB","Gary Johnson",18
+"Cass","East Louisville",NA,"President","LIB","Gary Johnson",24
+"Cass","West Louisville",NA,"President","LIB","Gary Johnson",22
+"Cass","Avoca",NA,"President","LIB","Gary Johnson",18
+"Cass","Mount Pleasant",NA,"President","LIB","Gary Johnson",8
+"Cass","Eight Mile Grove",NA,"President","LIB","Gary Johnson",32
+"Cass","Nehawka",NA,"President","LIB","Gary Johnson",8
+"Cass","Liberty",NA,"President","LIB","Gary Johnson",10
+"Cass","North Rock Bluff",NA,"President","LIB","Gary Johnson",15
+"Cass","South Rock Bluff",NA,"President","LIB","Gary Johnson",40
+"Cass","West Rock Bluff",NA,"President","LIB","Gary Johnson",15
+"Cass","North Plattsmouth",NA,"President","LIB","Gary Johnson",42
+"Cass","South Plattsmouth",NA,"President","LIB","Gary Johnson",27
+"Cass","Weeping Water Ward 1",NA,"President","LIB","Gary Johnson",16
+"Cass","Weeping Water Ward 2",NA,"President","LIB","Gary Johnson",23
+"Cass","1st. Ward 1st. Precinct",NA,"President","LIB","Gary Johnson",19
+"Cass","1st. Ward 2nd. Precinct",NA,"President","LIB","Gary Johnson",15
+"Cass","2nd. Ward 1st. Precinct",NA,"President","LIB","Gary Johnson",23
+"Cass","2nd. Ward 2nd. Precinct",NA,"President","LIB","Gary Johnson",18
+"Cass","3rd. Ward 1st. Precinct",NA,"President","LIB","Gary Johnson",36
+"Cass","3rd. Ward 2nd. Precinct",NA,"President","LIB","Gary Johnson",24
+"Cass","4th. Ward 1st. Precinct",NA,"President","LIB","Gary Johnson",24
+"Cass","4th. Ward 2nd. Precinct",NA,"President","LIB","Gary Johnson",23
+"Cass","New/Former Resident",NA,"President","LIB","Gary Johnson",0
+"Cass","Total",NA,"President","LIB","Gary Johnson",639
+"Cass","Tipton",NA,"President","GRE","Jill Stein",5
+"Cass","McKelverly",NA,"President","GRE","Jill Stein",2
+"Cass","Salt Creek",NA,"President","GRE","Jill Stein",1
+"Cass","Stove Creek",NA,"President","GRE","Jill Stein",4
+"Cass","Murdock",NA,"President","GRE","Jill Stein",5
+"Cass","South Bend",NA,"President","GRE","Jill Stein",1
+"Cass","Center",NA,"President","GRE","Jill Stein",1
+"Cass","East Louisville",NA,"President","GRE","Jill Stein",0
+"Cass","West Louisville",NA,"President","GRE","Jill Stein",6
+"Cass","Avoca",NA,"President","GRE","Jill Stein",2
+"Cass","Mount Pleasant",NA,"President","GRE","Jill Stein",4
+"Cass","Eight Mile Grove",NA,"President","GRE","Jill Stein",6
+"Cass","Nehawka",NA,"President","GRE","Jill Stein",1
+"Cass","Liberty",NA,"President","GRE","Jill Stein",3
+"Cass","North Rock Bluff",NA,"President","GRE","Jill Stein",6
+"Cass","South Rock Bluff",NA,"President","GRE","Jill Stein",12
+"Cass","West Rock Bluff",NA,"President","GRE","Jill Stein",8
+"Cass","North Plattsmouth",NA,"President","GRE","Jill Stein",13
+"Cass","South Plattsmouth",NA,"President","GRE","Jill Stein",4
+"Cass","Weeping Water Ward 1",NA,"President","GRE","Jill Stein",4
+"Cass","Weeping Water Ward 2",NA,"President","GRE","Jill Stein",3
+"Cass","1st. Ward 1st. Precinct",NA,"President","GRE","Jill Stein",7
+"Cass","1st. Ward 2nd. Precinct",NA,"President","GRE","Jill Stein",5
+"Cass","2nd. Ward 1st. Precinct",NA,"President","GRE","Jill Stein",4
+"Cass","2nd. Ward 2nd. Precinct",NA,"President","GRE","Jill Stein",5
+"Cass","3rd. Ward 1st. Precinct",NA,"President","GRE","Jill Stein",2
+"Cass","3rd. Ward 2nd. Precinct",NA,"President","GRE","Jill Stein",4
+"Cass","4th. Ward 1st. Precinct",NA,"President","GRE","Jill Stein",6
+"Cass","4th. Ward 2nd. Precinct",NA,"President","GRE","Jill Stein",8
+"Cass","New/Former Resident",NA,"President","GRE","Jill Stein",0
+"Cass","Total",NA,"President","GRE","Jill Stein",132
+"Cass","Tipton",NA,"President","","Write-ins",19
+"Cass","McKelverly",NA,"President","","Write-ins",4
+"Cass","Salt Creek",NA,"President","","Write-ins",6
+"Cass","Stove Creek",NA,"President","","Write-ins",9
+"Cass","Murdock",NA,"President","","Write-ins",10
+"Cass","South Bend",NA,"President","","Write-ins",13
+"Cass","Center",NA,"President","","Write-ins",4
+"Cass","East Louisville",NA,"President","","Write-ins",6
+"Cass","West Louisville",NA,"President","","Write-ins",7
+"Cass","Avoca",NA,"President","","Write-ins",7
+"Cass","Mount Pleasant",NA,"President","","Write-ins",3
+"Cass","Eight Mile Grove",NA,"President","","Write-ins",8
+"Cass","Nehawka",NA,"President","","Write-ins",0
+"Cass","Liberty",NA,"President","","Write-ins",4
+"Cass","North Rock Bluff",NA,"President","","Write-ins",13
+"Cass","South Rock Bluff",NA,"President","","Write-ins",14
+"Cass","West Rock Bluff",NA,"President","","Write-ins",9
+"Cass","North Plattsmouth",NA,"President","","Write-ins",22
+"Cass","South Plattsmouth",NA,"President","","Write-ins",11
+"Cass","Weeping Water Ward 1",NA,"President","","Write-ins",6
+"Cass","Weeping Water Ward 2",NA,"President","","Write-ins",3
+"Cass","1st. Ward 1st. Precinct",NA,"President","","Write-ins",4
+"Cass","1st. Ward 2nd. Precinct",NA,"President","","Write-ins",2
+"Cass","2nd. Ward 1st. Precinct",NA,"President","","Write-ins",10
+"Cass","2nd. Ward 2nd. Precinct",NA,"President","","Write-ins",10
+"Cass","3rd. Ward 1st. Precinct",NA,"President","","Write-ins",4
+"Cass","3rd. Ward 2nd. Precinct",NA,"President","","Write-ins",7
+"Cass","4th. Ward 1st. Precinct",NA,"President","","Write-ins",7
+"Cass","4th. Ward 2nd. Precinct",NA,"President","","Write-ins",4
+"Cass","New/Former Resident",NA,"President","","Write-ins",0
+"Cass","Total",NA,"President","","Write-ins",226
+"Cass","Tipton",1,"U.S. House","REP","Jeff Fortenberry",784
+"Cass","McKelverly",1,"U.S. House","REP","Jeff Fortenberry",170
+"Cass","Salt Creek",1,"U.S. House","REP","Jeff Fortenberry",318
+"Cass","Stove Creek",1,"U.S. House","REP","Jeff Fortenberry",351
+"Cass","Murdock",1,"U.S. House","REP","Jeff Fortenberry",257
+"Cass","South Bend",1,"U.S. House","REP","Jeff Fortenberry",403
+"Cass","Center",1,"U.S. House","REP","Jeff Fortenberry",208
+"Cass","East Louisville",1,"U.S. House","REP","Jeff Fortenberry",294
+"Cass","West Louisville",1,"U.S. House","REP","Jeff Fortenberry",435
+"Cass","Avoca",1,"U.S. House","REP","Jeff Fortenberry",193
+"Cass","Mount Pleasant",1,"U.S. House","REP","Jeff Fortenberry",99
+"Cass","Eight Mile Grove",1,"U.S. House","REP","Jeff Fortenberry",420
+"Cass","Nehawka",1,"U.S. House","REP","Jeff Fortenberry",132
+"Cass","Liberty",1,"U.S. House","REP","Jeff Fortenberry",233
+"Cass","North Rock Bluff",1,"U.S. House","REP","Jeff Fortenberry",430
+"Cass","South Rock Bluff",1,"U.S. House","REP","Jeff Fortenberry",705
+"Cass","West Rock Bluff",1,"U.S. House","REP","Jeff Fortenberry",294
+"Cass","North Plattsmouth",1,"U.S. House","REP","Jeff Fortenberry",878
+"Cass","South Plattsmouth",1,"U.S. House","REP","Jeff Fortenberry",555
+"Cass","Weeping Water Ward 1",1,"U.S. House","REP","Jeff Fortenberry",204
+"Cass","Weeping Water Ward 2",1,"U.S. House","REP","Jeff Fortenberry",190
+"Cass","1st. Ward 1st. Precinct",1,"U.S. House","REP","Jeff Fortenberry",234
+"Cass","1st. Ward 2nd. Precinct",1,"U.S. House","REP","Jeff Fortenberry",237
+"Cass","2nd. Ward 1st. Precinct",1,"U.S. House","REP","Jeff Fortenberry",247
+"Cass","2nd. Ward 2nd. Precinct",1,"U.S. House","REP","Jeff Fortenberry",219
+"Cass","3rd. Ward 1st. Precinct",1,"U.S. House","REP","Jeff Fortenberry",242
+"Cass","3rd. Ward 2nd. Precinct",1,"U.S. House","REP","Jeff Fortenberry",191
+"Cass","4th. Ward 1st. Precinct",1,"U.S. House","REP","Jeff Fortenberry",169
+"Cass","4th. Ward 2nd. Precinct",1,"U.S. House","REP","Jeff Fortenberry",231
+"Cass","Total",1,"U.S. House","REP","Jeff Fortenberry",9323
+"Cass","Tipton",1,"U.S. House","DEM","Daniel M. Wik",253
+"Cass","McKelverly",1,"U.S. House","DEM","Daniel M. Wik",62
+"Cass","Salt Creek",1,"U.S. House","DEM","Daniel M. Wik",117
+"Cass","Stove Creek",1,"U.S. House","DEM","Daniel M. Wik",117
+"Cass","Murdock",1,"U.S. House","DEM","Daniel M. Wik",82
+"Cass","South Bend",1,"U.S. House","DEM","Daniel M. Wik",85
+"Cass","Center",1,"U.S. House","DEM","Daniel M. Wik",69
+"Cass","East Louisville",1,"U.S. House","DEM","Daniel M. Wik",111
+"Cass","West Louisville",1,"U.S. House","DEM","Daniel M. Wik",118
+"Cass","Avoca",1,"U.S. House","DEM","Daniel M. Wik",51
+"Cass","Mount Pleasant",1,"U.S. House","DEM","Daniel M. Wik",20
+"Cass","Eight Mile Grove",1,"U.S. House","DEM","Daniel M. Wik",129
+"Cass","Nehawka",1,"U.S. House","DEM","Daniel M. Wik",35
+"Cass","Liberty",1,"U.S. House","DEM","Daniel M. Wik",73
+"Cass","North Rock Bluff",1,"U.S. House","DEM","Daniel M. Wik",125
+"Cass","South Rock Bluff",1,"U.S. House","DEM","Daniel M. Wik",199
+"Cass","West Rock Bluff",1,"U.S. House","DEM","Daniel M. Wik",83
+"Cass","North Plattsmouth",1,"U.S. House","DEM","Daniel M. Wik",284
+"Cass","South Plattsmouth",1,"U.S. House","DEM","Daniel M. Wik",137
+"Cass","Weeping Water Ward 1",1,"U.S. House","DEM","Daniel M. Wik",73
+"Cass","Weeping Water Ward 2",1,"U.S. House","DEM","Daniel M. Wik",83
+"Cass","1st. Ward 1st. Precinct",1,"U.S. House","DEM","Daniel M. Wik",96
+"Cass","1st. Ward 2nd. Precinct",1,"U.S. House","DEM","Daniel M. Wik",78
+"Cass","2nd. Ward 1st. Precinct",1,"U.S. House","DEM","Daniel M. Wik",94
+"Cass","2nd. Ward 2nd. Precinct",1,"U.S. House","DEM","Daniel M. Wik",90
+"Cass","3rd. Ward 1st. Precinct",1,"U.S. House","DEM","Daniel M. Wik",75
+"Cass","3rd. Ward 2nd. Precinct",1,"U.S. House","DEM","Daniel M. Wik",79
+"Cass","4th. Ward 1st. Precinct",1,"U.S. House","DEM","Daniel M. Wik",65
+"Cass","4th. Ward 2nd. Precinct",1,"U.S. House","DEM","Daniel M. Wik",110
+"Cass","Total",1,"U.S. House","DEM","Daniel M. Wik",2993
+"Cass","Tipton",1,"U.S. House","","Write-ins",1
+"Cass","McKelverly",1,"U.S. House","","Write-ins",0
+"Cass","Salt Creek",1,"U.S. House","","Write-ins",0
+"Cass","Stove Creek",1,"U.S. House","","Write-ins",0
+"Cass","Murdock",1,"U.S. House","","Write-ins",0
+"Cass","South Bend",1,"U.S. House","","Write-ins",1
+"Cass","Center",1,"U.S. House","","Write-ins",2
+"Cass","East Louisville",1,"U.S. House","","Write-ins",1
+"Cass","West Louisville",1,"U.S. House","","Write-ins",1
+"Cass","Avoca",1,"U.S. House","","Write-ins",0
+"Cass","Mount Pleasant",1,"U.S. House","","Write-ins",0
+"Cass","Eight Mile Grove",1,"U.S. House","","Write-ins",2
+"Cass","Nehawka",1,"U.S. House","","Write-ins",0
+"Cass","Liberty",1,"U.S. House","","Write-ins",0
+"Cass","North Rock Bluff",1,"U.S. House","","Write-ins",0
+"Cass","South Rock Bluff",1,"U.S. House","","Write-ins",0
+"Cass","West Rock Bluff",1,"U.S. House","","Write-ins",0
+"Cass","North Plattsmouth",1,"U.S. House","","Write-ins",4
+"Cass","South Plattsmouth",1,"U.S. House","","Write-ins",3
+"Cass","Weeping Water Ward 1",1,"U.S. House","","Write-ins",0
+"Cass","Weeping Water Ward 2",1,"U.S. House","","Write-ins",2
+"Cass","1st. Ward 1st. Precinct",1,"U.S. House","","Write-ins",2
+"Cass","1st. Ward 2nd. Precinct",1,"U.S. House","","Write-ins",0
+"Cass","2nd. Ward 1st. Precinct",1,"U.S. House","","Write-ins",0
+"Cass","2nd. Ward 2nd. Precinct",1,"U.S. House","","Write-ins",0
+"Cass","3rd. Ward 1st. Precinct",1,"U.S. House","","Write-ins",1
+"Cass","3rd. Ward 2nd. Precinct",1,"U.S. House","","Write-ins",0
+"Cass","4th. Ward 1st. Precinct",1,"U.S. House","","Write-ins",1
+"Cass","4th. Ward 2nd. Precinct",1,"U.S. House","","Write-ins",0
+"Cass","Total",1,"U.S. House","","Write-ins",21

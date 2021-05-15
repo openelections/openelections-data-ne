@@ -1,91 +1,91 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Pawnee","Pawnee 1",NA,"President","REP","Donald J. Trump",239
-"2","Pawnee","Pawnee 1-Absentee",NA,"President","REP","Donald J. Trump",48
-"3","Pawnee","Pawnee 2",NA,"President","REP","Donald J. Trump",218
-"4","Pawnee","Pawnee 2-Absentee",NA,"President","REP","Donald J. Trump",31
-"5","Pawnee","Burchard",NA,"President","REP","Donald J. Trump",160
-"6","Pawnee","Burchard-Absentee",NA,"President","REP","Donald J. Trump",27
-"7","Pawnee","Table Rock",NA,"President","REP","Donald J. Trump",167
-"8","Pawnee","Table Rock-Absentee",NA,"President","REP","Donald J. Trump",17
-"9","Pawnee","Steinauer",NA,"President","REP","Donald J. Trump",186
-"10","Pawnee","Steinauer-Absentee",NA,"President","REP","Donald J. Trump",25
-"11","Pawnee","Pawnee 1",NA,"President","DEM","Hillary Clinton",93
-"12","Pawnee","Pawnee 1-Absentee",NA,"President","DEM","Hillary Clinton",27
-"13","Pawnee","Pawnee 2",NA,"President","DEM","Hillary Clinton",81
-"14","Pawnee","Pawnee 2-Absentee",NA,"President","DEM","Hillary Clinton",11
-"15","Pawnee","Burchard",NA,"President","DEM","Hillary Clinton",24
-"16","Pawnee","Burchard-Absentee",NA,"President","DEM","Hillary Clinton",3
-"17","Pawnee","Table Rock",NA,"President","DEM","Hillary Clinton",29
-"18","Pawnee","Table Rock-Absentee",NA,"President","DEM","Hillary Clinton",4
-"19","Pawnee","Steinauer",NA,"President","DEM","Hillary Clinton",52
-"20","Pawnee","Steinauer-Absentee",NA,"President","DEM","Hillary Clinton",13
-"21","Pawnee","Pawnee 1",NA,"President","LIB","Johnson/Weld",19
-"22","Pawnee","Pawnee 1-Absentee",NA,"President","LIB","Johnson/Weld",6
-"23","Pawnee","Pawnee 2",NA,"President","LIB","Johnson/Weld",14
-"24","Pawnee","Pawnee 2-Absentee",NA,"President","LIB","Johnson/Weld",3
-"25","Pawnee","Burchard",NA,"President","LIB","Johnson/Weld",6
-"26","Pawnee","Burchard-Absentee",NA,"President","LIB","Johnson/Weld",1
-"27","Pawnee","Table Rock",NA,"President","LIB","Johnson/Weld",8
-"28","Pawnee","Table Rock-Absentee",NA,"President","LIB","Johnson/Weld",2
-"29","Pawnee","Steinauer",NA,"President","LIB","Johnson/Weld",8
-"30","Pawnee","Steinauer-Absentee",NA,"President","LIB","Johnson/Weld",1
-"31","Pawnee","Pawnee 1",NA,"President","PET","Jill Stein",5
-"32","Pawnee","Pawnee 1-Absentee",NA,"President","PET","Jill Stein",1
-"33","Pawnee","Pawnee 2",NA,"President","PET","Jill Stein",2
-"34","Pawnee","Pawnee 2-Absentee",NA,"President","PET","Jill Stein",0
-"35","Pawnee","Burchard",NA,"President","PET","Jill Stein",0
-"36","Pawnee","Burchard-Absentee",NA,"President","PET","Jill Stein",0
-"37","Pawnee","Table Rock",NA,"President","PET","Jill Stein",2
-"38","Pawnee","Table Rock-Absentee",NA,"President","PET","Jill Stein",0
-"39","Pawnee","Steinauer",NA,"President","PET","Jill Stein",1
-"40","Pawnee","Steinauer-Absentee",NA,"President","PET","Jill Stein",1
-"41","Pawnee","Pawnee 1",NA,"President",NA,"Write-ins",3
-"42","Pawnee","Pawnee 1-Absentee",NA,"President",NA,"Write-ins",2
-"43","Pawnee","Pawnee 2",NA,"President",NA,"Write-ins",2
-"44","Pawnee","Pawnee 2-Absentee",NA,"President",NA,"Write-ins",0
-"45","Pawnee","Burchard",NA,"President",NA,"Write-ins",0
-"46","Pawnee","Burchard-Absentee",NA,"President",NA,"Write-ins",0
-"47","Pawnee","Table Rock",NA,"President",NA,"Write-ins",0
-"48","Pawnee","Table Rock-Absentee",NA,"President",NA,"Write-ins",0
-"49","Pawnee","Steinauer",NA,"President",NA,"Write-ins",4
-"50","Pawnee","Steinauer-Absentee",NA,"President",NA,"Write-ins",3
-"51","Pawnee","Pawnee 1",3,"U.S. House","REP","Adrian Smith",290
-"52","Pawnee","Pawnee 1-Absentee",3,"U.S. House","REP","Adrian Smith",56
-"53","Pawnee","Pawnee 2",3,"U.S. House","REP","Adrian Smith",264
-"54","Pawnee","Pawnee 2-Absentee",3,"U.S. House","REP","Adrian Smith",42
-"55","Pawnee","Burchard",3,"U.S. House","REP","Adrian Smith",169
-"56","Pawnee","Burchard-Absentee",3,"U.S. House","REP","Adrian Smith",28
-"57","Pawnee","Table Rock",3,"U.S. House","REP","Adrian Smith",175
-"58","Pawnee","Table Rock-Absentee",3,"U.S. House","REP","Adrian Smith",20
-"59","Pawnee","Steinauer",3,"U.S. House","REP","Adrian Smith",210
-"60","Pawnee","Steinauer-Absentee",3,"U.S. House","REP","Adrian Smith",37
-"61","Pawnee","Pawnee 1",3,"U.S. House",NA,"Write-ins",1
-"62","Pawnee","Pawnee 1-Absentee",3,"U.S. House",NA,"Write-ins",0
-"63","Pawnee","Pawnee 2",3,"U.S. House",NA,"Write-ins",6
-"64","Pawnee","Pawnee 2-Absentee",3,"U.S. House",NA,"Write-ins",0
-"65","Pawnee","Burchard",3,"U.S. House",NA,"Write-ins",1
-"66","Pawnee","Burchard-Absentee",3,"U.S. House",NA,"Write-ins",0
-"67","Pawnee","Table Rock",3,"U.S. House",NA,"Write-ins",4
-"68","Pawnee","Table Rock-Absentee",3,"U.S. House",NA,"Write-ins",2
-"69","Pawnee","Steinauer",3,"U.S. House",NA,"Write-ins",5
-"70","Pawnee","Steinauer-Absentee",3,"U.S. House",NA,"Write-ins",1
-"71","Pawnee","Pawnee 1",NA,"State Legislature",NA,"Dan Watermeier",292
-"72","Pawnee","Pawnee 1-Absentee",NA,"State Legislature",NA,"Dan Watermeier",64
-"73","Pawnee","Pawnee 2",NA,"State Legislature",NA,"Dan Watermeier",261
-"74","Pawnee","Pawnee 2-Absentee",NA,"State Legislature",NA,"Dan Watermeier",37
-"75","Pawnee","Burchard",NA,"State Legislature",NA,"Dan Watermeier",164
-"76","Pawnee","Burchard-Absentee",NA,"State Legislature",NA,"Dan Watermeier",27
-"77","Pawnee","Table Rock",NA,"State Legislature",NA,"Dan Watermeier",168
-"78","Pawnee","Table Rock-Absentee",NA,"State Legislature",NA,"Dan Watermeier",19
-"79","Pawnee","Steinauer",NA,"State Legislature",NA,"Dan Watermeier",211
-"80","Pawnee","Steinauer-Absentee",NA,"State Legislature",NA,"Dan Watermeier",35
-"81","Pawnee","Pawnee 1",NA,"State Legislature",NA,"Write-ins",3
-"82","Pawnee","Pawnee 1-Absentee",NA,"State Legislature",NA,"Write-ins",0
-"83","Pawnee","Pawnee 2",NA,"State Legislature",NA,"Write-ins",3
-"84","Pawnee","Pawnee 2-Absentee",NA,"State Legislature",NA,"Write-ins",0
-"85","Pawnee","Burchard",NA,"State Legislature",NA,"Write-ins",0
-"86","Pawnee","Burchard-Absentee",NA,"State Legislature",NA,"Write-ins",0
-"87","Pawnee","Table Rock",NA,"State Legislature",NA,"Write-ins",2
-"88","Pawnee","Table Rock-Absentee",NA,"State Legislature",NA,"Write-ins",1
-"89","Pawnee","Steinauer",NA,"State Legislature",NA,"Write-ins",1
-"90","Pawnee","Steinauer-Absentee",NA,"State Legislature",NA,"Write-ins",1
+"county","precinct","district","office","party","candidate","votes"
+"Pawnee","Pawnee 1",NA,"President","REP","Donald J. Trump",239
+"Pawnee","Pawnee 1-Absentee",NA,"President","REP","Donald J. Trump",48
+"Pawnee","Pawnee 2",NA,"President","REP","Donald J. Trump",218
+"Pawnee","Pawnee 2-Absentee",NA,"President","REP","Donald J. Trump",31
+"Pawnee","Burchard",NA,"President","REP","Donald J. Trump",160
+"Pawnee","Burchard-Absentee",NA,"President","REP","Donald J. Trump",27
+"Pawnee","Table Rock",NA,"President","REP","Donald J. Trump",167
+"Pawnee","Table Rock-Absentee",NA,"President","REP","Donald J. Trump",17
+"Pawnee","Steinauer",NA,"President","REP","Donald J. Trump",186
+"Pawnee","Steinauer-Absentee",NA,"President","REP","Donald J. Trump",25
+"Pawnee","Pawnee 1",NA,"President","DEM","Hillary Clinton",93
+"Pawnee","Pawnee 1-Absentee",NA,"President","DEM","Hillary Clinton",27
+"Pawnee","Pawnee 2",NA,"President","DEM","Hillary Clinton",81
+"Pawnee","Pawnee 2-Absentee",NA,"President","DEM","Hillary Clinton",11
+"Pawnee","Burchard",NA,"President","DEM","Hillary Clinton",24
+"Pawnee","Burchard-Absentee",NA,"President","DEM","Hillary Clinton",3
+"Pawnee","Table Rock",NA,"President","DEM","Hillary Clinton",29
+"Pawnee","Table Rock-Absentee",NA,"President","DEM","Hillary Clinton",4
+"Pawnee","Steinauer",NA,"President","DEM","Hillary Clinton",52
+"Pawnee","Steinauer-Absentee",NA,"President","DEM","Hillary Clinton",13
+"Pawnee","Pawnee 1",NA,"President","LIB","Johnson/Weld",19
+"Pawnee","Pawnee 1-Absentee",NA,"President","LIB","Johnson/Weld",6
+"Pawnee","Pawnee 2",NA,"President","LIB","Johnson/Weld",14
+"Pawnee","Pawnee 2-Absentee",NA,"President","LIB","Johnson/Weld",3
+"Pawnee","Burchard",NA,"President","LIB","Johnson/Weld",6
+"Pawnee","Burchard-Absentee",NA,"President","LIB","Johnson/Weld",1
+"Pawnee","Table Rock",NA,"President","LIB","Johnson/Weld",8
+"Pawnee","Table Rock-Absentee",NA,"President","LIB","Johnson/Weld",2
+"Pawnee","Steinauer",NA,"President","LIB","Johnson/Weld",8
+"Pawnee","Steinauer-Absentee",NA,"President","LIB","Johnson/Weld",1
+"Pawnee","Pawnee 1",NA,"President","PET","Jill Stein",5
+"Pawnee","Pawnee 1-Absentee",NA,"President","PET","Jill Stein",1
+"Pawnee","Pawnee 2",NA,"President","PET","Jill Stein",2
+"Pawnee","Pawnee 2-Absentee",NA,"President","PET","Jill Stein",0
+"Pawnee","Burchard",NA,"President","PET","Jill Stein",0
+"Pawnee","Burchard-Absentee",NA,"President","PET","Jill Stein",0
+"Pawnee","Table Rock",NA,"President","PET","Jill Stein",2
+"Pawnee","Table Rock-Absentee",NA,"President","PET","Jill Stein",0
+"Pawnee","Steinauer",NA,"President","PET","Jill Stein",1
+"Pawnee","Steinauer-Absentee",NA,"President","PET","Jill Stein",1
+"Pawnee","Pawnee 1",NA,"President",NA,"Write-ins",3
+"Pawnee","Pawnee 1-Absentee",NA,"President",NA,"Write-ins",2
+"Pawnee","Pawnee 2",NA,"President",NA,"Write-ins",2
+"Pawnee","Pawnee 2-Absentee",NA,"President",NA,"Write-ins",0
+"Pawnee","Burchard",NA,"President",NA,"Write-ins",0
+"Pawnee","Burchard-Absentee",NA,"President",NA,"Write-ins",0
+"Pawnee","Table Rock",NA,"President",NA,"Write-ins",0
+"Pawnee","Table Rock-Absentee",NA,"President",NA,"Write-ins",0
+"Pawnee","Steinauer",NA,"President",NA,"Write-ins",4
+"Pawnee","Steinauer-Absentee",NA,"President",NA,"Write-ins",3
+"Pawnee","Pawnee 1",3,"U.S. House","REP","Adrian Smith",290
+"Pawnee","Pawnee 1-Absentee",3,"U.S. House","REP","Adrian Smith",56
+"Pawnee","Pawnee 2",3,"U.S. House","REP","Adrian Smith",264
+"Pawnee","Pawnee 2-Absentee",3,"U.S. House","REP","Adrian Smith",42
+"Pawnee","Burchard",3,"U.S. House","REP","Adrian Smith",169
+"Pawnee","Burchard-Absentee",3,"U.S. House","REP","Adrian Smith",28
+"Pawnee","Table Rock",3,"U.S. House","REP","Adrian Smith",175
+"Pawnee","Table Rock-Absentee",3,"U.S. House","REP","Adrian Smith",20
+"Pawnee","Steinauer",3,"U.S. House","REP","Adrian Smith",210
+"Pawnee","Steinauer-Absentee",3,"U.S. House","REP","Adrian Smith",37
+"Pawnee","Pawnee 1",3,"U.S. House",NA,"Write-ins",1
+"Pawnee","Pawnee 1-Absentee",3,"U.S. House",NA,"Write-ins",0
+"Pawnee","Pawnee 2",3,"U.S. House",NA,"Write-ins",6
+"Pawnee","Pawnee 2-Absentee",3,"U.S. House",NA,"Write-ins",0
+"Pawnee","Burchard",3,"U.S. House",NA,"Write-ins",1
+"Pawnee","Burchard-Absentee",3,"U.S. House",NA,"Write-ins",0
+"Pawnee","Table Rock",3,"U.S. House",NA,"Write-ins",4
+"Pawnee","Table Rock-Absentee",3,"U.S. House",NA,"Write-ins",2
+"Pawnee","Steinauer",3,"U.S. House",NA,"Write-ins",5
+"Pawnee","Steinauer-Absentee",3,"U.S. House",NA,"Write-ins",1
+"Pawnee","Pawnee 1",NA,"State Legislature",NA,"Dan Watermeier",292
+"Pawnee","Pawnee 1-Absentee",NA,"State Legislature",NA,"Dan Watermeier",64
+"Pawnee","Pawnee 2",NA,"State Legislature",NA,"Dan Watermeier",261
+"Pawnee","Pawnee 2-Absentee",NA,"State Legislature",NA,"Dan Watermeier",37
+"Pawnee","Burchard",NA,"State Legislature",NA,"Dan Watermeier",164
+"Pawnee","Burchard-Absentee",NA,"State Legislature",NA,"Dan Watermeier",27
+"Pawnee","Table Rock",NA,"State Legislature",NA,"Dan Watermeier",168
+"Pawnee","Table Rock-Absentee",NA,"State Legislature",NA,"Dan Watermeier",19
+"Pawnee","Steinauer",NA,"State Legislature",NA,"Dan Watermeier",211
+"Pawnee","Steinauer-Absentee",NA,"State Legislature",NA,"Dan Watermeier",35
+"Pawnee","Pawnee 1",NA,"State Legislature",NA,"Write-ins",3
+"Pawnee","Pawnee 1-Absentee",NA,"State Legislature",NA,"Write-ins",0
+"Pawnee","Pawnee 2",NA,"State Legislature",NA,"Write-ins",3
+"Pawnee","Pawnee 2-Absentee",NA,"State Legislature",NA,"Write-ins",0
+"Pawnee","Burchard",NA,"State Legislature",NA,"Write-ins",0
+"Pawnee","Burchard-Absentee",NA,"State Legislature",NA,"Write-ins",0
+"Pawnee","Table Rock",NA,"State Legislature",NA,"Write-ins",2
+"Pawnee","Table Rock-Absentee",NA,"State Legislature",NA,"Write-ins",1
+"Pawnee","Steinauer",NA,"State Legislature",NA,"Write-ins",1
+"Pawnee","Steinauer-Absentee",NA,"State Legislature",NA,"Write-ins",1

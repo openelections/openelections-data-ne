@@ -1,41 +1,41 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Deuel","Early",NA,"President","REP","Donald J. Trump",147
-"2","Deuel","Chappell",NA,"President","REP","Donald J. Trump",216
-"3","Deuel","Swan",NA,"President","REP","Donald J. Trump",223
-"4","Deuel","Big Springs",NA,"President","REP","Donald J. Trump",223
-"5","Deuel","Total",NA,"President","REP","Donald J. Trump",809
-"6","Deuel","Early",NA,"President","DEM","Hillary Clinton",17
-"7","Deuel","Chappell",NA,"President","DEM","Hillary Clinton",48
-"8","Deuel","Swan",NA,"President","DEM","Hillary Clinton",26
-"9","Deuel","Big Springs",NA,"President","DEM","Hillary Clinton",29
-"10","Deuel","Total",NA,"President","DEM","Hillary Clinton",120
-"11","Deuel","Early",NA,"President","LIB","Gary Johnson",8
-"12","Deuel","Chappell",NA,"President","LIB","Gary Johnson",7
-"13","Deuel","Swan",NA,"President","LIB","Gary Johnson",12
-"14","Deuel","Big Springs",NA,"President","LIB","Gary Johnson",20
-"15","Deuel","Total",NA,"President","LIB","Gary Johnson",47
-"16","Deuel","Early",NA,"President","","Jill Stein",0
-"17","Deuel","Chappell",NA,"President","","Jill Stein",1
-"18","Deuel","Swan",NA,"President","","Jill Stein",0
-"19","Deuel","Big Springs",NA,"President","","Jill Stein",0
-"20","Deuel","Total",NA,"President","","Jill Stein",1
-"21","Deuel","Early",NA,"President","","Write-ins",1
-"22","Deuel","Chappell",NA,"President","","Write-ins",1
-"23","Deuel","Swan",NA,"President","","Write-ins",2
-"24","Deuel","Big Springs",NA,"President","","Write-ins",3
-"25","Deuel","Total",NA,"President","","Write-ins",7
-"26","Deuel","Early",3,"U.S. House","REP","Adrian Smith",149
-"27","Deuel","Chappell",3,"U.S. House","REP","Adrian Smith",239
-"28","Deuel","Swan",3,"U.S. House","REP","Adrian Smith",239
-"29","Deuel","Big Springs",3,"U.S. House","REP","Adrian Smith",249
-"30","Deuel","Total",3,"U.S. House","REP","Adrian Smith",876
-"31","Deuel","Early",47,"State Legislature","","Karl Elmshaeuser",31
-"32","Deuel","Chappell",47,"State Legislature","","Karl Elmshaeuser",75
-"33","Deuel","Swan",47,"State Legislature","","Karl Elmshaeuser",65
-"34","Deuel","Big Springs",47,"State Legislature","","Karl Elmshaeuser",65
-"35","Deuel","Total",47,"State Legislature","","Karl Elmshaeuser",236
-"36","Deuel","Early",47,"State Legislature","","Steve Erdman",127
-"37","Deuel","Chappell",47,"State Legislature","","Steve Erdman",178
-"38","Deuel","Swan",47,"State Legislature","","Steve Erdman",189
-"39","Deuel","Big Springs",47,"State Legislature","","Steve Erdman",197
-"40","Deuel","Total",47,"State Legislature","","Steve Erdman",691
+"county","precinct","district","office","party","candidate","votes"
+"Deuel","Early",NA,"President","REP","Donald J. Trump",147
+"Deuel","Chappell",NA,"President","REP","Donald J. Trump",216
+"Deuel","Swan",NA,"President","REP","Donald J. Trump",223
+"Deuel","Big Springs",NA,"President","REP","Donald J. Trump",223
+"Deuel","Total",NA,"President","REP","Donald J. Trump",809
+"Deuel","Early",NA,"President","DEM","Hillary Clinton",17
+"Deuel","Chappell",NA,"President","DEM","Hillary Clinton",48
+"Deuel","Swan",NA,"President","DEM","Hillary Clinton",26
+"Deuel","Big Springs",NA,"President","DEM","Hillary Clinton",29
+"Deuel","Total",NA,"President","DEM","Hillary Clinton",120
+"Deuel","Early",NA,"President","LIB","Gary Johnson",8
+"Deuel","Chappell",NA,"President","LIB","Gary Johnson",7
+"Deuel","Swan",NA,"President","LIB","Gary Johnson",12
+"Deuel","Big Springs",NA,"President","LIB","Gary Johnson",20
+"Deuel","Total",NA,"President","LIB","Gary Johnson",47
+"Deuel","Early",NA,"President","","Jill Stein",0
+"Deuel","Chappell",NA,"President","","Jill Stein",1
+"Deuel","Swan",NA,"President","","Jill Stein",0
+"Deuel","Big Springs",NA,"President","","Jill Stein",0
+"Deuel","Total",NA,"President","","Jill Stein",1
+"Deuel","Early",NA,"President","","Write-ins",1
+"Deuel","Chappell",NA,"President","","Write-ins",1
+"Deuel","Swan",NA,"President","","Write-ins",2
+"Deuel","Big Springs",NA,"President","","Write-ins",3
+"Deuel","Total",NA,"President","","Write-ins",7
+"Deuel","Early",3,"U.S. House","REP","Adrian Smith",149
+"Deuel","Chappell",3,"U.S. House","REP","Adrian Smith",239
+"Deuel","Swan",3,"U.S. House","REP","Adrian Smith",239
+"Deuel","Big Springs",3,"U.S. House","REP","Adrian Smith",249
+"Deuel","Total",3,"U.S. House","REP","Adrian Smith",876
+"Deuel","Early",47,"State Legislature","","Karl Elmshaeuser",31
+"Deuel","Chappell",47,"State Legislature","","Karl Elmshaeuser",75
+"Deuel","Swan",47,"State Legislature","","Karl Elmshaeuser",65
+"Deuel","Big Springs",47,"State Legislature","","Karl Elmshaeuser",65
+"Deuel","Total",47,"State Legislature","","Karl Elmshaeuser",236
+"Deuel","Early",47,"State Legislature","","Steve Erdman",127
+"Deuel","Chappell",47,"State Legislature","","Steve Erdman",178
+"Deuel","Swan",47,"State Legislature","","Steve Erdman",189
+"Deuel","Big Springs",47,"State Legislature","","Steve Erdman",197
+"Deuel","Total",47,"State Legislature","","Steve Erdman",691

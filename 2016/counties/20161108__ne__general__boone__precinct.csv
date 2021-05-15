@@ -1,82 +1,82 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Boone",1,NA,"President","REP","Donald J. Trump",129
-"2","Boone",1,NA,"President","DEM","Hillary Clinton",8
-"3","Boone",1,NA,"President","LIB","Gary Johnson",5
-"4","Boone",1,NA,"President","GRE","Jill Stein",0
-"5","Boone",1,NA,"President","","Write-ins",3
-"6","Boone",1,3,"U.S. House","REP","Adrian Smith",131
-"7","Boone",1,3,"U.S. House","","Write-ins",0
-"8","Boone",1,41,"State Legislature","","Tom Briese",137
-"9","Boone",1,41,"State Legislature","","Write-ins",1
-"10","Boone",2,NA,"President","REP","Donald J. Trump",276
-"11","Boone",2,NA,"President","DEM","Hillary Clinton",36
-"12","Boone",2,NA,"President","LIB","Gary Johnson",13
-"13","Boone",2,NA,"President","GRE","Jill Stein",0
-"14","Boone",2,NA,"President","","Write-ins",0
-"15","Boone",2,3,"U.S. House","REP","Adrian Smith",283
-"16","Boone",2,3,"U.S. House","","Write-ins",2
-"17","Boone",2,41,"State Legislature","","Tom Briese",280
-"18","Boone",2,41,"State Legislature","","Write-ins",1
-"19","Boone",3,NA,"President","REP","Donald J. Trump",236
-"20","Boone",3,NA,"President","DEM","Hillary Clinton",82
-"21","Boone",3,NA,"President","LIB","Gary Johnson",19
-"22","Boone",3,NA,"President","GRE","Jill Stein",5
-"23","Boone",3,NA,"President","","Write-ins",6
-"24","Boone",3,3,"U.S. House","REP","Adrian Smith",267
-"25","Boone",3,3,"U.S. House","","Write-ins",5
-"26","Boone",3,41,"State Legislature","","Tom Briese",270
-"27","Boone",3,41,"State Legislature","","Write-ins",2
-"28","Boone",4,NA,"President","REP","Donald J. Trump",86
-"29","Boone",4,NA,"President","DEM","Hillary Clinton",32
-"30","Boone",4,NA,"President","LIB","Gary Johnson",7
-"31","Boone",4,NA,"President","GRE","Jill Stein",1
-"32","Boone",4,NA,"President","","Write-ins",2
-"33","Boone",4,3,"U.S. House","REP","Adrian Smith",102
-"34","Boone",4,3,"U.S. House","","Write-ins",0
-"35","Boone",4,41,"State Legislature","","Tom Briese",109
-"36","Boone",4,41,"State Legislature","","Write-ins",0
-"37","Boone",5,NA,"President","REP","Donald J. Trump",77
-"38","Boone",5,NA,"President","DEM","Hillary Clinton",15
-"39","Boone",5,NA,"President","LIB","Gary Johnson",3
-"40","Boone",5,NA,"President","GRE","Jill Stein",0
-"41","Boone",5,NA,"President","","Write-ins",9
-"42","Boone",5,3,"U.S. House","REP","Adrian Smith",73
-"43","Boone",5,3,"U.S. House","","Write-ins",1
-"44","Boone",5,41,"State Legislature","","Tom Briese",75
-"45","Boone",5,41,"State Legislature","","Write-ins",0
-"46","Boone",6,NA,"President","REP","Donald J. Trump",278
-"47","Boone",6,NA,"President","DEM","Hillary Clinton",38
-"48","Boone",6,NA,"President","LIB","Gary Johnson",18
-"49","Boone",6,NA,"President","GRE","Jill Stein",3
-"50","Boone",6,NA,"President","","Write-ins",4
-"51","Boone",6,3,"U.S. House","REP","Adrian Smith",298
-"52","Boone",6,3,"U.S. House","","Write-ins",4
-"53","Boone",6,41,"State Legislature","","Tom Briese",318
-"54","Boone",6,41,"State Legislature","","Write-ins",2
-"55","Boone",7,NA,"President","REP","Donald J. Trump",338
-"56","Boone",7,NA,"President","DEM","Hillary Clinton",54
-"57","Boone",7,NA,"President","LIB","Gary Johnson",21
-"58","Boone",7,NA,"President","GRE","Jill Stein",4
-"59","Boone",7,NA,"President","","Write-ins",4
-"60","Boone",7,3,"U.S. House","REP","Adrian Smith",331
-"61","Boone",7,3,"U.S. House","","Write-ins",6
-"62","Boone",7,41,"State Legislature","","Tom Briese",330
-"63","Boone",7,41,"State Legislature","","Write-ins",1
-"64","Boone",8,NA,"President","REP","Donald J. Trump",333
-"65","Boone",8,NA,"President","DEM","Hillary Clinton",53
-"66","Boone",8,NA,"President","LIB","Gary Johnson",18
-"67","Boone",8,NA,"President","GRE","Jill Stein",2
-"68","Boone",8,NA,"President","","Write-ins",3
-"69","Boone",8,3,"U.S. House","REP","Adrian Smith",356
-"70","Boone",8,3,"U.S. House","","Write-ins",2
-"71","Boone",8,41,"State Legislature","","Tom Briese",378
-"72","Boone",8,41,"State Legislature","","Write-ins",1
-"73","Boone",9,NA,"President","REP","Donald J. Trump",323
-"74","Boone",9,NA,"President","DEM","Hillary Clinton",44
-"75","Boone",9,NA,"President","LIB","Gary Johnson",19
-"76","Boone",9,NA,"President","GRE","Jill Stein",1
-"77","Boone",9,NA,"President","","Write-ins",2
-"78","Boone",9,3,"U.S. House","REP","Adrian Smith",342
-"79","Boone",9,3,"U.S. House","","Write-ins",2
-"80","Boone",9,41,"State Legislature","","Tom Briese",354
-"81","Boone",9,41,"State Legislature","","Write-ins",2
+"county","precinct","district","office","party","candidate","votes"
+"Boone",1,NA,"President","REP","Donald J. Trump",129
+"Boone",1,NA,"President","DEM","Hillary Clinton",8
+"Boone",1,NA,"President","LIB","Gary Johnson",5
+"Boone",1,NA,"President","GRE","Jill Stein",0
+"Boone",1,NA,"President","","Write-ins",3
+"Boone",1,3,"U.S. House","REP","Adrian Smith",131
+"Boone",1,3,"U.S. House","","Write-ins",0
+"Boone",1,41,"State Legislature","","Tom Briese",137
+"Boone",1,41,"State Legislature","","Write-ins",1
+"Boone",2,NA,"President","REP","Donald J. Trump",276
+"Boone",2,NA,"President","DEM","Hillary Clinton",36
+"Boone",2,NA,"President","LIB","Gary Johnson",13
+"Boone",2,NA,"President","GRE","Jill Stein",0
+"Boone",2,NA,"President","","Write-ins",0
+"Boone",2,3,"U.S. House","REP","Adrian Smith",283
+"Boone",2,3,"U.S. House","","Write-ins",2
+"Boone",2,41,"State Legislature","","Tom Briese",280
+"Boone",2,41,"State Legislature","","Write-ins",1
+"Boone",3,NA,"President","REP","Donald J. Trump",236
+"Boone",3,NA,"President","DEM","Hillary Clinton",82
+"Boone",3,NA,"President","LIB","Gary Johnson",19
+"Boone",3,NA,"President","GRE","Jill Stein",5
+"Boone",3,NA,"President","","Write-ins",6
+"Boone",3,3,"U.S. House","REP","Adrian Smith",267
+"Boone",3,3,"U.S. House","","Write-ins",5
+"Boone",3,41,"State Legislature","","Tom Briese",270
+"Boone",3,41,"State Legislature","","Write-ins",2
+"Boone",4,NA,"President","REP","Donald J. Trump",86
+"Boone",4,NA,"President","DEM","Hillary Clinton",32
+"Boone",4,NA,"President","LIB","Gary Johnson",7
+"Boone",4,NA,"President","GRE","Jill Stein",1
+"Boone",4,NA,"President","","Write-ins",2
+"Boone",4,3,"U.S. House","REP","Adrian Smith",102
+"Boone",4,3,"U.S. House","","Write-ins",0
+"Boone",4,41,"State Legislature","","Tom Briese",109
+"Boone",4,41,"State Legislature","","Write-ins",0
+"Boone",5,NA,"President","REP","Donald J. Trump",77
+"Boone",5,NA,"President","DEM","Hillary Clinton",15
+"Boone",5,NA,"President","LIB","Gary Johnson",3
+"Boone",5,NA,"President","GRE","Jill Stein",0
+"Boone",5,NA,"President","","Write-ins",9
+"Boone",5,3,"U.S. House","REP","Adrian Smith",73
+"Boone",5,3,"U.S. House","","Write-ins",1
+"Boone",5,41,"State Legislature","","Tom Briese",75
+"Boone",5,41,"State Legislature","","Write-ins",0
+"Boone",6,NA,"President","REP","Donald J. Trump",278
+"Boone",6,NA,"President","DEM","Hillary Clinton",38
+"Boone",6,NA,"President","LIB","Gary Johnson",18
+"Boone",6,NA,"President","GRE","Jill Stein",3
+"Boone",6,NA,"President","","Write-ins",4
+"Boone",6,3,"U.S. House","REP","Adrian Smith",298
+"Boone",6,3,"U.S. House","","Write-ins",4
+"Boone",6,41,"State Legislature","","Tom Briese",318
+"Boone",6,41,"State Legislature","","Write-ins",2
+"Boone",7,NA,"President","REP","Donald J. Trump",338
+"Boone",7,NA,"President","DEM","Hillary Clinton",54
+"Boone",7,NA,"President","LIB","Gary Johnson",21
+"Boone",7,NA,"President","GRE","Jill Stein",4
+"Boone",7,NA,"President","","Write-ins",4
+"Boone",7,3,"U.S. House","REP","Adrian Smith",331
+"Boone",7,3,"U.S. House","","Write-ins",6
+"Boone",7,41,"State Legislature","","Tom Briese",330
+"Boone",7,41,"State Legislature","","Write-ins",1
+"Boone",8,NA,"President","REP","Donald J. Trump",333
+"Boone",8,NA,"President","DEM","Hillary Clinton",53
+"Boone",8,NA,"President","LIB","Gary Johnson",18
+"Boone",8,NA,"President","GRE","Jill Stein",2
+"Boone",8,NA,"President","","Write-ins",3
+"Boone",8,3,"U.S. House","REP","Adrian Smith",356
+"Boone",8,3,"U.S. House","","Write-ins",2
+"Boone",8,41,"State Legislature","","Tom Briese",378
+"Boone",8,41,"State Legislature","","Write-ins",1
+"Boone",9,NA,"President","REP","Donald J. Trump",323
+"Boone",9,NA,"President","DEM","Hillary Clinton",44
+"Boone",9,NA,"President","LIB","Gary Johnson",19
+"Boone",9,NA,"President","GRE","Jill Stein",1
+"Boone",9,NA,"President","","Write-ins",2
+"Boone",9,3,"U.S. House","REP","Adrian Smith",342
+"Boone",9,3,"U.S. House","","Write-ins",2
+"Boone",9,41,"State Legislature","","Tom Briese",354
+"Boone",9,41,"State Legislature","","Write-ins",2

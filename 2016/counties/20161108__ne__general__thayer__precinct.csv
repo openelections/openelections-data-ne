@@ -1,51 +1,51 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Thayer","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",116
-"2","Thayer","Alex/Gilead",NA,"President","DEM","Hillary Clinton",41
-"3","Thayer","Bruning/Belvidere",NA,"President","DEM","Hillary Clinton",42
-"4","Thayer","Chester/Byron/Hubbell",NA,"President","DEM","Hillary Clinton",30
-"5","Thayer","Countywide",NA,"President","DEM","Hillary Clinton",0
-"6","Thayer","Davenport/Carleton",NA,"President","DEM","Hillary Clinton",49
-"7","Thayer","Deshler",NA,"President","DEM","Hillary Clinton",65
-"8","Thayer","Hebron North",NA,"President","DEM","Hillary Clinton",76
-"9","Thayer","Hebron South",NA,"President","DEM","Hillary Clinton",79
-"10","Thayer","New/Former Resident",NA,"President","DEM","Hillary Clinton",1
-"11","Thayer","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",24
-"12","Thayer","Alex/Gilead",NA,"President","LIB","Gary Johnson",8
-"13","Thayer","Bruning/Belvidere",NA,"President","LIB","Gary Johnson",21
-"14","Thayer","Chester/Byron/Hubbell",NA,"President","LIB","Gary Johnson",4
-"15","Thayer","Countywide",NA,"President","LIB","Gary Johnson",0
-"16","Thayer","Davenport/Carleton",NA,"President","LIB","Gary Johnson",10
-"17","Thayer","Deshler",NA,"President","LIB","Gary Johnson",20
-"18","Thayer","Hebron North",NA,"President","LIB","Gary Johnson",25
-"19","Thayer","Hebron South",NA,"President","LIB","Gary Johnson",12
-"20","Thayer","New/Former Resident",NA,"President","LIB","Gary Johnson",0
-"21","Thayer","Absentee/Early Vote",NA,"President","","Jill Stein",1
-"22","Thayer","Alex/Gilead",NA,"President","","Jill Stein",0
-"23","Thayer","Bruning/Belvidere",NA,"President","","Jill Stein",1
-"24","Thayer","Chester/Byron/Hubbell",NA,"President","","Jill Stein",1
-"25","Thayer","Countywide",NA,"President","","Jill Stein",0
-"26","Thayer","Davenport/Carleton",NA,"President","","Jill Stein",0
-"27","Thayer","Deshler",NA,"President","","Jill Stein",1
-"28","Thayer","Hebron North",NA,"President","","Jill Stein",2
-"29","Thayer","Hebron South",NA,"President","","Jill Stein",4
-"30","Thayer","New/Former Resident",NA,"President","","Jill Stein",0
-"31","Thayer","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",314
-"32","Thayer","Alex/Gilead",NA,"President","REP","Donald J. Trump",129
-"33","Thayer","Bruning/Belvidere",NA,"President","REP","Donald J. Trump",182
-"34","Thayer","Chester/Byron/Hubbell",NA,"President","REP","Donald J. Trump",295
-"35","Thayer","Countywide",NA,"President","REP","Donald J. Trump",0
-"36","Thayer","Davenport/Carleton",NA,"President","REP","Donald J. Trump",244
-"37","Thayer","Deshler",NA,"President","REP","Donald J. Trump",299
-"38","Thayer","Hebron North",NA,"President","REP","Donald J. Trump",311
-"39","Thayer","Hebron South",NA,"President","REP","Donald J. Trump",276
-"40","Thayer","New/Former Resident",NA,"President","REP","Donald J. Trump",1
-"41","Thayer","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",367
-"42","Thayer","Alex/Gilead",3,"U.S. House","REP","Adrian Smith",160
-"43","Thayer","Bruning/Belvidere",3,"U.S. House","REP","Adrian Smith",224
-"44","Thayer","Chester/Byron/Hubbell",3,"U.S. House","REP","Adrian Smith",286
-"45","Thayer","Countywide",3,"U.S. House","REP","Adrian Smith",0
-"46","Thayer","Davenport/Carleton",3,"U.S. House","REP","Adrian Smith",260
-"47","Thayer","Deshler",3,"U.S. House","REP","Adrian Smith",347
-"48","Thayer","Hebron North",3,"U.S. House","REP","Adrian Smith",345
-"49","Thayer","Hebron South",3,"U.S. House","REP","Adrian Smith",319
-"50","Thayer","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
+"county","precinct","district","office","party","candidate","votes"
+"Thayer","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",116
+"Thayer","Alex/Gilead",NA,"President","DEM","Hillary Clinton",41
+"Thayer","Bruning/Belvidere",NA,"President","DEM","Hillary Clinton",42
+"Thayer","Chester/Byron/Hubbell",NA,"President","DEM","Hillary Clinton",30
+"Thayer","Countywide",NA,"President","DEM","Hillary Clinton",0
+"Thayer","Davenport/Carleton",NA,"President","DEM","Hillary Clinton",49
+"Thayer","Deshler",NA,"President","DEM","Hillary Clinton",65
+"Thayer","Hebron North",NA,"President","DEM","Hillary Clinton",76
+"Thayer","Hebron South",NA,"President","DEM","Hillary Clinton",79
+"Thayer","New/Former Resident",NA,"President","DEM","Hillary Clinton",1
+"Thayer","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",24
+"Thayer","Alex/Gilead",NA,"President","LIB","Gary Johnson",8
+"Thayer","Bruning/Belvidere",NA,"President","LIB","Gary Johnson",21
+"Thayer","Chester/Byron/Hubbell",NA,"President","LIB","Gary Johnson",4
+"Thayer","Countywide",NA,"President","LIB","Gary Johnson",0
+"Thayer","Davenport/Carleton",NA,"President","LIB","Gary Johnson",10
+"Thayer","Deshler",NA,"President","LIB","Gary Johnson",20
+"Thayer","Hebron North",NA,"President","LIB","Gary Johnson",25
+"Thayer","Hebron South",NA,"President","LIB","Gary Johnson",12
+"Thayer","New/Former Resident",NA,"President","LIB","Gary Johnson",0
+"Thayer","Absentee/Early Vote",NA,"President","","Jill Stein",1
+"Thayer","Alex/Gilead",NA,"President","","Jill Stein",0
+"Thayer","Bruning/Belvidere",NA,"President","","Jill Stein",1
+"Thayer","Chester/Byron/Hubbell",NA,"President","","Jill Stein",1
+"Thayer","Countywide",NA,"President","","Jill Stein",0
+"Thayer","Davenport/Carleton",NA,"President","","Jill Stein",0
+"Thayer","Deshler",NA,"President","","Jill Stein",1
+"Thayer","Hebron North",NA,"President","","Jill Stein",2
+"Thayer","Hebron South",NA,"President","","Jill Stein",4
+"Thayer","New/Former Resident",NA,"President","","Jill Stein",0
+"Thayer","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",314
+"Thayer","Alex/Gilead",NA,"President","REP","Donald J. Trump",129
+"Thayer","Bruning/Belvidere",NA,"President","REP","Donald J. Trump",182
+"Thayer","Chester/Byron/Hubbell",NA,"President","REP","Donald J. Trump",295
+"Thayer","Countywide",NA,"President","REP","Donald J. Trump",0
+"Thayer","Davenport/Carleton",NA,"President","REP","Donald J. Trump",244
+"Thayer","Deshler",NA,"President","REP","Donald J. Trump",299
+"Thayer","Hebron North",NA,"President","REP","Donald J. Trump",311
+"Thayer","Hebron South",NA,"President","REP","Donald J. Trump",276
+"Thayer","New/Former Resident",NA,"President","REP","Donald J. Trump",1
+"Thayer","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",367
+"Thayer","Alex/Gilead",3,"U.S. House","REP","Adrian Smith",160
+"Thayer","Bruning/Belvidere",3,"U.S. House","REP","Adrian Smith",224
+"Thayer","Chester/Byron/Hubbell",3,"U.S. House","REP","Adrian Smith",286
+"Thayer","Countywide",3,"U.S. House","REP","Adrian Smith",0
+"Thayer","Davenport/Carleton",3,"U.S. House","REP","Adrian Smith",260
+"Thayer","Deshler",3,"U.S. House","REP","Adrian Smith",347
+"Thayer","Hebron North",3,"U.S. House","REP","Adrian Smith",345
+"Thayer","Hebron South",3,"U.S. House","REP","Adrian Smith",319
+"Thayer","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0

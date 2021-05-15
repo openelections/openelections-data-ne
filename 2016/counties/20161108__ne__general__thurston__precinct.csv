@@ -1,97 +1,97 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Thurston","Anderson/Blackbird",NA,"President","REP","Donald J. Trump",17
-"2","Thurston","Bryan",NA,"President","REP","Donald J. Trump",44
-"3","Thurston","Dawes",NA,"President","REP","Donald J. Trump",80
-"4","Thurston","Flournoy/Merry",NA,"President","REP","Donald J. Trump",103
-"5","Thurston","Omaha",NA,"President","REP","Donald J. Trump",106
-"6","Thurston","Pender",NA,"President","REP","Donald J. Trump",395
-"7","Thurston","Pender Handcount",NA,"President","REP","Donald J. Trump",19
-"8","Thurston","Perry",NA,"President","REP","Donald J. Trump",70
-"9","Thurston","Thayer",NA,"President","REP","Donald J. Trump",59
-"10","Thurston","Winnebago",NA,"President","REP","Donald J. Trump",50
-"11","Thurston","Absentee",NA,"President","REP","Donald J. Trump",99
-"12","Thurston","Totals",NA,"President","REP","Donald J. Trump",1042
-"13","Thurston","Anderson/Blackbird",NA,"President","DEM","Hillary Clinton",197
-"14","Thurston","Bryan",NA,"President","DEM","Hillary Clinton",2
-"15","Thurston","Dawes",NA,"President","DEM","Hillary Clinton",19
-"16","Thurston","Flournoy/Merry",NA,"President","DEM","Hillary Clinton",21
-"17","Thurston","Omaha",NA,"President","DEM","Hillary Clinton",155
-"18","Thurston","Pender",NA,"President","DEM","Hillary Clinton",100
-"19","Thurston","Pender Handcount",NA,"President","DEM","Hillary Clinton",3
-"20","Thurston","Perry",NA,"President","DEM","Hillary Clinton",23
-"21","Thurston","Thayer",NA,"President","DEM","Hillary Clinton",13
-"22","Thurston","Winnebago",NA,"President","DEM","Hillary Clinton",293
-"23","Thurston","Absentee",NA,"President","DEM","Hillary Clinton",88
-"24","Thurston","Totals",NA,"President","DEM","Hillary Clinton",914
-"25","Thurston","Anderson/Blackbird",NA,"President","LIB","Gary Johnson",1
-"26","Thurston","Bryan",NA,"President","LIB","Gary Johnson",1
-"27","Thurston","Dawes",NA,"President","LIB","Gary Johnson",0
-"28","Thurston","Flournoy/Merry",NA,"President","LIB","Gary Johnson",7
-"29","Thurston","Omaha",NA,"President","LIB","Gary Johnson",5
-"30","Thurston","Pender",NA,"President","LIB","Gary Johnson",15
-"31","Thurston","Pender Handcount",NA,"President","LIB","Gary Johnson",0
-"32","Thurston","Perry",NA,"President","LIB","Gary Johnson",7
-"33","Thurston","Thayer",NA,"President","LIB","Gary Johnson",0
-"34","Thurston","Winnebago",NA,"President","LIB","Gary Johnson",8
-"35","Thurston","Absentee",NA,"President","LIB","Gary Johnson",12
-"36","Thurston","Totals",NA,"President","LIB","Gary Johnson",56
-"37","Thurston","Anderson/Blackbird",NA,"President","","Jill Stein",6
-"38","Thurston","Bryan",NA,"President","","Jill Stein",0
-"39","Thurston","Dawes",NA,"President","","Jill Stein",6
-"40","Thurston","Flournoy/Merry",NA,"President","","Jill Stein",1
-"41","Thurston","Omaha",NA,"President","","Jill Stein",8
-"42","Thurston","Pender",NA,"President","","Jill Stein",1
-"43","Thurston","Pender Handcount",NA,"President","","Jill Stein",0
-"44","Thurston","Perry",NA,"President","","Jill Stein",2
-"45","Thurston","Thayer",NA,"President","","Jill Stein",0
-"46","Thurston","Winnebago",NA,"President","","Jill Stein",23
-"47","Thurston","Absentee",NA,"President","","Jill Stein",2
-"48","Thurston","Totals",NA,"President","","Jill Stein",49
-"49","Thurston","Anderson/Blackbird",1,"U.S. House","REP","Jeff Fortenberry",40
-"50","Thurston","Bryan",1,"U.S. House","REP","Jeff Fortenberry",37
-"51","Thurston","Dawes",1,"U.S. House","REP","Jeff Fortenberry",79
-"52","Thurston","Flournoy/Merry",1,"U.S. House","REP","Jeff Fortenberry",112
-"53","Thurston","Omaha",1,"U.S. House","REP","Jeff Fortenberry",137
-"54","Thurston","Pender",1,"U.S. House","REP","Jeff Fortenberry",455
-"55","Thurston","Pender Handcount",1,"U.S. House","REP","Jeff Fortenberry",18
-"56","Thurston","Perry",1,"U.S. House","REP","Jeff Fortenberry",89
-"57","Thurston","Thayer",1,"U.S. House","REP","Jeff Fortenberry",66
-"58","Thurston","Winnebago",1,"U.S. House","REP","Jeff Fortenberry",106
-"59","Thurston","Absentee",1,"U.S. House","REP","Jeff Fortenberry",124
-"60","Thurston","Totals",1,"U.S. House","REP","Jeff Fortenberry",1263
-"61","Thurston","Anderson/Blackbird",1,"U.S. House","DEM","Daniel W. Wik",140
-"62","Thurston","Bryan",1,"U.S. House","DEM","Daniel W. Wik",5
-"63","Thurston","Dawes",1,"U.S. House","DEM","Daniel W. Wik",26
-"64","Thurston","Flournoy/Merry",1,"U.S. House","DEM","Daniel W. Wik",17
-"65","Thurston","Omaha",1,"U.S. House","DEM","Daniel W. Wik",125
-"66","Thurston","Pender",1,"U.S. House","DEM","Daniel W. Wik",56
-"67","Thurston","Pender Handcount",1,"U.S. House","DEM","Daniel W. Wik",2
-"68","Thurston","Perry",1,"U.S. House","DEM","Daniel W. Wik",18
-"69","Thurston","Thayer",1,"U.S. House","DEM","Daniel W. Wik",4
-"70","Thurston","Winnebago",1,"U.S. House","DEM","Daniel W. Wik",263
-"71","Thurston","Absentee",1,"U.S. House","DEM","Daniel W. Wik",73
-"72","Thurston","Totals",1,"U.S. House","DEM","Daniel W. Wik",729
-"73","Thurston","Anderson/Blackbird",17,"State Legislature","","Ardel Bengston",55
-"74","Thurston","Bryan",17,"State Legislature","","Ardel Bengston",6
-"75","Thurston","Dawes",17,"State Legislature","","Ardel Bengston",24
-"76","Thurston","Flournoy/Merry",17,"State Legislature","","Ardel Bengston",29
-"77","Thurston","Omaha",17,"State Legislature","","Ardel Bengston",83
-"78","Thurston","Pender",17,"State Legislature","","Ardel Bengston",85
-"79","Thurston","Pender Handcount",17,"State Legislature","","Ardel Bengston",5
-"80","Thurston","Perry",17,"State Legislature","","Ardel Bengston",28
-"81","Thurston","Thayer",17,"State Legislature","","Ardel Bengston",10
-"82","Thurston","Winnebago",17,"State Legislature","","Ardel Bengston",162
-"83","Thurston","Absentee",17,"State Legislature","","Ardel Bengston",39
-"84","Thurston","Totals",17,"State Legislature","","Ardel Bengston",526
-"85","Thurston","Anderson/Blackbird",17,"State Legislature","","Joni Albrecht",100
-"86","Thurston","Bryan",17,"State Legislature","","Joni Albrecht",31
-"87","Thurston","Dawes",17,"State Legislature","","Joni Albrecht",67
-"88","Thurston","Flournoy/Merry",17,"State Legislature","","Joni Albrecht",104
-"89","Thurston","Omaha",17,"State Legislature","","Joni Albrecht",157
-"90","Thurston","Pender",17,"State Legislature","","Joni Albrecht",420
-"91","Thurston","Pender Handcount",17,"State Legislature","","Joni Albrecht",11
-"92","Thurston","Perry",17,"State Legislature","","Joni Albrecht",81
-"93","Thurston","Thayer",17,"State Legislature","","Joni Albrecht",61
-"94","Thurston","Winnebago",17,"State Legislature","","Joni Albrecht",194
-"95","Thurston","Absentee",17,"State Legislature","","Joni Albrecht",159
-"96","Thurston","Totals",17,"State Legislature","","Joni Albrecht",1385
+"county","precinct","district","office","party","candidate","votes"
+"Thurston","Anderson/Blackbird",NA,"President","REP","Donald J. Trump",17
+"Thurston","Bryan",NA,"President","REP","Donald J. Trump",44
+"Thurston","Dawes",NA,"President","REP","Donald J. Trump",80
+"Thurston","Flournoy/Merry",NA,"President","REP","Donald J. Trump",103
+"Thurston","Omaha",NA,"President","REP","Donald J. Trump",106
+"Thurston","Pender",NA,"President","REP","Donald J. Trump",395
+"Thurston","Pender Handcount",NA,"President","REP","Donald J. Trump",19
+"Thurston","Perry",NA,"President","REP","Donald J. Trump",70
+"Thurston","Thayer",NA,"President","REP","Donald J. Trump",59
+"Thurston","Winnebago",NA,"President","REP","Donald J. Trump",50
+"Thurston","Absentee",NA,"President","REP","Donald J. Trump",99
+"Thurston","Totals",NA,"President","REP","Donald J. Trump",1042
+"Thurston","Anderson/Blackbird",NA,"President","DEM","Hillary Clinton",197
+"Thurston","Bryan",NA,"President","DEM","Hillary Clinton",2
+"Thurston","Dawes",NA,"President","DEM","Hillary Clinton",19
+"Thurston","Flournoy/Merry",NA,"President","DEM","Hillary Clinton",21
+"Thurston","Omaha",NA,"President","DEM","Hillary Clinton",155
+"Thurston","Pender",NA,"President","DEM","Hillary Clinton",100
+"Thurston","Pender Handcount",NA,"President","DEM","Hillary Clinton",3
+"Thurston","Perry",NA,"President","DEM","Hillary Clinton",23
+"Thurston","Thayer",NA,"President","DEM","Hillary Clinton",13
+"Thurston","Winnebago",NA,"President","DEM","Hillary Clinton",293
+"Thurston","Absentee",NA,"President","DEM","Hillary Clinton",88
+"Thurston","Totals",NA,"President","DEM","Hillary Clinton",914
+"Thurston","Anderson/Blackbird",NA,"President","LIB","Gary Johnson",1
+"Thurston","Bryan",NA,"President","LIB","Gary Johnson",1
+"Thurston","Dawes",NA,"President","LIB","Gary Johnson",0
+"Thurston","Flournoy/Merry",NA,"President","LIB","Gary Johnson",7
+"Thurston","Omaha",NA,"President","LIB","Gary Johnson",5
+"Thurston","Pender",NA,"President","LIB","Gary Johnson",15
+"Thurston","Pender Handcount",NA,"President","LIB","Gary Johnson",0
+"Thurston","Perry",NA,"President","LIB","Gary Johnson",7
+"Thurston","Thayer",NA,"President","LIB","Gary Johnson",0
+"Thurston","Winnebago",NA,"President","LIB","Gary Johnson",8
+"Thurston","Absentee",NA,"President","LIB","Gary Johnson",12
+"Thurston","Totals",NA,"President","LIB","Gary Johnson",56
+"Thurston","Anderson/Blackbird",NA,"President","","Jill Stein",6
+"Thurston","Bryan",NA,"President","","Jill Stein",0
+"Thurston","Dawes",NA,"President","","Jill Stein",6
+"Thurston","Flournoy/Merry",NA,"President","","Jill Stein",1
+"Thurston","Omaha",NA,"President","","Jill Stein",8
+"Thurston","Pender",NA,"President","","Jill Stein",1
+"Thurston","Pender Handcount",NA,"President","","Jill Stein",0
+"Thurston","Perry",NA,"President","","Jill Stein",2
+"Thurston","Thayer",NA,"President","","Jill Stein",0
+"Thurston","Winnebago",NA,"President","","Jill Stein",23
+"Thurston","Absentee",NA,"President","","Jill Stein",2
+"Thurston","Totals",NA,"President","","Jill Stein",49
+"Thurston","Anderson/Blackbird",1,"U.S. House","REP","Jeff Fortenberry",40
+"Thurston","Bryan",1,"U.S. House","REP","Jeff Fortenberry",37
+"Thurston","Dawes",1,"U.S. House","REP","Jeff Fortenberry",79
+"Thurston","Flournoy/Merry",1,"U.S. House","REP","Jeff Fortenberry",112
+"Thurston","Omaha",1,"U.S. House","REP","Jeff Fortenberry",137
+"Thurston","Pender",1,"U.S. House","REP","Jeff Fortenberry",455
+"Thurston","Pender Handcount",1,"U.S. House","REP","Jeff Fortenberry",18
+"Thurston","Perry",1,"U.S. House","REP","Jeff Fortenberry",89
+"Thurston","Thayer",1,"U.S. House","REP","Jeff Fortenberry",66
+"Thurston","Winnebago",1,"U.S. House","REP","Jeff Fortenberry",106
+"Thurston","Absentee",1,"U.S. House","REP","Jeff Fortenberry",124
+"Thurston","Totals",1,"U.S. House","REP","Jeff Fortenberry",1263
+"Thurston","Anderson/Blackbird",1,"U.S. House","DEM","Daniel W. Wik",140
+"Thurston","Bryan",1,"U.S. House","DEM","Daniel W. Wik",5
+"Thurston","Dawes",1,"U.S. House","DEM","Daniel W. Wik",26
+"Thurston","Flournoy/Merry",1,"U.S. House","DEM","Daniel W. Wik",17
+"Thurston","Omaha",1,"U.S. House","DEM","Daniel W. Wik",125
+"Thurston","Pender",1,"U.S. House","DEM","Daniel W. Wik",56
+"Thurston","Pender Handcount",1,"U.S. House","DEM","Daniel W. Wik",2
+"Thurston","Perry",1,"U.S. House","DEM","Daniel W. Wik",18
+"Thurston","Thayer",1,"U.S. House","DEM","Daniel W. Wik",4
+"Thurston","Winnebago",1,"U.S. House","DEM","Daniel W. Wik",263
+"Thurston","Absentee",1,"U.S. House","DEM","Daniel W. Wik",73
+"Thurston","Totals",1,"U.S. House","DEM","Daniel W. Wik",729
+"Thurston","Anderson/Blackbird",17,"State Legislature","","Ardel Bengston",55
+"Thurston","Bryan",17,"State Legislature","","Ardel Bengston",6
+"Thurston","Dawes",17,"State Legislature","","Ardel Bengston",24
+"Thurston","Flournoy/Merry",17,"State Legislature","","Ardel Bengston",29
+"Thurston","Omaha",17,"State Legislature","","Ardel Bengston",83
+"Thurston","Pender",17,"State Legislature","","Ardel Bengston",85
+"Thurston","Pender Handcount",17,"State Legislature","","Ardel Bengston",5
+"Thurston","Perry",17,"State Legislature","","Ardel Bengston",28
+"Thurston","Thayer",17,"State Legislature","","Ardel Bengston",10
+"Thurston","Winnebago",17,"State Legislature","","Ardel Bengston",162
+"Thurston","Absentee",17,"State Legislature","","Ardel Bengston",39
+"Thurston","Totals",17,"State Legislature","","Ardel Bengston",526
+"Thurston","Anderson/Blackbird",17,"State Legislature","","Joni Albrecht",100
+"Thurston","Bryan",17,"State Legislature","","Joni Albrecht",31
+"Thurston","Dawes",17,"State Legislature","","Joni Albrecht",67
+"Thurston","Flournoy/Merry",17,"State Legislature","","Joni Albrecht",104
+"Thurston","Omaha",17,"State Legislature","","Joni Albrecht",157
+"Thurston","Pender",17,"State Legislature","","Joni Albrecht",420
+"Thurston","Pender Handcount",17,"State Legislature","","Joni Albrecht",11
+"Thurston","Perry",17,"State Legislature","","Joni Albrecht",81
+"Thurston","Thayer",17,"State Legislature","","Joni Albrecht",61
+"Thurston","Winnebago",17,"State Legislature","","Joni Albrecht",194
+"Thurston","Absentee",17,"State Legislature","","Joni Albrecht",159
+"Thurston","Totals",17,"State Legislature","","Joni Albrecht",1385

@@ -1,78 +1,78 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Sheridan","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",49
-"2","Sheridan","Countywide",NA,"President","DEM","Hillary Clinton",1
-"3","Sheridan","East Gordon",NA,"President","DEM","Hillary Clinton",51
-"4","Sheridan","HaySprings",NA,"President","DEM","Hillary Clinton",45
-"5","Sheridan","Mirage",NA,"President","DEM","Hillary Clinton",15
-"6","Sheridan","New/Former Resident",NA,"President","DEM","Hillary Clinton",1
-"7","Sheridan","North Rushville",NA,"President","DEM","Hillary Clinton",38
-"8","Sheridan","South Rushville",NA,"President","DEM","Hillary Clinton",37
-"9","Sheridan","South Sheridan",NA,"President","DEM","Hillary Clinton",6
-"10","Sheridan","West Gordon",NA,"President","DEM","Hillary Clinton",39
-"11","Sheridan","Wounded Knee",NA,"President","DEM","Hillary Clinton",5
-"12","Sheridan","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",11
-"13","Sheridan","Countywide",NA,"President","LIB","Gary Johnson",1
-"14","Sheridan","East Gordon",NA,"President","LIB","Gary Johnson",3
-"15","Sheridan","HaySprings",NA,"President","LIB","Gary Johnson",12
-"16","Sheridan","Mirage",NA,"President","LIB","Gary Johnson",1
-"17","Sheridan","New/Former Resident",NA,"President","LIB","Gary Johnson",0
-"18","Sheridan","North Rushville",NA,"President","LIB","Gary Johnson",9
-"19","Sheridan","South Rushville",NA,"President","LIB","Gary Johnson",7
-"20","Sheridan","South Sheridan",NA,"President","LIB","Gary Johnson",8
-"21","Sheridan","West Gordon",NA,"President","LIB","Gary Johnson",15
-"22","Sheridan","Wounded Knee",NA,"President","LIB","Gary Johnson",3
-"23","Sheridan","Absentee/Early Vote",NA,"President","","Jill Stein",2
-"24","Sheridan","Countywide",NA,"President","","Jill Stein",0
-"25","Sheridan","East Gordon",NA,"President","","Jill Stein",1
-"26","Sheridan","HaySprings",NA,"President","","Jill Stein",3
-"27","Sheridan","Mirage",NA,"President","","Jill Stein",1
-"28","Sheridan","New/Former Resident",NA,"President","","Jill Stein",0
-"29","Sheridan","North Rushville",NA,"President","","Jill Stein",1
-"30","Sheridan","South Rushville",NA,"President","","Jill Stein",1
-"31","Sheridan","South Sheridan",NA,"President","","Jill Stein",0
-"32","Sheridan","West Gordon",NA,"President","","Jill Stein",9
-"33","Sheridan","Wounded Knee",NA,"President","","Jill Stein",0
-"34","Sheridan","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",360
-"35","Sheridan","Countywide",NA,"President","REP","Donald J. Trump",19
-"36","Sheridan","East Gordon",NA,"President","REP","Donald J. Trump",282
-"37","Sheridan","HaySprings",NA,"President","REP","Donald J. Trump",349
-"38","Sheridan","Mirage",NA,"President","REP","Donald J. Trump",139
-"39","Sheridan","New/Former Resident",NA,"President","REP","Donald J. Trump",0
-"40","Sheridan","North Rushville",NA,"President","REP","Donald J. Trump",277
-"41","Sheridan","South Rushville",NA,"President","REP","Donald J. Trump",201
-"42","Sheridan","South Sheridan",NA,"President","REP","Donald J. Trump",151
-"43","Sheridan","West Gordon",NA,"President","REP","Donald J. Trump",299
-"44","Sheridan","Wounded Knee",NA,"President","REP","Donald J. Trump",134
-"45","Sheridan","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",339
-"46","Sheridan","Countywide",3,"U.S. House","REP","Adrian Smith",16
-"47","Sheridan","East Gordon",3,"U.S. House","REP","Adrian Smith",296
-"48","Sheridan","HaySprings",3,"U.S. House","REP","Adrian Smith",363
-"49","Sheridan","Mirage",3,"U.S. House","REP","Adrian Smith",142
-"50","Sheridan","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
-"51","Sheridan","North Rushville",3,"U.S. House","REP","Adrian Smith",277
-"52","Sheridan","South Rushville",3,"U.S. House","REP","Adrian Smith",206
-"53","Sheridan","South Sheridan",3,"U.S. House","REP","Adrian Smith",148
-"54","Sheridan","West Gordon",3,"U.S. House","REP","Adrian Smith",301
-"55","Sheridan","Wounded Knee",3,"U.S. House","REP","Adrian Smith",115
-"56","Sheridan","Absentee/Early Vote",43,"State Legislature","","Al Davis",111
-"57","Sheridan","Countywide",43,"State Legislature","","Al Davis",6
-"58","Sheridan","East Gordon",43,"State Legislature","","Al Davis",66
-"59","Sheridan","HaySprings",43,"State Legislature","","Al Davis",168
-"60","Sheridan","Mirage",43,"State Legislature","","Al Davis",51
-"61","Sheridan","New/Former Resident",43,"State Legislature","","Al Davis",0
-"62","Sheridan","North Rushville",43,"State Legislature","","Al Davis",60
-"63","Sheridan","South Rushville",43,"State Legislature","","Al Davis",70
-"64","Sheridan","South Sheridan",43,"State Legislature","","Al Davis",46
-"65","Sheridan","West Gordon",43,"State Legislature","","Al Davis",57
-"66","Sheridan","Wounded Knee",43,"State Legislature","","Al Davis",13
-"67","Sheridan","Absentee/Early Vote",43,"State Legislature","","Tom Brewer",309
-"68","Sheridan","Countywide",43,"State Legislature","","Tom Brewer",10
-"69","Sheridan","East Gordon",43,"State Legislature","","Tom Brewer",279
-"70","Sheridan","HaySprings",43,"State Legislature","","Tom Brewer",250
-"71","Sheridan","Mirage",43,"State Legislature","","Tom Brewer",106
-"72","Sheridan","New/Former Resident",43,"State Legislature","","Tom Brewer",0
-"73","Sheridan","North Rushville",43,"State Legislature","","Tom Brewer",262
-"74","Sheridan","South Rushville",43,"State Legislature","","Tom Brewer",174
-"75","Sheridan","South Sheridan",43,"State Legislature","","Tom Brewer",120
-"76","Sheridan","West Gordon",43,"State Legislature","","Tom Brewer",309
-"77","Sheridan","Wounded Knee",43,"State Legislature","","Tom Brewer",131
+"county","precinct","district","office","party","candidate","votes"
+"Sheridan","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",49
+"Sheridan","Countywide",NA,"President","DEM","Hillary Clinton",1
+"Sheridan","East Gordon",NA,"President","DEM","Hillary Clinton",51
+"Sheridan","HaySprings",NA,"President","DEM","Hillary Clinton",45
+"Sheridan","Mirage",NA,"President","DEM","Hillary Clinton",15
+"Sheridan","New/Former Resident",NA,"President","DEM","Hillary Clinton",1
+"Sheridan","North Rushville",NA,"President","DEM","Hillary Clinton",38
+"Sheridan","South Rushville",NA,"President","DEM","Hillary Clinton",37
+"Sheridan","South Sheridan",NA,"President","DEM","Hillary Clinton",6
+"Sheridan","West Gordon",NA,"President","DEM","Hillary Clinton",39
+"Sheridan","Wounded Knee",NA,"President","DEM","Hillary Clinton",5
+"Sheridan","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",11
+"Sheridan","Countywide",NA,"President","LIB","Gary Johnson",1
+"Sheridan","East Gordon",NA,"President","LIB","Gary Johnson",3
+"Sheridan","HaySprings",NA,"President","LIB","Gary Johnson",12
+"Sheridan","Mirage",NA,"President","LIB","Gary Johnson",1
+"Sheridan","New/Former Resident",NA,"President","LIB","Gary Johnson",0
+"Sheridan","North Rushville",NA,"President","LIB","Gary Johnson",9
+"Sheridan","South Rushville",NA,"President","LIB","Gary Johnson",7
+"Sheridan","South Sheridan",NA,"President","LIB","Gary Johnson",8
+"Sheridan","West Gordon",NA,"President","LIB","Gary Johnson",15
+"Sheridan","Wounded Knee",NA,"President","LIB","Gary Johnson",3
+"Sheridan","Absentee/Early Vote",NA,"President","","Jill Stein",2
+"Sheridan","Countywide",NA,"President","","Jill Stein",0
+"Sheridan","East Gordon",NA,"President","","Jill Stein",1
+"Sheridan","HaySprings",NA,"President","","Jill Stein",3
+"Sheridan","Mirage",NA,"President","","Jill Stein",1
+"Sheridan","New/Former Resident",NA,"President","","Jill Stein",0
+"Sheridan","North Rushville",NA,"President","","Jill Stein",1
+"Sheridan","South Rushville",NA,"President","","Jill Stein",1
+"Sheridan","South Sheridan",NA,"President","","Jill Stein",0
+"Sheridan","West Gordon",NA,"President","","Jill Stein",9
+"Sheridan","Wounded Knee",NA,"President","","Jill Stein",0
+"Sheridan","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",360
+"Sheridan","Countywide",NA,"President","REP","Donald J. Trump",19
+"Sheridan","East Gordon",NA,"President","REP","Donald J. Trump",282
+"Sheridan","HaySprings",NA,"President","REP","Donald J. Trump",349
+"Sheridan","Mirage",NA,"President","REP","Donald J. Trump",139
+"Sheridan","New/Former Resident",NA,"President","REP","Donald J. Trump",0
+"Sheridan","North Rushville",NA,"President","REP","Donald J. Trump",277
+"Sheridan","South Rushville",NA,"President","REP","Donald J. Trump",201
+"Sheridan","South Sheridan",NA,"President","REP","Donald J. Trump",151
+"Sheridan","West Gordon",NA,"President","REP","Donald J. Trump",299
+"Sheridan","Wounded Knee",NA,"President","REP","Donald J. Trump",134
+"Sheridan","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",339
+"Sheridan","Countywide",3,"U.S. House","REP","Adrian Smith",16
+"Sheridan","East Gordon",3,"U.S. House","REP","Adrian Smith",296
+"Sheridan","HaySprings",3,"U.S. House","REP","Adrian Smith",363
+"Sheridan","Mirage",3,"U.S. House","REP","Adrian Smith",142
+"Sheridan","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
+"Sheridan","North Rushville",3,"U.S. House","REP","Adrian Smith",277
+"Sheridan","South Rushville",3,"U.S. House","REP","Adrian Smith",206
+"Sheridan","South Sheridan",3,"U.S. House","REP","Adrian Smith",148
+"Sheridan","West Gordon",3,"U.S. House","REP","Adrian Smith",301
+"Sheridan","Wounded Knee",3,"U.S. House","REP","Adrian Smith",115
+"Sheridan","Absentee/Early Vote",43,"State Legislature","","Al Davis",111
+"Sheridan","Countywide",43,"State Legislature","","Al Davis",6
+"Sheridan","East Gordon",43,"State Legislature","","Al Davis",66
+"Sheridan","HaySprings",43,"State Legislature","","Al Davis",168
+"Sheridan","Mirage",43,"State Legislature","","Al Davis",51
+"Sheridan","New/Former Resident",43,"State Legislature","","Al Davis",0
+"Sheridan","North Rushville",43,"State Legislature","","Al Davis",60
+"Sheridan","South Rushville",43,"State Legislature","","Al Davis",70
+"Sheridan","South Sheridan",43,"State Legislature","","Al Davis",46
+"Sheridan","West Gordon",43,"State Legislature","","Al Davis",57
+"Sheridan","Wounded Knee",43,"State Legislature","","Al Davis",13
+"Sheridan","Absentee/Early Vote",43,"State Legislature","","Tom Brewer",309
+"Sheridan","Countywide",43,"State Legislature","","Tom Brewer",10
+"Sheridan","East Gordon",43,"State Legislature","","Tom Brewer",279
+"Sheridan","HaySprings",43,"State Legislature","","Tom Brewer",250
+"Sheridan","Mirage",43,"State Legislature","","Tom Brewer",106
+"Sheridan","New/Former Resident",43,"State Legislature","","Tom Brewer",0
+"Sheridan","North Rushville",43,"State Legislature","","Tom Brewer",262
+"Sheridan","South Rushville",43,"State Legislature","","Tom Brewer",174
+"Sheridan","South Sheridan",43,"State Legislature","","Tom Brewer",120
+"Sheridan","West Gordon",43,"State Legislature","","Tom Brewer",309
+"Sheridan","Wounded Knee",43,"State Legislature","","Tom Brewer",131

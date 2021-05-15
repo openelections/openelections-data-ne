@@ -1,145 +1,145 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Washington","Fort Calhoun East",NA,"President","REP","Donald J. Trump",400
-"2","Washington","Fort Calhoun West",NA,"President","REP","Donald J. Trump",522
-"3","Washington","Kennard",NA,"President","REP","Donald J. Trump",459
-"4","Washington","Lakeland",NA,"President","REP","Donald J. Trump",657
-"5","Washington","Skyline",NA,"President","REP","Donald J. Trump",341
-"6","Washington","Central",NA,"President","REP","Donald J. Trump",364
-"7","Washington","Dana",NA,"President","REP","Donald J. Trump",415
-"8","Washington","Washington",NA,"President","REP","Donald J. Trump",268
-"9","Washington","Herman",NA,"President","REP","Donald J. Trump",231
-"10","Washington","Cuming City",NA,"President","REP","Donald J. Trump",253
-"11","Washington","DeSoto",NA,"President","REP","Donald J. Trump",308
-"12","Washington","Fontanelle",NA,"President","REP","Donald J. Trump",396
-"13","Washington","Arlington",NA,"President","REP","Donald J. Trump",554
-"14","Washington","Arbor",NA,"President","REP","Donald J. Trump",332
-"15","Washington","North-view",NA,"President","REP","Donald J. Trump",390
-"16","Washington","Absentee",NA,"President","REP","Donald J. Trump",1531
-"17","Washington","New/Former Resident",NA,"President","REP","Donald J. Trump",3
-"18","Washington","Total",NA,"President","REP","Donald J. Trump",7424
-"19","Washington","Fort Calhoun East",NA,"President","DEM","Hillary Clinton",179
-"20","Washington","Fort Calhoun West",NA,"President","DEM","Hillary Clinton",172
-"21","Washington","Kennard",NA,"President","DEM","Hillary Clinton",83
-"22","Washington","Lakeland",NA,"President","DEM","Hillary Clinton",233
-"23","Washington","Skyline",NA,"President","DEM","Hillary Clinton",148
-"24","Washington","Central",NA,"President","DEM","Hillary Clinton",138
-"25","Washington","Dana",NA,"President","DEM","Hillary Clinton",157
-"26","Washington","Washington",NA,"President","DEM","Hillary Clinton",59
-"27","Washington","Herman",NA,"President","DEM","Hillary Clinton",65
-"28","Washington","Cuming City",NA,"President","DEM","Hillary Clinton",53
-"29","Washington","DeSoto",NA,"President","DEM","Hillary Clinton",87
-"30","Washington","Fontanelle",NA,"President","DEM","Hillary Clinton",63
-"31","Washington","Arlington",NA,"President","DEM","Hillary Clinton",151
-"32","Washington","Arbor",NA,"President","DEM","Hillary Clinton",116
-"33","Washington","North-view",NA,"President","DEM","Hillary Clinton",147
-"34","Washington","Absentee",NA,"President","DEM","Hillary Clinton",772
-"35","Washington","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
-"36","Washington","Total",NA,"President","DEM","Hillary Clinton",2623
-"37","Washington","Fort Calhoun East",NA,"President","LIB","Gary Johnson",30
-"38","Washington","Fort Calhoun West",NA,"President","LIB","Gary Johnson",28
-"39","Washington","Kennard",NA,"President","LIB","Gary Johnson",19
-"40","Washington","Lakeland",NA,"President","LIB","Gary Johnson",29
-"41","Washington","Skyline",NA,"President","LIB","Gary Johnson",36
-"42","Washington","Central",NA,"President","LIB","Gary Johnson",39
-"43","Washington","Dana",NA,"President","LIB","Gary Johnson",24
-"44","Washington","Washington",NA,"President","LIB","Gary Johnson",10
-"45","Washington","Herman",NA,"President","LIB","Gary Johnson",18
-"46","Washington","Cuming City",NA,"President","LIB","Gary Johnson",11
-"47","Washington","DeSoto",NA,"President","LIB","Gary Johnson",26
-"48","Washington","Fontanelle",NA,"President","LIB","Gary Johnson",18
-"49","Washington","Arlington",NA,"President","LIB","Gary Johnson",40
-"50","Washington","Arbor",NA,"President","LIB","Gary Johnson",24
-"51","Washington","North-view",NA,"President","LIB","Gary Johnson",50
-"52","Washington","Absentee",NA,"President","LIB","Gary Johnson",110
-"53","Washington","New/Former Resident",NA,"President","LIB","Gary Johnson",1
-"54","Washington","Total",NA,"President","LIB","Gary Johnson",513
-"55","Washington","Fort Calhoun East",NA,"President","","Jill Stein",10
-"56","Washington","Fort Calhoun West",NA,"President","","Jill Stein",4
-"57","Washington","Kennard",NA,"President","","Jill Stein",5
-"58","Washington","Lakeland",NA,"President","","Jill Stein",8
-"59","Washington","Skyline",NA,"President","","Jill Stein",4
-"60","Washington","Central",NA,"President","","Jill Stein",8
-"61","Washington","Dana",NA,"President","","Jill Stein",6
-"62","Washington","Washington",NA,"President","","Jill Stein",2
-"63","Washington","Herman",NA,"President","","Jill Stein",2
-"64","Washington","Cuming City",NA,"President","","Jill Stein",3
-"65","Washington","DeSoto",NA,"President","","Jill Stein",3
-"66","Washington","Fontanelle",NA,"President","","Jill Stein",4
-"67","Washington","Arlington",NA,"President","","Jill Stein",5
-"68","Washington","Arbor",NA,"President","","Jill Stein",1
-"69","Washington","North-view",NA,"President","","Jill Stein",6
-"70","Washington","Absentee",NA,"President","","Jill Stein",26
-"71","Washington","New/Former Resident",NA,"President","","Jill Stein",0
-"72","Washington","Total",NA,"President","","Jill Stein",97
-"73","Washington","Fort Calhoun East",NA,"President","","Write-ins",5
-"74","Washington","Fort Calhoun West",NA,"President","","Write-ins",8
-"75","Washington","Kennard",NA,"President","","Write-ins",14
-"76","Washington","Lakeland",NA,"President","","Write-ins",23
-"77","Washington","Skyline",NA,"President","","Write-ins",10
-"78","Washington","Central",NA,"President","","Write-ins",14
-"79","Washington","Dana",NA,"President","","Write-ins",11
-"80","Washington","Washington",NA,"President","","Write-ins",4
-"81","Washington","Herman",NA,"President","","Write-ins",1
-"82","Washington","Cuming City",NA,"President","","Write-ins",0
-"83","Washington","DeSoto",NA,"President","","Write-ins",5
-"84","Washington","Fontanelle",NA,"President","","Write-ins",6
-"85","Washington","Arlington",NA,"President","","Write-ins",13
-"86","Washington","Arbor",NA,"President","","Write-ins",12
-"87","Washington","North-view",NA,"President","","Write-ins",11
-"88","Washington","Absentee",NA,"President","","Write-ins",38
-"89","Washington","New/Former Resident",NA,"President","","Write-ins",0
-"90","Washington","Total",NA,"President","","Write-ins",175
-"91","Washington","Fort Calhoun East",1,"U.S. House","REP","Jeff Fortenberry",444
-"92","Washington","Fort Calhoun West",1,"U.S. House","REP","Jeff Fortenberry",560
-"93","Washington","Kennard",1,"U.S. House","REP","Jeff Fortenberry",481
-"94","Washington","Lakeland",1,"U.S. House","REP","Jeff Fortenberry",730
-"95","Washington","Skyline",1,"U.S. House","REP","Jeff Fortenberry",388
-"96","Washington","Central",1,"U.S. House","REP","Jeff Fortenberry",426
-"97","Washington","Dana",1,"U.S. House","REP","Jeff Fortenberry",483
-"98","Washington","Washington",1,"U.S. House","REP","Jeff Fortenberry",282
-"99","Washington","Herman",1,"U.S. House","REP","Jeff Fortenberry",261
-"100","Washington","Cuming City",1,"U.S. House","REP","Jeff Fortenberry",265
-"101","Washington","DeSoto",1,"U.S. House","REP","Jeff Fortenberry",326
-"102","Washington","Fontanelle",1,"U.S. House","REP","Jeff Fortenberry",437
-"103","Washington","Arlington",1,"U.S. House","REP","Jeff Fortenberry",612
-"104","Washington","Arbor",1,"U.S. House","REP","Jeff Fortenberry",376
-"105","Washington","North-view",1,"U.S. House","REP","Jeff Fortenberry",468
-"106","Washington","Absentee",1,"U.S. House","REP","Jeff Fortenberry",1725
-"107","Washington","New/Former Resident",1,"U.S. House","REP","Jeff Fortenberry",NA
-"108","Washington","Total",1,"U.S. House","REP","Jeff Fortenberry",8264
-"109","Washington","Fort Calhoun East",1,"U.S. House","DEM","Daniel M. Wik",152
-"110","Washington","Fort Calhoun West",1,"U.S. House","DEM","Daniel M. Wik",140
-"111","Washington","Kennard",1,"U.S. House","DEM","Daniel M. Wik",79
-"112","Washington","Lakeland",1,"U.S. House","DEM","Daniel M. Wik",189
-"113","Washington","Skyline",1,"U.S. House","DEM","Daniel M. Wik",126
-"114","Washington","Central",1,"U.S. House","DEM","Daniel M. Wik",114
-"115","Washington","Dana",1,"U.S. House","DEM","Daniel M. Wik",109
-"116","Washington","Washington",1,"U.S. House","DEM","Daniel M. Wik",48
-"117","Washington","Herman",1,"U.S. House","DEM","Daniel M. Wik",46
-"118","Washington","Cuming City",1,"U.S. House","DEM","Daniel M. Wik",40
-"119","Washington","DeSoto",1,"U.S. House","DEM","Daniel M. Wik",80
-"120","Washington","Fontanelle",1,"U.S. House","DEM","Daniel M. Wik",46
-"121","Washington","Arlington",1,"U.S. House","DEM","Daniel M. Wik",126
-"122","Washington","Arbor",1,"U.S. House","DEM","Daniel M. Wik",92
-"123","Washington","North-view",1,"U.S. House","DEM","Daniel M. Wik",116
-"124","Washington","Absentee",1,"U.S. House","DEM","Daniel M. Wik",621
-"125","Washington","New/Former Resident",1,"U.S. House","DEM","Daniel M. Wik",NA
-"126","Washington","Total",1,"U.S. House","DEM","Daniel M. Wik",2124
-"127","Washington","Fort Calhoun East",1,"U.S. House","","Write-ins",2
-"128","Washington","Fort Calhoun West",1,"U.S. House","","Write-ins",3
-"129","Washington","Kennard",1,"U.S. House","","Write-ins",0
-"130","Washington","Lakeland",1,"U.S. House","","Write-ins",2
-"131","Washington","Skyline",1,"U.S. House","","Write-ins",0
-"132","Washington","Central",1,"U.S. House","","Write-ins",0
-"133","Washington","Dana",1,"U.S. House","","Write-ins",0
-"134","Washington","Washington",1,"U.S. House","","Write-ins",1
-"135","Washington","Herman",1,"U.S. House","","Write-ins",0
-"136","Washington","Cuming City",1,"U.S. House","","Write-ins",0
-"137","Washington","DeSoto",1,"U.S. House","","Write-ins",1
-"138","Washington","Fontanelle",1,"U.S. House","","Write-ins",0
-"139","Washington","Arlington",1,"U.S. House","","Write-ins",1
-"140","Washington","Arbor",1,"U.S. House","","Write-ins",1
-"141","Washington","North-view",1,"U.S. House","","Write-ins",1
-"142","Washington","Absentee",1,"U.S. House","","Write-ins",3
-"143","Washington","New/Former Resident",1,"U.S. House","","Write-ins",NA
-"144","Washington","Total",1,"U.S. House","","Write-ins",15
+"county","precinct","district","office","party","candidate","votes"
+"Washington","Fort Calhoun East",NA,"President","REP","Donald J. Trump",400
+"Washington","Fort Calhoun West",NA,"President","REP","Donald J. Trump",522
+"Washington","Kennard",NA,"President","REP","Donald J. Trump",459
+"Washington","Lakeland",NA,"President","REP","Donald J. Trump",657
+"Washington","Skyline",NA,"President","REP","Donald J. Trump",341
+"Washington","Central",NA,"President","REP","Donald J. Trump",364
+"Washington","Dana",NA,"President","REP","Donald J. Trump",415
+"Washington","Washington",NA,"President","REP","Donald J. Trump",268
+"Washington","Herman",NA,"President","REP","Donald J. Trump",231
+"Washington","Cuming City",NA,"President","REP","Donald J. Trump",253
+"Washington","DeSoto",NA,"President","REP","Donald J. Trump",308
+"Washington","Fontanelle",NA,"President","REP","Donald J. Trump",396
+"Washington","Arlington",NA,"President","REP","Donald J. Trump",554
+"Washington","Arbor",NA,"President","REP","Donald J. Trump",332
+"Washington","North-view",NA,"President","REP","Donald J. Trump",390
+"Washington","Absentee",NA,"President","REP","Donald J. Trump",1531
+"Washington","New/Former Resident",NA,"President","REP","Donald J. Trump",3
+"Washington","Total",NA,"President","REP","Donald J. Trump",7424
+"Washington","Fort Calhoun East",NA,"President","DEM","Hillary Clinton",179
+"Washington","Fort Calhoun West",NA,"President","DEM","Hillary Clinton",172
+"Washington","Kennard",NA,"President","DEM","Hillary Clinton",83
+"Washington","Lakeland",NA,"President","DEM","Hillary Clinton",233
+"Washington","Skyline",NA,"President","DEM","Hillary Clinton",148
+"Washington","Central",NA,"President","DEM","Hillary Clinton",138
+"Washington","Dana",NA,"President","DEM","Hillary Clinton",157
+"Washington","Washington",NA,"President","DEM","Hillary Clinton",59
+"Washington","Herman",NA,"President","DEM","Hillary Clinton",65
+"Washington","Cuming City",NA,"President","DEM","Hillary Clinton",53
+"Washington","DeSoto",NA,"President","DEM","Hillary Clinton",87
+"Washington","Fontanelle",NA,"President","DEM","Hillary Clinton",63
+"Washington","Arlington",NA,"President","DEM","Hillary Clinton",151
+"Washington","Arbor",NA,"President","DEM","Hillary Clinton",116
+"Washington","North-view",NA,"President","DEM","Hillary Clinton",147
+"Washington","Absentee",NA,"President","DEM","Hillary Clinton",772
+"Washington","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
+"Washington","Total",NA,"President","DEM","Hillary Clinton",2623
+"Washington","Fort Calhoun East",NA,"President","LIB","Gary Johnson",30
+"Washington","Fort Calhoun West",NA,"President","LIB","Gary Johnson",28
+"Washington","Kennard",NA,"President","LIB","Gary Johnson",19
+"Washington","Lakeland",NA,"President","LIB","Gary Johnson",29
+"Washington","Skyline",NA,"President","LIB","Gary Johnson",36
+"Washington","Central",NA,"President","LIB","Gary Johnson",39
+"Washington","Dana",NA,"President","LIB","Gary Johnson",24
+"Washington","Washington",NA,"President","LIB","Gary Johnson",10
+"Washington","Herman",NA,"President","LIB","Gary Johnson",18
+"Washington","Cuming City",NA,"President","LIB","Gary Johnson",11
+"Washington","DeSoto",NA,"President","LIB","Gary Johnson",26
+"Washington","Fontanelle",NA,"President","LIB","Gary Johnson",18
+"Washington","Arlington",NA,"President","LIB","Gary Johnson",40
+"Washington","Arbor",NA,"President","LIB","Gary Johnson",24
+"Washington","North-view",NA,"President","LIB","Gary Johnson",50
+"Washington","Absentee",NA,"President","LIB","Gary Johnson",110
+"Washington","New/Former Resident",NA,"President","LIB","Gary Johnson",1
+"Washington","Total",NA,"President","LIB","Gary Johnson",513
+"Washington","Fort Calhoun East",NA,"President","","Jill Stein",10
+"Washington","Fort Calhoun West",NA,"President","","Jill Stein",4
+"Washington","Kennard",NA,"President","","Jill Stein",5
+"Washington","Lakeland",NA,"President","","Jill Stein",8
+"Washington","Skyline",NA,"President","","Jill Stein",4
+"Washington","Central",NA,"President","","Jill Stein",8
+"Washington","Dana",NA,"President","","Jill Stein",6
+"Washington","Washington",NA,"President","","Jill Stein",2
+"Washington","Herman",NA,"President","","Jill Stein",2
+"Washington","Cuming City",NA,"President","","Jill Stein",3
+"Washington","DeSoto",NA,"President","","Jill Stein",3
+"Washington","Fontanelle",NA,"President","","Jill Stein",4
+"Washington","Arlington",NA,"President","","Jill Stein",5
+"Washington","Arbor",NA,"President","","Jill Stein",1
+"Washington","North-view",NA,"President","","Jill Stein",6
+"Washington","Absentee",NA,"President","","Jill Stein",26
+"Washington","New/Former Resident",NA,"President","","Jill Stein",0
+"Washington","Total",NA,"President","","Jill Stein",97
+"Washington","Fort Calhoun East",NA,"President","","Write-ins",5
+"Washington","Fort Calhoun West",NA,"President","","Write-ins",8
+"Washington","Kennard",NA,"President","","Write-ins",14
+"Washington","Lakeland",NA,"President","","Write-ins",23
+"Washington","Skyline",NA,"President","","Write-ins",10
+"Washington","Central",NA,"President","","Write-ins",14
+"Washington","Dana",NA,"President","","Write-ins",11
+"Washington","Washington",NA,"President","","Write-ins",4
+"Washington","Herman",NA,"President","","Write-ins",1
+"Washington","Cuming City",NA,"President","","Write-ins",0
+"Washington","DeSoto",NA,"President","","Write-ins",5
+"Washington","Fontanelle",NA,"President","","Write-ins",6
+"Washington","Arlington",NA,"President","","Write-ins",13
+"Washington","Arbor",NA,"President","","Write-ins",12
+"Washington","North-view",NA,"President","","Write-ins",11
+"Washington","Absentee",NA,"President","","Write-ins",38
+"Washington","New/Former Resident",NA,"President","","Write-ins",0
+"Washington","Total",NA,"President","","Write-ins",175
+"Washington","Fort Calhoun East",1,"U.S. House","REP","Jeff Fortenberry",444
+"Washington","Fort Calhoun West",1,"U.S. House","REP","Jeff Fortenberry",560
+"Washington","Kennard",1,"U.S. House","REP","Jeff Fortenberry",481
+"Washington","Lakeland",1,"U.S. House","REP","Jeff Fortenberry",730
+"Washington","Skyline",1,"U.S. House","REP","Jeff Fortenberry",388
+"Washington","Central",1,"U.S. House","REP","Jeff Fortenberry",426
+"Washington","Dana",1,"U.S. House","REP","Jeff Fortenberry",483
+"Washington","Washington",1,"U.S. House","REP","Jeff Fortenberry",282
+"Washington","Herman",1,"U.S. House","REP","Jeff Fortenberry",261
+"Washington","Cuming City",1,"U.S. House","REP","Jeff Fortenberry",265
+"Washington","DeSoto",1,"U.S. House","REP","Jeff Fortenberry",326
+"Washington","Fontanelle",1,"U.S. House","REP","Jeff Fortenberry",437
+"Washington","Arlington",1,"U.S. House","REP","Jeff Fortenberry",612
+"Washington","Arbor",1,"U.S. House","REP","Jeff Fortenberry",376
+"Washington","North-view",1,"U.S. House","REP","Jeff Fortenberry",468
+"Washington","Absentee",1,"U.S. House","REP","Jeff Fortenberry",1725
+"Washington","New/Former Resident",1,"U.S. House","REP","Jeff Fortenberry",NA
+"Washington","Total",1,"U.S. House","REP","Jeff Fortenberry",8264
+"Washington","Fort Calhoun East",1,"U.S. House","DEM","Daniel M. Wik",152
+"Washington","Fort Calhoun West",1,"U.S. House","DEM","Daniel M. Wik",140
+"Washington","Kennard",1,"U.S. House","DEM","Daniel M. Wik",79
+"Washington","Lakeland",1,"U.S. House","DEM","Daniel M. Wik",189
+"Washington","Skyline",1,"U.S. House","DEM","Daniel M. Wik",126
+"Washington","Central",1,"U.S. House","DEM","Daniel M. Wik",114
+"Washington","Dana",1,"U.S. House","DEM","Daniel M. Wik",109
+"Washington","Washington",1,"U.S. House","DEM","Daniel M. Wik",48
+"Washington","Herman",1,"U.S. House","DEM","Daniel M. Wik",46
+"Washington","Cuming City",1,"U.S. House","DEM","Daniel M. Wik",40
+"Washington","DeSoto",1,"U.S. House","DEM","Daniel M. Wik",80
+"Washington","Fontanelle",1,"U.S. House","DEM","Daniel M. Wik",46
+"Washington","Arlington",1,"U.S. House","DEM","Daniel M. Wik",126
+"Washington","Arbor",1,"U.S. House","DEM","Daniel M. Wik",92
+"Washington","North-view",1,"U.S. House","DEM","Daniel M. Wik",116
+"Washington","Absentee",1,"U.S. House","DEM","Daniel M. Wik",621
+"Washington","New/Former Resident",1,"U.S. House","DEM","Daniel M. Wik",NA
+"Washington","Total",1,"U.S. House","DEM","Daniel M. Wik",2124
+"Washington","Fort Calhoun East",1,"U.S. House","","Write-ins",2
+"Washington","Fort Calhoun West",1,"U.S. House","","Write-ins",3
+"Washington","Kennard",1,"U.S. House","","Write-ins",0
+"Washington","Lakeland",1,"U.S. House","","Write-ins",2
+"Washington","Skyline",1,"U.S. House","","Write-ins",0
+"Washington","Central",1,"U.S. House","","Write-ins",0
+"Washington","Dana",1,"U.S. House","","Write-ins",0
+"Washington","Washington",1,"U.S. House","","Write-ins",1
+"Washington","Herman",1,"U.S. House","","Write-ins",0
+"Washington","Cuming City",1,"U.S. House","","Write-ins",0
+"Washington","DeSoto",1,"U.S. House","","Write-ins",1
+"Washington","Fontanelle",1,"U.S. House","","Write-ins",0
+"Washington","Arlington",1,"U.S. House","","Write-ins",1
+"Washington","Arbor",1,"U.S. House","","Write-ins",1
+"Washington","North-view",1,"U.S. House","","Write-ins",1
+"Washington","Absentee",1,"U.S. House","","Write-ins",3
+"Washington","New/Former Resident",1,"U.S. House","","Write-ins",NA
+"Washington","Total",1,"U.S. House","","Write-ins",15

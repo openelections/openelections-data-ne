@@ -1,137 +1,137 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Seward","B",NA,"President","REP","Donald J. Trump",139
-"2","Seward","C",NA,"President","REP","Donald J. Trump",199
-"3","Seward","E",NA,"President","REP","Donald J. Trump",340
-"4","Seward","G",NA,"President","REP","Donald J. Trump",165
-"5","Seward","H",NA,"President","REP","Donald J. Trump",375
-"6","Seward","I",NA,"President","REP","Donald J. Trump",416
-"7","Seward","J",NA,"President","REP","Donald J. Trump",150
-"8","Seward","K",NA,"President","REP","Donald J. Trump",220
-"9","Seward","M-BX",NA,"President","REP","Donald J. Trump",217
-"10","Seward","M-CO",NA,"President","REP","Donald J. Trump",175
-"11","Seward","O-1",NA,"President","REP","Donald J. Trump",312
-"12","Seward","O-2",NA,"President","REP","Donald J. Trump",415
-"13","Seward","S-1",NA,"President","REP","Donald J. Trump",542
-"14","Seward","S-2",NA,"President","REP","Donald J. Trump",537
-"15","Seward","S-3",NA,"President","REP","Donald J. Trump",412
-"16","Seward","S-4",NA,"President","REP","Donald J. Trump",255
-"17","Seward","Absentee",NA,"President","REP","Donald J. Trump",585
-"18","Seward","B",NA,"President","DEM","Hillary Clinton",25
-"19","Seward","C",NA,"President","DEM","Hillary Clinton",59
-"20","Seward","E",NA,"President","DEM","Hillary Clinton",69
-"21","Seward","G",NA,"President","DEM","Hillary Clinton",54
-"22","Seward","H",NA,"President","DEM","Hillary Clinton",130
-"23","Seward","I",NA,"President","DEM","Hillary Clinton",100
-"24","Seward","J",NA,"President","DEM","Hillary Clinton",40
-"25","Seward","K",NA,"President","DEM","Hillary Clinton",67
-"26","Seward","M-BX",NA,"President","DEM","Hillary Clinton",42
-"27","Seward","M-CO",NA,"President","DEM","Hillary Clinton",41
-"28","Seward","O-1",NA,"President","DEM","Hillary Clinton",68
-"29","Seward","O-2",NA,"President","DEM","Hillary Clinton",96
-"30","Seward","S-1",NA,"President","DEM","Hillary Clinton",205
-"31","Seward","S-2",NA,"President","DEM","Hillary Clinton",254
-"32","Seward","S-3",NA,"President","DEM","Hillary Clinton",182
-"33","Seward","S-4",NA,"President","DEM","Hillary Clinton",101
-"34","Seward","Absentee",NA,"President","DEM","Hillary Clinton",342
-"35","Seward","B",NA,"President","LIB","Johnson/Weld",10
-"36","Seward","C",NA,"President","LIB","Johnson/Weld",14
-"37","Seward","E",NA,"President","LIB","Johnson/Weld",25
-"38","Seward","G",NA,"President","LIB","Johnson/Weld",6
-"39","Seward","H",NA,"President","LIB","Johnson/Weld",27
-"40","Seward","I",NA,"President","LIB","Johnson/Weld",22
-"41","Seward","J",NA,"President","LIB","Johnson/Weld",7
-"42","Seward","K",NA,"President","LIB","Johnson/Weld",12
-"43","Seward","M-BX",NA,"President","LIB","Johnson/Weld",13
-"44","Seward","M-CO",NA,"President","LIB","Johnson/Weld",5
-"45","Seward","O-1",NA,"President","LIB","Johnson/Weld",18
-"46","Seward","O-2",NA,"President","LIB","Johnson/Weld",21
-"47","Seward","S-1",NA,"President","LIB","Johnson/Weld",33
-"48","Seward","S-2",NA,"President","LIB","Johnson/Weld",22
-"49","Seward","S-3",NA,"President","LIB","Johnson/Weld",32
-"50","Seward","S-4",NA,"President","LIB","Johnson/Weld",25
-"51","Seward","Absentee",NA,"President","LIB","Johnson/Weld",45
-"52","Seward","B",NA,"President","PET","Jill Stein",3
-"53","Seward","C",NA,"President","PET","Jill Stein",2
-"54","Seward","E",NA,"President","PET","Jill Stein",7
-"55","Seward","G",NA,"President","PET","Jill Stein",0
-"56","Seward","H",NA,"President","PET","Jill Stein",1
-"57","Seward","I",NA,"President","PET","Jill Stein",12
-"58","Seward","J",NA,"President","PET","Jill Stein",1
-"59","Seward","K",NA,"President","PET","Jill Stein",1
-"60","Seward","M-BX",NA,"President","PET","Jill Stein",4
-"61","Seward","M-CO",NA,"President","PET","Jill Stein",1
-"62","Seward","O-1",NA,"President","PET","Jill Stein",3
-"63","Seward","O-2",NA,"President","PET","Jill Stein",3
-"64","Seward","S-1",NA,"President","PET","Jill Stein",2
-"65","Seward","S-2",NA,"President","PET","Jill Stein",9
-"66","Seward","S-3",NA,"President","PET","Jill Stein",13
-"67","Seward","S-4",NA,"President","PET","Jill Stein",7
-"68","Seward","Absentee",NA,"President","PET","Jill Stein",15
-"69","Seward","B",NA,"President",NA,"Write-ins",1
-"70","Seward","C",NA,"President",NA,"Write-ins",6
-"71","Seward","E",NA,"President",NA,"Write-ins",9
-"72","Seward","G",NA,"President",NA,"Write-ins",5
-"73","Seward","H",NA,"President",NA,"Write-ins",9
-"74","Seward","I",NA,"President",NA,"Write-ins",11
-"75","Seward","J",NA,"President",NA,"Write-ins",3
-"76","Seward","K",NA,"President",NA,"Write-ins",3
-"77","Seward","M-BX",NA,"President",NA,"Write-ins",4
-"78","Seward","M-CO",NA,"President",NA,"Write-ins",2
-"79","Seward","O-1",NA,"President",NA,"Write-ins",9
-"80","Seward","O-2",NA,"President",NA,"Write-ins",6
-"81","Seward","S-1",NA,"President",NA,"Write-ins",19
-"82","Seward","S-2",NA,"President",NA,"Write-ins",24
-"83","Seward","S-3",NA,"President",NA,"Write-ins",25
-"84","Seward","S-4",NA,"President",NA,"Write-ins",11
-"85","Seward","Absentee",NA,"President",NA,"Write-ins",20
-"86","Seward","B",1,"U.S. House","REP","Jeff Fortenberry",143
-"87","Seward","C",1,"U.S. House","REP","Jeff Fortenberry",231
-"88","Seward","E",1,"U.S. House","REP","Jeff Fortenberry",371
-"89","Seward","G",1,"U.S. House","REP","Jeff Fortenberry",185
-"90","Seward","H",1,"U.S. House","REP","Jeff Fortenberry",414
-"91","Seward","I",1,"U.S. House","REP","Jeff Fortenberry",448
-"92","Seward","J",1,"U.S. House","REP","Jeff Fortenberry",153
-"93","Seward","K",1,"U.S. House","REP","Jeff Fortenberry",241
-"94","Seward","M-BX",1,"U.S. House","REP","Jeff Fortenberry",233
-"95","Seward","M-CO",1,"U.S. House","REP","Jeff Fortenberry",178
-"96","Seward","O-1",1,"U.S. House","REP","Jeff Fortenberry",341
-"97","Seward","O-2",1,"U.S. House","REP","Jeff Fortenberry",447
-"98","Seward","S-1",1,"U.S. House","REP","Jeff Fortenberry",654
-"99","Seward","S-2",1,"U.S. House","REP","Jeff Fortenberry",680
-"100","Seward","S-3",1,"U.S. House","REP","Jeff Fortenberry",490
-"101","Seward","S-4",1,"U.S. House","REP","Jeff Fortenberry",316
-"102","Seward","Absentee",1,"U.S. House","REP","Jeff Fortenberry",728
-"103","Seward","B",1,"U.S. House","DEM","Daniel M. Wik",37
-"104","Seward","C",1,"U.S. House","DEM","Daniel M. Wik",46
-"105","Seward","E",1,"U.S. House","DEM","Daniel M. Wik",67
-"106","Seward","G",1,"U.S. House","DEM","Daniel M. Wik",37
-"107","Seward","H",1,"U.S. House","DEM","Daniel M. Wik",121
-"108","Seward","I",1,"U.S. House","DEM","Daniel M. Wik",94
-"109","Seward","J",1,"U.S. House","DEM","Daniel M. Wik",42
-"110","Seward","K",1,"U.S. House","DEM","Daniel M. Wik",59
-"111","Seward","M-BX",1,"U.S. House","DEM","Daniel M. Wik",43
-"112","Seward","M-CO",1,"U.S. House","DEM","Daniel M. Wik",46
-"113","Seward","O-1",1,"U.S. House","DEM","Daniel M. Wik",66
-"114","Seward","O-2",1,"U.S. House","DEM","Daniel M. Wik",84
-"115","Seward","S-1",1,"U.S. House","DEM","Daniel M. Wik",136
-"116","Seward","S-2",1,"U.S. House","DEM","Daniel M. Wik",156
-"117","Seward","S-3",1,"U.S. House","DEM","Daniel M. Wik",160
-"118","Seward","S-4",1,"U.S. House","DEM","Daniel M. Wik",75
-"119","Seward","Absentee",1,"U.S. House","DEM","Daniel M. Wik",249
-"120","Seward","B",1,"U.S. House",NA,"Write-ins",1
-"121","Seward","C",1,"U.S. House",NA,"Write-ins",0
-"122","Seward","E",1,"U.S. House",NA,"Write-ins",1
-"123","Seward","G",1,"U.S. House",NA,"Write-ins",0
-"124","Seward","H",1,"U.S. House",NA,"Write-ins",1
-"125","Seward","I",1,"U.S. House",NA,"Write-ins",1
-"126","Seward","J",1,"U.S. House",NA,"Write-ins",0
-"127","Seward","K",1,"U.S. House",NA,"Write-ins",0
-"128","Seward","M-BX",1,"U.S. House",NA,"Write-ins",0
-"129","Seward","M-CO",1,"U.S. House",NA,"Write-ins",1
-"130","Seward","O-1",1,"U.S. House",NA,"Write-ins",1
-"131","Seward","O-2",1,"U.S. House",NA,"Write-ins",0
-"132","Seward","S-1",1,"U.S. House",NA,"Write-ins",1
-"133","Seward","S-2",1,"U.S. House",NA,"Write-ins",0
-"134","Seward","S-3",1,"U.S. House",NA,"Write-ins",1
-"135","Seward","S-4",1,"U.S. House",NA,"Write-ins",0
-"136","Seward","Absentee",1,"U.S. House",NA,"Write-ins",1
+"county","precinct","district","office","party","candidate","votes"
+"Seward","B",NA,"President","REP","Donald J. Trump",139
+"Seward","C",NA,"President","REP","Donald J. Trump",199
+"Seward","E",NA,"President","REP","Donald J. Trump",340
+"Seward","G",NA,"President","REP","Donald J. Trump",165
+"Seward","H",NA,"President","REP","Donald J. Trump",375
+"Seward","I",NA,"President","REP","Donald J. Trump",416
+"Seward","J",NA,"President","REP","Donald J. Trump",150
+"Seward","K",NA,"President","REP","Donald J. Trump",220
+"Seward","M-BX",NA,"President","REP","Donald J. Trump",217
+"Seward","M-CO",NA,"President","REP","Donald J. Trump",175
+"Seward","O-1",NA,"President","REP","Donald J. Trump",312
+"Seward","O-2",NA,"President","REP","Donald J. Trump",415
+"Seward","S-1",NA,"President","REP","Donald J. Trump",542
+"Seward","S-2",NA,"President","REP","Donald J. Trump",537
+"Seward","S-3",NA,"President","REP","Donald J. Trump",412
+"Seward","S-4",NA,"President","REP","Donald J. Trump",255
+"Seward","Absentee",NA,"President","REP","Donald J. Trump",585
+"Seward","B",NA,"President","DEM","Hillary Clinton",25
+"Seward","C",NA,"President","DEM","Hillary Clinton",59
+"Seward","E",NA,"President","DEM","Hillary Clinton",69
+"Seward","G",NA,"President","DEM","Hillary Clinton",54
+"Seward","H",NA,"President","DEM","Hillary Clinton",130
+"Seward","I",NA,"President","DEM","Hillary Clinton",100
+"Seward","J",NA,"President","DEM","Hillary Clinton",40
+"Seward","K",NA,"President","DEM","Hillary Clinton",67
+"Seward","M-BX",NA,"President","DEM","Hillary Clinton",42
+"Seward","M-CO",NA,"President","DEM","Hillary Clinton",41
+"Seward","O-1",NA,"President","DEM","Hillary Clinton",68
+"Seward","O-2",NA,"President","DEM","Hillary Clinton",96
+"Seward","S-1",NA,"President","DEM","Hillary Clinton",205
+"Seward","S-2",NA,"President","DEM","Hillary Clinton",254
+"Seward","S-3",NA,"President","DEM","Hillary Clinton",182
+"Seward","S-4",NA,"President","DEM","Hillary Clinton",101
+"Seward","Absentee",NA,"President","DEM","Hillary Clinton",342
+"Seward","B",NA,"President","LIB","Johnson/Weld",10
+"Seward","C",NA,"President","LIB","Johnson/Weld",14
+"Seward","E",NA,"President","LIB","Johnson/Weld",25
+"Seward","G",NA,"President","LIB","Johnson/Weld",6
+"Seward","H",NA,"President","LIB","Johnson/Weld",27
+"Seward","I",NA,"President","LIB","Johnson/Weld",22
+"Seward","J",NA,"President","LIB","Johnson/Weld",7
+"Seward","K",NA,"President","LIB","Johnson/Weld",12
+"Seward","M-BX",NA,"President","LIB","Johnson/Weld",13
+"Seward","M-CO",NA,"President","LIB","Johnson/Weld",5
+"Seward","O-1",NA,"President","LIB","Johnson/Weld",18
+"Seward","O-2",NA,"President","LIB","Johnson/Weld",21
+"Seward","S-1",NA,"President","LIB","Johnson/Weld",33
+"Seward","S-2",NA,"President","LIB","Johnson/Weld",22
+"Seward","S-3",NA,"President","LIB","Johnson/Weld",32
+"Seward","S-4",NA,"President","LIB","Johnson/Weld",25
+"Seward","Absentee",NA,"President","LIB","Johnson/Weld",45
+"Seward","B",NA,"President","PET","Jill Stein",3
+"Seward","C",NA,"President","PET","Jill Stein",2
+"Seward","E",NA,"President","PET","Jill Stein",7
+"Seward","G",NA,"President","PET","Jill Stein",0
+"Seward","H",NA,"President","PET","Jill Stein",1
+"Seward","I",NA,"President","PET","Jill Stein",12
+"Seward","J",NA,"President","PET","Jill Stein",1
+"Seward","K",NA,"President","PET","Jill Stein",1
+"Seward","M-BX",NA,"President","PET","Jill Stein",4
+"Seward","M-CO",NA,"President","PET","Jill Stein",1
+"Seward","O-1",NA,"President","PET","Jill Stein",3
+"Seward","O-2",NA,"President","PET","Jill Stein",3
+"Seward","S-1",NA,"President","PET","Jill Stein",2
+"Seward","S-2",NA,"President","PET","Jill Stein",9
+"Seward","S-3",NA,"President","PET","Jill Stein",13
+"Seward","S-4",NA,"President","PET","Jill Stein",7
+"Seward","Absentee",NA,"President","PET","Jill Stein",15
+"Seward","B",NA,"President",NA,"Write-ins",1
+"Seward","C",NA,"President",NA,"Write-ins",6
+"Seward","E",NA,"President",NA,"Write-ins",9
+"Seward","G",NA,"President",NA,"Write-ins",5
+"Seward","H",NA,"President",NA,"Write-ins",9
+"Seward","I",NA,"President",NA,"Write-ins",11
+"Seward","J",NA,"President",NA,"Write-ins",3
+"Seward","K",NA,"President",NA,"Write-ins",3
+"Seward","M-BX",NA,"President",NA,"Write-ins",4
+"Seward","M-CO",NA,"President",NA,"Write-ins",2
+"Seward","O-1",NA,"President",NA,"Write-ins",9
+"Seward","O-2",NA,"President",NA,"Write-ins",6
+"Seward","S-1",NA,"President",NA,"Write-ins",19
+"Seward","S-2",NA,"President",NA,"Write-ins",24
+"Seward","S-3",NA,"President",NA,"Write-ins",25
+"Seward","S-4",NA,"President",NA,"Write-ins",11
+"Seward","Absentee",NA,"President",NA,"Write-ins",20
+"Seward","B",1,"U.S. House","REP","Jeff Fortenberry",143
+"Seward","C",1,"U.S. House","REP","Jeff Fortenberry",231
+"Seward","E",1,"U.S. House","REP","Jeff Fortenberry",371
+"Seward","G",1,"U.S. House","REP","Jeff Fortenberry",185
+"Seward","H",1,"U.S. House","REP","Jeff Fortenberry",414
+"Seward","I",1,"U.S. House","REP","Jeff Fortenberry",448
+"Seward","J",1,"U.S. House","REP","Jeff Fortenberry",153
+"Seward","K",1,"U.S. House","REP","Jeff Fortenberry",241
+"Seward","M-BX",1,"U.S. House","REP","Jeff Fortenberry",233
+"Seward","M-CO",1,"U.S. House","REP","Jeff Fortenberry",178
+"Seward","O-1",1,"U.S. House","REP","Jeff Fortenberry",341
+"Seward","O-2",1,"U.S. House","REP","Jeff Fortenberry",447
+"Seward","S-1",1,"U.S. House","REP","Jeff Fortenberry",654
+"Seward","S-2",1,"U.S. House","REP","Jeff Fortenberry",680
+"Seward","S-3",1,"U.S. House","REP","Jeff Fortenberry",490
+"Seward","S-4",1,"U.S. House","REP","Jeff Fortenberry",316
+"Seward","Absentee",1,"U.S. House","REP","Jeff Fortenberry",728
+"Seward","B",1,"U.S. House","DEM","Daniel M. Wik",37
+"Seward","C",1,"U.S. House","DEM","Daniel M. Wik",46
+"Seward","E",1,"U.S. House","DEM","Daniel M. Wik",67
+"Seward","G",1,"U.S. House","DEM","Daniel M. Wik",37
+"Seward","H",1,"U.S. House","DEM","Daniel M. Wik",121
+"Seward","I",1,"U.S. House","DEM","Daniel M. Wik",94
+"Seward","J",1,"U.S. House","DEM","Daniel M. Wik",42
+"Seward","K",1,"U.S. House","DEM","Daniel M. Wik",59
+"Seward","M-BX",1,"U.S. House","DEM","Daniel M. Wik",43
+"Seward","M-CO",1,"U.S. House","DEM","Daniel M. Wik",46
+"Seward","O-1",1,"U.S. House","DEM","Daniel M. Wik",66
+"Seward","O-2",1,"U.S. House","DEM","Daniel M. Wik",84
+"Seward","S-1",1,"U.S. House","DEM","Daniel M. Wik",136
+"Seward","S-2",1,"U.S. House","DEM","Daniel M. Wik",156
+"Seward","S-3",1,"U.S. House","DEM","Daniel M. Wik",160
+"Seward","S-4",1,"U.S. House","DEM","Daniel M. Wik",75
+"Seward","Absentee",1,"U.S. House","DEM","Daniel M. Wik",249
+"Seward","B",1,"U.S. House",NA,"Write-ins",1
+"Seward","C",1,"U.S. House",NA,"Write-ins",0
+"Seward","E",1,"U.S. House",NA,"Write-ins",1
+"Seward","G",1,"U.S. House",NA,"Write-ins",0
+"Seward","H",1,"U.S. House",NA,"Write-ins",1
+"Seward","I",1,"U.S. House",NA,"Write-ins",1
+"Seward","J",1,"U.S. House",NA,"Write-ins",0
+"Seward","K",1,"U.S. House",NA,"Write-ins",0
+"Seward","M-BX",1,"U.S. House",NA,"Write-ins",0
+"Seward","M-CO",1,"U.S. House",NA,"Write-ins",1
+"Seward","O-1",1,"U.S. House",NA,"Write-ins",1
+"Seward","O-2",1,"U.S. House",NA,"Write-ins",0
+"Seward","S-1",1,"U.S. House",NA,"Write-ins",1
+"Seward","S-2",1,"U.S. House",NA,"Write-ins",0
+"Seward","S-3",1,"U.S. House",NA,"Write-ins",1
+"Seward","S-4",1,"U.S. House",NA,"Write-ins",0
+"Seward","Absentee",1,"U.S. House",NA,"Write-ins",1

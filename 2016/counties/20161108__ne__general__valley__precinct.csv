@@ -1,82 +1,82 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Valley","1",NA,"President","REP","Donald J. Trump",255
-"2","Valley","2",NA,"President","REP","Donald J. Trump",196
-"3","Valley","3",NA,"President","REP","Donald J. Trump",228
-"4","Valley","4",NA,"President","REP","Donald J. Trump",221
-"5","Valley","5",NA,"President","REP","Donald J. Trump",227
-"6","Valley","6",NA,"President","REP","Donald J. Trump",200
-"7","Valley","7",NA,"President","REP","Donald J. Trump",226
-"8","Valley","Absentee",NA,"President","REP","Donald J. Trump",227
-"9","Valley","Total",NA,"President","REP","Donald J. Trump",1780
-"10","Valley","1",NA,"President","DEM","Hillary Clinton",35
-"11","Valley","2",NA,"President","DEM","Hillary Clinton",61
-"12","Valley","3",NA,"President","DEM","Hillary Clinton",46
-"13","Valley","4",NA,"President","DEM","Hillary Clinton",35
-"14","Valley","5",NA,"President","DEM","Hillary Clinton",39
-"15","Valley","6",NA,"President","DEM","Hillary Clinton",30
-"16","Valley","7",NA,"President","DEM","Hillary Clinton",38
-"17","Valley","Absentee",NA,"President","DEM","Hillary Clinton",55
-"18","Valley","Total",NA,"President","DEM","Hillary Clinton",339
-"19","Valley","1",NA,"President","LIB","Gary Johnson",5
-"20","Valley","2",NA,"President","LIB","Gary Johnson",4
-"21","Valley","3",NA,"President","LIB","Gary Johnson",8
-"22","Valley","4",NA,"President","LIB","Gary Johnson",9
-"23","Valley","5",NA,"President","LIB","Gary Johnson",5
-"24","Valley","6",NA,"President","LIB","Gary Johnson",11
-"25","Valley","7",NA,"President","LIB","Gary Johnson",4
-"26","Valley","Absentee",NA,"President","LIB","Gary Johnson",7
-"27","Valley","Total",NA,"President","LIB","Gary Johnson",53
-"28","Valley","1",NA,"President","","Jill Stein",0
-"29","Valley","2",NA,"President","","Jill Stein",1
-"30","Valley","3",NA,"President","","Jill Stein",1
-"31","Valley","4",NA,"President","","Jill Stein",2
-"32","Valley","5",NA,"President","","Jill Stein",1
-"33","Valley","6",NA,"President","","Jill Stein",4
-"34","Valley","7",NA,"President","","Jill Stein",2
-"35","Valley","Absentee",NA,"President","","Jill Stein",1
-"36","Valley","Total",NA,"President","","Jill Stein",12
-"37","Valley","1",NA,"President","","Write-ins",1
-"38","Valley","2",NA,"President","","Write-ins",2
-"39","Valley","3",NA,"President","","Write-ins",7
-"40","Valley","4",NA,"President","","Write-ins",3
-"41","Valley","5",NA,"President","","Write-ins",4
-"42","Valley","6",NA,"President","","Write-ins",1
-"43","Valley","7",NA,"President","","Write-ins",1
-"44","Valley","Absentee",NA,"President","","Write-ins",2
-"45","Valley","Total",NA,"President","","Write-ins",21
-"46","Valley","1",3,"U.S. House","REP","Adrian Smith",255
-"47","Valley","2",3,"U.S. House","REP","Adrian Smith",220
-"48","Valley","3",3,"U.S. House","REP","Adrian Smith",260
-"49","Valley","4",3,"U.S. House","REP","Adrian Smith",237
-"50","Valley","5",3,"U.S. House","REP","Adrian Smith",247
-"51","Valley","6",3,"U.S. House","REP","Adrian Smith",203
-"52","Valley","7",3,"U.S. House","REP","Adrian Smith",248
-"53","Valley","Absentee",3,"U.S. House","REP","Adrian Smith",239
-"54","Valley","Total",3,"U.S. House","REP","Adrian Smith",1909
-"55","Valley","1",3,"U.S. House","","Write-ins",2
-"56","Valley","2",3,"U.S. House","","Write-ins",4
-"57","Valley","3",3,"U.S. House","","Write-ins",7
-"58","Valley","4",3,"U.S. House","","Write-ins",5
-"59","Valley","5",3,"U.S. House","","Write-ins",2
-"60","Valley","6",3,"U.S. House","","Write-ins",2
-"61","Valley","7",3,"U.S. House","","Write-ins",0
-"62","Valley","Absentee",3,"U.S. House","","Write-ins",3
-"63","Valley","Total",3,"U.S. House","","Write-ins",25
-"64","Valley","1",41,"State Legislature","","Tom Briese",208
-"65","Valley","2",41,"State Legislature","","Tom Briese",194
-"66","Valley","3",41,"State Legislature","","Tom Briese",228
-"67","Valley","4",41,"State Legislature","","Tom Briese",197
-"68","Valley","5",41,"State Legislature","","Tom Briese",215
-"69","Valley","6",41,"State Legislature","","Tom Briese",170
-"70","Valley","7",41,"State Legislature","","Tom Briese",204
-"71","Valley","Absentee",41,"State Legislature","","Tom Briese",193
-"72","Valley","Total",41,"State Legislature","","Tom Briese",1609
-"73","Valley","1",41,"State Legislature","","Write-ins",3
-"74","Valley","2",41,"State Legislature","","Write-ins",1
-"75","Valley","3",41,"State Legislature","","Write-ins",3
-"76","Valley","4",41,"State Legislature","","Write-ins",2
-"77","Valley","5",41,"State Legislature","","Write-ins",1
-"78","Valley","6",41,"State Legislature","","Write-ins",2
-"79","Valley","7",41,"State Legislature","","Write-ins",0
-"80","Valley","Absentee",41,"State Legislature","","Write-ins",3
-"81","Valley","Total",41,"State Legislature","","Write-ins",15
+"county","precinct","district","office","party","candidate","votes"
+"Valley","1",NA,"President","REP","Donald J. Trump",255
+"Valley","2",NA,"President","REP","Donald J. Trump",196
+"Valley","3",NA,"President","REP","Donald J. Trump",228
+"Valley","4",NA,"President","REP","Donald J. Trump",221
+"Valley","5",NA,"President","REP","Donald J. Trump",227
+"Valley","6",NA,"President","REP","Donald J. Trump",200
+"Valley","7",NA,"President","REP","Donald J. Trump",226
+"Valley","Absentee",NA,"President","REP","Donald J. Trump",227
+"Valley","Total",NA,"President","REP","Donald J. Trump",1780
+"Valley","1",NA,"President","DEM","Hillary Clinton",35
+"Valley","2",NA,"President","DEM","Hillary Clinton",61
+"Valley","3",NA,"President","DEM","Hillary Clinton",46
+"Valley","4",NA,"President","DEM","Hillary Clinton",35
+"Valley","5",NA,"President","DEM","Hillary Clinton",39
+"Valley","6",NA,"President","DEM","Hillary Clinton",30
+"Valley","7",NA,"President","DEM","Hillary Clinton",38
+"Valley","Absentee",NA,"President","DEM","Hillary Clinton",55
+"Valley","Total",NA,"President","DEM","Hillary Clinton",339
+"Valley","1",NA,"President","LIB","Gary Johnson",5
+"Valley","2",NA,"President","LIB","Gary Johnson",4
+"Valley","3",NA,"President","LIB","Gary Johnson",8
+"Valley","4",NA,"President","LIB","Gary Johnson",9
+"Valley","5",NA,"President","LIB","Gary Johnson",5
+"Valley","6",NA,"President","LIB","Gary Johnson",11
+"Valley","7",NA,"President","LIB","Gary Johnson",4
+"Valley","Absentee",NA,"President","LIB","Gary Johnson",7
+"Valley","Total",NA,"President","LIB","Gary Johnson",53
+"Valley","1",NA,"President","","Jill Stein",0
+"Valley","2",NA,"President","","Jill Stein",1
+"Valley","3",NA,"President","","Jill Stein",1
+"Valley","4",NA,"President","","Jill Stein",2
+"Valley","5",NA,"President","","Jill Stein",1
+"Valley","6",NA,"President","","Jill Stein",4
+"Valley","7",NA,"President","","Jill Stein",2
+"Valley","Absentee",NA,"President","","Jill Stein",1
+"Valley","Total",NA,"President","","Jill Stein",12
+"Valley","1",NA,"President","","Write-ins",1
+"Valley","2",NA,"President","","Write-ins",2
+"Valley","3",NA,"President","","Write-ins",7
+"Valley","4",NA,"President","","Write-ins",3
+"Valley","5",NA,"President","","Write-ins",4
+"Valley","6",NA,"President","","Write-ins",1
+"Valley","7",NA,"President","","Write-ins",1
+"Valley","Absentee",NA,"President","","Write-ins",2
+"Valley","Total",NA,"President","","Write-ins",21
+"Valley","1",3,"U.S. House","REP","Adrian Smith",255
+"Valley","2",3,"U.S. House","REP","Adrian Smith",220
+"Valley","3",3,"U.S. House","REP","Adrian Smith",260
+"Valley","4",3,"U.S. House","REP","Adrian Smith",237
+"Valley","5",3,"U.S. House","REP","Adrian Smith",247
+"Valley","6",3,"U.S. House","REP","Adrian Smith",203
+"Valley","7",3,"U.S. House","REP","Adrian Smith",248
+"Valley","Absentee",3,"U.S. House","REP","Adrian Smith",239
+"Valley","Total",3,"U.S. House","REP","Adrian Smith",1909
+"Valley","1",3,"U.S. House","","Write-ins",2
+"Valley","2",3,"U.S. House","","Write-ins",4
+"Valley","3",3,"U.S. House","","Write-ins",7
+"Valley","4",3,"U.S. House","","Write-ins",5
+"Valley","5",3,"U.S. House","","Write-ins",2
+"Valley","6",3,"U.S. House","","Write-ins",2
+"Valley","7",3,"U.S. House","","Write-ins",0
+"Valley","Absentee",3,"U.S. House","","Write-ins",3
+"Valley","Total",3,"U.S. House","","Write-ins",25
+"Valley","1",41,"State Legislature","","Tom Briese",208
+"Valley","2",41,"State Legislature","","Tom Briese",194
+"Valley","3",41,"State Legislature","","Tom Briese",228
+"Valley","4",41,"State Legislature","","Tom Briese",197
+"Valley","5",41,"State Legislature","","Tom Briese",215
+"Valley","6",41,"State Legislature","","Tom Briese",170
+"Valley","7",41,"State Legislature","","Tom Briese",204
+"Valley","Absentee",41,"State Legislature","","Tom Briese",193
+"Valley","Total",41,"State Legislature","","Tom Briese",1609
+"Valley","1",41,"State Legislature","","Write-ins",3
+"Valley","2",41,"State Legislature","","Write-ins",1
+"Valley","3",41,"State Legislature","","Write-ins",3
+"Valley","4",41,"State Legislature","","Write-ins",2
+"Valley","5",41,"State Legislature","","Write-ins",1
+"Valley","6",41,"State Legislature","","Write-ins",2
+"Valley","7",41,"State Legislature","","Write-ins",0
+"Valley","Absentee",41,"State Legislature","","Write-ins",3
+"Valley","Total",41,"State Legislature","","Write-ins",15

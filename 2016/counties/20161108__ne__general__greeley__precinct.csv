@@ -1,61 +1,61 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Greeley","Scotia",NA,"President","REP","Donald J. Trump",135
-"2","Greeley","Spalding",NA,"President","REP","Donald J. Trump",323
-"3","Greeley","Wolbach",NA,"President","REP","Donald J. Trump",132
-"4","Greeley","Greeley",NA,"President","REP","Donald J. Trump",209
-"5","Greeley","Early",NA,"President","REP","Donald J. Trump",113
-"6","Greeley","Total",NA,"President","REP","Donald J. Trump",912
-"7","Greeley","Scotia",NA,"President","DEM","Hillary Clinton",31
-"8","Greeley","Spalding",NA,"President","DEM","Hillary Clinton",61
-"9","Greeley","Wolbach",NA,"President","DEM","Hillary Clinton",14
-"10","Greeley","Greeley",NA,"President","DEM","Hillary Clinton",69
-"11","Greeley","Early",NA,"President","DEM","Hillary Clinton",35
-"12","Greeley","Total",NA,"President","DEM","Hillary Clinton",210
-"13","Greeley","Scotia",NA,"President","LIB","Gary Johnson",3
-"14","Greeley","Spalding",NA,"President","LIB","Gary Johnson",9
-"15","Greeley","Wolbach",NA,"President","LIB","Gary Johnson",4
-"16","Greeley","Greeley",NA,"President","LIB","Gary Johnson",19
-"17","Greeley","Early",NA,"President","LIB","Gary Johnson",3
-"18","Greeley","Total",NA,"President","LIB","Gary Johnson",38
-"19","Greeley","Scotia",NA,"President","","Jill Stein",0
-"20","Greeley","Spalding",NA,"President","","Jill Stein",4
-"21","Greeley","Wolbach",NA,"President","","Jill Stein",0
-"22","Greeley","Greeley",NA,"President","","Jill Stein",0
-"23","Greeley","Early",NA,"President","","Jill Stein",2
-"24","Greeley","Total",NA,"President","","Jill Stein",6
-"25","Greeley","Scotia",3,"U.S. House","REP","Adrian Smith",148
-"26","Greeley","Spalding",3,"U.S. House","REP","Adrian Smith",329
-"27","Greeley","Wolbach",3,"U.S. House","REP","Adrian Smith",123
-"28","Greeley","Greeley",3,"U.S. House","REP","Adrian Smith",240
-"29","Greeley","Early",3,"U.S. House","REP","Adrian Smith",115
-"30","Greeley","Total",3,"U.S. House","REP","Adrian Smith",955
-"31","Greeley","Scotia",3,"U.S. House","","Write-ins",3
-"32","Greeley","Spalding",3,"U.S. House","","Write-ins",2
-"33","Greeley","Wolbach",3,"U.S. House","","Write-ins",2
-"34","Greeley","Greeley",3,"U.S. House","","Write-ins",1
-"35","Greeley","Early",3,"U.S. House","","Write-ins",0
-"36","Greeley","Total",3,"U.S. House","","Write-ins",8
-"37","Greeley","Scotia",41,"State Legislature","","Tom Briese",127
-"38","Greeley","Spalding",41,"State Legislature","","Tom Briese",270
-"39","Greeley","Wolbach",41,"State Legislature","","Tom Briese",94
-"40","Greeley","Greeley",41,"State Legislature","","Tom Briese",176
-"41","Greeley","Early",41,"State Legislature","","Tom Briese",91
-"42","Greeley","Total",41,"State Legislature","","Tom Briese",758
-"43","Greeley","Scotia",41,"State Legislature","","Write-ins",2
-"44","Greeley","Spalding",41,"State Legislature","","Write-ins",1
-"45","Greeley","Wolbach",41,"State Legislature","","Write-ins",1
-"46","Greeley","Greeley",41,"State Legislature","","Write-ins",3
-"47","Greeley","Early",41,"State Legislature","","Write-ins",0
-"48","Greeley","Total",41,"State Legislature","","Write-ins",7
-"49","","",NA,"","","",NA
-"50","","",NA,"","","",NA
-"51","","",NA,"","","",NA
-"52","","",NA,"","","",NA
-"53","","",NA,"","","",NA
-"54","","",NA,"","","",NA
-"55","","",NA,"","","",NA
-"56","","",NA,"","","",NA
-"57","","",NA,"","","",NA
-"58","","",NA,"","","",NA
-"59","","",NA,"","","",NA
-"60","","",NA,"","","",NA
+"county","precinct","district","office","party","candidate","votes"
+"Greeley","Scotia",NA,"President","REP","Donald J. Trump",135
+"Greeley","Spalding",NA,"President","REP","Donald J. Trump",323
+"Greeley","Wolbach",NA,"President","REP","Donald J. Trump",132
+"Greeley","Greeley",NA,"President","REP","Donald J. Trump",209
+"Greeley","Early",NA,"President","REP","Donald J. Trump",113
+"Greeley","Total",NA,"President","REP","Donald J. Trump",912
+"Greeley","Scotia",NA,"President","DEM","Hillary Clinton",31
+"Greeley","Spalding",NA,"President","DEM","Hillary Clinton",61
+"Greeley","Wolbach",NA,"President","DEM","Hillary Clinton",14
+"Greeley","Greeley",NA,"President","DEM","Hillary Clinton",69
+"Greeley","Early",NA,"President","DEM","Hillary Clinton",35
+"Greeley","Total",NA,"President","DEM","Hillary Clinton",210
+"Greeley","Scotia",NA,"President","LIB","Gary Johnson",3
+"Greeley","Spalding",NA,"President","LIB","Gary Johnson",9
+"Greeley","Wolbach",NA,"President","LIB","Gary Johnson",4
+"Greeley","Greeley",NA,"President","LIB","Gary Johnson",19
+"Greeley","Early",NA,"President","LIB","Gary Johnson",3
+"Greeley","Total",NA,"President","LIB","Gary Johnson",38
+"Greeley","Scotia",NA,"President","","Jill Stein",0
+"Greeley","Spalding",NA,"President","","Jill Stein",4
+"Greeley","Wolbach",NA,"President","","Jill Stein",0
+"Greeley","Greeley",NA,"President","","Jill Stein",0
+"Greeley","Early",NA,"President","","Jill Stein",2
+"Greeley","Total",NA,"President","","Jill Stein",6
+"Greeley","Scotia",3,"U.S. House","REP","Adrian Smith",148
+"Greeley","Spalding",3,"U.S. House","REP","Adrian Smith",329
+"Greeley","Wolbach",3,"U.S. House","REP","Adrian Smith",123
+"Greeley","Greeley",3,"U.S. House","REP","Adrian Smith",240
+"Greeley","Early",3,"U.S. House","REP","Adrian Smith",115
+"Greeley","Total",3,"U.S. House","REP","Adrian Smith",955
+"Greeley","Scotia",3,"U.S. House","","Write-ins",3
+"Greeley","Spalding",3,"U.S. House","","Write-ins",2
+"Greeley","Wolbach",3,"U.S. House","","Write-ins",2
+"Greeley","Greeley",3,"U.S. House","","Write-ins",1
+"Greeley","Early",3,"U.S. House","","Write-ins",0
+"Greeley","Total",3,"U.S. House","","Write-ins",8
+"Greeley","Scotia",41,"State Legislature","","Tom Briese",127
+"Greeley","Spalding",41,"State Legislature","","Tom Briese",270
+"Greeley","Wolbach",41,"State Legislature","","Tom Briese",94
+"Greeley","Greeley",41,"State Legislature","","Tom Briese",176
+"Greeley","Early",41,"State Legislature","","Tom Briese",91
+"Greeley","Total",41,"State Legislature","","Tom Briese",758
+"Greeley","Scotia",41,"State Legislature","","Write-ins",2
+"Greeley","Spalding",41,"State Legislature","","Write-ins",1
+"Greeley","Wolbach",41,"State Legislature","","Write-ins",1
+"Greeley","Greeley",41,"State Legislature","","Write-ins",3
+"Greeley","Early",41,"State Legislature","","Write-ins",0
+"Greeley","Total",41,"State Legislature","","Write-ins",7
+"","",NA,"","","",NA
+"","",NA,"","","",NA
+"","",NA,"","","",NA
+"","",NA,"","","",NA
+"","",NA,"","","",NA
+"","",NA,"","","",NA
+"","",NA,"","","",NA
+"","",NA,"","","",NA
+"","",NA,"","","",NA
+"","",NA,"","","",NA
+"","",NA,"","","",NA
+"","",NA,"","","",NA

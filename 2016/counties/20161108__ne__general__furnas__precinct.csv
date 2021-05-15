@@ -1,56 +1,56 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Furnas","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",0
-"2","Furnas","Arapahoe",NA,"President","DEM","Hillary Clinton",67
-"3","Furnas","Beaver City",NA,"President","DEM","Hillary Clinton",48
-"4","Furnas","Cambridge",NA,"President","DEM","Hillary Clinton",96
-"5","Furnas","Countywide",NA,"President","DEM","Hillary Clinton",0
-"6","Furnas","Edison",NA,"President","DEM","Hillary Clinton",9
-"7","Furnas","Hendley",NA,"President","DEM","Hillary Clinton",12
-"8","Furnas","Holbrook",NA,"President","DEM","Hillary Clinton",16
-"9","Furnas","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
-"10","Furnas","Oxford",NA,"President","DEM","Hillary Clinton",39
-"11","Furnas","Wilsonville",NA,"President","DEM","Hillary Clinton",17
-"12","Furnas","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",0
-"13","Furnas","Arapahoe",NA,"President","LIB","Gary Johnson",29
-"14","Furnas","Beaver City",NA,"President","LIB","Gary Johnson",13
-"15","Furnas","Cambridge",NA,"President","LIB","Gary Johnson",26
-"16","Furnas","Countywide",NA,"President","LIB","Gary Johnson",0
-"17","Furnas","Edison",NA,"President","LIB","Gary Johnson",1
-"18","Furnas","Hendley",NA,"President","LIB","Gary Johnson",2
-"19","Furnas","Holbrook",NA,"President","LIB","Gary Johnson",6
-"20","Furnas","New/Former Resident",NA,"President","LIB","Gary Johnson",0
-"21","Furnas","Oxford",NA,"President","LIB","Gary Johnson",7
-"22","Furnas","Wilsonville",NA,"President","LIB","Gary Johnson",1
-"23","Furnas","Absentee/Early Vote",NA,"President","","Jill Stein",0
-"24","Furnas","Arapahoe",NA,"President","","Jill Stein",2
-"25","Furnas","Beaver City",NA,"President","","Jill Stein",1
-"26","Furnas","Cambridge",NA,"President","","Jill Stein",2
-"27","Furnas","Countywide",NA,"President","","Jill Stein",0
-"28","Furnas","Edison",NA,"President","","Jill Stein",0
-"29","Furnas","Hendley",NA,"President","","Jill Stein",1
-"30","Furnas","Holbrook",NA,"President","","Jill Stein",0
-"31","Furnas","New/Former Resident",NA,"President","","Jill Stein",0
-"32","Furnas","Oxford",NA,"President","","Jill Stein",3
-"33","Furnas","Wilsonville",NA,"President","","Jill Stein",2
-"34","Furnas","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",0
-"35","Furnas","Arapahoe",NA,"President","REP","Donald J. Trump",477
-"36","Furnas","Beaver City",NA,"President","REP","Donald J. Trump",308
-"37","Furnas","Cambridge",NA,"President","REP","Donald J. Trump",509
-"38","Furnas","Countywide",NA,"President","REP","Donald J. Trump",0
-"39","Furnas","Edison",NA,"President","REP","Donald J. Trump",97
-"40","Furnas","Hendley",NA,"President","REP","Donald J. Trump",81
-"41","Furnas","Holbrook",NA,"President","REP","Donald J. Trump",125
-"42","Furnas","New/Former Resident",NA,"President","REP","Donald J. Trump",0
-"43","Furnas","Oxford",NA,"President","REP","Donald J. Trump",252
-"44","Furnas","Wilsonville",NA,"President","REP","Donald J. Trump",72
-"45","Furnas","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",0
-"46","Furnas","Arapahoe",3,"U.S. House","REP","Adrian Smith",544
-"47","Furnas","Beaver City",3,"U.S. House","REP","Adrian Smith",326
-"48","Furnas","Cambridge",3,"U.S. House","REP","Adrian Smith",580
-"49","Furnas","Countywide",3,"U.S. House","REP","Adrian Smith",0
-"50","Furnas","Edison",3,"U.S. House","REP","Adrian Smith",100
-"51","Furnas","Hendley",3,"U.S. House","REP","Adrian Smith",85
-"52","Furnas","Holbrook",3,"U.S. House","REP","Adrian Smith",135
-"53","Furnas","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
-"54","Furnas","Oxford",3,"U.S. House","REP","Adrian Smith",268
-"55","Furnas","Wilsonville",3,"U.S. House","REP","Adrian Smith",81
+"county","precinct","district","office","party","candidate","votes"
+"Furnas","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",0
+"Furnas","Arapahoe",NA,"President","DEM","Hillary Clinton",67
+"Furnas","Beaver City",NA,"President","DEM","Hillary Clinton",48
+"Furnas","Cambridge",NA,"President","DEM","Hillary Clinton",96
+"Furnas","Countywide",NA,"President","DEM","Hillary Clinton",0
+"Furnas","Edison",NA,"President","DEM","Hillary Clinton",9
+"Furnas","Hendley",NA,"President","DEM","Hillary Clinton",12
+"Furnas","Holbrook",NA,"President","DEM","Hillary Clinton",16
+"Furnas","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
+"Furnas","Oxford",NA,"President","DEM","Hillary Clinton",39
+"Furnas","Wilsonville",NA,"President","DEM","Hillary Clinton",17
+"Furnas","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",0
+"Furnas","Arapahoe",NA,"President","LIB","Gary Johnson",29
+"Furnas","Beaver City",NA,"President","LIB","Gary Johnson",13
+"Furnas","Cambridge",NA,"President","LIB","Gary Johnson",26
+"Furnas","Countywide",NA,"President","LIB","Gary Johnson",0
+"Furnas","Edison",NA,"President","LIB","Gary Johnson",1
+"Furnas","Hendley",NA,"President","LIB","Gary Johnson",2
+"Furnas","Holbrook",NA,"President","LIB","Gary Johnson",6
+"Furnas","New/Former Resident",NA,"President","LIB","Gary Johnson",0
+"Furnas","Oxford",NA,"President","LIB","Gary Johnson",7
+"Furnas","Wilsonville",NA,"President","LIB","Gary Johnson",1
+"Furnas","Absentee/Early Vote",NA,"President","","Jill Stein",0
+"Furnas","Arapahoe",NA,"President","","Jill Stein",2
+"Furnas","Beaver City",NA,"President","","Jill Stein",1
+"Furnas","Cambridge",NA,"President","","Jill Stein",2
+"Furnas","Countywide",NA,"President","","Jill Stein",0
+"Furnas","Edison",NA,"President","","Jill Stein",0
+"Furnas","Hendley",NA,"President","","Jill Stein",1
+"Furnas","Holbrook",NA,"President","","Jill Stein",0
+"Furnas","New/Former Resident",NA,"President","","Jill Stein",0
+"Furnas","Oxford",NA,"President","","Jill Stein",3
+"Furnas","Wilsonville",NA,"President","","Jill Stein",2
+"Furnas","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",0
+"Furnas","Arapahoe",NA,"President","REP","Donald J. Trump",477
+"Furnas","Beaver City",NA,"President","REP","Donald J. Trump",308
+"Furnas","Cambridge",NA,"President","REP","Donald J. Trump",509
+"Furnas","Countywide",NA,"President","REP","Donald J. Trump",0
+"Furnas","Edison",NA,"President","REP","Donald J. Trump",97
+"Furnas","Hendley",NA,"President","REP","Donald J. Trump",81
+"Furnas","Holbrook",NA,"President","REP","Donald J. Trump",125
+"Furnas","New/Former Resident",NA,"President","REP","Donald J. Trump",0
+"Furnas","Oxford",NA,"President","REP","Donald J. Trump",252
+"Furnas","Wilsonville",NA,"President","REP","Donald J. Trump",72
+"Furnas","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",0
+"Furnas","Arapahoe",3,"U.S. House","REP","Adrian Smith",544
+"Furnas","Beaver City",3,"U.S. House","REP","Adrian Smith",326
+"Furnas","Cambridge",3,"U.S. House","REP","Adrian Smith",580
+"Furnas","Countywide",3,"U.S. House","REP","Adrian Smith",0
+"Furnas","Edison",3,"U.S. House","REP","Adrian Smith",100
+"Furnas","Hendley",3,"U.S. House","REP","Adrian Smith",85
+"Furnas","Holbrook",3,"U.S. House","REP","Adrian Smith",135
+"Furnas","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
+"Furnas","Oxford",3,"U.S. House","REP","Adrian Smith",268
+"Furnas","Wilsonville",3,"U.S. House","REP","Adrian Smith",81

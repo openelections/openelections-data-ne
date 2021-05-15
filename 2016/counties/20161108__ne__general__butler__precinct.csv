@@ -1,144 +1,144 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Butler","1",NA,"President","REP","Donald J. Trump",235
-"2","Butler","3",NA,"President","REP","Donald J. Trump",406
-"3","Butler","5",NA,"President","REP","Donald J. Trump",233
-"4","Butler","7",NA,"President","REP","Donald J. Trump",202
-"5","Butler","9",NA,"President","REP","Donald J. Trump",272
-"6","Butler","11",NA,"President","REP","Donald J. Trump",190
-"7","Butler","13",NA,"President","REP","Donald J. Trump",182
-"8","Butler","15",NA,"President","REP","Donald J. Trump",229
-"9","Butler","18",NA,"President","REP","Donald J. Trump",218
-"10","Butler","19",NA,"President","REP","Donald J. Trump",249
-"11","Butler","20",NA,"President","REP","Donald J. Trump",300
-"12","Butler","early votes",NA,"President","REP","Donald J. Trump",363
-"13","Butler","total",NA,"President","REP","Donald J. Trump",3079
-"14","Butler","1",NA,"President","LIB","Gary Johnson",10
-"15","Butler","3",NA,"President","LIB","Gary Johnson",23
-"16","Butler","5",NA,"President","LIB","Gary Johnson",7
-"17","Butler","7",NA,"President","LIB","Gary Johnson",5
-"18","Butler","9",NA,"President","LIB","Gary Johnson",9
-"19","Butler","11",NA,"President","LIB","Gary Johnson",2
-"20","Butler","13",NA,"President","LIB","Gary Johnson",9
-"21","Butler","15",NA,"President","LIB","Gary Johnson",6
-"22","Butler","18",NA,"President","LIB","Gary Johnson",7
-"23","Butler","19",NA,"President","LIB","Gary Johnson",12
-"24","Butler","20",NA,"President","LIB","Gary Johnson",17
-"25","Butler","early votes",NA,"President","LIB","Gary Johnson",22
-"26","Butler","total",NA,"President","LIB","Gary Johnson",129
-"27","Butler","1",NA,"President","DEM","Hillary Clinton",55
-"28","Butler","3",NA,"President","DEM","Hillary Clinton",70
-"29","Butler","5",NA,"President","DEM","Hillary Clinton",49
-"30","Butler","7",NA,"President","DEM","Hillary Clinton",35
-"31","Butler","9",NA,"President","DEM","Hillary Clinton",66
-"32","Butler","11",NA,"President","DEM","Hillary Clinton",23
-"33","Butler","13",NA,"President","DEM","Hillary Clinton",32
-"34","Butler","15",NA,"President","DEM","Hillary Clinton",51
-"35","Butler","18",NA,"President","DEM","Hillary Clinton",50
-"36","Butler","19",NA,"President","DEM","Hillary Clinton",70
-"37","Butler","20",NA,"President","DEM","Hillary Clinton",66
-"38","Butler","early votes",NA,"President","DEM","Hillary Clinton",124
-"39","Butler","total",NA,"President","DEM","Hillary Clinton",691
-"40","Butler","1",NA,"President","GRE","Jill Stein",3
-"41","Butler","3",NA,"President","GRE","Jill Stein",5
-"42","Butler","5",NA,"President","GRE","Jill Stein",1
-"43","Butler","7",NA,"President","GRE","Jill Stein",0
-"44","Butler","9",NA,"President","GRE","Jill Stein",2
-"45","Butler","11",NA,"President","GRE","Jill Stein",3
-"46","Butler","13",NA,"President","GRE","Jill Stein",1
-"47","Butler","15",NA,"President","GRE","Jill Stein",2
-"48","Butler","18",NA,"President","GRE","Jill Stein",1
-"49","Butler","19",NA,"President","GRE","Jill Stein",4
-"50","Butler","20",NA,"President","GRE","Jill Stein",3
-"51","Butler","early votes",NA,"President","GRE","Jill Stein",2
-"52","Butler","total",NA,"President","GRE","Jill Stein",27
-"53","Butler","1",NA,"President","","Write-ins",2
-"54","Butler","3",NA,"President","","Write-ins",7
-"55","Butler","5",NA,"President","","Write-ins",4
-"56","Butler","7",NA,"President","","Write-ins",2
-"57","Butler","9",NA,"President","","Write-ins",10
-"58","Butler","11",NA,"President","","Write-ins",0
-"59","Butler","13",NA,"President","","Write-ins",0
-"60","Butler","15",NA,"President","","Write-ins",2
-"61","Butler","18",NA,"President","","Write-ins",6
-"62","Butler","19",NA,"President","","Write-ins",10
-"63","Butler","20",NA,"President","","Write-ins",5
-"64","Butler","early votes",NA,"President","","Write-ins",7
-"65","Butler","total",NA,"President","","Write-ins",55
-"66","Butler","1",23,"State Legislature","","Bruce Bostelman",185
-"67","Butler","3",23,"State Legislature","","Bruce Bostelman",300
-"68","Butler","5",23,"State Legislature","","Bruce Bostelman",162
-"69","Butler","7",23,"State Legislature","","Bruce Bostelman",164
-"70","Butler","9",23,"State Legislature","","Bruce Bostelman",270
-"71","Butler","11",23,"State Legislature","","Bruce Bostelman",136
-"72","Butler","13",23,"State Legislature","","Bruce Bostelman",135
-"73","Butler","15",23,"State Legislature","","Bruce Bostelman",225
-"74","Butler","18",23,"State Legislature","","Bruce Bostelman",158
-"75","Butler","19",23,"State Legislature","","Bruce Bostelman",209
-"76","Butler","20",23,"State Legislature","","Bruce Bostelman",249
-"77","Butler","early votes",23,"State Legislature","","Bruce Bostelman",279
-"78","Butler","total",23,"State Legislature","","Bruce Bostelman",2472
-"79","Butler","1",23,"State Legislature","","Jerry Johnson",92
-"80","Butler","3",23,"State Legislature","","Jerry Johnson",148
-"81","Butler","5",23,"State Legislature","","Jerry Johnson",105
-"82","Butler","7",23,"State Legislature","","Jerry Johnson",63
-"83","Butler","9",23,"State Legislature","","Jerry Johnson",83
-"84","Butler","11",23,"State Legislature","","Jerry Johnson",73
-"85","Butler","13",23,"State Legislature","","Jerry Johnson",67
-"86","Butler","15",23,"State Legislature","","Jerry Johnson",58
-"87","Butler","18",23,"State Legislature","","Jerry Johnson",105
-"88","Butler","19",23,"State Legislature","","Jerry Johnson",111
-"89","Butler","20",23,"State Legislature","","Jerry Johnson",124
-"90","Butler","early votes",23,"State Legislature","","Jerry Johnson",185
-"91","Butler","total",23,"State Legislature","","Jerry Johnson",1214
-"92","Butler","1",23,"State Legislature","","Write-ins",1
-"93","Butler","3",23,"State Legislature","","Write-ins",1
-"94","Butler","5",23,"State Legislature","","Write-ins",0
-"95","Butler","7",23,"State Legislature","","Write-ins",0
-"96","Butler","9",23,"State Legislature","","Write-ins",0
-"97","Butler","11",23,"State Legislature","","Write-ins",0
-"98","Butler","13",23,"State Legislature","","Write-ins",0
-"99","Butler","15",23,"State Legislature","","Write-ins",0
-"100","Butler","18",23,"State Legislature","","Write-ins",1
-"101","Butler","19",23,"State Legislature","","Write-ins",1
-"102","Butler","20",23,"State Legislature","","Write-ins",0
-"103","Butler","early votes",23,"State Legislature","","Write-ins",1
-"104","Butler","total",23,"State Legislature","","Write-ins",5
-"105","Butler","1",1,"U.S. House","DEM","Daniel M. Wik",51
-"106","Butler","3",1,"U.S. House","DEM","Daniel M. Wik",69
-"107","Butler","5",1,"U.S. House","DEM","Daniel M. Wik",36
-"108","Butler","7",1,"U.S. House","DEM","Daniel M. Wik",24
-"109","Butler","9",1,"U.S. House","DEM","Daniel M. Wik",46
-"110","Butler","11",1,"U.S. House","DEM","Daniel M. Wik",30
-"111","Butler","13",1,"U.S. House","DEM","Daniel M. Wik",29
-"112","Butler","15",1,"U.S. House","DEM","Daniel M. Wik",53
-"113","Butler","18",1,"U.S. House","DEM","Daniel M. Wik",40
-"114","Butler","19",1,"U.S. House","DEM","Daniel M. Wik",50
-"115","Butler","20",1,"U.S. House","DEM","Daniel M. Wik",44
-"116","Butler","early votes",1,"U.S. House","DEM","Daniel M. Wik",101
-"117","Butler","total",1,"U.S. House","DEM","Daniel M. Wik",573
-"118","Butler","1",1,"U.S. House","REP","Jeff Fortenberry",239
-"119","Butler","3",1,"U.S. House","REP","Jeff Fortenberry",410
-"120","Butler","5",1,"U.S. House","REP","Jeff Fortenberry",249
-"121","Butler","7",1,"U.S. House","REP","Jeff Fortenberry",208
-"122","Butler","9",1,"U.S. House","REP","Jeff Fortenberry",302
-"123","Butler","11",1,"U.S. House","REP","Jeff Fortenberry",174
-"124","Butler","13",1,"U.S. House","REP","Jeff Fortenberry",188
-"125","Butler","15",1,"U.S. House","REP","Jeff Fortenberry",228
-"126","Butler","18",1,"U.S. House","REP","Jeff Fortenberry",228
-"127","Butler","19",1,"U.S. House","REP","Jeff Fortenberry",275
-"128","Butler","20",1,"U.S. House","REP","Jeff Fortenberry",338
-"129","Butler","early votes",1,"U.S. House","REP","Jeff Fortenberry",392
-"130","Butler","total",1,"U.S. House","REP","Jeff Fortenberry",3231
-"131","Butler","1",1,"U.S. House","","Write-ins",0
-"132","Butler","3",1,"U.S. House","","Write-ins",1
-"133","Butler","5",1,"U.S. House","","Write-ins",0
-"134","Butler","7",1,"U.S. House","","Write-ins",0
-"135","Butler","9",1,"U.S. House","","Write-ins",0
-"136","Butler","11",1,"U.S. House","","Write-ins",0
-"137","Butler","13",1,"U.S. House","","Write-ins",0
-"138","Butler","15",1,"U.S. House","","Write-ins",0
-"139","Butler","18",1,"U.S. House","","Write-ins",1
-"140","Butler","19",1,"U.S. House","","Write-ins",1
-"141","Butler","20",1,"U.S. House","","Write-ins",2
-"142","Butler","early votes",1,"U.S. House","","Write-ins",0
-"143","Butler","total",1,"U.S. House","","Write-ins",5
+"county","precinct","district","office","party","candidate","votes"
+"Butler","1",NA,"President","REP","Donald J. Trump",235
+"Butler","3",NA,"President","REP","Donald J. Trump",406
+"Butler","5",NA,"President","REP","Donald J. Trump",233
+"Butler","7",NA,"President","REP","Donald J. Trump",202
+"Butler","9",NA,"President","REP","Donald J. Trump",272
+"Butler","11",NA,"President","REP","Donald J. Trump",190
+"Butler","13",NA,"President","REP","Donald J. Trump",182
+"Butler","15",NA,"President","REP","Donald J. Trump",229
+"Butler","18",NA,"President","REP","Donald J. Trump",218
+"Butler","19",NA,"President","REP","Donald J. Trump",249
+"Butler","20",NA,"President","REP","Donald J. Trump",300
+"Butler","early votes",NA,"President","REP","Donald J. Trump",363
+"Butler","total",NA,"President","REP","Donald J. Trump",3079
+"Butler","1",NA,"President","LIB","Gary Johnson",10
+"Butler","3",NA,"President","LIB","Gary Johnson",23
+"Butler","5",NA,"President","LIB","Gary Johnson",7
+"Butler","7",NA,"President","LIB","Gary Johnson",5
+"Butler","9",NA,"President","LIB","Gary Johnson",9
+"Butler","11",NA,"President","LIB","Gary Johnson",2
+"Butler","13",NA,"President","LIB","Gary Johnson",9
+"Butler","15",NA,"President","LIB","Gary Johnson",6
+"Butler","18",NA,"President","LIB","Gary Johnson",7
+"Butler","19",NA,"President","LIB","Gary Johnson",12
+"Butler","20",NA,"President","LIB","Gary Johnson",17
+"Butler","early votes",NA,"President","LIB","Gary Johnson",22
+"Butler","total",NA,"President","LIB","Gary Johnson",129
+"Butler","1",NA,"President","DEM","Hillary Clinton",55
+"Butler","3",NA,"President","DEM","Hillary Clinton",70
+"Butler","5",NA,"President","DEM","Hillary Clinton",49
+"Butler","7",NA,"President","DEM","Hillary Clinton",35
+"Butler","9",NA,"President","DEM","Hillary Clinton",66
+"Butler","11",NA,"President","DEM","Hillary Clinton",23
+"Butler","13",NA,"President","DEM","Hillary Clinton",32
+"Butler","15",NA,"President","DEM","Hillary Clinton",51
+"Butler","18",NA,"President","DEM","Hillary Clinton",50
+"Butler","19",NA,"President","DEM","Hillary Clinton",70
+"Butler","20",NA,"President","DEM","Hillary Clinton",66
+"Butler","early votes",NA,"President","DEM","Hillary Clinton",124
+"Butler","total",NA,"President","DEM","Hillary Clinton",691
+"Butler","1",NA,"President","GRE","Jill Stein",3
+"Butler","3",NA,"President","GRE","Jill Stein",5
+"Butler","5",NA,"President","GRE","Jill Stein",1
+"Butler","7",NA,"President","GRE","Jill Stein",0
+"Butler","9",NA,"President","GRE","Jill Stein",2
+"Butler","11",NA,"President","GRE","Jill Stein",3
+"Butler","13",NA,"President","GRE","Jill Stein",1
+"Butler","15",NA,"President","GRE","Jill Stein",2
+"Butler","18",NA,"President","GRE","Jill Stein",1
+"Butler","19",NA,"President","GRE","Jill Stein",4
+"Butler","20",NA,"President","GRE","Jill Stein",3
+"Butler","early votes",NA,"President","GRE","Jill Stein",2
+"Butler","total",NA,"President","GRE","Jill Stein",27
+"Butler","1",NA,"President","","Write-ins",2
+"Butler","3",NA,"President","","Write-ins",7
+"Butler","5",NA,"President","","Write-ins",4
+"Butler","7",NA,"President","","Write-ins",2
+"Butler","9",NA,"President","","Write-ins",10
+"Butler","11",NA,"President","","Write-ins",0
+"Butler","13",NA,"President","","Write-ins",0
+"Butler","15",NA,"President","","Write-ins",2
+"Butler","18",NA,"President","","Write-ins",6
+"Butler","19",NA,"President","","Write-ins",10
+"Butler","20",NA,"President","","Write-ins",5
+"Butler","early votes",NA,"President","","Write-ins",7
+"Butler","total",NA,"President","","Write-ins",55
+"Butler","1",23,"State Legislature","","Bruce Bostelman",185
+"Butler","3",23,"State Legislature","","Bruce Bostelman",300
+"Butler","5",23,"State Legislature","","Bruce Bostelman",162
+"Butler","7",23,"State Legislature","","Bruce Bostelman",164
+"Butler","9",23,"State Legislature","","Bruce Bostelman",270
+"Butler","11",23,"State Legislature","","Bruce Bostelman",136
+"Butler","13",23,"State Legislature","","Bruce Bostelman",135
+"Butler","15",23,"State Legislature","","Bruce Bostelman",225
+"Butler","18",23,"State Legislature","","Bruce Bostelman",158
+"Butler","19",23,"State Legislature","","Bruce Bostelman",209
+"Butler","20",23,"State Legislature","","Bruce Bostelman",249
+"Butler","early votes",23,"State Legislature","","Bruce Bostelman",279
+"Butler","total",23,"State Legislature","","Bruce Bostelman",2472
+"Butler","1",23,"State Legislature","","Jerry Johnson",92
+"Butler","3",23,"State Legislature","","Jerry Johnson",148
+"Butler","5",23,"State Legislature","","Jerry Johnson",105
+"Butler","7",23,"State Legislature","","Jerry Johnson",63
+"Butler","9",23,"State Legislature","","Jerry Johnson",83
+"Butler","11",23,"State Legislature","","Jerry Johnson",73
+"Butler","13",23,"State Legislature","","Jerry Johnson",67
+"Butler","15",23,"State Legislature","","Jerry Johnson",58
+"Butler","18",23,"State Legislature","","Jerry Johnson",105
+"Butler","19",23,"State Legislature","","Jerry Johnson",111
+"Butler","20",23,"State Legislature","","Jerry Johnson",124
+"Butler","early votes",23,"State Legislature","","Jerry Johnson",185
+"Butler","total",23,"State Legislature","","Jerry Johnson",1214
+"Butler","1",23,"State Legislature","","Write-ins",1
+"Butler","3",23,"State Legislature","","Write-ins",1
+"Butler","5",23,"State Legislature","","Write-ins",0
+"Butler","7",23,"State Legislature","","Write-ins",0
+"Butler","9",23,"State Legislature","","Write-ins",0
+"Butler","11",23,"State Legislature","","Write-ins",0
+"Butler","13",23,"State Legislature","","Write-ins",0
+"Butler","15",23,"State Legislature","","Write-ins",0
+"Butler","18",23,"State Legislature","","Write-ins",1
+"Butler","19",23,"State Legislature","","Write-ins",1
+"Butler","20",23,"State Legislature","","Write-ins",0
+"Butler","early votes",23,"State Legislature","","Write-ins",1
+"Butler","total",23,"State Legislature","","Write-ins",5
+"Butler","1",1,"U.S. House","DEM","Daniel M. Wik",51
+"Butler","3",1,"U.S. House","DEM","Daniel M. Wik",69
+"Butler","5",1,"U.S. House","DEM","Daniel M. Wik",36
+"Butler","7",1,"U.S. House","DEM","Daniel M. Wik",24
+"Butler","9",1,"U.S. House","DEM","Daniel M. Wik",46
+"Butler","11",1,"U.S. House","DEM","Daniel M. Wik",30
+"Butler","13",1,"U.S. House","DEM","Daniel M. Wik",29
+"Butler","15",1,"U.S. House","DEM","Daniel M. Wik",53
+"Butler","18",1,"U.S. House","DEM","Daniel M. Wik",40
+"Butler","19",1,"U.S. House","DEM","Daniel M. Wik",50
+"Butler","20",1,"U.S. House","DEM","Daniel M. Wik",44
+"Butler","early votes",1,"U.S. House","DEM","Daniel M. Wik",101
+"Butler","total",1,"U.S. House","DEM","Daniel M. Wik",573
+"Butler","1",1,"U.S. House","REP","Jeff Fortenberry",239
+"Butler","3",1,"U.S. House","REP","Jeff Fortenberry",410
+"Butler","5",1,"U.S. House","REP","Jeff Fortenberry",249
+"Butler","7",1,"U.S. House","REP","Jeff Fortenberry",208
+"Butler","9",1,"U.S. House","REP","Jeff Fortenberry",302
+"Butler","11",1,"U.S. House","REP","Jeff Fortenberry",174
+"Butler","13",1,"U.S. House","REP","Jeff Fortenberry",188
+"Butler","15",1,"U.S. House","REP","Jeff Fortenberry",228
+"Butler","18",1,"U.S. House","REP","Jeff Fortenberry",228
+"Butler","19",1,"U.S. House","REP","Jeff Fortenberry",275
+"Butler","20",1,"U.S. House","REP","Jeff Fortenberry",338
+"Butler","early votes",1,"U.S. House","REP","Jeff Fortenberry",392
+"Butler","total",1,"U.S. House","REP","Jeff Fortenberry",3231
+"Butler","1",1,"U.S. House","","Write-ins",0
+"Butler","3",1,"U.S. House","","Write-ins",1
+"Butler","5",1,"U.S. House","","Write-ins",0
+"Butler","7",1,"U.S. House","","Write-ins",0
+"Butler","9",1,"U.S. House","","Write-ins",0
+"Butler","11",1,"U.S. House","","Write-ins",0
+"Butler","13",1,"U.S. House","","Write-ins",0
+"Butler","15",1,"U.S. House","","Write-ins",0
+"Butler","18",1,"U.S. House","","Write-ins",1
+"Butler","19",1,"U.S. House","","Write-ins",1
+"Butler","20",1,"U.S. House","","Write-ins",2
+"Butler","early votes",1,"U.S. House","","Write-ins",0
+"Butler","total",1,"U.S. House","","Write-ins",5

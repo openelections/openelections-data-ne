@@ -1,15 +1,15 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Arthur","Absentee",NA,"President","DEM","Hillary Clinton",0
-"2","Arthur","Arthur",NA,"President","DEM","Hillary Clinton",17
-"3","Arthur","Absentee",NA,"President","LIB","Gary Johnson",0
-"4","Arthur","Arthur",NA,"President","LIB","Gary Johnson",11
-"5","Arthur","Absentee",NA,"President","","Jill Stein",0
-"6","Arthur","Arthur",NA,"President","","Jill Stein",0
-"7","Arthur","Absentee",NA,"President","REP","Donald J. Trump",0
-"8","Arthur","Arthur",NA,"President","REP","Donald J. Trump",244
-"9","Arthur","Absentee",3,"U.S. House","REP","Adrian Smith",0
-"10","Arthur","Arthur",3,"U.S. House","REP","Adrian Smith",254
-"11","Arthur","Absentee",47,"State Legislature","","Karl Elmshaeuser",0
-"12","Arthur","Arthur",47,"State Legislature","","Karl Elmshaeuser",98
-"13","Arthur","Absentee",47,"State Legislature","","Steve Erdman",0
-"14","Arthur","Arthur",47,"State Legislature","","Steve Erdman",156
+"county","precinct","district","office","party","candidate","votes"
+"Arthur","Absentee",NA,"President","DEM","Hillary Clinton",0
+"Arthur","Arthur",NA,"President","DEM","Hillary Clinton",17
+"Arthur","Absentee",NA,"President","LIB","Gary Johnson",0
+"Arthur","Arthur",NA,"President","LIB","Gary Johnson",11
+"Arthur","Absentee",NA,"President","","Jill Stein",0
+"Arthur","Arthur",NA,"President","","Jill Stein",0
+"Arthur","Absentee",NA,"President","REP","Donald J. Trump",0
+"Arthur","Arthur",NA,"President","REP","Donald J. Trump",244
+"Arthur","Absentee",3,"U.S. House","REP","Adrian Smith",0
+"Arthur","Arthur",3,"U.S. House","REP","Adrian Smith",254
+"Arthur","Absentee",47,"State Legislature","","Karl Elmshaeuser",0
+"Arthur","Arthur",47,"State Legislature","","Karl Elmshaeuser",98
+"Arthur","Absentee",47,"State Legislature","","Steve Erdman",0
+"Arthur","Arthur",47,"State Legislature","","Steve Erdman",156

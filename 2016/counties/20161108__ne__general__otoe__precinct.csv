@@ -1,141 +1,141 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Otoe","Absentee",NA,"President","REP","Donald J. Trump",932
-"2","Otoe","Absentee",NA,"President","DEM","Hillary Clinton",487
-"3","Otoe","Absentee",NA,"President","LIB","Johnson/Weld",68
-"4","Otoe","Absentee",NA,"President","PET","Jill Stein",9
-"5","Otoe","Absentee",NA,"President",NA,"Write-ins",29
-"6","Otoe","Absentee",1,"U.S. House","REP","Jeff Fortenberry",1092
-"7","Otoe","Absentee",1,"U.S. House","DEM","Daniel M. Wik",371
-"8","Otoe","Absentee",1,"U.S. House",NA,"Write-ins",2
-"9","Otoe","Absentee",NA,"State Legislature",NA,"Dan Watermeier",1025
-"10","Otoe","Absentee",NA,"State Legislature",NA,"Write-ins",18
-"11","Otoe","Ber",NA,"President","REP","Donald J. Trump",219
-"12","Otoe","Ber",NA,"President","DEM","Hillary Clinton",80
-"13","Otoe","Ber",NA,"President","LIB","Johnson/Weld",10
-"14","Otoe","Ber",NA,"President","PET","Jill Stein",5
-"15","Otoe","Ber",NA,"President",NA,"Write-ins",9
-"16","Otoe","Ber",1,"U.S. House","REP","Jeff Fortenberry",258
-"17","Otoe","Ber",1,"U.S. House","DEM","Daniel M. Wik",57
-"18","Otoe","Ber",1,"U.S. House",NA,"Write-ins",2
-"19","Otoe","Ber",NA,"State Legislature",NA,"Dan Watermeier",275
-"20","Otoe","Ber",NA,"State Legislature",NA,"Write-ins",8
-"21","Otoe","Del",NA,"President","REP","Donald J. Trump",269
-"22","Otoe","Del",NA,"President","DEM","Hillary Clinton",57
-"23","Otoe","Del",NA,"President","LIB","Johnson/Weld",27
-"24","Otoe","Del",NA,"President","PET","Jill Stein",1
-"25","Otoe","Del",NA,"President",NA,"Write-ins",4
-"26","Otoe","Del",1,"U.S. House","REP","Jeff Fortenberry",287
-"27","Otoe","Del",1,"U.S. House","DEM","Daniel M. Wik",54
-"28","Otoe","Del",1,"U.S. House",NA,"Write-ins",0
-"29","Otoe","Del",NA,"State Legislature",NA,"Dan Watermeier",305
-"30","Otoe","Del",NA,"State Legislature",NA,"Write-ins",0
-"31","Otoe","McW",NA,"President","REP","Donald J. Trump",235
-"32","Otoe","McW",NA,"President","DEM","Hillary Clinton",53
-"33","Otoe","McW",NA,"President","LIB","Johnson/Weld",10
-"34","Otoe","McW",NA,"President","PET","Jill Stein",4
-"35","Otoe","McW",NA,"President",NA,"Write-ins",9
-"36","Otoe","McW",1,"U.S. House","REP","Jeff Fortenberry",264
-"37","Otoe","McW",1,"U.S. House","DEM","Daniel M. Wik",39
-"38","Otoe","McW",1,"U.S. House",NA,"Write-ins",0
-"39","Otoe","McW",NA,"State Legislature",NA,"Dan Watermeier",266
-"40","Otoe","McW",NA,"State Legislature",NA,"Write-ins",2
-"41","Otoe","Syr",NA,"President","REP","Donald J. Trump",655
-"42","Otoe","Syr",NA,"President","DEM","Hillary Clinton",296
-"43","Otoe","Syr",NA,"President","LIB","Johnson/Weld",61
-"44","Otoe","Syr",NA,"President","PET","Jill Stein",7
-"45","Otoe","Syr",NA,"President",NA,"Write-ins",20
-"46","Otoe","Syr",1,"U.S. House","REP","Jeff Fortenberry",825
-"47","Otoe","Syr",1,"U.S. House","DEM","Daniel M. Wik",205
-"48","Otoe","Syr",1,"U.S. House",NA,"Write-ins",1
-"49","Otoe","Syr",NA,"State Legislature",NA,"Dan Watermeier",969
-"50","Otoe","Syr",NA,"State Legislature",NA,"Write-ins",9
-"51","Otoe","Pal",NA,"President","REP","Donald J. Trump",459
-"52","Otoe","Pal",NA,"President","DEM","Hillary Clinton",238
-"53","Otoe","Pal",NA,"President","LIB","Johnson/Weld",41
-"54","Otoe","Pal",NA,"President","PET","Jill Stein",4
-"55","Otoe","Pal",NA,"President",NA,"Write-ins",21
-"56","Otoe","Pal",1,"U.S. House","REP","Jeff Fortenberry",515
-"57","Otoe","Pal",1,"U.S. House","DEM","Daniel M. Wik",227
-"58","Otoe","Pal",1,"U.S. House",NA,"Write-ins",1
-"59","Otoe","Pal",NA,"State Legislature",NA,"Dan Watermeier",600
-"60","Otoe","Pal",NA,"State Legislature",NA,"Write-ins",7
-"61","Otoe","Rus",NA,"President","REP","Donald J. Trump",200
-"62","Otoe","Rus",NA,"President","DEM","Hillary Clinton",107
-"63","Otoe","Rus",NA,"President","LIB","Johnson/Weld",26
-"64","Otoe","Rus",NA,"President","PET","Jill Stein",7
-"65","Otoe","Rus",NA,"President",NA,"Write-ins",9
-"66","Otoe","Rus",1,"U.S. House","REP","Jeff Fortenberry",256
-"67","Otoe","Rus",1,"U.S. House","DEM","Daniel M. Wik",93
-"68","Otoe","Rus",1,"U.S. House",NA,"Write-ins",0
-"69","Otoe","Rus",NA,"State Legislature",NA,"Dan Watermeier",311
-"70","Otoe","Rus",NA,"State Legislature",NA,"Write-ins",1
-"71","Otoe","SBr",NA,"President","REP","Donald J. Trump",211
-"72","Otoe","SBr",NA,"President","DEM","Hillary Clinton",81
-"73","Otoe","SBr",NA,"President","LIB","Johnson/Weld",17
-"74","Otoe","SBr",NA,"President","PET","Jill Stein",4
-"75","Otoe","SBr",NA,"President",NA,"Write-ins",3
-"76","Otoe","SBr",1,"U.S. House","REP","Jeff Fortenberry",239
-"77","Otoe","SBr",1,"U.S. House","DEM","Daniel M. Wik",74
-"78","Otoe","SBr",1,"U.S. House",NA,"Write-ins",0
-"79","Otoe","SBr",NA,"State Legislature",NA,"Dan Watermeier",286
-"80","Otoe","SBr",NA,"State Legislature",NA,"Write-ins",0
-"81","Otoe","NC11",NA,"President","REP","Donald J. Trump",258
-"82","Otoe","NC11",NA,"President","DEM","Hillary Clinton",83
-"83","Otoe","NC11",NA,"President","LIB","Johnson/Weld",16
-"84","Otoe","NC11",NA,"President","PET","Jill Stein",4
-"85","Otoe","NC11",NA,"President",NA,"Write-ins",9
-"86","Otoe","NC11",1,"U.S. House","REP","Jeff Fortenberry",271
-"87","Otoe","NC11",1,"U.S. House","DEM","Daniel M. Wik",88
-"88","Otoe","NC11",1,"U.S. House",NA,"Write-ins",1
-"89","Otoe","NC11",NA,"State Legislature",NA,"Dan Watermeier",NA
-"90","Otoe","NC11",NA,"State Legislature",NA,"Write-ins",NA
-"91","Otoe","NC12",NA,"President","REP","Donald J. Trump",202
-"92","Otoe","NC12",NA,"President","DEM","Hillary Clinton",96
-"93","Otoe","NC12",NA,"President","LIB","Johnson/Weld",15
-"94","Otoe","NC12",NA,"President","PET","Jill Stein",0
-"95","Otoe","NC12",NA,"President",NA,"Write-ins",2
-"96","Otoe","NC12",1,"U.S. House","REP","Jeff Fortenberry",233
-"97","Otoe","NC12",1,"U.S. House","DEM","Daniel M. Wik",71
-"98","Otoe","NC12",1,"U.S. House",NA,"Write-ins",0
-"99","Otoe","NC12",NA,"State Legislature",NA,"Dan Watermeier",248
-"100","Otoe","NC12",NA,"State Legislature",NA,"Write-ins",2
-"101","Otoe","NC13",NA,"President","REP","Donald J. Trump",371
-"102","Otoe","NC13",NA,"President","DEM","Hillary Clinton",112
-"103","Otoe","NC13",NA,"President","LIB","Johnson/Weld",22
-"104","Otoe","NC13",NA,"President","PET","Jill Stein",5
-"105","Otoe","NC13",NA,"President",NA,"Write-ins",8
-"106","Otoe","NC13",1,"U.S. House","REP","Jeff Fortenberry",422
-"107","Otoe","NC13",1,"U.S. House","DEM","Daniel M. Wik",85
-"108","Otoe","NC13",1,"U.S. House",NA,"Write-ins",2
-"109","Otoe","NC13",NA,"State Legislature",NA,"Dan Watermeier",NA
-"110","Otoe","NC13",NA,"State Legislature",NA,"Write-ins",NA
-"111","Otoe","NC14",NA,"President","REP","Donald J. Trump",193
-"112","Otoe","NC14",NA,"President","DEM","Hillary Clinton",95
-"113","Otoe","NC14",NA,"President","LIB","Johnson/Weld",14
-"114","Otoe","NC14",NA,"President","PET","Jill Stein",2
-"115","Otoe","NC14",NA,"President",NA,"Write-ins",7
-"116","Otoe","NC14",1,"U.S. House","REP","Jeff Fortenberry",225
-"117","Otoe","NC14",1,"U.S. House","DEM","Daniel M. Wik",71
-"118","Otoe","NC14",1,"U.S. House",NA,"Write-ins",1
-"119","Otoe","NC14",NA,"State Legislature",NA,"Dan Watermeier",242
-"120","Otoe","NC14",NA,"State Legislature",NA,"Write-ins",5
-"121","Otoe","NC15",NA,"President","REP","Donald J. Trump",308
-"122","Otoe","NC15",NA,"President","DEM","Hillary Clinton",92
-"123","Otoe","NC15",NA,"President","LIB","Johnson/Weld",29
-"124","Otoe","NC15",NA,"President","PET","Jill Stein",1
-"125","Otoe","NC15",NA,"President",NA,"Write-ins",7
-"126","Otoe","NC15",1,"U.S. House","REP","Jeff Fortenberry",333
-"127","Otoe","NC15",1,"U.S. House","DEM","Daniel M. Wik",85
-"128","Otoe","NC15",1,"U.S. House",NA,"Write-ins",1
-"129","Otoe","NC15",NA,"State Legislature",NA,"Dan Watermeier",375
-"130","Otoe","NC15",NA,"State Legislature",NA,"Write-ins",1
-"131","Otoe","NC16",NA,"President","REP","Donald J. Trump",348
-"132","Otoe","NC16",NA,"President","DEM","Hillary Clinton",148
-"133","Otoe","NC16",NA,"President","LIB","Johnson/Weld",19
-"134","Otoe","NC16",NA,"President","PET","Jill Stein",5
-"135","Otoe","NC16",NA,"President",NA,"Write-ins",3
-"136","Otoe","NC16",1,"U.S. House","REP","Jeff Fortenberry",429
-"137","Otoe","NC16",1,"U.S. House","DEM","Daniel M. Wik",93
-"138","Otoe","NC16",1,"U.S. House",NA,"Write-ins",1
-"139","Otoe","NC16",NA,"State Legislature",NA,"Dan Watermeier",449
-"140","Otoe","NC16",NA,"State Legislature",NA,"Write-ins",2
+"county","precinct","district","office","party","candidate","votes"
+"Otoe","Absentee",NA,"President","REP","Donald J. Trump",932
+"Otoe","Absentee",NA,"President","DEM","Hillary Clinton",487
+"Otoe","Absentee",NA,"President","LIB","Johnson/Weld",68
+"Otoe","Absentee",NA,"President","PET","Jill Stein",9
+"Otoe","Absentee",NA,"President",NA,"Write-ins",29
+"Otoe","Absentee",1,"U.S. House","REP","Jeff Fortenberry",1092
+"Otoe","Absentee",1,"U.S. House","DEM","Daniel M. Wik",371
+"Otoe","Absentee",1,"U.S. House",NA,"Write-ins",2
+"Otoe","Absentee",NA,"State Legislature",NA,"Dan Watermeier",1025
+"Otoe","Absentee",NA,"State Legislature",NA,"Write-ins",18
+"Otoe","Ber",NA,"President","REP","Donald J. Trump",219
+"Otoe","Ber",NA,"President","DEM","Hillary Clinton",80
+"Otoe","Ber",NA,"President","LIB","Johnson/Weld",10
+"Otoe","Ber",NA,"President","PET","Jill Stein",5
+"Otoe","Ber",NA,"President",NA,"Write-ins",9
+"Otoe","Ber",1,"U.S. House","REP","Jeff Fortenberry",258
+"Otoe","Ber",1,"U.S. House","DEM","Daniel M. Wik",57
+"Otoe","Ber",1,"U.S. House",NA,"Write-ins",2
+"Otoe","Ber",NA,"State Legislature",NA,"Dan Watermeier",275
+"Otoe","Ber",NA,"State Legislature",NA,"Write-ins",8
+"Otoe","Del",NA,"President","REP","Donald J. Trump",269
+"Otoe","Del",NA,"President","DEM","Hillary Clinton",57
+"Otoe","Del",NA,"President","LIB","Johnson/Weld",27
+"Otoe","Del",NA,"President","PET","Jill Stein",1
+"Otoe","Del",NA,"President",NA,"Write-ins",4
+"Otoe","Del",1,"U.S. House","REP","Jeff Fortenberry",287
+"Otoe","Del",1,"U.S. House","DEM","Daniel M. Wik",54
+"Otoe","Del",1,"U.S. House",NA,"Write-ins",0
+"Otoe","Del",NA,"State Legislature",NA,"Dan Watermeier",305
+"Otoe","Del",NA,"State Legislature",NA,"Write-ins",0
+"Otoe","McW",NA,"President","REP","Donald J. Trump",235
+"Otoe","McW",NA,"President","DEM","Hillary Clinton",53
+"Otoe","McW",NA,"President","LIB","Johnson/Weld",10
+"Otoe","McW",NA,"President","PET","Jill Stein",4
+"Otoe","McW",NA,"President",NA,"Write-ins",9
+"Otoe","McW",1,"U.S. House","REP","Jeff Fortenberry",264
+"Otoe","McW",1,"U.S. House","DEM","Daniel M. Wik",39
+"Otoe","McW",1,"U.S. House",NA,"Write-ins",0
+"Otoe","McW",NA,"State Legislature",NA,"Dan Watermeier",266
+"Otoe","McW",NA,"State Legislature",NA,"Write-ins",2
+"Otoe","Syr",NA,"President","REP","Donald J. Trump",655
+"Otoe","Syr",NA,"President","DEM","Hillary Clinton",296
+"Otoe","Syr",NA,"President","LIB","Johnson/Weld",61
+"Otoe","Syr",NA,"President","PET","Jill Stein",7
+"Otoe","Syr",NA,"President",NA,"Write-ins",20
+"Otoe","Syr",1,"U.S. House","REP","Jeff Fortenberry",825
+"Otoe","Syr",1,"U.S. House","DEM","Daniel M. Wik",205
+"Otoe","Syr",1,"U.S. House",NA,"Write-ins",1
+"Otoe","Syr",NA,"State Legislature",NA,"Dan Watermeier",969
+"Otoe","Syr",NA,"State Legislature",NA,"Write-ins",9
+"Otoe","Pal",NA,"President","REP","Donald J. Trump",459
+"Otoe","Pal",NA,"President","DEM","Hillary Clinton",238
+"Otoe","Pal",NA,"President","LIB","Johnson/Weld",41
+"Otoe","Pal",NA,"President","PET","Jill Stein",4
+"Otoe","Pal",NA,"President",NA,"Write-ins",21
+"Otoe","Pal",1,"U.S. House","REP","Jeff Fortenberry",515
+"Otoe","Pal",1,"U.S. House","DEM","Daniel M. Wik",227
+"Otoe","Pal",1,"U.S. House",NA,"Write-ins",1
+"Otoe","Pal",NA,"State Legislature",NA,"Dan Watermeier",600
+"Otoe","Pal",NA,"State Legislature",NA,"Write-ins",7
+"Otoe","Rus",NA,"President","REP","Donald J. Trump",200
+"Otoe","Rus",NA,"President","DEM","Hillary Clinton",107
+"Otoe","Rus",NA,"President","LIB","Johnson/Weld",26
+"Otoe","Rus",NA,"President","PET","Jill Stein",7
+"Otoe","Rus",NA,"President",NA,"Write-ins",9
+"Otoe","Rus",1,"U.S. House","REP","Jeff Fortenberry",256
+"Otoe","Rus",1,"U.S. House","DEM","Daniel M. Wik",93
+"Otoe","Rus",1,"U.S. House",NA,"Write-ins",0
+"Otoe","Rus",NA,"State Legislature",NA,"Dan Watermeier",311
+"Otoe","Rus",NA,"State Legislature",NA,"Write-ins",1
+"Otoe","SBr",NA,"President","REP","Donald J. Trump",211
+"Otoe","SBr",NA,"President","DEM","Hillary Clinton",81
+"Otoe","SBr",NA,"President","LIB","Johnson/Weld",17
+"Otoe","SBr",NA,"President","PET","Jill Stein",4
+"Otoe","SBr",NA,"President",NA,"Write-ins",3
+"Otoe","SBr",1,"U.S. House","REP","Jeff Fortenberry",239
+"Otoe","SBr",1,"U.S. House","DEM","Daniel M. Wik",74
+"Otoe","SBr",1,"U.S. House",NA,"Write-ins",0
+"Otoe","SBr",NA,"State Legislature",NA,"Dan Watermeier",286
+"Otoe","SBr",NA,"State Legislature",NA,"Write-ins",0
+"Otoe","NC11",NA,"President","REP","Donald J. Trump",258
+"Otoe","NC11",NA,"President","DEM","Hillary Clinton",83
+"Otoe","NC11",NA,"President","LIB","Johnson/Weld",16
+"Otoe","NC11",NA,"President","PET","Jill Stein",4
+"Otoe","NC11",NA,"President",NA,"Write-ins",9
+"Otoe","NC11",1,"U.S. House","REP","Jeff Fortenberry",271
+"Otoe","NC11",1,"U.S. House","DEM","Daniel M. Wik",88
+"Otoe","NC11",1,"U.S. House",NA,"Write-ins",1
+"Otoe","NC11",NA,"State Legislature",NA,"Dan Watermeier",NA
+"Otoe","NC11",NA,"State Legislature",NA,"Write-ins",NA
+"Otoe","NC12",NA,"President","REP","Donald J. Trump",202
+"Otoe","NC12",NA,"President","DEM","Hillary Clinton",96
+"Otoe","NC12",NA,"President","LIB","Johnson/Weld",15
+"Otoe","NC12",NA,"President","PET","Jill Stein",0
+"Otoe","NC12",NA,"President",NA,"Write-ins",2
+"Otoe","NC12",1,"U.S. House","REP","Jeff Fortenberry",233
+"Otoe","NC12",1,"U.S. House","DEM","Daniel M. Wik",71
+"Otoe","NC12",1,"U.S. House",NA,"Write-ins",0
+"Otoe","NC12",NA,"State Legislature",NA,"Dan Watermeier",248
+"Otoe","NC12",NA,"State Legislature",NA,"Write-ins",2
+"Otoe","NC13",NA,"President","REP","Donald J. Trump",371
+"Otoe","NC13",NA,"President","DEM","Hillary Clinton",112
+"Otoe","NC13",NA,"President","LIB","Johnson/Weld",22
+"Otoe","NC13",NA,"President","PET","Jill Stein",5
+"Otoe","NC13",NA,"President",NA,"Write-ins",8
+"Otoe","NC13",1,"U.S. House","REP","Jeff Fortenberry",422
+"Otoe","NC13",1,"U.S. House","DEM","Daniel M. Wik",85
+"Otoe","NC13",1,"U.S. House",NA,"Write-ins",2
+"Otoe","NC13",NA,"State Legislature",NA,"Dan Watermeier",NA
+"Otoe","NC13",NA,"State Legislature",NA,"Write-ins",NA
+"Otoe","NC14",NA,"President","REP","Donald J. Trump",193
+"Otoe","NC14",NA,"President","DEM","Hillary Clinton",95
+"Otoe","NC14",NA,"President","LIB","Johnson/Weld",14
+"Otoe","NC14",NA,"President","PET","Jill Stein",2
+"Otoe","NC14",NA,"President",NA,"Write-ins",7
+"Otoe","NC14",1,"U.S. House","REP","Jeff Fortenberry",225
+"Otoe","NC14",1,"U.S. House","DEM","Daniel M. Wik",71
+"Otoe","NC14",1,"U.S. House",NA,"Write-ins",1
+"Otoe","NC14",NA,"State Legislature",NA,"Dan Watermeier",242
+"Otoe","NC14",NA,"State Legislature",NA,"Write-ins",5
+"Otoe","NC15",NA,"President","REP","Donald J. Trump",308
+"Otoe","NC15",NA,"President","DEM","Hillary Clinton",92
+"Otoe","NC15",NA,"President","LIB","Johnson/Weld",29
+"Otoe","NC15",NA,"President","PET","Jill Stein",1
+"Otoe","NC15",NA,"President",NA,"Write-ins",7
+"Otoe","NC15",1,"U.S. House","REP","Jeff Fortenberry",333
+"Otoe","NC15",1,"U.S. House","DEM","Daniel M. Wik",85
+"Otoe","NC15",1,"U.S. House",NA,"Write-ins",1
+"Otoe","NC15",NA,"State Legislature",NA,"Dan Watermeier",375
+"Otoe","NC15",NA,"State Legislature",NA,"Write-ins",1
+"Otoe","NC16",NA,"President","REP","Donald J. Trump",348
+"Otoe","NC16",NA,"President","DEM","Hillary Clinton",148
+"Otoe","NC16",NA,"President","LIB","Johnson/Weld",19
+"Otoe","NC16",NA,"President","PET","Jill Stein",5
+"Otoe","NC16",NA,"President",NA,"Write-ins",3
+"Otoe","NC16",1,"U.S. House","REP","Jeff Fortenberry",429
+"Otoe","NC16",1,"U.S. House","DEM","Daniel M. Wik",93
+"Otoe","NC16",1,"U.S. House",NA,"Write-ins",1
+"Otoe","NC16",NA,"State Legislature",NA,"Dan Watermeier",449
+"Otoe","NC16",NA,"State Legislature",NA,"Write-ins",2

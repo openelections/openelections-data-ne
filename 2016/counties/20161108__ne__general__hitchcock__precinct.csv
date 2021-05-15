@@ -1,31 +1,31 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Hitchcock","Culbertson",NA,"President","REP","Donald J. Trump",433
-"2","Hitchcock","Palisade",NA,"President","REP","Donald J. Trump",125
-"3","Hitchcock","Stratton",NA,"President","REP","Donald J. Trump",252
-"4","Hitchcock","Trenton",NA,"President","REP","Donald J. Trump",260
-"5","Hitchcock","Early",NA,"President","REP","Donald J. Trump",162
-"6","Hitchcock","Total",NA,"President","REP","Donald J. Trump",1232
-"7","Hitchcock","Culbertson",NA,"President","DEM","Hillary Clinton",45
-"8","Hitchcock","Palisade",NA,"President","DEM","Hillary Clinton",11
-"9","Hitchcock","Stratton",NA,"President","DEM","Hillary Clinton",26
-"10","Hitchcock","Trenton",NA,"President","DEM","Hillary Clinton",36
-"11","Hitchcock","Early",NA,"President","DEM","Hillary Clinton",43
-"12","Hitchcock","Total",NA,"President","DEM","Hillary Clinton",161
-"13","Hitchcock","Culbertson",NA,"President","LIB","Gary Johnson",18
-"14","Hitchcock","Palisade",NA,"President","LIB","Gary Johnson",10
-"15","Hitchcock","Stratton",NA,"President","LIB","Gary Johnson",14
-"16","Hitchcock","Trenton",NA,"President","LIB","Gary Johnson",9
-"17","Hitchcock","Early",NA,"President","LIB","Gary Johnson",10
-"18","Hitchcock","Total",NA,"President","LIB","Gary Johnson",61
-"19","Hitchcock","Culbertson",NA,"President","","Jill Stein",2
-"20","Hitchcock","Palisade",NA,"President","","Jill Stein",1
-"21","Hitchcock","Stratton",NA,"President","","Jill Stein",0
-"22","Hitchcock","Trenton",NA,"President","","Jill Stein",3
-"23","Hitchcock","Early",NA,"President","","Jill Stein",1
-"24","Hitchcock","Total",NA,"President","","Jill Stein",7
-"25","Hitchcock","Culbertson",3,"U.S. House","REP","Adrian Smith",455
-"26","Hitchcock","Palisade",3,"U.S. House","REP","Adrian Smith",131
-"27","Hitchcock","Stratton",3,"U.S. House","REP","Adrian Smith",255
-"28","Hitchcock","Trenton",3,"U.S. House","REP","Adrian Smith",278
-"29","Hitchcock","Early",3,"U.S. House","REP","Adrian Smith",187
-"30","Hitchcock","Total",3,"U.S. House","REP","Adrian Smith",1306
+"county","precinct","district","office","party","candidate","votes"
+"Hitchcock","Culbertson",NA,"President","REP","Donald J. Trump",433
+"Hitchcock","Palisade",NA,"President","REP","Donald J. Trump",125
+"Hitchcock","Stratton",NA,"President","REP","Donald J. Trump",252
+"Hitchcock","Trenton",NA,"President","REP","Donald J. Trump",260
+"Hitchcock","Early",NA,"President","REP","Donald J. Trump",162
+"Hitchcock","Total",NA,"President","REP","Donald J. Trump",1232
+"Hitchcock","Culbertson",NA,"President","DEM","Hillary Clinton",45
+"Hitchcock","Palisade",NA,"President","DEM","Hillary Clinton",11
+"Hitchcock","Stratton",NA,"President","DEM","Hillary Clinton",26
+"Hitchcock","Trenton",NA,"President","DEM","Hillary Clinton",36
+"Hitchcock","Early",NA,"President","DEM","Hillary Clinton",43
+"Hitchcock","Total",NA,"President","DEM","Hillary Clinton",161
+"Hitchcock","Culbertson",NA,"President","LIB","Gary Johnson",18
+"Hitchcock","Palisade",NA,"President","LIB","Gary Johnson",10
+"Hitchcock","Stratton",NA,"President","LIB","Gary Johnson",14
+"Hitchcock","Trenton",NA,"President","LIB","Gary Johnson",9
+"Hitchcock","Early",NA,"President","LIB","Gary Johnson",10
+"Hitchcock","Total",NA,"President","LIB","Gary Johnson",61
+"Hitchcock","Culbertson",NA,"President","","Jill Stein",2
+"Hitchcock","Palisade",NA,"President","","Jill Stein",1
+"Hitchcock","Stratton",NA,"President","","Jill Stein",0
+"Hitchcock","Trenton",NA,"President","","Jill Stein",3
+"Hitchcock","Early",NA,"President","","Jill Stein",1
+"Hitchcock","Total",NA,"President","","Jill Stein",7
+"Hitchcock","Culbertson",3,"U.S. House","REP","Adrian Smith",455
+"Hitchcock","Palisade",3,"U.S. House","REP","Adrian Smith",131
+"Hitchcock","Stratton",3,"U.S. House","REP","Adrian Smith",255
+"Hitchcock","Trenton",3,"U.S. House","REP","Adrian Smith",278
+"Hitchcock","Early",3,"U.S. House","REP","Adrian Smith",187
+"Hitchcock","Total",3,"U.S. House","REP","Adrian Smith",1306

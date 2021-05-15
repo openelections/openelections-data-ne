@@ -1,136 +1,136 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Lincoln","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",0
-"2","Lincoln","Brady",NA,"President","DEM","Hillary Clinton",70
-"3","Lincoln","Countywide",NA,"President","DEM","Hillary Clinton",0
-"4","Lincoln","Hall",NA,"President","DEM","Hillary Clinton",96
-"5","Lincoln","Hershey",NA,"President","DEM","Hillary Clinton",100
-"6","Lincoln","Hinman",NA,"President","DEM","Hillary Clinton",48
-"7","Lincoln","Maxwell",NA,"President","DEM","Hillary Clinton",59
-"8","Lincoln","Medicine",NA,"President","DEM","Hillary Clinton",10
-"9","Lincoln","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
-"10","Lincoln","Osgood",NA,"President","DEM","Hillary Clinton",158
-"11","Lincoln","Precinct 1",NA,"President","DEM","Hillary Clinton",163
-"12","Lincoln","Precinct 10",NA,"President","DEM","Hillary Clinton",226
-"13","Lincoln","Precinct 12",NA,"President","DEM","Hillary Clinton",162
-"14","Lincoln","Precinct 13",NA,"President","DEM","Hillary Clinton",210
-"15","Lincoln","Precinct 15",NA,"President","DEM","Hillary Clinton",81
-"16","Lincoln","Precinct 16",NA,"President","DEM","Hillary Clinton",71
-"17","Lincoln","Precinct 2",NA,"President","DEM","Hillary Clinton",135
-"18","Lincoln","Precinct 3",NA,"President","DEM","Hillary Clinton",102
-"19","Lincoln","Precinct 4",NA,"President","DEM","Hillary Clinton",56
-"20","Lincoln","Precinct 5",NA,"President","DEM","Hillary Clinton",70
-"21","Lincoln","Precinct 6",NA,"President","DEM","Hillary Clinton",319
-"22","Lincoln","Precinct 7",NA,"President","DEM","Hillary Clinton",199
-"23","Lincoln","Precinct 8",NA,"President","DEM","Hillary Clinton",186
-"24","Lincoln","Precinct 9",NA,"President","DEM","Hillary Clinton",167
-"25","Lincoln","Sellers",NA,"President","DEM","Hillary Clinton",81
-"26","Lincoln","Sutherland",NA,"President","DEM","Hillary Clinton",119
-"27","Lincoln","Wallace",NA,"President","DEM","Hillary Clinton",25
-"28","Lincoln","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",0
-"29","Lincoln","Brady",NA,"President","LIB","Gary Johnson",15
-"30","Lincoln","Countywide",NA,"President","LIB","Gary Johnson",0
-"31","Lincoln","Hall",NA,"President","LIB","Gary Johnson",36
-"32","Lincoln","Hershey",NA,"President","LIB","Gary Johnson",34
-"33","Lincoln","Hinman",NA,"President","LIB","Gary Johnson",15
-"34","Lincoln","Maxwell",NA,"President","LIB","Gary Johnson",16
-"35","Lincoln","Medicine",NA,"President","LIB","Gary Johnson",0
-"36","Lincoln","New/Former Resident",NA,"President","LIB","Gary Johnson",0
-"37","Lincoln","Osgood",NA,"President","LIB","Gary Johnson",42
-"38","Lincoln","Precinct 1",NA,"President","LIB","Gary Johnson",44
-"39","Lincoln","Precinct 10",NA,"President","LIB","Gary Johnson",62
-"40","Lincoln","Precinct 12",NA,"President","LIB","Gary Johnson",45
-"41","Lincoln","Precinct 13",NA,"President","LIB","Gary Johnson",42
-"42","Lincoln","Precinct 15",NA,"President","LIB","Gary Johnson",19
-"43","Lincoln","Precinct 16",NA,"President","LIB","Gary Johnson",29
-"44","Lincoln","Precinct 2",NA,"President","LIB","Gary Johnson",34
-"45","Lincoln","Precinct 3",NA,"President","LIB","Gary Johnson",34
-"46","Lincoln","Precinct 4",NA,"President","LIB","Gary Johnson",15
-"47","Lincoln","Precinct 5",NA,"President","LIB","Gary Johnson",25
-"48","Lincoln","Precinct 6",NA,"President","LIB","Gary Johnson",34
-"49","Lincoln","Precinct 7",NA,"President","LIB","Gary Johnson",35
-"50","Lincoln","Precinct 8",NA,"President","LIB","Gary Johnson",25
-"51","Lincoln","Precinct 9",NA,"President","LIB","Gary Johnson",50
-"52","Lincoln","Sellers",NA,"President","LIB","Gary Johnson",16
-"53","Lincoln","Sutherland",NA,"President","LIB","Gary Johnson",41
-"54","Lincoln","Wallace",NA,"President","LIB","Gary Johnson",3
-"55","Lincoln","Absentee/Early Vote",NA,"President","","Jill Stein",0
-"56","Lincoln","Brady",NA,"President","","Jill Stein",5
-"57","Lincoln","Countywide",NA,"President","","Jill Stein",0
-"58","Lincoln","Hall",NA,"President","","Jill Stein",2
-"59","Lincoln","Hershey",NA,"President","","Jill Stein",5
-"60","Lincoln","Hinman",NA,"President","","Jill Stein",3
-"61","Lincoln","Maxwell",NA,"President","","Jill Stein",3
-"62","Lincoln","Medicine",NA,"President","","Jill Stein",0
-"63","Lincoln","New/Former Resident",NA,"President","","Jill Stein",0
-"64","Lincoln","Osgood",NA,"President","","Jill Stein",8
-"65","Lincoln","Precinct 1",NA,"President","","Jill Stein",5
-"66","Lincoln","Precinct 10",NA,"President","","Jill Stein",14
-"67","Lincoln","Precinct 12",NA,"President","","Jill Stein",5
-"68","Lincoln","Precinct 13",NA,"President","","Jill Stein",9
-"69","Lincoln","Precinct 15",NA,"President","","Jill Stein",8
-"70","Lincoln","Precinct 16",NA,"President","","Jill Stein",6
-"71","Lincoln","Precinct 2",NA,"President","","Jill Stein",6
-"72","Lincoln","Precinct 3",NA,"President","","Jill Stein",1
-"73","Lincoln","Precinct 4",NA,"President","","Jill Stein",1
-"74","Lincoln","Precinct 5",NA,"President","","Jill Stein",2
-"75","Lincoln","Precinct 6",NA,"President","","Jill Stein",7
-"76","Lincoln","Precinct 7",NA,"President","","Jill Stein",3
-"77","Lincoln","Precinct 8",NA,"President","","Jill Stein",1
-"78","Lincoln","Precinct 9",NA,"President","","Jill Stein",3
-"79","Lincoln","Sellers",NA,"President","","Jill Stein",7
-"80","Lincoln","Sutherland",NA,"President","","Jill Stein",3
-"81","Lincoln","Wallace",NA,"President","","Jill Stein",0
-"82","Lincoln","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",0
-"83","Lincoln","Brady",NA,"President","REP","Donald J. Trump",461
-"84","Lincoln","Countywide",NA,"President","REP","Donald J. Trump",0
-"85","Lincoln","Hall",NA,"President","REP","Donald J. Trump",809
-"86","Lincoln","Hershey",NA,"President","REP","Donald J. Trump",710
-"87","Lincoln","Hinman",NA,"President","REP","Donald J. Trump",295
-"88","Lincoln","Maxwell",NA,"President","REP","Donald J. Trump",342
-"89","Lincoln","Medicine",NA,"President","REP","Donald J. Trump",152
-"90","Lincoln","New/Former Resident",NA,"President","REP","Donald J. Trump",4
-"91","Lincoln","Osgood",NA,"President","REP","Donald J. Trump",961
-"92","Lincoln","Precinct 1",NA,"President","REP","Donald J. Trump",513
-"93","Lincoln","Precinct 10",NA,"President","REP","Donald J. Trump",746
-"94","Lincoln","Precinct 12",NA,"President","REP","Donald J. Trump",411
-"95","Lincoln","Precinct 13",NA,"President","REP","Donald J. Trump",723
-"96","Lincoln","Precinct 15",NA,"President","REP","Donald J. Trump",300
-"97","Lincoln","Precinct 16",NA,"President","REP","Donald J. Trump",344
-"98","Lincoln","Precinct 2",NA,"President","REP","Donald J. Trump",391
-"99","Lincoln","Precinct 3",NA,"President","REP","Donald J. Trump",308
-"100","Lincoln","Precinct 4",NA,"President","REP","Donald J. Trump",305
-"101","Lincoln","Precinct 5",NA,"President","REP","Donald J. Trump",232
-"102","Lincoln","Precinct 6",NA,"President","REP","Donald J. Trump",897
-"103","Lincoln","Precinct 7",NA,"President","REP","Donald J. Trump",660
-"104","Lincoln","Precinct 8",NA,"President","REP","Donald J. Trump",591
-"105","Lincoln","Precinct 9",NA,"President","REP","Donald J. Trump",543
-"106","Lincoln","Sellers",NA,"President","REP","Donald J. Trump",483
-"107","Lincoln","Sutherland",NA,"President","REP","Donald J. Trump",693
-"108","Lincoln","Wallace",NA,"President","REP","Donald J. Trump",290
-"109","Lincoln","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",0
-"110","Lincoln","Brady",3,"U.S. House","REP","Adrian Smith",484
-"111","Lincoln","Countywide",3,"U.S. House","REP","Adrian Smith",0
-"112","Lincoln","Hall",3,"U.S. House","REP","Adrian Smith",810
-"113","Lincoln","Hershey",3,"U.S. House","REP","Adrian Smith",744
-"114","Lincoln","Hinman",3,"U.S. House","REP","Adrian Smith",314
-"115","Lincoln","Maxwell",3,"U.S. House","REP","Adrian Smith",373
-"116","Lincoln","Medicine",3,"U.S. House","REP","Adrian Smith",147
-"117","Lincoln","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
-"118","Lincoln","Osgood",3,"U.S. House","REP","Adrian Smith",1022
-"119","Lincoln","Precinct 1",3,"U.S. House","REP","Adrian Smith",623
-"120","Lincoln","Precinct 10",3,"U.S. House","REP","Adrian Smith",865
-"121","Lincoln","Precinct 12",3,"U.S. House","REP","Adrian Smith",511
-"122","Lincoln","Precinct 13",3,"U.S. House","REP","Adrian Smith",854
-"123","Lincoln","Precinct 15",3,"U.S. House","REP","Adrian Smith",351
-"124","Lincoln","Precinct 16",3,"U.S. House","REP","Adrian Smith",390
-"125","Lincoln","Precinct 2",3,"U.S. House","REP","Adrian Smith",487
-"126","Lincoln","Precinct 3",3,"U.S. House","REP","Adrian Smith",387
-"127","Lincoln","Precinct 4",3,"U.S. House","REP","Adrian Smith",332
-"128","Lincoln","Precinct 5",3,"U.S. House","REP","Adrian Smith",300
-"129","Lincoln","Precinct 6",3,"U.S. House","REP","Adrian Smith",1063
-"130","Lincoln","Precinct 7",3,"U.S. House","REP","Adrian Smith",743
-"131","Lincoln","Precinct 8",3,"U.S. House","REP","Adrian Smith",683
-"132","Lincoln","Precinct 9",3,"U.S. House","REP","Adrian Smith",662
-"133","Lincoln","Sellers",3,"U.S. House","REP","Adrian Smith",503
-"134","Lincoln","Sutherland",3,"U.S. House","REP","Adrian Smith",755
-"135","Lincoln","Wallace",3,"U.S. House","REP","Adrian Smith",272
+"county","precinct","district","office","party","candidate","votes"
+"Lincoln","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",0
+"Lincoln","Brady",NA,"President","DEM","Hillary Clinton",70
+"Lincoln","Countywide",NA,"President","DEM","Hillary Clinton",0
+"Lincoln","Hall",NA,"President","DEM","Hillary Clinton",96
+"Lincoln","Hershey",NA,"President","DEM","Hillary Clinton",100
+"Lincoln","Hinman",NA,"President","DEM","Hillary Clinton",48
+"Lincoln","Maxwell",NA,"President","DEM","Hillary Clinton",59
+"Lincoln","Medicine",NA,"President","DEM","Hillary Clinton",10
+"Lincoln","New/Former Resident",NA,"President","DEM","Hillary Clinton",0
+"Lincoln","Osgood",NA,"President","DEM","Hillary Clinton",158
+"Lincoln","Precinct 1",NA,"President","DEM","Hillary Clinton",163
+"Lincoln","Precinct 10",NA,"President","DEM","Hillary Clinton",226
+"Lincoln","Precinct 12",NA,"President","DEM","Hillary Clinton",162
+"Lincoln","Precinct 13",NA,"President","DEM","Hillary Clinton",210
+"Lincoln","Precinct 15",NA,"President","DEM","Hillary Clinton",81
+"Lincoln","Precinct 16",NA,"President","DEM","Hillary Clinton",71
+"Lincoln","Precinct 2",NA,"President","DEM","Hillary Clinton",135
+"Lincoln","Precinct 3",NA,"President","DEM","Hillary Clinton",102
+"Lincoln","Precinct 4",NA,"President","DEM","Hillary Clinton",56
+"Lincoln","Precinct 5",NA,"President","DEM","Hillary Clinton",70
+"Lincoln","Precinct 6",NA,"President","DEM","Hillary Clinton",319
+"Lincoln","Precinct 7",NA,"President","DEM","Hillary Clinton",199
+"Lincoln","Precinct 8",NA,"President","DEM","Hillary Clinton",186
+"Lincoln","Precinct 9",NA,"President","DEM","Hillary Clinton",167
+"Lincoln","Sellers",NA,"President","DEM","Hillary Clinton",81
+"Lincoln","Sutherland",NA,"President","DEM","Hillary Clinton",119
+"Lincoln","Wallace",NA,"President","DEM","Hillary Clinton",25
+"Lincoln","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",0
+"Lincoln","Brady",NA,"President","LIB","Gary Johnson",15
+"Lincoln","Countywide",NA,"President","LIB","Gary Johnson",0
+"Lincoln","Hall",NA,"President","LIB","Gary Johnson",36
+"Lincoln","Hershey",NA,"President","LIB","Gary Johnson",34
+"Lincoln","Hinman",NA,"President","LIB","Gary Johnson",15
+"Lincoln","Maxwell",NA,"President","LIB","Gary Johnson",16
+"Lincoln","Medicine",NA,"President","LIB","Gary Johnson",0
+"Lincoln","New/Former Resident",NA,"President","LIB","Gary Johnson",0
+"Lincoln","Osgood",NA,"President","LIB","Gary Johnson",42
+"Lincoln","Precinct 1",NA,"President","LIB","Gary Johnson",44
+"Lincoln","Precinct 10",NA,"President","LIB","Gary Johnson",62
+"Lincoln","Precinct 12",NA,"President","LIB","Gary Johnson",45
+"Lincoln","Precinct 13",NA,"President","LIB","Gary Johnson",42
+"Lincoln","Precinct 15",NA,"President","LIB","Gary Johnson",19
+"Lincoln","Precinct 16",NA,"President","LIB","Gary Johnson",29
+"Lincoln","Precinct 2",NA,"President","LIB","Gary Johnson",34
+"Lincoln","Precinct 3",NA,"President","LIB","Gary Johnson",34
+"Lincoln","Precinct 4",NA,"President","LIB","Gary Johnson",15
+"Lincoln","Precinct 5",NA,"President","LIB","Gary Johnson",25
+"Lincoln","Precinct 6",NA,"President","LIB","Gary Johnson",34
+"Lincoln","Precinct 7",NA,"President","LIB","Gary Johnson",35
+"Lincoln","Precinct 8",NA,"President","LIB","Gary Johnson",25
+"Lincoln","Precinct 9",NA,"President","LIB","Gary Johnson",50
+"Lincoln","Sellers",NA,"President","LIB","Gary Johnson",16
+"Lincoln","Sutherland",NA,"President","LIB","Gary Johnson",41
+"Lincoln","Wallace",NA,"President","LIB","Gary Johnson",3
+"Lincoln","Absentee/Early Vote",NA,"President","","Jill Stein",0
+"Lincoln","Brady",NA,"President","","Jill Stein",5
+"Lincoln","Countywide",NA,"President","","Jill Stein",0
+"Lincoln","Hall",NA,"President","","Jill Stein",2
+"Lincoln","Hershey",NA,"President","","Jill Stein",5
+"Lincoln","Hinman",NA,"President","","Jill Stein",3
+"Lincoln","Maxwell",NA,"President","","Jill Stein",3
+"Lincoln","Medicine",NA,"President","","Jill Stein",0
+"Lincoln","New/Former Resident",NA,"President","","Jill Stein",0
+"Lincoln","Osgood",NA,"President","","Jill Stein",8
+"Lincoln","Precinct 1",NA,"President","","Jill Stein",5
+"Lincoln","Precinct 10",NA,"President","","Jill Stein",14
+"Lincoln","Precinct 12",NA,"President","","Jill Stein",5
+"Lincoln","Precinct 13",NA,"President","","Jill Stein",9
+"Lincoln","Precinct 15",NA,"President","","Jill Stein",8
+"Lincoln","Precinct 16",NA,"President","","Jill Stein",6
+"Lincoln","Precinct 2",NA,"President","","Jill Stein",6
+"Lincoln","Precinct 3",NA,"President","","Jill Stein",1
+"Lincoln","Precinct 4",NA,"President","","Jill Stein",1
+"Lincoln","Precinct 5",NA,"President","","Jill Stein",2
+"Lincoln","Precinct 6",NA,"President","","Jill Stein",7
+"Lincoln","Precinct 7",NA,"President","","Jill Stein",3
+"Lincoln","Precinct 8",NA,"President","","Jill Stein",1
+"Lincoln","Precinct 9",NA,"President","","Jill Stein",3
+"Lincoln","Sellers",NA,"President","","Jill Stein",7
+"Lincoln","Sutherland",NA,"President","","Jill Stein",3
+"Lincoln","Wallace",NA,"President","","Jill Stein",0
+"Lincoln","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",0
+"Lincoln","Brady",NA,"President","REP","Donald J. Trump",461
+"Lincoln","Countywide",NA,"President","REP","Donald J. Trump",0
+"Lincoln","Hall",NA,"President","REP","Donald J. Trump",809
+"Lincoln","Hershey",NA,"President","REP","Donald J. Trump",710
+"Lincoln","Hinman",NA,"President","REP","Donald J. Trump",295
+"Lincoln","Maxwell",NA,"President","REP","Donald J. Trump",342
+"Lincoln","Medicine",NA,"President","REP","Donald J. Trump",152
+"Lincoln","New/Former Resident",NA,"President","REP","Donald J. Trump",4
+"Lincoln","Osgood",NA,"President","REP","Donald J. Trump",961
+"Lincoln","Precinct 1",NA,"President","REP","Donald J. Trump",513
+"Lincoln","Precinct 10",NA,"President","REP","Donald J. Trump",746
+"Lincoln","Precinct 12",NA,"President","REP","Donald J. Trump",411
+"Lincoln","Precinct 13",NA,"President","REP","Donald J. Trump",723
+"Lincoln","Precinct 15",NA,"President","REP","Donald J. Trump",300
+"Lincoln","Precinct 16",NA,"President","REP","Donald J. Trump",344
+"Lincoln","Precinct 2",NA,"President","REP","Donald J. Trump",391
+"Lincoln","Precinct 3",NA,"President","REP","Donald J. Trump",308
+"Lincoln","Precinct 4",NA,"President","REP","Donald J. Trump",305
+"Lincoln","Precinct 5",NA,"President","REP","Donald J. Trump",232
+"Lincoln","Precinct 6",NA,"President","REP","Donald J. Trump",897
+"Lincoln","Precinct 7",NA,"President","REP","Donald J. Trump",660
+"Lincoln","Precinct 8",NA,"President","REP","Donald J. Trump",591
+"Lincoln","Precinct 9",NA,"President","REP","Donald J. Trump",543
+"Lincoln","Sellers",NA,"President","REP","Donald J. Trump",483
+"Lincoln","Sutherland",NA,"President","REP","Donald J. Trump",693
+"Lincoln","Wallace",NA,"President","REP","Donald J. Trump",290
+"Lincoln","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",0
+"Lincoln","Brady",3,"U.S. House","REP","Adrian Smith",484
+"Lincoln","Countywide",3,"U.S. House","REP","Adrian Smith",0
+"Lincoln","Hall",3,"U.S. House","REP","Adrian Smith",810
+"Lincoln","Hershey",3,"U.S. House","REP","Adrian Smith",744
+"Lincoln","Hinman",3,"U.S. House","REP","Adrian Smith",314
+"Lincoln","Maxwell",3,"U.S. House","REP","Adrian Smith",373
+"Lincoln","Medicine",3,"U.S. House","REP","Adrian Smith",147
+"Lincoln","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
+"Lincoln","Osgood",3,"U.S. House","REP","Adrian Smith",1022
+"Lincoln","Precinct 1",3,"U.S. House","REP","Adrian Smith",623
+"Lincoln","Precinct 10",3,"U.S. House","REP","Adrian Smith",865
+"Lincoln","Precinct 12",3,"U.S. House","REP","Adrian Smith",511
+"Lincoln","Precinct 13",3,"U.S. House","REP","Adrian Smith",854
+"Lincoln","Precinct 15",3,"U.S. House","REP","Adrian Smith",351
+"Lincoln","Precinct 16",3,"U.S. House","REP","Adrian Smith",390
+"Lincoln","Precinct 2",3,"U.S. House","REP","Adrian Smith",487
+"Lincoln","Precinct 3",3,"U.S. House","REP","Adrian Smith",387
+"Lincoln","Precinct 4",3,"U.S. House","REP","Adrian Smith",332
+"Lincoln","Precinct 5",3,"U.S. House","REP","Adrian Smith",300
+"Lincoln","Precinct 6",3,"U.S. House","REP","Adrian Smith",1063
+"Lincoln","Precinct 7",3,"U.S. House","REP","Adrian Smith",743
+"Lincoln","Precinct 8",3,"U.S. House","REP","Adrian Smith",683
+"Lincoln","Precinct 9",3,"U.S. House","REP","Adrian Smith",662
+"Lincoln","Sellers",3,"U.S. House","REP","Adrian Smith",503
+"Lincoln","Sutherland",3,"U.S. House","REP","Adrian Smith",755
+"Lincoln","Wallace",3,"U.S. House","REP","Adrian Smith",272

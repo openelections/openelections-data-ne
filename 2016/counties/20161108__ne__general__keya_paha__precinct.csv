@@ -1,43 +1,43 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Keya Paha","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",12
-"2","Keya Paha","Countywide",NA,"President","DEM","Hillary Clinton",0
-"3","Keya Paha","Custer",NA,"President","DEM","Hillary Clinton",15
-"4","Keya Paha","Garfield",NA,"President","DEM","Hillary Clinton",9
-"5","Keya Paha","Mills",NA,"President","DEM","Hillary Clinton",3
-"6","Keya Paha","New/Former Resident",NA,"President","DEM","Hillary Clinton",1
-"7","Keya Paha","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",12
-"8","Keya Paha","Countywide",NA,"President","LIB","Gary Johnson",0
-"9","Keya Paha","Custer",NA,"President","LIB","Gary Johnson",2
-"10","Keya Paha","Garfield",NA,"President","LIB","Gary Johnson",2
-"11","Keya Paha","Mills",NA,"President","LIB","Gary Johnson",1
-"12","Keya Paha","New/Former Resident",NA,"President","LIB","Gary Johnson",0
-"13","Keya Paha","Absentee/Early Vote",NA,"President","","Jill Stein",0
-"14","Keya Paha","Countywide",NA,"President","","Jill Stein",0
-"15","Keya Paha","Custer",NA,"President","","Jill Stein",0
-"16","Keya Paha","Garfield",NA,"President","","Jill Stein",0
-"17","Keya Paha","Mills",NA,"President","","Jill Stein",0
-"18","Keya Paha","New/Former Resident",NA,"President","","Jill Stein",0
-"19","Keya Paha","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",135
-"20","Keya Paha","Countywide",NA,"President","REP","Donald J. Trump",0
-"21","Keya Paha","Custer",NA,"President","REP","Donald J. Trump",131
-"22","Keya Paha","Garfield",NA,"President","REP","Donald J. Trump",113
-"23","Keya Paha","Mills",NA,"President","REP","Donald J. Trump",79
-"24","Keya Paha","New/Former Resident",NA,"President","REP","Donald J. Trump",2
-"25","Keya Paha","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",134
-"26","Keya Paha","Countywide",3,"U.S. House","REP","Adrian Smith",0
-"27","Keya Paha","Custer",3,"U.S. House","REP","Adrian Smith",128
-"28","Keya Paha","Garfield",3,"U.S. House","REP","Adrian Smith",99
-"29","Keya Paha","Mills",3,"U.S. House","REP","Adrian Smith",72
-"30","Keya Paha","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
-"31","Keya Paha","Absentee/Early Vote",43,"State Legislature","","Al Davis",61
-"32","Keya Paha","Countywide",43,"State Legislature","","Al Davis",0
-"33","Keya Paha","Custer",43,"State Legislature","","Al Davis",58
-"34","Keya Paha","Garfield",43,"State Legislature","","Al Davis",36
-"35","Keya Paha","Mills",43,"State Legislature","","Al Davis",32
-"36","Keya Paha","New/Former Resident",43,"State Legislature","","Al Davis",0
-"37","Keya Paha","Absentee/Early Vote",43,"State Legislature","","Tom Brewer",85
-"38","Keya Paha","Countywide",43,"State Legislature","","Tom Brewer",0
-"39","Keya Paha","Custer",43,"State Legislature","","Tom Brewer",84
-"40","Keya Paha","Garfield",43,"State Legislature","","Tom Brewer",83
-"41","Keya Paha","Mills",43,"State Legislature","","Tom Brewer",43
-"42","Keya Paha","New/Former Resident",43,"State Legislature","","Tom Brewer",0
+"county","precinct","district","office","party","candidate","votes"
+"Keya Paha","Absentee/Early Vote",NA,"President","DEM","Hillary Clinton",12
+"Keya Paha","Countywide",NA,"President","DEM","Hillary Clinton",0
+"Keya Paha","Custer",NA,"President","DEM","Hillary Clinton",15
+"Keya Paha","Garfield",NA,"President","DEM","Hillary Clinton",9
+"Keya Paha","Mills",NA,"President","DEM","Hillary Clinton",3
+"Keya Paha","New/Former Resident",NA,"President","DEM","Hillary Clinton",1
+"Keya Paha","Absentee/Early Vote",NA,"President","LIB","Gary Johnson",12
+"Keya Paha","Countywide",NA,"President","LIB","Gary Johnson",0
+"Keya Paha","Custer",NA,"President","LIB","Gary Johnson",2
+"Keya Paha","Garfield",NA,"President","LIB","Gary Johnson",2
+"Keya Paha","Mills",NA,"President","LIB","Gary Johnson",1
+"Keya Paha","New/Former Resident",NA,"President","LIB","Gary Johnson",0
+"Keya Paha","Absentee/Early Vote",NA,"President","","Jill Stein",0
+"Keya Paha","Countywide",NA,"President","","Jill Stein",0
+"Keya Paha","Custer",NA,"President","","Jill Stein",0
+"Keya Paha","Garfield",NA,"President","","Jill Stein",0
+"Keya Paha","Mills",NA,"President","","Jill Stein",0
+"Keya Paha","New/Former Resident",NA,"President","","Jill Stein",0
+"Keya Paha","Absentee/Early Vote",NA,"President","REP","Donald J. Trump",135
+"Keya Paha","Countywide",NA,"President","REP","Donald J. Trump",0
+"Keya Paha","Custer",NA,"President","REP","Donald J. Trump",131
+"Keya Paha","Garfield",NA,"President","REP","Donald J. Trump",113
+"Keya Paha","Mills",NA,"President","REP","Donald J. Trump",79
+"Keya Paha","New/Former Resident",NA,"President","REP","Donald J. Trump",2
+"Keya Paha","Absentee/Early Vote",3,"U.S. House","REP","Adrian Smith",134
+"Keya Paha","Countywide",3,"U.S. House","REP","Adrian Smith",0
+"Keya Paha","Custer",3,"U.S. House","REP","Adrian Smith",128
+"Keya Paha","Garfield",3,"U.S. House","REP","Adrian Smith",99
+"Keya Paha","Mills",3,"U.S. House","REP","Adrian Smith",72
+"Keya Paha","New/Former Resident",3,"U.S. House","REP","Adrian Smith",0
+"Keya Paha","Absentee/Early Vote",43,"State Legislature","","Al Davis",61
+"Keya Paha","Countywide",43,"State Legislature","","Al Davis",0
+"Keya Paha","Custer",43,"State Legislature","","Al Davis",58
+"Keya Paha","Garfield",43,"State Legislature","","Al Davis",36
+"Keya Paha","Mills",43,"State Legislature","","Al Davis",32
+"Keya Paha","New/Former Resident",43,"State Legislature","","Al Davis",0
+"Keya Paha","Absentee/Early Vote",43,"State Legislature","","Tom Brewer",85
+"Keya Paha","Countywide",43,"State Legislature","","Tom Brewer",0
+"Keya Paha","Custer",43,"State Legislature","","Tom Brewer",84
+"Keya Paha","Garfield",43,"State Legislature","","Tom Brewer",83
+"Keya Paha","Mills",43,"State Legislature","","Tom Brewer",43
+"Keya Paha","New/Former Resident",43,"State Legislature","","Tom Brewer",0

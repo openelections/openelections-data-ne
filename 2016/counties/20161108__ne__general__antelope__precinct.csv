@@ -1,160 +1,160 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Antelope","Tilden",NA,"Ballots Cast","","",124
-"2","Antelope","Tilden 1st Ward",NA,"Ballots Cast","","",118
-"3","Antelope","Oakdale",NA,"Ballots Cast","","",230
-"4","Antelope","Neligh",NA,"Ballots Cast","","",216
-"5","Antelope","Neligh 1st Ward",NA,"Ballots Cast","","",367
-"6","Antelope","Neligh 2nd Ward",NA,"Ballots Cast","","",257
-"7","Antelope","Brunswick",NA,"Ballots Cast","","",275
-"8","Antelope","Elgin",NA,"Ballots Cast","","",195
-"9","Antelope","Elgin 1st Ward",NA,"Ballots Cast","","",136
-"10","Antelope","Elgin 2nd Ward",NA,"Ballots Cast","","",159
-"11","Antelope","Royal",NA,"Ballots Cast","","",114
-"12","Antelope","Clearwater",NA,"Ballots Cast","","",350
-"13","Antelope","Orchard",NA,"Ballots Cast","","",254
-"14","Antelope","Absentee",NA,"Ballots Cast","","",516
-"15","Antelope","Provisional",NA,"Ballots Cast","","",19
-"16","Antelope","Tilden",NA,"President","REP","Donald J. Trump",97
-"17","Antelope","Tilden 1st Ward",NA,"President","REP","Donald J. Trump",88
-"18","Antelope","Oakdale",NA,"President","REP","Donald J. Trump",184
-"19","Antelope","Neligh",NA,"President","REP","Donald J. Trump",181
-"20","Antelope","Neligh 1st Ward",NA,"President","REP","Donald J. Trump",297
-"21","Antelope","Neligh 2nd Ward",NA,"President","REP","Donald J. Trump",201
-"22","Antelope","Brunswick",NA,"President","REP","Donald J. Trump",242
-"23","Antelope","Elgin",NA,"President","REP","Donald J. Trump",169
-"24","Antelope","Elgin 1st Ward",NA,"President","REP","Donald J. Trump",109
-"25","Antelope","Elgin 2nd Ward",NA,"President","REP","Donald J. Trump",128
-"26","Antelope","Royal",NA,"President","REP","Donald J. Trump",99
-"27","Antelope","Clearwater",NA,"President","REP","Donald J. Trump",315
-"28","Antelope","Orchard",NA,"President","REP","Donald J. Trump",216
-"29","Antelope","Absentee",NA,"President","REP","Donald J. Trump",391
-"30","Antelope","Provisional",NA,"President","REP","Donald J. Trump",15
-"31","Antelope","Total",NA,"President","REP","Donald J. Trump",2732
-"32","Antelope","Tilden",NA,"President","DEM","Hillary Clinton",17
-"33","Antelope","Tilden 1st Ward",NA,"President","DEM","Hillary Clinton",19
-"34","Antelope","Oakdale",NA,"President","DEM","Hillary Clinton",23
-"35","Antelope","Neligh",NA,"President","DEM","Hillary Clinton",23
-"36","Antelope","Neligh 1st Ward",NA,"President","DEM","Hillary Clinton",45
-"37","Antelope","Neligh 2nd Ward",NA,"President","DEM","Hillary Clinton",34
-"38","Antelope","Brunswick",NA,"President","DEM","Hillary Clinton",18
-"39","Antelope","Elgin",NA,"President","DEM","Hillary Clinton",18
-"40","Antelope","Elgin 1st Ward",NA,"President","DEM","Hillary Clinton",17
-"41","Antelope","Elgin 2nd Ward",NA,"President","DEM","Hillary Clinton",20
-"42","Antelope","Royal",NA,"President","DEM","Hillary Clinton",11
-"43","Antelope","Clearwater",NA,"President","DEM","Hillary Clinton",20
-"44","Antelope","Orchard",NA,"President","DEM","Hillary Clinton",24
-"45","Antelope","Absentee",NA,"President","DEM","Hillary Clinton",92
-"46","Antelope","Provisional",NA,"President","DEM","Hillary Clinton",2
-"47","Antelope","Total",NA,"President","DEM","Hillary Clinton",383
-"48","Antelope","Tilden",NA,"President","LIB","Gary Johnson",7
-"49","Antelope","Tilden 1st Ward",NA,"President","LIB","Gary Johnson",2
-"50","Antelope","Oakdale",NA,"President","LIB","Gary Johnson",11
-"51","Antelope","Neligh",NA,"President","LIB","Gary Johnson",5
-"52","Antelope","Neligh 1st Ward",NA,"President","LIB","Gary Johnson",15
-"53","Antelope","Neligh 2nd Ward",NA,"President","LIB","Gary Johnson",4
-"54","Antelope","Brunswick",NA,"President","LIB","Gary Johnson",19
-"55","Antelope","Elgin",NA,"President","LIB","Gary Johnson",2
-"56","Antelope","Elgin 1st Ward",NA,"President","LIB","Gary Johnson",7
-"57","Antelope","Elgin 2nd Ward",NA,"President","LIB","Gary Johnson",6
-"58","Antelope","Royal",NA,"President","LIB","Gary Johnson",1
-"59","Antelope","Clearwater",NA,"President","LIB","Gary Johnson",6
-"60","Antelope","Orchard",NA,"President","LIB","Gary Johnson",5
-"61","Antelope","Absentee",NA,"President","LIB","Gary Johnson",13
-"62","Antelope","Provisional",NA,"President","LIB","Gary Johnson",2
-"63","Antelope","Total",NA,"President","LIB","Gary Johnson",105
-"64","Antelope","Tilden",NA,"President","","Jill Stein",2
-"65","Antelope","Tilden 1st Ward",NA,"President","","Jill Stein",0
-"66","Antelope","Oakdale",NA,"President","","Jill Stein",4
-"67","Antelope","Neligh",NA,"President","","Jill Stein",1
-"68","Antelope","Neligh 1st Ward",NA,"President","","Jill Stein",1
-"69","Antelope","Neligh 2nd Ward",NA,"President","","Jill Stein",2
-"70","Antelope","Brunswick",NA,"President","","Jill Stein",0
-"71","Antelope","Elgin",NA,"President","","Jill Stein",1
-"72","Antelope","Elgin 1st Ward",NA,"President","","Jill Stein",1
-"73","Antelope","Elgin 2nd Ward",NA,"President","","Jill Stein",2
-"74","Antelope","Royal",NA,"President","","Jill Stein",0
-"75","Antelope","Clearwater",NA,"President","","Jill Stein",1
-"76","Antelope","Orchard",NA,"President","","Jill Stein",2
-"77","Antelope","Absentee",NA,"President","","Jill Stein",2
-"78","Antelope","Provisional",NA,"President","","Jill Stein",0
-"79","Antelope","Total",NA,"President","","Jill Stein",19
-"80","Antelope","Tilden",NA,"President","","Write-ins",1
-"81","Antelope","Tilden 1st Ward",NA,"President","","Write-ins",2
-"82","Antelope","Oakdale",NA,"President","","Write-ins",3
-"83","Antelope","Neligh",NA,"President","","Write-ins",4
-"84","Antelope","Neligh 1st Ward",NA,"President","","Write-ins",2
-"85","Antelope","Neligh 2nd Ward",NA,"President","","Write-ins",2
-"86","Antelope","Brunswick",NA,"President","","Write-ins",4
-"87","Antelope","Elgin",NA,"President","","Write-ins",2
-"88","Antelope","Elgin 1st Ward",NA,"President","","Write-ins",0
-"89","Antelope","Elgin 2nd Ward",NA,"President","","Write-ins",1
-"90","Antelope","Royal",NA,"President","","Write-ins",2
-"91","Antelope","Clearwater",NA,"President","","Write-ins",2
-"92","Antelope","Orchard",NA,"President","","Write-ins",6
-"93","Antelope","Absentee",NA,"President","","Write-ins",11
-"94","Antelope","Provisional",NA,"President","","Write-ins",0
-"95","Antelope","Total",NA,"President","","Write-ins",42
-"96","Antelope","Tilden",3,"U.S. House","REP","Adrian Smith",100
-"97","Antelope","Tilden 1st Ward",3,"U.S. House","REP","Adrian Smith",97
-"98","Antelope","Oakdale",3,"U.S. House","REP","Adrian Smith",190
-"99","Antelope","Neligh",3,"U.S. House","REP","Adrian Smith",179
-"100","Antelope","Neligh 1st Ward",3,"U.S. House","REP","Adrian Smith",303
-"101","Antelope","Neligh 2nd Ward",3,"U.S. House","REP","Adrian Smith",224
-"102","Antelope","Brunswick",3,"U.S. House","REP","Adrian Smith",246
-"103","Antelope","Elgin",3,"U.S. House","REP","Adrian Smith",172
-"104","Antelope","Elgin 1st Ward",3,"U.S. House","REP","Adrian Smith",113
-"105","Antelope","Elgin 2nd Ward",3,"U.S. House","REP","Adrian Smith",140
-"106","Antelope","Royal",3,"U.S. House","REP","Adrian Smith",97
-"107","Antelope","Clearwater",3,"U.S. House","REP","Adrian Smith",285
-"108","Antelope","Orchard",3,"U.S. House","REP","Adrian Smith",230
-"109","Antelope","Absentee",3,"U.S. House","REP","Adrian Smith",415
-"110","Antelope","Provisional",3,"U.S. House","REP","Adrian Smith",17
-"111","Antelope","Total",3,"U.S. House","REP","Adrian Smith",2808
-"112","Antelope","Tilden",3,"U.S. House","","Write-ins",2
-"113","Antelope","Tilden 1st Ward",3,"U.S. House","","Write-ins",0
-"114","Antelope","Oakdale",3,"U.S. House","","Write-ins",1
-"115","Antelope","Neligh",3,"U.S. House","","Write-ins",2
-"116","Antelope","Neligh 1st Ward",3,"U.S. House","","Write-ins",5
-"117","Antelope","Neligh 2nd Ward",3,"U.S. House","","Write-ins",1
-"118","Antelope","Brunswick",3,"U.S. House","","Write-ins",1
-"119","Antelope","Elgin",3,"U.S. House","","Write-ins",0
-"120","Antelope","Elgin 1st Ward",3,"U.S. House","","Write-ins",0
-"121","Antelope","Elgin 2nd Ward",3,"U.S. House","","Write-ins",0
-"122","Antelope","Royal",3,"U.S. House","","Write-ins",0
-"123","Antelope","Clearwater",3,"U.S. House","","Write-ins",1
-"124","Antelope","Orchard",3,"U.S. House","","Write-ins",1
-"125","Antelope","Absentee",3,"U.S. House","","Write-ins",4
-"126","Antelope","Provisional",3,"U.S. House","","Write-ins",0
-"127","Antelope","Total",3,"U.S. House","","Write-ins",18
-"128","Antelope","Tilden",41,"State Legislature","","Tom Briese",81
-"129","Antelope","Tilden 1st Ward",41,"State Legislature","","Tom Briese",82
-"130","Antelope","Oakdale",41,"State Legislature","","Tom Briese",156
-"131","Antelope","Neligh",41,"State Legislature","","Tom Briese",130
-"132","Antelope","Neligh 1st Ward",41,"State Legislature","","Tom Briese",251
-"133","Antelope","Neligh 2nd Ward",41,"State Legislature","","Tom Briese",189
-"134","Antelope","Brunswick",41,"State Legislature","","Tom Briese",192
-"135","Antelope","Elgin",41,"State Legislature","","Tom Briese",143
-"136","Antelope","Elgin 1st Ward",41,"State Legislature","","Tom Briese",104
-"137","Antelope","Elgin 2nd Ward",41,"State Legislature","","Tom Briese",127
-"138","Antelope","Royal",41,"State Legislature","","Tom Briese",69
-"139","Antelope","Clearwater",41,"State Legislature","","Tom Briese",222
-"140","Antelope","Orchard",41,"State Legislature","","Tom Briese",190
-"141","Antelope","Absentee",41,"State Legislature","","Tom Briese",334
-"142","Antelope","Provisional",41,"State Legislature","","Tom Briese",15
-"143","Antelope","Total",41,"State Legislature","","Tom Briese",2285
-"144","Antelope","Tilden",41,"State Legislature","","Write-ins",0
-"145","Antelope","Tilden 1st Ward",41,"State Legislature","","Write-ins",0
-"146","Antelope","Oakdale",41,"State Legislature","","Write-ins",1
-"147","Antelope","Neligh",41,"State Legislature","","Write-ins",2
-"148","Antelope","Neligh 1st Ward",41,"State Legislature","","Write-ins",4
-"149","Antelope","Neligh 2nd Ward",41,"State Legislature","","Write-ins",0
-"150","Antelope","Brunswick",41,"State Legislature","","Write-ins",0
-"151","Antelope","Elgin",41,"State Legislature","","Write-ins",0
-"152","Antelope","Elgin 1st Ward",41,"State Legislature","","Write-ins",0
-"153","Antelope","Elgin 2nd Ward",41,"State Legislature","","Write-ins",1
-"154","Antelope","Royal",41,"State Legislature","","Write-ins",0
-"155","Antelope","Clearwater",41,"State Legislature","","Write-ins",1
-"156","Antelope","Orchard",41,"State Legislature","","Write-ins",1
-"157","Antelope","Absentee",41,"State Legislature","","Write-ins",1
-"158","Antelope","Provisional",41,"State Legislature","","Write-ins",0
-"159","Antelope","Total",41,"State Legislature","","Write-ins",11
+"county","precinct","district","office","party","candidate","votes"
+"Antelope","Tilden",NA,"Ballots Cast","","",124
+"Antelope","Tilden 1st Ward",NA,"Ballots Cast","","",118
+"Antelope","Oakdale",NA,"Ballots Cast","","",230
+"Antelope","Neligh",NA,"Ballots Cast","","",216
+"Antelope","Neligh 1st Ward",NA,"Ballots Cast","","",367
+"Antelope","Neligh 2nd Ward",NA,"Ballots Cast","","",257
+"Antelope","Brunswick",NA,"Ballots Cast","","",275
+"Antelope","Elgin",NA,"Ballots Cast","","",195
+"Antelope","Elgin 1st Ward",NA,"Ballots Cast","","",136
+"Antelope","Elgin 2nd Ward",NA,"Ballots Cast","","",159
+"Antelope","Royal",NA,"Ballots Cast","","",114
+"Antelope","Clearwater",NA,"Ballots Cast","","",350
+"Antelope","Orchard",NA,"Ballots Cast","","",254
+"Antelope","Absentee",NA,"Ballots Cast","","",516
+"Antelope","Provisional",NA,"Ballots Cast","","",19
+"Antelope","Tilden",NA,"President","REP","Donald J. Trump",97
+"Antelope","Tilden 1st Ward",NA,"President","REP","Donald J. Trump",88
+"Antelope","Oakdale",NA,"President","REP","Donald J. Trump",184
+"Antelope","Neligh",NA,"President","REP","Donald J. Trump",181
+"Antelope","Neligh 1st Ward",NA,"President","REP","Donald J. Trump",297
+"Antelope","Neligh 2nd Ward",NA,"President","REP","Donald J. Trump",201
+"Antelope","Brunswick",NA,"President","REP","Donald J. Trump",242
+"Antelope","Elgin",NA,"President","REP","Donald J. Trump",169
+"Antelope","Elgin 1st Ward",NA,"President","REP","Donald J. Trump",109
+"Antelope","Elgin 2nd Ward",NA,"President","REP","Donald J. Trump",128
+"Antelope","Royal",NA,"President","REP","Donald J. Trump",99
+"Antelope","Clearwater",NA,"President","REP","Donald J. Trump",315
+"Antelope","Orchard",NA,"President","REP","Donald J. Trump",216
+"Antelope","Absentee",NA,"President","REP","Donald J. Trump",391
+"Antelope","Provisional",NA,"President","REP","Donald J. Trump",15
+"Antelope","Total",NA,"President","REP","Donald J. Trump",2732
+"Antelope","Tilden",NA,"President","DEM","Hillary Clinton",17
+"Antelope","Tilden 1st Ward",NA,"President","DEM","Hillary Clinton",19
+"Antelope","Oakdale",NA,"President","DEM","Hillary Clinton",23
+"Antelope","Neligh",NA,"President","DEM","Hillary Clinton",23
+"Antelope","Neligh 1st Ward",NA,"President","DEM","Hillary Clinton",45
+"Antelope","Neligh 2nd Ward",NA,"President","DEM","Hillary Clinton",34
+"Antelope","Brunswick",NA,"President","DEM","Hillary Clinton",18
+"Antelope","Elgin",NA,"President","DEM","Hillary Clinton",18
+"Antelope","Elgin 1st Ward",NA,"President","DEM","Hillary Clinton",17
+"Antelope","Elgin 2nd Ward",NA,"President","DEM","Hillary Clinton",20
+"Antelope","Royal",NA,"President","DEM","Hillary Clinton",11
+"Antelope","Clearwater",NA,"President","DEM","Hillary Clinton",20
+"Antelope","Orchard",NA,"President","DEM","Hillary Clinton",24
+"Antelope","Absentee",NA,"President","DEM","Hillary Clinton",92
+"Antelope","Provisional",NA,"President","DEM","Hillary Clinton",2
+"Antelope","Total",NA,"President","DEM","Hillary Clinton",383
+"Antelope","Tilden",NA,"President","LIB","Gary Johnson",7
+"Antelope","Tilden 1st Ward",NA,"President","LIB","Gary Johnson",2
+"Antelope","Oakdale",NA,"President","LIB","Gary Johnson",11
+"Antelope","Neligh",NA,"President","LIB","Gary Johnson",5
+"Antelope","Neligh 1st Ward",NA,"President","LIB","Gary Johnson",15
+"Antelope","Neligh 2nd Ward",NA,"President","LIB","Gary Johnson",4
+"Antelope","Brunswick",NA,"President","LIB","Gary Johnson",19
+"Antelope","Elgin",NA,"President","LIB","Gary Johnson",2
+"Antelope","Elgin 1st Ward",NA,"President","LIB","Gary Johnson",7
+"Antelope","Elgin 2nd Ward",NA,"President","LIB","Gary Johnson",6
+"Antelope","Royal",NA,"President","LIB","Gary Johnson",1
+"Antelope","Clearwater",NA,"President","LIB","Gary Johnson",6
+"Antelope","Orchard",NA,"President","LIB","Gary Johnson",5
+"Antelope","Absentee",NA,"President","LIB","Gary Johnson",13
+"Antelope","Provisional",NA,"President","LIB","Gary Johnson",2
+"Antelope","Total",NA,"President","LIB","Gary Johnson",105
+"Antelope","Tilden",NA,"President","","Jill Stein",2
+"Antelope","Tilden 1st Ward",NA,"President","","Jill Stein",0
+"Antelope","Oakdale",NA,"President","","Jill Stein",4
+"Antelope","Neligh",NA,"President","","Jill Stein",1
+"Antelope","Neligh 1st Ward",NA,"President","","Jill Stein",1
+"Antelope","Neligh 2nd Ward",NA,"President","","Jill Stein",2
+"Antelope","Brunswick",NA,"President","","Jill Stein",0
+"Antelope","Elgin",NA,"President","","Jill Stein",1
+"Antelope","Elgin 1st Ward",NA,"President","","Jill Stein",1
+"Antelope","Elgin 2nd Ward",NA,"President","","Jill Stein",2
+"Antelope","Royal",NA,"President","","Jill Stein",0
+"Antelope","Clearwater",NA,"President","","Jill Stein",1
+"Antelope","Orchard",NA,"President","","Jill Stein",2
+"Antelope","Absentee",NA,"President","","Jill Stein",2
+"Antelope","Provisional",NA,"President","","Jill Stein",0
+"Antelope","Total",NA,"President","","Jill Stein",19
+"Antelope","Tilden",NA,"President","","Write-ins",1
+"Antelope","Tilden 1st Ward",NA,"President","","Write-ins",2
+"Antelope","Oakdale",NA,"President","","Write-ins",3
+"Antelope","Neligh",NA,"President","","Write-ins",4
+"Antelope","Neligh 1st Ward",NA,"President","","Write-ins",2
+"Antelope","Neligh 2nd Ward",NA,"President","","Write-ins",2
+"Antelope","Brunswick",NA,"President","","Write-ins",4
+"Antelope","Elgin",NA,"President","","Write-ins",2
+"Antelope","Elgin 1st Ward",NA,"President","","Write-ins",0
+"Antelope","Elgin 2nd Ward",NA,"President","","Write-ins",1
+"Antelope","Royal",NA,"President","","Write-ins",2
+"Antelope","Clearwater",NA,"President","","Write-ins",2
+"Antelope","Orchard",NA,"President","","Write-ins",6
+"Antelope","Absentee",NA,"President","","Write-ins",11
+"Antelope","Provisional",NA,"President","","Write-ins",0
+"Antelope","Total",NA,"President","","Write-ins",42
+"Antelope","Tilden",3,"U.S. House","REP","Adrian Smith",100
+"Antelope","Tilden 1st Ward",3,"U.S. House","REP","Adrian Smith",97
+"Antelope","Oakdale",3,"U.S. House","REP","Adrian Smith",190
+"Antelope","Neligh",3,"U.S. House","REP","Adrian Smith",179
+"Antelope","Neligh 1st Ward",3,"U.S. House","REP","Adrian Smith",303
+"Antelope","Neligh 2nd Ward",3,"U.S. House","REP","Adrian Smith",224
+"Antelope","Brunswick",3,"U.S. House","REP","Adrian Smith",246
+"Antelope","Elgin",3,"U.S. House","REP","Adrian Smith",172
+"Antelope","Elgin 1st Ward",3,"U.S. House","REP","Adrian Smith",113
+"Antelope","Elgin 2nd Ward",3,"U.S. House","REP","Adrian Smith",140
+"Antelope","Royal",3,"U.S. House","REP","Adrian Smith",97
+"Antelope","Clearwater",3,"U.S. House","REP","Adrian Smith",285
+"Antelope","Orchard",3,"U.S. House","REP","Adrian Smith",230
+"Antelope","Absentee",3,"U.S. House","REP","Adrian Smith",415
+"Antelope","Provisional",3,"U.S. House","REP","Adrian Smith",17
+"Antelope","Total",3,"U.S. House","REP","Adrian Smith",2808
+"Antelope","Tilden",3,"U.S. House","","Write-ins",2
+"Antelope","Tilden 1st Ward",3,"U.S. House","","Write-ins",0
+"Antelope","Oakdale",3,"U.S. House","","Write-ins",1
+"Antelope","Neligh",3,"U.S. House","","Write-ins",2
+"Antelope","Neligh 1st Ward",3,"U.S. House","","Write-ins",5
+"Antelope","Neligh 2nd Ward",3,"U.S. House","","Write-ins",1
+"Antelope","Brunswick",3,"U.S. House","","Write-ins",1
+"Antelope","Elgin",3,"U.S. House","","Write-ins",0
+"Antelope","Elgin 1st Ward",3,"U.S. House","","Write-ins",0
+"Antelope","Elgin 2nd Ward",3,"U.S. House","","Write-ins",0
+"Antelope","Royal",3,"U.S. House","","Write-ins",0
+"Antelope","Clearwater",3,"U.S. House","","Write-ins",1
+"Antelope","Orchard",3,"U.S. House","","Write-ins",1
+"Antelope","Absentee",3,"U.S. House","","Write-ins",4
+"Antelope","Provisional",3,"U.S. House","","Write-ins",0
+"Antelope","Total",3,"U.S. House","","Write-ins",18
+"Antelope","Tilden",41,"State Legislature","","Tom Briese",81
+"Antelope","Tilden 1st Ward",41,"State Legislature","","Tom Briese",82
+"Antelope","Oakdale",41,"State Legislature","","Tom Briese",156
+"Antelope","Neligh",41,"State Legislature","","Tom Briese",130
+"Antelope","Neligh 1st Ward",41,"State Legislature","","Tom Briese",251
+"Antelope","Neligh 2nd Ward",41,"State Legislature","","Tom Briese",189
+"Antelope","Brunswick",41,"State Legislature","","Tom Briese",192
+"Antelope","Elgin",41,"State Legislature","","Tom Briese",143
+"Antelope","Elgin 1st Ward",41,"State Legislature","","Tom Briese",104
+"Antelope","Elgin 2nd Ward",41,"State Legislature","","Tom Briese",127
+"Antelope","Royal",41,"State Legislature","","Tom Briese",69
+"Antelope","Clearwater",41,"State Legislature","","Tom Briese",222
+"Antelope","Orchard",41,"State Legislature","","Tom Briese",190
+"Antelope","Absentee",41,"State Legislature","","Tom Briese",334
+"Antelope","Provisional",41,"State Legislature","","Tom Briese",15
+"Antelope","Total",41,"State Legislature","","Tom Briese",2285
+"Antelope","Tilden",41,"State Legislature","","Write-ins",0
+"Antelope","Tilden 1st Ward",41,"State Legislature","","Write-ins",0
+"Antelope","Oakdale",41,"State Legislature","","Write-ins",1
+"Antelope","Neligh",41,"State Legislature","","Write-ins",2
+"Antelope","Neligh 1st Ward",41,"State Legislature","","Write-ins",4
+"Antelope","Neligh 2nd Ward",41,"State Legislature","","Write-ins",0
+"Antelope","Brunswick",41,"State Legislature","","Write-ins",0
+"Antelope","Elgin",41,"State Legislature","","Write-ins",0
+"Antelope","Elgin 1st Ward",41,"State Legislature","","Write-ins",0
+"Antelope","Elgin 2nd Ward",41,"State Legislature","","Write-ins",1
+"Antelope","Royal",41,"State Legislature","","Write-ins",0
+"Antelope","Clearwater",41,"State Legislature","","Write-ins",1
+"Antelope","Orchard",41,"State Legislature","","Write-ins",1
+"Antelope","Absentee",41,"State Legislature","","Write-ins",1
+"Antelope","Provisional",41,"State Legislature","","Write-ins",0
+"Antelope","Total",41,"State Legislature","","Write-ins",11

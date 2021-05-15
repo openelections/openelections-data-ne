@@ -1,386 +1,386 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Dodge","Fremont - 1A ",NA,"President","REP","Donald J. Trump",359
-"2","Dodge","Fremont - 1B ",NA,"President","REP","Donald J. Trump",286
-"3","Dodge","Fremont - 1C ",NA,"President","REP","Donald J. Trump",457
-"4","Dodge","Fremont - 1D ",NA,"President","REP","Donald J. Trump",192
-"5","Dodge","Fremont - 1E ",NA,"President","REP","Donald J. Trump",326
-"6","Dodge","Fremont - 2A ",NA,"President","REP","Donald J. Trump",233
-"7","Dodge","Fremont - 2B ",NA,"President","REP","Donald J. Trump",210
-"8","Dodge","Fremont - 2C ",NA,"President","REP","Donald J. Trump",471
-"9","Dodge","Fremont - 2D ",NA,"President","REP","Donald J. Trump",166
-"10","Dodge","Fremont - 2E ",NA,"President","REP","Donald J. Trump",306
-"11","Dodge","Fremont - 3A ",NA,"President","REP","Donald J. Trump",156
-"12","Dodge","Fremont - 3B ",NA,"President","REP","Donald J. Trump",82
-"13","Dodge","Fremont - 3C ",NA,"President","REP","Donald J. Trump",171
-"14","Dodge","Fremont - 3D ",NA,"President","REP","Donald J. Trump",263
-"15","Dodge","Fremont - 3E ",NA,"President","REP","Donald J. Trump",227
-"16","Dodge","Fremont - 4A ",NA,"President","REP","Donald J. Trump",300
-"17","Dodge","Fremont - 4B ",NA,"President","REP","Donald J. Trump",196
-"18","Dodge","Fremont - 4C ",NA,"President","REP","Donald J. Trump",414
-"19","Dodge","Fremont - 4D ",NA,"President","REP","Donald J. Trump",455
-"20","Dodge","Fremont - 4E ",NA,"President","REP","Donald J. Trump",163
-"21","Dodge","City of North Bend ",NA,"President","REP","Donald J. Trump",327
-"22","Dodge","City of Scribner ",NA,"President","REP","Donald J. Trump",299
-"23","Dodge","CU/EV ",NA,"President","REP","Donald J. Trump",171
-"24","Dodge","Webster Township ",NA,"President","REP","Donald J. Trump",298
-"25","Dodge","Pebble Township ",NA,"President","REP","Donald J. Trump",166
-"26","Dodge","Platte East ",NA,"President","REP","Donald J. Trump",149
-"27","Dodge","Platte West ",NA,"President","REP","Donald J. Trump",371
-"28","Dodge","Nickerson Township ",NA,"President","REP","Donald J. Trump",292
-"29","Dodge","City of Hooper ",NA,"President","REP","Donald J. Trump",238
-"30","Dodge","HW/LG ",NA,"President","REP","Donald J. Trump",294
-"31","Dodge","Elkhorn Township ",NA,"President","REP","Donald J. Trump",124
-"32","Dodge","CT/UN ",NA,"President","REP","Donald J. Trump",360
-"33","Dodge","New/Former Resident ",NA,"President","REP","Donald J. Trump",0
-"34","Dodge","ABSENTEE ",NA,"President","REP","Donald J. Trump",1411
-"35","Dodge","TOTALS ",NA,"President","REP","Donald J. Trump",9933
-"36","Dodge","Fremont - 1A ",NA,"President","DEM","Hillary Clinton",167
-"37","Dodge","Fremont - 1B ",NA,"President","DEM","Hillary Clinton",156
-"38","Dodge","Fremont - 1C ",NA,"President","DEM","Hillary Clinton",181
-"39","Dodge","Fremont - 1D ",NA,"President","DEM","Hillary Clinton",75
-"40","Dodge","Fremont - 1E ",NA,"President","DEM","Hillary Clinton",182
-"41","Dodge","Fremont - 2A ",NA,"President","DEM","Hillary Clinton",121
-"42","Dodge","Fremont - 2B ",NA,"President","DEM","Hillary Clinton",98
-"43","Dodge","Fremont - 2C ",NA,"President","DEM","Hillary Clinton",180
-"44","Dodge","Fremont - 2D ",NA,"President","DEM","Hillary Clinton",63
-"45","Dodge","Fremont - 2E ",NA,"President","DEM","Hillary Clinton",115
-"46","Dodge","Fremont - 3A ",NA,"President","DEM","Hillary Clinton",87
-"47","Dodge","Fremont - 3B ",NA,"President","DEM","Hillary Clinton",59
-"48","Dodge","Fremont - 3C ",NA,"President","DEM","Hillary Clinton",99
-"49","Dodge","Fremont - 3D ",NA,"President","DEM","Hillary Clinton",154
-"50","Dodge","Fremont - 3E ",NA,"President","DEM","Hillary Clinton",113
-"51","Dodge","Fremont - 4A ",NA,"President","DEM","Hillary Clinton",127
-"52","Dodge","Fremont - 4B ",NA,"President","DEM","Hillary Clinton",93
-"53","Dodge","Fremont - 4C ",NA,"President","DEM","Hillary Clinton",201
-"54","Dodge","Fremont - 4D ",NA,"President","DEM","Hillary Clinton",192
-"55","Dodge","Fremont - 4E ",NA,"President","DEM","Hillary Clinton",75
-"56","Dodge","City of North Bend ",NA,"President","DEM","Hillary Clinton",108
-"57","Dodge","City of Scribner ",NA,"President","DEM","Hillary Clinton",58
-"58","Dodge","CU/EV ",NA,"President","DEM","Hillary Clinton",37
-"59","Dodge","Webster Township ",NA,"President","DEM","Hillary Clinton",64
-"60","Dodge","Pebble Township ",NA,"President","DEM","Hillary Clinton",23
-"61","Dodge","Platte East ",NA,"President","DEM","Hillary Clinton",59
-"62","Dodge","Platte West ",NA,"President","DEM","Hillary Clinton",100
-"63","Dodge","Nickerson Township ",NA,"President","DEM","Hillary Clinton",93
-"64","Dodge","City of Hooper ",NA,"President","DEM","Hillary Clinton",89
-"65","Dodge","HW/LG ",NA,"President","DEM","Hillary Clinton",55
-"66","Dodge","Elkhorn Township ",NA,"President","DEM","Hillary Clinton",36
-"67","Dodge","CT/UN ",NA,"President","DEM","Hillary Clinton",71
-"68","Dodge","New/Former Resident ",NA,"President","DEM","Hillary Clinton",0
-"69","Dodge","ABSENTEE ",NA,"President","DEM","Hillary Clinton",1213
-"70","Dodge","TOTALS ",NA,"President","DEM","Hillary Clinton",4544
-"71","Dodge","Fremont - 1A ",NA,"President","LIB","Gary Johnson",26
-"72","Dodge","Fremont - 1B ",NA,"President","LIB","Gary Johnson",32
-"73","Dodge","Fremont - 1C ",NA,"President","LIB","Gary Johnson",18
-"74","Dodge","Fremont - 1D ",NA,"President","LIB","Gary Johnson",8
-"75","Dodge","Fremont - 1E ",NA,"President","LIB","Gary Johnson",10
-"76","Dodge","Fremont - 2A ",NA,"President","LIB","Gary Johnson",14
-"77","Dodge","Fremont - 2B ",NA,"President","LIB","Gary Johnson",17
-"78","Dodge","Fremont - 2C ",NA,"President","LIB","Gary Johnson",38
-"79","Dodge","Fremont - 2D ",NA,"President","LIB","Gary Johnson",12
-"80","Dodge","Fremont - 2E ",NA,"President","LIB","Gary Johnson",18
-"81","Dodge","Fremont - 3A ",NA,"President","LIB","Gary Johnson",18
-"82","Dodge","Fremont - 3B ",NA,"President","LIB","Gary Johnson",7
-"83","Dodge","Fremont - 3C ",NA,"President","LIB","Gary Johnson",15
-"84","Dodge","Fremont - 3D ",NA,"President","LIB","Gary Johnson",15
-"85","Dodge","Fremont - 3E ",NA,"President","LIB","Gary Johnson",17
-"86","Dodge","Fremont - 4A ",NA,"President","LIB","Gary Johnson",30
-"87","Dodge","Fremont - 4B ",NA,"President","LIB","Gary Johnson",15
-"88","Dodge","Fremont - 4C ",NA,"President","LIB","Gary Johnson",30
-"89","Dodge","Fremont - 4D ",NA,"President","LIB","Gary Johnson",27
-"90","Dodge","Fremont - 4E ",NA,"President","LIB","Gary Johnson",14
-"91","Dodge","City of North Bend ",NA,"President","LIB","Gary Johnson",24
-"92","Dodge","City of Scribner ",NA,"President","LIB","Gary Johnson",16
-"93","Dodge","CU/EV ",NA,"President","LIB","Gary Johnson",10
-"94","Dodge","Webster Township ",NA,"President","LIB","Gary Johnson",6
-"95","Dodge","Pebble Township ",NA,"President","LIB","Gary Johnson",12
-"96","Dodge","Platte East ",NA,"President","LIB","Gary Johnson",6
-"97","Dodge","Platte West ",NA,"President","LIB","Gary Johnson",12
-"98","Dodge","Nickerson Township ",NA,"President","LIB","Gary Johnson",15
-"99","Dodge","City of Hooper ",NA,"President","LIB","Gary Johnson",15
-"100","Dodge","HW/LG ",NA,"President","LIB","Gary Johnson",19
-"101","Dodge","Elkhorn Township ",NA,"President","LIB","Gary Johnson",7
-"102","Dodge","CT/UN ",NA,"President","LIB","Gary Johnson",17
-"103","Dodge","New/Former Resident ",NA,"President","LIB","Gary Johnson",0
-"104","Dodge","ABSENTEE ",NA,"President","LIB","Gary Johnson",84
-"105","Dodge","TOTALS ",NA,"President","LIB","Gary Johnson",624
-"106","Dodge","Fremont - 1A ",NA,"President","","Jill Stein",7
-"107","Dodge","Fremont - 1B ",NA,"President","","Jill Stein",2
-"108","Dodge","Fremont - 1C ",NA,"President","","Jill Stein",3
-"109","Dodge","Fremont - 1D ",NA,"President","","Jill Stein",6
-"110","Dodge","Fremont - 1E ",NA,"President","","Jill Stein",5
-"111","Dodge","Fremont - 2A ",NA,"President","","Jill Stein",11
-"112","Dodge","Fremont - 2B ",NA,"President","","Jill Stein",2
-"113","Dodge","Fremont - 2C ",NA,"President","","Jill Stein",5
-"114","Dodge","Fremont - 2D ",NA,"President","","Jill Stein",3
-"115","Dodge","Fremont - 2E ",NA,"President","","Jill Stein",5
-"116","Dodge","Fremont - 3A ",NA,"President","","Jill Stein",2
-"117","Dodge","Fremont - 3B ",NA,"President","","Jill Stein",3
-"118","Dodge","Fremont - 3C ",NA,"President","","Jill Stein",7
-"119","Dodge","Fremont - 3D ",NA,"President","","Jill Stein",6
-"120","Dodge","Fremont - 3E ",NA,"President","","Jill Stein",8
-"121","Dodge","Fremont - 4A ",NA,"President","","Jill Stein",6
-"122","Dodge","Fremont - 4B ",NA,"President","","Jill Stein",7
-"123","Dodge","Fremont - 4C ",NA,"President","","Jill Stein",4
-"124","Dodge","Fremont - 4D ",NA,"President","","Jill Stein",3
-"125","Dodge","Fremont - 4E ",NA,"President","","Jill Stein",3
-"126","Dodge","City of North Bend ",NA,"President","","Jill Stein",4
-"127","Dodge","City of Scribner ",NA,"President","","Jill Stein",3
-"128","Dodge","CU/EV ",NA,"President","","Jill Stein",3
-"129","Dodge","Webster Township ",NA,"President","","Jill Stein",0
-"130","Dodge","Pebble Township ",NA,"President","","Jill Stein",2
-"131","Dodge","Platte East ",NA,"President","","Jill Stein",1
-"132","Dodge","Platte West ",NA,"President","","Jill Stein",4
-"133","Dodge","Nickerson Township ",NA,"President","","Jill Stein",5
-"134","Dodge","City of Hooper ",NA,"President","","Jill Stein",2
-"135","Dodge","HW/LG ",NA,"President","","Jill Stein",6
-"136","Dodge","Elkhorn Township ",NA,"President","","Jill Stein",0
-"137","Dodge","CT/UN ",NA,"President","","Jill Stein",2
-"138","Dodge","New/Former Resident ",NA,"President","","Jill Stein",0
-"139","Dodge","ABSENTEE ",NA,"President","","Jill Stein",32
-"140","Dodge","TOTALS ",NA,"President","","Jill Stein",162
-"141","Dodge","Fremont - 1A ",NA,"President","","Write-ins",11
-"142","Dodge","Fremont - 1B ",NA,"President","","Write-ins",9
-"143","Dodge","Fremont - 1C ",NA,"President","","Write-ins",20
-"144","Dodge","Fremont - 1D ",NA,"President","","Write-ins",5
-"145","Dodge","Fremont - 1E ",NA,"President","","Write-ins",14
-"146","Dodge","Fremont - 2A ",NA,"President","","Write-ins",5
-"147","Dodge","Fremont - 2B ",NA,"President","","Write-ins",9
-"148","Dodge","Fremont - 2C ",NA,"President","","Write-ins",7
-"149","Dodge","Fremont - 2D ",NA,"President","","Write-ins",6
-"150","Dodge","Fremont - 2E ",NA,"President","","Write-ins",7
-"151","Dodge","Fremont - 3A ",NA,"President","","Write-ins",12
-"152","Dodge","Fremont - 3B ",NA,"President","","Write-ins",1
-"153","Dodge","Fremont - 3C ",NA,"President","","Write-ins",3
-"154","Dodge","Fremont - 3D ",NA,"President","","Write-ins",6
-"155","Dodge","Fremont - 3E ",NA,"President","","Write-ins",8
-"156","Dodge","Fremont - 4A ",NA,"President","","Write-ins",5
-"157","Dodge","Fremont - 4B ",NA,"President","","Write-ins",8
-"158","Dodge","Fremont - 4C ",NA,"President","","Write-ins",13
-"159","Dodge","Fremont - 4D ",NA,"President","","Write-ins",12
-"160","Dodge","Fremont - 4E ",NA,"President","","Write-ins",6
-"161","Dodge","City of North Bend ",NA,"President","","Write-ins",10
-"162","Dodge","City of Scribner ",NA,"President","","Write-ins",6
-"163","Dodge","CU/EV ",NA,"President","","Write-ins",2
-"164","Dodge","Webster Township ",NA,"President","","Write-ins",2
-"165","Dodge","Pebble Township ",NA,"President","","Write-ins",3
-"166","Dodge","Platte East ",NA,"President","","Write-ins",4
-"167","Dodge","Platte West ",NA,"President","","Write-ins",12
-"168","Dodge","Nickerson Township ",NA,"President","","Write-ins",2
-"169","Dodge","City of Hooper ",NA,"President","","Write-ins",2
-"170","Dodge","HW/LG ",NA,"President","","Write-ins",3
-"171","Dodge","Elkhorn Township ",NA,"President","","Write-ins",0
-"172","Dodge","CT/UN ",NA,"President","","Write-ins",8
-"173","Dodge","New/Former Resident ",NA,"President","","Write-ins",0
-"174","Dodge","ABSENTEE ",NA,"President","","Write-ins",45
-"175","Dodge","TOTALS ",NA,"President","","Write-ins",266
-"176","Dodge","Fremont - 1A ",1,"U.S. House","REP","Jeff Fortenberry",425
-"177","Dodge","Fremont - 1B ",1,"U.S. House","REP","Jeff Fortenberry",357
-"178","Dodge","Fremont - 1C ",1,"U.S. House","REP","Jeff Fortenberry",546
-"179","Dodge","Fremont - 1D ",1,"U.S. House","REP","Jeff Fortenberry",218
-"180","Dodge","Fremont - 1E ",1,"U.S. House","REP","Jeff Fortenberry",412
-"181","Dodge","Fremont - 2A ",1,"U.S. House","REP","Jeff Fortenberry",276
-"182","Dodge","Fremont - 2B ",1,"U.S. House","REP","Jeff Fortenberry",255
-"183","Dodge","Fremont - 2C ",1,"U.S. House","REP","Jeff Fortenberry",539
-"184","Dodge","Fremont - 2D ",1,"U.S. House","REP","Jeff Fortenberry",182
-"185","Dodge","Fremont - 2E ",1,"U.S. House","REP","Jeff Fortenberry",350
-"186","Dodge","Fremont - 3A ",1,"U.S. House","REP","Jeff Fortenberry",192
-"187","Dodge","Fremont - 3B ",1,"U.S. House","REP","Jeff Fortenberry",88
-"188","Dodge","Fremont - 3C ",1,"U.S. House","REP","Jeff Fortenberry",191
-"189","Dodge","Fremont - 3D ",1,"U.S. House","REP","Jeff Fortenberry",324
-"190","Dodge","Fremont - 3E ",1,"U.S. House","REP","Jeff Fortenberry",270
-"191","Dodge","Fremont - 4A ",1,"U.S. House","REP","Jeff Fortenberry",356
-"192","Dodge","Fremont - 4B ",1,"U.S. House","REP","Jeff Fortenberry",221
-"193","Dodge","Fremont - 4C ",1,"U.S. House","REP","Jeff Fortenberry",495
-"194","Dodge","Fremont - 4D ",1,"U.S. House","REP","Jeff Fortenberry",561
-"195","Dodge","Fremont - 4E ",1,"U.S. House","REP","Jeff Fortenberry",184
-"196","Dodge","City of North Bend ",1,"U.S. House","REP","Jeff Fortenberry",376
-"197","Dodge","City of Scribner ",1,"U.S. House","REP","Jeff Fortenberry",330
-"198","Dodge","CU/EV ",1,"U.S. House","REP","Jeff Fortenberry",186
-"199","Dodge","Webster Township ",1,"U.S. House","REP","Jeff Fortenberry",289
-"200","Dodge","Pebble Township ",1,"U.S. House","REP","Jeff Fortenberry",178
-"201","Dodge","Platte East ",1,"U.S. House","REP","Jeff Fortenberry",158
-"202","Dodge","Platte West ",1,"U.S. House","REP","Jeff Fortenberry",394
-"203","Dodge","Nickerson Township ",1,"U.S. House","REP","Jeff Fortenberry",314
-"204","Dodge","City of Hooper ",1,"U.S. House","REP","Jeff Fortenberry",271
-"205","Dodge","HW/LG ",1,"U.S. House","REP","Jeff Fortenberry",320
-"206","Dodge","Elkhorn Township ",1,"U.S. House","REP","Jeff Fortenberry",130
-"207","Dodge","CT/UN ",1,"U.S. House","REP","Jeff Fortenberry",380
-"208","Dodge","New/Former Resident ",1,"U.S. House","REP","Jeff Fortenberry",NA
-"209","Dodge","ABSENTEE ",1,"U.S. House","REP","Jeff Fortenberry",1713
-"210","Dodge","TOTALS ",1,"U.S. House","REP","Jeff Fortenberry",11481
-"211","Dodge","Fremont - 1A ",1,"U.S. House","DEM","Daniel M. Wik",115
-"212","Dodge","Fremont - 1B ",1,"U.S. House","DEM","Daniel M. Wik",112
-"213","Dodge","Fremont - 1C ",1,"U.S. House","DEM","Daniel M. Wik",117
-"214","Dodge","Fremont - 1D ",1,"U.S. House","DEM","Daniel M. Wik",52
-"215","Dodge","Fremont - 1E ",1,"U.S. House","DEM","Daniel M. Wik",114
-"216","Dodge","Fremont - 2A ",1,"U.S. House","DEM","Daniel M. Wik",99
-"217","Dodge","Fremont - 2B ",1,"U.S. House","DEM","Daniel M. Wik",76
-"218","Dodge","Fremont - 2C ",1,"U.S. House","DEM","Daniel M. Wik",134
-"219","Dodge","Fremont - 2D ",1,"U.S. House","DEM","Daniel M. Wik",52
-"220","Dodge","Fremont - 2E ",1,"U.S. House","DEM","Daniel M. Wik",89
-"221","Dodge","Fremont - 3A ",1,"U.S. House","DEM","Daniel M. Wik",69
-"222","Dodge","Fremont - 3B ",1,"U.S. House","DEM","Daniel M. Wik",59
-"223","Dodge","Fremont - 3C ",1,"U.S. House","DEM","Daniel M. Wik",94
-"224","Dodge","Fremont - 3D ",1,"U.S. House","DEM","Daniel M. Wik",111
-"225","Dodge","Fremont - 3E ",1,"U.S. House","DEM","Daniel M. Wik",93
-"226","Dodge","Fremont - 4A ",1,"U.S. House","DEM","Daniel M. Wik",100
-"227","Dodge","Fremont - 4B ",1,"U.S. House","DEM","Daniel M. Wik",81
-"228","Dodge","Fremont - 4C ",1,"U.S. House","DEM","Daniel M. Wik",139
-"229","Dodge","Fremont - 4D ",1,"U.S. House","DEM","Daniel M. Wik",111
-"230","Dodge","Fremont - 4E ",1,"U.S. House","DEM","Daniel M. Wik",64
-"231","Dodge","City of North Bend ",1,"U.S. House","DEM","Daniel M. Wik",78
-"232","Dodge","City of Scribner ",1,"U.S. House","DEM","Daniel M. Wik",43
-"233","Dodge","CU/EV ",1,"U.S. House","DEM","Daniel M. Wik",25
-"234","Dodge","Webster Township ",1,"U.S. House","DEM","Daniel M. Wik",60
-"235","Dodge","Pebble Township ",1,"U.S. House","DEM","Daniel M. Wik",20
-"236","Dodge","Platte East ",1,"U.S. House","DEM","Daniel M. Wik",50
-"237","Dodge","Platte West ",1,"U.S. House","DEM","Daniel M. Wik",87
-"238","Dodge","Nickerson Township ",1,"U.S. House","DEM","Daniel M. Wik",81
-"239","Dodge","City of Hooper ",1,"U.S. House","DEM","Daniel M. Wik",69
-"240","Dodge","HW/LG ",1,"U.S. House","DEM","Daniel M. Wik",42
-"241","Dodge","Elkhorn Township ",1,"U.S. House","DEM","Daniel M. Wik",30
-"242","Dodge","CT/UN ",1,"U.S. House","DEM","Daniel M. Wik",63
-"243","Dodge","New/Former Resident ",1,"U.S. House","DEM","Daniel M. Wik",NA
-"244","Dodge","ABSENTEE ",1,"U.S. House","DEM","Daniel M. Wik",959
-"245","Dodge","TOTALS ",1,"U.S. House","DEM","Daniel M. Wik",3488
-"246","Dodge","Fremont - 1A ",1,"U.S. House","","Write-ins",0
-"247","Dodge","Fremont - 1B ",1,"U.S. House","","Write-ins",0
-"248","Dodge","Fremont - 1C ",1,"U.S. House","","Write-ins",2
-"249","Dodge","Fremont - 1D ",1,"U.S. House","","Write-ins",1
-"250","Dodge","Fremont - 1E ",1,"U.S. House","","Write-ins",2
-"251","Dodge","Fremont - 2A ",1,"U.S. House","","Write-ins",0
-"252","Dodge","Fremont - 2B ",1,"U.S. House","","Write-ins",0
-"253","Dodge","Fremont - 2C ",1,"U.S. House","","Write-ins",4
-"254","Dodge","Fremont - 2D ",1,"U.S. House","","Write-ins",1
-"255","Dodge","Fremont - 2E ",1,"U.S. House","","Write-ins",3
-"256","Dodge","Fremont - 3A ",1,"U.S. House","","Write-ins",0
-"257","Dodge","Fremont - 3B ",1,"U.S. House","","Write-ins",1
-"258","Dodge","Fremont - 3C ",1,"U.S. House","","Write-ins",0
-"259","Dodge","Fremont - 3D ",1,"U.S. House","","Write-ins",1
-"260","Dodge","Fremont - 3E ",1,"U.S. House","","Write-ins",0
-"261","Dodge","Fremont - 4A ",1,"U.S. House","","Write-ins",3
-"262","Dodge","Fremont - 4B ",1,"U.S. House","","Write-ins",1
-"263","Dodge","Fremont - 4C ",1,"U.S. House","","Write-ins",1
-"264","Dodge","Fremont - 4D ",1,"U.S. House","","Write-ins",1
-"265","Dodge","Fremont - 4E ",1,"U.S. House","","Write-ins",0
-"266","Dodge","City of North Bend ",1,"U.S. House","","Write-ins",0
-"267","Dodge","City of Scribner ",1,"U.S. House","","Write-ins",0
-"268","Dodge","CU/EV ",1,"U.S. House","","Write-ins",0
-"269","Dodge","Webster Township ",1,"U.S. House","","Write-ins",1
-"270","Dodge","Pebble Township ",1,"U.S. House","","Write-ins",1
-"271","Dodge","Platte East ",1,"U.S. House","","Write-ins",0
-"272","Dodge","Platte West ",1,"U.S. House","","Write-ins",3
-"273","Dodge","Nickerson Township ",1,"U.S. House","","Write-ins",0
-"274","Dodge","City of Hooper ",1,"U.S. House","","Write-ins",1
-"275","Dodge","HW/LG ",1,"U.S. House","","Write-ins",1
-"276","Dodge","Elkhorn Township ",1,"U.S. House","","Write-ins",0
-"277","Dodge","CT/UN ",1,"U.S. House","","Write-ins",0
-"278","Dodge","New/Former Resident ",1,"U.S. House","","Write-ins",NA
-"279","Dodge","ABSENTEE ",1,"U.S. House","","Write-ins",6
-"280","Dodge","TOTALS ",1,"U.S. House","","Write-ins",34
-"281","Dodge","Fremont - 1A ",15,"State Legislature","","David A. Schnoor",269
-"282","Dodge","Fremont - 1B ",15,"State Legislature","","David A. Schnoor",178
-"283","Dodge","Fremont - 1C ",15,"State Legislature","","David A. Schnoor",347
-"284","Dodge","Fremont - 1D ",15,"State Legislature","","David A. Schnoor",118
-"285","Dodge","Fremont - 1E ",15,"State Legislature","","David A. Schnoor",249
-"286","Dodge","Fremont - 2A ",15,"State Legislature","","David A. Schnoor",152
-"287","Dodge","Fremont - 2B ",15,"State Legislature","","David A. Schnoor",115
-"288","Dodge","Fremont - 2C ",15,"State Legislature","","David A. Schnoor",294
-"289","Dodge","Fremont - 2D ",15,"State Legislature","","David A. Schnoor",123
-"290","Dodge","Fremont - 2E ",15,"State Legislature","","David A. Schnoor",196
-"291","Dodge","Fremont - 3A ",15,"State Legislature","","David A. Schnoor",115
-"292","Dodge","Fremont - 3B ",15,"State Legislature","","David A. Schnoor",66
-"293","Dodge","Fremont - 3C ",15,"State Legislature","","David A. Schnoor",120
-"294","Dodge","Fremont - 3D ",15,"State Legislature","","David A. Schnoor",229
-"295","Dodge","Fremont - 3E ",15,"State Legislature","","David A. Schnoor",169
-"296","Dodge","Fremont - 4A ",15,"State Legislature","","David A. Schnoor",192
-"297","Dodge","Fremont - 4B ",15,"State Legislature","","David A. Schnoor",134
-"298","Dodge","Fremont - 4C ",15,"State Legislature","","David A. Schnoor",276
-"299","Dodge","Fremont - 4D ",15,"State Legislature","","David A. Schnoor",278
-"300","Dodge","Fremont - 4E ",15,"State Legislature","","David A. Schnoor",107
-"301","Dodge","City of North Bend ",15,"State Legislature","","David A. Schnoor",258
-"302","Dodge","City of Scribner ",15,"State Legislature","","David A. Schnoor",298
-"303","Dodge","CU/EV ",15,"State Legislature","","David A. Schnoor",146
-"304","Dodge","Webster Township ",15,"State Legislature","","David A. Schnoor",201
-"305","Dodge","Pebble Township ",15,"State Legislature","","David A. Schnoor",124
-"306","Dodge","Platte East ",15,"State Legislature","","David A. Schnoor",98
-"307","Dodge","Platte West ",15,"State Legislature","","David A. Schnoor",237
-"308","Dodge","Nickerson Township ",15,"State Legislature","","David A. Schnoor",193
-"309","Dodge","City of Hooper ",15,"State Legislature","","David A. Schnoor",199
-"310","Dodge","HW/LG ",15,"State Legislature","","David A. Schnoor",215
-"311","Dodge","Elkhorn Township ",15,"State Legislature","","David A. Schnoor",73
-"312","Dodge","CT/UN ",15,"State Legislature","","David A. Schnoor",283
-"313","Dodge","New/Former Resident ",15,"State Legislature","","David A. Schnoor",NA
-"314","Dodge","ABSENTEE ",15,"State Legislature","","David A. Schnoor",1137
-"315","Dodge","TOTALS ",15,"State Legislature","","David A. Schnoor",7189
-"316","Dodge","Fremont - 1A ",15,"State Legislature","","Lynne M. Walz",273
-"317","Dodge","Fremont - 1B ",15,"State Legislature","","Lynne M. Walz",290
-"318","Dodge","Fremont - 1C ",15,"State Legislature","","Lynne M. Walz",319
-"319","Dodge","Fremont - 1D ",15,"State Legislature","","Lynne M. Walz",154
-"320","Dodge","Fremont - 1E ",15,"State Legislature","","Lynne M. Walz",286
-"321","Dodge","Fremont - 2A ",15,"State Legislature","","Lynne M. Walz",220
-"322","Dodge","Fremont - 2B ",15,"State Legislature","","Lynne M. Walz",206
-"323","Dodge","Fremont - 2C ",15,"State Legislature","","Lynne M. Walz",382
-"324","Dodge","Fremont - 2D ",15,"State Legislature","","Lynne M. Walz",110
-"325","Dodge","Fremont - 2E ",15,"State Legislature","","Lynne M. Walz",236
-"326","Dodge","Fremont - 3A ",15,"State Legislature","","Lynne M. Walz",145
-"327","Dodge","Fremont - 3B ",15,"State Legislature","","Lynne M. Walz",73
-"328","Dodge","Fremont - 3C ",15,"State Legislature","","Lynne M. Walz",157
-"329","Dodge","Fremont - 3D ",15,"State Legislature","","Lynne M. Walz",200
-"330","Dodge","Fremont - 3E ",15,"State Legislature","","Lynne M. Walz",186
-"331","Dodge","Fremont - 4A ",15,"State Legislature","","Lynne M. Walz",262
-"332","Dodge","Fremont - 4B ",15,"State Legislature","","Lynne M. Walz",175
-"333","Dodge","Fremont - 4C ",15,"State Legislature","","Lynne M. Walz",349
-"334","Dodge","Fremont - 4D ",15,"State Legislature","","Lynne M. Walz",396
-"335","Dodge","Fremont - 4E ",15,"State Legislature","","Lynne M. Walz",135
-"336","Dodge","City of North Bend ",15,"State Legislature","","Lynne M. Walz",188
-"337","Dodge","City of Scribner ",15,"State Legislature","","Lynne M. Walz",88
-"338","Dodge","CU/EV ",15,"State Legislature","","Lynne M. Walz",69
-"339","Dodge","Webster Township ",15,"State Legislature","","Lynne M. Walz",156
-"340","Dodge","Pebble Township ",15,"State Legislature","","Lynne M. Walz",77
-"341","Dodge","Platte East ",15,"State Legislature","","Lynne M. Walz",104
-"342","Dodge","Platte West ",15,"State Legislature","","Lynne M. Walz",227
-"343","Dodge","Nickerson Township ",15,"State Legislature","","Lynne M. Walz",189
-"344","Dodge","City of Hooper ",15,"State Legislature","","Lynne M. Walz",140
-"345","Dodge","HW/LG ",15,"State Legislature","","Lynne M. Walz",137
-"346","Dodge","Elkhorn Township ",15,"State Legislature","","Lynne M. Walz",83
-"347","Dodge","CT/UN ",15,"State Legislature","","Lynne M. Walz",148
-"348","Dodge","New/Former Resident ",15,"State Legislature","","Lynne M. Walz",NA
-"349","Dodge","ABSENTEE ",15,"State Legislature","","Lynne M. Walz",1441
-"350","Dodge","TOTALS ",15,"State Legislature","","Lynne M. Walz",7601
-"351","Dodge","Fremont - 1A ",15,"State Legislature","","Write-ins",0
-"352","Dodge","Fremont - 1B ",15,"State Legislature","","Write-ins",1
-"353","Dodge","Fremont - 1C ",15,"State Legislature","","Write-ins",1
-"354","Dodge","Fremont - 1D ",15,"State Legislature","","Write-ins",0
-"355","Dodge","Fremont - 1E ",15,"State Legislature","","Write-ins",1
-"356","Dodge","Fremont - 2A ",15,"State Legislature","","Write-ins",0
-"357","Dodge","Fremont - 2B ",15,"State Legislature","","Write-ins",2
-"358","Dodge","Fremont - 2C ",15,"State Legislature","","Write-ins",2
-"359","Dodge","Fremont - 2D ",15,"State Legislature","","Write-ins",1
-"360","Dodge","Fremont - 2E ",15,"State Legislature","","Write-ins",2
-"361","Dodge","Fremont - 3A ",15,"State Legislature","","Write-ins",1
-"362","Dodge","Fremont - 3B ",15,"State Legislature","","Write-ins",2
-"363","Dodge","Fremont - 3C ",15,"State Legislature","","Write-ins",0
-"364","Dodge","Fremont - 3D ",15,"State Legislature","","Write-ins",2
-"365","Dodge","Fremont - 3E ",15,"State Legislature","","Write-ins",0
-"366","Dodge","Fremont - 4A ",15,"State Legislature","","Write-ins",1
-"367","Dodge","Fremont - 4B ",15,"State Legislature","","Write-ins",0
-"368","Dodge","Fremont - 4C ",15,"State Legislature","","Write-ins",3
-"369","Dodge","Fremont - 4D ",15,"State Legislature","","Write-ins",0
-"370","Dodge","Fremont - 4E ",15,"State Legislature","","Write-ins",0
-"371","Dodge","City of North Bend ",15,"State Legislature","","Write-ins",1
-"372","Dodge","City of Scribner ",15,"State Legislature","","Write-ins",0
-"373","Dodge","CU/EV ",15,"State Legislature","","Write-ins",0
-"374","Dodge","Webster Township ",15,"State Legislature","","Write-ins",0
-"375","Dodge","Pebble Township ",15,"State Legislature","","Write-ins",0
-"376","Dodge","Platte East ",15,"State Legislature","","Write-ins",0
-"377","Dodge","Platte West ",15,"State Legislature","","Write-ins",2
-"378","Dodge","Nickerson Township ",15,"State Legislature","","Write-ins",0
-"379","Dodge","City of Hooper ",15,"State Legislature","","Write-ins",0
-"380","Dodge","HW/LG ",15,"State Legislature","","Write-ins",1
-"381","Dodge","Elkhorn Township ",15,"State Legislature","","Write-ins",0
-"382","Dodge","CT/UN ",15,"State Legislature","","Write-ins",1
-"383","Dodge","New/Former Resident ",15,"State Legislature","","Write-ins",NA
-"384","Dodge","ABSENTEE ",15,"State Legislature","","Write-ins",8
-"385","Dodge","TOTALS ",15,"State Legislature","","Write-ins",32
+,county,precinct,district,office,party,candidate,votes
+1,Dodge,Fremont - 1A,NA,President,REP,Donald J. Trump,359
+2,Dodge,Fremont - 1B,NA,President,REP,Donald J. Trump,286
+3,Dodge,Fremont - 1C,NA,President,REP,Donald J. Trump,457
+4,Dodge,Fremont - 1D,NA,President,REP,Donald J. Trump,192
+5,Dodge,Fremont - 1E,NA,President,REP,Donald J. Trump,326
+6,Dodge,Fremont - 2A,NA,President,REP,Donald J. Trump,233
+7,Dodge,Fremont - 2B,NA,President,REP,Donald J. Trump,210
+8,Dodge,Fremont - 2C,NA,President,REP,Donald J. Trump,471
+9,Dodge,Fremont - 2D,NA,President,REP,Donald J. Trump,166
+10,Dodge,Fremont - 2E,NA,President,REP,Donald J. Trump,306
+11,Dodge,Fremont - 3A,NA,President,REP,Donald J. Trump,156
+12,Dodge,Fremont - 3B,NA,President,REP,Donald J. Trump,82
+13,Dodge,Fremont - 3C,NA,President,REP,Donald J. Trump,171
+14,Dodge,Fremont - 3D,NA,President,REP,Donald J. Trump,263
+15,Dodge,Fremont - 3E,NA,President,REP,Donald J. Trump,227
+16,Dodge,Fremont - 4A,NA,President,REP,Donald J. Trump,300
+17,Dodge,Fremont - 4B,NA,President,REP,Donald J. Trump,196
+18,Dodge,Fremont - 4C,NA,President,REP,Donald J. Trump,414
+19,Dodge,Fremont - 4D,NA,President,REP,Donald J. Trump,455
+20,Dodge,Fremont - 4E,NA,President,REP,Donald J. Trump,163
+21,Dodge,City of North Bend,NA,President,REP,Donald J. Trump,327
+22,Dodge,City of Scribner,NA,President,REP,Donald J. Trump,299
+23,Dodge,CU/EV,NA,President,REP,Donald J. Trump,171
+24,Dodge,Webster Township,NA,President,REP,Donald J. Trump,298
+25,Dodge,Pebble Township,NA,President,REP,Donald J. Trump,166
+26,Dodge,Platte East,NA,President,REP,Donald J. Trump,149
+27,Dodge,Platte West,NA,President,REP,Donald J. Trump,371
+28,Dodge,Nickerson Township,NA,President,REP,Donald J. Trump,292
+29,Dodge,City of Hooper,NA,President,REP,Donald J. Trump,238
+30,Dodge,HW/LG,NA,President,REP,Donald J. Trump,294
+31,Dodge,Elkhorn Township,NA,President,REP,Donald J. Trump,124
+32,Dodge,CT/UN,NA,President,REP,Donald J. Trump,360
+33,Dodge,New/Former Resident,NA,President,REP,Donald J. Trump,0
+34,Dodge,ABSENTEE,NA,President,REP,Donald J. Trump,1411
+35,Dodge,TOTALS,NA,President,REP,Donald J. Trump,9933
+36,Dodge,Fremont - 1A,NA,President,DEM,Hillary Clinton,167
+37,Dodge,Fremont - 1B,NA,President,DEM,Hillary Clinton,156
+38,Dodge,Fremont - 1C,NA,President,DEM,Hillary Clinton,181
+39,Dodge,Fremont - 1D,NA,President,DEM,Hillary Clinton,75
+40,Dodge,Fremont - 1E,NA,President,DEM,Hillary Clinton,182
+41,Dodge,Fremont - 2A,NA,President,DEM,Hillary Clinton,121
+42,Dodge,Fremont - 2B,NA,President,DEM,Hillary Clinton,98
+43,Dodge,Fremont - 2C,NA,President,DEM,Hillary Clinton,180
+44,Dodge,Fremont - 2D,NA,President,DEM,Hillary Clinton,63
+45,Dodge,Fremont - 2E,NA,President,DEM,Hillary Clinton,115
+46,Dodge,Fremont - 3A,NA,President,DEM,Hillary Clinton,87
+47,Dodge,Fremont - 3B,NA,President,DEM,Hillary Clinton,59
+48,Dodge,Fremont - 3C,NA,President,DEM,Hillary Clinton,99
+49,Dodge,Fremont - 3D,NA,President,DEM,Hillary Clinton,154
+50,Dodge,Fremont - 3E,NA,President,DEM,Hillary Clinton,113
+51,Dodge,Fremont - 4A,NA,President,DEM,Hillary Clinton,127
+52,Dodge,Fremont - 4B,NA,President,DEM,Hillary Clinton,93
+53,Dodge,Fremont - 4C,NA,President,DEM,Hillary Clinton,201
+54,Dodge,Fremont - 4D,NA,President,DEM,Hillary Clinton,192
+55,Dodge,Fremont - 4E,NA,President,DEM,Hillary Clinton,75
+56,Dodge,City of North Bend,NA,President,DEM,Hillary Clinton,108
+57,Dodge,City of Scribner,NA,President,DEM,Hillary Clinton,58
+58,Dodge,CU/EV,NA,President,DEM,Hillary Clinton,37
+59,Dodge,Webster Township,NA,President,DEM,Hillary Clinton,64
+60,Dodge,Pebble Township,NA,President,DEM,Hillary Clinton,23
+61,Dodge,Platte East,NA,President,DEM,Hillary Clinton,59
+62,Dodge,Platte West,NA,President,DEM,Hillary Clinton,100
+63,Dodge,Nickerson Township,NA,President,DEM,Hillary Clinton,93
+64,Dodge,City of Hooper,NA,President,DEM,Hillary Clinton,89
+65,Dodge,HW/LG,NA,President,DEM,Hillary Clinton,55
+66,Dodge,Elkhorn Township,NA,President,DEM,Hillary Clinton,36
+67,Dodge,CT/UN,NA,President,DEM,Hillary Clinton,71
+68,Dodge,New/Former Resident,NA,President,DEM,Hillary Clinton,0
+69,Dodge,ABSENTEE,NA,President,DEM,Hillary Clinton,1213
+70,Dodge,TOTALS,NA,President,DEM,Hillary Clinton,4544
+71,Dodge,Fremont - 1A,NA,President,LIB,Gary Johnson,26
+72,Dodge,Fremont - 1B,NA,President,LIB,Gary Johnson,32
+73,Dodge,Fremont - 1C,NA,President,LIB,Gary Johnson,18
+74,Dodge,Fremont - 1D,NA,President,LIB,Gary Johnson,8
+75,Dodge,Fremont - 1E,NA,President,LIB,Gary Johnson,10
+76,Dodge,Fremont - 2A,NA,President,LIB,Gary Johnson,14
+77,Dodge,Fremont - 2B,NA,President,LIB,Gary Johnson,17
+78,Dodge,Fremont - 2C,NA,President,LIB,Gary Johnson,38
+79,Dodge,Fremont - 2D,NA,President,LIB,Gary Johnson,12
+80,Dodge,Fremont - 2E,NA,President,LIB,Gary Johnson,18
+81,Dodge,Fremont - 3A,NA,President,LIB,Gary Johnson,18
+82,Dodge,Fremont - 3B,NA,President,LIB,Gary Johnson,7
+83,Dodge,Fremont - 3C,NA,President,LIB,Gary Johnson,15
+84,Dodge,Fremont - 3D,NA,President,LIB,Gary Johnson,15
+85,Dodge,Fremont - 3E,NA,President,LIB,Gary Johnson,17
+86,Dodge,Fremont - 4A,NA,President,LIB,Gary Johnson,30
+87,Dodge,Fremont - 4B,NA,President,LIB,Gary Johnson,15
+88,Dodge,Fremont - 4C,NA,President,LIB,Gary Johnson,30
+89,Dodge,Fremont - 4D,NA,President,LIB,Gary Johnson,27
+90,Dodge,Fremont - 4E,NA,President,LIB,Gary Johnson,14
+91,Dodge,City of North Bend,NA,President,LIB,Gary Johnson,24
+92,Dodge,City of Scribner,NA,President,LIB,Gary Johnson,16
+93,Dodge,CU/EV,NA,President,LIB,Gary Johnson,10
+94,Dodge,Webster Township,NA,President,LIB,Gary Johnson,6
+95,Dodge,Pebble Township,NA,President,LIB,Gary Johnson,12
+96,Dodge,Platte East,NA,President,LIB,Gary Johnson,6
+97,Dodge,Platte West,NA,President,LIB,Gary Johnson,12
+98,Dodge,Nickerson Township,NA,President,LIB,Gary Johnson,15
+99,Dodge,City of Hooper,NA,President,LIB,Gary Johnson,15
+100,Dodge,HW/LG,NA,President,LIB,Gary Johnson,19
+101,Dodge,Elkhorn Township,NA,President,LIB,Gary Johnson,7
+102,Dodge,CT/UN,NA,President,LIB,Gary Johnson,17
+103,Dodge,New/Former Resident,NA,President,LIB,Gary Johnson,0
+104,Dodge,ABSENTEE,NA,President,LIB,Gary Johnson,84
+105,Dodge,TOTALS,NA,President,LIB,Gary Johnson,624
+106,Dodge,Fremont - 1A,NA,President,,Jill Stein,7
+107,Dodge,Fremont - 1B,NA,President,,Jill Stein,2
+108,Dodge,Fremont - 1C,NA,President,,Jill Stein,3
+109,Dodge,Fremont - 1D,NA,President,,Jill Stein,6
+110,Dodge,Fremont - 1E,NA,President,,Jill Stein,5
+111,Dodge,Fremont - 2A,NA,President,,Jill Stein,11
+112,Dodge,Fremont - 2B,NA,President,,Jill Stein,2
+113,Dodge,Fremont - 2C,NA,President,,Jill Stein,5
+114,Dodge,Fremont - 2D,NA,President,,Jill Stein,3
+115,Dodge,Fremont - 2E,NA,President,,Jill Stein,5
+116,Dodge,Fremont - 3A,NA,President,,Jill Stein,2
+117,Dodge,Fremont - 3B,NA,President,,Jill Stein,3
+118,Dodge,Fremont - 3C,NA,President,,Jill Stein,7
+119,Dodge,Fremont - 3D,NA,President,,Jill Stein,6
+120,Dodge,Fremont - 3E,NA,President,,Jill Stein,8
+121,Dodge,Fremont - 4A,NA,President,,Jill Stein,6
+122,Dodge,Fremont - 4B,NA,President,,Jill Stein,7
+123,Dodge,Fremont - 4C,NA,President,,Jill Stein,4
+124,Dodge,Fremont - 4D,NA,President,,Jill Stein,3
+125,Dodge,Fremont - 4E,NA,President,,Jill Stein,3
+126,Dodge,City of North Bend,NA,President,,Jill Stein,4
+127,Dodge,City of Scribner,NA,President,,Jill Stein,3
+128,Dodge,CU/EV,NA,President,,Jill Stein,3
+129,Dodge,Webster Township,NA,President,,Jill Stein,0
+130,Dodge,Pebble Township,NA,President,,Jill Stein,2
+131,Dodge,Platte East,NA,President,,Jill Stein,1
+132,Dodge,Platte West,NA,President,,Jill Stein,4
+133,Dodge,Nickerson Township,NA,President,,Jill Stein,5
+134,Dodge,City of Hooper,NA,President,,Jill Stein,2
+135,Dodge,HW/LG,NA,President,,Jill Stein,6
+136,Dodge,Elkhorn Township,NA,President,,Jill Stein,0
+137,Dodge,CT/UN,NA,President,,Jill Stein,2
+138,Dodge,New/Former Resident,NA,President,,Jill Stein,0
+139,Dodge,ABSENTEE,NA,President,,Jill Stein,32
+140,Dodge,TOTALS,NA,President,,Jill Stein,162
+141,Dodge,Fremont - 1A,NA,President,,Write-ins,11
+142,Dodge,Fremont - 1B,NA,President,,Write-ins,9
+143,Dodge,Fremont - 1C,NA,President,,Write-ins,20
+144,Dodge,Fremont - 1D,NA,President,,Write-ins,5
+145,Dodge,Fremont - 1E,NA,President,,Write-ins,14
+146,Dodge,Fremont - 2A,NA,President,,Write-ins,5
+147,Dodge,Fremont - 2B,NA,President,,Write-ins,9
+148,Dodge,Fremont - 2C,NA,President,,Write-ins,7
+149,Dodge,Fremont - 2D,NA,President,,Write-ins,6
+150,Dodge,Fremont - 2E,NA,President,,Write-ins,7
+151,Dodge,Fremont - 3A,NA,President,,Write-ins,12
+152,Dodge,Fremont - 3B,NA,President,,Write-ins,1
+153,Dodge,Fremont - 3C,NA,President,,Write-ins,3
+154,Dodge,Fremont - 3D,NA,President,,Write-ins,6
+155,Dodge,Fremont - 3E,NA,President,,Write-ins,8
+156,Dodge,Fremont - 4A,NA,President,,Write-ins,5
+157,Dodge,Fremont - 4B,NA,President,,Write-ins,8
+158,Dodge,Fremont - 4C,NA,President,,Write-ins,13
+159,Dodge,Fremont - 4D,NA,President,,Write-ins,12
+160,Dodge,Fremont - 4E,NA,President,,Write-ins,6
+161,Dodge,City of North Bend,NA,President,,Write-ins,10
+162,Dodge,City of Scribner,NA,President,,Write-ins,6
+163,Dodge,CU/EV,NA,President,,Write-ins,2
+164,Dodge,Webster Township,NA,President,,Write-ins,2
+165,Dodge,Pebble Township,NA,President,,Write-ins,3
+166,Dodge,Platte East,NA,President,,Write-ins,4
+167,Dodge,Platte West,NA,President,,Write-ins,12
+168,Dodge,Nickerson Township,NA,President,,Write-ins,2
+169,Dodge,City of Hooper,NA,President,,Write-ins,2
+170,Dodge,HW/LG,NA,President,,Write-ins,3
+171,Dodge,Elkhorn Township,NA,President,,Write-ins,0
+172,Dodge,CT/UN,NA,President,,Write-ins,8
+173,Dodge,New/Former Resident,NA,President,,Write-ins,0
+174,Dodge,ABSENTEE,NA,President,,Write-ins,45
+175,Dodge,TOTALS,NA,President,,Write-ins,266
+176,Dodge,Fremont - 1A,1,U.S. House,REP,Jeff Fortenberry,425
+177,Dodge,Fremont - 1B,1,U.S. House,REP,Jeff Fortenberry,357
+178,Dodge,Fremont - 1C,1,U.S. House,REP,Jeff Fortenberry,546
+179,Dodge,Fremont - 1D,1,U.S. House,REP,Jeff Fortenberry,218
+180,Dodge,Fremont - 1E,1,U.S. House,REP,Jeff Fortenberry,412
+181,Dodge,Fremont - 2A,1,U.S. House,REP,Jeff Fortenberry,276
+182,Dodge,Fremont - 2B,1,U.S. House,REP,Jeff Fortenberry,255
+183,Dodge,Fremont - 2C,1,U.S. House,REP,Jeff Fortenberry,539
+184,Dodge,Fremont - 2D,1,U.S. House,REP,Jeff Fortenberry,182
+185,Dodge,Fremont - 2E,1,U.S. House,REP,Jeff Fortenberry,350
+186,Dodge,Fremont - 3A,1,U.S. House,REP,Jeff Fortenberry,192
+187,Dodge,Fremont - 3B,1,U.S. House,REP,Jeff Fortenberry,88
+188,Dodge,Fremont - 3C,1,U.S. House,REP,Jeff Fortenberry,191
+189,Dodge,Fremont - 3D,1,U.S. House,REP,Jeff Fortenberry,324
+190,Dodge,Fremont - 3E,1,U.S. House,REP,Jeff Fortenberry,270
+191,Dodge,Fremont - 4A,1,U.S. House,REP,Jeff Fortenberry,356
+192,Dodge,Fremont - 4B,1,U.S. House,REP,Jeff Fortenberry,221
+193,Dodge,Fremont - 4C,1,U.S. House,REP,Jeff Fortenberry,495
+194,Dodge,Fremont - 4D,1,U.S. House,REP,Jeff Fortenberry,561
+195,Dodge,Fremont - 4E,1,U.S. House,REP,Jeff Fortenberry,184
+196,Dodge,City of North Bend,1,U.S. House,REP,Jeff Fortenberry,376
+197,Dodge,City of Scribner,1,U.S. House,REP,Jeff Fortenberry,330
+198,Dodge,CU/EV,1,U.S. House,REP,Jeff Fortenberry,186
+199,Dodge,Webster Township,1,U.S. House,REP,Jeff Fortenberry,289
+200,Dodge,Pebble Township,1,U.S. House,REP,Jeff Fortenberry,178
+201,Dodge,Platte East,1,U.S. House,REP,Jeff Fortenberry,158
+202,Dodge,Platte West,1,U.S. House,REP,Jeff Fortenberry,394
+203,Dodge,Nickerson Township,1,U.S. House,REP,Jeff Fortenberry,314
+204,Dodge,City of Hooper,1,U.S. House,REP,Jeff Fortenberry,271
+205,Dodge,HW/LG,1,U.S. House,REP,Jeff Fortenberry,320
+206,Dodge,Elkhorn Township,1,U.S. House,REP,Jeff Fortenberry,130
+207,Dodge,CT/UN,1,U.S. House,REP,Jeff Fortenberry,380
+208,Dodge,New/Former Resident,1,U.S. House,REP,Jeff Fortenberry,NA
+209,Dodge,ABSENTEE,1,U.S. House,REP,Jeff Fortenberry,1713
+210,Dodge,TOTALS,1,U.S. House,REP,Jeff Fortenberry,11481
+211,Dodge,Fremont - 1A,1,U.S. House,DEM,Daniel M. Wik,115
+212,Dodge,Fremont - 1B,1,U.S. House,DEM,Daniel M. Wik,112
+213,Dodge,Fremont - 1C,1,U.S. House,DEM,Daniel M. Wik,117
+214,Dodge,Fremont - 1D,1,U.S. House,DEM,Daniel M. Wik,52
+215,Dodge,Fremont - 1E,1,U.S. House,DEM,Daniel M. Wik,114
+216,Dodge,Fremont - 2A,1,U.S. House,DEM,Daniel M. Wik,99
+217,Dodge,Fremont - 2B,1,U.S. House,DEM,Daniel M. Wik,76
+218,Dodge,Fremont - 2C,1,U.S. House,DEM,Daniel M. Wik,134
+219,Dodge,Fremont - 2D,1,U.S. House,DEM,Daniel M. Wik,52
+220,Dodge,Fremont - 2E,1,U.S. House,DEM,Daniel M. Wik,89
+221,Dodge,Fremont - 3A,1,U.S. House,DEM,Daniel M. Wik,69
+222,Dodge,Fremont - 3B,1,U.S. House,DEM,Daniel M. Wik,59
+223,Dodge,Fremont - 3C,1,U.S. House,DEM,Daniel M. Wik,94
+224,Dodge,Fremont - 3D,1,U.S. House,DEM,Daniel M. Wik,111
+225,Dodge,Fremont - 3E,1,U.S. House,DEM,Daniel M. Wik,93
+226,Dodge,Fremont - 4A,1,U.S. House,DEM,Daniel M. Wik,100
+227,Dodge,Fremont - 4B,1,U.S. House,DEM,Daniel M. Wik,81
+228,Dodge,Fremont - 4C,1,U.S. House,DEM,Daniel M. Wik,139
+229,Dodge,Fremont - 4D,1,U.S. House,DEM,Daniel M. Wik,111
+230,Dodge,Fremont - 4E,1,U.S. House,DEM,Daniel M. Wik,64
+231,Dodge,City of North Bend,1,U.S. House,DEM,Daniel M. Wik,78
+232,Dodge,City of Scribner,1,U.S. House,DEM,Daniel M. Wik,43
+233,Dodge,CU/EV,1,U.S. House,DEM,Daniel M. Wik,25
+234,Dodge,Webster Township,1,U.S. House,DEM,Daniel M. Wik,60
+235,Dodge,Pebble Township,1,U.S. House,DEM,Daniel M. Wik,20
+236,Dodge,Platte East,1,U.S. House,DEM,Daniel M. Wik,50
+237,Dodge,Platte West,1,U.S. House,DEM,Daniel M. Wik,87
+238,Dodge,Nickerson Township,1,U.S. House,DEM,Daniel M. Wik,81
+239,Dodge,City of Hooper,1,U.S. House,DEM,Daniel M. Wik,69
+240,Dodge,HW/LG,1,U.S. House,DEM,Daniel M. Wik,42
+241,Dodge,Elkhorn Township,1,U.S. House,DEM,Daniel M. Wik,30
+242,Dodge,CT/UN,1,U.S. House,DEM,Daniel M. Wik,63
+243,Dodge,New/Former Resident,1,U.S. House,DEM,Daniel M. Wik,NA
+244,Dodge,ABSENTEE,1,U.S. House,DEM,Daniel M. Wik,959
+245,Dodge,TOTALS,1,U.S. House,DEM,Daniel M. Wik,3488
+246,Dodge,Fremont - 1A,1,U.S. House,,Write-ins,0
+247,Dodge,Fremont - 1B,1,U.S. House,,Write-ins,0
+248,Dodge,Fremont - 1C,1,U.S. House,,Write-ins,2
+249,Dodge,Fremont - 1D,1,U.S. House,,Write-ins,1
+250,Dodge,Fremont - 1E,1,U.S. House,,Write-ins,2
+251,Dodge,Fremont - 2A,1,U.S. House,,Write-ins,0
+252,Dodge,Fremont - 2B,1,U.S. House,,Write-ins,0
+253,Dodge,Fremont - 2C,1,U.S. House,,Write-ins,4
+254,Dodge,Fremont - 2D,1,U.S. House,,Write-ins,1
+255,Dodge,Fremont - 2E,1,U.S. House,,Write-ins,3
+256,Dodge,Fremont - 3A,1,U.S. House,,Write-ins,0
+257,Dodge,Fremont - 3B,1,U.S. House,,Write-ins,1
+258,Dodge,Fremont - 3C,1,U.S. House,,Write-ins,0
+259,Dodge,Fremont - 3D,1,U.S. House,,Write-ins,1
+260,Dodge,Fremont - 3E,1,U.S. House,,Write-ins,0
+261,Dodge,Fremont - 4A,1,U.S. House,,Write-ins,3
+262,Dodge,Fremont - 4B,1,U.S. House,,Write-ins,1
+263,Dodge,Fremont - 4C,1,U.S. House,,Write-ins,1
+264,Dodge,Fremont - 4D,1,U.S. House,,Write-ins,1
+265,Dodge,Fremont - 4E,1,U.S. House,,Write-ins,0
+266,Dodge,City of North Bend,1,U.S. House,,Write-ins,0
+267,Dodge,City of Scribner,1,U.S. House,,Write-ins,0
+268,Dodge,CU/EV,1,U.S. House,,Write-ins,0
+269,Dodge,Webster Township,1,U.S. House,,Write-ins,1
+270,Dodge,Pebble Township,1,U.S. House,,Write-ins,1
+271,Dodge,Platte East,1,U.S. House,,Write-ins,0
+272,Dodge,Platte West,1,U.S. House,,Write-ins,3
+273,Dodge,Nickerson Township,1,U.S. House,,Write-ins,0
+274,Dodge,City of Hooper,1,U.S. House,,Write-ins,1
+275,Dodge,HW/LG,1,U.S. House,,Write-ins,1
+276,Dodge,Elkhorn Township,1,U.S. House,,Write-ins,0
+277,Dodge,CT/UN,1,U.S. House,,Write-ins,0
+278,Dodge,New/Former Resident,1,U.S. House,,Write-ins,NA
+279,Dodge,ABSENTEE,1,U.S. House,,Write-ins,6
+280,Dodge,TOTALS,1,U.S. House,,Write-ins,34
+281,Dodge,Fremont - 1A,15,State Legislature,,David A. Schnoor,269
+282,Dodge,Fremont - 1B,15,State Legislature,,David A. Schnoor,178
+283,Dodge,Fremont - 1C,15,State Legislature,,David A. Schnoor,347
+284,Dodge,Fremont - 1D,15,State Legislature,,David A. Schnoor,118
+285,Dodge,Fremont - 1E,15,State Legislature,,David A. Schnoor,249
+286,Dodge,Fremont - 2A,15,State Legislature,,David A. Schnoor,152
+287,Dodge,Fremont - 2B,15,State Legislature,,David A. Schnoor,115
+288,Dodge,Fremont - 2C,15,State Legislature,,David A. Schnoor,294
+289,Dodge,Fremont - 2D,15,State Legislature,,David A. Schnoor,123
+290,Dodge,Fremont - 2E,15,State Legislature,,David A. Schnoor,196
+291,Dodge,Fremont - 3A,15,State Legislature,,David A. Schnoor,115
+292,Dodge,Fremont - 3B,15,State Legislature,,David A. Schnoor,66
+293,Dodge,Fremont - 3C,15,State Legislature,,David A. Schnoor,120
+294,Dodge,Fremont - 3D,15,State Legislature,,David A. Schnoor,229
+295,Dodge,Fremont - 3E,15,State Legislature,,David A. Schnoor,169
+296,Dodge,Fremont - 4A,15,State Legislature,,David A. Schnoor,192
+297,Dodge,Fremont - 4B,15,State Legislature,,David A. Schnoor,134
+298,Dodge,Fremont - 4C,15,State Legislature,,David A. Schnoor,276
+299,Dodge,Fremont - 4D,15,State Legislature,,David A. Schnoor,278
+300,Dodge,Fremont - 4E,15,State Legislature,,David A. Schnoor,107
+301,Dodge,City of North Bend,15,State Legislature,,David A. Schnoor,258
+302,Dodge,City of Scribner,15,State Legislature,,David A. Schnoor,298
+303,Dodge,CU/EV,15,State Legislature,,David A. Schnoor,146
+304,Dodge,Webster Township,15,State Legislature,,David A. Schnoor,201
+305,Dodge,Pebble Township,15,State Legislature,,David A. Schnoor,124
+306,Dodge,Platte East,15,State Legislature,,David A. Schnoor,98
+307,Dodge,Platte West,15,State Legislature,,David A. Schnoor,237
+308,Dodge,Nickerson Township,15,State Legislature,,David A. Schnoor,193
+309,Dodge,City of Hooper,15,State Legislature,,David A. Schnoor,199
+310,Dodge,HW/LG,15,State Legislature,,David A. Schnoor,215
+311,Dodge,Elkhorn Township,15,State Legislature,,David A. Schnoor,73
+312,Dodge,CT/UN,15,State Legislature,,David A. Schnoor,283
+313,Dodge,New/Former Resident,15,State Legislature,,David A. Schnoor,NA
+314,Dodge,ABSENTEE,15,State Legislature,,David A. Schnoor,1137
+315,Dodge,TOTALS,15,State Legislature,,David A. Schnoor,7189
+316,Dodge,Fremont - 1A,15,State Legislature,,Lynne M. Walz,273
+317,Dodge,Fremont - 1B,15,State Legislature,,Lynne M. Walz,290
+318,Dodge,Fremont - 1C,15,State Legislature,,Lynne M. Walz,319
+319,Dodge,Fremont - 1D,15,State Legislature,,Lynne M. Walz,154
+320,Dodge,Fremont - 1E,15,State Legislature,,Lynne M. Walz,286
+321,Dodge,Fremont - 2A,15,State Legislature,,Lynne M. Walz,220
+322,Dodge,Fremont - 2B,15,State Legislature,,Lynne M. Walz,206
+323,Dodge,Fremont - 2C,15,State Legislature,,Lynne M. Walz,382
+324,Dodge,Fremont - 2D,15,State Legislature,,Lynne M. Walz,110
+325,Dodge,Fremont - 2E,15,State Legislature,,Lynne M. Walz,236
+326,Dodge,Fremont - 3A,15,State Legislature,,Lynne M. Walz,145
+327,Dodge,Fremont - 3B,15,State Legislature,,Lynne M. Walz,73
+328,Dodge,Fremont - 3C,15,State Legislature,,Lynne M. Walz,157
+329,Dodge,Fremont - 3D,15,State Legislature,,Lynne M. Walz,200
+330,Dodge,Fremont - 3E,15,State Legislature,,Lynne M. Walz,186
+331,Dodge,Fremont - 4A,15,State Legislature,,Lynne M. Walz,262
+332,Dodge,Fremont - 4B,15,State Legislature,,Lynne M. Walz,175
+333,Dodge,Fremont - 4C,15,State Legislature,,Lynne M. Walz,349
+334,Dodge,Fremont - 4D,15,State Legislature,,Lynne M. Walz,396
+335,Dodge,Fremont - 4E,15,State Legislature,,Lynne M. Walz,135
+336,Dodge,City of North Bend,15,State Legislature,,Lynne M. Walz,188
+337,Dodge,City of Scribner,15,State Legislature,,Lynne M. Walz,88
+338,Dodge,CU/EV,15,State Legislature,,Lynne M. Walz,69
+339,Dodge,Webster Township,15,State Legislature,,Lynne M. Walz,156
+340,Dodge,Pebble Township,15,State Legislature,,Lynne M. Walz,77
+341,Dodge,Platte East,15,State Legislature,,Lynne M. Walz,104
+342,Dodge,Platte West,15,State Legislature,,Lynne M. Walz,227
+343,Dodge,Nickerson Township,15,State Legislature,,Lynne M. Walz,189
+344,Dodge,City of Hooper,15,State Legislature,,Lynne M. Walz,140
+345,Dodge,HW/LG,15,State Legislature,,Lynne M. Walz,137
+346,Dodge,Elkhorn Township,15,State Legislature,,Lynne M. Walz,83
+347,Dodge,CT/UN,15,State Legislature,,Lynne M. Walz,148
+348,Dodge,New/Former Resident,15,State Legislature,,Lynne M. Walz,NA
+349,Dodge,ABSENTEE,15,State Legislature,,Lynne M. Walz,1441
+350,Dodge,TOTALS,15,State Legislature,,Lynne M. Walz,7601
+351,Dodge,Fremont - 1A,15,State Legislature,,Write-ins,0
+352,Dodge,Fremont - 1B,15,State Legislature,,Write-ins,1
+353,Dodge,Fremont - 1C,15,State Legislature,,Write-ins,1
+354,Dodge,Fremont - 1D,15,State Legislature,,Write-ins,0
+355,Dodge,Fremont - 1E,15,State Legislature,,Write-ins,1
+356,Dodge,Fremont - 2A,15,State Legislature,,Write-ins,0
+357,Dodge,Fremont - 2B,15,State Legislature,,Write-ins,2
+358,Dodge,Fremont - 2C,15,State Legislature,,Write-ins,2
+359,Dodge,Fremont - 2D,15,State Legislature,,Write-ins,1
+360,Dodge,Fremont - 2E,15,State Legislature,,Write-ins,2
+361,Dodge,Fremont - 3A,15,State Legislature,,Write-ins,1
+362,Dodge,Fremont - 3B,15,State Legislature,,Write-ins,2
+363,Dodge,Fremont - 3C,15,State Legislature,,Write-ins,0
+364,Dodge,Fremont - 3D,15,State Legislature,,Write-ins,2
+365,Dodge,Fremont - 3E,15,State Legislature,,Write-ins,0
+366,Dodge,Fremont - 4A,15,State Legislature,,Write-ins,1
+367,Dodge,Fremont - 4B,15,State Legislature,,Write-ins,0
+368,Dodge,Fremont - 4C,15,State Legislature,,Write-ins,3
+369,Dodge,Fremont - 4D,15,State Legislature,,Write-ins,0
+370,Dodge,Fremont - 4E,15,State Legislature,,Write-ins,0
+371,Dodge,City of North Bend,15,State Legislature,,Write-ins,1
+372,Dodge,City of Scribner,15,State Legislature,,Write-ins,0
+373,Dodge,CU/EV,15,State Legislature,,Write-ins,0
+374,Dodge,Webster Township,15,State Legislature,,Write-ins,0
+375,Dodge,Pebble Township,15,State Legislature,,Write-ins,0
+376,Dodge,Platte East,15,State Legislature,,Write-ins,0
+377,Dodge,Platte West,15,State Legislature,,Write-ins,2
+378,Dodge,Nickerson Township,15,State Legislature,,Write-ins,0
+379,Dodge,City of Hooper,15,State Legislature,,Write-ins,0
+380,Dodge,HW/LG,15,State Legislature,,Write-ins,1
+381,Dodge,Elkhorn Township,15,State Legislature,,Write-ins,0
+382,Dodge,CT/UN,15,State Legislature,,Write-ins,1
+383,Dodge,New/Former Resident,15,State Legislature,,Write-ins,NA
+384,Dodge,ABSENTEE,15,State Legislature,,Write-ins,8
+385,Dodge,TOTALS,15,State Legislature,,Write-ins,32

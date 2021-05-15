@@ -1,221 +1,221 @@
-"","county","precinct","district","office","party","candidate","votes"
-"1","Wheeler","Bartlett","","President","REP","Donald J. Trump",271
-"2","Wheeler","Ericson","","President","REP","Donald J. Trump",106
-"3","Wheeler","Bartlett","","President","DEM","Hillary Clinton",36
-"4","Wheeler","Ericson","","President","DEM","Hillary Clinton",26
-"5","Wheeler","Bartlett","","President","LIB","Johnson/Weld",13
-"6","Wheeler","Ericson","","President","LIB","Johnson/Weld",4
-"7","Wheeler","Bartlett","","President","PET","Jill Stein",4
-"8","Wheeler","Ericson","","President","PET","Jill Stein",0
-"9","Wheeler","Bartlett","","President","NON","Write-ins",4
-"10","Wheeler","Ericson","","President","NON","Write-ins",1
-"11","Wheeler","Bartlett","3","U.S. House","REP","Adrian Smith",292
-"12","Wheeler","Ericson","3","U.S. House","REP","Adrian Smith",114
-"13","Wheeler","Bartlett","3","U.S. House","NON","Write-ins",2
-"14","Wheeler","Ericson","3","U.S. House","NON","Write-ins",1
-"15","Wheeler","Bartlett","","Public Service Commissioner","NON","Rod Johnson",241
-"16","Wheeler","Ericson","","Public Service Commissioner","NON","Rod Johnson",105
-"17","Wheeler","Bartlett","","Public Service Commissioner","NON","Write-ins",0
-"18","Wheeler","Ericson","","Public Service Commissioner","NON","Write-ins",0
-"19","Wheeler","Bartlett","","County Commissioner","NON","Jesse Plugge",149
-"20","Wheeler","Ericson","","County Commissioner","NON","Jesse Plugge",73
-"21","Wheeler","Bartlett","","County Commissioner","NON","Jim Hoerle",168
-"22","Wheeler","Ericson","","County Commissioner","NON","Jim Hoerle",60
-"23","Wheeler","Bartlett","","County Commissioner","NON","Write-ins",0
-"24","Wheeler","Ericson","","County Commissioner","NON","Write-ins",0
-"25","Wheeler","Bartlett","41","Legislature","NON","Tom Briese",236
-"26","Wheeler","Ericson","41","Legislature","NON","Tom Briese",92
-"27","Wheeler","Bartlett","41","Legislature","NON","Write-ins",0
-"28","Wheeler","Ericson","41","Legislature","NON","Write-ins",0
-"29","Wheeler","Bartlett","6","University of Nebraska Board of Regents","NON","Marsha E. Fangmeyer",73
-"30","Wheeler","Ericson","6","University of Nebraska Board of Regents","NON","Marsha E. Fangmeyer",22
-"31","Wheeler","Bartlett","6","University of Nebraska Board of Regents","NON","Paul Kenney",139
-"32","Wheeler","Ericson","6","University of Nebraska Board of Regents","NON","Paul Kenney",65
-"33","Wheeler","Bartlett","6","University of Nebraska Board of Regents","NON","Write-ins",1
-"34","Wheeler","Ericson","6","University of Nebraska Board of Regents","NON","Write-ins",0
-"35","Wheeler","Bartlett","","Retain Chief Justice of the Supreme Court Michael Heavican","NON","Yes",156
-"36","Wheeler","Ericson","","Retain Chief Justice of the Supreme Court Michael Heavican","NON","Yes",59
-"37","Wheeler","Bartlett","","Retain Chief Justice of the Supreme Court Michael Heavican","NON","No",65
-"38","Wheeler","Ericson","","Retain Chief Justice of the Supreme Court Michael Heavican","NON","No",38
-"39","Wheeler","Bartlett","","Retain William B. Cassel","NON","Yes",158
-"40","Wheeler","Ericson","","Retain William B. Cassel","NON","Yes",61
-"41","Wheeler","Bartlett","","Retain William B. Cassel","NON","No",57
-"42","Wheeler","Ericson","","Retain William B. Cassel","NON","No",31
-"43","Wheeler","Bartlett","","Retain Francie Riedmann Weis","NON","Yes",137
-"44","Wheeler","Ericson","","Retain Francie Riedmann Weis","NON","Yes",52
-"45","Wheeler","Bartlett","","Retain Francie Riedmann Weis","NON","No",64
-"46","Wheeler","Ericson","","Retain Francie Riedmann Weis","NON","No",38
-"47","Wheeler","Bartlett","","Retain Nebraska Workers' Compensation Court Judge Daniel R. Fridrich","NON","Yes",144
-"48","Wheeler","Ericson","","Retain Nebraska Workers' Compensation Court Judge Daniel R. Fridrich","NON","Yes",53
-"49","Wheeler","Bartlett","","Retain Nebraska Workers' Compensation Court Judge Daniel R. Fridrich","NON","No",59
-"50","Wheeler","Ericson","","Retain Nebraska Workers' Compensation Court Judge Daniel R. Fridrich","NON","No",36
-"51","Wheeler","Bartlett","","Retain Nebraska Workers' Compensation Court Judge John R. Hoffert","NON","Yes",151
-"52","Wheeler","Ericson","","Retain Nebraska Workers' Compensation Court Judge John R. Hoffert","NON","Yes",56
-"53","Wheeler","Bartlett","","Retain Nebraska Workers' Compensation Court Judge John R. Hoffert","NON","No",54
-"54","Wheeler","Ericson","","Retain Nebraska Workers' Compensation Court Judge John R. Hoffert","NON","No",28
-"55","Wheeler","Bartlett","","Retain Nebraska Workers' Compensation Court Judge James R. Coe","NON","Yes",147
-"56","Wheeler","Ericson","","Retain Nebraska Workers' Compensation Court Judge James R. Coe","NON","Yes",55
-"57","Wheeler","Bartlett","","Retain Nebraska Workers' Compensation Court Judge James R. Coe","NON","No",55
-"58","Wheeler","Ericson","","Retain Nebraska Workers' Compensation Court Judge James R. Coe","NON","No",27
-"59","Wheeler","Bartlett","","Retain Karin Noakes","NON","Yes",143
-"60","Wheeler","Ericson","","Retain Karin Noakes","NON","Yes",54
-"61","Wheeler","Bartlett","","Retain Karin Noakes","NON","No",63
-"62","Wheeler","Ericson","","Retain Karin Noakes","NON","No",34
-"63","Wheeler","Bartlett","","Retain Tami K. Schendt","NON","Yes",143
-"64","Wheeler","Ericson","","Retain Tami K. Schendt","NON","Yes",55
-"65","Wheeler","Bartlett","","Retain Tami K. Schendt","NON","No",59
-"66","Wheeler","Ericson","","Retain Tami K. Schendt","NON","No",31
-"67","Wheeler","Bartlett","1","Northeast Community College Board","NON","Shirley J. Petsche",203
-"68","Wheeler","Ericson","1","Northeast Community College Board","NON","Shirley J. Petsche",83
-"69","Wheeler","Bartlett","1","Northeast Community College Board","NON","Write-ins",1
-"70","Wheeler","Ericson","1","Northeast Community College Board","NON","Write-ins",0
-"71","Wheeler","Bartlett","At-large","Northeast Community College Board","NON","Ted Hillman",97
-"72","Wheeler","Ericson","At-large","Northeast Community College Board","NON","Ted Hillman",40
-"73","Wheeler","Bartlett","At-large","Northeast Community College Board","NON","Jeffrey M. Scherer",89
-"74","Wheeler","Ericson","At-large","Northeast Community College Board","NON","Jeffrey M. Scherer",39
-"75","Wheeler","Bartlett","At-large","Northeast Community College Board","NON","Write-ins",0
-"76","Wheeler","Ericson","At-large","Northeast Community College Board","NON","Write-ins",0
-"77","Wheeler","Bartlett","2","Lower Loup Natural Resources District","NON","Alan D. Petersen",166
-"78","Wheeler","Ericson","2","Lower Loup Natural Resources District","NON","Alan D. Petersen",89
-"79","Wheeler","Bartlett","2","Lower Loup Natural Resources District","NON","Write-ins",6
-"80","Wheeler","Ericson","2","Lower Loup Natural Resources District","NON","Write-ins",7
-"81","Wheeler","Bartlett","6","Lower Loup Natural Resources District","NON","Write-ins",54
-"82","Wheeler","Ericson","6","Lower Loup Natural Resources District","NON","Write-ins",29
-"83","Wheeler","Bartlett","1","Upper Elkhorn Natural Resources District","NON","Roy Stewart",48
-"84","Wheeler","Ericson","1","Upper Elkhorn Natural Resources District","NON","Roy Stewart",0
-"85","Wheeler","Bartlett","1","Upper Elkhorn Natural Resources District","NON","Write-ins",0
-"86","Wheeler","Ericson","1","Upper Elkhorn Natural Resources District","NON","Write-ins",0
-"87","Wheeler","Bartlett","2","Upper Elkhorn Natural Resources District","NON","Curtis Gotschall",51
-"88","Wheeler","Ericson","2","Upper Elkhorn Natural Resources District","NON","Curtis Gotschall",0
-"89","Wheeler","Bartlett","2","Upper Elkhorn Natural Resources District","NON","Write-ins",0
-"90","Wheeler","Ericson","2","Upper Elkhorn Natural Resources District","NON","Write-ins",0
-"91","Wheeler","Bartlett","3","Upper Elkhorn Natural Resources District","NON","Gene Kelly",53
-"92","Wheeler","Ericson","3","Upper Elkhorn Natural Resources District","NON","Gene Kelly",0
-"93","Wheeler","Bartlett","3","Upper Elkhorn Natural Resources District","NON","Write-ins",0
-"94","Wheeler","Ericson","3","Upper Elkhorn Natural Resources District","NON","Write-ins",0
-"95","Wheeler","Bartlett","4","Upper Elkhorn Natural Resources District","NON","Gary L. Bartak",58
-"96","Wheeler","Ericson","4","Upper Elkhorn Natural Resources District","NON","Gary L. Bartak",0
-"97","Wheeler","Bartlett","4","Upper Elkhorn Natural Resources District","NON","Write-ins",0
-"98","Wheeler","Ericson","4","Upper Elkhorn Natural Resources District","NON","Write-ins",0
-"99","Wheeler","Bartlett","5","Upper Elkhorn Natural Resources District","NON","Mark Carpenter",17
-"100","Wheeler","Ericson","5","Upper Elkhorn Natural Resources District","NON","Mark Carpenter",0
-"101","Wheeler","Bartlett","5","Upper Elkhorn Natural Resources District","NON","Issac Wright",35
-"102","Wheeler","Ericson","5","Upper Elkhorn Natural Resources District","NON","Issac Wright",0
-"103","Wheeler","Bartlett","5","Upper Elkhorn Natural Resources District","NON","Write-ins",0
-"104","Wheeler","Ericson","5","Upper Elkhorn Natural Resources District","NON","Write-ins",0
-"105","Wheeler","Bartlett","6","Upper Elkhorn Natural Resources District","NON","Ted D. Hughes",48
-"106","Wheeler","Ericson","6","Upper Elkhorn Natural Resources District","NON","Ted D. Hughes",0
-"107","Wheeler","Bartlett","6","Upper Elkhorn Natural Resources District","NON","Write-ins",0
-"108","Wheeler","Ericson","6","Upper Elkhorn Natural Resources District","NON","Write-ins",0
-"109","Wheeler","Bartlett","7","Upper Elkhorn Natural Resources District","NON","Mark Schrage",29
-"110","Wheeler","Ericson","7","Upper Elkhorn Natural Resources District","NON","Mark Schrage",0
-"111","Wheeler","Bartlett","7","Upper Elkhorn Natural Resources District","NON","Keith Heithoff",26
-"112","Wheeler","Ericson","7","Upper Elkhorn Natural Resources District","NON","Keith Heithoff",0
-"113","Wheeler","Bartlett","7","Upper Elkhorn Natural Resources District","NON","Write-ins",0
-"114","Wheeler","Ericson","7","Upper Elkhorn Natural Resources District","NON","Write-ins",0
-"115","Wheeler","Bartlett","1","Cornhusker Public Power District Board","NON","William J. Robinson",36
-"116","Wheeler","Ericson","1","Cornhusker Public Power District Board","NON","William J. Robinson",0
-"117","Wheeler","Bartlett","1","Cornhusker Public Power District Board","NON","Write-ins",0
-"118","Wheeler","Ericson","1","Cornhusker Public Power District Board","NON","Write-ins",0
-"119","Wheeler","Bartlett","3","Elkhorn Rural Public Power District","NON","Joseph G. Thiele",63
-"120","Wheeler","Ericson","3","Elkhorn Rural Public Power District","NON","Joseph G. Thiele",0
-"121","Wheeler","Bartlett","3","Elkhorn Rural Public Power District","NON","Write-ins",0
-"122","Wheeler","Ericson","3","Elkhorn Rural Public Power District","NON","Write-ins",0
-"123","Wheeler","Bartlett","6-year term","Loup Valley Rural Public Power District","NON","Larry O. White",60
-"124","Wheeler","Ericson","6-year term","Loup Valley Rural Public Power District","NON","Larry O. White",65
-"125","Wheeler","Bartlett","6-year term","Loup Valley Rural Public Power District","NON","Andrew Augustyn",47
-"126","Wheeler","Ericson","6-year term","Loup Valley Rural Public Power District","NON","Andrew Augustyn",44
-"127","Wheeler","Bartlett","6-year term","Loup Valley Rural Public Power District","NON","Michael Cruikshank",65
-"128","Wheeler","Ericson","6-year term","Loup Valley Rural Public Power District","NON","Michael Cruikshank",47
-"129","Wheeler","Bartlett","6-year term","Loup Valley Rural Public Power District","NON","Randy Wadas",61
-"130","Wheeler","Ericson","6-year term","Loup Valley Rural Public Power District","NON","Randy Wadas",62
-"131","Wheeler","Bartlett","6-year term","Loup Valley Rural Public Power District","NON","Write-ins",1
-"132","Wheeler","Ericson","6-year term","Loup Valley Rural Public Power District","NON","Write-ins",2
-"133","Wheeler","Bartlett","4-year term","Loup Valley Rural Public Power District","NON","Marvin A. Scheideler",33
-"134","Wheeler","Ericson","4-year term","Loup Valley Rural Public Power District","NON","Marvin A. Scheideler",31
-"135","Wheeler","Bartlett","4-year term","Loup Valley Rural Public Power District","NON","Ricky S. Koch",23
-"136","Wheeler","Ericson","4-year term","Loup Valley Rural Public Power District","NON","Ricky S. Koch",18
-"137","Wheeler","Bartlett","4-year term","Loup Valley Rural Public Power District","NON","Cody E. Freouf",51
-"138","Wheeler","Ericson","4-year term","Loup Valley Rural Public Power District","NON","Cody E. Freouf",62
-"139","Wheeler","Bartlett","4-year term","Loup Valley Rural Public Power District","NON","Write-ins",1
-"140","Wheeler","Ericson","4-year term","Loup Valley Rural Public Power District","NON","Write-ins",1
-"141","Wheeler","Bartlett","","Educational Service Unit 8 Board","NON","Tim Lambert",238
-"142","Wheeler","Ericson","","Educational Service Unit 8 Board","NON","Tim Lambert",87
-"143","Wheeler","Bartlett","","Educational Service Unit 8 Board","NON","Write-ins",0
-"144","Wheeler","Ericson","","Educational Service Unit 8 Board","NON","Write-ins",0
-"145","Wheeler","Bartlett","2","Wheeler Central School Board","NON","Dennis Derner",123
-"146","Wheeler","Ericson","2","Wheeler Central School Board","NON","Dennis Derner",50
-"147","Wheeler","Bartlett","2","Wheeler Central School Board","NON","Jerilee Wright",235
-"148","Wheeler","Ericson","2","Wheeler Central School Board","NON","Jerilee Wright",109
-"149","Wheeler","Bartlett","2","Wheeler Central School Board","NON","Write-ins",17
-"150","Wheeler","Ericson","2","Wheeler Central School Board","NON","Write-ins",13
-"151","Wheeler","Bartlett","3","Wheeler Central School Board","NON","Adam Freouf",246
-"152","Wheeler","Ericson","3","Wheeler Central School Board","NON","Adam Freouf",115
-"153","Wheeler","Bartlett","3","Wheeler Central School Board","NON","Write-ins",4
-"154","Wheeler","Ericson","3","Wheeler Central School Board","NON","Write-ins",4
-"155","Wheeler","Bartlett","4-year term","Elgin Public School Board","NON","Stanley Heithoff",4
-"156","Wheeler","Ericson","4-year term","Elgin Public School Board","NON","Stanley Heithoff",0
-"157","Wheeler","Bartlett","4-year term","Elgin Public School Board","NON","Steve Busteed",8
-"158","Wheeler","Ericson","4-year term","Elgin Public School Board","NON","Steve Busteed",0
-"159","Wheeler","Bartlett","4-year term","Elgin Public School Board","NON","Michael Braband",2
-"160","Wheeler","Ericson","4-year term","Elgin Public School Board","NON","Michael Braband",0
-"161","Wheeler","Bartlett","4-year term","Elgin Public School Board","NON","Douglas Jones",6
-"162","Wheeler","Ericson","4-year term","Elgin Public School Board","NON","Douglas Jones",0
-"163","Wheeler","Bartlett","4-year term","Elgin Public School Board","NON","Write-ins",0
-"164","Wheeler","Ericson","4-year term","Elgin Public School Board","NON","Write-ins",0
-"165","Wheeler","Bartlett","2-year term","Elgin Public School Board","NON","Lisa Welding",8
-"166","Wheeler","Ericson","2-year term","Elgin Public School Board","NON","Lisa Welding",0
-"167","Wheeler","Bartlett","2-year term","Elgin Public School Board","NON","Write-ins",0
-"168","Wheeler","Ericson","2-year term","Elgin Public School Board","NON","Write-ins",0
-"169","Wheeler","Bartlett","4-year term","Clearwater School Board","NON","Patti Behnk",2
-"170","Wheeler","Ericson","4-year term","Clearwater School Board","NON","Patti Behnk",0
-"171","Wheeler","Bartlett","4-year term","Clearwater School Board","NON","Jarrod Long",0
-"172","Wheeler","Ericson","4-year term","Clearwater School Board","NON","Jarrod Long",0
-"173","Wheeler","Bartlett","4-year term","Clearwater School Board","NON","Marty J. Kerkman",2
-"174","Wheeler","Ericson","4-year term","Clearwater School Board","NON","Marty J. Kerkman",0
-"175","Wheeler","Bartlett","4-year term","Clearwater School Board","NON","Michael Klabenes",0
-"176","Wheeler","Ericson","4-year term","Clearwater School Board","NON","Michael Klabenes",0
-"177","Wheeler","Bartlett","4-year term","Clearwater School Board","NON","Amy Thiele",2
-"178","Wheeler","Ericson","4-year term","Clearwater School Board","NON","Amy Thiele",0
-"179","Wheeler","Bartlett","4-year term","Clearwater School Board","NON","Brian King",0
-"180","Wheeler","Ericson","4-year term","Clearwater School Board","NON","Brian King",0
-"181","Wheeler","Bartlett","4-year term","Clearwater School Board","NON","Write-ins",0
-"182","Wheeler","Ericson","4-year term","Clearwater School Board","NON","Write-ins",0
-"183","Wheeler","Bartlett","2-year term","Clearwater School Board","NON","Tom Thiele",2
-"184","Wheeler","Ericson","2-year term","Clearwater School Board","NON","Tom Thiele",0
-"185","Wheeler","Bartlett","2-year term","Clearwater School Board","NON","Write-ins",0
-"186","Wheeler","Ericson","2-year term","Clearwater School Board","NON","Write-ins",0
-"187","Wheeler","Bartlett","","Ewing School Board","NON","Pete Funk",13
-"188","Wheeler","Ericson","","Ewing School Board","NON","Pete Funk",0
-"189","Wheeler","Bartlett","","Ewing School Board","NON","LeRoy M. Napier",7
-"190","Wheeler","Ericson","","Ewing School Board","NON","LeRoy M. Napier",0
-"191","Wheeler","Bartlett","","Ewing School Board","NON","Mark P. Ramold",11
-"192","Wheeler","Ericson","","Ewing School Board","NON","Mark P. Ramold",0
-"193","Wheeler","Bartlett","","Ewing School Board","NON","Ed Nordby",16
-"194","Wheeler","Ericson","","Ewing School Board","NON","Ed Nordby",0
-"195","Wheeler","Bartlett","","Ewing School Board","NON","Write-ins",0
-"196","Wheeler","Ericson","","Ewing School Board","NON","Write-ins",0
-"197","Wheeler","Bartlett","4-year term","Chambers School Board","NON","Lenone F. Koenig ",1
-"198","Wheeler","Ericson","4-year term","Chambers School Board","NON","Lenone F. Koenig ",0
-"199","Wheeler","Bartlett","4-year term","Chambers School Board","NON","Brian McManigal",1
-"200","Wheeler","Ericson","4-year term","Chambers School Board","NON","Brian McManigal",0
-"201","Wheeler","Bartlett","4-year term","Chambers School Board","NON","Write-ins",0
-"202","Wheeler","Ericson","4-year term","Chambers School Board","NON","Write-ins",0
-"203","Wheeler","Bartlett","2-year term","Chambers School Board","NON","Matt Ehlers",1
-"204","Wheeler","Ericson","2-year term","Chambers School Board","NON","Matt Ehlers",0
-"205","Wheeler","Bartlett","2-year term","Chambers School Board","NON","Write-ins",0
-"206","Wheeler","Ericson","2-year term","Chambers School Board","NON","Write-ins",0
-"207","Wheeler","Bartlett","","Bartlett Village Board","NON","Letti Nichols ",58
-"208","Wheeler","Ericson","","Bartlett Village Board","NON","Letti Nichols ",0
-"209","Wheeler","Bartlett","","Bartlett Village Board","NON","Paul Nordhues ",63
-"210","Wheeler","Ericson","","Bartlett Village Board","NON","Paul Nordhues ",0
-"211","Wheeler","Bartlett","","Bartlett Village Board","NON","Write-ins",0
-"212","Wheeler","Ericson","","Bartlett Village Board","NON","Write-ins",0
-"213","Wheeler","Bartlett","","Ericson Village Board","NON","Duane Waddle ",0
-"214","Wheeler","Ericson","","Ericson Village Board","NON","Duane Waddle ",31
-"215","Wheeler","Bartlett","","Ericson Village Board","NON","Jerry B. Horwart ",0
-"216","Wheeler","Ericson","","Ericson Village Board","NON","Jerry B. Horwart ",30
-"217","Wheeler","Bartlett","","Ericson Village Board","NON","William Curry ",0
-"218","Wheeler","Ericson","","Ericson Village Board","NON","William Curry ",49
-"219","Wheeler","Bartlett","","Ericson Village Board","NON","Write-ins",0
-"220","Wheeler","Ericson","","Ericson Village Board","NON","Write-ins",5
+,county,precinct,district,office,party,candidate,votes
+1,Wheeler,Bartlett,,President,REP,Donald J. Trump,271
+2,Wheeler,Ericson,,President,REP,Donald J. Trump,106
+3,Wheeler,Bartlett,,President,DEM,Hillary Clinton,36
+4,Wheeler,Ericson,,President,DEM,Hillary Clinton,26
+5,Wheeler,Bartlett,,President,LIB,Johnson/Weld,13
+6,Wheeler,Ericson,,President,LIB,Johnson/Weld,4
+7,Wheeler,Bartlett,,President,PET,Jill Stein,4
+8,Wheeler,Ericson,,President,PET,Jill Stein,0
+9,Wheeler,Bartlett,,President,NON,Write-ins,4
+10,Wheeler,Ericson,,President,NON,Write-ins,1
+11,Wheeler,Bartlett,3,U.S. House,REP,Adrian Smith,292
+12,Wheeler,Ericson,3,U.S. House,REP,Adrian Smith,114
+13,Wheeler,Bartlett,3,U.S. House,NON,Write-ins,2
+14,Wheeler,Ericson,3,U.S. House,NON,Write-ins,1
+15,Wheeler,Bartlett,,Public Service Commissioner,NON,Rod Johnson,241
+16,Wheeler,Ericson,,Public Service Commissioner,NON,Rod Johnson,105
+17,Wheeler,Bartlett,,Public Service Commissioner,NON,Write-ins,0
+18,Wheeler,Ericson,,Public Service Commissioner,NON,Write-ins,0
+19,Wheeler,Bartlett,,County Commissioner,NON,Jesse Plugge,149
+20,Wheeler,Ericson,,County Commissioner,NON,Jesse Plugge,73
+21,Wheeler,Bartlett,,County Commissioner,NON,Jim Hoerle,168
+22,Wheeler,Ericson,,County Commissioner,NON,Jim Hoerle,60
+23,Wheeler,Bartlett,,County Commissioner,NON,Write-ins,0
+24,Wheeler,Ericson,,County Commissioner,NON,Write-ins,0
+25,Wheeler,Bartlett,41,Legislature,NON,Tom Briese,236
+26,Wheeler,Ericson,41,Legislature,NON,Tom Briese,92
+27,Wheeler,Bartlett,41,Legislature,NON,Write-ins,0
+28,Wheeler,Ericson,41,Legislature,NON,Write-ins,0
+29,Wheeler,Bartlett,6,University of Nebraska Board of Regents,NON,Marsha E. Fangmeyer,73
+30,Wheeler,Ericson,6,University of Nebraska Board of Regents,NON,Marsha E. Fangmeyer,22
+31,Wheeler,Bartlett,6,University of Nebraska Board of Regents,NON,Paul Kenney,139
+32,Wheeler,Ericson,6,University of Nebraska Board of Regents,NON,Paul Kenney,65
+33,Wheeler,Bartlett,6,University of Nebraska Board of Regents,NON,Write-ins,1
+34,Wheeler,Ericson,6,University of Nebraska Board of Regents,NON,Write-ins,0
+35,Wheeler,Bartlett,,Retain Chief Justice of the Supreme Court Michael Heavican,NON,Yes,156
+36,Wheeler,Ericson,,Retain Chief Justice of the Supreme Court Michael Heavican,NON,Yes,59
+37,Wheeler,Bartlett,,Retain Chief Justice of the Supreme Court Michael Heavican,NON,No,65
+38,Wheeler,Ericson,,Retain Chief Justice of the Supreme Court Michael Heavican,NON,No,38
+39,Wheeler,Bartlett,,Retain William B. Cassel,NON,Yes,158
+40,Wheeler,Ericson,,Retain William B. Cassel,NON,Yes,61
+41,Wheeler,Bartlett,,Retain William B. Cassel,NON,No,57
+42,Wheeler,Ericson,,Retain William B. Cassel,NON,No,31
+43,Wheeler,Bartlett,,Retain Francie Riedmann Weis,NON,Yes,137
+44,Wheeler,Ericson,,Retain Francie Riedmann Weis,NON,Yes,52
+45,Wheeler,Bartlett,,Retain Francie Riedmann Weis,NON,No,64
+46,Wheeler,Ericson,,Retain Francie Riedmann Weis,NON,No,38
+47,Wheeler,Bartlett,,Retain Nebraska Workers' Compensation Court Judge Daniel R. Fridrich,NON,Yes,144
+48,Wheeler,Ericson,,Retain Nebraska Workers' Compensation Court Judge Daniel R. Fridrich,NON,Yes,53
+49,Wheeler,Bartlett,,Retain Nebraska Workers' Compensation Court Judge Daniel R. Fridrich,NON,No,59
+50,Wheeler,Ericson,,Retain Nebraska Workers' Compensation Court Judge Daniel R. Fridrich,NON,No,36
+51,Wheeler,Bartlett,,Retain Nebraska Workers' Compensation Court Judge John R. Hoffert,NON,Yes,151
+52,Wheeler,Ericson,,Retain Nebraska Workers' Compensation Court Judge John R. Hoffert,NON,Yes,56
+53,Wheeler,Bartlett,,Retain Nebraska Workers' Compensation Court Judge John R. Hoffert,NON,No,54
+54,Wheeler,Ericson,,Retain Nebraska Workers' Compensation Court Judge John R. Hoffert,NON,No,28
+55,Wheeler,Bartlett,,Retain Nebraska Workers' Compensation Court Judge James R. Coe,NON,Yes,147
+56,Wheeler,Ericson,,Retain Nebraska Workers' Compensation Court Judge James R. Coe,NON,Yes,55
+57,Wheeler,Bartlett,,Retain Nebraska Workers' Compensation Court Judge James R. Coe,NON,No,55
+58,Wheeler,Ericson,,Retain Nebraska Workers' Compensation Court Judge James R. Coe,NON,No,27
+59,Wheeler,Bartlett,,Retain Karin Noakes,NON,Yes,143
+60,Wheeler,Ericson,,Retain Karin Noakes,NON,Yes,54
+61,Wheeler,Bartlett,,Retain Karin Noakes,NON,No,63
+62,Wheeler,Ericson,,Retain Karin Noakes,NON,No,34
+63,Wheeler,Bartlett,,Retain Tami K. Schendt,NON,Yes,143
+64,Wheeler,Ericson,,Retain Tami K. Schendt,NON,Yes,55
+65,Wheeler,Bartlett,,Retain Tami K. Schendt,NON,No,59
+66,Wheeler,Ericson,,Retain Tami K. Schendt,NON,No,31
+67,Wheeler,Bartlett,1,Northeast Community College Board,NON,Shirley J. Petsche,203
+68,Wheeler,Ericson,1,Northeast Community College Board,NON,Shirley J. Petsche,83
+69,Wheeler,Bartlett,1,Northeast Community College Board,NON,Write-ins,1
+70,Wheeler,Ericson,1,Northeast Community College Board,NON,Write-ins,0
+71,Wheeler,Bartlett,At-large,Northeast Community College Board,NON,Ted Hillman,97
+72,Wheeler,Ericson,At-large,Northeast Community College Board,NON,Ted Hillman,40
+73,Wheeler,Bartlett,At-large,Northeast Community College Board,NON,Jeffrey M. Scherer,89
+74,Wheeler,Ericson,At-large,Northeast Community College Board,NON,Jeffrey M. Scherer,39
+75,Wheeler,Bartlett,At-large,Northeast Community College Board,NON,Write-ins,0
+76,Wheeler,Ericson,At-large,Northeast Community College Board,NON,Write-ins,0
+77,Wheeler,Bartlett,2,Lower Loup Natural Resources District,NON,Alan D. Petersen,166
+78,Wheeler,Ericson,2,Lower Loup Natural Resources District,NON,Alan D. Petersen,89
+79,Wheeler,Bartlett,2,Lower Loup Natural Resources District,NON,Write-ins,6
+80,Wheeler,Ericson,2,Lower Loup Natural Resources District,NON,Write-ins,7
+81,Wheeler,Bartlett,6,Lower Loup Natural Resources District,NON,Write-ins,54
+82,Wheeler,Ericson,6,Lower Loup Natural Resources District,NON,Write-ins,29
+83,Wheeler,Bartlett,1,Upper Elkhorn Natural Resources District,NON,Roy Stewart,48
+84,Wheeler,Ericson,1,Upper Elkhorn Natural Resources District,NON,Roy Stewart,0
+85,Wheeler,Bartlett,1,Upper Elkhorn Natural Resources District,NON,Write-ins,0
+86,Wheeler,Ericson,1,Upper Elkhorn Natural Resources District,NON,Write-ins,0
+87,Wheeler,Bartlett,2,Upper Elkhorn Natural Resources District,NON,Curtis Gotschall,51
+88,Wheeler,Ericson,2,Upper Elkhorn Natural Resources District,NON,Curtis Gotschall,0
+89,Wheeler,Bartlett,2,Upper Elkhorn Natural Resources District,NON,Write-ins,0
+90,Wheeler,Ericson,2,Upper Elkhorn Natural Resources District,NON,Write-ins,0
+91,Wheeler,Bartlett,3,Upper Elkhorn Natural Resources District,NON,Gene Kelly,53
+92,Wheeler,Ericson,3,Upper Elkhorn Natural Resources District,NON,Gene Kelly,0
+93,Wheeler,Bartlett,3,Upper Elkhorn Natural Resources District,NON,Write-ins,0
+94,Wheeler,Ericson,3,Upper Elkhorn Natural Resources District,NON,Write-ins,0
+95,Wheeler,Bartlett,4,Upper Elkhorn Natural Resources District,NON,Gary L. Bartak,58
+96,Wheeler,Ericson,4,Upper Elkhorn Natural Resources District,NON,Gary L. Bartak,0
+97,Wheeler,Bartlett,4,Upper Elkhorn Natural Resources District,NON,Write-ins,0
+98,Wheeler,Ericson,4,Upper Elkhorn Natural Resources District,NON,Write-ins,0
+99,Wheeler,Bartlett,5,Upper Elkhorn Natural Resources District,NON,Mark Carpenter,17
+100,Wheeler,Ericson,5,Upper Elkhorn Natural Resources District,NON,Mark Carpenter,0
+101,Wheeler,Bartlett,5,Upper Elkhorn Natural Resources District,NON,Issac Wright,35
+102,Wheeler,Ericson,5,Upper Elkhorn Natural Resources District,NON,Issac Wright,0
+103,Wheeler,Bartlett,5,Upper Elkhorn Natural Resources District,NON,Write-ins,0
+104,Wheeler,Ericson,5,Upper Elkhorn Natural Resources District,NON,Write-ins,0
+105,Wheeler,Bartlett,6,Upper Elkhorn Natural Resources District,NON,Ted D. Hughes,48
+106,Wheeler,Ericson,6,Upper Elkhorn Natural Resources District,NON,Ted D. Hughes,0
+107,Wheeler,Bartlett,6,Upper Elkhorn Natural Resources District,NON,Write-ins,0
+108,Wheeler,Ericson,6,Upper Elkhorn Natural Resources District,NON,Write-ins,0
+109,Wheeler,Bartlett,7,Upper Elkhorn Natural Resources District,NON,Mark Schrage,29
+110,Wheeler,Ericson,7,Upper Elkhorn Natural Resources District,NON,Mark Schrage,0
+111,Wheeler,Bartlett,7,Upper Elkhorn Natural Resources District,NON,Keith Heithoff,26
+112,Wheeler,Ericson,7,Upper Elkhorn Natural Resources District,NON,Keith Heithoff,0
+113,Wheeler,Bartlett,7,Upper Elkhorn Natural Resources District,NON,Write-ins,0
+114,Wheeler,Ericson,7,Upper Elkhorn Natural Resources District,NON,Write-ins,0
+115,Wheeler,Bartlett,1,Cornhusker Public Power District Board,NON,William J. Robinson,36
+116,Wheeler,Ericson,1,Cornhusker Public Power District Board,NON,William J. Robinson,0
+117,Wheeler,Bartlett,1,Cornhusker Public Power District Board,NON,Write-ins,0
+118,Wheeler,Ericson,1,Cornhusker Public Power District Board,NON,Write-ins,0
+119,Wheeler,Bartlett,3,Elkhorn Rural Public Power District,NON,Joseph G. Thiele,63
+120,Wheeler,Ericson,3,Elkhorn Rural Public Power District,NON,Joseph G. Thiele,0
+121,Wheeler,Bartlett,3,Elkhorn Rural Public Power District,NON,Write-ins,0
+122,Wheeler,Ericson,3,Elkhorn Rural Public Power District,NON,Write-ins,0
+123,Wheeler,Bartlett,6-year term,Loup Valley Rural Public Power District,NON,Larry O. White,60
+124,Wheeler,Ericson,6-year term,Loup Valley Rural Public Power District,NON,Larry O. White,65
+125,Wheeler,Bartlett,6-year term,Loup Valley Rural Public Power District,NON,Andrew Augustyn,47
+126,Wheeler,Ericson,6-year term,Loup Valley Rural Public Power District,NON,Andrew Augustyn,44
+127,Wheeler,Bartlett,6-year term,Loup Valley Rural Public Power District,NON,Michael Cruikshank,65
+128,Wheeler,Ericson,6-year term,Loup Valley Rural Public Power District,NON,Michael Cruikshank,47
+129,Wheeler,Bartlett,6-year term,Loup Valley Rural Public Power District,NON,Randy Wadas,61
+130,Wheeler,Ericson,6-year term,Loup Valley Rural Public Power District,NON,Randy Wadas,62
+131,Wheeler,Bartlett,6-year term,Loup Valley Rural Public Power District,NON,Write-ins,1
+132,Wheeler,Ericson,6-year term,Loup Valley Rural Public Power District,NON,Write-ins,2
+133,Wheeler,Bartlett,4-year term,Loup Valley Rural Public Power District,NON,Marvin A. Scheideler,33
+134,Wheeler,Ericson,4-year term,Loup Valley Rural Public Power District,NON,Marvin A. Scheideler,31
+135,Wheeler,Bartlett,4-year term,Loup Valley Rural Public Power District,NON,Ricky S. Koch,23
+136,Wheeler,Ericson,4-year term,Loup Valley Rural Public Power District,NON,Ricky S. Koch,18
+137,Wheeler,Bartlett,4-year term,Loup Valley Rural Public Power District,NON,Cody E. Freouf,51
+138,Wheeler,Ericson,4-year term,Loup Valley Rural Public Power District,NON,Cody E. Freouf,62
+139,Wheeler,Bartlett,4-year term,Loup Valley Rural Public Power District,NON,Write-ins,1
+140,Wheeler,Ericson,4-year term,Loup Valley Rural Public Power District,NON,Write-ins,1
+141,Wheeler,Bartlett,,Educational Service Unit 8 Board,NON,Tim Lambert,238
+142,Wheeler,Ericson,,Educational Service Unit 8 Board,NON,Tim Lambert,87
+143,Wheeler,Bartlett,,Educational Service Unit 8 Board,NON,Write-ins,0
+144,Wheeler,Ericson,,Educational Service Unit 8 Board,NON,Write-ins,0
+145,Wheeler,Bartlett,2,Wheeler Central School Board,NON,Dennis Derner,123
+146,Wheeler,Ericson,2,Wheeler Central School Board,NON,Dennis Derner,50
+147,Wheeler,Bartlett,2,Wheeler Central School Board,NON,Jerilee Wright,235
+148,Wheeler,Ericson,2,Wheeler Central School Board,NON,Jerilee Wright,109
+149,Wheeler,Bartlett,2,Wheeler Central School Board,NON,Write-ins,17
+150,Wheeler,Ericson,2,Wheeler Central School Board,NON,Write-ins,13
+151,Wheeler,Bartlett,3,Wheeler Central School Board,NON,Adam Freouf,246
+152,Wheeler,Ericson,3,Wheeler Central School Board,NON,Adam Freouf,115
+153,Wheeler,Bartlett,3,Wheeler Central School Board,NON,Write-ins,4
+154,Wheeler,Ericson,3,Wheeler Central School Board,NON,Write-ins,4
+155,Wheeler,Bartlett,4-year term,Elgin Public School Board,NON,Stanley Heithoff,4
+156,Wheeler,Ericson,4-year term,Elgin Public School Board,NON,Stanley Heithoff,0
+157,Wheeler,Bartlett,4-year term,Elgin Public School Board,NON,Steve Busteed,8
+158,Wheeler,Ericson,4-year term,Elgin Public School Board,NON,Steve Busteed,0
+159,Wheeler,Bartlett,4-year term,Elgin Public School Board,NON,Michael Braband,2
+160,Wheeler,Ericson,4-year term,Elgin Public School Board,NON,Michael Braband,0
+161,Wheeler,Bartlett,4-year term,Elgin Public School Board,NON,Douglas Jones,6
+162,Wheeler,Ericson,4-year term,Elgin Public School Board,NON,Douglas Jones,0
+163,Wheeler,Bartlett,4-year term,Elgin Public School Board,NON,Write-ins,0
+164,Wheeler,Ericson,4-year term,Elgin Public School Board,NON,Write-ins,0
+165,Wheeler,Bartlett,2-year term,Elgin Public School Board,NON,Lisa Welding,8
+166,Wheeler,Ericson,2-year term,Elgin Public School Board,NON,Lisa Welding,0
+167,Wheeler,Bartlett,2-year term,Elgin Public School Board,NON,Write-ins,0
+168,Wheeler,Ericson,2-year term,Elgin Public School Board,NON,Write-ins,0
+169,Wheeler,Bartlett,4-year term,Clearwater School Board,NON,Patti Behnk,2
+170,Wheeler,Ericson,4-year term,Clearwater School Board,NON,Patti Behnk,0
+171,Wheeler,Bartlett,4-year term,Clearwater School Board,NON,Jarrod Long,0
+172,Wheeler,Ericson,4-year term,Clearwater School Board,NON,Jarrod Long,0
+173,Wheeler,Bartlett,4-year term,Clearwater School Board,NON,Marty J. Kerkman,2
+174,Wheeler,Ericson,4-year term,Clearwater School Board,NON,Marty J. Kerkman,0
+175,Wheeler,Bartlett,4-year term,Clearwater School Board,NON,Michael Klabenes,0
+176,Wheeler,Ericson,4-year term,Clearwater School Board,NON,Michael Klabenes,0
+177,Wheeler,Bartlett,4-year term,Clearwater School Board,NON,Amy Thiele,2
+178,Wheeler,Ericson,4-year term,Clearwater School Board,NON,Amy Thiele,0
+179,Wheeler,Bartlett,4-year term,Clearwater School Board,NON,Brian King,0
+180,Wheeler,Ericson,4-year term,Clearwater School Board,NON,Brian King,0
+181,Wheeler,Bartlett,4-year term,Clearwater School Board,NON,Write-ins,0
+182,Wheeler,Ericson,4-year term,Clearwater School Board,NON,Write-ins,0
+183,Wheeler,Bartlett,2-year term,Clearwater School Board,NON,Tom Thiele,2
+184,Wheeler,Ericson,2-year term,Clearwater School Board,NON,Tom Thiele,0
+185,Wheeler,Bartlett,2-year term,Clearwater School Board,NON,Write-ins,0
+186,Wheeler,Ericson,2-year term,Clearwater School Board,NON,Write-ins,0
+187,Wheeler,Bartlett,,Ewing School Board,NON,Pete Funk,13
+188,Wheeler,Ericson,,Ewing School Board,NON,Pete Funk,0
+189,Wheeler,Bartlett,,Ewing School Board,NON,LeRoy M. Napier,7
+190,Wheeler,Ericson,,Ewing School Board,NON,LeRoy M. Napier,0
+191,Wheeler,Bartlett,,Ewing School Board,NON,Mark P. Ramold,11
+192,Wheeler,Ericson,,Ewing School Board,NON,Mark P. Ramold,0
+193,Wheeler,Bartlett,,Ewing School Board,NON,Ed Nordby,16
+194,Wheeler,Ericson,,Ewing School Board,NON,Ed Nordby,0
+195,Wheeler,Bartlett,,Ewing School Board,NON,Write-ins,0
+196,Wheeler,Ericson,,Ewing School Board,NON,Write-ins,0
+197,Wheeler,Bartlett,4-year term,Chambers School Board,NON,Lenone F. Koenig,1
+198,Wheeler,Ericson,4-year term,Chambers School Board,NON,Lenone F. Koenig,0
+199,Wheeler,Bartlett,4-year term,Chambers School Board,NON,Brian McManigal,1
+200,Wheeler,Ericson,4-year term,Chambers School Board,NON,Brian McManigal,0
+201,Wheeler,Bartlett,4-year term,Chambers School Board,NON,Write-ins,0
+202,Wheeler,Ericson,4-year term,Chambers School Board,NON,Write-ins,0
+203,Wheeler,Bartlett,2-year term,Chambers School Board,NON,Matt Ehlers,1
+204,Wheeler,Ericson,2-year term,Chambers School Board,NON,Matt Ehlers,0
+205,Wheeler,Bartlett,2-year term,Chambers School Board,NON,Write-ins,0
+206,Wheeler,Ericson,2-year term,Chambers School Board,NON,Write-ins,0
+207,Wheeler,Bartlett,,Bartlett Village Board,NON,Letti Nichols,58
+208,Wheeler,Ericson,,Bartlett Village Board,NON,Letti Nichols,0
+209,Wheeler,Bartlett,,Bartlett Village Board,NON,Paul Nordhues,63
+210,Wheeler,Ericson,,Bartlett Village Board,NON,Paul Nordhues,0
+211,Wheeler,Bartlett,,Bartlett Village Board,NON,Write-ins,0
+212,Wheeler,Ericson,,Bartlett Village Board,NON,Write-ins,0
+213,Wheeler,Bartlett,,Ericson Village Board,NON,Duane Waddle,0
+214,Wheeler,Ericson,,Ericson Village Board,NON,Duane Waddle,31
+215,Wheeler,Bartlett,,Ericson Village Board,NON,Jerry B. Horwart,0
+216,Wheeler,Ericson,,Ericson Village Board,NON,Jerry B. Horwart,30
+217,Wheeler,Bartlett,,Ericson Village Board,NON,William Curry,0
+218,Wheeler,Ericson,,Ericson Village Board,NON,William Curry,49
+219,Wheeler,Bartlett,,Ericson Village Board,NON,Write-ins,0
+220,Wheeler,Ericson,,Ericson Village Board,NON,Write-ins,5

@@ -1,4 +1,4 @@
-# openelections-data-ne
+# openelections-data-ne [![Build Status](https://github.com/openelections/openelections-data-ne/actions/workflows/format_tests.yml/badge.svg?branch=master)](https://github.com/openelections/openelections-data-ne/actions)
 Raw election results for Nebraska elections.
 
 ## Clarify scraper
